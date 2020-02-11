@@ -1,0 +1,354 @@
+index,state,year,name,county,enroll,mmr,xmed,xper,xrel,lat,lng
+1,Maine,2018-19,Alexander Elementary,Washington,2,100,0,0,0,44.0846995,-70.2443651
+2,Maine,2018-19,Alton Elementary,Penobscot,4,100,0,0,0,44.0940739,-70.2067592
+3,Maine,2018-19,Andover Elementary,Oxford,5,100,0,0,0,44.295715,-70.118187
+4,Maine,2018-19,Appleton Village,Knox,17,100,0,0,0,44.2739501,-69.2709427
+5,Maine,2018-19,Atwood Primary,Kennebec,69,100,0,0,0,44.0642872,-70.3968232
+6,Maine,2018-19,Beals Elementary,Washington,6,100,0,0,0,44.127445,-70.2348642
+7,Maine,2018-19,Belgrade Central School Rsu 18,Kennebec,39,100,0,0,0,44.0777111,-70.2287629
+8,Maine,2018-19,Brixham Montessori Friends,York,9,100,0,11.11,0,46.6411387,-67.8994458
+9,Maine,2018-19,Calais Elementary,Washington,39,100,0,0,0,46.0565002,-67.8628845
+10,Maine,2018-19,Canaan Elementary,Somerset,29,100,0,3.45,0,47.1570355,-67.9353363
+11,Maine,2018-19,Cave Hill,Hancock,9,100,0,0,0,46.0868543,-68.1839619
+12,Maine,2018-19,Charlotte Elementary,Washington,2,100,0,0,0,43.5580344,-70.3649153
+13,Maine,2018-19,Cherryfield Elementary,Washington,8,100,0,0,0,43.9019418,-69.9747257
+14,Maine,2018-19,Children's House Montessori,Knox,6,100,0,0,0,43.6901508,-70.3614255
+15,Maine,2018-19,Cocoons Inc,York,5,100,0,0,0,43.7576926,-70.5231067
+16,Maine,2018-19,Corinna Elementary,Penobscot,30,100,0,0,0,43.7341181,-70.4335877
+17,Maine,2018-19,Cornville Regional Charter School - Ecc Campus,Somerset,12,100,0,0,0,43.8376959,-69.9149323
+18,Maine,2018-19,Daniel W. Merritt Elementary,Washington,16,100,0,0,0,43.672932,-70.2956651
+19,Maine,2018-19,Dawn F. Barnes,Aroostook,2,100,0,0,0,43.7081183,-70.2852408
+20,Maine,2018-19,Deer Isle Stonington Elementary,Hancock,26,100,0,0,0,43.8586071,-70.1067049
+21,Maine,2018-19,East Range Ii,Washington,1,100,0,0,0,43.9372719,-70.4448978
+22,Maine,2018-19,Easton Elementary,Aroostook,21,100,0,0,0,43.6501738,-70.2668315
+23,Maine,2018-19,Eastport Elementary,Washington,12,100,0,0,0,43.695713,-70.309789
+24,Maine,2018-19,Edmunds Consolidated,Washington,5,100,0,0,0,43.6257364,-70.3052714
+25,Maine,2018-19,Edna Drinkwater,Waldo,12,100,0,0,0,43.9589327,-70.5724334
+26,Maine,2018-19,Etna Dixmont,Penobscot,20,100,0,0,0,44.6109216,-70.0332911
+27,Maine,2018-19,Eustis School Department/Stratton,Franklin,13,100,0,0,0,45.1433653,-70.4338646
+28,Maine,2018-19,Forest Hills Consolidated,Somerset,13,100,0,0,0,44.6707642,-70.1470893
+29,Maine,2018-19,Fraser-Ford Child Development Center,York,1,100,0,0,0,43.360474,-70.7304088
+30,Maine,2018-19,G.D. Cushing,Franklin,40,100,0,2.5,0,44.6858598,-68.2869089
+31,Maine,2018-19,Georgetown Central,Sagadahoc,2,100,0,0,0,44.5493355,-68.4324797
+32,Maine,2018-19,Greene Central,Androscoggin,49,100,0,0,0,44.499241,-68.502453
+33,Maine,2018-19,Greenville Consolidated,Piscataquis,16,100,0,0,0,44.4031131,-68.5936819
+34,Maine,2018-19,Harmony Elementary,Somerset,4,100,0,0,0,44.5481387,-69.7214603
+35,Maine,2018-19,Hebron Station,Oxford,12,100,0,0,0,44.3072659,-69.7476777
+36,Maine,2018-19,Holy Cross,Cumberland,7,100,0,0,0,44.4410669,-69.7444673
+37,Maine,2018-19,Islesboro Central,Waldo,4,100,0,0,0,44.3207422,-69.7611404
+38,Maine,2018-19,Jonesboro Elementary,Washington,6,100,0,0,0,44.5530916,-69.6552606
+39,Maine,2018-19,Jonesport Elementary,Washington,8,100,0,0,0,44.4625439,-69.9721694
+40,Maine,2018-19,Kingman Elementary,Penobscot,7,100,0,0,0,44.4499153,-69.7038278
+41,Maine,2018-19,Lafayette,York,33,100,0,0,0,44.0733138,-69.0996722
+42,Maine,2018-19,Limestone Community,Aroostook,15,100,0,0,0,44.127725,-69.090083
+43,Maine,2018-19,Lubec Consolidated,Washington,6,100,0,0,0,43.9969995,-68.9242652
+44,Maine,2018-19,Lyman Elementary,York,39,100,0,0,0,43.4872474,-70.6356626
+45,Maine,2018-19,Madison Elementary,Somerset,47,100,0,0,0,43.9926929,-69.6372214
+46,Maine,2018-19,Margaret Murphy Center For Children,York,4,100,0,0,0,44.2229409,-69.6035391
+47,Maine,2018-19,Margaret Murphy Centers For Children- Charles St.,Androscoggin,1,100,0,0,0,44.042503,-69.533573
+48,Maine,2018-19,Monhegan Island,Lincoln,1,100,0,0,0,44.1223506,-70.9024767
+49,Maine,2018-19,Moscow Elementary,Somerset,11,100,0,0,0,43.8102013,-70.8674312
+50,Maine,2018-19,Msad #20 Fort Fairfield Elementary,Aroostook,27,100,0,0,0,45.0465341,-68.7344516
+51,Maine,2018-19,Msad#32 Ashland District,Aroostook,22,100,0,0,0,44.7769081,-68.7704572
+52,Maine,2018-19,Msad45 Washburn,Aroostook,17,100,0,0,0,45.01673,-69.0275963
+53,Maine,2018-19,Narragansett,Cumberland,47,100,0,2.13,0,44.839428,-68.820178
+54,Maine,2018-19,North Haven Community,Knox,6,100,0,0,0,44.7435564,-69.0977865
+55,Maine,2018-19,Opal Myrick Elementary,Penobscot,21,100,0,0,0,44.9160462,-68.8473111
+56,Maine,2018-19,Palermo Consolidated,Waldo,8,100,0,0,0,45.5508946,-68.1947404
+57,Maine,2018-19,Pathways Merrymeeting Center,Cumberland,1,100,0,0,0,44.8323536,-69.2657502
+58,Maine,2018-19,Pembroke Elementary,Washington,6,100,0,0,0,44.8205878,-68.8933542
+59,Maine,2018-19,Peninsula,Hancock,15,100,0,0,0,44.8332555,-68.7067375
+60,Maine,2018-19,Penobscot Community,Hancock,6,100,0,0,0,44.7948274,-68.7834494
+61,Maine,2018-19,Perry Elementary,Washington,9,100,0,0,0,45.3230777,-68.5806727
+62,Maine,2018-19,Pittston-Randolph Consolidated,Kennebec,29,100,0,0,0,44.0123419,-69.8953843
+63,Maine,2018-19,Riley,Knox,3,100,0,66.67,0,44.127725,-69.092277
+64,Maine,2018-19,Rose M Gaffney,Washington,39,100,0,0,0,45.7768799,-70.3419267
+65,Maine,2018-19,Rsu 24 Beech Hill,Hancock,7,100,0,0,0,44.7975466,-69.8797486
+66,Maine,2018-19,Seacoast Christian,York,7,100,0,0,0,44.3830556,-68.9786416
+67,Maine,2018-19,Sebago Elementary,Cumberland,17,100,0,0,0,44.2680548,-68.9185384
+68,Maine,2018-19,South Bristol,Lincoln,5,100,0,0,0,44.3969731,-69.3139384
+69,Maine,2018-19,Southport Central,Lincoln,2,100,0,0,0,45.0914775,-67.4772966
+70,Maine,2018-19,St. Brigid,Cumberland,12,100,0,0,0,45.1800587,-67.2840862
+71,Maine,2018-19,St. Johns Catholic,Cumberland,14,100,0,0,0,44.6216166,-67.6975822
+72,Maine,2018-19,St. Thomas,York,29,100,0,0,0,44.9080087,-66.9920456
+73,Maine,2018-19,Stevens Brook Elementary,Cumberland,38,100,0,0,0,44.7412076,-67.3904919
+74,Maine,2018-19,Strong Elementary,Franklin,12,100,0,8.33,0,44.6886328,-67.397753
+75,Maine,2018-19,The Bay,Hancock,5,100,0,40,0,44.855756,-66.9881825
+76,Maine,2018-19,Viola Rand Elementary,Penobscot,11,100,0,0,0,43.4620614,-70.7803859
+77,Maine,2018-19,Walker Elementary,Waldo,11,100,0,0,0,43.5453288,-70.5928413
+78,Maine,2018-19,Whiting Village,Washington,4,100,0,0,0,43.4872474,-70.6334686
+79,Maine,2018-19,Woodland Elementary,Washington,23,100,0,0,0,43.4906847,-70.4594253
+80,Maine,2018-19,Woodstock Elementary,Oxford,12,100,0,0,0,43.5863096,-70.7057421
+81,Maine,2018-19,Libby Tozier,Kennebec,163,99.39,0,0.61,0.61,44.1195246,-69.0997622
+82,Maine,2018-19,Eight Corners,Cumberland,78,98.72,0,1.28,0,43.912928,-69.9692219
+83,Maine,2018-19,Falmouth Elementary,Cumberland,147,98.64,0,1.36,0,44.8271,-70.3585
+84,Maine,2018-19,Dirigo Elementary,Oxford,66,98.48,0,3.03,0,43.6669744,-70.4593996
+85,Maine,2018-19,Msad15 Memorial,Cumberland,60,98.33,1.67,3.33,0,44.7270647,-68.81528
+86,Maine,2018-19,Farwell Elementary,Androscoggin,59,98.31,1.69,3.39,0,45.253783,-69.4454689
+87,Maine,2018-19,Coffin Elementary,Cumberland,169,98.22,0,2.96,0,43.618841,-70.349951
+88,Maine,2018-19,Brown Elementary,Cumberland,53,98.11,0,0,0,47.339233,-68.3399169
+89,Maine,2018-19,Farrington Elementary,Kennebec,51,98.04,0,1.96,0,44.971826,-70.653841
+90,Maine,2018-19,Durham Community,Androscoggin,50,98,2,2,0,43.7124892,-70.2304051
+91,Maine,2018-19,Miller,Lincoln,49,97.96,0,4.08,0,44.361488,-70.3845774
+92,Maine,2018-19,Lisbon Community,Androscoggin,92,97.83,0,3.26,0,44.048469,-68.8219096
+93,Maine,2018-19,Leroy Smith,Waldo,45,97.78,0,4.44,0,44.223881,-69.2235311
+94,Maine,2018-19,Park Avenue Elementary,Androscoggin,45,97.78,0,2.22,0,44.943117,-68.639657
+95,Maine,2018-19,Line Elementary,York,43,97.67,0,2.33,0,44.2111512,-69.2518846
+96,Maine,2018-19,Raymond Geiger Elementary,Androscoggin,84,97.62,0,2.38,0,44.923969,-69.672348
+97,Maine,2018-19,Village,Cumberland,84,97.62,1.19,3.57,0,43.231131,-70.8048054
+98,Maine,2018-19,Warren Community,Knox,40,97.5,0,2.5,0,44.1267919,-69.2416388
+99,Maine,2018-19,Msad15 K-4 Gray/New Gloucester,Cumberland,79,97.47,0,3.8,0,44.7952241,-69.0556742
+100,Maine,2018-19,Carmel Elementary,Penobscot,39,97.44,0,2.56,0,46.791238,-68.151101
+101,Maine,2018-19,Crescent Park,Oxford,38,97.37,0,2.63,0,43.621969,-70.2752402
+102,Maine,2018-19,Ella P. Burr Elementary,Penobscot,76,97.37,2.63,0,1.32,43.678259,-70.4366362
+103,Maine,2018-19,Central School So. Berwick Maine,York,75,97.33,0,6.67,0,43.6786327,-70.3168852
+104,Maine,2018-19,Asa Adams Elelemantary,Penobscot,37,97.3,0,2.7,0,44.0845416,-70.202627
+105,Maine,2018-19,Fruit Street,Penobscot,74,97.3,0,2.7,0,44.3905435,-68.7990301
+106,Maine,2018-19,Mount View Elementary,Waldo,37,97.3,0,2.7,0,44.1317459,-70.4931557
+107,Maine,2018-19,Enfield Station,Penobscot,36,97.22,0,2.78,0,43.796573,-70.2585205
+108,Maine,2018-19,Glenburn,Penobscot,36,97.22,0,5.56,0,44.2937284,-68.2922744
+109,Maine,2018-19,Chelsea Elementary,Kennebec,35,97.14,0,2.86,0,43.634787,-70.2487648
+110,Maine,2018-19,Sherwood Heights,Androscoggin,35,97.14,0,2.86,0,44.6143406,-69.0213959
+111,Maine,2018-19,Pleasant Hill,Cumberland,69,97.1,0,2.9,0,43.9220467,-69.8206151
+112,Maine,2018-19,Congin,Cumberland,68,97.06,0,1.47,0,43.7391893,-70.2744924
+113,Maine,2018-19,Fourteenth Street,Penobscot,34,97.06,0,2.94,0,44.414774,-68.5923807
+114,Maine,2018-19,Margaret Chase Smith,York,102,97.06,0,2.94,0,43.822942,-69.6761377
+115,Maine,2018-19,Gladys Weymouth,Waldo,33,96.97,0,0,0,44.4784774,-68.340725
+116,Maine,2018-19,Mapleton Elementary,Aroostook,33,96.97,0,6.06,0,43.6762192,-70.2957265
+117,Maine,2018-19,Martel Elementary,Androscoggin,33,96.97,0,3.03,0,44.3271418,-70.5694896
+118,Maine,2018-19,Rsu #50 - Southern Aroostook Community,Aroostook,33,96.97,0,3.03,0,44.9768192,-69.5483018
+119,Maine,2018-19,Thomaston Grammar,Knox,33,96.97,0,6.06,0,44.9414299,-67.2183107
+120,Maine,2018-19,Wells Elementary,York,97,96.91,0,4.12,1.03,43.3618578,-70.4696502
+121,Maine,2018-19,Meroby Elementary School/Mountain Valley Middle,Oxford,64,96.88,0,6.25,0,44.4036058,-70.7842095
+122,Maine,2018-19,Pine Street Elementary,Aroostook,96,96.88,0,0,0,45.1937318,-69.2269964
+123,Maine,2018-19,Edna Libby Elementary,Cumberland,62,96.77,0,4.84,0,43.6819844,-70.2930048
+124,Maine,2018-19,Mabel I Wilson,Cumberland,155,96.77,0.65,2.58,0,43.9021313,-69.5041529
+125,Maine,2018-19,Bowdoin Central Schooll,Sagadahoc,30,96.67,3.33,3.33,0,44.1912416,-70.1707037
+126,Maine,2018-19,Helena Dyer Elementary,Cumberland,30,96.67,0,0,0,44.2920837,-69.8031728
+127,Maine,2018-19,Rsu #29 Houlton Elementary,Aroostook,119,96.64,0.84,2.52,0,44.7958846,-69.8931247
+128,Maine,2018-19,Fairview Elementary,Androscoggin,57,96.49,0,3.51,0,44.9564891,-70.1573786
+129,Maine,2018-19,Guy E Rowe Elementary,Oxford,57,96.49,0,1.75,0,44.2119744,-70.5352987
+130,Maine,2018-19,Aroostook County Totals,Aroostook,618,96.44,0.16,3.07,0.32,44.101642,-70.234411
+131,Maine,2018-19,Clinton Elementary,Kennebec,28,96.43,0,3.57,0,43.671422,-70.253651
+132,Maine,2018-19,Fairfield Primary,Somerset,84,96.43,0,1.19,0,44.5943026,-70.2282465
+133,Maine,2018-19,Madawaska Elementary,Aroostook,28,96.43,0,3.57,0,44.1280026,-69.7455995
+134,Maine,2018-19,North Berwick Elementary,York,55,96.36,0,3.64,0,45.3770236,-68.4989713
+135,Maine,2018-19,Pond Cove Elementary,Cumberland,110,96.36,0.91,2.73,0,44.0848875,-69.8069562
+136,Maine,2018-19,Young,York,82,96.34,0,3.66,0,43.5117516,-70.456129
+137,Maine,2018-19,Cape Cod Hill,Franklin,27,96.3,0,7.41,0,46.5148114,-67.8616946
+138,Maine,2018-19,Leeds Central,Androscoggin,27,96.3,0,3.7,0,44.0211565,-69.2524737
+139,Maine,2018-19,Washington County Totals,Washington,266,96.24,0,3.01,0.38,43.7288212,-70.7093668
+140,Maine,2018-19,Ash Point Community,Knox,26,96.15,0,3.85,0,44.1084933,-70.1591298
+141,Maine,2018-19,Horace Mitchell Primary,York,78,96.15,1.28,1.28,1.28,44.1320185,-69.9658838
+142,Maine,2018-19,Suzanne Smith Elementary,Penobscot,26,96.15,0,3.85,0,44.6537654,-67.5835703
+143,Maine,2018-19,Old Town Elementary,Penobscot,76,96.05,0,5.26,0,44.8112649,-68.7571061
+144,Maine,2018-19,Teague Park,Aroostook,73,95.89,0,5.48,0,44.5527922,-67.6185333
+145,Maine,2018-19,Windham Primary,Cumberland,194,95.88,0.52,4.64,0,43.4455363,-70.5379174
+146,Maine,2018-19,Alfred Elementary,York,24,95.83,0,4.17,0,44.0978877,-70.1920911
+147,Maine,2018-19,Sabattus Primary,Androscoggin,71,95.77,0,4.23,0,44.1218041,-70.1176438
+148,Maine,2018-19,Vassalboro Community,Kennebec,47,95.74,0,4.26,0,44.9849315,-67.6776835
+149,Maine,2018-19,W.G.Mallett,Franklin,94,95.74,0,5.32,1.06,43.2334304,-70.8097308
+150,Maine,2018-19,Dike-Newell,Sagadahoc,70,95.71,2.86,4.29,0,43.983543,-70.2891601
+151,Maine,2018-19,Carl J Lamb Elementary,York,93,95.7,1.08,4.3,0,46.6278748,-68.393746
+152,Maine,2018-19,Downeast Elementary,Penobscot,46,95.65,0,8.7,0,43.6707721,-70.3558472
+153,Maine,2018-19,Shapleigh Memorial,York,23,95.65,0,4.35,0,44.2945515,-69.1105043
+154,Maine,2018-19,Winthrop Public Schools,Kennebec,67,95.52,0,1.49,0,43.2341163,-70.8077777
+155,Maine,2018-19,Mill Pond Elementary,Aroostook,44,95.45,0,4.55,0,44.5235546,-70.4537712
+156,Maine,2018-19,William H. Rowe,Cumberland,108,95.37,0,6.48,0,43.4233598,-70.7764441
+157,Maine,2018-19,Morse Street,Cumberland,86,95.35,0,4.65,0,44.5527086,-70.5526424
+158,Maine,2018-19,Piscataquis Community Elementary,Piscataquis,43,95.35,2.33,0,0,45.7049857,-69.3375071
+159,Maine,2018-19,Village Elementary,York,107,95.33,0,1.87,0,43.4709784,-70.7222578
+160,Maine,2018-19,Amanda C. Rowe Elementary,Cumberland,63,95.24,0,3.17,1.59,44.1878626,-70.1482565
+161,Maine,2018-19,Rsu 25,Hancock,84,95.24,1.19,3.57,0,44.7802701,-69.3815763
+162,Maine,2018-19,Veazie Community,Penobscot,21,95.24,0,0,0,43.5080094,-70.8979098
+163,Maine,2018-19,Mill Stream Elementary,Somerset,41,95.12,0,4.88,0,44.2119744,-70.5351995
+164,Maine,2018-19,Molly Ockett,Oxford,41,95.12,0,4.88,0,44.0216703,-70.966507
+165,Maine,2018-19,Bristol Consolidated,Lincoln,20,95,0,0,0,47.278234,-68.4271144
+166,Maine,2018-19,Harpswell Community,Cumberland,20,95,0,5,0,44.5483584,-69.7226225
+167,Maine,2018-19,James H. Bean,Kennebec,40,95,0,2.5,0,44.3124671,-69.7863834
+168,Maine,2018-19,Msad #24/Rsu 88,Aroostook,20,95,0,5,0,44.8825585,-68.6758864
+169,Maine,2018-19,Msad #42,Aroostook,20,95,0,0,5,44.835292,-68.8215671
+170,Maine,2018-19,Waterboro Elementary,York,78,94.87,0,5.13,0,43.6371135,-70.6022254
+171,Maine,2018-19,Brewer Community,Penobscot,97,94.85,0,5.15,1.03,46.979121,-67.8196095
+172,Maine,2018-19,Central Community Elementary,Penobscot,77,94.81,0,1.3,3.9,46.8768885,-68.1124656
+173,Maine,2018-19,Franklin County Totals,Franklin,231,94.81,0,8.23,0.43,44.2661906,-68.5691898
+174,Maine,2018-19,Penobscot County Totals,Penobscot,1347,94.8,0.67,4.53,0.74,44.9194199,-68.6249366
+175,Maine,2018-19,John F Kennedy,York,172,94.77,0.58,1.74,0,44.3887952,-69.9666104
+176,Maine,2018-19,Cushing Community,Knox,19,94.74,0,5.26,0,43.6288237,-70.2687983
+177,Maine,2018-19,Dayton Consolidated,York,19,94.74,0,0,0,43.795284,-70.254316
+178,Maine,2018-19,Hall-Dale Elementary,Kennebec,57,94.74,0,7.02,0,44.4545185,-68.3687543
+179,Maine,2018-19,Harrington Elementary,Washington,19,94.74,0,5.26,0,44.2692097,-69.6986345
+180,Maine,2018-19,Woodland,Aroostook,19,94.74,0,5.26,0,43.4475441,-70.7710528
+181,Maine,2018-19,Kennebunk Elementary,York,94,94.68,1.06,4.26,0,44.3542715,-70.0701066
+182,Maine,2018-19,Helen Thompson Elementary,Kennebec,37,94.59,0,8.11,0,44.3326985,-69.7817455
+183,Maine,2018-19,Earl C. Mcgraw Elementary,Penobscot,90,94.44,1.11,4.44,0,43.5887685,-70.2997541
+184,Maine,2018-19,East Belfast Elementary,Waldo,18,94.44,0,0,5.56,43.8975219,-70.1937551
+185,Maine,2018-19,Great Salt Bay Community,Lincoln,36,94.44,0,5.56,0,44.5188721,-68.1911562
+186,Maine,2018-19,Union Elementary,Knox,18,94.44,0,5.56,0,45.1563319,-67.4130853
+187,Maine,2018-19,Longfellow Elementary,Cumberland,53,94.34,0,5.66,0,44.1267919,-69.2394448
+188,Maine,2018-19,Lillian Hussey Elementary,Kennebec,35,94.29,0,2.86,0,44.2674978,-69.3716381
+189,Maine,2018-19,Woolwich Central,Sagadahoc,35,94.29,0,5.71,0,43.3206162,-70.5942708
+190,Maine,2018-19,Piscataquis County Totals,Piscataquis,172,94.19,1.16,5.23,0,44.0292018,-69.9369445
+191,Maine,2018-19,Garret Schenck,Somerset,17,94.12,0,0,0,44.7271554,-68.6231213
+192,Maine,2018-19,Great Falls Elementary,Cumberland,102,94.12,0,5.88,0,44.468687,-68.7091947
+193,Maine,2018-19,Morse Memorial,Waldo,17,94.12,0,5.88,0,44.213252,-70.525832
+194,Maine,2018-19,Phippsburg Elementary,Sagadahoc,17,94.12,0,5.88,0,45.2502866,-68.9795286
+195,Maine,2018-19,Kennebec County Totals,Kennebec,1368,94.08,0.07,4.17,0.95,44.4376112,-69.6533057
+196,Maine,2018-19,Riverton Elementary,Cumberland,67,94.03,1.49,0,0,44.588919,-69.5991414
+197,Maine,2018-19,York County Totals,York,1775,94.03,0.39,5.18,0.34,43.512267,-70.451623
+198,Maine,2018-19,Rumford Elementary,Oxford,50,94,0,6,0,45.072021,-69.895118
+199,Maine,2018-19,Androscoggin County Totals,Androscoggin,1344,93.97,0.37,5.58,0.45,44.0225204,-70.0876419
+200,Maine,2018-19,Somerset County Totals,Somerset,512,93.95,0.39,4.88,0.2,44.462762,-68.925218
+201,Maine,2018-19,Walton Elementary,Androscoggin,33,93.94,0,6.06,0,43.1237958,-70.7884361
+202,Maine,2018-19,Waldo County Totals,Waldo,295,93.9,0.34,4.41,0.68,43.3732411,-70.5132062
+203,Maine,2018-19,Montello Elementary,Androscoggin,98,93.88,2.04,4.08,0,44.1341911,-70.4960325
+204,Maine,2018-19,Patricia A. Duran School (Formerly Hermon Elementary School),Penobscot,98,93.88,0,8.16,0,44.9246233,-68.6653508
+205,Maine,2018-19,North Elementary,Somerset,97,93.81,1.03,10.31,0,45.2462097,-68.5876704
+206,Maine,2018-19,Solon Elementary,Somerset,16,93.75,0,6.25,0,44.4540321,-69.097352
+207,Maine,2018-19,Spruce Mountain Primary,Androscoggin,128,93.75,0,7.03,0,44.6693695,-67.2570904
+208,Maine,2018-19,St. Michael,Kennebec,16,93.75,0,6.25,0,45.4250603,-67.7223825
+209,Maine,2018-19,Waynflete,Cumberland,16,93.75,0,6.25,0,43.4175883,-70.5610119
+210,Maine,2018-19,Winslow Elementary,Kennebec,95,93.68,0,8.42,1.05,43.5122214,-70.3956934
+211,Maine,2018-19,Saccarappa Elementary,Cumberland,63,93.65,3.17,3.17,0,44.9462983,-69.8539526
+212,Maine,2018-19,Vine Street,Penobscot,47,93.62,0,6.38,0,43.6522015,-70.541905
+213,Maine,2018-19,Cumberland County Totals,Cumberland,2854,93.59,1.37,4.2,0.14,43.636245,-70.24754
+214,Maine,2018-19,Elm Street,Androscoggin,31,93.55,0,9.68,0,43.8032524,-70.1884105
+215,Maine,2018-19,Granite Street,Penobscot,30,93.33,6.67,6.67,0,44.4051775,-68.0314939
+216,Maine,2018-19,Lee Winn Elementary,Penobscot,15,93.33,0,0,6.67,44.2076488,-69.0670468
+217,Maine,2018-19,Margaret Murphy Center For Children- Rodman Campus,Androscoggin,15,93.33,0,6.67,0,44.0081975,-69.6619126
+218,Maine,2018-19,Mountain View,Hancock,30,93.33,0,13.33,0,44.8064362,-68.762449
+219,Maine,2018-19,Ellsworth Elementary/Middle,Hancock,89,93.26,0,6.74,0,43.646421,-70.270603
+220,Maine,2018-19,Sagadahoc County Totals,Sagadahoc,310,93.23,0.97,5.16,0.32,45.5913402,-69.9999212
+221,Maine,2018-19,Ridge View Community,Penobscot,59,93.22,1.69,5.08,0,45.0118017,-69.2762767
+222,Maine,2018-19,Windsor Elementary,Kennebec,44,93.18,0,0,0,43.3064145,-70.7412601
+223,Maine,2018-19,Gov James B Longley Elementary,Androscoggin,58,93.1,0,6.9,0,44.555137,-68.20312
+224,Maine,2018-19,Lewis S. Libby,Penobscot,29,93.1,3.45,3.45,0,44.1507833,-68.8756983
+225,Maine,2018-19,Milo Elementary,Piscataquis,43,93.02,0,6.98,0,44.2300079,-70.3503682
+226,Maine,2018-19,Pemetic Elementary,Hancock,14,92.86,0,7.14,0,45.0118017,-69.2740827
+227,Maine,2018-19,Sedomocha,Piscataquis,70,92.86,1.43,8.57,0,44.633406,-68.8511467
+228,Maine,2018-19,Trenton Elementary,Hancock,14,92.86,7.14,7.14,0,45.2174644,-67.5509375
+229,Maine,2018-19,Williams-Cone,Sagadahoc,41,92.68,0,2.44,0,43.9297736,-69.9633955
+230,Maine,2018-19,Oxford County Totals,Oxford,685,92.55,0.15,7.88,0,45.1201311,-68.6083502
+231,Maine,2018-19,Berwick Academy,York,13,92.31,0,7.69,0,44.4380493,-70.2020164
+232,Maine,2018-19,Mount Merici Academy,Kennebec,26,92.31,0,7.69,0,44.3979919,-70.645963
+233,Maine,2018-19,Lincoln Elementary,Kennebec,51,92.16,0,0,9.8,43.9680693,-69.2127835
+234,Maine,2018-19,Newport Elementary,Penobscot,50,92,0,8,0,44.8289466,-68.6592292
+235,Maine,2018-19,Abraham Lincoln,Penobscot,37,91.89,0,8.11,0,44.104533,-70.212795
+236,Maine,2018-19,Sacopee Valley Elementary,Oxford,73,91.78,0,8.22,0,44.9033896,-69.4195151
+237,Maine,2018-19,Center Drive,Penobscot,36,91.67,0,8.33,2.78,46.8650175,-68.0059735
+238,Maine,2018-19,Edgecomb Eddy,Lincoln,12,91.67,0,8.33,0,43.855236,-70.6381441
+239,Maine,2018-19,Governor John Fairfield,York,108,91.67,0,11.11,0,44.2810883,-68.3250706
+240,Maine,2018-19,Hartford Sumner Elementary,Oxford,48,91.67,0,8.33,0,44.4392185,-69.5228777
+241,Maine,2018-19,Manchester Elementary,Kennebec,24,91.67,0,8.33,0,44.2055659,-69.4560674
+242,Maine,2018-19,Marcia Buker Elementary,Sagadahoc,24,91.67,0,8.33,0,43.8680899,-69.5601296
+243,Maine,2018-19,Hancock County Totals,Hancock,449,91.54,0.67,8.46,0.67,44.5426687,-68.4258533
+244,Maine,2018-19,Laura E. Richards Elementary,Kennebec,59,91.53,0,8.47,0,44.188201,-69.0958178
+245,Maine,2018-19,Henry L Cottrell,Kennebec,47,91.49,0,6.38,4.26,44.2256878,-69.8766334
+246,Maine,2018-19,Oxford- Cumberland Canal Elementary,Cumberland,47,91.49,10.64,4.26,0,45.9260017,-68.4378585
+247,Maine,2018-19,Mcmahon Elementary,Androscoggin,82,91.46,0,7.32,1.22,44.6321994,-70.7535045
+248,Maine,2018-19,Gilbert Elementary,Kennebec,35,91.43,0,8.57,0,44.3326985,-69.7839395
+249,Maine,2018-19,East Auburn Community,Androscoggin,23,91.3,0,8.7,0,43.5953925,-70.2298561
+250,Maine,2018-19,Songo Locks,Cumberland,56,91.07,1.79,1.79,0,44.6624393,-69.2608466
+251,Maine,2018-19,Carrabec Community,Somerset,11,90.91,0,9.09,0,46.6727651,-68.0090134
+252,Maine,2018-19,George J. Mitchell,Kennebec,154,90.91,0,2.6,1.3,44.2245068,-68.6777805
+253,Maine,2018-19,Hope Elementary,Knox,22,90.91,0,9.09,0,44.219008,-69.781633
+254,Maine,2018-19,Lincolnville Central,Waldo,22,90.91,0,4.55,4.55,44.0828531,-69.1838693
+255,Maine,2018-19,South,Knox,55,90.91,0,12.73,0,44.4122271,-68.9939022
+256,Maine,2018-19,West Bath,Sagadahoc,11,90.91,0,9.09,0,43.0587818,-70.769373
+257,Maine,2018-19,Steep Falls Elementary,Cumberland,32,90.63,0,6.25,3.13,44.8955406,-67.2236037
+258,Maine,2018-19,Knox County Totals,Knox,393,90.59,0.51,10.18,0.25,44.2739501,-69.2687487
+259,Maine,2018-19,Boothbay Region Schools,Lincoln,21,90.48,0,9.52,0,44.107213,-70.2287059
+260,Maine,2018-19,Eddington,Penobscot,42,90.48,4.76,7.14,2.38,43.6723356,-70.3762128
+261,Maine,2018-19,Bayridge Elementary,Washington,10,90,0,10,0,44.6693695,-67.2592844
+262,Maine,2018-19,Bowdoinham Community,Sagadahoc,30,90,0,10,0,46.9729864,-68.0357653
+263,Maine,2018-19,Phillips Elementry,Franklin,10,90,0,40,0,45.4584123,-69.5980262
+264,Maine,2018-19,Woodside Elementary,Sagadahoc,50,90,0,4,2,43.1468733,-70.6562088
+265,Maine,2018-19,Hollis Elementary,York,49,89.8,0,12.24,0,44.2548006,-70.0384995
+266,Maine,2018-19,Lyseth Elementary,Cumberland,86,89.53,2.33,2.33,0,43.8643242,-69.6294601
+267,Maine,2018-19,Buxton Center Elementary,York,76,89.47,0,13.16,0,46.68021,-68.1502359
+268,Maine,2018-19,Camden Rockport Elementary,Knox,76,89.47,1.32,10.53,1.32,46.7644253,-67.8382738
+269,Maine,2018-19,Jefferson Village,Lincoln,19,89.47,0,5.26,5.26,44.3257219,-69.864162
+270,Maine,2018-19,Kermit Nickerson Elementary,Waldo,19,89.47,5.26,5.26,0,44.5551239,-69.6179471
+271,Maine,2018-19,Lincoln County Totals,Lincoln,256,89.45,0,9.77,0.39,44.095156,-69.116812
+272,Maine,2018-19,Mildred L Day,York,37,89.19,0,8.11,2.7,43.9636464,-70.8614587
+273,Maine,2018-19,Acton Elementary,York,18,88.89,5.56,5.56,0,43.9708763,-70.1263376
+274,Maine,2018-19,Albion Elementary,Kennebec,9,88.89,0,11.11,0,44.1053261,-70.3858852
+275,Maine,2018-19,Athens Community,Somerset,18,88.89,0,5.56,0,44.0998308,-70.2454719
+276,Maine,2018-19,Connor Consolidated,Aroostook,9,88.89,0,11.11,0,43.8879737,-70.3336125
+277,Maine,2018-19,Dedham,Hancock,18,88.89,0,11.11,5.56,43.8525164,-70.1431229
+278,Maine,2018-19,Elm Street,Washington,18,88.89,0,11.11,0,43.7875568,-70.4168156
+279,Maine,2018-19,Hancock Grammar,Hancock,18,88.89,0,11.11,0,44.5309156,-69.4405115
+280,Maine,2018-19,Pownal Elementary,Cumberland,18,88.89,0,11.11,0,43.808942,-69.821453
+281,Maine,2018-19,Reiche,Cumberland,81,88.89,12.35,2.47,0,44.8617255,-69.8892246
+282,Maine,2018-19,St. Albans Consolidated,Somerset,36,88.89,0,0,0,44.5162884,-67.6116067
+283,Maine,2018-19,Stepping Stones Montessori,Kennebec,9,88.89,11.11,0,0,44.5117963,-67.9612359
+284,Maine,2018-19,Whitefield Elementary,Lincoln,18,88.89,0,11.11,0,43.6555298,-70.8392988
+285,Maine,2018-19,Searsport Elementary,Waldo,44,88.64,0,6.82,0,44.4424158,-69.1469059
+286,Maine,2018-19,Turner Primary,Androscoggin,70,88.57,0,11.43,0,44.7912546,-67.1752076
+287,Maine,2018-19,Manson Park,Somerset,61,88.52,1.64,9.84,0,44.0703204,-69.6119069
+288,Maine,2018-19,Saint Dominic Academy,Androscoggin,26,88.46,0,11.54,0,44.4469693,-69.0002854
+289,Maine,2018-19,Lamoine Consolidated,Hancock,17,88.24,0,5.88,5.88,44.4784774,-68.342919
+290,Maine,2018-19,Minot Consolidated,Androscoggin,34,88.24,0,11.76,2.94,44.555704,-70.5271133
+291,Maine,2018-19,Ocean Avenue Elementary,Cumberland,51,88.24,1.96,7.84,0,44.8033263,-68.7934118
+292,Maine,2018-19,Troy Elementary,Waldo,17,88.24,0,11.76,0,44.7149969,-67.46876
+293,Maine,2018-19,Eliot Elementary,York,67,88.06,1.49,10.45,4.48,43.7838096,-70.6366266
+294,Maine,2018-19,East End Community,Cumberland,58,87.93,6.9,5.17,0,43.6842812,-70.2594094
+295,Maine,2018-19,Blue Hill Consolidated,Hancock,24,87.5,0,12.5,0,44.2721373,-70.2127817
+296,Maine,2018-19,Princeton Elementary,Washington,8,87.5,0,0,0,43.931133,-69.9711997
+297,Maine,2018-19,Rangeley Lakes Regional,Franklin,16,87.5,0,12.5,0,43.9412745,-69.7826169
+298,Maine,2018-19,Rsu23,York,56,87.5,0,0,0,44.7119968,-69.7980964
+299,Maine,2018-19,Surry Elementary,Hancock,16,87.5,0,12.5,0,44.6060663,-67.8106945
+300,Maine,2018-19,Tremont Consolidated,Hancock,16,87.5,0,6.25,0,45.0264017,-67.1035944
+301,Maine,2018-19,Wiscasset Elementary,Lincoln,32,87.5,0,3.13,0,43.5330048,-70.851039
+302,Maine,2018-19,Hbemery Jr. Elementary,York,46,86.96,0,13.04,0,44.639897,-69.5011524
+303,Maine,2018-19,Blue Point,Cumberland,61,86.89,0,13.11,0,44.0817674,-70.2172934
+304,Maine,2018-19,China Primary,Kennebec,38,86.84,0,0,5.26,43.6411985,-70.2336757
+305,Maine,2018-19,Poland Community,Androscoggin,68,86.76,0,11.76,1.47,43.8008459,-69.75656
+306,Maine,2018-19,St. James,York,15,86.67,6.67,0,0,44.6035004,-67.934216
+307,Maine,2018-19,Bangor Christian Schools,Penobscot,21,85.71,0,9.52,4.76,44.1238007,-70.1890711
+308,Maine,2018-19,Brooklin,Hancock,7,85.71,14.29,14.29,0,46.1235236,-67.8385319
+309,Maine,2018-19,Dr. Levesque Elementary,Aroostook,14,85.71,0,21.43,0,43.8964553,-69.925336
+310,Maine,2018-19,Fort O'Brien,Washington,7,85.71,0,14.29,0,45.0386059,-70.3979538
+311,Maine,2018-19,Greater Portland Christian,Cumberland,7,85.71,0,28.57,0,43.6294429,-70.2898939
+312,Maine,2018-19,New Suncook,Oxford,21,85.71,0,19.05,0,44.7408409,-68.8414853
+313,Maine,2018-19,Pine Grove,Cumberland,7,85.71,14.29,0,0,45.1743841,-69.3786773
+314,Maine,2018-19,Dora L. Small Elementary,Cumberland,34,85.29,0,5.88,0,43.6771426,-70.2840108
+315,Maine,2018-19,Raymond Elementary,Cumberland,47,85.11,0,17.02,0,43.8171265,-69.7825531
+316,Maine,2018-19,Washburn Elementary,Androscoggin,33,84.85,3.03,6.06,0,43.4980145,-70.4396776
+317,Maine,2018-19,Paris Elementary,Oxford,58,84.48,0,15.52,0,45.4296401,-68.31728
+318,Maine,2018-19,Presumpscot Elementary,Cumberland,38,84.21,13.16,2.63,0,43.9297736,-69.9612015
+319,Maine,2018-19,Agnes Gray,Oxford,18,83.33,5.56,11.11,0,44.145625,-70.221777
+320,Maine,2018-19,Greater Houlton Christian Academy,Aroostook,6,83.33,0,0,16.67,44.5767367,-68.7822893
+321,Maine,2018-19,Mt Vernon Elementary,Kennebec,12,83.33,0,16.67,0,44.9191065,-69.25678
+322,Maine,2018-19,Pen Bay Christian,Knox,6,83.33,0,16.67,0,44.8605921,-68.9989374
+323,Maine,2018-19,Waterford Memorial,Oxford,30,83.33,0,16.67,0,43.085289,-70.701081
+324,Maine,2018-19,Kaler Elementary Schoool,Cumberland,28,82.14,0,0,0,44.3120463,-69.7835798
+325,Maine,2018-19,Readfield Elementary,Kennebec,39,82.05,0,17.95,0,44.7630104,-69.5713401
+326,Maine,2018-19,Skillin Elmentary,Cumberland,78,82.05,0,0,0,44.5543557,-69.1282145
+327,Maine,2018-19,Kingfield Elementary,Franklin,11,81.82,0,18.18,0,44.3004124,-69.9849719
+328,Maine,2018-19,Wayne Elementary,Kennebec,11,81.82,0,18.18,0,44.3541826,-70.0704351
+329,Maine,2018-19,Katahdin Elementary,Penobscot,16,81.25,0,12.5,6.25,44.2818052,-69.7591805
+330,Maine,2018-19,Denmark Elementary,Oxford,21,80.95,0,23.81,0,43.934828,-70.3274912
+331,Maine,2018-19,Central Maine Christian Academy,Androscoggin,10,80,0,0,20,46.819941,-68.4766064
+332,Maine,2018-19,Otisfield Community,Oxford,14,78.57,0,21.43,0,45.6532721,-68.7046351
+333,Maine,2018-19,Helen S. Dunn,Penobscot,9,77.78,0,0,0,44.5667293,-69.6324841
+334,Maine,2018-19,Monroe Elementary,Waldo,8,75,0,25,0,44.0485586,-70.5189028
+335,Maine,2018-19,Smart Fun Learning Adventures,Franklin,8,75,0,25,0,44.5515757,-69.2703101
+336,Maine,2018-19,St. George Municipal School Unit,Knox,20,75,5,20,0,44.9980067,-67.2617649
+337,Maine,2018-19,Fiddlehead School Of Arts And Sciences,Cumberland,19,73.68,0,26.32,0,44.8147689,-70.2189205
+338,Maine,2018-19,Cornville Regional Charter School - Cornville Campus,Somerset,15,73.33,0,13.33,6.67,43.6294429,-70.2876999
+339,Maine,2018-19,Prescott Memorial,Knox,11,72.73,0,36.36,0,43.9236656,-69.8595391
+340,Maine,2018-19,Mount Desert Elementary,Hancock,18,72.22,0,22.22,0,44.1897838,-70.7228215
+341,Maine,2018-19,Brooksville Elementary,Hancock,7,71.43,0,28.57,14.29,46.9067651,-67.8292654
+342,Maine,2018-19,Sedgwick Elementary,Hancock,7,71.43,0,28.57,0,44.5212609,-69.0021
+343,Maine,2018-19,Vinalhaven,Knox,13,69.23,0,7.69,0,43.1473256,-70.6799278
+344,Maine,2018-19,Ella Lewis,Washington,12,66.67,0,25,8.33,44.0515398,-70.7030046
+345,Maine,2018-19,Kennebunkport Consolidated,York,21,66.67,0,33.33,0,44.3013225,-69.5854698
+346,Maine,2018-19,Peaks Elementary,Cumberland,8,62.5,25,12.5,0,45.6322772,-68.5718305
+347,Maine,2018-19,Juniper Hill School For Place-Based Education,Lincoln,5,60,0,40,0,44.3724134,-69.9402952
+348,Maine,2018-19,Dresden Elementary,Lincoln,13,53.85,0,53.85,0,43.6577842,-70.2620168
+349,Maine,2018-19,Ashwood Waldorf,Lincoln,8,50,0,62.5,0,44.1080302,-70.1833482
+350,Maine,2018-19,Ashwood Waldorf,Knox,8,50,0,62.5,0,44.116646,-70.3319192
+351,Maine,2018-19,Castine Adams,Hancock,2,50,0,50,0,46.1523034,-67.7817988
+352,Maine,2018-19,Maple Tree Community,Kennebec,2,50,0,50,0,44.0984773,-69.3848367
+353,Maine,2018-19,Maine Coast Waldorf,Cumberland,26,38.46,0,38.46,7.69,44.0416994,-69.5080947

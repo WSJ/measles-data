@@ -1,0 +1,381 @@
+index,state,year,name,county,enroll,mmr,lat,lng
+1,South Dakota,2017-18,Lower Brule Elementary,Lyman,33,100,44.0741531,-99.5796999
+2,South Dakota,2017-18,Alcester-Hudson Elementary,Union,21,100,43.0246912,-96.6237622
+3,South Dakota,2017-18,Andes Central Elementary,Charles Mix,32,100,43.157716,-98.530378
+4,South Dakota,2017-18,Arlington Elementary,Kingsbury,21,100,44.3644133,-97.1331212
+5,South Dakota,2017-18,Baltic Elementary,Minnehaha,37,100,43.7592159,-96.7335435
+6,South Dakota,2017-18,Ban Dek Montessori,Lincoln,4,100,43.4757757,-96.7461664
+7,South Dakota,2017-18,Batesland,Ogalala Lakota,13,100,43.127361,-102.099273
+8,South Dakota,2017-18,Beadle Elementary,Yankton,59,100,44.093776,-103.213219
+9,South Dakota,2017-18,Bennett Co Elementary,Bennett,41,100,43.1747726,-101.7313502
+10,South Dakota,2017-18,Beresford Elementary,Union,49,100,43.0786631,-96.7769216
+11,South Dakota,2017-18,Bethesda Lutheran Elementary,Fall River,3,100,43.4276577,-103.4795895
+12,South Dakota,2017-18,Big Stone City Elementary,Grant,8,100,45.2944775,-96.4649299
+13,South Dakota,2017-18,Big White Elementary,Haakon,1,100,44.186309,-102.065351
+14,South Dakota,2017-18,Bison Elementary,Perkins,9,100,45.522946,-102.4644923
+15,South Dakota,2017-18,Black Hills Children's Home,Pennington,1,100,44.0795533,-103.2108384
+16,South Dakota,2017-18,Blumengard Colony Elementary,Faulk,7,100,45.1289996,-99.0430183
+17,South Dakota,2017-18,Blunt Elementary,Hughes,6,100,44.5138825,-99.9903974
+18,South Dakota,2017-18,Boulder Colony,Edmunds,1,100,45.6095053,-99.4521074
+19,South Dakota,2017-18,Bowdle Elementary,Edmunds,7,100,45.4502105,-99.6516277
+20,South Dakota,2017-18,Bridges At Horace Mann,Minnehaha,4,100,43.5287496,-96.7082631
+21,South Dakota,2017-18,Britton-Hecla Elementary,Marshall,36,100,45.793633,-97.752318
+22,South Dakota,2017-18,Burke Elementary,Gregory,11,100,43.180807,-99.289723
+23,South Dakota,2017-18,Cameron Colony Elementary,Turner,1,100,43.3355563,-97.179026
+24,South Dakota,2017-18,Camp Crook Elementary,Harding,1,100,45.552016,-103.975062
+25,South Dakota,2017-18,Canistota Elementary,McCook,19,100,43.5972685,-97.2941889
+26,South Dakota,2017-18,Centerville Elementary,Turner,19,100,43.1187769,-96.9575273
+27,South Dakota,2017-18,Chamberlain Elementary,Brule,78,100,43.8070296,-99.3297166
+28,South Dakota,2017-18,Cheyenne Elementary,Stanley,2,100,44.3528142,-100.3728104
+29,South Dakota,2017-18,Children's Home Society Loving,Minnehaha,2,100,43.5571542,-96.6728334
+30,South Dakota,2017-18,Claremont Colony Elementary,Hamlin,1,100,44.711736,-96.951433
+31,South Dakota,2017-18,Clark Colony Elementary,Spink,1,100,44.7912106,-97.9802907
+32,South Dakota,2017-18,Clearfield Colony Elementary,Douglas,1,100,43.1404671,-98.1402516
+33,South Dakota,2017-18,Colman Elementary,Moody,21,100,43.9809902,-96.8099546
+34,South Dakota,2017-18,Corral Drive Elementary,Pennington,75,100,44.0403429,-103.2801124
+35,South Dakota,2017-18,Corsica-Stickney Elementary,Aurora,19,100,43.4234326,-98.4006456
+36,South Dakota,2017-18,Crazy Horse Elementary,Jackson,30,100,43.5729956,-101.6688507
+37,South Dakota,2017-18,Crow Creek Elementary,Hyde,39,100,44.245751,-99.4538376
+38,South Dakota,2017-18,Deerfield Colony Elementary,Edmunds,2,100,45.4040401,-98.9059817
+39,South Dakota,2017-18,Deubrook Elementary,Brookings,19,100,44.5696226,-96.639911
+40,South Dakota,2017-18,Deuel Elementary,Deuel,34,100,44.754206,-96.6847783
+41,South Dakota,2017-18,Doland Elementary,Spink,8,100,44.897328,-98.102575
+42,South Dakota,2017-18,Edgemont Elementary,Fall River,10,100,43.3016362,-103.8333213
+43,South Dakota,2017-18,Edmunds Central Elementary,Edmunds,13,100,45.452925,-99.337738
+44,South Dakota,2017-18,Elk Point-Jefferson Elementary,Union,44,100,42.6820269,-96.689091
+45,South Dakota,2017-18,Endeavor Elementary,Lincoln,74,100,43.4660656,-96.7538721
+46,South Dakota,2017-18,Estelline Elementary,Hamlin,23,100,44.5763765,-96.8968821
+47,South Dakota,2017-18,Ethan Elementary,Davison,19,100,43.5451512,-97.9852994
+48,South Dakota,2017-18,Eureka Elementary,McPherson,8,100,45.7695762,-99.6226613
+49,South Dakota,2017-18,Faith Elementary,Meade,5,100,45.0191576,-102.0413602
+50,South Dakota,2017-18,Flandreau Elementary,Moody,45,100,44.0517041,-96.6041884
+51,South Dakota,2017-18,For His Glory,Hughes,3,100,44.3641089,-100.3339575
+52,South Dakota,2017-18,Frederick Elementary,Brown,11,100,45.8323245,-98.5048521
+53,South Dakota,2017-18,Freeman Davis Elementary,Walworth,47,100,45.5372162,-100.4279129
+54,South Dakota,2017-18,Freeman Elementary,Hutchinson,26,100,43.3463273,-97.430307
+55,South Dakota,2017-18,Garfield Elementary,Minnehaha,92,100,43.539636,-96.757094
+56,South Dakota,2017-18,Gayville-Volin Elementary,Yankton,19,100,42.8933218,-97.1728492
+57,South Dakota,2017-18,General Beadle Elementary,Pennington,73,100,44.0938824,-103.2131596
+58,South Dakota,2017-18,Gertie Belle Rogers Elementary,Davison,76,100,43.7219727,-98.0241232
+59,South Dakota,2017-18,Glendale Colony Elementary,Spink,3,100,44.7990294,-98.2817089
+60,South Dakota,2017-18,Good Shepherd Elementary,Minnehaha,6,100,43.5011448,-96.6871856
+61,South Dakota,2017-18,Grandview Elementary,Pennington,68,100,44.0536521,-103.2174783
+62,South Dakota,2017-18,Grass Ranch Colony Elementary,Brule,3,100,43.7455378,-98.9549959
+63,South Dakota,2017-18,Grassland Colony Elementary,McPherson,1,100,45.6663541,-98.7926734
+64,South Dakota,2017-18,Greenwood Colony Elementary,Douglas,1,100,43.2251128,-98.1488623
+65,South Dakota,2017-18,Hamlin Elementary,Hamlin,68,100,44.657038,-97.291774
+66,South Dakota,2017-18,Hanson Elementary,Hanson,24,100,43.656236,-97.785392
+67,South Dakota,2017-18,He Dog Elementary,Todd,17,100,43.3029,-100.7406
+68,South Dakota,2017-18,Henry Elementary,Codington,13,100,44.8816982,-97.4607738
+69,South Dakota,2017-18,Herreid Elementary,Campbell,5,100,45.8347136,-100.0692843
+70,South Dakota,2017-18,Highmore Elementary,Hyde,17,100,44.516434,-99.4421122
+71,South Dakota,2017-18,Hill City Elementary,Pennington,26,100,43.9287504,-103.575418
+72,South Dakota,2017-18,Hillcrest Colony Elementary,Clark,3,100,44.9446974,-97.6705345
+73,South Dakota,2017-18,Hillside Colony Elementary,Spink,1,100,44.737364,-98.049005
+74,South Dakota,2017-18,Hitchcock-Tulare Elementary,Beadle,12,100,44.6306055,-98.4096905
+75,South Dakota,2017-18,Holy Trinity Catholic Elementary,Beadle,19,100,44.3422897,-98.2212124
+76,South Dakota,2017-18,Horizon Elementary,Minnehaha,33,100,43.4914324,-96.6770696
+77,South Dakota,2017-18,Hoven Elementary,Potter,9,100,45.2398735,-99.7784673
+78,South Dakota,2017-18,Howard Elementary,Miner,19,100,44.0129924,-97.5294461
+79,South Dakota,2017-18,Hutterische Colony Elementary,Bon Homme,4,100,42.863233,-97.706499
+80,South Dakota,2017-18,Immaculate Conception Elementary,Codington,14,100,44.8979383,-97.110735
+81,South Dakota,2017-18,Interior Elementary,Jackson,6,100,43.7264356,-101.983167
+82,South Dakota,2017-18,Jamesville Colony Elementary,Hutchinson,1,100,43.1029626,-97.4836605
+83,South Dakota,2017-18,Jefferson Elementary,Codington,67,100,44.9218217,-97.1123339
+84,South Dakota,2017-18,John Harris Elementary,Minnehaha,103,100,43.5066978,-96.6841077
+85,South Dakota,2017-18,Kadoka Elementary,Jackson,12,100,43.8369129,-101.5206972
+86,South Dakota,2017-18,Kennebec Elementary,Lyman,13,100,43.9026371,-99.8605418
+87,South Dakota,2017-18,Klein Elementary,Todd,2,100,43.3078583,-100.4737927
+88,South Dakota,2017-18,Knollwood Heights Elementary,Pennington,71,100,44.100568,-103.2069391
+89,South Dakota,2017-18,Lake Preston Elementary,Kingsbury,15,100,44.361226,-97.3731793
+90,South Dakota,2017-18,Lakeview Colony Elementary,Charles Mix,8,100,43.219659,-98.461202
+91,South Dakota,2017-18,Lakeview Elementary,Todd,5,100,43.0750364,-100.7518641
+92,South Dakota,2017-18,Laura Ingalls Wilder Elementary,Kingsbury,23,100,44.3837968,-97.5571225
+93,South Dakota,2017-18,Lawrence Elementary,Lincoln,51,100,43.3071948,-96.5814199
+94,South Dakota,2017-18,Leola Elementary,McPherson,10,100,45.7195691,-98.9376996
+95,South Dakota,2017-18,Lifescape Children's Specialty,Minnehaha,3,100,43.529379,-96.756134
+96,South Dakota,2017-18,Lincoln Elementary,Brown,56,100,45.4607688,-98.5032853
+97,South Dakota,2017-18,Lincoln Elementary,Codington,87,100,44.9126987,-97.0934853
+98,South Dakota,2017-18,Little Eagle Grant,Corson,10,100,45.6754883,-100.8065674
+99,South Dakota,2017-18,Little Wound Elementary,Ogalala Lakota,52,100,43.424833,-102.175301
+100,South Dakota,2017-18,Longfellow Elementary,Davison,61,100,43.710517,-98.013577
+101,South Dakota,2017-18,Longvalley Elementary,Jackson,3,100,43.4982825,-101.5009932
+102,South Dakota,2017-18,Ludlow Elementary,Harding,2,100,44.066746,-102.090322
+103,South Dakota,2017-18,Madison Christian Elementary,Lake,7,100,43.9933036,-97.0409161
+104,South Dakota,2017-18,Marion Elementary,Turner,13,100,43.4216492,-97.2589873
+105,South Dakota,2017-18,Marty Elementary,Charles Mix,10,100,42.9943963,-98.4247623
+106,South Dakota,2017-18,Maurine Elementary,Meade,1,100,45.0228473,-102.3502516
+107,South Dakota,2017-18,Maxwell Colony Elementary,Hutchinson,6,100,43.1839271,-97.6376874
+108,South Dakota,2017-18,Mayfield Colony Elementary,Clark,3,100,44.6944,-97.5739
+109,South Dakota,2017-18,Mccook Central Elementary,McCook,28,100,43.728033,-97.385766
+110,South Dakota,2017-18,Mcintosh Elementary,Corson,10,100,45.9222666,-101.3500773
+111,South Dakota,2017-18,Mckinley Elementary,Codington,41,100,44.9021658,-97.134979
+112,South Dakota,2017-18,Mclaughlin Elementary,Corson,34,100,45.8144431,-100.8104113
+113,South Dakota,2017-18,Mellette Elementary,Codington,45,100,44.9088539,-97.1178691
+114,South Dakota,2017-18,Mike Miller Elementary,Brown,39,100,45.4648413,-98.4459221
+115,South Dakota,2017-18,Milesville Elementary,Haakon,1,100,44.0422502,-101.6687357
+116,South Dakota,2017-18,Millbrook Colony Elementary,Hanson,1,100,43.6734591,-97.8748798
+117,South Dakota,2017-18,Miller Elementary,Hand,42,100,44.5192355,-98.9799754
+118,South Dakota,2017-18,Millerdale Colony Elementary,Hand,3,100,44.3994946,-99.1117708
+119,South Dakota,2017-18,Montessori School Of Aberdeen Elementary,Brown,3,100,45.4578146,-98.4703937
+120,South Dakota,2017-18,Montrose Elementary,McCook,13,100,43.697971,-97.187797
+121,South Dakota,2017-18,Mount Vernon Elementary,Davison,17,100,43.7146295,-98.2606107
+122,South Dakota,2017-18,New Elm Spring Colony Elementary,Hutchinson,3,100,43.4855388,-97.8311751
+123,South Dakota,2017-18,New Underwood Elementary,Pennington,11,100,44.0945726,-102.832521
+124,South Dakota,2017-18,Newell Elementary,Butte,16,100,44.7173235,-103.426069
+125,South Dakota,2017-18,Newport Colony Elementary,Marshall,3,100,45.6767383,-97.9379927
+126,South Dakota,2017-18,Norfeld Colony Elementary,Brookings,5,100,44.4227594,-96.5659761
+127,South Dakota,2017-18,Norris Elementary,Mellette,11,100,45.1544201,-98.4975934
+128,South Dakota,2017-18,O.M. Tiffany Elementary,Brown,52,100,45.4739721,-98.4751859
+129,South Dakota,2017-18,O'Kreek Elementary,Todd,2,100,43.3621507,-100.3871877
+130,South Dakota,2017-18,Oaklane Colony Elem,Hanson,2,100,43.510203,-97.74414
+131,South Dakota,2017-18,Old Elm Spring Colony Elementary,Hutchinson,3,100,43.4997922,-97.7906627
+132,South Dakota,2017-18,Oldham-Ramona Elementary,Lake,9,100,44.1208861,-97.2193202
+133,South Dakota,2017-18,Opal Elementary,Meade,1,100,44.892909,-102.450241
+134,South Dakota,2017-18,Parker Elementary,Turner,41,100,43.3975204,-97.1286703
+135,South Dakota,2017-18,Pine Ridge Elementary,Ogalala Lakota,40,100,43.0279566,-102.522649
+136,South Dakota,2017-18,Pinedale Elementary,Pennington,68,100,44.0851316,-103.3008502
+137,South Dakota,2017-18,Pleasant Valley Colony Elementary,Moody,4,100,44.0592244,-96.4666395
+138,South Dakota,2017-18,Poinsett Colony Elementary- 01,Hamlin,1,100,44.6450643,-96.9058032
+139,South Dakota,2017-18,Presho Elementary,Lyman,20,100,43.9098193,-100.0632447
+140,South Dakota,2017-18,Red Shirt,Ogalala Lakota,6,100,43.6657514,-102.8961649
+141,South Dakota,2017-18,Red Willow Colony,Brookings,2,100,44.2996196,-96.7836636
+142,South Dakota,2017-18,Riverside Colony Elementary,Beadle,1,100,44.486042,-98.138937
+143,South Dakota,2017-18,Robert Frost Elementary,Minnehaha,61,100,43.5167054,-96.7217857
+144,South Dakota,2017-18,Rockport Colony Elementary,Davison,2,100,43.529756,-97.847737
+145,South Dakota,2017-18,Rockyford,Ogalala Lakota,47,100,43.4829748,-102.4876141
+146,South Dakota,2017-18,Roosevelt Elementary,Codington,46,100,44.8945923,-97.1126457
+147,South Dakota,2017-18,Rosedale Colony Elementary,Davison,3,100,43.6283235,-97.8777365
+148,South Dakota,2017-18,Rosette Colony Elementary,Edmunds,1,100,45.581726,-99.007205
+149,South Dakota,2017-18,Rosholt Elementary,Roberts,11,100,45.8644023,-96.7374639
+150,South Dakota,2017-18,Rustic Acres Elementary,Lake,5,100,43.8717455,-97.1032038
+151,South Dakota,2017-18,Rutland Elementary,Lake,20,100,44.0897201,-96.9656982
+152,South Dakota,2017-18,Shamrock Colony Elementary,Clark,2,100,44.6187934,-97.9575695
+153,South Dakota,2017-18,Shannon Colony Elementary,Miner,4,100,43.9790523,-97.4193849
+154,South Dakota,2017-18,Simmons Elementary,Brown,61,100,45.4488685,-98.4930013
+155,South Dakota,2017-18,Sisseton Elementary-54-2,Roberts,89,100,45.6647943,-97.061223
+156,South Dakota,2017-18,South Central Elementary,Gregory,8,100,43.2316434,-99.4225659
+157,South Dakota,2017-18,South Dakota School For The Blind & Visually Impaired,Brown,1,100,45.4476741,-98.4809786
+158,South Dakota,2017-18,Spring Creek Elementary,Todd,6,100,43.1181125,-101.0299739
+159,South Dakota,2017-18,Spring Lake Colony Elementary,Lake,1,100,44.2352781,-97.1696107
+160,South Dakota,2017-18,Springfield Elementary,Bon Homme,9,100,42.8564843,-97.8924766
+161,South Dakota,2017-18,St. Francis Elementary,Todd,56,100,43.140866,-100.900777
+162,South Dakota,2017-18,St. Joseph Elementary,Hughes,41,100,44.3705958,-100.3479946
+163,South Dakota,2017-18,St. Katharine Drexel Elementary,Minnehaha,19,100,43.5284328,-96.8375802
+164,South Dakota,2017-18,St. Lambert Elementary,Minnehaha,18,100,43.5375763,-96.6808129
+165,South Dakota,2017-18,St. Mary Elementary,Minnehaha,31,100,43.8278351,-96.7077525
+166,South Dakota,2017-18,St. Michael Elementary,Minnehaha,29,100,43.5767705,-96.7113241
+167,South Dakota,2017-18,St. Thomas Elementary,Lake,1,100,44.0085267,-97.1158794
+168,South Dakota,2017-18,Stewart Elementary,Yankton,40,100,42.8915474,-97.394244
+169,South Dakota,2017-18,Sunset Colony Elementary,Marshall,1,100,45.8058894,-97.8881536
+170,South Dakota,2017-18,Sunshine Bible Elementary,Hand,2,100,44.328708,-98.984106
+171,South Dakota,2017-18,Thunderbird Colony Elementary,Faulk,3,100,45.1896478,-99.2668645
+172,South Dakota,2017-18,Tiospaye Topa Elementary,Dewey,8,100,45.1464526,-100.640036
+173,South Dakota,2017-18,Trinity Lutheran Elementary,Brown,3,100,42.8719183,-97.3975088
+174,South Dakota,2017-18,Tripp Elementary,Hutchinson,6,100,43.2255461,-97.965905
+175,South Dakota,2017-18,Tyndall Elementary,Bon Homme,22,100,42.989737,-97.869392
+176,South Dakota,2017-18,Valley Springs Elementary,Minnehaha,19,100,43.5826389,-96.4728823
+177,South Dakota,2017-18,Wakpala Elementary,Corson,13,100,45.6250448,-100.5224535
+178,South Dakota,2017-18,Warner Elementary,Brown,22,100,45.3245161,-98.4970149
+179,South Dakota,2017-18,Waubay Elementary,Day,11,100,45.338862,-97.30804
+180,South Dakota,2017-18,Webster Area Elementary,Day,40,100,45.333819,-97.5187294
+181,South Dakota,2017-18,Webster Elementary,Yankton,24,100,42.8749693,-97.3875391
+182,South Dakota,2017-18,Wessington Springs Elementary,Jerauld,19,100,44.0817653,-98.5599612
+183,South Dakota,2017-18,West Central Humboldt Elementary,Minnehaha,18,100,43.640238,-97.0739022
+184,South Dakota,2017-18,White Lake Elementary,Aurora,7,100,43.7302731,-98.7136998
+185,South Dakota,2017-18,Wolf Creek,Ogalala Lakota,76,100,43.0474282,-102.4602444
+186,South Dakota,2017-18,Wood Elementary,Mellette,3,100,43.4974648,-100.4760593
+187,South Dakota,2017-18,Worthing Elementary,Lincoln,15,100,43.328441,-96.7665527
+188,South Dakota,2017-18,R.F. Pettigrew Elementary,Minnehaha,154,99.35,43.5053675,-96.825051
+189,South Dakota,2017-18,Badger Clark Elementary,Pennington,130,99.23,44.1375314,-103.065083
+190,South Dakota,2017-18,John F. Kennedy Elementary,Minnehaha,112,99.11,43.5032132,-96.80094
+191,South Dakota,2017-18,Rosa Parks Elementary,Minnehaha,112,99.11,43.5309774,-96.6597726
+192,South Dakota,2017-18,Madison Elementary,Lake,108,99.07,44.0157132,-97.1039378
+193,South Dakota,2017-18,Dakota Valley Elementary,Union,98,98.98,42.5515137,-96.5187254
+194,South Dakota,2017-18,Medary Elementary,Brookings,98,98.98,44.3001343,-96.7922876
+195,South Dakota,2017-18,Oscar Howe Elementary,Minnehaha,97,98.94,43.5197305,-96.8015993
+196,South Dakota,2017-18,Liberty Elementary,Lincoln,82,98.78,43.4323596,-96.6999864
+197,South Dakota,2017-18,Buchanan K-1 Center,Beadle,239,98.73,44.360624,-98.237156
+198,South Dakota,2017-18,Cleveland Elementary,Minnehaha,77,98.7,43.5380525,-96.6840169
+199,South Dakota,2017-18,L.B. Williams Elementary,Davison,80,98.7,43.6955245,-98.0319929
+200,South Dakota,2017-18,Kennedy Elementary,Hughes,72,98.61,44.3883323,-100.3191662
+201,South Dakota,2017-18,Eugene Field A+ Elementary,Minnehaha,71,98.59,43.5437214,-96.7044704
+202,South Dakota,2017-18,Woodrow Wilson Elementary,Pennington,71,98.59,44.0702889,-103.2335707
+203,South Dakota,2017-18,Hawthorne Elementary,Minnehaha,69,98.55,43.5539538,-96.7334961
+204,South Dakota,2017-18,Jefferson Elementary,Hughes,67,98.51,44.3794928,-100.3544506
+205,South Dakota,2017-18,Tea Area Legacy Elementary,Lincoln,132,98.48,43.4502296,-96.8417163
+206,South Dakota,2017-18,Hayward Elementary,Minnehaha,122,98.36,43.550056,-96.7982616
+207,South Dakota,2017-18,Koch Elementary,Grant,61,98.36,45.2121823,-96.6320072
+208,South Dakota,2017-18,Dakota Prairie Elementary,Brookings,121,98.35,44.2762795,-96.802758
+209,South Dakota,2017-18,May Overby Elementary,Brown,59,98.31,45.4507044,-98.4788851
+210,South Dakota,2017-18,American Horse Elementary,Ogalala Lakota,56,98.21,43.2800299,-101.9260676
+211,South Dakota,2017-18,Lincoln Elementary,Yankton,56,98.21,42.8776084,-97.4006196
+212,South Dakota,2017-18,Sturgis Elementary,Meade,108,98.15,44.402819,-103.516084
+213,South Dakota,2017-18,Brandon Elementary,Minnehaha,107,98.13,43.5928445,-96.5844275
+214,South Dakota,2017-18,Freedom Elementary,Lincoln,105,98.1,43.441355,-96.7191722
+215,South Dakota,2017-18,Horace Mann Elementary,Pennington,52,98.08,44.0970226,-103.2310044
+216,South Dakota,2017-18,Lead-Deadwood Elementary,Lawrence,52,98.08,44.375563,-103.7321575
+217,South Dakota,2017-18,Valley View Elementary,Pennington,100,98,44.0772755,-103.1389901
+218,South Dakota,2017-18,Laura B. Anderson Elementary,Minnehaha,49,97.96,43.56419,-96.7071765
+219,South Dakota,2017-18,Holy Spirit Elementary,Minnehaha,48,97.92,43.5049037,-96.6813718
+220,South Dakota,2017-18,Discovery Elementary,Minnehaha,141,97.87,43.5323811,-96.8212879
+221,South Dakota,2017-18,Rosebud Elementary,Todd,47,97.87,43.2328764,-100.8564986
+222,South Dakota,2017-18,Tiospa Zina Elementary,Roberts,46,97.83,45.560263,-97.0775073
+223,South Dakota,2017-18,Francis Case-02--Patriot,Pennington,131,97.71,44.1374852,-103.0612421
+224,South Dakota,2017-18,Wagner Primary,Charles Mix,86,97.67,43.0817,-98.3029
+225,South Dakota,2017-18,Groton Area Elementary,Brown,41,97.56,45.4532932,-98.1016292
+226,South Dakota,2017-18,Sioux Valley Elementary,Brookings,41,97.56,44.3221902,-96.9203353
+227,South Dakota,2017-18,Garretson Elementary,Minnehaha,40,97.5,43.7144384,-96.5039766
+228,South Dakota,2017-18,Hot Springs Elementary,Fall River,38,97.37,43.4317313,-103.4848868
+229,South Dakota,2017-18,Black Hawk Elementary,Meade,75,97.33,44.1528779,-103.3175798
+230,South Dakota,2017-18,Fred Assam Elementary,Minnehaha,112,97.32,43.5481369,-96.6291464
+231,South Dakota,2017-18,Tri-Valley Elementary,Minnehaha,73,97.26,43.7323569,-96.9204
+232,South Dakota,2017-18,Austin Elementary,Clay,105,97.14,42.7830699,-96.9358417
+233,South Dakota,2017-18,Journey Elementary,Lincoln,68,97.06,43.48368,-96.7375656
+234,South Dakota,2017-18,Parkston Elementary,Hutchinson,33,96.97,43.39477,-97.976433
+235,South Dakota,2017-18,C.C. Lee Elementary,Brown,65,96.92,45.485285,-98.4786614
+236,South Dakota,2017-18,Timber Lake Elementary,Dewey,32,96.88,45.4283817,-101.0719719
+237,South Dakota,2017-18,Sonia Sotomayor Elementary,Minnehaha,125,96.8,43.5313766,-96.7447193
+238,South Dakota,2017-18,Renberg Elementary,Minnehaha,31,96.77,43.6459856,-96.7598464
+239,South Dakota,2017-18,Wolsey-Wessington Elementary,Beadle,31,96.77,44.4062095,-98.4700735
+240,South Dakota,2017-18,Anne Sullivan Elementary,Minnehaha,92,96.74,43.5540123,-96.6806948
+241,South Dakota,2017-18,Harvey Dunn Elementary,Minnehaha,92,96.74,43.5240302,-96.6802687
+242,South Dakota,2017-18,Robbinsdale Elementary,Pennington,89,96.63,44.0623113,-103.2084639
+243,South Dakota,2017-18,Sacred Heart Elementary,Yankton,29,96.55,42.9068663,-97.4187121
+244,South Dakota,2017-18,Elkton Elementary,Brookings,28,96.43,44.2327129,-96.4826223
+245,South Dakota,2017-18,St. Elizabeth Seton At Terra Sancta Elementary,Pennington,55,96.36,44.105633,-103.3039597
+246,South Dakota,2017-18,Kimball Elementary,Brule,26,96.15,43.7466651,-98.9584258
+247,South Dakota,2017-18,Red Cloud Elementary,Ogalala Lakota,26,96.15,43.0782189,-102.5862611
+248,South Dakota,2017-18,Rapid City Lutheran Elementary,Pennington,25,96,44.0322264,-103.2730642
+249,South Dakota,2017-18,Redfield Elementary,Spink,49,95.92,44.8769532,-98.5185432
+250,South Dakota,2017-18,Todd County Elementary,Todd,96,95.83,43.2940452,-100.6553453
+251,South Dakota,2017-18,Wall Elementary,Pennington,24,95.83,43.9924889,-102.2415477
+252,South Dakota,2017-18,Rapid Valley Elementary,Pennington,95,95.79,44.059976,-103.144991
+253,South Dakota,2017-18,Meadowbrook Elementary,Pennington,94,95.74,44.0635151,-103.2709473
+254,South Dakota,2017-18,South Park Elementary,Pennington,47,95.74,44.064004,-103.22291
+255,South Dakota,2017-18,Buchanan Elementary,Hughes,70,95.71,44.3640906,-100.3206253
+256,South Dakota,2017-18,Canyon Lake Elementary,Pennington,69,95.65,44.07193,-103.274389
+257,South Dakota,2017-18,Castlewood Elementary,Hamlin,23,95.65,44.7249141,-97.0287096
+258,South Dakota,2017-18,Irene-Wakonda Elementary,Clay,23,95.65,43.0051684,-97.1114603
+259,South Dakota,2017-18,Lemmon Elementary,Perkins,23,95.65,45.9357172,-102.1671886
+260,South Dakota,2017-18,Cheyenne River/Eagle Butte Primary,Dewey,108,95.37,45.0001096,-101.2347948
+261,South Dakota,2017-18,Scotland Elementary,Bon Homme,21,95.24,43.1484308,-97.7151344
+262,South Dakota,2017-18,Viborg-Hurley Elementary,Turner,21,95.24,43.1696169,-97.0843108
+263,South Dakota,2017-18,White River Elementary,Mellette,21,95.24,43.5678,-100.744
+264,South Dakota,2017-18,Explorer Elementary,Minnehaha,83,95.18,43.4795474,-96.7756348
+265,South Dakota,2017-18,Terry Redlin Elementary,Minnehaha,61,95.08,43.549069,-96.7048409
+266,South Dakota,2017-18,Dell Rapids Elementary,Minnehaha,101,95.05,43.832257,-96.720511
+267,South Dakota,2017-18,John Paul Ii Elementary,Davison,20,95,43.7038174,-98.0440145
+268,South Dakota,2017-18,Tea Area Frontier Elementary,Lincoln,20,95,43.5195396,-96.8346392
+269,South Dakota,2017-18,Whitewood Elementary,Lawrence,20,95,44.4635696,-103.6355217
+270,South Dakota,2017-18,Hillcrest Elementary,Brookings,78,94.87,44.3083698,-96.7787978
+271,South Dakota,2017-18,Robert Bennis Elementary,Minnehaha,113,94.69,43.5709517,-96.589921
+272,South Dakota,2017-18,West Central Hartford Elementary,Minnehaha,93,94.62,43.6221535,-96.935195
+273,South Dakota,2017-18,Clark Elementary,Clark,18,94.44,44.8793633,-97.7378059
+274,South Dakota,2017-18,Florence Elementary,Codington,18,94.44,45.054127,-97.330041
+275,South Dakota,2017-18,Roncalli Elementary,Brown,35,94.29,45.4669149,-98.4818897
+276,South Dakota,2017-18,Dupree Elementary,Ziebach,34,94.12,45.0493018,-101.6001896
+277,South Dakota,2017-18,Enemy Swim Day,Day,17,94.12,45.425222,-97.292906
+278,South Dakota,2017-18,St. Mary's Elementary,Minnehaha,17,94.12,43.527428,-96.7212254
+279,South Dakota,2017-18,North Park Elementary,Butte,119,94.07,44.680601,-103.8512053
+280,South Dakota,2017-18,Lowell Elementary,Minnehaha,66,93.94,43.5372705,-96.7363532
+281,South Dakota,2017-18,Wilmot Elementary,Clark,33,93.94,45.4061507,-96.8560439
+282,South Dakota,2017-18,Armour Elementary,Douglas,16,93.75,43.3199032,-98.3479309
+283,South Dakota,2017-18,Philip Elementary,Haakon,16,93.75,44.0431964,-101.6685667
+284,South Dakota,2017-18,Stanley County Elementary,Stanley,32,93.75,44.3528681,-100.3730065
+285,South Dakota,2017-18,Woonsocket Elementary,Sanborn,16,93.75,44.0531055,-98.2767503
+286,South Dakota,2017-18,Lennox Elementary-02,Lincoln,63,93.65,43.3505432,-96.8945717
+287,South Dakota,2017-18,Custer Elementary,Custer,46,93.48,43.7645892,-103.5827074
+288,South Dakota,2017-18,South Canyon Elementary,Pennington,46,93.48,44.0842681,-103.284283
+289,South Dakota,2017-18,Bridgewater-Emery Elementary,McCook,30,93.33,43.6025142,-97.6181253
+290,South Dakota,2017-18,Gettysburg Elementary,Potter,15,93.33,45.0078271,-99.953858
+291,South Dakota,2017-18,Waverly-South Shore Elementary,Codington,15,93.33,44.9992415,-96.9713446
+292,South Dakota,2017-18,Onida Elementary,Sully,14,92.86,44.7030202,-100.0637971
+293,South Dakota,2017-18,Willow Lake Elementary,Clark,14,92.86,44.628529,-97.637259
+294,South Dakota,2017-18,Mountain View Elementary,Lawrence,150,92.67,44.4896223,-103.8541392
+295,South Dakota,2017-18,Northwestern Elementary,Spink,27,92.59,45.1558423,-98.5001587
+296,South Dakota,2017-18,Laura Wilder Elementary,Minnehaha,93,92.47,43.5249114,-96.7530794
+297,South Dakota,2017-18,Hermosa Elementary,Custer,26,92.31,43.8390656,-103.1961411
+298,South Dakota,2017-18,Jones County Elementary,Jones,13,92.31,43.8896429,-100.7090318
+299,South Dakota,2017-18,Mitchell Christian Elementary,Davison,13,92.31,43.7265784,-98.0363438
+300,South Dakota,2017-18,Sanborn Central Elementary,Sanborn,13,92.31,44.0219925,-98.1173622
+301,South Dakota,2017-18,St. Paul's Elementary,Pennington,13,92.31,44.052632,-103.2026928
+302,South Dakota,2017-18,Elementary Immersion Center,Minnehaha,25,92,43.559819,-96.7603138
+303,South Dakota,2017-18,Plankinton Elementary,Aurora,25,92,43.7170043,-98.4850854
+304,South Dakota,2017-18,St. Agnes Elementary,Clay,12,91.67,42.7746319,-96.9172238
+305,South Dakota,2017-18,Summit Elementary,Roberts,12,91.67,45.3046041,-97.0404083
+306,South Dakota,2017-18,Isna Wica Owayawa (Loneman School),Ogalala Lakota,23,91.3,43.1979973,-102.7721493
+307,South Dakota,2017-18,Susan B. Anthony Elementary,Minnehaha,91,91.21,43.5271243,-96.7298683
+308,South Dakota,2017-18,Platte-Geddes Elementary,Charles Mix,34,91.18,43.3872057,-98.8392208
+309,South Dakota,2017-18,Avon Elementary,Bon Homme,11,90.91,43.005338,-98.0569174
+310,South Dakota,2017-18,Faulkton Elementary-02,Faulk,11,90.91,45.0342547,-99.1289856
+311,South Dakota,2017-18,Gregory Elementary,Gregory,44,90.91,43.231598,-99.422637
+312,South Dakota,2017-18,Ipswich Elementary,Edmunds,22,90.91,45.4444193,-99.0292784
+313,South Dakota,2017-18,Menno Elementary,Hutchinson,11,90.91,43.2365794,-97.5772886
+314,South Dakota,2017-18,Our Lady Of Lourdes Elementary,Ogalala Lakota,10,90,43.243866,-102.3374393
+315,South Dakota,2017-18,St. Lawrence Elementary,Grant,10,90,45.2218481,-96.6293254
+316,South Dakota,2017-18,St. Martins Elementary,Codington,10,90,44.915215,-97.110368
+317,South Dakota,2017-18,Buffalo Elementary,Harding,9,88.89,45.589932,-103.55105
+318,South Dakota,2017-18,James Valley Christian Elementary,Beadle,18,88.89,44.3863786,-98.2123604
+319,South Dakota,2017-18,Sapa Un Catholic Academy Elementary,Todd,9,88.89,43.140286,-100.905798
+320,South Dakota,2017-18,Sioux Falls Christian Elementary,Minnehaha,90,88.89,43.4880457,-96.699752
+321,South Dakota,2017-18,All City Elem,Minnehaha,25,88,43.5597785,-96.7604403
+322,South Dakota,2017-18,Enning/Union Center Elementary,Meade,8,87.5,44.5752409,-102.5629632
+323,South Dakota,2017-18,Winner Elementary,Tripp,55,87.27,43.2260675,-97.9671959
+324,South Dakota,2017-18,Iroquois Elementary,Kingsbury,15,86.67,44.3669201,-97.8509171
+325,South Dakota,2017-18,Children's House Montessori Elementary,Pennington,7,85.71,44.0825418,-103.2781675
+326,South Dakota,2017-18,Christ The King Elementary,Minnehaha,7,85.71,43.5289247,-96.7453228
+327,South Dakota,2017-18,Langford Area Elementary,Marshall,7,85.71,45.6024517,-97.8303789
+328,South Dakota,2017-18,Sioux Falls Lutheran Elementary,Minnehaha,14,85.71,43.5473028,-96.728333
+329,South Dakota,2017-18,Selby Elementary,Walworth,19,84.21,45.5085633,-100.0316347
+330,South Dakota,2017-18,Tschetter Colony Elementary,Hutchinson,6,83.33,43.3428701,-97.6584959
+331,South Dakota,2017-18,Watertown Christian Elementary,Codington,6,83.33,44.916334,-97.1124702
+332,South Dakota,2017-18,Tabor Elementary,Bon Homme,11,81.82,42.9508177,-97.6589188
+333,South Dakota,2017-18,Goldenview Colony,McCook,5,80,43.689925,-97.443651
+334,South Dakota,2017-18,Midland Elementary,Haakon,5,80,44.071242,-101.160594
+335,South Dakota,2017-18,Orland Colony Elementary,McCook,10,80,43.8194158,-97.2009101
+336,South Dakota,2017-18,Westwood Rural Elementary,Marshall,5,80,45.886051,-97.783496
+337,South Dakota,2017-18,Wolf Creek Colony Elementary,Hutchinson,5,80,43.3494568,-97.6175804
+338,South Dakota,2017-18,Aberdeen Christian Elementary,Brown,14,78.57,45.4819222,-98.5084977
+339,South Dakota,2017-18,Colome Elementary,Tripp,13,76.92,43.2604409,-99.7182222
+340,South Dakota,2017-18,Wounded Knee Elementary,Ogalala Lakota,30,76.67,43.23224,-102.4675756
+341,South Dakota,2017-18,Calvary Christian Elementary,Pennington,21,76.19,44.037681,-103.248128
+342,South Dakota,2017-18,Porcupine Elementary,Ogalala Lakota,21,76.19,43.2482071,-102.3301852
+343,South Dakota,2017-18,Pembrook Colony Elementary,Edmunds,4,75,45.374243,-98.999611
+344,South Dakota,2017-18,St. Mary's Elementary,McCook,4,75,43.7275124,-97.388965
+345,South Dakota,2017-18,Takini Elementary,Ziebach,12,75,44.648261,-101.8445645
+346,South Dakota,2017-18,Volga Christian Elementary,Brookings,4,75,44.3184243,-96.9236443
+347,South Dakota,2017-18,Chester Elementary,Lake,15,73.33,43.8997155,-96.9300694
+348,South Dakota,2017-18,Bethel Lutheran Elementary,Minnehaha,3,66.67,43.5290182,-96.8012725
+349,South Dakota,2017-18,Brentwood Colony Elementary,Faulk,3,66.67,45.1521114,-99.3010751
+350,South Dakota,2017-18,Camridge Colony,Lake,3,66.67,44.089895,-96.965317
+351,South Dakota,2017-18,Cedar Grove Colony Elementary- 14,Charles Mix,3,66.67,43.530865,-98.805413
+352,South Dakota,2017-18,Littleburg Elementary,Todd,3,66.67,43.2979536,-100.6540819
+353,South Dakota,2017-18,Oelrichs Elementary,Fall River,6,66.67,43.180339,-103.2336776
+354,South Dakota,2017-18,Spring Valley Colony Elementary,Jerauld,3,66.67,44.0415197,-98.8874546
+355,South Dakota,2017-18,Dakota Christian Elementary,Douglas,11,63.64,44.1346263,-103.0656283
+356,South Dakota,2017-18,Rock Creek Elementary,Corson,11,63.64,45.7655184,-101.0807657
+357,South Dakota,2017-18,Piedmont Valley Elementary,Meade,96,58.33,44.2329755,-103.3923735
+358,South Dakota,2017-18,Camrose Colony Elementary,Spink,2,50,44.9325759,-98.2227684
+359,South Dakota,2017-18,Elm Springs Elementary,Meade,2,50,44.3138857,-102.5378934
+360,South Dakota,2017-18,Gracevale Colony,Lake,2,50,43.968881,-97.296726
+361,South Dakota,2017-18,Westside Christian,Minnehaha,2,50,43.4881278,-96.7537594
+362,South Dakota,2017-18,White Rock Colony-02,Roberts,6,50,45.9099943,-96.6234129
+363,South Dakota,2017-18,Hutterville Colony-01,Brown,4,25,45.2642756,-98.2122508
+364,South Dakota,2017-18,Collins Colony Elementary,Clark,2,0,44.8800496,-97.7418669
+365,South Dakota,2017-18,Elk Mountain Elementary,Fall River,1,0,43.7074467,-104.0021822
+366,South Dakota,2017-18,Fordham Colony Elementary,Clark,3,0,44.7685819,-97.909256
+367,South Dakota,2017-18,Newdale Colony Elementary,Brookings,5,0,44.2925211,-96.5249458
+368,South Dakota,2017-18,Silver Lake Colony,Clark,1,0,44.8672933,-97.6076581
+369,South Dakota,2017-18,Spring Creek Colony Elementary,McPherson,4,0,45.911304,-98.8770676
+370,South Dakota,2017-18,Upland Colony Elementary,Sanborn,2,0,43.8766435,-97.9710005
+371,South Dakota,2017-18,Atall Elementary,Meade,0,,44.640362,-102.788662
+372,South Dakota,2017-18,Hereford Elementary,Meade,0,,44.3802643,-102.9232294
+373,South Dakota,2017-18,Huron Colony Elementary,Beadle,0,,44.564363,-98.207048
+374,South Dakota,2017-18,Jdc-88,Beadle,0,,44.4797351,-98.2212979
+375,South Dakota,2017-18,Long Lake Colony Elementary,McPherson,0,,45.606521,-98.8147356
+376,South Dakota,2017-18,Our Home,Hutchinson,0,,43.393375,-97.975615
+377,South Dakota,2017-18,Platte Colony Elementary,Charles Mix,0,,43.4709363,-99.1250347
+378,South Dakota,2017-18,Rolland Colony Elementary,Brookings,0,,44.3402125,-96.5901329
+379,South Dakota,2017-18,Spink Colony Elementary,Spink,0,,44.7443554,-98.2913874
+380,South Dakota,2017-18,White Eagle Elementary,Todd,0,,43.3060346,-100.6533034

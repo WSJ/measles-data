@@ -1,0 +1,1375 @@
+index,state,year,name,type,city,county,mmr,xmed,lat,lng
+1,Massachusetts,2018-19,A Drewicz Elementary,Public,Lynn,Essex,100,0,42.4605981,-70.9692985
+2,Massachusetts,2018-19,Abraham Lincoln,Public,New Bedford,Bristol,100,0,41.669369,-70.932226
+3,Massachusetts,2018-19,Alfred J Gomes,Public,New Bedford,Bristol,100,0,41.626079,-70.922104
+4,Massachusetts,2018-19,Alice Beal Elementary,Public,Springfield,Hampden,100,0,42.0738917,-72.5447572
+5,Massachusetts,2018-19,Allendale Elementary,Public,Pittsfield,Berkshire,100,0,42.4589354,-73.2201378
+6,Massachusetts,2018-19,Alma Del Mar Charter,Public,New Bedford,Bristol,100,0,41.6657016,-70.9227056
+7,Massachusetts,2018-19,Amesbury Elementary,Public,Amesbury,Essex,100,0,42.8659891,-70.9318918
+8,Massachusetts,2018-19,Amvet Blvd,Public,North Attleboro,Bristol,100,0,41.9764879,-71.3425454
+9,Massachusetts,2018-19,Anna E Barry,Public,Chicopee,Hampden,100,0,42.1662194,-72.5878769
+10,Massachusetts,2018-19,Annie E Fales,Public,Westboro,Worcester,100,1.1,42.2505572,-71.6217827
+11,Massachusetts,2018-19,Arthur D Healey,Public,Somerville,Middlesex,100,0,42.3976223,-71.095253
+12,Massachusetts,2018-19,Atherton Hough,Public,Quincy,Norfolk,100,0,42.2671172,-70.9575461
+13,Massachusetts,2018-19,Atlantis Charter,Public,Fall River,Bristol,100,0,41.675392,-71.1831189
+14,Massachusetts,2018-19,Bartlett Kindergarten Ctr,Public,Haverhill,Essex,100,0,42.7672266,-71.1009844
+15,Massachusetts,2018-19,Bates Elementary,Public,Salem,Essex,100,0,42.5345566,-70.9057686
+16,Massachusetts,2018-19,Beaver Brook Elementary,Public,Abington,Plymouth,100,0,42.1187853,-70.9438945
+17,Massachusetts,2018-19,Benjamin Banneker Charter,Public,Cambridge,Middlesex,100,0,42.392112,-71.1315599
+18,Massachusetts,2018-19,Bennett-Hemenway,Public,Natick,Middlesex,100,1,42.3071572,-71.3582594
+19,Massachusetts,2018-19,Berkley Community,Public,Berkley,Bristol,100,0,41.8332992,-71.0883288
+20,Massachusetts,2018-19,Betsy Winslow,Public,New Bedford,Bristol,100,2.2,41.6253806,-70.9445097
+21,Massachusetts,2018-19,Blessed Sacrament,Private,Walpole,Norfolk,100,0,42.1469858,-71.2459114
+22,Massachusetts,2018-19,Blueberry Hill,Public,Longmeadow,Hampden,100,0,42.0593165,-72.5597582
+23,Massachusetts,2018-19,Boutwell,Public,Wilmington,Middlesex,100,0,42.546775,-71.1883427
+24,Massachusetts,2018-19,Bowman,Public,Lexington,Middlesex,100,0,42.4164102,-71.2016591
+25,Massachusetts,2018-19,Boylston Elementary,Public,Boylston,Worcester,100,0,42.3312115,-71.7397836
+26,Massachusetts,2018-19,Brickett Elementary,Public,Lynn,Essex,100,0,42.4661199,-70.930991
+27,Massachusetts,2018-19,Brightwood,Public,Springfield,Hampden,100,0,42.119976,-72.6149377
+28,Massachusetts,2018-19,Broadmeadow,Public,Needham,Norfolk,100,1.1,42.2792917,-71.2086244
+29,Massachusetts,2018-19,Brookfield Elementary,Public,Brookfield,Worcester,100,0,42.2148093,-72.0972324
+30,Massachusetts,2018-19,Brookside Elementary,Public,Dracut,Middlesex,100,0,42.6729872,-71.3417058
+31,Massachusetts,2018-19,Brown,Public,Natick,Middlesex,100,0,42.2913187,-71.3842722
+32,Massachusetts,2018-19,Burgess Elementary,Public,Sturbridge,Worcester,100,1,42.1150115,-72.0952731
+33,Massachusetts,2018-19,C.T. Douglas,Public,Acton,Middlesex,100,0,42.4816957,-71.4716724
+34,Massachusetts,2018-19,Cabot Elementary,Public,Newtonville,Middlesex,100,0,42.3480778,-71.1979355
+35,Massachusetts,2018-19,Callahan,Public,Lynn,Essex,100,0,42.4673917,-70.9844071
+36,Massachusetts,2018-19,Calvin Coolidge,Public,Shrewsbury,Worcester,100,0,42.2653329,-71.7486762
+37,Massachusetts,2018-19,Canterbury St,Public,Worcester,Worcester,100,0,42.2464217,-71.8173557
+38,Massachusetts,2018-19,Capt Wm Shoemaker,Public,Lynn,Essex,100,1.6,42.50484,-70.983587
+39,Massachusetts,2018-19,Capuano Early Childhood Ctr,Public,Somerville,Middlesex,100,0,42.3825129,-71.0868252
+40,Massachusetts,2018-19,Carlos Pacheco Elementary,Public,New Bedford,Bristol,100,0,41.6566501,-70.9405158
+41,Massachusetts,2018-19,Carlton Viveiros Elementary,Public,Fall River,Bristol,100,0,41.686335,-71.176737
+42,Massachusetts,2018-19,Carver Elementary,Public,Carver,Plymouth,100,0,41.89148,-70.7743626
+43,Massachusetts,2018-19,Center,Public,South Easton,Bristol,100,1.4,42.0345811,-71.0992139
+44,Massachusetts,2018-19,Charles D Harrington,Public,North Chelmsford,Middlesex,100,0,42.62263,-71.3792246
+45,Massachusetts,2018-19,Charles S Ashley,Public,New Bedford,Bristol,100,0,41.676293,-70.9334576
+46,Massachusetts,2018-19,Charles Taylor Elementary,Public,Foxboro,Norfolk,100,0,42.0486549,-71.253691
+47,Massachusetts,2018-19,Charlotte M Murkland Elementary,Public,Lowell,Middlesex,100,0,42.6466295,-71.3211299
+48,Massachusetts,2018-19,Cheverus Elementary,Private,Malden,Middlesex,100,0,42.4259696,-71.0664376
+49,Massachusetts,2018-19,Clark St Elementary,Public,Worcester,Worcester,100,0,42.3122541,-71.7723888
+50,Massachusetts,2018-19,Claypit Hill,Public,Wayland,Middlesex,100,0,42.3730746,-71.3447883
+51,Massachusetts,2018-19,Clifford Marshall,Public,Quincy,Norfolk,100,0,42.24371,-70.9819854
+52,Massachusetts,2018-19,Cold Spring,Public,Plymouth,Plymouth,100,0,41.9627574,-70.6779374
+53,Massachusetts,2018-19,Colegrove Park Elementary,Public,North Adams,Berkshire,100,0,42.6992662,-73.1077924
+54,Massachusetts,2018-19,Collicot,Public,Milton,Norfolk,100,0,42.2537695,-71.0522158
+55,Massachusetts,2018-19,Community Day Charter School - Gateway,Public,Lawrence,Essex,100,0,42.7126509,-71.1449446
+56,Massachusetts,2018-19,Community Day Charter School - Webster,Public,Lawrence,Essex,100,0,42.6838369,-71.1855036
+57,Massachusetts,2018-19,Community,Public,North Attleboro,Bristol,100,0,41.98054,-71.334753
+58,Massachusetts,2018-19,Cove Elementary,Public,Beverly,Essex,100,0,42.556047,-70.858329
+59,Massachusetts,2018-19,Craneville,Public,Dalton,Berkshire,100,0,42.473039,-73.177511
+60,Massachusetts,2018-19,Crosby Elementary,Public,Pittsfield,Berkshire,100,0,42.4494356,-73.2728528
+61,Massachusetts,2018-19,Cushman,Public,Dartmouth,Bristol,100,1.6,41.5980543,-70.9414029
+62,Massachusetts,2018-19,Dexter-Southfield,Private,Brookline,Norfolk,100,2.3,42.3081273,-71.1376268
+63,Massachusetts,2018-19,Donald P Timony Grammar,Public,Methuen,Essex,100,0,42.7308031,-71.1721821
+64,Massachusetts,2018-19,Douglas Macarthur,Public,Waltham,Middlesex,100,0,42.4040115,-71.2500554
+65,Massachusetts,2018-19,Downey,Public,Westwood,Norfolk,100,0,42.214725,-71.175814
+66,Massachusetts,2018-19,Dr John C Page Elementary,Public,West Newbury,Essex,100,0,42.8088,-70.9617381
+67,Massachusetts,2018-19,Dudley St Neighborhood Charter,Public,Roxbury,Suffolk,100,0,42.3235409,-71.0728817
+68,Massachusetts,2018-19,Dutile Elementary,Public,Billerica,Middlesex,100,2,42.5635618,-71.2940433
+69,Massachusetts,2018-19,E G Campbell Performing Arts Magnet,Public,New Bedford,Bristol,100,0,41.701931,-70.937698
+70,Massachusetts,2018-19,E R Hathaway,Public,New Bedford,Bristol,100,0,41.633151,-70.940112
+71,Massachusetts,2018-19,Early Childhood Center,Public,Melrose,Middlesex,100,0,42.441118,-71.072149
+72,Massachusetts,2018-19,Early Learning Center - West Zone,Public,Jamaica Plain,Suffolk,100,0,42.326026,-71.106821
+73,Massachusetts,2018-19,East Elementary,Public,Hingham,Plymouth,100,0,42.2391893,-70.8662789
+74,Massachusetts,2018-19,East Gloucester Elementary,Public,Gloucester,Essex,100,0,42.6102352,-70.6493682
+75,Massachusetts,2018-19,East Meadow,Public,Granby,Hampshire,100,1.8,42.2651028,-72.491362
+76,Massachusetts,2018-19,East Somerville Community,Public,Somerville,Middlesex,100,0,42.385953,-71.0865466
+77,Massachusetts,2018-19,East St Elementary,Public,Ludlow,Hampden,100,0,42.1612025,-72.4669613
+78,Massachusetts,2018-19,Edgar B Davis Elementary,Public,Brockton,Plymouth,100,0,42.0554126,-70.9995186
+79,Massachusetts,2018-19,Edgartown Elementary,Public,Edgartown,Dukes,100,0,41.3899127,-70.5219357
+80,Massachusetts,2018-19,Edward Devotion,Public,Brookline,Norfolk,100,0,42.3447253,-71.1239401
+81,Massachusetts,2018-19,Egremont,Public,Pittsfield,Berkshire,100,0,42.4373363,-73.2294248
+82,Massachusetts,2018-19,Eliot Elementary,Public,Needham,Norfolk,100,0,42.306122,-71.2400776
+83,Massachusetts,2018-19,Elizabeth G Lyons Elementary,Public,Randolph,Norfolk,100,0,42.1769293,-71.04088
+84,Massachusetts,2018-19,Elm St,Public,Walpole,Norfolk,100,0,42.1506612,-71.2652464
+85,Massachusetts,2018-19,Emily G Wetherbee,Public,Lawrence,Essex,100,0,42.6943762,-71.1667091
+86,Massachusetts,2018-19,Espirito Santo,Private,Fall River,Bristol,100,0,41.6879218,-71.1344555
+87,Massachusetts,2018-19,Essex Elementary,Public,Essex,Essex,100,0,42.6324118,-70.7899754
+88,Massachusetts,2018-19,Fannie Proctor,Public,Northboro,Worcester,100,0,42.3022994,-71.6523304
+89,Massachusetts,2018-19,Farley Elementary,Public,Hudson,Middlesex,100,0,42.4000803,-71.5751711
+90,Massachusetts,2018-19,Federal Furnace,Public,Plymouth,Plymouth,100,0,41.9156887,-70.7053747
+91,Massachusetts,2018-19,Fessenden,Private,West Newton,Middlesex,100,0,42.3574934,-71.2203758
+92,Massachusetts,2018-19,Fisher Elementary,Public,Walpole,Norfolk,100,0,42.1617158,-71.2426177
+93,Massachusetts,2018-19,Fiske,Public,Lexington,Middlesex,100,0,42.4584944,-71.2202099
+94,Massachusetts,2018-19,Florence Sawyer,Public,Bolton,Worcester,100,0,42.4300454,-71.6088653
+95,Massachusetts,2018-19,Four Corners,Public,Greenfield,Franklin,100,2.3,42.6089687,-72.5889665
+96,Massachusetts,2018-19,Francis J Kane,Public,Marlboro,Middlesex,100,0,42.3430134,-71.5201336
+97,Massachusetts,2018-19,Francis J Muraco Elementary,Public,Winchester,Middlesex,100,0,42.4631354,-71.1312974
+98,Massachusetts,2018-19,Francis W Parker Elementary,Public,Quincy,Norfolk,100,0,42.2760937,-71.0215883
+99,Massachusetts,2018-19,Francis Wyman Elementary,Public,Burlington,Middlesex,100,0,42.5003365,-71.2153958
+100,Massachusetts,2018-19,Franklin Elementary,Public,West Newton,Middlesex,100,0,42.3579046,-71.2280477
+101,Massachusetts,2018-19,Freetown Elementary,Public,East Freetown,Bristol,100,0,41.7609555,-71.014764
+102,Massachusetts,2018-19,Garfield Elementary,Public,Revere,Suffolk,100,0,42.4036113,-70.9924798
+103,Massachusetts,2018-19,Gilmore Elementary K-5,Public,Brockton,Plymouth,100,0,42.0665207,-71.0131034
+104,Massachusetts,2018-19,Glenwood,Public,Springfield,Hampden,100,0,42.132375,-72.5906299
+105,Massachusetts,2018-19,Glickman Elementary,Public,Springfield,Hampden,100,0,42.1141838,-72.5111521
+106,Massachusetts,2018-19,Glover,Public,Marblehead,Essex,100,0,42.4902062,-70.8797582
+107,Massachusetts,2018-19,Goddard School Of Science & Tech,Public,Worcester,Worcester,100,0,42.247825,-71.824374
+108,Massachusetts,2018-19,Goodyear Elementary,Public,Woburn,Middlesex,100,0,42.4802826,-71.1245201
+109,Massachusetts,2018-19,Gov Edward Winslow,Public,Marshfield,Plymouth,100,1.8,42.0702259,-70.6694514
+110,Massachusetts,2018-19,Great Oak,Public,Danvers,Essex,100,0,42.5698369,-70.9486897
+111,Massachusetts,2018-19,Green Meadows,Public,Hampden,Hampden,100,0,42.0666905,-72.4122006
+112,Massachusetts,2018-19,Greenmont Avenue,Public,Dracut,Middlesex,100,0,42.6701538,-71.3087378
+113,Massachusetts,2018-19,Greenwood,Public,Wakefield,Middlesex,100,0,42.4807124,-71.0640766
+114,Massachusetts,2018-19,H H Galligan,Public,Taunton,Bristol,100,0,41.900764,-71.1079018
+115,Massachusetts,2018-19,Harrington Elementary,Public,Lexington,Middlesex,100,1.4,42.4453512,-71.1988178
+116,Massachusetts,2018-19,Hatfield Elementary,Public,Hatfield,Hampshire,100,0,42.3697412,-72.600069
+117,Massachusetts,2018-19,Hatherly Elementary,Public,Scituate,Plymouth,100,0,42.2161987,-70.7615605
+118,Massachusetts,2018-19,Heard Street,Public,Worcester,Worcester,100,0,42.2313785,-71.8433831
+119,Massachusetts,2018-19,Heath,Public,Brookline,Norfolk,100,1.9,42.3224331,-71.1579673
+120,Massachusetts,2018-19,Hedge Elementary,Public,Plymouth,Plymouth,100,0,41.9737616,-70.6871332
+121,Massachusetts,2018-19,Helen Hansen,Public,Stoughton,Norfolk,100,0,42.130922,-71.130306
+122,Massachusetts,2018-19,Helen Keller Elementary,Public,Franklin,Norfolk,100,0,42.1093765,-71.3971609
+123,Massachusetts,2018-19,Hemenway Elementary,Public,Framingham,Middlesex,100,0,42.3302313,-71.4321136
+124,Massachusetts,2018-19,Henry P Clough,Public,Mendon,Worcester,100,0,42.1091813,-71.5560203
+125,Massachusetts,2018-19,Henry Whittemore Elementary,Public,Waltham,Middlesex,100,0,42.364971,-71.229726
+126,Massachusetts,2018-19,High Plain Elementary,Public,Andover,Essex,100,0,42.66467,-71.2122146
+127,Massachusetts,2018-19,Hildreth Elementary,Public,Harvard,Worcester,100,0,42.4968771,-71.5819151
+128,Massachusetts,2018-19,Hillview Montessori Charter,Public,Haverhill,Essex,100,0,42.766155,-71.11977
+129,Massachusetts,2018-19,Hollis,Public,Braintree,Norfolk,100,0,42.2158214,-71.002649
+130,Massachusetts,2018-19,Hood,Public,Lynn,Essex,100,0,42.4783516,-70.9384518
+131,Massachusetts,2018-19,Horace Mann,Public,Melrose,Middlesex,100,0,42.4714751,-71.0542339
+132,Massachusetts,2018-19,Horace Mann Elementary,Public,Newtonville,Middlesex,100,0,42.354539,-71.2134849
+133,Massachusetts,2018-19,Hubbardston Center,Public,Hubbardston,Worcester,100,0,42.4742469,-72.0074771
+134,Massachusetts,2018-19,Huckleberry Hill,Public,Lynnfield,Essex,100,0,42.5230702,-71.0234027
+135,Massachusetts,2018-19,Hunnewell,Public,Wellesley,Norfolk,100,0,42.3008152,-71.2420928
+136,Massachusetts,2018-19,Hurld-Wyman,Public,Woburn,Middlesex,100,0,42.4845376,-71.1671779
+137,Massachusetts,2018-19,Hyannis West Elementary,Public,Hyannis,Barnstable,100,0,41.6498239,-70.316413
+138,Massachusetts,2018-19,International School Of Boston,Private,Arlington,Middlesex,100,0,42.4123837,-71.158827
+139,Massachusetts,2018-19,Israel Loring,Public,Sudbury,Middlesex,100,0,42.3497396,-71.4074985
+140,Massachusetts,2018-19,J F Kennedy Elementary,Public,Randolph,Norfolk,100,0,42.1661469,-71.0342938
+141,Massachusetts,2018-19,J F Kennedy Memorial,Public,Franklin,Norfolk,100,0,42.1082174,-71.4273389
+142,Massachusetts,2018-19,J G Pyne Arts Magnet,Public,Lowell,Middlesex,100,0,42.6271957,-71.2886939
+143,Massachusetts,2018-19,J Turner Hood,Public,North Reading,Middlesex,100,0,42.5953976,-71.0889753
+144,Massachusetts,2018-19,J.F. Kennedy,Public,Jamaica Plain,Suffolk,100,0,42.3216472,-71.1056731
+145,Massachusetts,2018-19,Jacob Hiatt Magnet,Public,Worcester,Worcester,100,0,42.2570501,-71.810564
+146,Massachusetts,2018-19,Jacobs Elementary,Public,New Bedford,Bristol,100,0,41.6453018,-70.9470754
+147,Massachusetts,2018-19,James Fitzgerald Elementary,Public,Waltham,Middlesex,100,0,42.3805924,-71.209654
+148,Massachusetts,2018-19,John A Bishop Elementary,Public,Arlington,Middlesex,100,0,42.424351,-71.1548
+149,Massachusetts,2018-19,John Avery Parker,Public,New Bedford,Bristol,100,0,41.6444422,-70.9321001
+150,Massachusetts,2018-19,John D Runkle,Public,Brookline,Norfolk,100,0,42.3810374,-71.0800593
+151,Massachusetts,2018-19,John E Burke Elementary,Public,Peabody,Essex,100,0,42.5622238,-71.0240667
+152,Massachusetts,2018-19,John F Kennedy,Public,Canton,Norfolk,100,0,42.1753463,-71.1424843
+153,Massachusetts,2018-19,John H Duval,Public,Whitman,Plymouth,100,0,42.0872381,-70.9175467
+154,Massachusetts,2018-19,John J Doran,Public,Fall River,Bristol,100,0,41.7001697,-71.1651181
+155,Massachusetts,2018-19,John J Stefanik,Public,Chicopee,Hampden,100,0,42.1670478,-72.6156064
+156,Massachusetts,2018-19,John Ward Elementary,Public,Newton Centre,Middlesex,100,0,42.3403223,-71.1783638
+157,Massachusetts,2018-19,Johnson Elementary,Public,Natick,Middlesex,100,0,42.2785089,-71.3508284
+158,Massachusetts,2018-19,Joseph C Chamberlain,Public,Taunton,Bristol,100,0,41.9182442,-71.1362585
+159,Massachusetts,2018-19,Joseph Estabrook,Public,Lexington,Middlesex,100,1.3,42.4770428,-71.2385552
+160,Massachusetts,2018-19,Joseph R Dawe Elementary,Public,Stoughton,Norfolk,100,0,42.139471,-71.0913216
+161,Massachusetts,2018-19,Joshua Eaton,Public,Reading,Middlesex,100,0,42.5145873,-71.1106344
+162,Massachusetts,2018-19,Josiah Haynes,Public,Sudbury,Middlesex,100,3.9,42.4156947,-71.4151239
+163,Massachusetts,2018-19,Katharine Lee Bates,Public,Wellesley,Norfolk,100,0,42.31288,-71.306527
+164,Massachusetts,2018-19,Kensington Avenue,Public,Springfield,Hampden,100,0,42.091068,-72.5617169
+165,Massachusetts,2018-19,King Elementary,Public,Framingham,Middlesex,100,0,42.325459,-71.4213517
+166,Massachusetts,2018-19,L D Batchelder,Public,North Reading,Middlesex,100,0,42.5749401,-71.0798358
+167,Massachusetts,2018-19,L F Dewing,Public,Tewksbury,Middlesex,100,0.7,42.6412615,-71.2469601
+168,Massachusetts,2018-19,Lake View,Public,Worcester,Worcester,100,0,42.2679158,-71.7590784
+169,Massachusetts,2018-19,Lawrence,Public,Brookline,Norfolk,100,1.1,42.3390578,-71.1141694
+170,Massachusetts,2018-19,Lawrence Catholic Academy,Private,Lawrence,Essex,100,0,42.6977481,-71.1594252
+171,Massachusetts,2018-19,Lawrence Family Public Academy,Public,Lawrence,Essex,100,0,42.7007246,-71.1828554
+172,Massachusetts,2018-19,Lee Academy,Public,Dorchester,Suffolk,100,0,42.286794,-71.072708
+173,Massachusetts,2018-19,Leeds Elementary,Public,Leeds,Hampshire,100,0,42.351849,-72.6984288
+174,Massachusetts,2018-19,Leicester Primary,Public,Leicester,Worcester,100,0,42.2538096,-71.9071108
+175,Massachusetts,2018-19,Lilja Elementary,Public,Natick,Middlesex,100,0,42.295155,-71.327629
+176,Massachusetts,2018-19,Lincoln Elementary,Public,Melrose,Middlesex,100,0,42.4520692,-71.0716482
+177,Massachusetts,2018-19,Lincoln Elementary,Public,Winchester,Middlesex,100,0,42.451189,-71.134497
+178,Massachusetts,2018-19,Lincoln,Public,Lowell,Middlesex,100,0,42.630409,-71.320323
+179,Massachusetts,2018-19,Lincoln-Eliot Elementary,Public,Newton,Middlesex,100,0,42.3597532,-71.1940532
+180,Massachusetts,2018-19,Lincoln-Thomson,Public,Lynn,Essex,100,0,42.466763,-70.9494938
+181,Massachusetts,2018-19,Linscott-Rumford,Public,Woburn,Middlesex,100,0,42.5076014,-71.1618697
+182,Massachusetts,2018-19,Littleville Elementary,Public,Huntington,Hampshire,100,0,42.2497729,-72.8689455
+183,Massachusetts,2018-19,Loker,Public,Wayland,Middlesex,100,0,42.3295794,-71.3468625
+184,Massachusetts,2018-19,Louis F Angelo Elementary,Public,Brockton,Plymouth,100,0,42.0952565,-71.0199231
+185,Massachusetts,2018-19,Lowell Community Charter,Public,Lowell,Middlesex,100,0,42.6411362,-71.3132534
+186,Massachusetts,2018-19,Lt Elmer J Mcmahon Elementary,Public,Holyoke,Hampden,100,0,42.1845182,-72.6477885
+187,Massachusetts,2018-19,Luther Conant,Public,Acton,Middlesex,100,0,42.4752583,-71.4363911
+188,Massachusetts,2018-19,Lyndon,Public,West Roxbury,Suffolk,100,0,42.2828894,-71.1586118
+189,Massachusetts,2018-19,Mabelle Burrell Elementary,Public,Foxboro,Norfolk,100,0,42.0610031,-71.2061476
+190,Massachusetts,2018-19,Madeline English,Public,Everett,Middlesex,100,0,42.4134724,-71.0691208
+191,Massachusetts,2018-19,Manomet Elementary,Public,Plymouth,Plymouth,100,0,41.921287,-70.5548417
+192,Massachusetts,2018-19,Maple,Public,Easthampton,Hampshire,100,0,42.2653834,-72.6615792
+193,Massachusetts,2018-19,Maquan Elementary,Public,Hanson,Plymouth,100,0,42.0630699,-70.8569093
+194,Massachusetts,2018-19,Maria Hastings,Public,Lexington,Middlesex,100,0,42.4453124,-71.2532767
+195,Massachusetts,2018-19,Maria L Baldwin,Public,Cambridge,Middlesex,100,0,42.3823558,-71.1168143
+196,Massachusetts,2018-19,Martha Jones,Public,Westwood,Norfolk,100,0,42.2000115,-71.2350887
+197,Massachusetts,2018-19,Martin E Young Elementary,Public,Randolph,Norfolk,100,0,42.1529745,-71.0420354
+198,Massachusetts,2018-19,Mary D Altavesta,Public,Woburn,Middlesex,100,0,42.5132325,-71.1630284
+199,Massachusetts,2018-19,Mary Fonseca Elementary,Public,Fall River,Bristol,100,0,41.701165,-71.137913
+200,Massachusetts,2018-19,Mary O Pottenger,Public,Springfield,Hampden,100,0,42.138301,-72.5680855
+201,Massachusetts,2018-19,Mason-Rice Elementary,Public,Newton Centre,Middlesex,100,0,42.3325696,-71.1995531
+202,Massachusetts,2018-19,May Street,Public,Worcester,Worcester,100,0,42.2618432,-71.8347915
+203,Massachusetts,2018-19,Mccarthy-Towne,Public,Acton,Middlesex,100,0,42.4768607,-71.4539516
+204,Massachusetts,2018-19,Memorial Elementary,Public,Natick,Middlesex,100,1.2,42.270727,-71.3233863
+205,Massachusetts,2018-19,Merriam,Public,Acton,Middlesex,100,0,42.4769367,-71.4535908
+206,Massachusetts,2018-19,Michael Driscoll,Public,Brookline,Norfolk,100,0,42.3412433,-71.136298
+207,Massachusetts,2018-19,Mile Tree Elementary,Public,Wilbraham,Hampden,100,0.7,42.1109449,-72.4379458
+208,Massachusetts,2018-19,Montclair Elementary,Public,Quincy,Norfolk,100,0,42.2707176,-71.0321328
+209,Massachusetts,2018-19,Moody,Public,Lowell,Middlesex,100,0,42.6368851,-71.2973856
+210,Massachusetts,2018-19,Moreau Hall,Public,North Easton,Bristol,100,0,42.061892,-71.086346
+211,Massachusetts,2018-19,Morningside Community,Public,Pittsfield,Berkshire,100,0,42.4568475,-73.2444012
+212,Massachusetts,2018-19,Morse,Public,Cambridge,Middlesex,100,0,42.35569,-71.112298
+213,Massachusetts,2018-19,Mulcahey Elementary,Public,Taunton,Bristol,100,0.9,41.9045015,-71.1119563
+214,Massachusetts,2018-19,Mulready Elementary,Public,Hudson,Middlesex,100,0,42.3971958,-71.5408184
+215,Massachusetts,2018-19,Neighborhood House Charter,Public,Dorchester,Suffolk,100,0,42.2933252,-71.0534506
+216,Massachusetts,2018-19,Newman,Public,Needham,Norfolk,100,0,42.2819731,-71.2561456
+217,Massachusetts,2018-19,Norrback Avenue,Public,Worcester,Worcester,100,0,42.3279019,-71.7954582
+218,Massachusetts,2018-19,North Shore Academy Lower,Private,Peabody,Essex,100,0,42.543175,-71.001893
+219,Massachusetts,2018-19,Northbridge Elementary,Public,Whitinsville,Worcester,100,0,42.1106796,-71.6601822
+220,Massachusetts,2018-19,Old Post Rd Elementary,Public,East Walpole,Norfolk,100,0,42.1456025,-71.2228226
+221,Massachusetts,2018-19,Orleans Elementary,Public,Orleans,Barnstable,100,3.3,41.781574,-69.993431
+222,Massachusetts,2018-19,Park,Private,Brookline,Norfolk,100,0,42.3154664,-71.1339472
+223,Massachusetts,2018-19,Parkview,Public,North Easton,Bristol,100,1.1,42.05075,-71.107835
+224,Massachusetts,2018-19,Parmenter,Public,Franklin,Norfolk,100,0,42.071802,-71.395426
+225,Massachusetts,2018-19,Paul P. Gates,Public,Acton,Middlesex,100,0,42.479221,-71.4736594
+226,Massachusetts,2018-19,Paxton Center,Public,Paxton,Worcester,100,0,42.3100435,-71.9296655
+227,Massachusetts,2018-19,Peirce Elementary,Public,West Newton,Middlesex,100,0,42.3419924,-71.2315034
+228,Massachusetts,2018-19,Peirce,Public,Arlington,Middlesex,100,0,42.4287056,-71.1783327
+229,Massachusetts,2018-19,Peter Noyes,Public,Sudbury,Middlesex,100,0,42.3826322,-71.4090636
+230,Massachusetts,2018-19,Pike,Private,Andover,Essex,100,0,42.6320407,-71.1317647
+231,Massachusetts,2018-19,Pine Glen Elementary,Public,Burlington,Middlesex,100,0,42.5219466,-71.2058398
+232,Massachusetts,2018-19,Pine Grove,Public,Rowley,Essex,100,0,42.7169944,-70.8744507
+233,Massachusetts,2018-19,Pine Hill,Public,Sherborn,Middlesex,100,0,42.2481168,-71.3645347
+234,Massachusetts,2018-19,Plains Elementary,Public,South Hadley,Hampshire,100,0,42.2269715,-72.5738893
+235,Massachusetts,2018-19,Pope John Paul Ii /Neponset Campus,Private,Dorchester,Suffolk,100,0,42.2908789,-71.0492507
+236,Massachusetts,2018-19,Pope John Paul Ii Academy (Lower),Private,Dorchester,Suffolk,100,0,42.2744103,-71.0695222
+237,Massachusetts,2018-19,Potter Road,Public,Framingham,Middlesex,100,0,42.3398253,-71.4084194
+238,Massachusetts,2018-19,Quincy Catholic Academy,Private,Quincy,Norfolk,100,0,42.274734,-71.0263895
+239,Massachusetts,2018-19,Rice Square,Public,Worcester,Worcester,100,0,42.2480279,-71.7771123
+240,Massachusetts,2018-19,Richard J Murphy,Public,Dorchester,Suffolk,100,0,42.2942937,-71.0493467
+241,Massachusetts,2018-19,Riverside Elementary,Public,Danvers,Essex,100,0,42.5603755,-70.9233788
+242,Massachusetts,2018-19,Rollins Early Childhood Ctr,Public,Lawrence,Essex,100,0,42.7140441,-71.1507331
+243,Massachusetts,2018-19,Roosevelt Avenue,Public,North Attleboro,Bristol,100,2,41.9784,-71.341058
+244,Massachusetts,2018-19,Salemwood,Public,Malden,Middlesex,100,0,42.4314451,-71.0502411
+245,Massachusetts,2018-19,Saltonstall,Public,Salem,Essex,100,0,42.5135347,-70.8915567
+246,Massachusetts,2018-19,Samuel Adams,Public,East Boston,Suffolk,100,0,42.3655183,-71.0349256
+247,Massachusetts,2018-19,Samuel Brown,Public,Peabody,Essex,100,0,42.5072122,-70.950595
+248,Massachusetts,2018-19,Samuel W Mason,Public,Roxbury,Suffolk,100,0,42.3261333,-71.0713134
+249,Massachusetts,2018-19,Samuel Watson,Public,Fall River,Bristol,100,0,41.6843509,-71.1305752
+250,Massachusetts,2018-19,Shady Hill,Private,Cambridge,Middlesex,100,0,42.37195,-71.137113
+251,Massachusetts,2018-19,Shamrock,Public,Woburn,Middlesex,100,0,42.4775019,-71.1413731
+252,Massachusetts,2018-19,Shurtleff Early Childhood,Public,Chelsea,Suffolk,100,0.4,42.3896466,-71.0354301
+253,Massachusetts,2018-19,Snug Harbor,Public,Quincy,Norfolk,100,0,42.2539127,-70.9648422
+254,Massachusetts,2018-19,Solomon Schechter Day,Private,Newton Centre,Middlesex,100,3.2,42.2916314,-71.1880655
+255,Massachusetts,2018-19,South Elementary,Public,Stoughton,Norfolk,100,0,42.1114975,-71.0833149
+256,Massachusetts,2018-19,South Row,Public,Chelmsford,Middlesex,100,0,42.5773258,-71.3355311
+257,Massachusetts,2018-19,South,Public,Somerset,Bristol,100,0,41.7370184,-71.1655741
+258,Massachusetts,2018-19,South St Elementary,Public,Fitchburg,Worcester,100,0,42.5710336,-71.79778
+259,Massachusetts,2018-19,Spaulding Memorial,Public,Townsend,Middlesex,100,0,42.6701169,-71.7128846
+260,Massachusetts,2018-19,Spencer Borden,Public,Fall River,Bristol,100,0,41.7133259,-71.1310162
+261,Massachusetts,2018-19,Sprague Elementary,Public,Wellesley,Norfolk,100,0,42.304492,-71.297584
+262,Massachusetts,2018-19,Spring Street,Public,Shrewsbury,Worcester,100,0,42.3053964,-71.7022774
+263,Massachusetts,2018-19,Squantum Elementary,Public,Quincy,Norfolk,100,0,42.2973785,-71.0120032
+264,Massachusetts,2018-19,St Columbkille Elementary,Private,Brighton,Suffolk,100,0,42.3519815,-71.1521134
+265,Massachusetts,2018-19,St John The Baptist,Private,Peabody,Essex,100,0,42.5257125,-70.9302989
+266,Massachusetts,2018-19,St Joseph,Private,Needham,Norfolk,100,0,42.2825248,-71.2347042
+267,Massachusetts,2018-19,St Mary Of Assumption,Private,Brookline,Norfolk,100,0,42.3352221,-71.1191843
+268,Massachusetts,2018-19,St Michael Elementary,Private,Lowell,Middlesex,100,0,42.6514976,-71.3019397
+269,Massachusetts,2018-19,St Michaels Elementary,Private,Springfield,Hampden,100,0,42.094454,-72.538942
+270,Massachusetts,2018-19,St Raphael,Private,Medford,Middlesex,100,0,42.4210757,-71.1349096
+271,Massachusetts,2018-19,Streiber Memorial,Public,Chicopee,Hampden,100,0,42.1944788,-72.5783855
+272,Massachusetts,2018-19,Sunderland Elmentary,Public,Sunderland,Franklin,100,3.2,42.4621484,-72.5754113
+273,Massachusetts,2018-19,Tatnuck Elementary,Public,Worcester,Worcester,100,0,42.2787125,-71.8509868
+274,Massachusetts,2018-19,Tenney Grammar,Public,Methuen,Essex,100,0,42.7321041,-71.1774321
+275,Massachusetts,2018-19,The Center,Public,Stow,Middlesex,100,0,42.4381261,-71.5083145
+276,Massachusetts,2018-19,Thomas Carroll,Public,Peabody,Essex,100,0,42.5322627,-70.9175973
+277,Massachusetts,2018-19,Thomas E Willett,Public,Attleboro,Bristol,100,0,41.9462683,-71.2913536
+278,Massachusetts,2018-19,Tilton,Public,Haverhill,Essex,100,0,42.7750498,-71.0955834
+279,Massachusetts,2018-19,Underwood Elementary,Public,Newton,Middlesex,100,0,42.3551651,-71.1837964
+280,Massachusetts,2018-19,Union Hill,Public,Worcester,Worcester,100,0,42.2531218,-71.7889374
+281,Massachusetts,2018-19,Up Academy Dorchester,Public,Dorchester,Suffolk,100,0,42.2999814,-71.0710011
+282,Massachusetts,2018-19,Vincent M Igo Elementary,Public,Foxboro,Norfolk,100,0,42.0610247,-71.2508694
+283,Massachusetts,2018-19,Walter J Paton,Public,Shrewsbury,Worcester,100,0,42.292606,-71.7131731
+284,Massachusetts,2018-19,Washington,Public,Springfield,Hampden,100,0,42.0826813,-72.5495755
+285,Massachusetts,2018-19,Webster,Public,Everett,Middlesex,100,0,42.4124632,-71.0389068
+286,Massachusetts,2018-19,West Elementary,Public,Andover,Essex,100,0,42.6646502,-71.1718658
+287,Massachusetts,2018-19,West Elementary,Public,Stoughton,Norfolk,100,0,42.1325417,-71.1127731
+288,Massachusetts,2018-19,West Memorial,Public,Peabody,Essex,100,0,42.548048,-71.013784
+289,Massachusetts,2018-19,West Somerville Neighborhood,Public,Somerville,Middlesex,100,0,42.4062364,-71.126566
+290,Massachusetts,2018-19,Wildwood Elementary,Public,Amherst,Hampshire,100,0,42.387313,-72.5131081
+291,Massachusetts,2018-19,Wildwood,Public,Wilmington,Middlesex,100,0,42.550165,-71.153911
+292,Massachusetts,2018-19,Willard Elementary,Public,Concord,Middlesex,100,0,42.4293301,-71.3819735
+293,Massachusetts,2018-19,William E Sheehan,Public,Westwood,Norfolk,100,3.7,42.207584,-71.23625
+294,Massachusetts,2018-19,William H Lincoln Elementary,Public,Brookline,Norfolk,100,0,42.3284886,-71.1293764
+295,Massachusetts,2018-19,William N Deberry,Public,Springfield,Hampden,100,0,42.1089279,-72.5662769
+296,Massachusetts,2018-19,William S Greene,Public,Fall River,Bristol,100,0,41.6862062,-71.1525038
+297,Massachusetts,2018-19,Williamstown Elementary,Public,Williamstown,Berkshire,100,0,42.7163265,-73.1969012
+298,Massachusetts,2018-19,Willis E Thorpe,Public,Danvers,Essex,100,0,42.5724877,-70.9204307
+299,Massachusetts,2018-19,Winn Brook,Public,Belmont,Middlesex,100,0,42.3995481,-71.1650347
+300,Massachusetts,2018-19,Winter Hill Community,Public,Somerville,Middlesex,100,0,42.3916682,-71.0988002
+301,Massachusetts,2018-19,Winthrop,Public,Melrose,Middlesex,100,0,42.4578654,-71.0651977
+302,Massachusetts,2018-19,Wire Village,Public,Spencer,Worcester,100,0,42.2595494,-71.9747747
+303,Massachusetts,2018-19,Witchcraft Heights,Public,Salem,Essex,100,0,42.5163383,-70.920346
+304,Massachusetts,2018-19,Wolf Swamp Road,Public,Longmeadow,Hampden,100,0,42.0381529,-72.560354
+305,Massachusetts,2018-19,Wollaston,Public,Quincy,Norfolk,100,0,42.2631029,-71.0233315
+306,Massachusetts,2018-19,Woodland,Public,Weston,Middlesex,100,0,42.383187,-71.299396
+307,Massachusetts,2018-19,Woodland Academy,Public,Worcester,Worcester,100,2.5,42.2545097,-71.8185452
+308,Massachusetts,2018-19,Woodville,Public,Wakefield,Middlesex,100,0,42.4978967,-71.0505409
+309,Massachusetts,2018-19,Zervas,Public,Waban,Middlesex,100,1.4,42.3297826,-71.2179128
+310,Massachusetts,2018-19,Abby Kelley Foster Reg Charter Sch,Public,Worcester,Worcester,99,0.9,42.313092,-71.815123
+311,Massachusetts,2018-19,Acushnet Elementary,Public,Acushnet,Bristol,99,0.8,41.7254072,-70.9058016
+312,Massachusetts,2018-19,Alcott,Public,Concord,Middlesex,99,1.2,42.4590782,-71.3350643
+313,Massachusetts,2018-19,Assawompset,Public,Lakeville,Plymouth,99,1.7,41.8473266,-70.9473425
+314,Massachusetts,2018-19,Barnstable Community Horace Mann Charter,Public,Hyannis,Barnstable,99,0,41.6555139,-70.2931716
+315,Massachusetts,2018-19,Beebe,Public,Malden,Middlesex,99,0.9,42.4271649,-71.0794857
+316,Massachusetts,2018-19,Bell,Public,Marblehead,Essex,99,0,42.496747,-70.871219
+317,Massachusetts,2018-19,Blanchard Memorial,Public,Boxboro,Middlesex,99,0,42.4821128,-71.505959
+318,Massachusetts,2018-19,Boston Renaissance Charter,Public,Hyde Park,Suffolk,99,0.7,42.2507094,-71.1261321
+319,Massachusetts,2018-19,Brackett Elementary,Public,Arlington,Middlesex,99,1,42.4124585,-71.1764565
+320,Massachusetts,2018-19,Brooks,Public,Medford,Middlesex,99,1.3,42.4212536,-71.1280431
+321,Massachusetts,2018-19,Brookside Elementary,Public,Milford,Worcester,99,1.3,42.1499526,-71.5294597
+322,Massachusetts,2018-19,Bryn Mawr,Public,Auburn,Worcester,99,1.1,42.2011125,-71.8491238
+323,Massachusetts,2018-19,Byam,Public,Chelmsford,Middlesex,99,2.3,42.5729261,-71.3826783
+324,Massachusetts,2018-19,Carney Academy,Public,New Bedford,Bristol,99,0.9,41.6361105,-70.9327707
+325,Massachusetts,2018-19,Center,Public,Peabody,Essex,99,1.4,42.5296338,-70.9445505
+326,Massachusetts,2018-19,Chandler Magnet,Public,Worcester,Worcester,99,0,42.2708773,-71.8427947
+327,Massachusetts,2018-19,Charles Bernazzani,Public,Quincy,Norfolk,99,0,42.2557502,-71.0225222
+328,Massachusetts,2018-19,Charles Jaworek,Public,Marlboro,Middlesex,99,0.6,42.3660752,-71.5328964
+329,Massachusetts,2018-19,Charlotte A Dunning,Public,Framingham,Middlesex,99,1.1,42.3212964,-71.4306322
+330,Massachusetts,2018-19,Charlton Elementary,Public,Charlton,Worcester,99,0.7,42.132128,-71.9710955
+331,Massachusetts,2018-19,Clinton Elementary,Public,Clinton,Worcester,99,1.2,42.4185556,-71.686564
+332,Massachusetts,2018-19,Cobbet Elementary,Public,Lynn,Essex,99,1.8,42.4650862,-70.9546717
+333,Massachusetts,2018-19,Cold Spring,Public,Belchertown,Hampshire,99,0.7,42.2744465,-72.3960852
+334,Massachusetts,2018-19,Collegiate Charter School Of Lowell,Public,Lowell,Middlesex,99,0,42.636348,-71.358105
+335,Massachusetts,2018-19,Country Elementary,Public,Weston,Middlesex,99,0,42.3627361,-71.29381
+336,Massachusetts,2018-19,Crowell,Public,Haverhill,Essex,99,0,42.7667391,-71.053912
+337,Massachusetts,2018-19,Cunningham,Public,Milton,Norfolk,99,0,42.2473752,-71.0548722
+338,Massachusetts,2018-19,Davis Hill Elementary,Public,Holden,Worcester,99,1.3,42.3567918,-71.8587233
+339,Massachusetts,2018-19,Dawson Elementary,Public,Holden,Worcester,99,1.2,42.337502,-71.8511236
+340,Massachusetts,2018-19,Dean S Luce,Public,Canton,Norfolk,99,1.3,42.1603866,-71.1330148
+341,Massachusetts,2018-19,Dolbeare,Public,Wakefield,Middlesex,99,1.1,42.5185715,-71.065098
+342,Massachusetts,2018-19,E J Harrington,Public,Lynn,Essex,99,0,42.464531,-70.9390589
+343,Massachusetts,2018-19,Early Childhood Education Ctr,Public,Dedham,Norfolk,99,1,42.231403,-71.146965
+344,Massachusetts,2018-19,East Elementary,Public,Sharon,Norfolk,99,1.1,42.1145877,-71.1481556
+345,Massachusetts,2018-19,East Taunton Elementary,Public,East Taunton,Bristol,99,0.9,41.871499,-71.041242
+346,Massachusetts,2018-19,Eastford Road,Public,Southbridge,Worcester,99,0.7,42.0501288,-72.0563007
+347,Massachusetts,2018-19,Elm Park Community,Public,Worcester,Worcester,99,1.2,42.2690351,-71.8073057
+348,Massachusetts,2018-19,Fall Brook,Public,Leominster,Worcester,99,1.4,42.495441,-71.7679012
+349,Massachusetts,2018-19,Florence Roche,Public,Groton,Middlesex,99,1,42.6154437,-71.5785106
+350,Massachusetts,2018-19,Fort Banks Elementary,Public,Winthrop,Suffolk,99,1.3,42.3854349,-70.980375
+351,Massachusetts,2018-19,Fuller Meadow,Public,Middleton,Essex,99,0.9,42.583584,-71.009582
+352,Massachusetts,2018-19,Gates Lane,Public,Worcester,Worcester,99,1.1,42.247227,-71.843523
+353,Massachusetts,2018-19,George H Potter Elementary,Public,North Dartmouth,Bristol,99,0,41.6455445,-71.0084849
+354,Massachusetts,2018-19,George Mitchell Elementary,Public,Bridgewater,Plymouth,99,1.6,41.9892683,-70.9849573
+355,Massachusetts,2018-19,Glover,Public,Milton,Norfolk,99,0,42.261465,-71.075303
+356,Massachusetts,2018-19,Greenhalge,Public,Lowell,Middlesex,99,1.1,42.6573991,-71.3091864
+357,Massachusetts,2018-19,H Olive Day,Public,Norfolk,Norfolk,99,0.8,42.1203893,-71.3350449
+358,Massachusetts,2018-19,Hajjar Elementary,Public,Billerica,Middlesex,99,0,42.585425,-71.2797329
+359,Massachusetts,2018-19,Halifax Elementary,Public,Halifax,Plymouth,99,1.2,41.9907478,-70.8590792
+360,Massachusetts,2018-19,Hancock Elementary,Public,Brockton,Plymouth,99,1.4,42.085289,-71.0666118
+361,Massachusetts,2018-19,Hardy Elementary,Public,Arlington,Middlesex,99,0,42.4042638,-71.1455836
+362,Massachusetts,2018-19,Harry Lee Cole,Public,Boxford,Essex,99,1.3,42.6604076,-71.0017666
+363,Massachusetts,2018-19,Hayden-Mcfadden,Public,New Bedford,Bristol,99,0,41.6541912,-70.9321156
+364,Massachusetts,2018-19,Henry E Warren Elementary,Public,Ashland,Middlesex,99,1.3,42.2420478,-71.4450587
+365,Massachusetts,2018-19,Henry Lord Community,Public,Fall River,Bristol,99,1.1,41.6726259,-71.1688919
+366,Massachusetts,2018-19,Hill-Roberts Elementary,Public,South Attleboro,Bristol,99,1.1,41.9172968,-71.3498771
+367,Massachusetts,2018-19,Hillside Elementary,Public,Needham,Norfolk,99,1.3,42.2919492,-71.2366309
+368,Massachusetts,2018-19,Hyman Fine Elementary,Public,Attleboro,Bristol,99,0,41.9161805,-71.2720478
+369,Massachusetts,2018-19,J Warren Killam,Public,Reading,Middlesex,99,1.3,42.541205,-71.0901366
+370,Massachusetts,2018-19,James Russell Lowell,Public,Watertown,Middlesex,99,1.3,42.3770009,-71.1835144
+371,Massachusetts,2018-19,John D Mcgovern,Public,Medway,Norfolk,99,2,42.1553045,-71.4129599
+372,Massachusetts,2018-19,Johnny Appleseed,Public,Leominster,Worcester,99,0,42.5518118,-71.7397647
+373,Massachusetts,2018-19,Joseph W Martin,Public,North Attleboro,Bristol,99,1,41.9967901,-71.2960938
+374,Massachusetts,2018-19,Letourneau Elementary,Public,Fall River,Bristol,99,1.4,41.6728917,-71.1558989
+375,Massachusetts,2018-19,Lincoln- Hancock Elementary,Public,Quincy,Norfolk,99,0.9,42.2426757,-71.0112825
+376,Massachusetts,2018-19,Louise A Conley,Public,Whitman,Plymouth,99,1.3,42.0838253,-70.952324
+377,Massachusetts,2018-19,Lt Eleazer Davis,Public,Bedford,Middlesex,99,0,42.4848356,-71.3093214
+378,Massachusetts,2018-19,Lt Peter M Hansen,Public,Canton,Norfolk,99,1.4,42.1833554,-71.1289599
+379,Massachusetts,2018-19,M Norcross Stratton,Public,Arlington,Middlesex,99,1.2,42.4289318,-71.1673266
+380,Massachusetts,2018-19,Marathon,Public,Hopkinton,Middlesex,99,0.8,42.2131146,-71.5143224
+381,Massachusetts,2018-19,Margaret L Donovan,Public,Randolph,Norfolk,99,0,42.1898323,-71.0702977
+382,Massachusetts,2018-19,Marsh Grammar,Public,Methuen,Essex,99,1,42.7291011,-71.2326694
+383,Massachusetts,2018-19,Martin Luther King Jr,Public,Cambridge,Middlesex,99,0,42.3668105,-71.1128236
+384,Massachusetts,2018-19,Martinson Elementary,Public,Marshfield,Plymouth,99,3,42.1107787,-70.7401712
+385,Massachusetts,2018-19,Mary E Finn,Public,Southboro,Worcester,99,0.9,42.274655,-71.5339107
+386,Massachusetts,2018-19,Mather,Public,Dorchester,Suffolk,99,0,42.308387,-71.0609567
+387,Massachusetts,2018-19,Memorial Elementary,Public,Milford,Worcester,99,1.4,42.1448623,-71.5212288
+388,Massachusetts,2018-19,Memorial,Public,Medfield,Norfolk,99,0.5,42.1943131,-71.3124737
+389,Massachusetts,2018-19,Memorial,Public,Upton,Worcester,99,0,42.1704413,-71.6134346
+390,Massachusetts,2018-19,Monatiquot Kindergarten Center,Public,Braintree,Norfolk,99,2.6,42.2108922,-71.0064565
+391,Massachusetts,2018-19,Mystic Valley Reg Charter,Public,Malden,Middlesex,99,0.7,42.4349332,-71.044173
+392,Massachusetts,2018-19,Naquag Elementary,Public,Rutland,Worcester,99,1,42.3739934,-71.9570237
+393,Massachusetts,2018-19,North Elementary,Public,Somerset,Bristol,99,1.5,41.7772744,-71.1466548
+394,Massachusetts,2018-19,North Pembroke Elementary,Public,Pembroke,Plymouth,99,1.3,42.0977928,-70.7800563
+395,Massachusetts,2018-19,Page Hilltop Elementary,Public,Ayer,Middlesex,99,2.2,42.5663704,-71.5789898
+396,Massachusetts,2018-19,Paper Mill,Public,Westfield,Hampden,99,1.3,42.128641,-72.7039864
+397,Massachusetts,2018-19,Park Avenue Elementary,Public,Webster,Worcester,99,0.7,42.0528134,-71.8670477
+398,Massachusetts,2018-19,Pawtucketville Memorial,Public,Lowell,Middlesex,99,0,42.6476243,-71.3502682
+399,Massachusetts,2018-19,Peabody,Public,Cambridge,Middlesex,99,0,42.3923499,-71.1280466
+400,Massachusetts,2018-19,Peter Thacher Elementary,Public,Attleboro,Bristol,99,2.5,41.9318023,-71.2805151
+401,Massachusetts,2018-19,Peter W Reilly,Public,Lowell,Middlesex,99,1.1,42.6409103,-71.2802751
+402,Massachusetts,2018-19,Pierce,Public,Brookline,Norfolk,99,0.9,42.3352353,-71.1208993
+403,Massachusetts,2018-19,Placentino,Public,Holliston,Middlesex,99,1.7,42.2070726,-71.4223504
+404,Massachusetts,2018-19,Quarry Hill,Public,Monson,Hampden,99,0,42.1133776,-72.3241502
+405,Massachusetts,2018-19,Reingold Elementary,Public,Fitchburg,Worcester,99,0,42.571385,-71.830917
+406,Massachusetts,2018-19,Richer,Public,Marlboro,Middlesex,99,1.4,42.3381696,-71.5774458
+407,Massachusetts,2018-19,Robert Frost,Public,Lawrence,Essex,99,0,42.6849616,-71.167827
+408,Massachusetts,2018-19,Roberts,Public,Medford,Middlesex,99,1.2,42.4219911,-71.0992575
+409,Massachusetts,2018-19,Roosevelt,Public,Worcester,Worcester,99,1,42.243133,-71.7570583
+410,Massachusetts,2018-19,Shaker Lane,Public,Littleton,Middlesex,99,0.8,42.531789,-71.455266
+411,Massachusetts,2018-19,South Elementary,Public,Andover,Essex,99,1.3,42.6262663,-71.1498191
+412,Massachusetts,2018-19,South Elementary,Public,Hingham,Plymouth,99,1.3,42.2009814,-70.88423
+413,Massachusetts,2018-19,South,Public,Stoneham,Middlesex,99,0,42.473902,-71.1000389
+414,Massachusetts,2018-19,Studley Elementary,Public,Attleboro,Bristol,99,0,41.9370406,-71.3056095
+415,Massachusetts,2018-19,Summer Street,Public,Lynnfield,Essex,99,1.2,42.5277774,-71.030272
+416,Massachusetts,2018-19,Templeton Center Elementary,Public,Baldwinville,Worcester,99,1.1,42.5542325,-72.0666357
+417,Massachusetts,2018-19,Thomas R Plympton,Public,Waltham,Middlesex,99,2.9,42.382054,-71.242704
+418,Massachusetts,2018-19,Thompson,Public,Arlington,Middlesex,99,1.1,42.4119797,-71.1386793
+419,Massachusetts,2018-19,Washington Elementary,Public,Lynn,Essex,99,0,42.461671,-70.9540399
+420,Massachusetts,2018-19,William Mitchell,Public,Needham,Norfolk,99,1.3,42.2887548,-71.2226056
+421,Massachusetts,2018-19,Wm P Connery,Public,Lynn,Essex,99,0,42.4610546,-70.9627603
+422,Massachusetts,2018-19,Abner Gibbs,Public,Westfield,Hampden,98,2.3,42.1146629,-72.753385
+423,Massachusetts,2018-19,Aborn Elementary,Public,Lynn,Essex,98,4.4,42.4792175,-70.9331188
+424,Massachusetts,2018-19,Amigos,Public,Cambridge,Middlesex,98,0,42.3629904,-71.1082255
+425,Massachusetts,2018-19,Angier,Public,Waban,Middlesex,98,2.4,42.3265807,-71.232528
+426,Massachusetts,2018-19,Athol Community Elementary,Public,Athol,Worcester,98,0,42.575759,-72.2112679
+427,Massachusetts,2018-19,Ayers Ryal Side,Public,Beverly,Essex,98,2.4,42.551284,-70.890016
+428,Massachusetts,2018-19,Bartlett Community Partnership,Public,Lowell,Middlesex,98,2.2,42.6455611,-71.328729
+429,Massachusetts,2018-19,Beal,Public,Shrewsbury,Worcester,98,1.7,42.2955564,-71.715725
+430,Massachusetts,2018-19,Beechwood Knoll Elementary,Public,Quincy,Norfolk,98,2.1,42.26937,-71.0053414
+431,Massachusetts,2018-19,Beeman,Public,Gloucester,Essex,98,0,42.6371289,-70.6725301
+432,Massachusetts,2018-19,Belmont St Community,Public,Worcester,Worcester,98,0,42.2719001,-71.7963095
+433,Massachusetts,2018-19,Benjamin Franklin Classical Charter,Public,Franklin,Norfolk,98,1.9,42.0594305,-71.4218472
+434,Massachusetts,2018-19,Benjamin Phelps,Public,Agawam,Hampden,98,1.6,42.07028,-72.6134115
+435,Massachusetts,2018-19,Bessie Buker Elementary,Public,Wenham,Essex,98,4.5,42.6085914,-70.8852585
+436,Massachusetts,2018-19,Birch Meadow,Public,Reading,Middlesex,98,3.2,42.5379872,-71.1132581
+437,Massachusetts,2018-19,Bowen Elementary,Public,Newton Centre,Middlesex,98,1.9,42.3213507,-71.1878963
+438,Massachusetts,2018-19,Bowie Memorial,Public,Chicopee,Hampden,98,2.2,42.1977841,-72.5588419
+439,Massachusetts,2018-19,Bridge,Public,Lexington,Middlesex,98,1.6,42.4690328,-71.3506554
+440,Massachusetts,2018-19,Bryantville Elementary,Public,Pembroke,Plymouth,98,0,42.0443291,-70.8236969
+441,Massachusetts,2018-19,Buckingham Browne And Nichols,Private,Cambridge,Middlesex,98,2.5,42.3709624,-71.1350192
+442,Massachusetts,2018-19,C C Burr Elementary,Public,Auburndale,Middlesex,98,1.8,42.3522553,-71.2420665
+443,Massachusetts,2018-19,Cashman Elementary,Public,Amesbury,Essex,98,0,42.8567245,-70.9492396
+444,Massachusetts,2018-19,Center,Public,Mattapoisett,Plymouth,98,2,41.6607399,-70.8136037
+445,Massachusetts,2018-19,Chace Street,Public,Somerset,Bristol,98,1.5,41.7634317,-71.1475778
+446,Massachusetts,2018-19,Charles W. Morey Elementry,Public,Lowell,Middlesex,98,2.2,42.6322818,-71.3310946
+447,Massachusetts,2018-19,Christa Mcauliffe Elementary,Public,Lowell,Middlesex,98,2,42.6594195,-71.3023772
+448,Massachusetts,2018-19,City View Elementary,Public,Worcester,Worcester,98,0,42.2666813,-71.7905794
+449,Massachusetts,2018-19,Clarke,Public,Swampscott,Essex,98,2.2,42.4748125,-70.9170625
+450,Massachusetts,2018-19,Cottage St,Public,Sharon,Norfolk,98,1.5,42.1188249,-71.1723383
+451,Massachusetts,2018-19,Countryside Elementary,Public,Newton Highlands,Middlesex,98,1.7,42.3129862,-71.2024417
+452,Massachusetts,2018-19,Crocker Elementary,Public,Fitchburg,Worcester,98,2.4,42.6034093,-71.8057787
+453,Massachusetts,2018-19,Crocker Farm Elementary,Public,Amherst,Hampshire,98,3.3,42.3473091,-72.5174032
+454,Massachusetts,2018-19,Cunniff,Public,Watertown,Middlesex,98,1.7,42.3767011,-71.1992736
+455,Massachusetts,2018-19,Cushing Elementary,Public,Scituate,Plymouth,98,3.3,42.2044499,-70.7679833
+456,Massachusetts,2018-19,Daniel Webster,Public,Marshfield,Plymouth,98,2.3,42.0799782,-70.6791621
+457,Massachusetts,2018-19,Deerfield Elementary,Public,South Deerfield,Franklin,98,4.3,42.480992,-72.60839
+458,Massachusetts,2018-19,Delaney,Public,Wrentham,Norfolk,98,0,42.0613556,-71.3263161
+459,Massachusetts,2018-19,Downey,Public,Brockton,Plymouth,98,0,42.0778739,-70.9939468
+460,Massachusetts,2018-19,Early Childhood Center,Public,Lynn,Essex,98,0,42.4597617,-70.9591153
+461,Massachusetts,2018-19,Edward Brooke Charter School 3,Public,East Boston,Suffolk,98,0,42.382987,-71.0161192
+462,Massachusetts,2018-19,Elizabeth C Brooks,Public,New Bedford,Bristol,98,1.9,41.6432298,-70.9536583
+463,Massachusetts,2018-19,Elizabeth Pole,Public,Taunton,Bristol,98,2.1,41.9021174,-71.0652698
+464,Massachusetts,2018-19,Elmwood St,Public,Millbury,Worcester,98,1.9,42.1875269,-71.7731881
+465,Massachusetts,2018-19,F J Mcgrath Elementary,Public,Worcester,Worcester,98,0,42.2851787,-71.8128019
+466,Massachusetts,2018-19,Flagg Street,Public,Worcester,Worcester,98,1.8,42.2826128,-71.8352296
+467,Massachusetts,2018-19,Forest Ave Elementary,Public,Hudson,Middlesex,98,1.6,42.3900934,-71.5453429
+468,Massachusetts,2018-19,Forestdale Elementary,Public,Forestdale,Barnstable,98,2.7,41.696853,-70.5048037
+469,Massachusetts,2018-19,Forestdale,Public,Malden,Middlesex,98,1.7,42.4403501,-71.0537696
+470,Massachusetts,2018-19,Foster Elementary,Public,Hingham,Plymouth,98,2.5,42.2532129,-70.9014641
+471,Massachusetts,2018-19,Frank H Freedman,Public,Springfield,Hampden,98,0,42.1090402,-72.5249576
+472,Massachusetts,2018-19,Franklin Ave,Public,Westfield,Hampden,98,2.4,42.1282344,-72.7574833
+473,Massachusetts,2018-19,Gardner Elementary,Public,Swansea,Bristol,98,2.4,41.7246327,-71.2028512
+474,Massachusetts,2018-19,George H Englesby Elementary,Public,Dracut,Middlesex,98,2.1,42.6761744,-71.3380406
+475,Massachusetts,2018-19,German Gerena,Public,Springfield,Hampden,98,1.9,42.118889,-72.6104622
+476,Massachusetts,2018-19,Hadley Elementary,Public,Swampscott,Essex,98,1.5,42.4687982,-70.9162391
+477,Massachusetts,2018-19,Happy Hollow,Public,Wayland,Middlesex,98,1.9,42.3367099,-71.3626183
+478,Massachusetts,2018-19,Herbert Clark Hoover,Public,Melrose,Middlesex,98,0,42.4494518,-71.0502148
+479,Massachusetts,2018-19,Highlands,Public,Danvers,Essex,98,1.5,42.5643984,-70.959244
+480,Massachusetts,2018-19,Hosmer-East,Public,Watertown,Middlesex,98,1.7,42.3672719,-71.1672641
+481,Massachusetts,2018-19,Ivan G Smith,Public,Danvers,Essex,98,1.9,42.5875987,-70.9539058
+482,Massachusetts,2018-19,J Harding Armstrong,Public,Westboro,Worcester,98,1.1,42.2696252,-71.623299
+483,Massachusetts,2018-19,James J Hill Elementary,Public,Revere,Suffolk,98,0,42.4107561,-71.0141954
+484,Massachusetts,2018-19,James Tansey Elementary,Public,Fall River,Bristol,98,2,41.7190153,-71.1320706
+485,Massachusetts,2018-19,John B Devalles,Public,New Bedford,Bristol,98,2,41.618402,-70.928452
+486,Massachusetts,2018-19,John D Hardy,Public,Wellesley,Norfolk,98,0,42.304254,-71.310463
+487,Massachusetts,2018-19,John E Mccarthy,Public,Peabody,Essex,98,4,42.5392323,-71.0017027
+488,Massachusetts,2018-19,John F Kennedy,Public,Billerica,Middlesex,98,2,42.5663329,-71.2320578
+489,Massachusetts,2018-19,John William Decas,Public,Wareham,Plymouth,98,1.8,41.7709716,-70.7465404
+490,Massachusetts,2018-19,Joseph A. Campbell,Public,Dracut,Middlesex,98,2.5,42.6633997,-71.2642611
+491,Massachusetts,2018-19,Joseph E Fiske,Public,Wellesley,Norfolk,98,2,42.312874,-71.247677
+492,Massachusetts,2018-19,Joseph H Gibbons Elementary,Public,Stoughton,Norfolk,98,1.7,42.1171423,-71.1079413
+493,Massachusetts,2018-19,Joseph Mcavinnue Elementary,Public,Lowell,Middlesex,98,2.1,42.6524431,-71.3346538
+494,Massachusetts,2018-19,Joseph Metcalf,Public,Holyoke,Hampden,98,0,42.1934417,-72.6304121
+495,Massachusetts,2018-19,Joseph Osgood,Public,Cohasset,Norfolk,98,1.1,42.2368496,-70.8132031
+496,Massachusetts,2018-19,K C Coombs,Public,Mashpee,Barnstable,98,2.1,41.6202095,-70.4930766
+497,Massachusetts,2018-19,Kennedy-Longfellow,Public,Cambridge,Middlesex,98,2.4,42.3695372,-71.0867779
+498,Massachusetts,2018-19,Lillian Jacobs,Public,Hull,Plymouth,98,1.6,42.3068631,-70.9092508
+499,Massachusetts,2018-19,Lincoln Street,Public,Northboro,Worcester,98,2.5,42.3160867,-71.6581988
+500,Massachusetts,2018-19,Lynch Elementary,Public,Winchester,Middlesex,98,2.3,42.4610301,-71.1502885
+501,Massachusetts,2018-19,Manassah Bradley,Public,East Boston,Suffolk,98,0,42.3916287,-71.0050532
+502,Massachusetts,2018-19,Marguerite Peaslee,Public,Northboro,Worcester,98,2.5,42.3223937,-71.6281103
+503,Massachusetts,2018-19,Mary E Stapleton,Public,Framingham,Middlesex,98,1.6,42.3267309,-71.3999936
+504,Massachusetts,2018-19,Mary M Lynch,Public,Springfield,Hampden,98,0,42.1291048,-72.510436
+505,Massachusetts,2018-19,Maurice A Donahue,Public,Holyoke,Hampden,98,0,42.1768141,-72.6392319
+506,Massachusetts,2018-19,Memorial Early Childhood Ctr,Public,Middleboro,Plymouth,98,1.7,41.8949589,-70.9056023
+507,Massachusetts,2018-19,Memorial Park Elementary,Public,Rockland,Plymouth,98,1.5,42.1267951,-70.921458
+508,Massachusetts,2018-19,Memorial,Public,Hopedale,Worcester,98,1.5,42.1311593,-71.5358582
+509,Massachusetts,2018-19,Memorial,Public,Winchendon,Worcester,98,1.9,42.6962923,-72.040025
+510,Massachusetts,2018-19,Memorial Spaulding,Public,Newton Centre,Middlesex,98,1.7,42.3021295,-71.1777946
+511,Massachusetts,2018-19,Midland Street,Public,Worcester,Worcester,98,0,42.271734,-71.827973
+512,Massachusetts,2018-19,Nantucket Elementary,Public,Nantucket,Nantucket,98,0.9,41.2693716,-70.0986003
+513,Massachusetts,2018-19,Nelson Place,Public,Worcester,Worcester,98,2.3,42.2945592,-71.8217512
+514,Massachusetts,2018-19,Newton Montessori,Private,Newton,Middlesex,98,1.8,42.3290472,-71.196669
+515,Massachusetts,2018-19,North Beverly,Public,Beverly,Essex,98,1.5,42.5803514,-70.8789774
+516,Massachusetts,2018-19,North Grafton Elementary,Public,North Grafton,Worcester,98,2.1,42.238932,-71.701319
+517,Massachusetts,2018-19,Oak Bluffs Elementary,Public,Oak Bluffs,Dukes,98,4.2,41.446414,-70.568836
+518,Massachusetts,2018-19,Palmer River Elementary,Public,Rehoboth,Bristol,98,1.6,41.8484722,-71.2524267
+519,Massachusetts,2018-19,Peebles Elementary,Public,Bourne,Barnstable,98,0,41.740105,-70.5909865
+520,Massachusetts,2018-19,Pioneer Charter School Of Science,Public,Everett,Middlesex,98,1.6,42.4080749,-71.051247
+521,Massachusetts,2018-19,Plymouth River,Public,Hingham,Plymouth,98,1.7,42.2104095,-70.9021461
+522,Massachusetts,2018-19,Pulaski,Public,New Bedford,Bristol,98,0,41.7271347,-70.9445339
+523,Massachusetts,2018-19,Ralph Butler,Public,Avon,Norfolk,98,2.3,42.1160049,-71.0457402
+524,Massachusetts,2018-19,Rockport Elementary,Public,Rockport,Essex,98,1.9,42.6508098,-70.6129406
+525,Massachusetts,2018-19,Rogers Stem Academy,Public,Lowell,Middlesex,98,2.1,42.6374909,-71.3106679
+526,Massachusetts,2018-19,Schofield Elementary,Public,Wellesley,Norfolk,98,3.4,42.3206685,-71.2535891
+527,Massachusetts,2018-19,Shaughnessy,Public,Lowell,Middlesex,98,1.9,42.6243664,-71.3056119
+528,Massachusetts,2018-19,Sippican,Public,Marion,Plymouth,98,1.8,41.7040442,-70.767648
+529,Massachusetts,2018-19,Sisson,Public,Lynn,Essex,98,1.6,42.4728,-70.9356568
+530,Massachusetts,2018-19,South Elementary,Public,Bellingham,Norfolk,98,2.1,42.0343874,-71.4895255
+531,Massachusetts,2018-19,South Grafton Elementary,Public,South Grafton,Worcester,98,1.9,42.1792207,-71.695642
+532,Massachusetts,2018-19,South Memorial,Public,Peabody,Essex,98,1.6,42.5149713,-70.9484174
+533,Massachusetts,2018-19,St Joseph Elementary,Private,Medford,Middlesex,98,0,42.419551,-71.1150008
+534,Massachusetts,2018-19,St Michael Elementary,Private,North Andover,Essex,98,0,42.7003959,-71.1309715
+535,Massachusetts,2018-19,St Theresa,Private,West Roxbury,Suffolk,98,2.5,42.2780798,-71.157955
+536,Massachusetts,2018-19,Stanley,Public,Swampscott,Essex,98,2.3,42.4722203,-70.8975946
+537,Massachusetts,2018-19,Thomas Ditson,Public,Billerica,Middlesex,98,0,42.5370756,-71.2238637
+538,Massachusetts,2018-19,Thorndyke Road,Public,Worcester,Worcester,98,2.4,42.3022909,-71.7872703
+539,Massachusetts,2018-19,Vinson Owen Elementary,Public,Winchester,Middlesex,98,1.7,42.4499118,-71.1749082
+540,Massachusetts,2018-19,Walnut Square,Public,Haverhill,Essex,98,0,42.7937053,-71.083529
+541,Massachusetts,2018-19,Wampatuck Elementary,Public,Scituate,Plymouth,98,1.7,42.2100619,-70.7422193
+542,Massachusetts,2018-19,Washington,Public,Lowell,Middlesex,98,2,42.6239448,-71.3284833
+543,Massachusetts,2018-19,Waterford St,Public,Gardner,Worcester,98,1.1,42.5725177,-72.003772
+544,Massachusetts,2018-19,West Parish,Public,Gloucester,Essex,98,0,42.619586,-70.7115479
+545,Massachusetts,2018-19,West,Public,Plymouth,Plymouth,98,2.4,41.9450415,-70.7214004
+546,Massachusetts,2018-19,West Tatnuck,Public,Worcester,Worcester,98,0,42.282736,-71.8692903
+547,Massachusetts,2018-19,William A Welch,Public,Peabody,Essex,98,1.6,42.517894,-70.9303147
+548,Massachusetts,2018-19,William Stanley Elementary,Public,Waltham,Middlesex,98,1.8,42.3668841,-71.2517481
+549,Massachusetts,2018-19,Williams Elementary,Public,Auburndale,Middlesex,98,2.1,42.3422287,-71.2495097
+550,Massachusetts,2018-19,Williams Elementary,Public,Pittsfield,Berkshire,98,4.9,42.4347561,-73.2089768
+551,Massachusetts,2018-19,Winthrop,Public,Hamilton,Essex,98,2.4,42.6133936,-70.8705121
+552,Massachusetts,2018-19,Wood End Elementary,Public,Reading,Middlesex,98,0,42.5526824,-71.1155836
+553,Massachusetts,2018-19,Anne Bradstreet Early Childhood Center,Public,North Andover,Essex,97,2.9,42.6900028,-71.1217113
+554,Massachusetts,2018-19,Arthur T Talmadge,Public,Springfield,Hampden,97,3,42.095778,-72.5142345
+555,Massachusetts,2018-19,Bancroft Elementary,Public,Andover,Essex,97,3.5,42.6370831,-71.125727
+556,Massachusetts,2018-19,Barbieri Elementary,Public,Framingham,Middlesex,97,0,42.2796342,-71.4323095
+557,Massachusetts,2018-19,Belcher,Public,Chicopee,Hampden,97,0,42.1631829,-72.5834957
+558,Massachusetts,2018-19,Boyden Elementary,Public,Walpole,Norfolk,97,3.3,42.1058626,-71.2588529
+559,Massachusetts,2018-19,Bradford Elementary,Public,Haverhill,Essex,97,2.9,42.757199,-71.0695073
+560,Massachusetts,2018-19,Bridge Street,Public,Northampton,Hampshire,97,5.3,42.32354,-72.626367
+561,Massachusetts,2018-19,Brophy,Public,Framingham,Middlesex,97,0,42.3063804,-71.4643059
+562,Massachusetts,2018-19,Centerville Elementary,Public,Centerville,Barnstable,97,1.6,41.646175,-70.353557
+563,Massachusetts,2018-19,Chickering,Public,Dover,Norfolk,97,0,42.2572881,-71.2847622
+564,Massachusetts,2018-19,Clifford M Granger,Public,Feeding Hills,Hampden,97,2.6,42.0660162,-72.6774382
+565,Massachusetts,2018-19,Clyde Reeves Elementary,Public,Woburn,Middlesex,97,2.9,42.4649247,-71.1773301
+566,Massachusetts,2018-19,Col John Robinson Elementary,Public,Westford,Middlesex,97,2.5,42.5699778,-71.4639796
+567,Massachusetts,2018-19,Comprehensive Grammar,Public,Methuen,Essex,97,2.9,42.7475361,-71.1757528
+568,Massachusetts,2018-19,Curtis Guild,Public,East Boston,Suffolk,97,0,42.3885838,-71.0041948
+569,Massachusetts,2018-19,Daniel B Brunton,Public,Springfield,Hampden,97,1.6,42.0969849,-72.491852
+570,Massachusetts,2018-19,Eames Way,Public,Marshfield,Plymouth,97,2.9,42.1320893,-70.7286381
+571,Massachusetts,2018-19,Edmund Hatch Bennett,Public,Taunton,Bristol,97,3.2,41.9030063,-71.1382287
+572,Massachusetts,2018-19,Elise A Hastings,Public,Westboro,Worcester,97,1,42.2788391,-71.6025739
+573,Massachusetts,2018-19,Esten Elementary (R. Stuart),Public,Rockland,Plymouth,97,3.1,42.1306563,-70.9161551
+574,Massachusetts,2018-19,Ezra H Baker,Public,West Dennis,Barnstable,97,0,41.6684631,-70.152688
+575,Massachusetts,2018-19,Fairview Elementary,Public,Chicopee,Hampden,97,2.9,42.2083969,-72.5750968
+576,Massachusetts,2018-19,Ferryway,Public,Malden,Middlesex,97,1,42.4214284,-71.0594465
+577,Massachusetts,2018-19,Foxboro Reg Charter,Public,Foxboro,Norfolk,97,3.4,42.05689,-71.244916
+578,Massachusetts,2018-19,Gardner Pilot Academy,Public,Allston,Suffolk,97,0,42.3607731,-71.1339972
+579,Massachusetts,2018-19,General John Nixon,Public,Sudbury,Middlesex,97,2.8,42.3915196,-71.402841
+580,Massachusetts,2018-19,Grace Farrar Cole,Public,Norwell,Plymouth,97,2.6,42.1673405,-70.8803205
+581,Massachusetts,2018-19,Graham & Parks,Public,Cambridge,Middlesex,97,3.9,42.3830686,-71.1239898
+582,Massachusetts,2018-19,Greenleaf,Public,Haverhill,Essex,97,2.6,42.7690664,-71.0789698
+583,Massachusetts,2018-19,Hanscom Primary,Public,Lincoln,Middlesex,97,3,42.4575549,-71.2783878
+584,Massachusetts,2018-19,Heath Brook,Public,Tewksbury,Middlesex,97,1,42.5835667,-71.2186806
+585,Massachusetts,2018-19,Henry C Sanborn,Public,Andover,Essex,97,5.2,42.6420859,-71.1785098
+586,Massachusetts,2018-19,Hugh Roe Odonnell,Public,East Boston,Suffolk,97,0,42.3782502,-71.0380802
+587,Massachusetts,2018-19,Indian Brook Elementary,Public,Plymouth,Plymouth,97,4.5,41.8894334,-70.5427474
+588,Massachusetts,2018-19,Indian Orchard Elementary,Public,Indian Orchard,Hampden,97,0,42.1549605,-72.4938561
+589,Massachusetts,2018-19,James M Quinn,Public,Dartmouth,Bristol,97,3.4,41.6274949,-70.9601687
+590,Massachusetts,2018-19,Jefferson Elementary,Public,Franklin,Norfolk,97,3.4,42.0528207,-71.4185191
+591,Massachusetts,2018-19,Jenkins Elementary,Public,Scituate,Plymouth,97,3,42.1910676,-70.7310647
+592,Massachusetts,2018-19,John F Kennedy,Public,Holbrook,Norfolk,97,1.8,42.148602,-71.0059524
+593,Massachusetts,2018-19,John J Mcglynn,Public,Medford,Middlesex,97,0,42.4089868,-71.0978958
+594,Massachusetts,2018-19,Keverian,Public,Everett,Middlesex,97,0,42.4089217,-71.0448144
+595,Massachusetts,2018-19,Kingston Elementary,Public,Kingston,Plymouth,97,2.8,41.9852552,-70.7203937
+596,Massachusetts,2018-19,Lincoln,Public,Lincoln,Middlesex,97,2.7,42.3907907,-71.082176
+597,Massachusetts,2018-19,Mary E Baker,Public,Brockton,Plymouth,97,0,42.0935227,-70.9898868
+598,Massachusetts,2018-19,Mckay Arts Academy,Public,Fitchburg,Worcester,97,0,42.5949697,-71.789586
+599,Massachusetts,2018-19,Meadow Brook,Public,East Longmeadow,Hampden,97,3.1,42.0473464,-72.471258
+600,Massachusetts,2018-19,Merrymount,Public,Quincy,Norfolk,97,2.9,42.2625993,-70.9953259
+601,Massachusetts,2018-19,Mildred Aitken,Public,Seekonk,Bristol,97,1.4,41.8449381,-71.3345515
+602,Massachusetts,2018-19,Muddy Brook Elementary,Public,Great Barrington,Berkshire,97,8.2,42.2464004,-73.3287193
+603,Massachusetts,2018-19,Northeast,Public,Waltham,Middlesex,97,2.8,42.4028042,-71.223969
+604,Massachusetts,2018-19,Oak Street Elementary,Public,Franklin,Norfolk,97,1.7,42.0923013,-71.4063353
+605,Massachusetts,2018-19,Oscar F Raymond,Public,Brockton,Plymouth,97,1.5,42.1042666,-71.0294906
+606,Massachusetts,2018-19,Parlin,Public,Everett,Middlesex,97,0,42.4108565,-71.0506667
+607,Massachusetts,2018-19,Paul Hanlon,Public,Westwood,Norfolk,97,3.2,42.2265074,-71.1915135
+608,Massachusetts,2018-19,Peck-Lawrence Full Service Comm School (Lawrence Campus),Public,Holyoke,Hampden,97,0,42.2030188,-72.6135172
+609,Massachusetts,2018-19,Pentucket Lake,Public,Haverhill,Essex,97,0,42.7951081,-71.0759588
+610,Massachusetts,2018-19,Plum Cove,Public,Gloucester,Essex,97,2.9,42.6748468,-70.6666633
+611,Massachusetts,2018-19,Priest Street,Public,Leominster,Worcester,97,1.4,42.537313,-71.752864
+612,Massachusetts,2018-19,River Valley Charter,Public,Newburyport,Essex,97,0,42.8072013,-70.8866758
+613,Massachusetts,2018-19,Robert K Finn,Public,Florence,Hampshire,97,3,42.317189,-72.6935718
+614,Massachusetts,2018-19,Robin Hood,Public,Stoneham,Middlesex,97,1.4,42.4934438,-71.1075251
+615,Massachusetts,2018-19,South River,Public,Marshfield,Plymouth,97,3.2,42.1097212,-70.6978949
+616,Massachusetts,2018-19,Spring St,Public,West Bridgewater,Plymouth,97,2.7,42.0204728,-71.0149244
+617,Massachusetts,2018-19,Stanley M Koziol,Public,Ware,Hampshire,97,1.2,42.2518338,-72.2623265
+618,Massachusetts,2018-19,Sutton Elementary,Public,Sutton,Worcester,97,3,42.1421612,-71.7729439
+619,Massachusetts,2018-19,Swallow Union,Public,Dunstable,Middlesex,97,3.4,42.673196,-71.482635
+620,Massachusetts,2018-19,Taft Early Learning Center,Public,Uxbridge,Worcester,97,2.8,42.084655,-71.6262781
+621,Massachusetts,2018-19,Thomas Prince Elementary,Public,Princeton,Worcester,97,3.3,42.4423907,-71.8439828
+622,Massachusetts,2018-19,Thomas R Rodman,Public,New Bedford,Bristol,97,2.6,41.636328,-70.948643
+623,Massachusetts,2018-19,Thoreau,Public,Concord,Middlesex,97,2.8,42.451621,-71.3973703
+624,Massachusetts,2018-19,Trinity Catholic Academy Lower Camp,Private,Brockton,Plymouth,97,2.7,42.0997943,-71.0184823
+625,Massachusetts,2018-19,Tyngsboro Elementary,Public,Tyngsboro,Middlesex,97,2.8,42.6544665,-71.4452109
+626,Massachusetts,2018-19,Waltham Dual Language,Public,Waltham,Middlesex,97,2.6,42.3671762,-71.2367922
+627,Massachusetts,2018-19,Warner,Public,Springfield,Hampden,97,3.1,42.1404822,-72.4953283
+628,Massachusetts,2018-19,White Street,Public,Springfield,Hampden,97,1.4,42.090026,-72.55372
+629,Massachusetts,2018-19,William E Norris,Public,Southampton,Hampshire,97,3.1,42.241707,-72.724285
+630,Massachusetts,2018-19,Alice Barrows,Public,Reading,Middlesex,96,3.6,42.5217056,-71.1241088
+631,Massachusetts,2018-19,Ambrose Elementary,Public,Winchester,Middlesex,96,0,42.4457686,-71.1562238
+632,Massachusetts,2018-19,Bournedale Elementary,Public,Bournedale,Barnstable,96,3.7,41.7599963,-70.5800704
+633,Massachusetts,2018-19,Carlisle,Public,Carlisle,Middlesex,96,5.3,42.52644,-71.3490047
+634,Massachusetts,2018-19,Center Elementary,Public,Chelmsford,Middlesex,96,3.9,42.6002548,-71.3437081
+635,Massachusetts,2018-19,Christopher Columbus,Public,Medford,Middlesex,96,2.7,42.4015606,-71.1019089
+636,Massachusetts,2018-19,Community Day Arlington,Public,Lawrence,Essex,96,0,42.7173966,-71.174047
+637,Massachusetts,2018-19,Davis Thayer,Public,Franklin,Norfolk,96,3.8,42.0841588,-71.4022912
+638,Massachusetts,2018-19,Douglas Primary,Public,Douglas,Worcester,96,3.5,42.0705943,-71.7089699
+639,Massachusetts,2018-19,Dr Elmer Bagnall,Public,Groveland,Essex,96,0,42.7433505,-71.0237806
+640,Massachusetts,2018-19,Dr Frederick N Sweetsir,Public,Merrimac,Essex,96,5.9,42.8412692,-71.011777
+641,Massachusetts,2018-19,Dr Gertrude Bailey,Public,Lowell,Middlesex,96,4.1,42.6262321,-71.3353729
+642,Massachusetts,2018-19,Dr William Henderson,Public,Dorchester,Suffolk,96,0.9,42.2938872,-71.0623448
+643,Massachusetts,2018-19,Edith C Baker,Public,Brookline,Norfolk,96,4,42.3027008,-71.1582051
+644,Massachusetts,2018-19,Everett W Robinson,Public,Mansfield,Bristol,96,3.2,42.027727,-71.2047563
+645,Massachusetts,2018-19,George R Martin,Public,Seekonk,Bristol,96,5.6,41.7975014,-71.316318
+646,Massachusetts,2018-19,Hobomock Elementary,Public,Pembroke,Plymouth,96,1.9,42.0534354,-70.795318
+647,Massachusetts,2018-19,Hopewell,Public,Taunton,Bristol,96,3.6,41.9159725,-71.0961718
+648,Massachusetts,2018-19,Horace Mann Laboratory,Public,Salem,Essex,96,0,42.5070854,-70.9092082
+649,Massachusetts,2018-19,John F Kennedy Elementary,Public,Blackstone,Worcester,96,3.2,42.028905,-71.5454452
+650,Massachusetts,2018-19,John F Kennedy Elementary,Public,Brockton,Plymouth,96,2,42.0595207,-71.0373707
+651,Massachusetts,2018-19,King Open,Public,Cambridge,Middlesex,96,0,42.3720077,-71.0916998
+652,Massachusetts,2018-19,Lee Elementary,Public,Lee,Berkshire,96,3.7,42.3066505,-73.2367566
+653,Massachusetts,2018-19,Lincoln Street,Public,Worcester,Worcester,96,0,42.2914344,-71.7820677
+654,Massachusetts,2018-19,Lura White Elementary,Public,Shirley,Middlesex,96,4.1,42.5393535,-71.6559891
+655,Massachusetts,2018-19,Major Edwards Elementary,Public,West Boylston,Worcester,96,2.9,42.3722892,-71.7868767
+656,Massachusetts,2018-19,Malcolm White Elementary,Public,Woburn,Middlesex,96,0,42.4845983,-71.141678
+657,Massachusetts,2018-19,Manthala George Jr,Public,Brockton,Plymouth,96,0.5,42.0964516,-71.0399982
+658,Massachusetts,2018-19,Mary M Walsh,Public,Springfield,Hampden,96,0,42.1150403,-72.493491
+659,Massachusetts,2018-19,Meetinghouse Elementary,Public,Westminster,Worcester,96,3.9,42.5433359,-71.910877
+660,Massachusetts,2018-19,Memorial,Public,Burlington,Middlesex,96,2.9,42.5005424,-71.1835621
+661,Massachusetts,2018-19,Newbury Elementary,Public,Newbury,Essex,96,4.2,42.7909624,-70.8709324
+662,Massachusetts,2018-19,Northwest Elementary,Public,Leominster,Worcester,96,0,42.5368669,-71.7653064
+663,Massachusetts,2018-19,Quinsigamond Street,Public,Worcester,Worcester,96,0.9,42.2339221,-71.7962416
+664,Massachusetts,2018-19,Rita Miller Elementary,Public,Westford,Middlesex,96,3.2,42.6415643,-71.4316655
+665,Massachusetts,2018-19,South,Public,Plymouth,Plymouth,96,2.1,41.8364791,-70.6046298
+666,Massachusetts,2018-19,Southampton Road,Public,Westfield,Hampden,96,3,42.1662884,-72.7265417
+667,Massachusetts,2018-19,Varnum Brook Elementary,Public,Pepperell,Middlesex,96,2.9,42.6691585,-71.5894538
+668,Massachusetts,2018-19,West Villages Elementary,Public,Marstons Mills,Barnstable,96,3.8,41.6626793,-70.387215
+669,Massachusetts,2018-19,William H Taylor,Public,New Bedford,Bristol,96,2.1,41.5998154,-70.9057403
+670,Massachusetts,2018-19,A C Whelan Elementary,Public,Revere,Suffolk,95,0,42.4198364,-71.0205257
+671,Massachusetts,2018-19,Alice A Macomber,Public,Westport,Bristol,95,5,41.652502,-71.0823803
+672,Massachusetts,2018-19,Anna Ware Jackson,Public,Plainville,Norfolk,95,1.1,42.0125541,-71.3024084
+673,Massachusetts,2018-19,Baldwin Early Learning Center,Public,Brighton,Suffolk,95,0,42.3420888,-71.1404419
+674,Massachusetts,2018-19,Center,Public,Easthampton,Hampshire,95,4.8,42.265389,-72.669488
+675,Massachusetts,2018-19,Centerville Elementary,Public,Beverly,Essex,95,6.8,42.5791825,-70.8419555
+676,Massachusetts,2018-19,Colonial Park,Public,Stoneham,Middlesex,95,0,42.4682744,-71.0858039
+677,Massachusetts,2018-19,Dighton Elementary,Public,Dighton,Bristol,95,5.2,41.835463,-71.121908
+678,Massachusetts,2018-19,Dryden Memorial,Public,Springfield,Hampden,95,7.1,42.0991809,-72.543762
+679,Massachusetts,2018-19,East Fairhaven,Public,Fairhaven,Bristol,95,5.5,41.6501618,-70.8623489
+680,Massachusetts,2018-19,Edward F Parthum,Public,Lawrence,Essex,95,0,42.7185414,-71.1432666
+681,Massachusetts,2018-19,Fletcher-Maynard Academy,Public,Cambridge,Middlesex,95,3.6,42.3670308,-71.095595
+682,Massachusetts,2018-19,Grafton Street,Public,Worcester,Worcester,95,0,42.2503464,-71.7699888
+683,Massachusetts,2018-19,Hannah Elementary,Public,Beverly,Essex,95,1.6,42.5671636,-70.8676441
+684,Massachusetts,2018-19,Heights Elementary,Public,Sharon,Norfolk,95,7.6,42.1045695,-71.2049833
+685,Massachusetts,2018-19,Hillcrest Elementary,Public,Turners Falls,Franklin,95,3.2,42.5961389,-72.5555441
+686,Massachusetts,2018-19,Hiram L Dorman,Public,Springfield,Hampden,95,0,42.1281371,-72.5393409
+687,Massachusetts,2018-19,Holy Name,Private,West Roxbury,Suffolk,95,0,42.2883572,-71.1482764
+688,Massachusetts,2018-19,Joseph C Solmonese,Public,Norton,Bristol,95,3.2,41.9527379,-71.2278967
+689,Massachusetts,2018-19,Kingsley Montessori,Private,Boston,Suffolk,95,0,42.350638,-71.079751
+690,Massachusetts,2018-19,Leroy Wood,Public,Fairhaven,Bristol,95,4.8,41.6353577,-70.8814017
+691,Massachusetts,2018-19,Lunenburg Primary,Public,Lunenburg,Worcester,95,4.1,42.6001812,-71.7012668
+692,Massachusetts,2018-19,Mullen-Hall Elementary,Public,Falmouth,Barnstable,95,4.3,41.553821,-70.613442
+693,Massachusetts,2018-19,North Brookfield Elementary,Public,North Brookfield,Worcester,95,5,42.279014,-72.080969
+694,Massachusetts,2018-19,Old Sturbridge Academy Charter,Public,Sturbridge,Worcester,95,10,42.1084313,-72.1003103
+695,Massachusetts,2018-19,Pakachoag,Public,Auburn,Worcester,95,2.1,42.2237963,-71.8151002
+696,Massachusetts,2018-19,Patrick E Bowe,Public,Chicopee,Hampden,95,0,42.140567,-72.6085584
+697,Massachusetts,2018-19,Patrick J Kennedy,Public,East Boston,Suffolk,95,0,42.3784808,-71.030337
+698,Massachusetts,2018-19,Paul Dever,Public,Dorchester,Suffolk,95,0,42.317679,-71.0426997
+699,Massachusetts,2018-19,Rebecca Johnson,Public,Springfield,Hampden,95,0,42.1131839,-72.5644929
+700,Massachusetts,2018-19,Roosevelt,Public,Melrose,Middlesex,95,1.6,42.4657445,-71.0718465
+701,Massachusetts,2018-19,Sacred Hearts Elementary,Private,Bradford,Essex,95,4.7,42.7690671,-71.0756129
+702,Massachusetts,2018-19,Salisbury Elementary,Public,Salisbury,Essex,95,5.5,42.8551145,-70.8663941
+703,Massachusetts,2018-19,Silver Hill Horace Mann Charter,Public,Haverhill,Essex,95,4.9,42.7692837,-71.1012069
+704,Massachusetts,2018-19,South Shore Charter,Public,Norwell,Plymouth,95,1.4,42.156595,-70.8815196
+705,Massachusetts,2018-19,Sumner Ave Elementary,Public,Springfield,Hampden,95,1.2,42.0823204,-72.5746699
+706,Massachusetts,2018-19,Sumner G Whittier,Public,Everett,Middlesex,95,0,42.4039542,-71.0576844
+707,Massachusetts,2018-19,Tucker,Public,Milton,Norfolk,95,1.6,42.2608279,-71.0944511
+708,Massachusetts,2018-19,William G Vinal,Public,Norwell,Plymouth,95,2.7,42.1762919,-70.796179
+709,Massachusetts,2018-19,Worcester Arts Magnet,Public,Worcester,Worcester,95,1.7,42.3039311,-71.7751305
+710,Massachusetts,2018-19,Bridge Boston Charter,Public,Roxbury,Suffolk,94,0,42.316677,-71.0834388
+711,Massachusetts,2018-19,Buckland Shelburne Regional,Public,Shelburne Falls,Franklin,94,6.5,42.6083439,-72.7344686
+712,Massachusetts,2018-19,Burncoat Street,Public,Worcester,Worcester,94,0,42.3108338,-71.7891094
+713,Massachusetts,2018-19,Center,Public,Longmeadow,Hampden,94,5.9,42.0484984,-72.5818551
+714,Massachusetts,2018-19,Chestnut Hill,Private,Chestnut Hill,Middlesex,94,5.7,42.3283455,-71.1650491
+715,Massachusetts,2018-19,Clyde Brown,Public,Millis,Norfolk,94,2.5,42.1638411,-71.3589315
+716,Massachusetts,2018-19,East Falmouth Elementary,Public,East Falmouth,Barnstable,94,8,41.576895,-70.56029
+717,Massachusetts,2018-19,Ingalls,Public,Lynn,Essex,94,0,42.471677,-70.9365687
+718,Massachusetts,2018-19,John Ashley,Public,West Springfield,Hampden,94,4,42.149399,-72.6341529
+719,Massachusetts,2018-19,John M Tobin,Public,Cambridge,Middlesex,94,2,42.3844145,-71.1396115
+720,Massachusetts,2018-19,Liberty,Public,Springfield,Hampden,94,0,42.129603,-72.580057
+721,Massachusetts,2018-19,Martin Luther King Charter,Public,Springfield,Hampden,94,0,42.0837405,-72.5361742
+722,Massachusetts,2018-19,Milton Bradley,Public,Springfield,Hampden,94,1.2,42.1014449,-72.5803053
+723,Massachusetts,2018-19,North Falmouth Elementary,Public,North Falmouth,Barnstable,94,3.1,41.6377486,-70.6216848
+724,Massachusetts,2018-19,Our Lady Of Assumption,Private,Lynnfield,Essex,94,0,42.5145407,-71.005141
+725,Massachusetts,2018-19,Parker,Public,Billerica,Middlesex,94,1.2,42.5576962,-71.2727046
+726,Massachusetts,2018-19,Phiilip G Coburn,Public,West Springfield,Hampden,94,6.1,42.1080829,-72.6211408
+727,Massachusetts,2018-19,Rafael Hernandez,Public,Roxbury,Suffolk,94,0,42.3138134,-71.0980389
+728,Massachusetts,2018-19,St Bernadette,Private,Northboro,Worcester,94,5.9,42.3265166,-71.6211444
+729,Massachusetts,2018-19,Station Avenue Elementary,Public,South Yarmouth,Barnstable,94,2.6,41.6802906,-70.1975449
+730,Massachusetts,2018-19,Stearns,Public,Pittsfield,Berkshire,94,0,42.4370282,-73.2997162
+731,Massachusetts,2018-19,Stony Brook Elementary,Public,Brewster,Barnstable,94,4.5,41.7574309,-70.069279
+732,Massachusetts,2018-19,Thomas M Balliet,Public,Springfield,Hampden,94,0,42.1290073,-72.5273131
+733,Massachusetts,2018-19,Winthrop Elementary,Public,Ipswich,Essex,94,5.9,42.6827739,-70.8397905
+734,Massachusetts,2018-19,Carlton,Public,Salem,Essex,93,4.9,42.531738,-70.8905413
+735,Massachusetts,2018-19,Central,Public,East Bridgewater,Plymouth,93,0,42.0275499,-70.9565839
+736,Massachusetts,2018-19,Curley K-8,Public,Jamaica Plain,Suffolk,93,0,42.3184363,-71.1126891
+737,Massachusetts,2018-19,Eec/East Boston,Public,East Boston,Suffolk,93,1.7,42.3693811,-71.0342308
+738,Massachusetts,2018-19,Francis T Bresnahan Elementary,Public,Newburyport,Essex,93,3.7,42.8196377,-70.8968419
+739,Massachusetts,2018-19,Joseph P. Manning,Public,Jamaica Plain,Suffolk,93,0,42.3055646,-71.1315235
+740,Massachusetts,2018-19,Lincoln Elementary,Public,Springfield,Hampden,93,1.5,42.1198422,-72.6055767
+741,Massachusetts,2018-19,M.G. Hoyle Elementary,Public,Swansea,Bristol,93,2.9,41.7650684,-71.2425132
+742,Massachusetts,2018-19,Old Mill Pond,Public,Palmer,Hampden,93,4,42.1855118,-72.3419463
+743,Massachusetts,2018-19,Samuel Bowles,Public,Springfield,Hampden,93,0,42.1438277,-72.56289
+744,Massachusetts,2018-19,Steward Elementary,Public,Topsfield,Essex,93,1.4,42.6475019,-70.9223377
+745,Massachusetts,2018-19,William E Russell,Public,Dorchester,Suffolk,93,0,42.3203947,-71.0595479
+746,Massachusetts,2018-19,Alfred M Chaffee Elementary,Public,Oxford,Worcester,92,4.2,42.1084288,-71.8695164
+747,Massachusetts,2018-19,Dr W Arnone,Public,Brockton,Plymouth,92,0,42.0799332,-71.0249913
+748,Massachusetts,2018-19,Edison K-8,Public,Brighton,Suffolk,92,3.8,42.3455224,-71.1601606
+749,Massachusetts,2018-19,Green Meadow,Public,Maynard,Middlesex,92,6.3,42.4234181,-71.4584142
+750,Massachusetts,2018-19,James Clark,Public,Agawam,Hampden,92,9.2,42.0454725,-72.6314773
+751,Massachusetts,2018-19,Joseph J Hurley,Public,Boston,Suffolk,92,0,42.3388629,-71.0780309
+752,Massachusetts,2018-19,Joseph Lee,Public,Dorchester,Suffolk,92,0,42.2922261,-71.080242
+753,Massachusetts,2018-19,Josiah Quincy,Public,Boston,Suffolk,92,0,42.3475544,-71.0646803
+754,Massachusetts,2018-19,Kelly Elementary,Public,Holyoke,Hampden,92,0,42.202328,-72.6004449
+755,Massachusetts,2018-19,Kipp Academy Lynn Elementary,Public,Lynn,Essex,92,0,42.46064,-70.951076
+756,Massachusetts,2018-19,Lafayette,Public,Everett,Middlesex,92,0,42.4219614,-71.0510241
+757,Massachusetts,2018-19,Lynnhurst,Public,Saugus,Essex,92,0,42.476225,-71.0019525
+758,Massachusetts,2018-19,Morgan Elementary,Public,Holyoke,Hampden,92,0,42.1954279,-72.6079958
+759,Massachusetts,2018-19,Morris Elementary,Public,Lenox,Berkshire,92,10.4,42.3554107,-73.296688
+760,Massachusetts,2018-19,Rochester Memorial,Public,Rochester,Plymouth,92,3.2,41.7465765,-70.8669888
+761,Massachusetts,2018-19,Stall Brook,Public,Bellingham,Norfolk,92,4.5,42.1226955,-71.4573412
+762,Massachusetts,2018-19,Woodland Elementary,Public,Southwick,Hampden,92,8.6,42.0600111,-72.7512931
+763,Massachusetts,2018-19,Blackstone Community,Public,Boston,Suffolk,91,0,42.3403411,-71.0726709
+764,Massachusetts,2018-19,Frances Drake,Public,Leominster,Worcester,91,0,42.5185764,-71.7452112
+765,Massachusetts,2018-19,Hadley Elementary,Public,Hadley,Hampshire,91,0,42.3523173,-72.5864142
+766,Massachusetts,2018-19,Harwich Elementary,Public,Harwich,Barnstable,91,3.3,41.6840567,-70.0833366
+767,Massachusetts,2018-19,Manchester Memorial,Public,Manchester,Essex,91,11.6,42.579796,-70.7642809
+768,Massachusetts,2018-19,Marguerite E Small Elementary,Public,West Yarmouth,Barnstable,91,5.8,41.6736244,-70.2460958
+769,Massachusetts,2018-19,Pope John Ii Columbia Campus,Private,Dorchester,Suffolk,91,0,42.3206497,-71.0600029
+770,Massachusetts,2018-19,Ruggles Lane Elementary,Public,Barre,Worcester,91,9.4,42.429571,-72.1087019
+771,Massachusetts,2018-19,Sabis Charter,Public,Springfield,Hampden,91,0,42.1265042,-72.4841541
+772,Massachusetts,2018-19,Up Academy Holland,Public,Dorchester,Suffolk,91,0,42.306095,-71.0737333
+773,Massachusetts,2018-19,Walton,Public,Wakefield,Middlesex,91,8.7,42.507084,-71.086036
+774,Massachusetts,2018-19,West Brookfield Elementary,Public,West Brookfield,Worcester,91,8.8,42.238759,-72.1341509
+775,Massachusetts,2018-19,All Saints,Private,Webster,Worcester,90,0,42.0492791,-71.8779376
+776,Massachusetts,2018-19,Beethoven,Public,West Roxbury,Suffolk,90,0,42.26352,-71.155824
+777,Massachusetts,2018-19,Charles Sumner,Public,Roslindale,Suffolk,90,0,42.2864123,-71.1268857
+778,Massachusetts,2018-19,James Hennigan,Public,Jamaica Plain,Suffolk,90,0,42.3259073,-71.1066944
+779,Massachusetts,2018-19,Lanesborough Elementary,Public,Lanesborough,Berkshire,90,3.3,42.5130018,-73.2221481
+780,Massachusetts,2018-19,Munger Hill Elementary,Public,Westfield,Hampden,90,10.1,42.0978192,-72.7303126
+781,Massachusetts,2018-19,Teaticket Elementary,Public,Falmouth,Barnstable,90,5.1,41.567632,-70.590913
+782,Massachusetts,2018-19,Undermountain Elementary,Public,Sheffield,Berkshire,90,3.3,42.1059285,-73.3747774
+783,Massachusetts,2018-19,Veterans Memorial,Public,Saugus,Essex,90,1.7,42.454279,-71.0038565
+784,Massachusetts,2018-19,Whitinsville Christian,Private,Whitinsville,Worcester,90,3.3,42.106239,-71.653668
+785,Massachusetts,2018-19,Elias Brookings,Public,Springfield,Hampden,89,6.5,42.0990553,-72.564083
+786,Massachusetts,2018-19,James Chittick,Public,Mattapan,Suffolk,89,0,42.2672676,-71.1046543
+787,Massachusetts,2018-19,William Ellery Channing Elem,Public,Hyde Park,Suffolk,89,0,42.2516064,-71.1333862
+788,Massachusetts,2018-19,E N White,Public,Holyoke,Hampden,88,0,42.2250882,-72.6261121
+789,Massachusetts,2018-19,Edward Brooke Charter School 2,Public,Mattapan,Suffolk,88,0,42.2947775,-71.0924032
+790,Massachusetts,2018-19,Eliot Elementary,Public,Boston,Suffolk,88,1.3,42.3661902,-71.0534044
+791,Massachusetts,2018-19,Mary Rowlandson,Public,Lancaster,Worcester,88,12,42.4682469,-71.6757161
+792,Massachusetts,2018-19,Silvio Conte Community,Public,Pittsfield,Berkshire,88,0,42.4555452,-73.2680858
+793,Massachusetts,2018-19,Brookfield,Public,Brockton,Plymouth,87,0,42.117793,-71.0102176
+794,Massachusetts,2018-19,Dennis Haley,Public,Roslindale,Suffolk,86,5.4,42.2866131,-71.10748
+795,Massachusetts,2018-19,Higginson,Public,Roxbury,Suffolk,86,0,42.3176242,-71.091982
+796,Massachusetts,2018-19,Tecca Connections Academy,Public,Walpole,Norfolk,86,12.3,42.164104,-71.2205623
+797,Massachusetts,2018-19,West Tisbury,Public,West Tisbury,Dukes,86,11.1,41.4032765,-70.6620722
+798,Massachusetts,2018-19,Highland,Public,Westfield,Hampden,85,15,42.119436,-72.768968
+799,Massachusetts,2018-19,Holyoke Community Charter,Public,Holyoke,Hampden,84,0,42.1858718,-72.6286068
+800,Massachusetts,2018-19,L G Nourse,Public,Norton,Bristol,84,5.2,41.9684896,-71.1666106
+801,Massachusetts,2018-19,Sullivan Elementary,Public,Holyoke,Hampden,84,0,42.2056081,-72.6450665
+802,Massachusetts,2018-19,Community Day Charter School - Prospect,Public,Lawrence,Essex,82,0,42.7111474,-71.1492386
+803,Massachusetts,2018-19,Thomas Kenny,Public,Dorchester,Suffolk,82,0,42.2864958,-71.053233
+804,Massachusetts,2018-19,Joyce Kilmer,Public,West Roxbury,Suffolk,81,0,42.270961,-71.1651973
+805,Massachusetts,2018-19,Pauline A Shaw,Public,Dorchester,Suffolk,81,2.4,42.2821,-71.0868721
+806,Massachusetts,2018-19,Trotter Innovation,Public,Dorchester,Suffolk,81,0,42.3157889,-71.0876813
+807,Massachusetts,2018-19,King K-8,Public,Dorchester,Suffolk,80,0,42.3110873,-71.076426
+808,Massachusetts,2018-19,Sarah Greenwood,Public,Dorchester,Suffolk,78,0,42.2969658,-71.0802312
+809,Massachusetts,2018-19,South Boston Catholic Academy,Private,South Boston,Suffolk,78,0,42.3360002,-71.0296137
+810,Massachusetts,2018-19,St Augustine Elementary,Private,Andover,Essex,77,3.3,42.654442,-71.141725
+811,Massachusetts,2018-19,Henry Grew,Public,Hyde Park,Suffolk,76,0,42.2567995,-71.1270869
+812,Massachusetts,2018-19,Mattahunt Elementary,Public,Mattapan,Suffolk,76,0.8,42.2763361,-71.1033748
+813,Massachusetts,2018-19,Lexington Montessori,Private,Lexington,Middlesex,75,6.3,42.417602,-71.215011
+814,Massachusetts,2018-19,Orchard Gardens,Public,Roxbury,Suffolk,75,0.6,42.3305588,-71.0775764
+815,Massachusetts,2018-19,Waldorf,Private,Lexington,Middlesex,75,21.9,42.4298633,-71.2060915
+816,Massachusetts,2018-19,Young Achievers Science & Math Sch,Public,Mattapan,Suffolk,74,0,42.2822899,-71.0949754
+817,Massachusetts,2018-19,Jackson Mann,Public,Allston,Suffolk,73,0,42.3530757,-71.1376695
+818,Massachusetts,2018-19,Sacred Heart Elementary,Private,Kingston,Plymouth,73,0,41.9512253,-70.737026
+819,Massachusetts,2018-19,Match Community Charter,Public,Hyde Park,Suffolk,69,0,42.2623522,-71.1054228
+820,Massachusetts,2018-19,Warren Prescott,Public,Charlestown,Suffolk,67,0,42.377963,-71.064306
+821,Massachusetts,2018-19,Haynes Early Education Ctr,Public,Roxbury,Suffolk,65,0,42.3150654,-71.0788919
+822,Massachusetts,2018-19,Harvard-Kent,Public,Charlestown,Suffolk,64,0,42.3765831,-71.0578957
+823,Massachusetts,2018-19,O W Holmes,Public,Dorchester,Suffolk,63,0,42.2966783,-71.0749007
+824,Massachusetts,2018-19,Mario Umana Academy,Public,East Boston,Suffolk,60,0,42.3895406,-71.0106588
+825,Massachusetts,2018-19,Ellison/Parks Early Education,Public,Mattapan,Suffolk,59,0,42.2717653,-71.0916852
+826,Massachusetts,2018-19,Cambridgeport,Public,Cambridge,Middlesex,48,0,42.3695218,-71.0975405
+827,Massachusetts,2018-19,Rudolf Steiner,Private,Great Barrington,Berkshire,3,96.7,42.1896157,-73.4086531
+828,Massachusetts,2018-19,Abbott Memorial,Public,Florida,Berkshire,,,42.6933919,-73.0374219
+829,Massachusetts,2018-19,Abraham Lincoln,Public,Revere,Suffolk,,,42.4167881,-71.0097153
+830,Massachusetts,2018-19,Abundant Life Christian,Private,Wilmington,Middlesex,,,42.5568808,-71.1646745
+831,Massachusetts,2018-19,Academy Ave,Public,Weymouth,Norfolk,,,42.2198284,-70.9418405
+832,Massachusetts,2018-19,Academy Hill,Private,Springfield,Hampden,,,42.135294,-72.5861621
+833,Massachusetts,2018-19,Academy Of Early Learning,Private,Hyannis,Barnstable,,,41.6619272,-70.3050771
+834,Massachusetts,2018-19,Academy Of Notre Dame,Private,Tyngsboro,Middlesex,,,42.670588,-71.4263409
+835,Massachusetts,2018-19,Acera,Private,Winchester,Middlesex,,,42.4663534,-71.1341276
+836,Massachusetts,2018-19,Advent,Private,Boston,Suffolk,,,42.35831,-71.072068
+837,Massachusetts,2018-19,Al-Hamra Academy,Private,Shrewsbury,Worcester,,,42.2710909,-71.6825876
+838,Massachusetts,2018-19,Alfred G Zanetti,Public,Springfield,Hampden,,,42.1210628,-72.5881504
+839,Massachusetts,2018-19,Alhuda Academy,Private,Worcester,Worcester,,,42.3154222,-71.7738903
+840,Massachusetts,2018-19,All Saints Catholic,Private,New Bedford,Bristol,,,41.683261,-70.931623
+841,Massachusetts,2018-19,Amego,Private,Attleboro,Bristol,,,41.9498367,-71.2725955
+842,Massachusetts,2018-19,Amesbury Montessori,Private,Amesbury,Essex,,,42.8547422,-70.9386201
+843,Massachusetts,2018-19,Amherst Montessori,Private,Amherst,Hampshire,,,42.338925,-72.518322
+844,Massachusetts,2018-19,Andover School Of Montessori,Private,Andover,Essex,,,42.621898,-71.124408
+845,Massachusetts,2018-19,Anne T Dunphy,Public,Williamsburg,Hampshire,,,42.3916797,-72.7309198
+846,Massachusetts,2018-19,Annie L Sargent,Public,North Andover,Essex,,,42.6712772,-71.0971889
+847,Massachusetts,2018-19,Antioch,Private,Fall River,Bristol,,,41.7100575,-71.151279
+848,Massachusetts,2018-19,Applewild,Private,Fitchburg,Worcester,,,42.592399,-71.808691
+849,Massachusetts,2018-19,Argenziano School @ Lincoln Park,Public,Somerville,Middlesex,,,42.3792598,-71.0988921
+850,Massachusetts,2018-19,Arlington Childrens Center,Private,Arlington,Middlesex,,,42.4124533,-71.1587629
+851,Massachusetts,2018-19,Ashby Elementary,Public,Ashby,Middlesex,,,42.6789446,-71.8230189
+852,Massachusetts,2018-19,Assumption,Private,Millbury,Worcester,,,42.1914645,-71.7632163
+853,Massachusetts,2018-19,Athena Day,Private,Plymouth,Plymouth,,,41.9435775,-70.6514352
+854,Massachusetts,2018-19,Atrium,Private,Watertown,Middlesex,,,42.3698245,-71.1529588
+855,Massachusetts,2018-19,Bancroft,Private,Worcester,Worcester,,,42.3046978,-71.8148554
+856,Massachusetts,2018-19,Barrett Russell,Public,Brockton,Plymouth,,,42.0895111,-71.0272244
+857,Massachusetts,2018-19,Bay Farm Montessori,Private,Duxbury,Plymouth,,,42.008093,-70.718017
+858,Massachusetts,2018-19,Beachmont,Public,Revere,Suffolk,,,42.3959305,-70.986994
+859,Massachusetts,2018-19,Beacon Hill Nursery,Private,Boston,Suffolk,,,42.36075,-71.065367
+860,Massachusetts,2018-19,Becket Washington,Public,Becket,Berkshire,,,42.3321152,-73.0830712
+861,Massachusetts,2018-19,Bedford Montessori,Private,Bedford,Middlesex,,,42.4855425,-71.265844
+862,Massachusetts,2018-19,Belmont Day,Private,Belmont,Middlesex,,,42.396129,-71.185706
+863,Massachusetts,2018-19,Bement,Private,Deerfield,Franklin,,,42.5482827,-72.6037502
+864,Massachusetts,2018-19,Benjamin Brown,Public,Somerville,Middlesex,,,42.3973541,-71.1141142
+865,Massachusetts,2018-19,Bentley Academy Charter,Public,Salem,Essex,,,42.5279338,-70.8810211
+866,Massachusetts,2018-19,Berea Sda Academy,Private,Mattapan,Suffolk,,,42.282674,-71.087868
+867,Massachusetts,2018-19,Berkshire Christian,Private,Lenox,Berkshire,,,42.337802,-73.282819
+868,Massachusetts,2018-19,Berkshire Country Day,Private,Lenox,Berkshire,,,42.345897,-73.326015
+869,Massachusetts,2018-19,Berkshire Meadows (Jri),Private,Housatonic,Berkshire,,,42.2298533,-73.3694125
+870,Massachusetts,2018-19,Berlin Memorial,Public,Berlin,Worcester,,,42.3773078,-71.6368741
+871,Massachusetts,2018-19,Bernardston Elementary,Public,Bernardston,Franklin,,,42.6653739,-72.5609892
+872,Massachusetts,2018-19,Bethany Christian Academy,Private,Mendon,Worcester,,,42.10033,-71.5038403
+873,Massachusetts,2018-19,Bicounty Collaborative (Bico),Private,Franklin,Norfolk,,,42.0803115,-71.3794202
+874,Massachusetts,2018-19,Birches,Private,Lincoln,Middlesex,,,42.4392838,-71.3001809
+875,Massachusetts,2018-19,Blessed Sacrament,Private,Holyoke,Hampden,,,42.1953806,-72.6319617
+876,Massachusetts,2018-19,Blue Hill Montessori,Private,Canton,Norfolk,,,42.1826166,-71.1146181
+877,Massachusetts,2018-19,Boston Childrens School Annex,Private,Boston,Suffolk,,,42.365588,-71.067547
+878,Massachusetts,2018-19,Boston Teachers Union,Public,Jamaica Plain,Suffolk,,,42.2946217,-71.1159852
+879,Massachusetts,2018-19,Brayton Elementary,Public,North Adams,Berkshire,,,42.6966083,-73.1366893
+880,Massachusetts,2018-19,Bridgeview Montessori,Private,Sagamore,Barnstable,,,41.7735228,-70.5387632
+881,Massachusetts,2018-19,Briggs Elementary,Public,Ashburnham,Worcester,,,42.614985,-71.9271666
+882,Massachusetts,2018-19,Bright Horizons Teele Square,Private,Somerville,Middlesex,,,42.4010819,-71.1254734
+883,Massachusetts,2018-19,Brighton,Private,Framingham,Middlesex,,,42.32603,-71.4162536
+884,Massachusetts,2018-19,Brimfield Elementary,Public,Brimfield,Hampden,,,42.1191665,-72.2017709
+885,Massachusetts,2018-19,Brimmer And May,Private,Brookline,Norfolk,,,42.3268543,-71.16249
+886,Massachusetts,2018-19,British School Of Boston,Private,Jamaica Plain,Suffolk,,,42.3066032,-71.1301286
+887,Massachusetts,2018-19,Brockton Sda Academy,Private,Brockton,Plymouth,,,42.0862043,-71.0105346
+888,Massachusetts,2018-19,Brookwood,Private,Manchester,Essex,,,42.572336,-70.796751
+889,Massachusetts,2018-19,Browning Elementary @ South Lancaster,Private,South Lancaster,Worcester,,,42.4465158,-71.6877919
+890,Massachusetts,2018-19,Caleb Dustin Hunking,Public,Haverhill,Essex,,,42.7609029,-71.0865634
+891,Massachusetts,2018-19,Calvary Chapel Academy,Private,Rockland,Plymouth,,,42.1199087,-70.912675
+892,Massachusetts,2018-19,Cambridge Friends,Private,Cambridge,Middlesex,,,42.38787,-71.130456
+893,Massachusetts,2018-19,Cambridge Montessori,Private,Cambridge,Middlesex,,,42.3857518,-71.1323749
+894,Massachusetts,2018-19,Cape Cod Academy,Private,Osterville,Barnstable,,,41.6430575,-70.3905719
+895,Massachusetts,2018-19,Cape Cod Collaborative,Private,Osterville,Barnstable,,,41.6437851,-70.3809699
+896,Massachusetts,2018-19,Caps Collaborative,Private,Westminster,Worcester,,,42.5414298,-71.8972336
+897,Massachusetts,2018-19,Cedar Brook Sda,Private,Rehoboth,Bristol,,,41.8651588,-71.2276522
+898,Massachusetts,2018-19,Cedar Elementary,Public,Hanover,Plymouth,,,42.1320502,-70.8675693
+899,Massachusetts,2018-19,Center Elementary,Public,Hanover,Plymouth,,,42.1189254,-70.8421896
+900,Massachusetts,2018-19,Center For Applied Behavioral Instruction,Private,Worcester,Worcester,,,42.215361,-71.795142
+901,Massachusetts,2018-19,Chandler Elem. Community,Public,Worcester,Worcester,,,42.2603917,-71.810756
+902,Massachusetts,2018-19,Chandler Elementary,Public,Duxbury,Plymouth,,,42.0358072,-70.737355
+903,Massachusetts,2018-19,Charles River,Private,Dover,Norfolk,,,42.2447725,-71.2786975
+904,Massachusetts,2018-19,Charles Taylor Elem,Public,Mattapan,Suffolk,,,42.2774038,-71.0776114
+905,Massachusetts,2018-19,Chatham Elementary,Public,Chatham,Barnstable,,,41.6864384,-69.9615558
+906,Massachusetts,2018-19,Chester Elementary,Public,Chester,Hampden,,,42.2995096,-72.9854142
+907,Massachusetts,2018-19,Children First Center,Private,Granby,Hampshire,,,42.2574014,-72.5190888
+908,Massachusetts,2018-19,Childrens Castle Inc,Private,West Newbury,Essex,,,42.8086284,-70.961219
+909,Massachusetts,2018-19,Childrens Ctr For Communication,Private,Beverly,Essex,,,42.565853,-70.865298
+910,Massachusetts,2018-19,Childrens Own,Private,Winchester,Middlesex,,,42.4390245,-71.1331635
+911,Massachusetts,2018-19,Childrens Workshop Montessori,Public,Marblehead,Essex,,,42.49539,-70.883563
+912,Massachusetts,2018-19,Chilmark Elementary,Public,Chilmark,Dukes,,,41.34169,-70.743713
+913,Massachusetts,2018-19,Clark Creative Learn,Private,Rowley,Essex,,,42.695329,-70.915405
+914,Massachusetts,2018-19,Clarke,Private,Northampton,Hampshire,,,42.3224027,-72.6397266
+915,Massachusetts,2018-19,Clarke School East,Private,Canton,Norfolk,,,42.1715266,-71.1056559
+916,Massachusetts,2018-19,Clarksburg Elementary,Public,Clarksburg,Berkshire,,,42.7184893,-73.1037176
+917,Massachusetts,2018-19,Codman Academy Charter,Public,Dorchester,Suffolk,,,42.2894145,-71.0720545
+918,Massachusetts,2018-19,Colrain Central,Public,Colrain,Franklin,,,42.675501,-72.697485
+919,Massachusetts,2018-19,Columbus Park Prep Academy,Public,Worcester,Worcester,,,42.2528149,-71.8328365
+920,Massachusetts,2018-19,Common,Private,Amherst,Hampshire,,,42.359575,-72.52309
+921,Massachusetts,2018-19,Community Christian Academy,Private,Lowell,Middlesex,,,42.6356733,-71.3352107
+922,Massachusetts,2018-19,Community Christian,Private,Westfield,Hampden,,,42.1113079,-72.748056
+923,Massachusetts,2018-19,Community Day Learning Ctr,Private,Lawrence,Essex,,,42.7093582,-71.1676044
+924,Massachusetts,2018-19,Community Therapeutic,Private,Lexington,Middlesex,,,42.4207424,-71.2517603
+925,Massachusetts,2018-19,Compass,Private,Dorchester,Suffolk,,,42.3076234,-71.0660664
+926,Massachusetts,2018-19,Conservatory Lab Charter Lower,Public,Dorchester,Suffolk,,,42.3112364,-71.0636196
+927,Massachusetts,2018-19,Conway Grammar,Public,Conway,Franklin,,,42.5093034,-72.6731014
+928,Massachusetts,2018-19,Cornerstone Academy,Private,Northboro,Worcester,,,42.3149843,-71.6594358
+929,Massachusetts,2018-19,Cotting,Private,Lexington,Middlesex,,,42.4199647,-71.2373977
+930,Massachusetts,2018-19,Covenant Christian Academy,Private,Peabody,Essex,,,42.5433388,-71.0020322
+931,Massachusetts,2018-19,Creative Corner,Private,Winchester,Middlesex,,,42.4646344,-71.146575
+932,Massachusetts,2018-19,Crest Collaborative,Private,Methuen,Essex,,,42.7384171,-71.197393
+933,Massachusetts,2018-19,Crossroads School For Children,Private,Marlboro,Middlesex,,,42.362304,-71.602199
+934,Massachusetts,2018-19,Cutler,Public,South Hamilton,Essex,,,42.6211069,-70.8796247
+935,Massachusetts,2018-19,Cuvilly Arts & Earth Center,Private,Ipswich,Essex,,,42.6874747,-70.8271823
+936,Massachusetts,2018-19,Cyrus Dallin Elementary,Public,Arlington,Middlesex,,,42.41771,-71.187859
+937,Massachusetts,2018-19,Daniel Butler,Public,Belmont,Middlesex,,,42.3860686,-71.1877857
+938,Massachusetts,2018-19,Dante Alighieri,Public,East Boston,Suffolk,,,42.371392,-71.037903
+939,Massachusetts,2018-19,Dartmouth Early Learning Ctr,Private,South Dartmouth,Bristol,,,41.581074,-70.970532
+940,Massachusetts,2018-19,David A Ellis,Public,Roxbury,Suffolk,,,42.3169018,-71.0922888
+941,Massachusetts,2018-19,Day Spring Christian Academy,Private,South Attleboro,Bristol,,,41.9053917,-71.3557146
+942,Massachusetts,2018-19,Dedham Country Day,Private,Dedham,Norfolk,,,42.238795,-71.185705
+943,Massachusetts,2018-19,Deerfield,Public,Westwood,Norfolk,,,42.2261767,-71.2195307
+944,Massachusetts,2018-19,Delphi Academy,Private,Milton,Norfolk,,,42.246949,-71.1033764
+945,Massachusetts,2018-19,Dennett Elementary,Public,Plympton,Plymouth,,,41.9724114,-70.7979395
+946,Massachusetts,2018-19,Derby Academy,Private,Hingham,Plymouth,,,42.2484494,-70.8938867
+947,Massachusetts,2018-19,Devens,Public,Everett,Middlesex,,,42.4083559,-71.0558201
+948,Massachusetts,2018-19,Devereux,Private,Marblehead,Essex,,,42.4941322,-70.8667417
+949,Massachusetts,2018-19,Donald Mckay,Public,East Boston,Suffolk,,,42.3693328,-71.0342229
+950,Massachusetts,2018-19,Douglas Waybright Elementary,Public,Saugus,Essex,,,42.4624971,-71.0138657
+951,Massachusetts,2018-19,Dr Franklin Perkins,Private,Lancaster,Worcester,,,42.4622692,-71.6718776
+952,Massachusetts,2018-19,Dr William R Peck,Public,Holyoke,Hampden,,,42.198082,-72.6264685
+953,Massachusetts,2018-19,Dr. Janice Aide Day,Public,Chelmsford,Middlesex,,,42.6081811,-71.304264
+954,Massachusetts,2018-19,E Ethel Little,Public,North Reading,Middlesex,,,42.570409,-71.121038
+955,Massachusetts,2018-19,Earnest F Upham Elementary,Public,Wellesley,Norfolk,,,42.3112122,-71.2997905
+956,Massachusetts,2018-19,East Boston Central Catholic,Private,East Boston,Suffolk,,,42.3715433,-71.0399286
+957,Massachusetts,2018-19,East Brookfield Elementary,Public,East Brookfield,Worcester,,,42.2325823,-72.0370742
+958,Massachusetts,2018-19,East Gate Christian Academy,Private,Fall River,Bristol,,,41.6946579,-71.177999
+959,Massachusetts,2018-19,Eastern Point Day,Private,Gloucester,Essex,,,42.596465,-70.6524268
+960,Massachusetts,2018-19,Eastham Elementary,Public,Eastham,Barnstable,,,41.8410405,-69.973765
+961,Massachusetts,2018-19,Edward Brooke Charter,Public,Roslindale,Suffolk,,,42.2819474,-71.1219476
+962,Massachusetts,2018-19,Edward Everett,Public,Dorchester,Suffolk,,,42.3136515,-71.0597956
+963,Massachusetts,2018-19,Edward P Boland Elementary,Public,Springfield,Hampden,,,42.1201523,-72.586977
+964,Massachusetts,2018-19,Eliot-Pearson Children,Private,Medford,Middlesex,,,42.4102861,-71.1143721
+965,Massachusetts,2018-19,Ellis Mendell,Public,Roxbury,Suffolk,,,42.316592,-71.1016609
+966,Massachusetts,2018-19,Emma L Miller Elementary,Public,Savoy,Berkshire,,,42.5690908,-72.9955238
+967,Massachusetts,2018-19,Epstein Hillel Academy,Private,Marblehead,Essex,,,42.485102,-70.875171
+968,Massachusetts,2018-19,Erving Elementary,Public,Erving,Franklin,,,42.5895306,-72.4848097
+969,Massachusetts,2018-19,Eugene C Vining,Public,Billerica,Middlesex,,,42.533805,-71.258837
+970,Massachusetts,2018-19,Fair Acres Country Day,Private,Marstons Mills,Barnstable,,,41.669095,-70.394291
+971,Massachusetts,2018-19,Faith Christian,Private,Gloucester,Essex,,,42.632607,-70.678602
+972,Massachusetts,2018-19,Faith Christian,Private,Hyannis,Barnstable,,,41.6822841,-70.2959396
+973,Massachusetts,2018-19,Fallon,Public,Lynn,Essex,,,42.4687739,-70.9705585
+974,Massachusetts,2018-19,Falls Elementary,Public,North Attleboro,Bristol,,,41.9723592,-71.3145124
+975,Massachusetts,2018-19,Farmington River Elementary,Public,Otis,Berkshire,,,42.2071672,-73.0960965
+976,Massachusetts,2018-19,Faulkner Kindergarten,Private,Billerica,Middlesex,,,42.592806,-71.283433
+977,Massachusetts,2018-19,Fayerweather Street,Private,Cambridge,Middlesex,,,42.3913761,-71.1541736
+978,Massachusetts,2018-19,Federal Street,Public,Greenfield,Franklin,,,42.5913906,-72.5977391
+979,Massachusetts,2018-19,Fellowship Christian Academy,Private,Methuen,Essex,,,42.7427003,-71.2238936
+980,Massachusetts,2018-19,First Baptist Christian,Private,South Weymouth,Norfolk,,,42.1880267,-70.9586504
+981,Massachusetts,2018-19,First Lutheran,Private,Holyoke,Hampden,,,42.201328,-72.630335
+982,Massachusetts,2018-19,Fisher Hill,Public,Orange,Franklin,,,42.5972369,-72.3110756
+983,Massachusetts,2018-19,Fort River Elementary,Public,Amherst,Hampshire,,,42.374791,-72.497669
+984,Massachusetts,2018-19,Fox Hill,Public,Burlington,Middlesex,,,42.5293023,-71.1890244
+985,Massachusetts,2018-19,Francis M Leahy,Public,Lawrence,Essex,,,42.7146216,-71.1614299
+986,Massachusetts,2018-19,Frank M Silvia,Public,Fall River,Bristol,,,41.733566,-71.1111325
+987,Massachusetts,2018-19,Franklin Roosevelt Lower Campus,Public,Hyde Park,Suffolk,,,42.233938,-71.132846
+988,Massachusetts,2018-19,Franklin,Public,North Andover,Essex,,,42.6766189,-71.1195853
+989,Massachusetts,2018-19,Frederick Murphy,Public,Weymouth,Norfolk,,,42.2055859,-70.9607635
+990,Massachusetts,2018-19,Fredrick Harris,Public,Springfield,Hampden,,,42.0927543,-72.5353844
+991,Massachusetts,2018-19,Friends Academy,Private,North Dartmouth,Bristol,,,41.6241127,-70.98222
+992,Massachusetts,2018-19,Full Circle,Private,Bernardston,Franklin,,,42.6705249,-72.5233698
+993,Massachusetts,2018-19,G.L.C.A.C. Child Care Center,Private,Lawrence,Essex,,,42.690006,-71.172113
+994,Massachusetts,2018-19,George Conley,Public,Roslindale,Suffolk,,,42.274782,-71.1270732
+995,Massachusetts,2018-19,George F Willett Elementary,Public,Norwood,Norfolk,,,42.1936767,-71.2218047
+996,Massachusetts,2018-19,German International,Private,Allston,Suffolk,,,42.3603818,-71.1360804
+997,Massachusetts,2018-19,Gerry,Public,Marblehead,Essex,,,42.5064538,-70.8502074
+998,Massachusetts,2018-19,Gill Elementary,Public,Gill,Franklin,,,42.6489273,-72.4973664
+999,Massachusetts,2018-19,Glen Urquhart,Private,Beverly,Essex,,,42.5696128,-70.8160195
+1000,Massachusetts,2018-19,Golden Hill,Public,Haverhill,Essex,,,42.77266,-71.0604082
+1001,Massachusetts,2018-19,Grace Baptist Christian Academy,Private,Attleboro,Bristol,,,41.9127584,-71.2649273
+1002,Massachusetts,2018-19,Granville Village,Public,Southwick,Hampden,,,42.0664213,-72.8544751
+1003,Massachusetts,2018-19,Greater Boston Academy,Private,Stoneham,Middlesex,,,42.4680702,-71.0959427
+1004,Massachusetts,2018-19,Greenfield Center,Private,Greenfield,Franklin,,,42.5745754,-72.582752
+1005,Massachusetts,2018-19,Greenhouse,Private,Salem,Essex,,,42.4976795,-70.8946662
+1006,Massachusetts,2018-19,Gregg House,Private,Lynn,Essex,,,42.4631324,-70.9395101
+1007,Massachusetts,2018-19,Greylock,Public,North Adams,Berkshire,,,42.6964702,-73.1514936
+1008,Massachusetts,2018-19,Groton Community,Private,Groton,Middlesex,,,42.59593,-71.5610173
+1009,Massachusetts,2018-19,Haggerty,Public,Cambridge,Middlesex,,,42.3781208,-71.1524555
+1010,Massachusetts,2018-19,Hancock Elementary,Public,Hancock,Berkshire,,,42.5767904,-73.2991303
+1011,Massachusetts,2018-19,Hands On Montessori,Private,Mansfield,Bristol,,,42.0291207,-71.2272345
+1012,Massachusetts,2018-19,Harborlight-Stoneridge Montessori,Private,Beverly,Essex,,,42.5650112,-70.8636817
+1013,Massachusetts,2018-19,Hardwick Elementary,Public,Gilbertville,Worcester,,,42.3169235,-72.1863231
+1014,Massachusetts,2018-19,Hartsbrook,Private,Hadley,Hampshire,,,42.3286796,-72.5651581
+1015,Massachusetts,2018-19,Hawlemont Regional,Public,Charlemont,Franklin,,,42.6273957,-72.8746323
+1016,Massachusetts,2018-19,Hellenic American Academy,Private,Lowell,Middlesex,,,42.6442124,-71.3156729
+1017,Massachusetts,2018-19,Hennessey,Public,Lawrence,Essex,,,42.6969773,-71.1770642
+1018,Massachusetts,2018-19,Henry Buckner,Private,Cambridge,Middlesex,,,42.3657483,-71.1016572
+1019,Massachusetts,2018-19,Higginson/Lewis K-8,Public,Roxbury,Suffolk,,,42.320959,-71.0868644
+1020,Massachusetts,2018-19,Highlands,Public,Braintree,Norfolk,,,42.1792664,-71.0119914
+1021,Massachusetts,2018-19,Hill Institute,Private,Florence,Hampshire,,,42.3324901,-72.6708839
+1022,Massachusetts,2018-19,Hilltop Nursery & Kindergarten,Private,Haverhill,Essex,,,42.576428,-71.078792
+1023,Massachusetts,2018-19,Hilltown Coop Charter,Public,Easthampton,Hampshire,,,42.286716,-72.66014
+1024,Massachusetts,2018-19,Holden Christian Academy,Private,Holden,Worcester,,,42.3407041,-71.8674664
+1025,Massachusetts,2018-19,Holland Elementary,Public,Holland,Hampden,,,42.0652705,-72.1600783
+1026,Massachusetts,2018-19,Holy Family,Private,Gardner,Worcester,,,42.5740131,-71.9987584
+1027,Massachusetts,2018-19,Holy Family - Holy Name,Private,New Bedford,Bristol,,,41.638093,-70.932658
+1028,Massachusetts,2018-19,Holy Family,Private,Rockland,Plymouth,,,42.1337088,-70.9151584
+1029,Massachusetts,2018-19,Holy Name,Private,Fall River,Bristol,,,41.71316,-71.139957
+1030,Massachusetts,2018-19,Holy Trinity,Private,Fall River,Bristol,,,41.6761315,-71.1557825
+1031,Massachusetts,2018-19,Homer Street,Public,Springfield,Hampden,,,42.112904,-72.5554846
+1032,Massachusetts,2018-19,Hoosac Valley Elementary,Public,Adams,Berkshire,,,42.6185536,-73.1207065
+1033,Massachusetts,2018-19,Hope Christian,Private,Hanson,Plymouth,,,42.0334044,-70.8438208
+1034,Massachusetts,2018-19,Hopeful Journeys,Private,Beverly,Essex,,,42.5737954,-70.8841729
+1035,Massachusetts,2018-19,Horace Mann School For The Deaf,Public,Allston,Suffolk,,,42.3521436,-71.1376479
+1036,Massachusetts,2018-19,Houghton,Public,Sterling,Worcester,,,42.413428,-71.7779098
+1037,Massachusetts,2018-19,Imago,Private,Maynard,Middlesex,,,42.4279251,-71.4603684
+1038,Massachusetts,2018-19,Immaculate Conception,Private,Lowell,Middlesex,,,42.6452713,-71.3028518
+1039,Massachusetts,2018-19,Immaculate Conception,Private,Marlboro,Middlesex,,,42.3471563,-71.551187
+1040,Massachusetts,2018-19,Immaculate Conception,Private,Newburyport,Essex,,,42.8087817,-70.8741004
+1041,Massachusetts,2018-19,Immaculate Conception,Private,Revere,Suffolk,,,42.4068297,-71.0099742
+1042,Massachusetts,2018-19,Independence Academy,Private,Bourne,Barnstable,,,41.7412773,-70.5989325
+1043,Massachusetts,2018-19,Inly,Private,Scituate,Plymouth,,,42.1720182,-70.7593348
+1044,Massachusetts,2018-19,Integrated Learning Academy - Newton,Private,Newton,Middlesex,,,42.3370413,-71.2092214
+1045,Massachusetts,2018-19,Islamic Academy Of New England,Private,Sharon,Norfolk,,,42.0965708,-71.1948641
+1046,Massachusetts,2018-19,Italian Home For Children,Private,Jamaica Plain,Suffolk,,,42.3023407,-71.1266358
+1047,Massachusetts,2018-19,Jackson St,Public,Northampton,Hampshire,,,42.3345354,-72.6450535
+1048,Massachusetts,2018-19,James B Congdon,Public,New Bedford,Bristol,,,41.6217398,-70.9317366
+1049,Massachusetts,2018-19,James Condon,Public,South Boston,Suffolk,,,42.3381606,-71.0525135
+1050,Massachusetts,2018-19,James Otis,Public,East Boston,Suffolk,,,42.375254,-71.033871
+1051,Massachusetts,2018-19,Jefferson Elementary,Public,Rockland,Plymouth,,,42.1238642,-70.9105604
+1052,Massachusetts,2018-19,Jewish Community Day,Private,Watertown,Middlesex,,,42.3683171,-71.2095837
+1053,Massachusetts,2018-19,Jireh Swift,Public,New Bedford,Bristol,,,41.634776,-70.9315526
+1054,Massachusetts,2018-19,John Breen,Public,Lawrence,Essex,,,42.695947,-71.1481862
+1055,Massachusetts,2018-19,John F Kennedy Elementary,Public,Somerville,Middlesex,,,42.3892942,-71.1154695
+1056,Massachusetts,2018-19,John Philbrick,Public,Roslindale,Suffolk,,,42.2853974,-71.1177405
+1057,Massachusetts,2018-19,John Winthrop,Public,Dorchester,Suffolk,,,42.3182801,-71.075562
+1058,Massachusetts,2018-19,Johnson,Public,Nahant,Essex,,,42.4222968,-70.9339028
+1059,Massachusetts,2018-19,Joseph Tynan,Public,South Boston,Suffolk,,,42.3345263,-71.0390073
+1060,Massachusetts,2018-19,Judge Rotenberg,Private,Canton,Norfolk,,,42.1774117,-71.111986
+1061,Massachusetts,2018-19,Kennedy Day,Private,Brighton,Suffolk,,,42.3496138,-71.1428331
+1062,Massachusetts,2018-19,Kennedy Donovan Center,Private,New Bedford,Bristol,,,41.6299053,-70.9298283
+1063,Massachusetts,2018-19,Keystone Montessori,Private,North Chelmsford,Middlesex,,,42.6375781,-71.3782694
+1064,Massachusetts,2018-19,Kiddie Kampus,Private,North Dartmouth,Bristol,,,41.6378867,-70.98748
+1065,Massachusetts,2018-19,Kids Are People,Private,Boston,Suffolk,,,42.3485511,-71.0961356
+1066,Massachusetts,2018-19,Kinder Care #1485,Private,North Andover,Essex,,,42.6970402,-71.1193679
+1067,Massachusetts,2018-19,Kinder Care Learning Ctr,Private,Braintree,Norfolk,,,42.2143675,-71.0222991
+1068,Massachusetts,2018-19,Kings Wood Montessori,Private,Foxboro,Norfolk,,,42.0665051,-71.253681
+1069,Massachusetts,2018-19,Kipp Academy Boston Charter,Public,Mattapan,Suffolk,,,42.2745282,-71.0924433
+1070,Massachusetts,2018-19,Kittredge,Public,Hinsdale,Berkshire,,,42.438481,-73.1225131
+1071,Massachusetts,2018-19,Kittredge,Public,North Andover,Essex,,,42.6921021,-71.1193626
+1072,Massachusetts,2018-19,Lambert-Lavoie,Public,Chicopee,Hampden,,,42.1763144,-72.5953889
+1073,Massachusetts,2018-19,Lander-Grinspoon Academy,Private,Northampton,Hampshire,,,42.3300214,-72.6416575
+1074,Massachusetts,2018-19,Lawlor Early Childhood Ctr,Public,Lawrence,Essex,,,42.7162439,-71.1669792
+1075,Massachusetts,2018-19,Lawrence Family Development Charter,Public,Lawrence,Essex,,,42.7087019,-71.1737688
+1076,Massachusetts,2018-19,Lawrence W Pingree,Public,Weymouth,Norfolk,,,42.2177002,-70.9252183
+1077,Massachusetts,2018-19,League,Private,Walpole,Norfolk,,,42.1494082,-71.2121516
+1078,Massachusetts,2018-19,Learning Center For Deaf,Private,Framingham,Middlesex,,,42.3069288,-71.4282151
+1079,Massachusetts,2018-19,Learning Project Elementary,Private,Boston,Suffolk,,,42.353542,-71.0770826
+1080,Massachusetts,2018-19,Legacy Christian Academy,Private,Norton,Bristol,,,41.945357,-71.1737769
+1081,Massachusetts,2018-19,Leroy E Mayo,Public,Holden,Worcester,,,42.3489592,-71.8264497
+1082,Massachusetts,2018-19,Lesley Ellis,Private,Arlington,Middlesex,,,42.4075208,-71.1411222
+1083,Massachusetts,2018-19,Leverett Elementary,Public,Leverett,Franklin,,,42.462965,-72.4981988
+1084,Massachusetts,2018-19,Lighthouse,Private,North Chelmsford,Middlesex,,,42.644589,-71.3860433
+1085,Massachusetts,2018-19,Lilliput,Private,Shrewsbury,Worcester,,,42.2953899,-71.7137253
+1086,Massachusetts,2018-19,Linden,Public,Malden,Middlesex,,,42.4334297,-71.0314399
+1087,Massachusetts,2018-19,Little Blessings Kindergarten,Private,Attleboro,Bristol,,,41.970411,-71.2903607
+1088,Massachusetts,2018-19,Little Theatre Nursery & Kinderg,Private,Lynn,Essex,,,42.5022571,-70.9788114
+1089,Massachusetts,2018-19,Litwin,Public,Chicopee,Hampden,,,42.174798,-72.5242986
+1090,Massachusetts,2018-19,Longmeadow Montessori,Private,Longmeadow,Hampden,,,42.0498468,-72.5818678
+1091,Massachusetts,2018-19,Lowell Catholic,Private,Lowell,Middlesex,,,42.6257873,-71.3311201
+1092,Massachusetts,2018-19,Lowell Day Nursery,Private,Lowell,Middlesex,,,42.6515094,-71.3166058
+1093,Massachusetts,2018-19,Lynn Woods,Public,Lynn,Essex,,,42.4957685,-70.9720015
+1094,Massachusetts,2018-19,Maimonides,Private,Brookline,Norfolk,,,42.3299773,-71.1303639
+1095,Massachusetts,2018-19,Make Way For Ducklings,Private,Springfield,Hampden,,,42.1042153,-72.5462116
+1096,Massachusetts,2018-19,Manville,Private,Roxbury,Suffolk,,,42.3309571,-71.1098234
+1097,Massachusetts,2018-19,Maple Dene Elementary,Private,Pepperell,Middlesex,,,42.6811387,-71.5814791
+1098,Massachusetts,2018-19,Margaret C Ells,Public,Springfield,Hampden,,,42.1241479,-72.55533
+1099,Massachusetts,2018-19,Marion E Zeh,Public,Northboro,Worcester,,,42.324196,-71.648235
+1100,Massachusetts,2018-19,Martha's Vineyard Charter,Public,West Tisbury,Dukes,,,41.4190896,-70.6644034
+1101,Massachusetts,2018-19,Mary E Flaherty,Public,Braintree,Norfolk,,,42.2210351,-71.0178556
+1102,Massachusetts,2018-19,Mary Lee Burbank,Public,Belmont,Middlesex,,,42.3884396,-71.164106
+1103,Massachusetts,2018-19,Mary Lyon K-8,Public,Brighton,Suffolk,,,42.3510884,-71.1614661
+1104,Massachusetts,2018-19,Mason Road,Public,Dudley,Worcester,,,42.0461524,-71.9052134
+1105,Massachusetts,2018-19,Massachusetts Virtual Academy At Greenfield,Public,Greenfield,Franklin,,,42.5884292,-72.6020882
+1106,Massachusetts,2018-19,Mater Dolorosa,Private,Holyoke,Hampden,,,42.2101664,-72.606179
+1107,Massachusetts,2018-19,Maurice J Tobin,Public,Roxbury,Suffolk,,,42.333023,-71.098334
+1108,Massachusetts,2018-19,May Center For Child Development,Private,West Springfield,Hampden,,,42.1380603,-72.6226629
+1109,Massachusetts,2018-19,May Center School For Brain Injury,Private,Brockton,Plymouth,,,42.0626313,-71.0036705
+1110,Massachusetts,2018-19,May Institute,Private,Wilmington,Middlesex,,,42.5588605,-71.1386315
+1111,Massachusetts,2018-19,May Institute Child Develop Ctr,Private,Randolph,Norfolk,,,42.2017704,-71.051247
+1112,Massachusetts,2018-19,Mcauley Nazareth,Private,Leicester,Worcester,,,42.2583599,-71.8890948
+1113,Massachusetts,2018-19,Meadowbrook School Of Weston,Private,Weston,Middlesex,,,42.354112,-71.272057
+1114,Massachusetts,2018-19,Meeting House Montessori,Private,Braintree,Norfolk,,,42.2296484,-71.003421
+1115,Massachusetts,2018-19,Melmark New England,Private,Andover,Essex,,,42.655303,-71.248296
+1116,Massachusetts,2018-19,Melrose Montessori,Private,Melrose,Middlesex,,,42.4587313,-71.0665953
+1117,Massachusetts,2018-19,Merrill Elementary,Public,Raynham,Bristol,,,41.9340048,-71.0317209
+1118,Massachusetts,2018-19,Metro West Jewish Day,Private,Framingham,Middlesex,,,42.3261548,-71.4237928
+1119,Massachusetts,2018-19,Metrowest Christian Academy,Private,Ashland,Middlesex,,,42.261484,-71.478921
+1120,Massachusetts,2018-19,Mildred Avenue K-8,Public,Mattapan,Suffolk,,,42.2761381,-71.0914171
+1121,Massachusetts,2018-19,Millville Elementary,Public,Millville,Worcester,,,42.0325342,-71.5779544
+1122,Massachusetts,2018-19,Milton Academy,Private,Milton,Norfolk,,,42.255173,-71.071823
+1123,Massachusetts,2018-19,Miriam Mccarthy,Public,Framingham,Middlesex,,,42.2916714,-71.4162954
+1124,Massachusetts,2018-19,Mission Grammar,Private,Roxbury,Suffolk,,,42.3335574,-71.100648
+1125,Massachusetts,2018-19,Mission Hill,Public,Jamaica Plain,Suffolk,,,42.3072131,-71.1143611
+1126,Massachusetts,2018-19,Montessori Childrens House,Private,Auburn,Worcester,,,42.2038844,-71.8471521
+1127,Massachusetts,2018-19,Montessori Childrens House,Private,Southbridge,Worcester,,,42.0878784,-72.0239109
+1128,Massachusetts,2018-19,Montessori Childrens House,Private,West Springfield,Hampden,,,42.1105386,-72.6190207
+1129,Massachusetts,2018-19,Montessori School Of Northampton,Private,Northampton,Hampshire,,,42.3325682,-72.6277028
+1130,Massachusetts,2018-19,Montessori School Of The Angels,Private,Westport,Bristol,,,41.636258,-71.051088
+1131,Massachusetts,2018-19,Montessori School Of The Berkshires,Private,Lenox Dale,Berkshire,,,42.3308984,-73.2526126
+1132,Massachusetts,2018-19,Morrison Elementary,Public,Braintree,Norfolk,,,42.2103222,-70.979161
+1133,Massachusetts,2018-19,Mount Hope Christian,Private,Burlington,Middlesex,,,42.5026718,-71.1984476
+1134,Massachusetts,2018-19,Mozart,Public,Roslindale,Suffolk,,,42.2812332,-71.141075
+1135,Massachusetts,2018-19,Mrs Alexanders,Private,Beverly,Essex,,,42.545933,-70.874294
+1136,Massachusetts,2018-19,Mt Alvernia Academy,Private,Chestnut Hill,Middlesex,,,42.338373,-71.1734439
+1137,Massachusetts,2018-19,Mullein Hill Christian Academy,Private,Lakeville,Plymouth,,,41.8574549,-70.9290253
+1138,Massachusetts,2018-19,Nabnasset Elementary,Public,Westford,Middlesex,,,42.6087917,-71.4216802
+1139,Massachusetts,2018-19,Nantucket Lighthouse,Private,Nantucket,Nantucket,,,41.262815,-70.092328
+1140,Massachusetts,2018-19,Nantucket New,Private,Nantucket,Nantucket,,,41.265679,-70.061587
+1141,Massachusetts,2018-19,Nashoba Brooks,Private,Concord,Middlesex,,,42.478512,-71.3804252
+1142,Massachusetts,2018-19,Nashoba Learning Group,Private,Bedford,Middlesex,,,42.5152312,-71.249991
+1143,Massachusetts,2018-19,Nathan Hale,Public,Roxbury,Suffolk,,,42.3256728,-71.0912235
+1144,Massachusetts,2018-19,Nathaniel Bowditch,Public,Salem,Essex,,,42.5070854,-70.9092083
+1145,Massachusetts,2018-19,Nathaniel Morton,Public,Plymouth,Plymouth,,,41.9540439,-70.6598788
+1146,Massachusetts,2018-19,Nazarene Christian Academy,Private,New Bedford,Bristol,,,41.6502828,-70.9643044
+1147,Massachusetts,2018-19,Ne Pediatric,Private,North Billerica,Middlesex,,,42.5932364,-71.294149
+1148,Massachusetts,2018-19,Neighborhood,Private,Jamaica Plain,Suffolk,,,42.3109396,-71.1008177
+1149,Massachusetts,2018-19,Neil A Pepin,Public,Easthampton,Hampshire,,,42.2684993,-72.6733776
+1150,Massachusetts,2018-19,Ner Tamid Community Day,Private,Sharon,Norfolk,,,42.122499,-71.1783362
+1151,Massachusetts,2018-19,New Beginnings Academy,Private,Hyde Park,Suffolk,,,42.2572956,-71.1216657
+1152,Massachusetts,2018-19,New Braintree Grade,Public,New Braintree,Worcester,,,42.3173136,-72.1248003
+1153,Massachusetts,2018-19,New Covenant,Private,Arlington,Middlesex,,,42.426377,-71.181886
+1154,Massachusetts,2018-19,New England Baptist Academy,Private,West Bridgewater,Plymouth,,,42.0339625,-71.0094237
+1155,Massachusetts,2018-19,New England Ctr For Children,Private,Southboro,Worcester,,,42.296169,-71.5000511
+1156,Massachusetts,2018-19,New England Hebrew Academy,Private,Brookline,Norfolk,,,42.3485914,-71.1110115
+1157,Massachusetts,2018-19,New Hingham Reg Elementary,Public,Chesterfield,Hampshire,,,42.4048479,-72.8498704
+1158,Massachusetts,2018-19,New Marlboro Central,Public,Mill River,Berkshire,,,42.120226,-73.268056
+1159,Massachusetts,2018-19,New Testament Christian,Private,Plymouth,Plymouth,,,41.813196,-70.55959
+1160,Massachusetts,2018-19,Newburyport Montessori,Private,Newburyport,Essex,,,42.8106759,-70.8708903
+1161,Massachusetts,2018-19,Newton,Public,Greenfield,Franklin,,,42.5865192,-72.6150109
+1162,Massachusetts,2018-19,Noble Academy,Private,Quincy,Norfolk,,,42.2433265,-70.9792852
+1163,Massachusetts,2018-19,North Shore Christian,Private,Lynn,Essex,,,42.4882182,-70.9536583
+1164,Massachusetts,2018-19,North Shore Christian School - Beacon,Private,Beverly,Essex,,,42.5773056,-70.8959683
+1165,Massachusetts,2018-19,North Shore Ed Consortium,Private,Beverly,Essex,,,42.5693043,-70.8791434
+1166,Massachusetts,2018-19,Northfield Elementary,Public,Northfield,Franklin,,,42.6835215,-72.4857441
+1167,Massachusetts,2018-19,Norwood Montessori,Private,Norwood,Norfolk,,,42.1789808,-71.2217456
+1168,Massachusetts,2018-19,Oak Meadow Montessori,Private,Littleton,Middlesex,,,42.5296955,-71.4447747
+1169,Massachusetts,2018-19,Oaklandvale Elementary,Public,Saugus,Essex,,,42.4689538,-71.0304646
+1170,Massachusetts,2018-19,Odyssey Day,Private,Wakefield,Middlesex,,,42.514448,-71.042129
+1171,Massachusetts,2018-19,Old Colony Montessori,Private,Hingham,Plymouth,,,42.1791795,-70.901723
+1172,Massachusetts,2018-19,Oliver H Perry,Public,South Boston,Suffolk,,,42.3319479,-71.0302763
+1173,Massachusetts,2018-19,Our Lady Of Lourdes,Private,Taunton,Bristol,,,41.8885583,-71.0944514
+1174,Massachusetts,2018-19,Our Lady Of The Angels,Private,Worcester,Worcester,,,42.2432419,-71.8412911
+1175,Massachusetts,2018-19,Our Lady Of The Valley,Private,Uxbridge,Worcester,,,42.0773035,-71.624732
+1176,Massachusetts,2018-19,Our Lady's Academy,Private,Waltham,Middlesex,,,42.4092063,-71.2296348
+1177,Massachusetts,2018-19,Paige Academy,Private,Roxbury,Suffolk,,,42.3287073,-71.0930955
+1178,Massachusetts,2018-19,Park Street,Private,Boston,Suffolk,,,42.3564719,-71.0718037
+1179,Massachusetts,2018-19,Parkside Christian Academy/Cross Factor Academy,Private,Dorchester,Suffolk,,,42.2883451,-71.070778
+1180,Massachusetts,2018-19,Paul Doyon Elementary,Public,Ipswich,Essex,,,42.685677,-70.881997
+1181,Massachusetts,2018-19,Paul Revere,Public,Revere,Suffolk,,,42.4182479,-70.995449
+1182,Massachusetts,2018-19,Pearl Rhodes Elementary,Public,Leyden,Franklin,,,42.691411,-72.6277172
+1183,Massachusetts,2018-19,Pelham Elementary,Public,Pelham,Hampshire,,,42.3780771,-72.4684379
+1184,Massachusetts,2018-19,Penn Brook,Public,Georgetown,Essex,,,42.7115548,-70.9857766
+1185,Massachusetts,2018-19,Perkins Elementary,Public,South Boston,Suffolk,,,42.3312963,-71.0505661
+1186,Massachusetts,2018-19,Perkins School For The Blind,Private,Watertown,Middlesex,,,42.360959,-71.175302
+1187,Massachusetts,2018-19,Petersham Center,Public,Petersham,Worcester,,,42.4846109,-72.1914736
+1188,Massachusetts,2018-19,Petersham Montessori,Private,Petersham,Worcester,,,42.4829759,-72.1892319
+1189,Massachusetts,2018-19,Phillipston Memorial,Public,Phillipston,Worcester,,,42.5487125,-72.1337464
+1190,Massachusetts,2018-19,Phineas Bates,Public,Roslindale,Suffolk,,,42.2777355,-71.1353939
+1191,Massachusetts,2018-19,Phoenix,Private,Salem,Essex,,,42.516791,-70.896305
+1192,Massachusetts,2018-19,Pincushion Hill Montessori,Private,Ashland,Middlesex,,,42.269726,-71.452415
+1193,Massachusetts,2018-19,Pine Cobble,Private,Williamstown,Berkshire,,,42.6945713,-73.2068468
+1194,Massachusetts,2018-19,Pinecroft,Private,Rehoboth,Bristol,,,41.9030909,-71.2159315
+1195,Massachusetts,2018-19,Pioneer Valley Chinese Charter Sch,Public,Hadley,Hampshire,,,42.3528932,-72.5581574
+1196,Massachusetts,2018-19,Pioneer Valley Christian,Private,Springfield,Hampden,,,42.103215,-72.516323
+1197,Massachusetts,2018-19,Pioneer Valley Montessori,Private,Springfield,Hampden,,,42.105592,-72.4975185
+1198,Massachusetts,2018-19,Pope John Paul Ii (Mattapan Campus],Private,Mattapan,Suffolk,,,42.2707844,-71.0921408
+1199,Massachusetts,2018-19,Professional Ctr For Child Development,Private,Andover,Essex,,,42.6300368,-71.1805964
+1200,Massachusetts,2018-19,Prospect Hill Academy Charter,Public,Somerville,Middlesex,,,42.3674732,-71.1008925
+1201,Massachusetts,2018-19,Provincetown Schools,Public,Provincetown,Barnstable,,,42.051388,-70.1896646
+1202,Massachusetts,2018-19,Ralph Talbot,Public,South Weymouth,Norfolk,,,42.1762886,-70.9352973
+1203,Massachusetts,2018-19,Rashi,Private,Dedham,Norfolk,,,42.267528,-71.197253
+1204,Massachusetts,2018-19,Rcs Learning Center,Private,Natick,Middlesex,,,42.295398,-71.387814
+1205,Massachusetts,2018-19,Reading Montessori,Private,Reading,Middlesex,,,42.528049,-71.12665
+1206,Massachusetts,2018-19,Reads Academy,Private,Middleboro,Plymouth,,,41.8769919,-70.8939947
+1207,Massachusetts,2018-19,Redemption Christian Academy,Private,Northfield,Franklin,,,42.6500974,-72.4560879
+1208,Massachusetts,2018-19,Renaissance Community School For The Arts,Public,New Bedford,Bristol,,,41.626103,-70.9222
+1209,Massachusetts,2018-19,Rh Conwell,Public,Worthington,Hampshire,,,42.399962,-72.9378998
+1210,Massachusetts,2018-19,Richmond Consolidated,Public,Richmond,Berkshire,,,42.3815892,-73.3673212
+1211,Massachusetts,2018-19,Riverbend,Private,Natick,Middlesex,,,42.2746157,-71.3148547
+1212,Massachusetts,2018-19,Robert Capeless,Public,Pittsfield,Berkshire,,,42.4805854,-73.26112
+1213,Massachusetts,2018-19,Robinson Park,Public,Agawam,Hampden,,,42.0899303,-72.6418529
+1214,Massachusetts,2018-19,Rockland Montessori Academy,Private,Malden,Middlesex,,,42.4286092,-71.0786599
+1215,Massachusetts,2018-19,Roger Clap Innovation,Public,Dorchester,Suffolk,,,42.3231645,-71.0581803
+1216,Massachusetts,2018-19,Roger Wellington,Public,Belmont,Middlesex,,,42.3922261,-71.1720168
+1217,Massachusetts,2018-19,Ross Elementary,Public,Braintree,Norfolk,,,42.2287514,-70.9868301
+1218,Massachusetts,2018-19,Rowe Elementary,Public,Rowe,Franklin,,,42.7031375,-72.8883551
+1219,Massachusetts,2018-19,Royalston Community,Public,Royalston,Worcester,,,42.6776794,-72.1438801
+1220,Massachusetts,2018-19,Russell Elementary,Public,Russell,Hampden,,,42.1919397,-72.8533074
+1221,Massachusetts,2018-19,Sacred Heart,Private,Roslindale,Suffolk,,,42.2818651,-71.1230003
+1222,Massachusetts,2018-19,Sacred Heart Elementary,Private,Weymouth,Norfolk,,,42.2200571,-70.9667492
+1223,Massachusetts,2018-19,Sage,Private,Foxboro,Norfolk,,,42.08142,-71.2301582
+1224,Massachusetts,2018-19,Samuel Fuller,Private,Middleboro,Plymouth,,,41.9086622,-70.8838959
+1225,Massachusetts,2018-19,Sanderson Academy,Public,Ashfield,Franklin,,,42.508023,-72.81124
+1226,Massachusetts,2018-19,Schwartz Center,Private,North Dartmouth,Bristol,,,41.6338702,-70.9883201
+1227,Massachusetts,2018-19,Seven Hills Charter,Public,Worcester,Worcester,,,42.26555,-71.789637
+1228,Massachusetts,2018-19,Seven Hills,Private,Groton,Middlesex,,,42.6120408,-71.5789249
+1229,Massachusetts,2018-19,Sewell-Anderson,Public,Lynn,Essex,,,42.473339,-70.967936
+1230,Massachusetts,2018-19,Shaloh House,Private,Brighton,Suffolk,,,42.347872,-71.154366
+1231,Massachusetts,2018-19,Shining Stars Learning Center,Private,Saugus,Essex,,,42.4600755,-71.0088478
+1232,Massachusetts,2018-19,Shore Country Day,Private,Beverly,Essex,,,42.568875,-70.88745
+1233,Massachusetts,2018-19,Shore Educational Collaborative,Private,Chelsea,Suffolk,,,42.4043431,-71.0371983
+1234,Massachusetts,2018-19,Shrewsbury Children's Ctr Kindergarten,Private,Shrewsbury,Worcester,,,42.284073,-71.753152
+1235,Massachusetts,2018-19,Shrewsbury Montessori,Private,Shrewsbury,Worcester,,,42.28173,-71.728711
+1236,Massachusetts,2018-19,Shrewsbury Montessori Worcester Campus,Private,Worcester,Worcester,,,42.2657152,-71.75783
+1237,Massachusetts,2018-19,Shutesbury Elementary,Public,Shutesbury,Franklin,,,42.44883,-72.428421
+1238,Massachusetts,2018-19,Smith College Campus,Private,Northampton,Hampshire,,,42.3210906,-72.6356784
+1239,Massachusetts,2018-19,South Egremont,Public,South Egremont,Berkshire,,,42.1605679,-73.4154169
+1240,Massachusetts,2018-19,South Shore Christian Academy,Private,Weymouth,Norfolk,,,42.2147825,-70.9652243
+1241,Massachusetts,2018-19,South Shore Conservatory,Private,Hingham,Plymouth,,,42.2343654,-70.9126887
+1242,Massachusetts,2018-19,Southbridge Christian Academy,Private,Southbridge,Worcester,,,42.0909295,-72.0015081
+1243,Massachusetts,2018-19,Sparhawk,Private,Amesbury,Essex,,,42.8514137,-70.9302036
+1244,Massachusetts,2018-19,Springdale Education Center,Private,Holyoke,Hampden,,,42.204627,-72.6116645
+1245,Massachusetts,2018-19,Springfield Prepatory Charter,Public,Springfield,Hampden,,,42.0669398,-72.5576519
+1246,Massachusetts,2018-19,Springfield Public Day Elementary,Public,Springfield,Hampden,,,42.1205898,-72.5892818
+1247,Massachusetts,2018-19,St Agatha Elementary,Private,Milton,Norfolk,,,42.260523,-71.0448409
+1248,Massachusetts,2018-19,St Agnes Academy,Private,Dalton,Berkshire,,,42.4740698,-73.1686573
+1249,Massachusetts,2018-19,St Agnes Elementary,Private,Arlington,Middlesex,,,42.4157347,-71.1490005
+1250,Massachusetts,2018-19,St Aloysius Catholic,Private,Gilbertville,Worcester,,,42.3120308,-72.2027096
+1251,Massachusetts,2018-19,St Anna,Private,Leominster,Worcester,,,42.5179645,-71.7521553
+1252,Massachusetts,2018-19,St Anns,Private,Methuen,Essex,,,42.7034494,-71.1972261
+1253,Massachusetts,2018-19,St Anthony Elementary,Private,Everett,Middlesex,,,42.405532,-71.058913
+1254,Massachusetts,2018-19,St Benedict Elementary,Private,Natick,Middlesex,,,42.2727638,-71.3156454
+1255,Massachusetts,2018-19,St Bernard Elementary,Private,Fitchburg,Worcester,,,42.5736017,-71.7809777
+1256,Massachusetts,2018-19,St Brendan,Private,Dorchester,Suffolk,,,42.2817912,-71.0511169
+1257,Massachusetts,2018-19,St Bridget Elementary,Private,Framingham,Middlesex,,,42.2986025,-71.4319711
+1258,Massachusetts,2018-19,St Bridget,Private,Abington,Plymouth,,,42.1167214,-70.9370485
+1259,Massachusetts,2018-19,St Catherine Of Genoa,Private,Somerville,Middlesex,,,42.3872931,-71.1079702
+1260,Massachusetts,2018-19,St Catherine Of Siena,Private,Norwood,Norfolk,,,42.195967,-71.201312
+1261,Massachusetts,2018-19,St Charles Elementary,Private,Woburn,Middlesex,,,42.47693,-71.1510621
+1262,Massachusetts,2018-19,St Francis Of Assisi,Private,Braintree,Norfolk,,,42.2038421,-71.004261
+1263,Massachusetts,2018-19,St Francis Xavier,Private,South Weymouth,Norfolk,,,42.1779118,-70.9473372
+1264,Massachusetts,2018-19,St Francis Xavier,Private,Acushnet,Bristol,,,41.6880684,-70.9066896
+1265,Massachusetts,2018-19,St Herman Of Alaska,Private,Allston,Suffolk,,,42.354123,-71.132079
+1266,Massachusetts,2018-19,St James-St John,Private,New Bedford,Bristol,,,41.6285526,-70.9301963
+1267,Massachusetts,2018-19,St Jeanne D'Arc,Private,Lowell,Middlesex,,,42.6567444,-71.3304797
+1268,Massachusetts,2018-19,St Jerome Elementary,Private,North Weymouth,Norfolk,,,42.244599,-70.9418626
+1269,Massachusetts,2018-19,St Joan Of Arc,Private,Chicopee,Hampden,,,42.1708008,-72.5975116
+1270,Massachusetts,2018-19,St John Elementary,Private,Boston,Suffolk,,,42.3566709,-71.0611259
+1271,Massachusetts,2018-19,St John The Baptist,Private,Ludlow,Hampden,,,42.1596978,-72.4760862
+1272,Massachusetts,2018-19,St John The Evangelist,Private,Attleboro,Bristol,,,41.947887,-71.2873784
+1273,Massachusetts,2018-19,St John The Evangelist,Private,Canton,Norfolk,,,42.1563809,-71.1464578
+1274,Massachusetts,2018-19,St John The Evangelist,Private,Wellesley,Norfolk,,,42.324133,-71.26274
+1275,Massachusetts,2018-19,St Joseph,Private,Fairhaven,Bristol,,,41.6409783,-70.8982387
+1276,Massachusetts,2018-19,St Joseph,Private,Webster,Worcester,,,42.0506689,-71.8740949
+1277,Massachusetts,2018-19,St Joseph Elementary,Private,Haverhill,Essex,,,42.7789791,-71.0917243
+1278,Massachusetts,2018-19,St Joseph,Private,Holbrook,Norfolk,,,42.1505837,-71.0062262
+1279,Massachusetts,2018-19,St Joseph,Private,Wakefield,Middlesex,,,42.5008524,-71.0783747
+1280,Massachusetts,2018-19,St Jude Elementary,Private,Waltham,Middlesex,,,42.3765031,-71.214511
+1281,Massachusetts,2018-19,St Leo,Private,Leominster,Worcester,,,42.5298529,-71.7575284
+1282,Massachusetts,2018-19,St Louis Elementary,Private,Lowell,Middlesex,,,42.6563771,-71.3089801
+1283,Massachusetts,2018-19,St Margaret Reg,Private,Buzzards Bay,Barnstable,,,41.7464523,-70.6115855
+1284,Massachusetts,2018-19,St Mary Elementary,Private,Melrose,Middlesex,,,42.4532619,-71.068203
+1285,Massachusetts,2018-19,St Mary Of The Annunciation,Private,Danvers,Essex,,,42.5682521,-70.9482966
+1286,Massachusetts,2018-19,St Mary Of The Hills,Private,Milton,Norfolk,,,42.2618258,-71.0872296
+1287,Massachusetts,2018-19,St Mary,Private,Lee,Berkshire,,,42.3074168,-73.243212
+1288,Massachusetts,2018-19,St Mary,Private,Shrewsbury,Worcester,,,42.296082,-71.70997
+1289,Massachusetts,2018-19,St Mary-Sacred Heart,Private,North Attleboro,Bristol,,,41.9825145,-71.3352105
+1290,Massachusetts,2018-19,St Marys,Private,Longmeadow,Hampden,,,42.0567607,-72.5788003
+1291,Massachusetts,2018-19,St Marys,Private,Mansfield,Bristol,,,42.035259,-71.202426
+1292,Massachusetts,2018-19,St Marys Elementary,Private,Worcester,Worcester,,,42.2511165,-71.7972355
+1293,Massachusetts,2018-19,St Marys,Private,Taunton,Bristol,,,41.9066205,-71.093796
+1294,Massachusetts,2018-19,St Marys,Private,Westfield,Hampden,,,42.124594,-72.7462922
+1295,Massachusetts,2018-19,St Marys,Private,Winchester,Middlesex,,,42.4551557,-71.1321051
+1296,Massachusetts,2018-19,St Michael,Private,Fall River,Bristol,,,41.7233644,-71.1465691
+1297,Massachusetts,2018-19,St Monica Elementary,Private,Methuen,Essex,,,42.7266816,-71.183575
+1298,Massachusetts,2018-19,St Patrick,Private,Lowell,Middlesex,,,42.6452452,-71.3177625
+1299,Massachusetts,2018-19,St Patrick,Private,Roxbury,Suffolk,,,42.3257721,-71.0749558
+1300,Massachusetts,2018-19,St Patrick,Private,Stoneham,Middlesex,,,42.4828062,-71.0986894
+1301,Massachusetts,2018-19,St Paul,Private,Hingham,Plymouth,,,42.2430965,-70.8904963
+1302,Massachusetts,2018-19,St Peter Academy,Private,South Boston,Suffolk,,,42.3365704,-71.0499811
+1303,Massachusetts,2018-19,St Peter Central Catholic,Private,Worcester,Worcester,,,42.2533432,-71.8152251
+1304,Massachusetts,2018-19,St Peters,Private,Cambridge,Middlesex,,,42.381085,-71.1295918
+1305,Massachusetts,2018-19,St Pius V,Private,Lynn,Essex,,,42.4798775,-70.9493932
+1306,Massachusetts,2018-19,St Pius X,Private,South Yarmouth,Barnstable,,,41.672643,-70.186093
+1307,Massachusetts,2018-19,St Rose Elementary,Private,Chelsea,Suffolk,,,42.3944386,-71.0319235
+1308,Massachusetts,2018-19,St Stanislaus,Private,Chicopee,Hampden,,,42.147649,-72.59654
+1309,Massachusetts,2018-19,St Stanislaus,Private,Fall River,Bristol,,,41.6911136,-71.168574
+1310,Massachusetts,2018-19,St Stanislaus Kostka,Private,Adams,Berkshire,,,42.6244729,-73.1136224
+1311,Massachusetts,2018-19,St Stephen Elementary,Private,Worcester,Worcester,,,42.2552695,-71.7841269
+1312,Massachusetts,2018-19,St Stephens Armenian,Private,Watertown,Middlesex,,,42.3681304,-71.1582116
+1313,Massachusetts,2018-19,St Thomas The Apostle,Private,West Springfield,Hampden,,,42.1058433,-72.6402439
+1314,Massachusetts,2018-19,Stone Day,Public,Fall River,Bristol,,,41.7085299,-71.153159
+1315,Massachusetts,2018-19,Striar Hebrew Academy,Private,Sharon,Norfolk,,,42.115538,-71.173808
+1316,Massachusetts,2018-19,Su Escuela Language Academy,Private,Hingham,Plymouth,,,42.2478012,-70.9211868
+1317,Massachusetts,2018-19,Sudbury Valley,Private,Framingham,Middlesex,,,42.3243129,-71.4644434
+1318,Massachusetts,2018-19,Summit Montessori,Private,Framingham,Middlesex,,,42.3046489,-71.4486809
+1319,Massachusetts,2018-19,Sunrise Montessori,Private,Franklin,Norfolk,,,42.082835,-71.410455
+1320,Massachusetts,2018-19,Swift River,Public,New Salem,Franklin,,,42.5216619,-72.3571392
+1321,Massachusetts,2018-19,Tatham Elementary,Public,West Springfield,Hampden,,,42.103752,-72.6619759
+1322,Massachusetts,2018-19,Teach,Public,Haverhill,Essex,,,42.7884566,-71.0866395
+1323,Massachusetts,2018-19,Tenacre Country Day,Private,Wellesley,Norfolk,,,42.2877506,-71.2864867
+1324,Massachusetts,2018-19,Thacher Montessori,Private,Milton,Norfolk,,,42.2224141,-71.1192746
+1325,Massachusetts,2018-19,The Campus School At Boston College,Private,Chestnut Hill,Middlesex,,,42.3355488,-71.1684945
+1326,Massachusetts,2018-19,The Center,Private,Holyoke,Hampden,,,42.1971386,-72.6317867
+1327,Massachusetts,2018-19,The Fitzgerald Institute,Private,Northborough,Worcester,,,42.3273021,-71.6239259
+1328,Massachusetts,2018-19,The Goddard,Private,Auburn,Worcester,,,42.187905,-71.832724
+1329,Massachusetts,2018-19,The Islamic Academy,Private,Methuen,Essex,,,42.71999,-71.192521
+1330,Massachusetts,2018-19,The Laurel,Private,Brewster,Barnstable,,,41.7347861,-70.0505387
+1331,Massachusetts,2018-19,The Partnership School Of Cape Cod,Private,Orleans,Barnstable,,,41.7764283,-70.0042846
+1332,Massachusetts,2018-19,The Saints Academy,Private,Beverly,Essex,,,42.5679514,-70.891981
+1333,Massachusetts,2018-19,Thomas V Nash,Public,Weymouth,Norfolk,,,42.1861993,-70.9577449
+1334,Massachusetts,2018-19,Thomas W Hamilton,Public,South Weymouth,Norfolk,,,42.1656347,-70.9355844
+1335,Massachusetts,2018-19,Thomson,Public,North Andover,Essex,,,42.6965875,-71.1350493
+1336,Massachusetts,2018-19,Tisbury Elementary,Public,Vineyard Haven,Dukes,,,41.452647,-70.609781
+1337,Massachusetts,2018-19,Tobin,Private,Natick,Middlesex,,,42.272788,-71.3458998
+1338,Massachusetts,2018-19,Torah Academy,Private,Brookline,Norfolk,,,42.3389902,-71.1391876
+1339,Massachusetts,2018-19,Touchstone Community,Private,Grafton,Worcester,,,42.182855,-71.644391
+1340,Massachusetts,2018-19,Tower,Private,Marblehead,Essex,,,42.4971317,-70.8738596
+1341,Massachusetts,2018-19,Trinity Catholic Academy,Private,Southbridge,Worcester,,,42.0809901,-72.0372782
+1342,Massachusetts,2018-19,Trinity Christian Academy,Private,Barnstable,Barnstable,,,41.6840777,-70.2808569
+1343,Massachusetts,2018-19,Trinity Nursery School & Kind,Private,Springfield,Hampden,,,42.0846337,-72.5623614
+1344,Massachusetts,2018-19,Truro Central,Public,Truro,Barnstable,,,42.018155,-70.0709951
+1345,Massachusetts,2018-19,Venerini Academy,Private,Worcester,Worcester,,,42.2698475,-71.7915784
+1346,Massachusetts,2018-19,Veritas Academy,Private,West Barnstable,Barnstable,,,41.6770017,-70.3697722
+1347,Massachusetts,2018-19,Veritas Christian Academy,Private,Wayland,Middlesex,,,42.3244882,-71.3498093
+1348,Massachusetts,2018-19,Vernon Hill,Public,Worcester,Worcester,,,42.2445457,-71.794868
+1349,Massachusetts,2018-19,Veterans Memorial,Public,Gloucester,Essex,,,42.619983,-70.652142
+1350,Massachusetts,2018-19,Village,Private,Royalston,Worcester,,,42.6439884,-72.154157
+1351,Massachusetts,2018-19,Vineyard Montessori,Private,Vineyard Haven,Dukes,,,41.4621,-70.603199
+1352,Massachusetts,2018-19,Wachusett Hills Christian,Private,Westminster,Worcester,,,42.5703152,-71.9438764
+1353,Massachusetts,2018-19,Waldorf School At Moraine Farm,Private,Beverly,Essex,,,42.582206,-70.897769
+1354,Massachusetts,2018-19,Waldorf School Of Cape Cod,Private,Cotuit,Barnstable,,,41.6236918,-70.4409776
+1355,Massachusetts,2018-19,Wales Elementary,Public,Wales,Hampden,,,42.0712985,-72.2223712
+1356,Massachusetts,2018-19,Walker Home And,Private,Needham,Norfolk,,,42.2592986,-71.2700435
+1357,Massachusetts,2018-19,Jackson Walnut Park Montessori,Private,Newton,Middlesex,,,42.3565433,-71.1941623
+1358,Massachusetts,2018-19,Warren Elementary,Public,West Warren,Worcester,,,42.19097,-72.2233142
+1359,Massachusetts,2018-19,Warren Sda,Private,West Brookfield,Worcester,,,42.1805359,-72.1626425
+1360,Massachusetts,2018-19,Warwick Community,Public,Warwick,Franklin,,,42.6869975,-72.3379379
+1361,Massachusetts,2018-19,Wawecus Road,Public,Worcester,Worcester,,,42.2919222,-71.7895274
+1362,Massachusetts,2018-19,Wellfleet Elementary,Public,Wellfleet,Barnstable,,,41.9415896,-70.0230145
+1363,Massachusetts,2018-19,Wessagusset Elementary,Public,North Weymouth,Norfolk,,,42.2468449,-70.9448654
+1364,Massachusetts,2018-19,West Barnstable Elementary,Public,West Barnstable,Barnstable,,,41.6989246,-70.326767
+1365,Massachusetts,2018-19,Westhampton Elementary,Public,Westhampton,Hampshire,,,42.3027795,-72.7717745
+1366,Massachusetts,2018-19,Whately Elementary,Public,Whately,Franklin,,,42.4506534,-72.6097206
+1367,Massachusetts,2018-19,Wild Rose Montessori,Private,Cambridge,Middlesex,,,42.394733,-71.1275447
+1368,Massachusetts,2018-19,William Mckinley,Public,Boston,Suffolk,,,42.3442517,-71.0734898
+1369,Massachusetts,2018-19,William Seach,Public,Weymouth,Norfolk,,,42.1967352,-70.9440914
+1370,Massachusetts,2018-19,Willie Ross,Private,Longmeadow,Hampden,,,42.0309852,-72.5782385
+1371,Massachusetts,2018-19,Winship,Public,Brighton,Suffolk,,,42.3476163,-71.1554811
+1372,Massachusetts,2018-19,Woodrow Wilson,Public,Framingham,Middlesex,,,42.2710858,-71.3979395
+1373,Massachusetts,2018-19,Woodside Montessori,Private,Millis,Norfolk,,,42.143683,-71.3663107
+1374,Massachusetts,2018-19,Yeshiva Academy,Private,Longmeadow,Hampden,,,42.0600517,-72.5403956

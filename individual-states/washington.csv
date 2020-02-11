@@ -1,0 +1,1568 @@
+index,name,state,city,county,enrollment,mmr,overall,xmed,xrel,xper,lat,lng
+1,Academy Nw - Marysville Campus,Washington,Marysville,Snohomish,1,100,100,0,0,0,47.7825781,-122.2212001
+2,Alfajer,Washington,Seattle,King,1,100,100,0,0,0,47.6385485,-122.3605128
+3,Almira Elementary,Washington,Almira,Lincoln,3,100,100,0,0,0,47.7078084,-118.9407795
+4,America's Child Montessori,Washington,Bellevue,King,13,100,100,0,0,0,47.6298661,-122.1486096
+5,Apple Valley Elementary,Washington,Yakima,Yakima,69,100,100,0,0,0,46.5978171,-120.6241421
+6,Applied Scholastics Academy Of Seattle,Washington,Seattle,King,2,100,100,0,0,0,47.6772225,-122.3223546
+7,Beach Elem,Washington,Lummi Island,Whatcom,10,100,90,0,0,0,48.7250894,-122.6871187
+8,Bel-Red Bilingual Academy,Washington,Bellevue,King,39,100,100,0,0,0,47.6272617,-122.1379997
+9,Bellevue Montessori,Washington,Bellevue,King,26,100,100,0,0,0,47.6321914,-122.1914335
+10,Bertschi,Washington,Seattle,King,36,100,97.22,0,0,2.78,47.639247,-122.3204491
+11,Bethany Lutheran Elementary,Washington,Port Orchard,Kitsap,16,100,100,0,0,0,47.5260852,-122.6482434
+12,Blossoming Hill Montessori,Washington,Maple Valley,King,7,100,100,0,0,0,47.407957,-122.021862
+13,Boistfort Elem,Washington,Curtis,Lewis,9,100,100,0,0,0,46.5500592,-123.1328173
+14,Buena Vista Sda,Washington,Auburn,King,19,100,100,0,0,0,47.2807066,-122.1571647
+15,Camas Elementary,Washington,Wapato,Yakima,81,100,95.06,0,0,0,46.4386233,-120.4189428
+16,Capital Montessori,Washington,Olympia,Thurston,10,100,100,0,0,0,47.0425517,-122.8432017
+17,Captain Gray Elementary,Washington,Pasco,Franklin,69,100,97.1,0,0,0,46.2404616,-119.1039466
+18,Carrolls Elementary,Washington,Carrolls,Cowlitz,16,100,93.75,0,0,0,46.070278,-122.865326
+19,Cascade Christian Schools-Fredrickson Elementary,Washington,Tacoma,Pierce,48,100,100,0,0,0,47.0976309,-122.3831678
+20,Cascadia Montessori,Washington,Redmond,King,26,100,100,0,0,0,47.6484745,-122.1255774
+21,Cataldo,Washington,Spokane,Spokane,28,100,92.86,3.57,3.57,0,47.6387091,-117.4186366
+22,Cathcart Elementary,Washington,Snohomish,Snohomish,56,100,100,0,0,0,47.8272793,-122.1221178
+23,Cedar Crest Bellewood,Washington,Bellevue,King,52,100,100,0,0,0,47.6298727,-122.1922937
+24,Centerville Elementary,Washington,Centerville,Klickitat,6,100,83.33,0,0,0,45.7528471,-120.8995126
+25,Christ The King,Washington,Richland,Benton,43,100,100,0,0,0,46.2825533,-119.2855221
+26,Christ The King,Washington,Seattle,King,20,100,100,0,0,0,47.7138423,-122.3535149
+27,Clallam Bay High And Elementary,Washington,Clallam Bay,Clallam,11,100,100,0,0,0,48.2521529,-124.2586534
+28,Colton,Washington,Colton,Whitman,13,100,100,0,0,0,46.5664405,-117.1311101
+29,Columbia High And Elementary,Washington,Hunters,Stevens,8,100,100,0,0,0,48.1194695,-118.2025848
+30,Concord Lutheran,Washington,Tacoma,Pierce,12,100,100,0,0,0,47.2059302,-122.4280277
+31,Concordia Lutheran,Washington,Seattle,King,4,100,100,0,0,0,47.6803887,-122.2892184
+32,Cottonwood Elementary,Washington,Bremerton,Kitsap,48,100,93.75,0,0,0,47.6424949,-122.646231
+33,Creston Elementary,Washington,Creston,Lincoln,1,100,100,0,0,0,47.7549819,-118.5200414
+34,Cypress Adventist,Washington,Lynnwood,Snohomish,4,100,75,0,0,0,47.8028725,-122.2581612
+35,Damman Elementary,Washington,Ellensburg,Kittitas,7,100,100,0,0,0,46.9699644,-120.5707975
+36,Discovery Montessori,Washington,Port Orchard,Kitsap,11,100,100,0,0,0,47.5334621,-122.6367225
+37,Dower Elementary,Washington,Lakewood,Pierce,53,100,100,0,0,0,47.1857499,-122.5226821
+38,Eagle Rock Multiage,Washington,Duvall,King,10,100,90,10,0,0,47.7348642,-121.9491595
+39,East Valley Elementary,Washington,Yakima,Yakima,81,100,100,0,0,0,46.5752673,-120.4025966
+40,Emerson Elementary,Washington,Pasco,Franklin,101,100,98.02,0,0,0,46.2376156,-119.1108143
+41,Epiphany,Washington,Seattle,King,34,100,100,0,0,0,47.6181091,-122.2867518
+42,Fairmount Elementary,Washington,Everett,Snohomish,7,100,100,0,0,0,47.8944611,-122.2693616
+43,Fairview Christian,Washington,Seattle,King,11,100,90.91,0,0,9.09,47.6857193,-122.3184389
+44,Garfield Elementary,Washington,Garfield,Whitman,6,100,100,0,0,0,47.0135981,-117.1407366
+45,George Elementary,Washington,Quincy,Grant,23,100,95.65,0,0,0,47.0762953,-119.8565326
+46,Gig Harbor Academy,Washington,Gig Harbor,Pierce,14,100,92.86,0,0,7.14,47.285603,-122.630004
+47,Glenwood Elementary,Washington,Glenwood,Klickitat,2,100,100,0,0,0,46.0209185,-121.2906856
+48,Grace Christian Academy,Washington,Republic,Ferry,1,100,100,0,0,0,48.6481069,-118.7384298
+49,Grace Lutheran,Washington,Yakima,Yakima,3,100,100,0,0,0,46.5828095,-120.5155841
+50,Grandview Adventist Junior Academy,Washington,Grandview,Yakima,4,100,100,0,0,0,46.25626,-119.8945153
+51,Grant Elementary,Washington,East Wenatchee,Douglas,85,100,98.82,0,0,0,47.4034762,-120.2640772
+52,Grays Harbor Adventist Christian,Washington,Montesano,Grays Harbor,1,100,100,0,0,0,46.9754103,-123.6588615
+53,Guardian Angel St. Boniface,Washington,Colton,Whitman,4,100,100,0,0,0,46.5709731,-117.129024
+54,Harrah Community Christian,Washington,Harrah,Yakima,4,100,100,0,0,0,46.4036356,-120.5474424
+55,Highland Terrace Elementary,Washington,Shoreline,King,71,100,100,0,0,0,47.745914,-122.359616
+56,Holy Family Bi-Lingual,Washington,Seattle,King,18,100,100,0,0,0,47.5169883,-122.3595786
+57,Holy Family,Washington,Clarkston,Asotin,12,100,100,0,0,0,46.410913,-117.0510449
+58,Holy Rosary Edmonds,Washington,Edmonds,Snohomish,28,100,92.86,0,0,7.14,47.8152625,-122.3711831
+59,Holy Trinity Lutheran,Washington,Des Moines,King,18,100,100,0,0,0,47.368188,-122.307467
+60,Hoover Elementary,Washington,Yakima,Yakima,120,100,96.67,0,0,0,46.5809477,-120.5126361
+61,Jewish Day,Washington,Bellevue,King,11,100,100,0,0,0,47.612981,-122.1283035
+62,Journey,Washington,Lynnwood,Snohomish,13,100,100,0,0,0,47.8026048,-122.2591263
+63,Kahlotus Elementary And High,Washington,Kahlotus,Franklin,2,100,100,0,0,0,46.6413367,-118.5565041
+64,Lakewood Lutheran,Washington,Lakewood,Pierce,9,100,100,0,0,0,47.1553465,-122.5719197
+65,Leonard M Jennings Elementary,Washington,Colfax,Whitman,42,100,100,0,0,0,46.8945859,-117.3606661
+66,Les Lilas,Washington,Kirkland,King,2,100,100,0,0,0,47.6647954,-122.1661701
+67,Lewis County Adventist,Washington,Chehalis,Lewis,2,100,100,0,0,0,46.661791,-123.0142428
+68,Living Montessori Academy,Washington,Bellevue,King,19,100,100,0,0,0,47.6324014,-122.1547126
+69,Longfellow Elementary,Washington,Pasco,Franklin,57,100,98.25,0,0,0,46.2310677,-119.1016406
+70,Loyal Heights Elementary,Washington,Seattle,King,70,100,97.14,0,0,2.86,47.685192,-122.3890677
+71,Lyman Elementary,Washington,Lyman,Skagit,17,100,100,0,0,0,48.5280546,-122.0697855
+72,Lynndale Elementary,Washington,Lynnwood,Snohomish,60,100,96.67,1.67,0,1.67,47.8258039,-122.3315934
+73,Mary Purcell Elementary,Washington,Sedro-Woolley,Skagit,48,100,100,0,0,0,48.5001206,-122.2287983
+74,Matheia,Washington,Seattle,King,1,100,100,0,0,0,47.6774734,-122.3846273
+75,Maya Angelou Elementary,Washington,Pasco,Franklin,123,100,100,0,0,0,46.2816185,-119.1994448
+76,Michael Anderson Elementary,Washington,Fairchild AFB,Spokane,77,100,97.4,0,0,2.6,47.6316336,-117.6606452
+77,Montessori School Of Pullman,Washington,Pullman,Whitman,7,100,100,0,0,0,46.731053,-117.183229
+78,Newport Children's,Washington,Bellevue,King,21,100,100,0,0,0,47.5686924,-122.1666764
+79,North Country Christian,Washington,Oroville,Okanogan,1,100,100,0,0,0,48.939196,-119.095424
+80,North Seattle French,Washington,Seattle,King,13,100,84.62,0,0,0,47.6773216,-122.3528675
+81,Northlake Preschool/ Northlake Academy,Washington,Kirkland,King,26,100,100,0,0,0,47.713639,-122.1676529
+82,Northwest Christian,Washington,Puyallup,Pierce,20,100,100,0,0,0,47.1828869,-122.2580901
+83,Northwest School For Hearing Impaired,Washington,Shoreline,King,2,100,100,0,0,0,47.7408548,-122.3502443
+84,Nueva Esperanza Leadership Acamy,Washington,Prescott,Walla Walla,4,100,100,0,0,0,46.315,-118.7661111
+85,Oakbrook Elementary,Washington,Lakewood,Pierce,44,100,100,0,0,0,47.1861212,-122.5485457
+86,Olympia Christian,Washington,Olympia,Thurston,1,100,100,0,0,0,47.0561699,-122.9387828
+87,Open Window,Washington,Bellevue,King,36,100,100,0,0,0,47.5479723,-122.1143138
+88,Orondo Elementary,Washington,Orondo,Douglas,15,100,100,0,0,0,47.6409159,-120.2165114
+89,Our Lady Of Fatima,Washington,Seattle,King,18,100,100,0,0,0,47.6481819,-122.3991808
+90,Our Lady Of Lourdes,Washington,Vancouver,Clark,15,100,93.33,0,0,6.67,45.656393,-122.6768649
+91,Palisades Elementary,Washington,Palisades,Douglas,2,100,100,0,0,0,47.4164204,-119.9161497
+92,Paterson,Washington,Paterson,Benton,12,100,100,0,0,0,45.9384688,-119.6098976
+93,Perkins,Washington,Seattle,King,19,100,100,0,0,0,47.694227,-122.3180599
+94,Pioneer,Washington,Veradale,Spokane,6,100,100,0,0,0,47.6631666,-117.1954007
+95,Queets,Washington,FORKS,Clallam,2,100,100,0,0,0,47.5534382,-124.3560225
+96,Riverside Christian,Washington,Yakima,Yakima,22,100,100,0,0,0,46.5972084,-120.4582214
+97,Rosalia Elementary And Secondary,Washington,Rosalia,Whitman,10,100,90,0,0,0,47.2307431,-117.3690419
+98,Saint George's,Washington,Spokane,Spokane,14,100,100,0,0,0,47.7667931,-117.469733
+99,Salish Sea Deaf,Washington,Anacortes,Skagit,1,100,100,0,0,0,48.4656508,-122.3427455
+100,Seattle Area German American,Washington,Seattle,King,17,100,100,0,0,0,47.7090053,-122.3551002
+101,Seattle Jewish Community,Washington,Seattle,King,10,100,90,0,0,0,47.6808674,-122.3251953
+102,Sky Valley Adventist,Washington,Snohomish,Snohomish,3,100,100,0,0,0,47.849148,-121.9871821
+103,Snoqualmie Springs,Washington,Issaquah,King,35,100,100,0,0,0,47.5639547,-122.002388
+104,Soundview,Washington,Lynnwood,Snohomish,8,100,100,0,0,0,47.8221231,-122.3218315
+105,Spokane Valley Adventist,Washington,Spokane Valley,Spokane,11,100,100,0,0,0,47.641363,-117.1959347
+106,Sprague Elementary,Washington,Sprague,Lincoln,10,100,100,0,0,0,47.2963724,-117.9807196
+107,Spruce Street,Washington,Seattle,King,16,100,93.75,0,0,0,47.6168789,-122.3352999
+108,St. Anne,Washington,Seattle,King,26,100,96.15,0,0,3.85,47.6311129,-122.3582591
+109,St. Bernadette,Washington,Seattle,King,18,100,100,0,0,0,47.4888617,-122.3484808
+110,St. Cecilia Catholic,Washington,Bainbridge Island,Kitsap,9,100,100,0,0,0,47.6365058,-122.5204427
+111,St. Charles Borromeo,Washington,Tacoma,Pierce,51,100,98.04,0,0,0,47.24854,-122.532959
+112,St. Charles,Washington,Spokane,Spokane,7,100,100,0,0,0,47.6987076,-117.4505914
+113,St. Edwards,Washington,Seattle,King,14,100,100,0,0,0,47.550814,-122.2804746
+114,St. Frances Cabrini,Washington,Lakewood,Pierce,27,100,100,0,0,0,47.1597478,-122.5110911
+115,St. George,Washington,Seattle,King,21,100,100,0,0,0,47.5558991,-122.3164163
+116,St. Joseph's,Washington,Kennewick,Benton,31,100,93.55,0,0,6.45,46.2056927,-119.1307652
+117,St. Mark,Washington,Shoreline,King,14,100,100,0,0,0,47.761374,-122.313727
+118,St. Matthew,Washington,Seattle,King,17,100,100,0,0,0,47.7214821,-122.3134014
+119,St. Michael Catholic,Washington,Snohomish,Snohomish,14,100,100,0,0,0,47.9308826,-122.0859872
+120,St. Michael,Washington,Olympia,Thurston,30,100,96.67,0,0,0,47.0400091,-122.8858765
+121,St. Paul Cathedral,Washington,Yakima,Yakima,11,100,100,0,0,0,46.5959774,-120.5270793
+122,St. Paul,Washington,Seattle,King,16,100,93.75,0,0,0,47.5105328,-122.2626654
+123,St. Paul's Lutheran,Washington,Wenatchee,Chelan,9,100,100,0,0,0,47.4240179,-120.3171111
+124,St. Philomena,Washington,Des Moines,King,28,100,100,0,0,0,47.4042599,-122.3102628
+125,St. Rose Of Lima,Washington,Ephrata,Grant,11,100,100,0,0,0,47.3099652,-119.5402806
+126,St. Rose,Washington,Longview,Cowlitz,11,100,100,0,0,0,46.131833,-122.95303
+127,St. Therese,Washington,Seattle,King,16,100,100,0,0,0,47.6114162,-122.2881235
+128,St. Thomas,Washington,Medina,King,36,100,97.22,0,0,0,47.6215591,-122.2300305
+129,Steptoe Elementary,Washington,Steptoe,Whitman,5,100,100,0,0,0,47.0059831,-117.3512108
+130,Sterling Intermediate,Washington,East Wenatchee,Douglas,33,100,100,0,0,0,47.4144246,-120.2704238
+131,Stillpoint,Washington,Friday Harbor,San Juan,1,100,100,0,0,0,48.534176,-123.02621
+132,Sunrise Beach,Washington,Olympia,Thurston,6,100,83.33,0,0,16.67,47.0155921,-122.8808643
+133,Synergy Learning Academy,Washington,Issaquah,King,4,100,100,0,0,0,47.5516591,-122.0607032
+134,The Bush,Washington,Seattle,King,32,100,100,0,0,0,47.6228784,-122.2886815
+135,The Clearwater,Washington,Bothell,King,3,100,100,0,0,0,47.8198981,-122.2116608
+136,The Eastside Montessori,Washington,Bellevue,King,1,100,100,0,0,0,47.627882,-122.1954073
+137,The Harbor,Washington,Vashon,King,4,100,100,0,0,0,47.462493,-122.4588828
+138,The Little,Washington,Bellevue,King,25,100,92,0,0,0,47.6356658,-122.1844039
+139,The Sammamish Montessori,Washington,Redmond,King,35,100,100,0,0,0,47.672113,-122.101095
+140,Thompson Elementary,Washington,Tacoma,Pierce,110,100,96.36,0,0,1.82,47.1129044,-122.4266195
+141,Tilden,Washington,Seattle,King,16,100,100,0,0,0,47.5661634,-122.3871514
+142,Tlc Montessori,Washington,Sammamish,King,10,100,100,0,0,0,47.6241544,-122.0528416
+143,Totem Falls,Washington,Snohomish,Snohomish,50,100,94,6,0,0,47.8669087,-122.1446127
+144,Touchet Elementary And High,Washington,Touchet,Walla Walla,11,100,100,0,0,0,46.0434678,-118.6727635
+145,Trinity Catholic,Washington,Spokane,Spokane,23,100,100,0,0,0,47.6791714,-117.4326257
+146,Tyee Park Elementary,Washington,Lakewood,Pierce,72,100,91.67,0,0,0,47.148781,-122.508329
+147,Union Gap,Washington,Union Gap,Yakima,65,100,98.46,0,0,0,46.5559922,-120.4792946
+148,Vale Elementary,Washington,Cashmere,Chelan,114,100,96.49,0.88,0,1.75,47.517505,-120.4716539
+149,Valley Christian,Washington,Auburn,King,17,100,100,0,0,0,47.3065198,-122.2110973
+150,Valley,Washington,Seattle,King,16,100,93.75,0,0,6.25,47.6217042,-122.2928725
+151,Valley View Elementary,Washington,Toppenish,Yakima,72,100,97.22,0,0,0,46.3834204,-120.3020335
+152,Villa Academy,Washington,Seattle,King,39,100,100,0,0,0,47.6638269,-122.2731119
+153,Waller Road Elementary,Washington,Tacoma,Pierce,47,100,97.87,2.13,0,0,47.1996449,-122.3905349
+154,Waterville Elementary,Washington,Waterville,Douglas,17,100,100,0,0,0,47.6454052,-120.0696874
+155,Wellpinit Elementary,Washington,Wellpinit,Stevens,30,100,96.67,0,0,0,47.8980905,-117.9882851
+156,Westgate Elementary,Washington,Edmonds,Snohomish,82,100,92.68,1.22,0,4.88,47.7988596,-122.3624969
+157,Westpark Christian Academy,Washington,Yakima,Yakima,2,100,100,0,0,0,46.5959953,-120.5272672
+158,Whitstran Elementary,Washington,Prosser,Benton,38,100,97.37,0,0,0,46.234784,-119.707821
+159,Whittier Elementary,Washington,Pasco,Franklin,205,100,99.51,0,0,0,46.2402073,-119.0766986
+160,Sun Valley Elementary,Washington,Sunnyside,Yakima,461,99.35,99.35,0,0,0.22,46.3383953,-119.9974501
+161,Cedar Wood Elementary,Washington,Bothell,Snohomish,130,99.23,96.92,0,0,0.77,47.8444845,-122.1888134
+162,Horizon Elementary,Washington,Everett,Snohomish,122,99.18,95.08,0,0,1.64,47.9209912,-122.2373942
+163,Issaquah Valley Elementary,Washington,Issaquah,King,117,99.15,96.58,0,0,0.85,47.5365441,-122.0453631
+164,Frank Brouillet Elem,Washington,Puyallup,Pierce,115,99.13,98.26,0,0,0.87,47.0995589,-122.3031553
+165,Virgie Robinson Elementary,Washington,Pasco,Franklin,112,99.11,99.11,0,0,0,46.2333184,-119.0733422
+166,Voyager Elementary,Washington,Gig Harbor,Pierce,98,98.98,88.78,1.02,0,6.12,47.309203,-122.6780039
+167,Badger Mountain Elementary,Washington,Richland,Benton,97,98.97,98.97,0,0,0,46.233751,-119.2705711
+168,Hilltop Elementary,Washington,Seattle,King,93,98.92,96.77,0,0,0,47.4929448,-122.3013215
+169,Sacajawea Elementary,Washington,Richland,Benton,93,98.92,93.55,0,0,1.08,46.3083898,-119.2759679
+170,Satus Elementary,Washington,Wapato,Yakima,90,98.89,98.89,0,0,0,46.4396498,-120.4189073
+171,Albert Einstein Elementary,Washington,Redmond,King,88,98.86,94.32,0,0,0,47.7019318,-122.0985182
+172,Oak Harbor Elementary,Washington,Oak Harbor,Island,88,98.86,97.73,0,0,1.14,48.2971576,-122.6440833
+173,Washington Elementary,Washington,Wenatchee,Chelan,88,98.86,98.86,0,0,1.14,47.4213894,-120.3362828
+174,Wiley Elementary,Washington,West Richland,Benton,88,98.86,96.59,2.27,0,0,46.2746272,-119.35549
+175,Lewis And Clark Elementary,Washington,Wenatchee,Chelan,81,98.77,95.06,0,0,1.23,47.437219,-120.329812
+176,Scootney Springs Elementary,Washington,Othello,Adams,81,98.77,93.83,1.23,0,0,,
+177,Abraham Lincoln Elementary,Washington,Wenatchee,Chelan,79,98.73,97.47,1.27,0,0,47.406823,-120.309608
+178,Artondale Elementary,Washington,Gig Harbor,Pierce,78,98.72,94.87,0,0,3.85,47.294594,-122.621496
+179,Kenroy Elementary,Washington,East Wenatchee,Douglas,77,98.7,98.7,0,0,1.3,47.4140887,-120.2646387
+180,Terrace Heights Elementary,Washington,Moxee,Yakima,77,98.7,96.1,0,0,0,47.0385783,-123.2655378
+181,Whitney Elementary,Washington,Yakima,Yakima,76,98.68,97.37,0,0,2.63,46.5857442,-120.5680172
+182,Artz Fox Elementary,Washington,Mabton,Yakima,72,98.61,97.22,0,0,1.39,46.2153003,-119.9904247
+183,Mckinley Elementary,Washington,Yakima,Yakima,72,98.61,95.83,0,0,0,46.5912718,-120.5259793
+184,Wide Hollow Elementary,Washington,Yakima,Yakima,71,98.59,97.18,0,0,0,46.58701,-120.605208
+185,Boze Elementary,Washington,Tacoma,Pierce,70,98.57,91.43,0,0,0,47.197131,-122.414181
+186,Sherman Elementary,Washington,Tacoma,Pierce,70,98.57,98.57,0,0,1.43,47.2836867,-122.4975235
+187,Briarcrest Elementary,Washington,Shoreline,King,68,98.53,98.53,0,0,1.47,47.7422466,-122.2976428
+188,Beverly Park Elementary At Glendale,Washington,Seattle,King,67,98.51,97.01,0,0,0,47.5095942,-122.3172122
+189,Jefferson Elementary,Washington,Richland,Benton,67,98.51,94.03,0,0,2.99,46.2933405,-119.2743077
+190,Phantom Lake Elementary,Washington,Bellevue,King,67,98.51,95.52,0,0,0,47.600453,-122.125736
+191,Capt Johnston Blakely Elementary,Washington,Bainbridge Island,Kitsap,66,98.48,96.97,0,0,1.52,47.605845,-122.5352418
+192,Hathaway Elementary,Washington,Washougal,Clark,63,98.41,95.24,0,0,1.59,45.5816787,-122.3457669
+193,Sandburg Elementary,Washington,Kirkland,King,63,98.41,93.65,0,0,0,47.7165516,-122.2307081
+194,Franklin Elementary,Washington,Spokane,Spokane,62,98.39,88.71,0,0,4.84,47.6405613,-117.3715349
+195,Moran Prairie Elementary,Washington,Spokane,Spokane,62,98.39,91.94,1.61,1.61,1.61,47.6011364,-117.3484326
+196,Bennett Elementary,Washington,Bellevue,King,60,98.33,85,1.67,0,3.33,47.6250866,-122.101419
+197,Franklin Elementary,Washington,Tacoma,Pierce,58,98.28,98.28,0,0,0,47.2482355,-122.4798348
+198,Pioneer Valley Elementary,Washington,Spanaway,Pierce,58,98.28,94.83,1.72,0,0,47.0707686,-122.3306623
+199,Christa Mcauliffe Elementar,Washington,Sammamish,King,57,98.25,89.47,0,0,1.75,47.6285929,-122.0198277
+200,Challenger Elementary,Washington,Issaquah,King,168,98.21,96.43,0,0,2.98,47.5772846,-122.0039617
+201,Lackamas Elementary,Washington,Yelm,Thurston,56,98.21,91.07,3.57,0,1.79,46.850892,-122.487265
+202,Adams Elementary,Washington,Wapato,Yakima,65,98.18,98.46,0,0,1.54,46.4359044,-120.4157198
+203,Adams Elementary,Washington,Yakima,Yakima,110,98.18,96.36,1.82,0,0,46.5939354,-120.4900575
+204,Blue Ridge Elementary,Washington,Walla Walla,Walla Walla,54,98.15,98.15,0,0,0,46.0565966,-118.3530034
+205,David Wolfle Elementary,Washington,Kingston,Kitsap,53,98.11,98.11,1.89,0,1.89,47.807626,-122.5537521
+206,Pioneer Meadows Montessori,Washington,Ferndale,Whatcom,53,98.11,98.11,0,0,1.89,48.8426826,-122.6112688
+207,Olympic View Elementary,Washington,Oak Harbor,Island,104,98.08,94.23,1.92,0,0,48.3007815,-122.6336753
+208,Robertson Elementary,Washington,Yakima,Yakima,104,98.08,96.15,0,0,0.96,46.604962,-120.5466553
+209,Briarwood Elementary,Washington,Renton,King,102,98.04,96.08,0,0,2.94,47.48341,-122.114097
+210,Stanley Elementary,Washington,Tacoma,Pierce,50,98,88,0,0,0,47.2444312,-122.460119
+211,Lacamas Heights Elementary,Washington,Camas,Clark,49,97.96,93.88,2.04,0,4.08,45.6131156,-122.4028148
+212,Lutacaga Elementary,Washington,Othello,Adams,98,97.96,95.92,0,0,0,46.8179511,-119.1640341
+213,Lincoln Elementary,Washington,Kennewick,Benton,97,97.94,93.81,2.06,1.03,0,46.1892404,-119.1869685
+214,Roosevelt Elementary,Washington,Tacoma,Pierce,48,97.92,93.75,0,0,0,47.2281242,-122.3990385
+215,Southern Heights Elementary,Washington,Seattle,King,48,97.92,95.83,0,0,2.08,47.5019886,-122.3156924
+216,Sunnyslope Elementary,Washington,Wenatchee,Chelan,48,97.92,95.83,2.08,0,2.08,47.472994,-120.345556
+217,Vista Elementary,Washington,Kennewick,Benton,96,97.92,95.83,0,0,1.04,46.2275517,-119.2188391
+218,Marcus Whitman Elementary,Washington,Richland,Benton,95,97.89,96.84,0,0,0,46.2725603,-119.2959368
+219,West Woodland Elementary,Washington,Seattle,King,95,97.89,93.68,0,0,1.05,47.6704964,-122.3620709
+220,Highland Elementary,Washington,Clarkston,Asotin,47,97.87,85.11,0,0,0,46.4043098,-117.0671015
+221,University Elementary,Washington,Spokane,Spokane,47,97.87,93.62,0,0,0,47.64172,-117.2607114
+222,Discovery Elementary,Washington,Issaquah,King,93,97.85,97.85,1.08,0,1.08,47.5891306,-122.0339616
+223,Ruth Livingston Elementary,Washington,Pasco,Franklin,93,97.85,96.77,0,0,1.08,46.251565,-119.1997611
+224,Littlerock Elementary,Washington,Littlerock,Thurston,46,97.83,95.65,0,0,2.17,46.9028685,-123.0153898
+225,Gregory Heights Elementary,Washington,Burien,King,91,97.8,83.52,0,0,3.3,47.457945,-122.355948
+226,Rush Elementary,Washington,Redmond,King,136,97.79,94.12,0.74,0.74,0,47.6618811,-122.1387104
+227,Cascade Elementary,Washington,East Wenatchee,Douglas,90,97.78,95.56,0,0,2.22,47.4433988,-120.2933925
+228,Park Lodge Elementary,Washington,Lakewood,Pierce,90,97.78,97.78,1.11,0,0,47.1660139,-122.5213084
+229,Rock Island Elementary,Washington,Rock Island,Douglas,45,97.78,95.56,0,0,0,47.3774351,-120.1552246
+230,Blix Elementary,Washington,Tacoma,Pierce,89,97.75,95.51,0,0,0,47.2222392,-122.4123694
+231,Cascade Elementary,Washington,Kennewick,Benton,88,97.73,93.18,1.14,0,2.27,46.1721306,-119.1262215
+232,Sherwood Elementary,Washington,Edmonds,Snohomish,88,97.73,94.32,0,0,3.41,47.7902377,-122.3742212
+233,St. John,Washington,Seattle,King,44,97.73,95.45,0,0,4.55,47.6864164,-122.3570951
+234,University Child Development,Washington,Seattle,King,44,97.73,93.18,0,0,2.27,47.6665697,-122.3178799
+235,View Ridge Elementary,Washington,Seattle,King,87,97.7,95.4,0,0,0,47.6806233,-122.276262
+236,Canyon View Elementary,Washington,Kennewick,Benton,86,97.67,97.67,0,0,2.33,46.187934,-119.1353629
+237,Harbor Heights Elementary,Washington,Gig Harbor,Pierce,86,97.67,96.51,0,1.16,1.16,47.2924116,-122.5934512
+238,Victor Falls Elementary,Washington,Bonney Lake,Pierce,85,97.65,95.29,0,0,4.71,47.1542162,-122.1784871
+239,Karshner Elementary,Washington,Puyallup,Pierce,42,97.62,97.62,0,0,2.38,47.1973629,-122.3123041
+240,Shining Mountain Elementary,Washington,Spanaway,Pierce,125,97.6,95.2,0,0,0.8,47.0600467,-122.3775463
+241,Grainger Elementary,Washington,Okanogan,Okanogan,83,97.59,93.98,0,0,2.41,48.358598,-119.5934919
+242,Midland Elementary,Washington,Tacoma,Pierce,83,97.59,97.59,0,0,2.41,47.160378,-122.398529
+243,Donald Eismann Elementary,Washington,Bonney Lake,Pierce,124,97.58,94.35,1.61,0,2.42,47.1307391,-122.1752645
+244,Manitou Park Elementary,Washington,Tacoma,Pierce,82,97.56,97.56,0,0,1.22,47.1970296,-122.4950966
+245,Pope Elementary,Washington,Puyallup,Pierce,81,97.53,95.06,0,0,1.23,47.1182423,-122.2682533
+246,Discovery Elementary,Washington,Gig Harbor,Pierce,80,97.5,93.75,1.25,1.25,2.5,47.331536,-122.603802
+247,Nob Hill Elementary,Washington,Yakima,Yakima,80,97.5,96.25,0,0,0,46.589789,-120.5535423
+248,Chain Lake Elementary,Washington,Snohomish,Snohomish,79,97.47,94.94,2.53,0,2.53,47.8874852,-121.9675443
+249,Hawthorne Elementary,Washington,Everett,Snohomish,79,97.47,96.2,0,0,2.53,48.0021083,-122.1951181
+250,Nelson Elementary,Washington,Graham,Pierce,79,97.47,93.67,0,0,3.8,47.0548721,-122.2858506
+251,Shiloh Hills Elementary,Washington,Spokane,Spokane,79,97.47,93.67,0,0,1.27,47.734336,-117.401051
+252,Adna Elementary,Washington,Adna,Lewis,39,97.44,92.31,2.56,0,2.56,46.638685,-123.059161
+253,Garfield Elementary,Washington,Yakima,Yakima,78,97.44,97.44,0,0,0,46.6084299,-120.5220408
+254,Garfield Elementary,Washington,Toppenish,Yakima,57,97.44,94.74,0,0,0,46.3771375,-120.3190396
+255,Hiawatha Elementary,Washington,Othello,Adams,78,97.44,97.44,1.28,0,0,46.831048,-119.1638495
+256,Sunny Hills Elementary,Washington,Sammamish,King,115,97.39,96.52,0.87,0,2.61,47.5801324,-122.0280998
+257,Tapteal Elementary,Washington,West Richland,Benton,115,97.39,96.52,0.87,0,0,46.3072309,-119.3683737
+258,Bemiss Elementary,Washington,Spokane,Spokane,76,97.37,94.74,0,0,2.63,47.6891706,-117.3748447
+259,Brownsville Elementary,Washington,Bremerton,Kitsap,76,97.37,93.42,0,0,1.32,47.64185,-122.6073503
+260,Mission View Elementary,Washington,Wenatchee,Chelan,76,97.37,97.37,0,0,2.63,47.398704,-120.299305
+261,Moxee Elementary,Washington,Moxee,Yakima,76,97.37,93.42,1.32,1.32,0,46.5508445,-120.3823079
+262,Parkside Elementary,Washington,Des Moines,King,76,97.37,88.16,0,0,0,47.3810937,-122.3062329
+263,Broad View Elementary,Washington,Oak Harbor,Island,75,97.33,96,1.33,0,1.33,48.2947879,-122.6668795
+264,Spiritridge Elementary,Washington,Bellevue,King,75,97.33,92,0,0,2.67,47.5876217,-122.120226
+265,Summitview Elementary,Washington,Yakima,Yakima,75,97.33,94.67,0,0,1.33,46.5974686,-120.5929753
+266,Mark Twain Elementary,Washington,Pasco,Franklin,112,97.32,97.32,0,0,2.68,46.2442242,-119.1424125
+267,Spruce Elementary,Washington,Lynnwood,Snohomish,74,97.3,91.89,0,0,1.35,47.8403275,-122.2865823
+268,Cottonwood Elementary,Washington,Kennewick,Benton,110,97.27,96.36,0.91,0,2.73,46.1913098,-119.2739957
+269,Hillside Elementary,Washington,Fort Lewis,Pierce,109,97.25,94.5,2.75,0,0,47.1039055,-122.5703655
+270,Allen Creek Elementary,Washington,Marysville,Snohomish,72,97.22,97.22,0,0,2.78,48.0549208,-122.1481364
+271,Hazelwood Elementary,Washington,Lynnwood,Snohomish,71,97.18,91.55,0,0,4.23,47.8133149,-122.2772901
+272,Maple Hills Elementary,Washington,Renton,King,71,97.18,94.37,1.41,1.41,2.82,47.4621905,-122.0662879
+273,Bryn Mawr Elementary,Washington,SEATTLE,King,70,97.14,95.71,0,1.43,2.86,47.4980993,-122.2293337
+274,Mossyrock Elementary,Washington,Mossyrock,Lewis,35,97.14,94.29,0,0,2.86,46.5321104,-122.4860783
+275,Barbara Mcclintock Stem Elementary,Washington,Pasco,Franklin,138,97.1,97.1,0,0,2.17,46.2791422,-119.1696527
+276,Carriage Crest Elementary,Washington,Renton,King,69,97.1,94.2,0,0,1.45,47.4381317,-122.1565626
+277,Lake Forest Park Elementary,Washington,Lake Forest Park,King,69,97.1,89.86,2.9,0,8.7,47.7630789,-122.287917
+278,Larchmont Elementary,Washington,Tacoma,Pierce,69,97.1,92.75,0,0,1.45,47.1777437,-122.4292395
+279,Longfellow Elementary,Washington,Spokane,Spokane,69,97.1,85.51,0,0,4.35,47.6919067,-117.3970868
+280,Maplewood Elementary,Washington,Puyallup,Pierce,69,97.1,92.75,4.35,0,4.35,47.1897576,-122.3092744
+281,Cascade Christian School-Puyallup Elementary,Washington,Puyallup,Pierce,34,97.06,85.29,0,0,5.88,47.1850006,-122.2871176
+282,Sidney Glen Elementary,Washington,Port Orchard,Kitsap,102,97.06,96.08,0,0.98,0.98,47.50577,-122.654188
+283,Woodridge Elementary,Washington,Spokane,Spokane,68,97.06,94.12,1.47,0,4.41,47.745875,-117.483605
+284,Edison,Washington,Tacoma,Pierce,67,97.01,83.58,4.48,0,1.49,47.2036888,-122.4742667
+285,Keene-Riverview Elementary,Washington,Prosser,Benton,134,97.01,94.78,0,0,1.49,46.2015025,-119.7748654
+286,Meridian,Washington,Seattle,King,33,96.97,93.94,0,0,6.06,47.664099,-122.3311221
+287,St. Louise,Washington,Bellevue,King,33,96.97,96.97,0,0,3.03,47.6095038,-122.1329866
+288,Ucic,Washington,Bothell,King,33,96.97,96.97,0,0,0,47.7803897,-122.1829122
+289,Woodlands Elementary,Washington,Bremerton,Kitsap,66,96.97,96.97,1.52,0,1.52,47.6299364,-122.6475646
+290,Hillcrest Elementary,Washington,Oak Harbor,Island,131,96.95,93.13,0.76,0,1.53,48.301631,-122.6765654
+291,Horizons Elementary,Washington,Lacey,Thurston,65,96.92,92.31,0,0,0,46.9859312,-122.8233541
+292,Wellington Elementary,Washington,Woodinville,King,65,96.92,92.31,1.54,0,3.08,47.7678997,-122.1202037
+293,Endeavour Elementary,Washington,Issaquah,King,129,96.9,95.35,0,0,3.88,47.5703704,-121.988261
+294,Forest View Elementary,Washington,Everett,Snohomish,129,96.9,96.12,0.78,0,1.55,47.857162,-122.1563877
+295,Annie Wright,Washington,Tacoma,Pierce,32,96.88,96.88,0,0,3.13,47.268669,-122.459469
+296,Cedar Valley Community,Washington,Lynnwood,Snohomish,64,96.88,96.88,1.56,0,1.56,47.8234543,-122.3085851
+297,Cherrydale Elementary,Washington,Steilacoom,Pierce,96,96.88,91.67,1.04,0,5.21,47.1654134,-122.5881943
+298,Columbia Elementary,Washington,Wenatchee,Chelan,64,96.88,96.88,0,0,3.13,47.418372,-120.321024
+299,Lake Youngs Elementary,Washington,Kent,King,64,96.88,95.31,0,0,1.56,47.4257051,-122.1515819
+300,Butler Acres Elementary,Washington,Kelso,Cowlitz,63,96.83,96.83,1.59,0,1.59,46.1514891,-122.8940758
+301,Dorothy Fox Elementary,Washington,Camas,Clark,63,96.83,95.24,1.59,0,3.17,45.5983804,-122.4303746
+302,Beacon Hill Elementary,Washington,Longview,Cowlitz,94,96.81,94.68,0,0,3.19,46.180478,-122.9264289
+303,Audubon Elementary,Washington,Spokane,Spokane,62,96.77,96.77,1.61,0,1.61,47.6798946,-117.4417379
+304,Chinook Elementary,Washington,Auburn,King,93,96.77,90.32,1.08,0,1.08,47.289561,-122.1811597
+305,Emerald Heights Elementary,Washington,Silverdale,Kitsap,62,96.77,91.94,0,0,6.45,47.6750477,-122.6650075
+306,Heritage Christian Academy,Washington,Bothell,King,31,96.77,93.55,0,0,0,47.7699312,-122.2027949
+307,Mcclure Elementary,Washington,Yakima,Yakima,102,96.77,98.04,0.98,0,1.96,46.5819361,-120.5085499
+308,Mcclure Elementary,Washington,Grandview,Yakima,93,96.77,94.62,0,0,1.08,46.2555059,-119.912958
+309,Point Defiance Elementary,Washington,Tacoma,Pierce,62,96.77,96.77,1.61,0,0,47.2890764,-122.5184377
+310,Ridgeview Elementary,Washington,Yakima,Yakima,93,96.77,92.47,0,0,0,46.572063,-120.5136017
+311,Roosevelt Elementary,Washington,Vancouver,Clark,93,96.77,92.47,0,0,0,45.6442715,-122.6274499
+312,Spanaway Elementary,Washington,Spanaway,Pierce,61,96.72,91.8,1.64,0,1.64,47.1071276,-122.4360715
+313,Cascade Elementary,Washington,RENTON,King,90,96.67,93.33,0,0,0,47.4585795,-122.1839229
+314,Holy Family Parish,Washington,Kirkland,King,30,96.67,96.67,0,0,0,47.6706024,-122.1806811
+315,Westside,Washington,Seattle,King,30,96.67,90,0,0,0,47.5093439,-122.3740776
+316,Jason Lee Elementary,Washington,Richland,Benton,89,96.63,94.38,0,0,1.12,46.2953583,-119.2946366
+317,Wedgwood Elementary,Washington,Seattle,King,89,96.63,91.01,0,0,0,47.6903879,-122.29738
+318,Creekside Elementary,Washington,Sammamish,King,118,96.61,94.92,0.85,0.85,3.39,47.5947236,-122.0634946
+319,Lake Grove Elementary,Washington,Federal Way,King,59,96.61,88.14,0,0,0,47.3254224,-122.3388011
+320,Maplewood Heights Elementary,Washington,RENTON,King,147,96.6,94.56,0.68,0,2.72,47.4822107,-122.1470418
+321,Jefferson Lincoln Elementary,Washington,Centralia,Lewis,88,96.59,89.77,0,0,2.27,46.705678,-122.963196
+322,Catlin Elementary,Washington,Kelso,Cowlitz,58,96.55,96.55,0,0,1.72,46.1493699,-122.9183992
+323,Silver Ridge Elementary,Washington,Silverdale,Kitsap,58,96.55,93.1,0,0,1.72,47.6584125,-122.666696
+324,Cascade Ridge Elementary,Washington,Sammamish,King,57,96.49,94.74,0,0,5.26,47.5911961,-121.9731948
+325,Four Heroes Elementary,Washington,Lakewood,Pierce,114,96.49,94.74,0,0,0,47.1750222,-122.5066864
+326,Lewis And Clark Elementary,Washington,Richland,Benton,85,96.47,94.12,0,0,1.18,46.2712108,-119.276662
+327,Talbot Hill Elementary,Washington,RENTON,King,85,96.47,92.94,4.71,0,1.18,47.4585338,-122.211098
+328,Monroe Elementary,Washington,Everett,Snohomish,113,96.46,89.38,0,0,5.31,47.898997,-122.194622
+329,Bridgeport Elementary,Washington,Bridgeport,Douglas,56,96.43,92.86,0,0,0,48.0056579,-119.675202
+330,Mirror Lake Elementary,Washington,Federal Way,King,84,96.43,90.48,1.19,0,1.19,47.3198481,-122.3253724
+331,Sacajawea Elementary,Washington,Vancouver,Clark,56,96.43,89.29,0,0,5.36,45.7025765,-122.6647862
+332,Washington Elementary,Washington,Kennewick,Benton,84,96.43,96.43,0,0,0,46.1886072,-119.1190418
+333,Lakeview Hope Academy,Washington,Lakewood,Pierce,111,96.4,90.99,0,0,0.9,47.1617704,-122.4988876
+334,Ridge View Elementary,Washington,Kennewick,Benton,111,96.4,95.5,0,0,0.9,46.1968593,-119.216596
+335,Lincoln Elementary,Washington,Toppenish,Yakima,55,96.36,89.09,0,0,0,46.3811758,-120.3057731
+336,Naches Valley Elementary,Washington,Yakima,Yakima,82,96.34,93.9,0,0,2.44,46.723089,-120.6844879
+337,Seahurst Elementary,Washington,Burien,King,82,96.34,87.8,0,0,3.66,47.471342,-122.3540059
+338,Lummi Tribal Elementary,Washington,Bellingham,Whatcom,27,96.3,88.89,0,0,0,48.7286384,-122.6543069
+339,Naches Trail Elementary,Washington,Tacoma,Pierce,81,96.3,90.12,0,0,2.47,47.1175189,-122.3886913
+340,Sage Point Elementary,Washington,Moses Lake,Grant,81,96.3,93.83,1.23,0,1.23,47.090249,-119.3171774
+341,Grass Valley Elementary,Washington,Camas,Clark,80,96.25,92.5,0,0,6.25,45.610876,-122.4410123
+342,Hawthorne Elementary,Washington,Kennewick,Benton,106,96.23,94.34,0,0,0.94,46.2183529,-119.1689066
+343,Edison Elementary,Washington,Walla Walla,Walla Walla,79,96.2,92.41,1.27,0,1.27,46.0681987,-118.309035
+344,Marcus Whitman Elementary,Washington,Cowiche,Yakima,79,96.2,94.94,1.27,0,2.53,46.657946,-120.695163
+345,Newport Heights Elementary,Washington,Bellevue,King,79,96.2,94.94,1.27,0,2.53,47.5548175,-122.180156
+346,Wahitis Elementary,Washington,Othello,Adams,79,96.2,94.94,0,0,1.27,46.8163874,-119.1522807
+347,Charles Wright Academy,Washington,University Place,Pierce,26,96.15,92.31,0,0,7.69,47.2002427,-122.5464826
+348,Clover Creek Elementary,Washington,Tacoma,Pierce,130,96.15,93.85,0.77,0.77,2.31,47.1027055,-122.3799181
+349,First Presbyterian Christian,Washington,Spokane,Spokane,26,96.15,88.46,3.85,0,0,47.652842,-117.432958
+350,Sunnyslope Elementary,Washington,Port Orchard,Kitsap,104,96.15,93.27,0,0,1.92,47.5115341,-122.7304709
+351,Suquamish Elementary,Washington,Suquamish,Kitsap,52,96.15,96.15,1.92,0,1.92,47.7357053,-122.55632
+352,The Bear Creek,Washington,Redmond,King,52,96.15,90.38,0,0,5.77,47.681168,-122.065176
+353,Felida Elementary,Washington,Vancouver,Clark,103,96.12,90.29,0.97,0,5.83,45.7082247,-122.6990891
+354,Springbrook Elementary,Washington,Kent,King,77,96.1,93.51,0,0,2.6,47.4211192,-122.2083415
+355,Chestnut Hill Academy South Campus,Washington,Bellevue,King,51,96.08,96.08,0,0,3.92,47.586878,-122.1571729
+356,Custer Elementary,Washington,Lakewood,Pierce,51,96.08,92.16,0,0,0,47.1803759,-122.5406809
+357,Olalla Elementary,Washington,Port Orchard,Kitsap,51,96.08,90.2,1.96,0,1.96,47.432379,-122.5716292
+358,Midway Elementary,Washington,Colbert,Spokane,76,96.05,93.42,0,0,3.95,47.8095049,-117.3961551
+359,Prospect Point Elementary,Washington,Walla Walla,Walla Walla,76,96.05,88.16,1.32,0,2.63,46.0419149,-118.3230674
+360,White Center Heights Elementary,Washington,Seattle,King,101,96.04,91.09,0,0.99,0.99,47.5133857,-122.3442192
+361,White Bluffs Elementary,Washington,Richland,Benton,126,96.03,93.65,0,0,2.38,46.2482813,-119.328303
+362,Orting Primary,Washington,Orting,Pierce,151,96.03,92.05,0.66,0,3.31,47.1013072,-122.2071005
+363,Edwin R Opstad Elementary,Washington,North Bend,King,75,96,90.67,0,0,1.33,47.480346,-121.766986
+364,Glacier Park Elementary,Washington,Maple Valley,King,100,96,95,0,0,5,47.3516095,-122.0256336
+365,Paschal Sherman,Washington,Omak,Okanogan,25,96,76,0,0,0,48.3711435,-119.4474497
+366,Evergreen Elementary,Washington,Spokane,Spokane,74,95.95,91.89,0,0,6.76,47.7355026,-117.4146847
+367,Cottage Lake Elementary,Washington,Woodinville,King,49,95.92,93.88,4.08,0,0,47.7447628,-122.0793227
+368,Cascade Elementary,Washington,Marysville,Snohomish,73,95.89,90.41,1.37,1.37,4.11,48.0854224,-122.1604493
+369,Bethlehem Lutheran,Washington,Kennewick,Benton,24,95.83,95.83,0,0,0,46.183076,-119.155465
+370,P C Jantz Elementary,Washington,Odessa,Lincoln,24,95.83,87.5,0,0,8.33,47.3304383,-118.6877486
+371,Roy Elementary,Washington,Roy,Thurston,72,95.83,94.44,0,0,2.78,47.0014078,-122.5420438
+372,Seth Woodard Elementary,Washington,Spokane,Spokane,24,95.83,95.83,0,0,0,47.6721441,-117.3062045
+373,Waitsburg Elementary,Washington,Waitsburg,Walla Walla,24,95.83,91.67,0,0,4.17,46.2671909,-118.1526681
+374,Belfair Elementary,Washington,Belfair,Mason,95,95.79,89.47,4.21,0,2.11,47.4388061,-122.8348802
+375,Rosalind Franklin Stem Elementary,Washington,Pasco,Franklin,95,95.79,93.68,0,0,2.11,46.2834509,-119.1594529
+376,Capt. Charles Wilkes Elementaryo,Washington,Bainbridge Island,Kitsap,71,95.77,91.55,2.82,0,4.23,47.6782663,-122.5223933
+377,Cedarhurst Elementary,Washington,Burien,King,71,95.77,87.32,0,0,1.41,47.4843831,-122.3251081
+378,Harrah Elementary,Washington,Harrah,Yakima,71,95.77,95.77,0,0,0,46.4066842,-120.5434935
+379,Crescent Harbor Elementary,Washington,Oak Harbor,Island,94,95.74,94.68,1.06,0,0,48.3062311,-122.5974451
+380,Linwood Elementary,Washington,Spokane,Spokane,94,95.74,92.55,0,0,4.26,47.7227962,-117.4241897
+381,Meeker Elementary,Washington,Puyallup,Pierce,47,95.74,93.62,2.13,0,2.13,47.1884412,-122.2985225
+382,Whitney Elementary,Washington,Anacortes,Skagit,94,95.74,90.43,1.06,0,5.32,48.5124094,-122.6178529
+383,Jefferson Elementary,Washington,Spokane,Spokane,70,95.71,91.43,0,0,2.86,47.621238,-117.402616
+384,Sunnyside Elementary,Washington,Pullman,Whitman,70,95.71,90,0,0,4.29,46.7272208,-117.1885423
+385,Burley Glenwood Elementary,Washington,Port Orchard,Kitsap,69,95.65,91.3,1.45,0,5.8,47.4385378,-122.6485464
+386,Continuous Curriculum,Washington,Spokane Valley,Spokane,46,95.65,93.48,0,0,2.17,47.699711,-117.1770851
+387,Hazel Valley Elementary,Washington,Burien,King,92,95.65,89.13,1.09,0,0,47.4854395,-122.3407244
+388,Idlewild Elementary,Washington,Lakewood,Pierce,92,95.65,92.39,2.17,1.09,0,47.1588264,-122.5450076
+389,Mullenix Ridge Elementaryo,Washington,Port Orchard,Kitsap,69,95.65,92.75,0,0,4.35,47.4676503,-122.6034815
+390,Pacific Beach Elementary,Washington,Pacific Beach,Grays Harbor,23,95.65,91.3,0,0,0,47.2083854,-124.1997794
+391,Pinecrest Elementary,Washington,Bremerton,Kitsap,69,95.65,92.75,0,0,1.45,47.6130668,-122.6365207
+392,Syre Elementary,Washington,Shoreline,King,69,95.65,91.3,1.45,0,5.8,47.771956,-122.372734
+393,Grant Elementary,Washington,Ephrata,Grant,91,95.6,93.41,0,2.2,2.2,47.3256278,-119.5541372
+394,Betz Elementary,Washington,Cheney,Spokane,68,95.59,95.59,0,0,4.41,47.4954865,-117.5771198
+395,Fruitland Elementary,Washington,Puyallup,Pierce,90,95.56,86.67,1.11,0,4.44,47.1765505,-122.3242128
+396,Mill Creek Elementary,Washington,Everett,Snohomish,90,95.56,90,1.11,0,7.78,47.8632856,-122.1888347
+397,Seaview Elementary,Washington,Edmonds,Snohomish,45,95.56,95.56,0,2.22,2.22,47.8280183,-122.3480543
+398,Frank Love Elementary,Washington,Bothell,King,202,95.54,91.58,0,0,1.98,47.795915,-122.236934
+399,Arrowhead Elementary,Washington,Kenmore,King,67,95.52,94.03,1.49,0,2.99,47.7378077,-122.2516515
+400,Delong Elementary,Washington,Tacoma,Pierce,67,95.52,94.03,0,0,2.99,47.2493595,-122.5017637
+401,Washington Elementary,Washington,Mount Vernon,Skagit,67,95.52,91.04,1.49,1.49,0,48.4199859,-122.3487684
+402,Brookside Elementary,Washington,Lake Forest Park,King,66,95.45,92.42,0,0,7.58,47.7547936,-122.2902157
+403,Cedar Park Christian School--Lynnwood Campus,Washington,Lynnwood,Snohomish,22,95.45,86.36,0,0,13.64,47.8367506,-122.3192831
+404,Lake Louise Elementary,Washington,Lakewood,Pierce,66,95.45,86.36,0,0,3.03,47.1570662,-122.5696187
+405,Maplewood K-8 Co-Op,Washington,Edmonds,Snohomish,44,95.45,86.36,0,0,9.09,47.8171081,-122.3482627
+406,Mckenna Elementary,Washington,Yelm,Thurston,66,95.45,93.94,0,0,4.55,46.9387259,-122.5547808
+407,Olympic Elementary,Washington,Longview,Cowlitz,66,95.45,93.94,0,0,0,46.1392515,-122.9618625
+408,St. Anthony,Washington,Renton,King,44,95.45,93.18,0,0,4.55,47.4783967,-122.2129143
+409,St. Joseph's,Washington,Wenatchee,Chelan,22,95.45,90.91,0,0,9.09,47.4164433,-120.3333301
+410,Tekoa Elementary,Washington,Tekoa,Whitman,22,95.45,90.91,0,0,0,47.2242843,-117.0715974
+411,Robert E Lee Elementary,Washington,East Wenatchee,Douglas,87,95.4,95.4,0,0,1.15,47.4272567,-120.2912461
+412,Samantha Smith Elementary,Washington,Sammamish,King,87,95.4,89.66,0,0,0,47.6210116,-122.02737
+413,Endeavour Elementary,Washington,Mukilteo,Snohomish,65,95.38,86.15,0,0,1.54,47.8851273,-122.3117595
+414,Hazel Dell Elementary,Washington,Vancouver,Clark,65,95.38,92.31,0,0,1.54,45.6710718,-122.6667295
+415,Lakewood Elementary,Washington,North Lakewood,Snohomish,65,95.38,95.38,1.54,0,1.54,48.1506917,-122.2086223
+416,Larson Heights Elementary,Washington,Moses Lake,Grant,65,95.38,93.85,1.54,0,1.54,47.1667568,-119.3238779
+417,Cougar Ridge Elementary,Washington,Issaquah,King,86,95.35,91.86,0,0,5.81,47.562055,-122.117468
+418,Mark Twain Elementary,Washington,Federal Way,King,86,95.35,90.7,1.16,0,2.33,47.3563298,-122.2991007
+419,Minter Creek Elementary,Washington,Gig Harbor,Pierce,64,95.31,92.19,0,0,4.69,47.372641,-122.692901
+420,Columbia Ridge Elementary,Washington,Ephrata,Grant,85,95.29,94.12,0,0,0,47.3175554,-119.5399046
+421,Apollo Elementary,Washington,Renton,King,105,95.24,91.43,1.9,0,4.76,47.4977089,-122.1392514
+422,Camas Prairie Elementary,Washington,Spanaway,Pierce,105,95.24,92.38,1.9,0,1.9,47.0967225,-122.4271207
+423,Little Cedars Elementary,Washington,Snohomish,Snohomish,84,95.24,94.05,1.19,0,4.76,47.865487,-122.133349
+424,Oakville Elementary,Washington,Oakville,Grays Harbor,21,95.24,95.24,0,0,0,46.8412648,-123.2408706
+425,The Lake And Park,Washington,Seattle,King,21,95.24,85.71,0,0,9.52,47.5750265,-122.2854711
+426,Yacolt Primary,Washington,Yacolt,Clark,146,95.21,91.78,2.05,0,2.74,45.8673725,-122.4114837
+427,Olympic View Elementary,Washington,Lacey,Thurston,104,95.19,90.38,0.96,0.96,0.96,47.058921,-122.777955
+428,East Olympia Elementary,Washington,Olympia,Thurston,83,95.18,92.77,0,2.41,4.82,46.9609115,-122.8323272
+429,Edison Elementary,Washington,Centralia,Lewis,83,95.18,89.16,0,0,2.41,46.7219286,-122.9596565
+430,Tillicum Elementary,Washington,Lakewood,Pierce,62,95.16,91.94,0,0,1.61,47.1252195,-122.5533584
+431,Island Park Elementary,Washington,Mercer Island,King,82,95.12,95.12,1.22,0,2.44,47.5536651,-122.2225675
+432,Medina Elementary,Washington,Medina,King,41,95.12,90.24,0,0,2.44,47.6166865,-122.2324249
+433,Sanislo Elementary,Washington,Seattle,King,41,95.12,92.68,0,0,0,47.5397484,-122.3588132
+434,South Bay Elementary,Washington,Lacey,Thurston,102,95.1,93.14,0,0,2.94,47.0853561,-122.834608
+435,Valhalla Elementary,Washington,Auburn,King,102,95.1,91.18,0,0,4.9,47.3516102,-122.2830903
+436,Davis Elementary,Washington,College Place,Walla Walla,122,95.08,94.26,2.46,0.82,0.82,46.04819,-118.3863959
+437,Meridian Park Elementary,Washington,Shoreline,King,202,95.05,92.57,0.5,0,4.46,47.7549265,-122.3364876
+438,Barge Lincoln Elementary,Washington,Yakima,Yakima,120,95,93.33,3.33,0,0,46.615293,-120.508589
+439,Brewster Elementary,Washington,Brewster,Okanogan,80,95,93.75,0,0,0,48.0939928,-119.7873864
+440,Centralia Christian,Washington,Centralia,Lewis,20,95,90,0,0,10,46.7016066,-122.9617012
+441,Fidalgo Elementary,Washington,Anacortes,Skagit,40,95,85,0,0,10,48.4464614,-122.5827026
+442,Franklin Elementary,Washington,Port Angeles,Clallam,60,95,86.67,3.33,0,3.33,48.1025181,-123.423213
+443,Jefferson Elementary,Washington,Mount Vernon,Skagit,80,95,95,0,0,2.5,48.4071854,-122.3177212
+444,Peace Lutheran,Washington,Bremerton,Kitsap,20,95,95,0,0,5,47.6076561,-122.6349422
+445,South Sound Christian Schools-Tacoma Baptist Campus,Washington,Tacoma,Pierce,20,95,95,5,0,0,47.1988926,-122.4669582
+446,Stewart Elementary,Washington,Puyallup,Pierce,40,95,95,0,2.5,2.5,47.1935909,-122.2881672
+447,Arbor Heights Elementary,Washington,Seattle,King,99,94.95,87.88,0,0,1.01,47.5093589,-122.3789128
+448,Clear Creek Elementary,Washington,Silverdale,Kitsap,99,94.95,87.88,0,0,1.01,47.683947,-122.7018439
+449,Centennial Elementary,Washington,Graham,Pierce,79,94.94,92.41,1.27,0,1.27,47.0357394,-122.355633
+450,A J West Elementary,Washington,Aberdeen,Grays Harbor,59,94.92,79.66,0,0,0,46.971922,-123.838252
+451,Sharpstein Elementary,Washington,Walla Walla,Walla Walla,59,94.92,91.53,0,0,3.39,46.0645328,-118.3259819
+452,Beverly Elementary,Washington,Lynnwood,Snohomish,78,94.87,89.74,0,0,6.41,47.847229,-122.3048031
+453,Eton,Washington,Bellevue,King,39,94.87,87.18,0,0,5.13,47.634473,-122.1284287
+454,Grass Lake Elementary,Washington,Kent,King,39,94.87,92.31,0,0,7.69,47.3447114,-122.0869899
+455,Hazel Wolf K-8,Washington,Seattle,King,78,94.87,88.46,0,0,0,47.7133567,-122.316714
+456,Kirkwood Elementary,Washington,Toppenish,Yakima,78,94.87,87.18,1.28,0,0,46.381365,-120.3265654
+457,Martin Luther King Jr. Elementary,Washington,Seattle,King,39,94.87,89.74,0,0,2.56,47.5420247,-122.276964
+458,Riverside Elementary,Washington,Chattaroy,Spokane,39,94.87,92.31,0,0,0,47.9664323,-117.3561898
+459,Willard Elementary,Washington,Spokane,Spokane,78,94.87,93.59,0,0,3.85,47.6980815,-117.4200329
+460,Orchard Elementary,Washington,Richland,Benton,97,94.85,93.81,0,0,4.12,46.2341216,-119.2891968
+461,Whittier Elementary,Washington,Seattle,King,97,94.85,92.78,0,0,5.15,47.6837505,-122.3732327
+462,Ridgecrest Elementary,Washington,Puyallup,Pierce,58,94.83,82.76,3.45,0,6.9,47.1404508,-122.2575629
+463,Brookdale Elementary,Washington,Tacoma,Pierce,77,94.81,93.51,1.3,0,1.3,47.1381907,-122.4403662
+464,King Elementary,Washington,Vancouver,Clark,77,94.81,93.51,0,1.3,1.3,45.6301151,-122.6203951
+465,Southgate Elementary,Washington,Kennewick,Benton,77,94.81,94.81,0,0,5.19,46.1906764,-119.1651287
+466,Westhill Elementary,Washington,Bothell,King,77,94.81,89.61,0,0,2.6,47.7700961,-122.2248557
+467,Little Mountain Elementary,Washington,Mount Vernon,Skagit,96,94.79,91.67,0,1.04,4.17,48.4115416,-122.3119984
+468,Sunset View Elementary,Washington,Kennewick,Benton,96,94.79,93.75,0,0,3.13,46.2175985,-119.2353039
+469,Washington Elementary,Washington,Auburn,King,96,94.79,91.67,0,0,2.08,47.3082196,-122.222254
+470,Chauncey Davis Elementary,Washington,South Bend,Pacific,38,94.74,89.47,0,0,0,46.6618053,-123.7904495
+471,Martin Luther King Jr Elementary,Washington,Yakima,Yakima,95,94.74,93.68,2.11,0,0,46.5729673,-120.4784
+472,Northwood Elementary,Washington,Edgewood,Pierce,76,94.74,92.11,1.32,0,5.26,47.2378677,-122.2987205
+473,Park Orchard Elementary,Washington,Kent,King,76,94.74,90.79,0,0,3.95,47.3951979,-122.1936077
+474,Rose Valley Elementary,Washington,Kelso,Cowlitz,19,94.74,94.74,0,0,5.26,46.0981567,-122.8265721
+475,Skyline Elementary,Washington,Tacoma,Pierce,57,94.74,94.74,3.51,0,0,47.2697067,-122.5243934
+476,St. Joseph Catholic School Of Issaquah,Washington,Issaquah,King,19,94.74,89.47,0,0,0,47.5283378,-122.0450985
+477,Southworth Elementary,Washington,Yelm,Thurston,113,94.69,93.81,0,0,4.42,46.968697,-122.642514
+478,Timber Ridge Elementary,Washington,SNOQUALMIE,King,113,94.69,92.04,0.88,0,1.77,47.5255547,-121.8811654
+479,Fort Stevens Elementary,Washington,Yelm,Thurston,94,94.68,92.55,2.13,0,4.26,46.9410113,-122.5886701
+480,Frank Wagner Elementary,Washington,Monroe,Snohomish,94,94.68,87.23,0,0,2.13,47.8536817,-121.9796457
+481,Barnes Elementary,Washington,Kelso,Cowlitz,75,94.67,92,0,0,4,46.160203,-122.907868
+482,Salmon Creek Elementary,Washington,Vancouver,Clark,75,94.67,92,1.33,0,5.33,45.7132985,-122.6552134
+483,Green Park Elementary,Washington,Walla Walla,Walla Walla,56,94.64,92.86,3.57,0,1.79,46.0743433,-118.3224654
+484,North Hill Elementary,Washington,Burien,King,93,94.62,90.32,0,0,5.38,47.4366778,-122.327926
+485,Oak Heights Elementary,Washington,Lynnwood,Snohomish,93,94.62,91.4,1.08,0,4.3,47.8582314,-122.2585703
+486,Valley View Elementary,Washington,Ellensburg,Kittitas,93,94.62,93.55,0,0,2.15,46.9941216,-120.5223489
+487,Brier Elementary,Washington,Brier,Snohomish,74,94.59,89.19,1.35,0,1.35,47.7889331,-122.282263
+488,Woodland Elementary,Washington,Puyallup,Pierce,92,94.57,92.39,2.17,1.09,1.09,47.1556651,-122.3255222
+489,Balboa Elementary,Washington,Spokane,Spokane,55,94.55,94.55,0,0,3.64,47.7183342,-117.4560067
+490,Kapowsin Elementary,Washington,Graham,Pierce,55,94.55,92.73,0,0,3.64,47.0155659,-122.2921352
+491,Lyon Elementary,Washington,Tacoma,Pierce,55,94.55,90.91,0,0,3.64,47.21584,-122.430497
+492,Ordway Elementary,Washington,Bainbridge Island,Kitsap,73,94.52,87.67,0,0,6.85,47.639617,-122.5222175
+493,Hilltop Elementary,Washington,Lynnwood,Snohomish,91,94.51,91.21,0,0,3.3,47.8127421,-122.2421841
+494,Green Mountain Elementary,Washington,Bremerton,Kitsap,72,94.44,91.67,2.78,0,2.78,47.5985997,-122.8197904
+495,Home Education Exchange,Washington,Shoreline,King,18,94.44,83.33,5.56,0,5.56,47.7744581,-122.2999363
+496,Manchester Elementary,Washington,PORT ORCHARD,Kitsap,54,94.44,92.59,1.85,0,3.7,47.5512216,-122.5554675
+497,Montessori School Of Yakima,Washington,Yakima,Yakima,18,94.44,94.44,0,0,5.56,46.6063457,-120.5666373
+498,St. Mary Magdalen,Washington,Everett,Snohomish,36,94.44,94.44,0,0,5.56,47.9197937,-122.2221185
+499,St. Monica,Washington,Mercer Island,King,18,94.44,94.44,5.56,0,0,47.5693913,-122.2224449
+500,Union Ridge Elementary,Washington,Ridgefield,Clark,125,94.4,92.8,2.4,1.6,2.4,45.817893,-122.742045
+501,Centennial Elementary,Washington,Olympia,Thurston,71,94.37,88.73,1.41,0,5.63,47.0049621,-122.862304
+502,East Hill Elementary,Washington,Kent,King,71,94.37,91.55,0,0,1.41,47.386068,-122.2081824
+503,Lake Spokane Elementary,Washington,Nine Mile Falls,Spokane,71,94.37,88.73,0,0,4.23,47.8178277,-117.5840183
+504,Parkwood Elementary,Washington,Shoreline,King,71,94.37,92.96,0,0,2.82,47.7406034,-122.3364097
+505,Yelm Prairie Elementary,Washington,Yelm,Thurston,71,94.37,90.14,1.41,0,7.04,46.9261903,-122.5884398
+506,Kettle Falls Elementary,Washington,Kettle Falls,Stevens,53,94.34,86.79,1.89,0,3.77,48.6063372,-118.0554314
+507,Jefferson Elementary,Washington,Everett,Snohomish,88,94.32,90.91,0,0,6.82,47.9162792,-122.1988141
+508,Acme Elementary,Washington,Acme,Whatcom,35,94.29,88.57,0,2.86,2.86,48.7187827,-122.208827
+509,Collins Elementary,Washington,Tacoma,Pierce,70,94.29,91.43,0,0,4.29,47.1393078,-122.3670764
+510,Meredith Hill Elementary,Washington,Auburn,King,70,94.29,85.71,0,0,5.71,47.3338713,-122.2615799
+511,Robert Gray Elementary,Washington,Longview,Cowlitz,70,94.29,94.29,2.86,0,2.86,46.1711977,-122.9924261
+512,Ardmore Elementary,Washington,Bellevue,King,87,94.25,90.8,0,0,0,47.63941,-122.117638
+513,Gilbert Elementary,Washington,Yakima,Yakima,87,94.25,90.8,0,0,1.15,46.6042263,-120.5681017
+514,Muckleshoot Tribal,Washington,Auburn,King,52,94.23,80.77,1.92,0,0,47.2517197,-122.1153222
+515,Orca K-8,Washington,Seattle,King,52,94.23,86.54,0,0,0,47.5546307,-122.2759658
+516,Terrace Park,Washington,Mountlake Terrace,Snohomish,52,94.23,92.31,0,1.92,3.85,47.792928,-122.3069506
+517,Wilson Elementary,Washington,Spokane,Spokane,52,94.23,92.31,3.85,0,0,47.631316,-117.425715
+518,Hidden Creek Elementary,Washington,Port Orchard,Kitsap,69,94.2,91.3,1.45,0,4.35,47.498782,-122.6195643
+519,Kimball Elementary,Washington,Seattle,King,86,94.19,90.7,0,0,1.16,47.5743598,-122.3026743
+520,Carter Lake Elementary,Washington,Lakewood,Pierce,119,94.12,93.28,0,0,0,47.1286087,-122.5219099
+521,Covington Elementary,Washington,Covington,King,68,94.12,89.71,0,0,2.94,47.3707651,-122.135013
+522,Edmonds Elementary,Washington,Edmonds,Snohomish,51,94.12,90.2,1.96,0,5.88,47.8200809,-122.3629174
+523,Gateway Christian Schools,Washington,Poulsbo,Kitsap,17,94.12,70.59,0,0,11.76,47.734186,-122.640054
+524,Liberty Elementary,Washington,Marysville,Snohomish,68,94.12,92.65,2.94,1.47,1.47,48.0583455,-122.168983
+525,Our Lady Star Of The Sea,Washington,Bremerton,Kitsap,17,94.12,94.12,0,0,5.88,47.5668316,-122.6392373
+526,Progress Elementary,Washington,Veradale,Spokane,51,94.12,90.2,0,0,3.92,47.663306,-117.2009475
+527,Three Points Elementary,Washington,Medina,King,17,94.12,94.12,5.88,0,0,47.6360558,-122.2358055
+528,Dieringer Heights Elementary,Washington,Lake Tapps,Pierce,135,94.07,90.37,0.74,0.74,1.48,47.227436,-122.1370631
+529,James Mcgee Elementary,Washington,Pasco,Franklin,84,94.05,92.86,0,0,3.57,46.2681869,-119.1422816
+530,Lake Dolloff Elementary,Washington,Auburn,King,234,94.02,93.59,0,0.43,2.14,47.3279827,-122.2803384
+531,Gause Elementary,Washington,Washougal,Clark,50,94,90,0,0,8,45.5846512,-122.3315607
+532,Rochester Primary,Washington,Rochester,Thurston,183,93.99,90.71,0,0,2.73,46.7942131,-123.0407038
+533,Asotin Elementary,Washington,Asotin,Asotin,33,93.94,90.91,3.03,0,0,46.3406018,-117.0502441
+534,Fawcett Elementary,Washington,Tacoma,Pierce,66,93.94,87.88,0,1.52,0,47.2023112,-122.4294398
+535,Kent Prairie Elementary,Washington,Arlington,Snohomish,99,93.94,90.91,1.01,0,3.03,48.1834334,-122.1195065
+536,Ahtanum Valley Elementary,Washington,Yakima,Yakima,49,93.88,91.84,0,0,0,46.548915,-120.6509718
+537,Big Lake Elementary,Washington,Mount Vernon,Skagit,49,93.88,93.88,0,0,4.08,48.4020461,-122.2412283
+538,Columbia Heights Elementary,Washington,Longview,Cowlitz,49,93.88,93.88,4.08,0,2.04,46.156184,-122.9384991
+539,Indian Trail Elementary,Washington,Spokane,Spokane,49,93.88,87.76,2.04,0,6.12,47.7213299,-117.4731005
+540,Alki Elementary,Washington,Seattle,King,65,93.85,90.77,0,0,1.54,47.5773358,-122.4078267
+541,Crownhill Elementary,Washington,Bremerton,Kitsap,65,93.85,87.69,0,0,3.08,47.5750705,-122.6654167
+542,Finch Elementary,Washington,Spokane,Spokane,65,93.85,93.85,0,1.54,3.08,47.6922494,-117.4529986
+543,North Star Elementary,Washington,Graham,Pierce,81,93.83,92.59,0,1.23,1.23,47.054683,-122.3282573
+544,Thompson Elementary,Washington,Grandview,Yakima,81,93.83,80.25,0,0,0,46.2557251,-119.9169693
+545,Silver Firs Elementary,Washington,Everett,Snohomish,97,93.81,91.75,0,0,3.09,47.866407,-122.152647
+546,Castle Rock Primary,Washington,Castle Rock,Cowlitz,96,93.75,88.54,0,0,4.17,46.2705311,-122.9050921
+547,Fernwood Elementary,Washington,Bothell,King,48,93.75,89.58,0,0,6.25,47.8201059,-122.1794533
+548,Gardner,Washington,Vancouver,Clark,16,93.75,75,0,0,25,45.7407865,-122.6196849
+549,Hawthorne Elementary,Washington,Seattle,King,64,93.75,82.81,0,0,0,47.5656102,-122.2835196
+550,Inchelium Elementary,Washington,Inchelium,Ferry,16,93.75,87.5,0,0,0,48.3019338,-118.1991116
+551,Lowell Elementary,Washington,Tacoma,Pierce,64,93.75,93.75,1.56,0,4.69,47.2675231,-122.4659859
+552,Moses Lake Christian Academy,Washington,Moses Lake,Grant,16,93.75,87.5,0,0,0,47.1146615,-119.2533803
+553,Firgrove Elementary,Washington,Puyallup,Pierce,111,93.69,90.99,0.9,0.9,1.8,47.1311038,-122.2942714
+554,Peter G Schmidt Elem,Washington,Tumwater,Thurston,111,93.69,91.89,0,0,5.41,46.988073,-122.9047901
+555,Rainier Elementary,Washington,JBLM LEWIS MCCHORD,Pierce,111,93.69,82.88,1.8,0.9,0,47.0843671,-122.6035574
+556,Rock Creek Elementary,Washington,Maple Valley,King,95,93.68,88.42,0,0,3.16,47.3719719,-122.0214974
+557,Berney Elementary,Washington,Walla Walla,Walla Walla,63,93.65,90.48,0,0,3.17,46.0612128,-118.3003085
+558,North Beach Elementary,Washington,Seattle,King,63,93.65,88.89,0,0,3.17,47.6948491,-122.3871534
+559,Sunrise Elementary,Washington,Puyallup,Pierce,63,93.65,88.89,0,0,1.59,47.155295,-122.2626287
+560,Emerson Elementary,Washington,Everett,Snohomish,110,93.64,90,0,0,5.45,47.9191393,-122.2236165
+561,Lacey Elementary,Washington,Lacey,Thurston,94,93.62,87.23,1.06,1.06,0,47.0295493,-122.803346
+562,Pioneer Elementary,Washington,Olympia,Thurston,78,93.59,82.05,1.28,1.28,8.97,47.019128,-122.8791725
+563,Mountain View Elementary,Washington,Quincy,Grant,109,93.58,91.74,0,0,0,47.242599,-119.856303
+564,Amistad Elementary,Washington,Kennewick,Benton,93,93.55,89.25,0,0,0,46.2075322,-119.1312146
+565,Grant Elementary,Washington,Spokane,Spokane,62,93.55,83.87,6.45,1.61,3.23,47.646822,-117.3909699
+566,Elk Plain School Of Choice,Washington,Spanaway,Pierce,46,93.48,86.96,2.17,0,8.7,47.0566356,-122.3991315
+567,Frantz Coe Elementary,Washington,Seattle,King,92,93.48,92.39,2.17,0,3.26,47.6407104,-122.365636
+568,Garden Heights Elementary,Washington,Moses Lake,Grant,92,93.48,93.48,0,0,6.52,47.1157256,-119.2652769
+569,Mcmicken Heights Elementary,Washington,SeaTac,King,92,93.48,89.13,0,0,0,47.45328,-122.285632
+570,Newcastle Elementary,Washington,Newcastle,King,107,93.46,91.59,0,0,4.67,47.5265466,-122.1599118
+571,Discovery Elementary,Washington,Everett,Snohomish,61,93.44,91.8,0,0,3.28,47.8923377,-122.2334863
+572,Harney Elementary,Washington,Vancouver,Clark,122,93.44,86.07,0.82,0,3.28,45.6264167,-122.6354065
+573,Daffodil Valley Elementary,Washington,Sumner,Pierce,76,93.42,90.79,0,0,5.26,47.2078879,-122.2277389
+574,Bonney Lake Elementary,Washington,Bonney Lake,Pierce,91,93.41,84.62,1.1,0,3.3,47.18457,-122.178234
+575,Woodburn Elementary,Washington,Camas,Clark,91,93.41,93.41,2.2,0,3.3,45.6031952,-122.3861497
+576,Neely O Brian Elementary,Washington,Kent,King,121,93.39,84.3,1.65,0.83,0,47.3914872,-122.2565516
+577,Cedar River Montessori,Washington,Renton,King,15,93.33,86.67,0,0,0,47.466985,-122.1279325
+578,Colbert Elementary,Washington,Colbert,Spokane,60,93.33,91.67,0,0,5,47.8087622,-117.3426959
+579,Meadow Ridge Elementary,Washington,Mead,Spokane,60,93.33,90,0,0,6.67,47.7995624,-117.3591728
+580,Meridian Elementary,Washington,Kent,King,90,93.33,87.78,2.22,0,2.22,47.3717357,-122.1557771
+581,Norman Rockwell Elementary,Washington,Redmond,King,105,93.33,87.62,0.95,0,0.95,47.699306,-122.12509
+582,Shaw Road Elementary,Washington,Puyallup,Pierce,90,93.33,91.11,1.11,0,3.33,47.181911,-122.2581207
+583,South Colby Elementary,Washington,Port Orchard,Kitsap,60,93.33,91.67,1.67,0,3.33,47.5182234,-122.5447743
+584,Stevens Elementary,Washington,Seattle,King,45,93.33,93.33,0,0,2.22,47.631449,-122.307625
+585,University Cooperative,Washington,Seattle,King,15,93.33,80,0,0,13.33,47.6696484,-122.3133685
+586,Willapa Elementary,Washington,Menlo,Pacific,30,93.33,90,0,0,6.67,46.6757354,-123.6650814
+587,Thornton Creek Elementaryoo,Washington,Seattle,King,104,93.27,84.62,0,0,3.85,47.6856334,-122.2825499
+588,Madrona Elementary,Washington,SeaTac,King,89,93.26,86.52,0,0,0,47.4201549,-122.2930376
+589,Millennium Elementary,Washington,Kent,King,89,93.26,91.01,0,0,3.37,47.358609,-122.1805678
+590,Franklin Elementary,Washington,Pullman,Whitman,74,93.24,93.24,0,0,2.7,46.7173694,-117.1708155
+591,Lydia Hawk Elementary,Washington,Lacey,Thurston,74,93.24,89.19,0,0,5.41,47.0474799,-122.7775623
+592,Mann Elementary,Washington,Redmond,King,74,93.24,82.43,1.35,0,2.7,47.6917902,-122.1130451
+593,Tiffany Park Elementary,Washington,RENTON,King,74,93.24,89.19,1.35,0,2.7,47.4651021,-122.1782256
+594,Frost Elementary,Washington,Kirkland,King,59,93.22,86.44,0,0,1.69,47.7245194,-122.1835416
+595,Centennial Elementary,Washington,Mount Vernon,Skagit,103,93.2,88.35,0.97,0.97,0.97,48.4422999,-122.3002977
+596,Clark Elementary,Washington,Issaquah,King,103,93.2,91.26,0.97,0,6.8,47.5266694,-122.0351103
+597,Grant Elementary,Washington,Tacoma,Pierce,44,93.18,86.36,2.27,2.27,4.55,47.2528969,-122.5234577
+598,Enterprise Elementary,Washington,Federal Way,King,73,93.15,87.67,0,0,5.48,47.2870605,-122.3417379
+599,Silverdale Elementary,Washington,Silverdale,Kitsap,73,93.15,91.78,0,0,2.74,47.6436776,-122.7182129
+600,Sultan Elementary,Washington,Sultan,Snohomish,102,93.14,86.27,0,0,0,47.866116,-121.8150385
+601,Elk Ridge Elementary,Washington,Buckley,Pierce,87,93.1,86.21,4.6,0,6.9,47.166462,-122.0175993
+602,Kessler Elementary,Washington,Longview,Cowlitz,58,93.1,91.38,0,0,0,46.1311303,-122.9452217
+603,Mcgilvra Elementary,Washington,Seattle,King,29,93.1,86.21,0,0,0,47.633989,-122.28482
+604,Southwood Elementary,Washington,Enumclaw,King,58,93.1,84.48,1.72,0,8.62,47.1875715,-122.0116405
+605,Twin Lakes Elementary,Washington,Federal Way,King,58,93.1,89.66,0,0,3.45,47.3163596,-122.3879786
+606,Campbell Hill Elementary,Washington,SEATTLE,King,72,93.06,90.28,2.78,0,1.39,47.492486,-122.253072
+607,Lawton Elementary,Washington,Seattle,King,86,93.02,88.37,0,0,0,47.6567429,-122.3903984
+608,Wildwood Elementary,Washington,Federal Way,King,86,93.02,84.88,0,0,2.33,47.3325186,-122.3014328
+609,Lister Elementary,Washington,Tacoma,Pierce,57,92.98,89.47,0,0,0,47.2157488,-122.4001676
+610,Lakeview Terrace Elementary,Washington,Moses Lake,Grant,71,92.96,92.96,1.41,1.41,1.41,47.1240385,-119.2586147
+611,Meadowdale Elementary,Washington,Lynnwood,Snohomish,71,92.96,91.55,0,1.41,5.63,47.847645,-122.3212048
+612,Sunrise Elementary,Washington,Kent,King,88,92.96,95.45,0,0,2.27,47.4032467,-122.1641731
+613,Sunrise Elementary,Washington,Redmond,King,47,92.96,93.62,2.13,0,0,47.728022,-122.10869
+614,Sunrise Elementary,Washington,Enumclaw,King,71,92.96,90.14,1.41,0,1.41,47.1858408,-122.0149863
+615,Seattle Hill Elementary,Washington,Everett,Snohomish,85,92.94,85.88,2.35,0,7.06,47.8823052,-122.1612858
+616,Woodridge Elementary,Washington,Bellevue,King,113,92.92,84.07,4.42,0,1.77,47.5921231,-122.1720457
+617,North Omak Elementary,Washington,Omak,Okanogan,169,92.9,87.57,0.59,0,2.96,48.418545,-119.5181651
+618,Cape Horn Skye Elementary,Washington,Washougal,Clark,42,92.86,83.33,14.29,2.38,0,45.6100099,-122.2334014
+619,Cedar Way Elementary,Washington,Mountlake Terrace,Snohomish,84,92.86,80.95,1.19,0,2.38,47.7970056,-122.2877777
+620,Eastside Christian,Washington,Bellevue,King,28,92.86,82.14,0,0,3.57,47.590207,-122.145261
+621,Farwell Elementary,Washington,Spokane,Spokane,98,92.86,87.76,0,0,7.14,47.7757305,-117.3803819
+622,Forks Elementary,Washington,Forks,Clallam,84,92.86,88.1,7.14,0,2.38,47.947282,-124.378854
+623,Grove Elementary,Washington,Marysville,Snohomish,84,92.86,90.48,0,0,5.95,48.0638676,-122.1433424
+624,Hallett Elementary,Washington,Medical Lake,Spokane,70,92.86,88.57,1.43,0,5.71,47.5685065,-117.6786344
+625,Hilder Pearson Elementary,Washington,Poulsbo,Kitsap,56,92.86,92.86,1.79,0,1.79,47.7046882,-122.6539414
+626,Mullan Road Elementary,Washington,Spokane,Spokane,98,92.86,90.82,2.04,0,5.1,47.5961389,-117.3720945
+627,Oroville Elementary,Washington,OROVILLE,Okanogan,42,92.86,85.71,0,0,2.38,48.9322229,-119.4372773
+628,Ritzville Elementary,Washington,Ritzville,Adams,28,92.86,85.71,3.57,0,0,47.1260163,-118.3700323
+629,Robert Gray Elementary,Washington,Aberdeen,Grays Harbor,42,92.86,92.86,0,0,0,46.98659,-123.813193
+630,Shelton View Elementary,Washington,Bothell,King,84,92.86,86.9,0,0,0,47.78557,-122.239596
+631,St. Madeleine Sophie,Washington,Bellevue,King,14,92.86,92.86,0,0,7.14,47.566313,-122.1659878
+632,Whole Earth Montessori,Washington,Bothell,King,28,92.86,92.86,0,0,7.14,47.7904575,-122.1935417
+633,Christensen Elementary,Washington,Tacoma,Pierce,83,92.77,83.13,0,0,2.41,47.1636187,-122.4466073
+634,Helen Baller Elementary,Washington,Camas,Clark,83,92.77,90.36,1.2,1.2,6.02,45.5943341,-122.4022114
+635,Purdy Elementary,Washington,Gig Harbor,Pierce,83,92.77,89.16,1.2,0,7.23,47.38411,-122.619848
+636,Fall City Elementary,Washington,Fall City,King,69,92.75,88.41,2.9,0,4.35,47.5694048,-121.8961473
+637,Fryelands Elementary,Washington,Monroe,Snohomish,69,92.75,91.3,0,0,1.45,47.8588092,-122.0118494
+638,Hamblen Elementary,Washington,Spokane,Spokane,69,92.75,89.86,2.9,0,2.9,47.6178135,-117.3801703
+639,Reed Elementary,Washington,Tacoma,Pierce,69,92.75,88.41,0,0,2.9,47.2255609,-122.4612019
+640,Elma Elementary,Washington,Elma,Grays Harbor,110,92.73,90.91,0,0,2.73,47.004207,-123.43415
+641,Esquire Hills Elementary,Washington,Bremerton,Kitsap,55,92.73,89.09,1.82,0,0,47.6331225,-122.6149519
+642,Thurgood Marshall Elementary,Washington,Seattle,King,55,92.73,85.45,0,0,0,47.590961,-122.299264
+643,Eastgate Elementary,Washington,Kennewick,Benton,96,92.71,88.54,0,0,3.13,46.197301,-119.102676
+644,East Port Orchard Elementary,Washington,Port Orchard,Kitsap,82,92.68,91.46,4.88,0,2.44,47.524236,-122.626884
+645,Honey Dew Elementary,Washington,RENTON,King,82,92.68,89.02,0,0,1.22,47.496292,-122.1636933
+646,Olivia Park Elementary,Washington,Everett,Snohomish,41,92.68,92.68,0,0,4.88,47.8991348,-122.236618
+647,Discovery Primary,Washington,Milton,Pierce,300,92.67,88.67,0.33,0.33,7.33,47.2485663,-122.310072
+648,Hilton Elementary,Washington,Zillah,Yakima,95,92.63,90.53,1.05,0,1.05,46.406559,-120.265691
+649,Lakeland Hills Elementary,Washington,Auburn,King,122,92.62,92.62,0,0,4.92,47.2543536,-122.2155243
+650,Enatai Elementary,Washington,Bellevue,King,81,92.59,87.65,0,0,2.47,47.5891019,-122.1983547
+651,Richard Gordon Elementary,Washington,Kingston,Kitsap,81,92.59,87.65,1.23,0,6.17,47.80261,-122.5166507
+652,Black Lake Elementary,Washington,Olympia,Thurston,67,92.54,85.07,0,0,7.46,46.9908519,-122.967245
+653,John Newbery Elementary,Washington,Wenatchee,Chelan,67,92.54,92.54,0,0,7.46,47.4325819,-120.347863
+654,Sheridan Elementary,Washington,Spokane,Spokane,67,92.54,92.54,0,0,7.46,47.6523888,-117.3555753
+655,Pioneer Elementary,Washington,Quincy,Grant,107,92.52,90.65,0,0,0,47.2298717,-119.8491612
+656,Fruit Valley Elementary,Washington,Vancouver,Clark,40,92.5,90,0,0,2.5,45.6473717,-122.6930333
+657,Arlington Elementary,Washington,Spokane,Spokane,106,92.45,92.45,0,0.94,6.6,47.7154409,-117.3728198
+658,Elizabeth Blackwell Element,Washington,Sammamish,King,66,92.42,87.88,0,1.52,1.52,47.6391356,-122.0670569
+659,Mill Pond Elementary,Washington,Yelm,Thurston,79,92.41,89.87,1.27,1.27,3.8,46.9337093,-122.6132899
+660,Shorewood Elementary,Washington,Burien,King,79,92.41,88.61,0,1.27,2.53,47.4985032,-122.3678272
+661,Moorlands Elementary,Washington,Kenmore,King,92,92.39,91.3,3.26,0,1.09,47.7386617,-122.2310014
+662,Michael T Simmons Elementary,Washington,Tumwater,Thurston,105,92.38,86.67,2.86,0,8.57,47.005676,-122.9123524
+663,Adelaide Elementary,Washington,Federal Way,King,52,92.31,75,1.92,0,1.92,47.3287207,-122.3563999
+664,Arbor Schools (Eastside Montessori Education Foundation),Washington,Sammamish,King,13,92.31,84.62,0,0,7.69,47.5996923,-122.0361285
+665,Garfield Elementary,Washington,Spokane,Spokane,78,92.31,85.9,3.85,0,2.56,47.677084,-117.414719
+666,Island View Elementary,Washington,Anacortes,Skagit,39,92.31,89.74,0,0,7.69,48.5017418,-122.621541
+667,Kirkland Sda,Washington,Kirkland,King,13,92.31,92.31,0,0,0,47.6560905,-122.1952919
+668,Montessori At Samish Woods,Washington,Bellingham,Whatcom,13,92.31,84.62,7.69,0,169.23,48.7222068,-122.4701911
+669,Ocean Shores Elementary,Washington,Ocean Shores,Grays Harbor,39,92.31,84.62,0,0,0,46.9780749,-124.154814
+670,Pe Ell,Washington,Pe Ell,Lewis,26,92.31,88.46,3.85,3.85,0,46.5748242,-123.2990332
+671,Seven Oaks Elementary,Washington,Lacey,Thurston,65,92.31,84.62,1.54,0,1.54,47.0286859,-122.7713125
+672,Snoqualmie Elementary,Washington,Snoqualmie,King,78,92.31,88.46,0,0,6.41,47.5232942,-121.8101192
+673,Spring Valley Montessori,Washington,Federal Way,King,13,92.31,92.31,0,0,7.69,47.2737173,-122.3291485
+674,St. John Elementary,Washington,Saint John,Whitman,13,92.31,92.31,0,0,7.69,47.0878907,-117.5880965
+675,St. Vincent De Paul,Washington,Federal Way,King,26,92.31,92.31,0,0,7.69,47.327577,-122.324978
+676,Wilder Elementary,Washington,Woodinville,King,104,92.31,88.46,0.96,0,2.88,47.7194796,-122.0415278
+677,Benson Hill Elementary,Washington,RENTON,King,90,92.22,87.78,0,2.22,1.11,47.434863,-122.1878512
+678,Lynden Christian Schools,Washington,Lynden,Whatcom,77,92.21,90.91,0,0,7.79,48.9488385,-122.4465698
+679,Mc Donald Elementary,Washington,Seattle,King,77,92.21,87.01,0,0,1.3,47.668267,-122.3265516
+680,Olympic View Elementary,Washington,Seattle,King,77,92.21,85.71,0,0,0,47.6982079,-122.3212309
+681,Olympic View Elementary,Washington,Federal Way,King,74,92.21,83.78,0,0,5.41,47.3095343,-122.3671391
+682,Columbia Elementary,Washington,Mukilteo,Snohomish,64,92.19,84.38,0,0,9.38,47.9025854,-122.3042705
+683,Assumption St. Bridget,Washington,Seattle,King,51,92.16,90.2,0,0,1.96,47.6748938,-122.2927737
+684,Echo Lake Elementary,Washington,Shoreline,King,51,92.16,88.24,0,0,9.8,47.7700612,-122.3399563
+685,Edwin Markham Elementary,Washington,Pasco,Franklin,51,92.16,90.2,0,0,5.88,46.430084,-119.1978861
+686,Everson Elementary,Washington,Everson,Whatcom,51,92.16,86.27,0,0,1.96,48.909744,-122.3602627
+687,Montlake Elementary,Washington,Seattle,King,51,92.16,90.2,0,0,3.92,47.6406408,-122.3046676
+688,Captain Strong Primary,Washington,Battle Ground,Clark,140,92.14,90,0,0,7.14,45.7885229,-122.5449851
+689,Jefferson Elementary,Washington,Port Angeles,Clallam,38,92.11,89.47,0,0,5.26,48.107862,-123.4399761
+690,Regal Elementary,Washington,Spokane,Spokane,76,92.11,85.53,1.32,2.63,5.26,47.697686,-117.36952
+691,Roosevelt Elementary,Washington,Spokane,Spokane,76,92.11,90.79,0,1.32,6.58,47.6421874,-117.4144905
+692,St. Joseph,Washington,Seattle,King,38,92.11,92.11,0,0,0,47.625841,-122.308109
+693,Vinland Elementary,Washington,Poulsbo,Kitsap,101,92.08,89.11,1.98,0,1.98,47.7635464,-122.6739455
+694,Glenridge Elementary,Washington,Renton,King,63,92.06,90.48,0,0,3.17,47.428305,-122.1827745
+695,Kennydale Elementary,Washington,RENTON,King,126,92.06,90.48,0.79,0.79,6.35,47.5171955,-122.1968453
+696,Wallace Elementary,Washington,Kelso,Cowlitz,63,92.06,88.89,0,0,6.35,46.1348552,-122.9124591
+697,Cascade View Elementary,Washington,Snoqualmie,King,88,92.05,88.64,0,0,5.68,47.5322042,-121.8756229
+698,Cascade View Elementary,Washington,Tukwila,King,88,92.05,87.5,0,0,2.27,47.4814011,-122.2930996
+699,Mountain Meadow Elementary,Washington,Buckley,Pierce,88,92.05,90.91,1.14,0,7.95,47.1504835,-122.0597866
+700,Sage Crest Elementary,Washington,Kennewick,Benton,88,92.05,89.77,2.27,1.14,5.68,46.1744727,-119.2079985
+701,Crystal Springs Elementary,Washington,Bothell,King,113,92.04,87.61,2.65,0,7.08,47.8010301,-122.2200626
+702,Heights Elementary,Washington,Clarkston,Asotin,50,92,90,2,0,2,46.3926427,-117.0782894
+703,Lidgerwood Elementary,Washington,Spokane,Spokane,50,92,86,8,0,0,47.7083699,-117.4047482
+704,Madrona K-8,Washington,Seattle,King,50,92,88,0,0,0,47.612342,-122.290859
+705,Maywood Hills Elementary,Washington,Bothell,King,100,92,86,0,0,0,47.7697802,-122.197808
+706,St. Patrick,Washington,Tacoma,Pierce,25,92,92,0,0,0,47.2681628,-122.4637979
+707,St. Paul's Academy,Washington,Bellingham,Whatcom,25,92,92,0,0,8,48.770428,-122.4906524
+708,Star Lake Elementary,Washington,Kent,King,75,92,84,0,0,2.67,47.3602483,-122.2826761
+709,Tonasket Elementary,Washington,Tonasket,Okanogan,75,92,88,0,0,2.67,48.7020809,-119.4321201
+710,Beacon Hill International,Washington,Seattle,King,62,91.94,88.71,0,0,0,47.5850774,-122.3153293
+711,Marshall Elementary,Washington,Marysville,Snohomish,62,91.94,88.71,1.61,0,3.23,48.1011663,-122.1725012
+712,Thorndyke Elementary,Washington,Tukwila,King,62,91.94,85.48,0,0,4.84,47.4680715,-122.2766388
+713,Boston Harbor Elementary,Washington,Olympia,Thurston,37,91.89,81.08,2.7,0,2.7,47.135651,-122.884819
+714,Chase Lake Elementary,Washington,Edmonds,Snohomish,74,91.89,85.14,0,0,0,47.8032058,-122.3450661
+715,Hrrs - Juan Diego Academy,Washington,Tacoma,Pierce,37,91.89,91.89,0,0,8.11,47.2332759,-122.4391101
+716,John Campbell Primary,Washington,Selah,Yakima,259,91.89,84.94,0,0,1.16,46.6582437,-120.5311183
+717,Mount Erie Elementary,Washington,Anacortes,Skagit,37,91.89,83.78,0,0,8.11,48.4873381,-122.6187508
+718,Foothills Elementary,Washington,Buckley,Pierce,123,91.87,90.24,4.88,0,3.25,47.160053,-122.1156603
+719,South Ridge Elementary,Washington,Ridgefield,Clark,123,91.87,87.8,1.63,0.81,4.88,45.76593,-122.67515
+720,Madison Elementary,Washington,Mount Vernon,Skagit,86,91.86,88.37,4.65,0,2.33,48.4293934,-122.3286796
+721,Concord International,Washington,Seattle,King,49,91.84,87.76,0,0,2.04,47.5236803,-122.3249384
+722,Westview Elementary,Washington,Spokane,Spokane,61,91.8,80.33,0,0,11.48,47.7136841,-117.4646878
+723,Tumwater Hill Elementary,Washington,Tumwater,Thurston,73,91.78,80.82,0,0,1.37,47.0160259,-122.923853
+724,Bear Creek Elementary,Washington,Woodinville,King,24,91.67,79.17,0,0,8.33,47.7597036,-122.080778
+725,Broadview-Thomson K_8,Washington,Seattle,King,72,91.67,86.11,0,0,0,47.7247913,-122.3549098
+726,Community Christian Academy,Washington,Lacey,Thurston,24,91.67,87.5,0,0,12.5,47.0515781,-122.8209873
+727,Der Kinderhuis Montessori,Washington,Oak Harbor,Island,12,91.67,83.33,0,0,0,48.2908887,-122.6492643
+728,Hutton Elementary,Washington,Spokane,Spokane,84,91.67,91.67,1.19,0,7.14,47.6324226,-117.3959918
+729,Maple Elementary,Washington,Seattle,King,96,91.67,87.5,0,0,1.04,47.5580872,-122.3189683
+730,Mcdermoth Elementary,Washington,Aberdeen,Grays Harbor,48,91.67,89.58,0,0,0,46.9770648,-123.8235677
+731,N.E. Tacoma Elementary,Washington,Tacoma,Pierce,60,91.67,86.67,0,0,8.33,47.281841,-122.374582
+732,Pomeroy Elementary,Washington,Pomeroy,Garfield,24,91.67,87.5,0,0,8.33,46.4728634,-117.5968123
+733,Vossbeck Elementary,Washington,Lynden,Whatcom,84,91.67,83.33,1.19,0,2.38,48.9590684,-122.4268846
+734,Woodside Elementary,Washington,Everett,Snohomish,107,91.59,87.85,0,0,2.8,47.8432728,-122.2037843
+735,Evergreen Forest Elementary,Washington,Lacey,Thurston,95,91.58,83.16,1.05,0,1.05,47.0198517,-122.7594407
+736,"John """"""""Bud"""""""" Hawk At Jackson Park Elementary",Washington,Bremerton,Kitsap,83,91.57,86.75,2.41,1.2,3.61,47.592205,-122.69637
+737,North Bend Elementary,Washington,North Bend,King,83,91.57,89.16,1.2,0,6.02,47.493937,-121.7814237
+738,Woodland Primary,Washington,Woodland,Cowlitz,166,91.57,88.55,3.61,0,6.63,45.9029267,-122.7529609
+739,Lake Shore Elementary,Washington,Vancouver,Clark,71,91.55,85.92,2.82,0,9.86,45.6888145,-122.6942761
+740,Mint Valley Elementary,Washington,Longview,Cowlitz,71,91.55,90.14,0,0,4.23,46.1658237,-122.9740708
+741,Stevens Elementary,Washington,Spokane,Spokane,59,91.53,84.75,1.69,0,8.47,47.6713846,-117.3847244
+742,Graham Elementary,Washington,Graham,Pierce,106,91.51,89.62,0,0,4.72,47.0704605,-122.2967837
+743,Bordeaux Elementary,Washington,Shelton,Mason,94,91.49,88.3,0,0,2.13,47.2010659,-123.0982102
+744,Mclane Elementary,Washington,Olympia,Thurston,47,91.49,82.98,0,0,0,47.0437941,-122.9786643
+745,Pinewood Elementary,Washington,Marysville,Snohomish,82,91.46,89.02,3.66,0,3.66,48.0736274,-122.1608512
+746,Cedar Park Christian,Washington,Bothell,King,70,91.43,78.57,0,0,21.43,47.7467029,-122.1893656
+747,Seattle Christian,Washington,Seattle,King,35,91.43,85.71,0,0,2.86,47.4387,-122.272048
+748,John Rogers Elementary,Washington,Seattle,King,58,91.38,81.03,0,0,0,47.707118,-122.2847571
+749,Lincoln Elementary,Washington,Vancouver,Clark,58,91.38,82.76,5.17,3.45,0,45.6527268,-122.6761113
+750,Dick Scobee Elementary,Washington,Auburn,King,81,91.36,88.89,1.23,0,4.94,47.3209432,-122.2163309
+751,Woodmoor Elementary,Washington,Bothell,King,104,91.35,88.46,0,0,0.96,47.7412194,-122.176306
+752,Sunnycrest Elementary,Washington,Lake Stevens,Snohomish,127,91.34,87.4,0,0,3.94,48.0271408,-122.0971108
+753,Immaculate Conception Regional,Washington,Mount Vernon,Skagit,23,91.3,91.3,0,0,4.35,48.4220409,-122.3238461
+754,St. Thomas More,Washington,Lynnwood,Snohomish,23,91.3,91.3,0,0,0,47.8399907,-122.3207221
+755,Woodinville Montessori,Washington,Bothell,King,46,91.3,86.96,6.52,0,6.52,47.7668881,-122.1832561
+756,Mt View Elementary,Washington,Edgewood,Pierce,57,91.23,82.46,1.75,1.75,3.51,47.2260507,-122.2715472
+757,Washington Elementary,Washington,Vancouver,Clark,57,91.23,89.47,3.51,0,3.51,45.6438929,-122.6523933
+758,Lincoln Elementary,Washington,Ellensburg,Kittitas,91,91.21,84.62,0,0,3.3,46.9908438,-120.539816
+759,Brighton,Washington,Lynnwood,Snohomish,34,91.18,91.18,0,0,2.94,47.8015434,-122.3124006
+760,Glenwood Heights Primary,Washington,Vancouver,Clark,170,91.18,87.06,1.18,0.59,8.24,45.7190505,-122.5719576
+761,Ocosta Elementary,Washington,Westport,Grays Harbor,34,91.18,85.29,0,0,2.94,46.863819,-124.1017709
+762,Somerset Elementary,Washington,Bellevue,King,68,91.18,80.88,1.47,0,5.88,47.5633298,-122.1517677
+763,Prune Hill Elementary,Washington,Camas,Clark,79,91.14,89.87,0,3.8,6.33,45.5905653,-122.456038
+764,Wildwood Elementary,Washington,Puyallup,Pierce,79,91.14,87.34,1.27,0,1.27,47.1665172,-122.2733247
+765,Freeman Elementary,Washington,Rockford,Spokane,45,91.11,88.89,0,0,11.11,47.5177604,-117.1945569
+766,The Evergreen,Washington,Shoreline,King,45,91.11,75.56,0,0,6.67,47.7386013,-122.3351243
+767,Chimacum Creek Primary,Washington,Port Hadlock,Jefferson,56,91.07,83.93,0,1.79,3.57,48.0331602,-122.7743449
+768,La Center Elementary,Washington,La Center,Clark,112,91.07,85.71,1.79,0.89,5.36,45.861406,-122.6644609
+769,Longview Elementary,Washington,Moses Lake,Grant,67,91.04,88.06,1.49,0,2.99,47.1513599,-119.281883
+770,Northwood Elementary,Washington,Mercer Island,King,67,91.04,91.04,2.99,0,4.48,47.5738324,-122.2235118
+771,Rocky Ridge Elementary,Washington,Graham,Pierce,78,91.03,88.46,0,0,7.69,47.0198212,-122.3454559
+772,Cascade View Elementary,Washington,Snohomish,Snohomish,44,90.91,90.91,2.27,0,6.82,47.940604,-122.0869644
+773,Countryside Montessori,Washington,Kirkland,King,11,90.91,72.73,0,0,0,47.7223825,-122.2068696
+774,Davenport Elementary,Washington,Davenport,Lincoln,33,90.91,78.79,0,0,3.03,47.651456,-118.150263
+775,Island Christian Academy,Washington,Langley,Island,11,90.91,90.91,0,0,0,48.0145445,-122.4086916
+776,Jackson Elementary,Washington,Everett,Snohomish,66,90.91,86.36,1.52,0,3.03,47.9677125,-122.2184767
+777,Montessori Schools Of Snohomish Co.,Washington,Everett,Snohomish,11,90.91,90.91,0,0,9.09,47.922671,-122.208327
+778,Satsop Elementary,Washington,Satsop,Grays Harbor,11,90.91,90.91,0,0,0,47.0030704,-123.4804648
+779,Scenic Hill Elementary,Washington,Kent,King,99,90.91,78.79,1.01,2.02,3.03,47.3681103,-122.2114017
+780,Selkirk Elementary,Washington,Metaline Falls,Pend Oreille,22,90.91,90.91,0,0,4.55,48.8612025,-117.3742346
+781,St. Joseph,Washington,Chehalis,Lewis,11,90.91,81.82,0,0,0,46.6563724,-122.9607404
+782,Whitman Elementary,Washington,Tacoma,Pierce,55,90.91,85.45,1.82,0,1.82,47.2214121,-122.4484751
+783,Ilalko Elementary,Washington,Auburn,King,98,90.82,79.59,0,0,2.04,47.2639756,-122.22747
+784,Jenkins Creek Elementary,Washington,Covington,King,76,90.79,84.21,1.32,0,2.63,47.3604365,-122.0946361
+785,Madison Elementary,Washington,Everett,Snohomish,76,90.79,89.47,0,0,6.58,47.9411402,-122.2239786
+786,Olympic Hills Elementary,Washington,Seattle,King,76,90.79,80.26,0,0,1.32,47.7238444,-122.3067307
+787,Presidents Elementary,Washington,Arlington,Snohomish,76,90.79,84.21,0,0,6.58,48.1954732,-122.1202898
+788,Robert Frost Elementary,Washington,Pasco,Franklin,76,90.79,85.53,0,0,9.21,46.246581,-119.118545
+789,Sunnyside Elementary,Washington,Marysville,Snohomish,76,90.79,85.53,1.32,0,7.89,48.0299866,-122.1435258
+790,Cascade Elementary,Washington,Chehalis,Lewis,216,90.74,88.43,0.93,0,3.7,46.6590116,-122.9633513
+791,French-Am School Of Puget Sound,Washington,Mercer Island,King,54,90.74,55.56,3.7,1.85,1.85,47.5765852,-122.2071806
+792,Kittitas Elementary,Washington,Kittitas,Kittitas,54,90.74,87.04,0,0,1.85,46.9875483,-120.4201571
+793,Gildo Rey Elementary,Washington,Auburn,King,86,90.7,86.05,2.33,0,0,47.2782946,-122.2169888
+794,Weyerhaeuser Elementary,Washington,Eatonville,Pierce,43,90.7,86.05,2.33,0,2.33,46.924796,-122.3494181
+795,Kokanee Elementary,Washington,Woodinville,King,118,90.68,87.29,0.85,0,1.69,47.7821162,-122.1585486
+796,Basin City Elementary,Washington,Mesa,Franklin,64,90.63,75,0,0,0,46.5954123,-119.1533315
+797,Whittier Elementary,Washington,Everett,Snohomish,64,90.63,89.06,0,0,6.25,48.0043923,-122.2049376
+798,Adams Elementary,Washington,Seattle,King,85,90.59,88.24,0,0,1.18,47.6735182,-122.391681
+799,Hollywood Hill Elementary,Washington,Woodinville,King,53,90.57,86.79,0,0,9.43,47.7517748,-122.1391508
+800,Onalaska Elementary,Washington,Onalaska,Lewis,53,90.57,86.79,1.89,0,1.89,46.5812203,-122.7201283
+801,Cooper Elementary,Washington,Spokane,Spokane,74,90.54,81.08,2.7,0,10.81,47.6875257,-117.3584904
+802,Whitman Elementary,Washington,Spokane,Spokane,74,90.54,86.49,2.7,0,2.7,47.7066232,-117.3864011
+803,Rainier View Elementary,Washington,Seattle,King,49,90.53,89.8,0,0,0,47.4993303,-122.2632531
+804,Rainier View Elementary,Washington,Federal Way,King,95,90.53,85.26,0,0,4.21,47.2710292,-122.2944899
+805,Cascade Christian School Mcalder Elementary,Washington,Puyallup,Pierce,21,90.48,85.71,0,0,9.52,47.1689263,-122.2216473
+806,Graham Hill Elementary,Washington,Seattle,King,63,90.48,88.89,0,0,0,47.5458404,-122.2683764
+807,Lakeridge Elementary,Washington,Mercer Island,King,52,90.48,96.15,0,0,1.92,47.532043,-122.228572
+808,Lakeridge Elementary,Washington,SEATTLE,King,63,90.48,88.89,0,3.17,0,47.4998775,-122.2400729
+809,Prairie View Elementary,Washington,Spokane,Spokane,84,90.48,88.1,1.19,0,10.71,47.745078,-117.448309
+810,Prescott Elementary,Washington,Prescott,Walla Walla,21,90.48,80.95,0,0,0,46.2973614,-118.3202458
+811,Ridgewood Elementary,Washington,Renton,King,63,90.48,85.71,1.59,0,1.59,47.4404209,-122.1221423
+812,College Place Elementary,Washington,Lynnwood,Snohomish,73,90.41,80.82,1.37,0,0,47.8135399,-122.3345057
+813,Emerald Hills Elementary,Washington,Bonney Lake,Pierce,73,90.41,90.41,0,0,5.48,47.202006,-122.1688836
+814,Serene Lake Elementary,Washington,Edmonds,Snohomish,73,90.41,84.93,0,0,1.37,47.8720952,-122.2972877
+815,Margaret Mckenny Elementary,Washington,Olympia,Thurston,52,90.38,86.54,0,0,1.92,47.018999,-122.856124
+816,Tops K-8,Washington,Seattle,King,52,90.38,84.62,0,0,3.85,47.6425198,-122.324146
+817,Woodland Elementary,Washington,Lacey,Thurston,104,90.38,83.65,0,0,8.65,47.0059619,-122.7779
+818,Laurelhurst Elementary,Washington,Seattle,King,62,90.32,85.48,0,0,0,47.6622329,-122.2778793
+819,Maltby Elementary,Washington,Snohomish,Snohomish,62,90.32,85.48,1.61,0,8.06,47.804067,-122.1018177
+820,Marshall Elementary,Washington,Vancouver,Clark,62,90.32,88.71,1.61,0,4.84,45.6226342,-122.6059016
+821,Wilkeson Elementary,Washington,Buckley,Pierce,62,90.32,75.81,11.29,0,3.23,47.1031103,-122.0447725
+822,Muir Elementary,Washington,Kirkland,King,72,90.28,73.61,0,0,5.56,47.7267907,-122.1624626
+823,Trent,Washington,Spokane Valley,Spokane,72,90.28,86.11,4.17,0,6.94,47.6869109,-117.2405853
+824,Cornerstone Christian,Washington,Vancouver,Clark,41,90.24,78.05,0,0,14.63,45.7004924,-122.553866
+825,Daybreak Primary,Washington,Battle Ground,Clark,102,90.2,84.31,0.98,0,12.75,45.794536,-122.5603313
+826,Logan Elementary,Washington,Spokane,Spokane,51,90.2,90.2,0,0,7.84,47.6789346,-117.3952262
+827,Summit,Washington,Spokane Valley,Spokane,51,90.2,86.27,0,0,7.84,47.6647901,-117.2253613
+828,Stevenson Elementary,Washington,Stevenson,Skamania,61,90.16,86.89,1.64,0,3.28,45.7009965,-121.8874803
+829,Lincoln Heights Elementary,Washington,Spokane,Spokane,71,90.14,87.32,8.45,0,4.23,47.6340387,-117.3623297
+830,Meadow Ridge Elementary,Washington,Kent,King,71,90.14,84.51,0,0,5.63,47.3538395,-122.1961237
+831,Silver Lake Elementary,Washington,Federal Way,King,71,90.14,88.73,0,0,2.82,47.3105412,-122.3519907
+832,Fords Prairie Elementary,Washington,Centralia,Lewis,91,90.11,85.71,0,0,3.3,46.7348754,-122.9877805
+833,John Stanford International Elementary,Washington,Seattle,King,101,90.1,87.13,0.99,0,0.99,47.657251,-122.323859
+834,Pioneer Elementary,Washington,Arlington,Snohomish,101,90.1,84.16,2.97,0.99,1.98,48.1657924,-122.1205924
+835,Lincoln Elementary,Washington,Mount Vernon,Skagit,50,90,88,0,0,4,48.4152553,-122.3286101
+836,Orcas Christian,Washington,Eastsound,San Juan,10,90,90,0,0,10,48.698732,-122.908396
+837,Pateros Elementary,Washington,Pateros,Okanogan,20,90,80,5,5,0,48.0519521,-119.906555
+838,Ptarmigan Ridge Elementary,Washington,Orting,Pierce,40,90,87.5,0,0,7.5,47.1044995,-122.21995
+839,Reardan Elementary,Washington,Reardan,Lincoln,40,90,87.5,2.5,10,0,47.6674713,-117.8761671
+840,Shadow Lake Elementary,Washington,Maple Valley,King,80,90,86.25,0,1.25,0,47.3989967,-122.0469265
+841,Shoreline Christian,Washington,Seattle,King,10,90,90,0,0,0,47.73575,-122.303106
+842,Southside Elementary,Washington,Shelton,Mason,20,90,85,10,0,0,47.19864,-123.056014
+843,St. Alphonsus,Washington,Seattle,King,20,90,75,0,0,10,47.6712776,-122.3749494
+844,Trentwood,Washington,Spokane Valley,Spokane,70,90,85.71,0,0,12.86,47.7009952,-117.2076193
+845,Visitation,Washington,Tacoma,Pierce,10,90,90,0,0,10,47.2041557,-122.4800258
+846,Sunset Elementary,Washington,Bellevue,King,89,89.89,89.89,3.37,0,6.74,47.5688156,-122.101773
+847,Martin Sortun Elementary,Washington,Kent,King,79,89.87,82.28,2.53,0,2.53,47.3784479,-122.1715456
+848,Beachwood Elementary,Washington,Lakewood,Pierce,69,89.86,79.71,0,0,0,47.1204279,-122.5874217
+849,Rainier Elementary,Washington,Rainier,Thurston,69,89.86,78.26,1.45,0,7.25,46.8831385,-122.6929795
+850,Mann Elementary,Washington,Tacoma,Pierce,59,89.83,86.44,0,0,1.69,47.2089662,-122.4478339
+851,Mccarver Elementary,Washington,Tacoma,Pierce,59,89.83,84.75,0,0,0,47.2416484,-122.4470844
+852,Edgerton Elementary,Washington,Puyallup,Pierce,108,89.81,87.04,1.85,0,5.56,47.1062887,-122.2600383
+853,Northlake Elementary,Washington,Longview,Cowlitz,49,89.8,85.71,8.16,0,4.08,46.1451462,-122.9437628
+854,Frederickson Elementary,Washington,Puyallup,Pierce,88,89.77,88.64,1.14,1.14,3.41,47.0995967,-122.3315188
+855,Eastgate Elementary,Washington,Bellevue,King,78,89.74,82.05,0,0,1.28,47.5698603,-122.1376452
+856,Evergreen Elementary,Washington,Sedro-Woolley,Skagit,78,89.74,87.18,0,0,2.56,48.5134108,-122.2206785
+857,Highlands Elementary,Washington,RENTON,King,78,89.74,84.62,0,0,3.85,47.4948799,-122.182149
+858,Medina Academy,Washington,Redmond,King,39,89.74,89.74,2.56,0,2.56,47.625177,-122.1218451
+859,Deer Park Elementary,Washington,Deer Park,Spokane,146,89.73,84.93,2.74,0.68,5.48,47.9501632,-117.453699
+860,Brigadoon Elementary,Washington,Federal Way,King,68,89.71,80.88,1.47,0,0,47.2997426,-122.3782963
+861,Garfield Elementary,Washington,Olympia,Thurston,68,89.71,82.35,4.41,0,4.41,47.0479744,-122.9194564
+862,Central Park Elementary,Washington,Aberdeen,Grays Harbor,29,89.66,89.66,0,0,0,46.967273,-123.69837
+863,Kindergarten Center,Washington,Spokane,Spokane,232,89.66,85.78,0,0.86,3.45,47.6829432,-117.2864548
+864,Lake Wilderness Elementary,Washington,Maple Valley,King,116,89.66,84.48,0,0,6.03,47.3849312,-122.0480429
+865,Sumas Elementary,Washington,Sumas,Whatcom,58,89.66,75.86,0,0,1.72,48.9939666,-122.2596013
+866,Kent Elementary,Washington,Kent,King,96,89.58,85.42,0,0,0,47.3801358,-122.2515965
+867,Westgate Elementary,Washington,Kennewick,Benton,96,89.58,88.54,0,0,10.42,46.2069296,-119.1548755
+868,Keller Elementary,Washington,Kirkland,King,67,89.55,88.06,4.48,0,4.48,47.7252625,-122.1955794
+869,Immaculate Conception/Our Lady Of Perpetual,Washington,Everett,Snohomish,19,89.47,89.47,0,0,10.53,47.984191,-122.2102463
+870,Maple Lawn Elementary,Washington,Sumner,Pierce,95,89.47,81.05,2.11,0,4.21,47.1946099,-122.2328431
+871,Sierra Heights Elementary,Washington,RENTON,King,95,89.47,86.32,2.11,0,3.16,47.5143053,-122.1657551
+872,Sunnyside Christian,Washington,Sunnyside,Yakima,19,89.47,89.47,0,0,5.26,46.330413,-120.0097529
+873,West Seattle Montessori,Washington,Seattle,King,19,89.47,84.21,0,0,15.79,47.5022471,-122.3541311
+874,Zion Lutheran,Washington,Lake Stevens,Snohomish,19,89.47,89.47,0,0,5.26,47.9605468,-122.0910879
+875,Canyon Creek Elementary,Washington,Bothell,King,104,89.42,84.62,0,0,0,47.8045217,-122.1882841
+876,Nautilus K-8,Washington,Federal Way,King,66,89.39,86.36,0,0,0,47.3425753,-122.3226239
+877,Fisher Elementary,Washington,Lynden,Whatcom,75,89.33,84,0,0,4,48.9442817,-122.4673858
+878,Panther Lake Elementary,Washington,Kent,King,103,89.32,88.35,0,0,5.83,47.4092162,-122.2046817
+879,Panther Lake Elementary,Washington,Federal Way,King,72,89.32,79.17,0,1.39,0,47.2935452,-122.3332365
+880,Dayton Elementary,Washington,Dayton,Columbia,28,89.29,78.57,0,0,0,46.3172383,-117.9756197
+881,Geiger Montessori,Washington,Tacoma,Pierce,84,89.29,89.29,3.57,0,5.95,47.2544417,-122.5352054
+882,Minnehaha Elementary,Washington,Vancouver,Clark,84,89.29,85.71,1.19,0,5.95,45.6624353,-122.6424437
+883,Northshore Christian Academy,Washington,Everett,Snohomish,102,89.22,86.27,0,0,12.75,47.9455331,-122.2642869
+884,Life Christian,Washington,Tacoma,Pierce,37,89.19,81.08,0,2.7,13.51,47.244265,-122.481513
+885,Peninsula Elementary,Washington,Moses Lake,Grant,74,89.19,86.49,0,0,6.76,47.106403,-119.303567
+886,Byron Kibler Elementary,Washington,Enumclaw,King,83,89.16,84.34,2.41,1.2,4.82,47.2104414,-121.9965069
+887,Kenmore Elementary,Washington,Kenmore,King,83,89.16,83.13,1.2,0,0,47.7680229,-122.2457797
+888,Dry Creek Elementary,Washington,Port Angeles,Clallam,46,89.13,82.61,2.17,2.17,2.17,48.1131774,-123.5389154
+889,Marysville Coop Program,Washington,Marysville,Snohomish,46,89.13,84.78,0,0,10.87,48.1018158,-122.1744237
+890,Ogden Elementary,Washington,Vancouver,Clark,101,89.11,77.23,0,0,3.96,45.6453403,-122.5865461
+891,Edison Elementary,Washington,Kennewick,Benton,110,89.09,88.18,0,0,0.91,46.2083069,-119.1898866
+892,Kitsap Lake Elementary,Washington,Bremerton,Kitsap,55,89.09,85.45,0,0,1.82,47.5721333,-122.6931323
+893,Hamilton Elementary,Washington,Port Angeles,Clallam,64,89.06,82.81,1.56,0,6.25,48.1274716,-123.4738357
+894,Roosevelt Elementary,Washington,Port Angeles,Clallam,64,89.06,84.38,3.13,0,7.81,48.1022745,-123.389487
+895,Crestwood Elementary,Washington,Bonney Lake,Pierce,73,89.04,84.93,4.11,0,8.22,47.2199107,-122.2008151
+896,Gatewood Elementary,Washington,Seattle,King,73,89.04,84.93,0,0,4.11,47.54026,-122.3891261
+897,Woodmont Elementary,Washington,Des Moines,King,73,89.04,83.56,1.37,2.74,0,47.363347,-122.3118162
+898,Eisenhower Elementary,Washington,Vancouver,Clark,82,89.02,84.15,0,0,13.41,45.6887198,-122.6771754
+899,Viewlands Elementary,Washington,Seattle,King,82,89.02,79.27,0,0,2.44,47.7059703,-122.3611763
+900,Genesee Hill,Washington,Seattle,King,127,88.98,77.95,0.79,0,5.51,47.5666438,-122.3963257
+901,Cedar Park Christian School-Bellevue,Washington,Bellevue,King,9,88.89,88.89,0,0,11.11,47.6161481,-122.1542138
+902,Columbia Valley Garden Elementaryl,Washington,Longview,Cowlitz,54,88.89,87.04,0,0,9.26,46.1543538,-122.9569372
+903,Edward Zeiger Elem,Washington,Puyallup,Pierce,108,88.89,84.26,1.85,0,8.33,47.138476,-122.3053301
+904,Ellensburg Christian,Washington,Ellensburg,Kittitas,9,88.89,77.78,0,0,22.22,46.988694,-120.5419081
+905,Hillside Academy,Washington,Duvall,King,9,88.89,88.89,0,0,11.11,47.745873,-121.9848698
+906,Horizon Elementary,Washington,Kent,King,63,88.89,85.71,0,0,6.35,47.3538349,-122.1515312
+907,Jing Mei Elementary,Washington,Bellevue,King,72,88.89,80.56,0,0,1.39,47.5522084,-122.1713547
+908,Our Lady Of Guadalupe,Washington,Seattle,King,27,88.89,74.07,0,0,0,47.5390611,-122.3756628
+909,Pioneer Elementary,Washington,Auburn,King,90,88.89,80,1.11,0,0,47.2883756,-122.2141814
+910,Ridgeview Elementary,Washington,Spokane,Spokane,54,88.89,85.19,0,0,11.11,47.7095351,-117.4340201
+911,Walnut Grove Elementary,Washington,Vancouver,Clark,135,88.89,84.44,0,0.74,5.93,45.6664764,-122.5983027
+912,Lowell Elementary,Washington,Everett,Snohomish,71,88.73,85.92,0,0,7.04,47.9513608,-122.201942
+913,Picnic Point Elementary,Washington,Edmonds,Snohomish,71,88.73,84.51,0,0,2.82,47.8726314,-122.3132318
+914,King's Way Christian,Washington,Vancouver,Clark,53,88.68,79.25,3.77,0,11.32,45.6794542,-122.6356631
+915,Westwood Elementary,Washington,Enumclaw,King,44,88.64,86.36,0,0,9.09,47.2289853,-122.0579117
+916,Crestwood Elementary,Washington,Covington,King,70,88.57,88.57,1.43,0,2.86,47.3759302,-122.1017685
+917,Spinning Elementary,Washington,Puyallup,Pierce,35,88.57,82.86,0,2.86,5.71,47.1884033,-122.2767987
+918,Browne Elementary,Washington,Spokane,Spokane,61,88.52,86.89,3.28,0,9.84,47.7042638,-117.4640491
+919,Soos Creek Elementary,Washington,Kent,King,61,88.52,86.89,0,3.28,1.64,47.4057045,-122.1719663
+920,Cherry Crest Elementary,Washington,Bellevue,King,87,88.51,81.61,3.45,0,1.15,47.6403138,-122.1736578
+921,Arthur Jacobsen Elementary,Washington,Auburn,King,78,88.46,83.33,3.85,0,5.13,47.3400972,-122.1680452
+922,Mukilteo Elementary,Washington,Mukilteo,Snohomish,78,88.46,87.18,1.28,1.28,6.41,47.9330368,-122.3022444
+923,Skyline Elementary,Washington,Ferndale,Whatcom,78,88.46,85.9,0,0,1.28,48.8622813,-122.6031928
+924,Jefferson Elementary (Southside),Washington,Pullman,Whitman,95,88.42,83.16,0,0,2.11,46.7405616,-117.1811121
+925,Silver Lake Elementary,Washington,Everett,Snohomish,138,88.41,84.06,0,0.72,5.07,47.8813785,-122.2062738
+926,Cougar Valley Elementary,Washington,Silverdale,Kitsap,85,88.24,87.06,2.35,0,0,47.6826374,-122.7249401
+927,Fairwood Elementary,Washington,Renton,King,51,88.24,84.31,0,1.96,9.8,47.4533714,-122.1414636
+928,Pine Tree Elementary,Washington,Kent,King,68,88.24,85.29,1.47,0,4.41,47.351979,-122.185506
+929,West Mercer Elementary,Washington,Mercer Island,King,68,88.24,80.88,1.47,0,1.47,47.571647,-122.2308991
+930,Bow Lake Elementary,Washington,SeaTac,King,101,88.12,78.22,0,0,0.99,47.4389839,-122.2822826
+931,La Conner Elementary,Washington,La Conner,Skagit,42,88.1,80.95,0,0,0,48.3955717,-122.4914525
+932,Warden Elementary,Washington,Warden,Grant,67,88.06,88.06,0,0,1.49,46.9613023,-119.0406774
+933,Daniel Bagley Elementary,Washington,Seattle,King,92,88.04,80.43,1.09,0,4.35,47.6864187,-122.342337
+934,Clyde Hill Elementary,Washington,Bellevue,King,100,88,78,1,0,2,47.6310073,-122.211298
+935,Holmes Elementary,Washington,Spokane,Spokane,50,88,88,2,0,6,47.6694788,-117.4498367
+936,Warren Hunt Elem,Washington,Puyallup,Pierce,100,88,79,1,1,3,47.1261634,-122.2576829
+937,Liberty Ridge Elementary,Washington,Sumner,Pierce,66,87.88,86.36,0,0,9.09,47.1454042,-122.1509112
+938,Tukwila Elementary,Washington,Tukwila,King,74,87.84,87.84,0,0,5.41,47.4688273,-122.2589973
+939,Meadows Elementary,Washington,Lacey,Thurston,123,87.8,81.3,0.81,0,2.44,47.047512,-122.740053
+940,Poulsbo Elementary,Washington,Poulsbo,Kitsap,82,87.8,76.83,0,0,4.88,47.7306861,-122.6187676
+941,Penny Creek Elementary,Washington,Everett,Snohomish,122,87.7,82.79,0,0,8.2,47.8786101,-122.1772245
+942,Knolls Vista Elementary,Washington,Moses Lake,Grant,73,87.67,80.82,0,0,2.74,47.1347669,-119.2857174
+943,Kellogg Marsh Elementary,Washington,Marysville,Snohomish,89,87.64,86.52,0,1.12,4.49,48.0770628,-122.1437091
+944,Cedar Valley Elementary,Washington,Kent,King,32,87.5,81.25,0,3.13,0,47.3652109,-122.0864752
+945,Cle Elum Roslyn Elementary,Washington,Cle Elum,Kittitas,56,87.5,83.93,1.79,0,1.79,47.2037536,-120.9729028
+946,Coupeville Elementary,Washington,Coupeville,Island,72,87.5,84.72,0,0,5.56,48.2114806,-122.6873851
+947,Custer Elem,Washington,Custer,Whatcom,56,87.5,83.93,0,0,14.29,48.91907,-122.636513
+948,Endicott/St John Elementary And Middle,Washington,Endicott,Whitman,8,87.5,62.5,12.5,0,25,46.9320974,-117.6928148
+949,Fern Hill Elementary,Washington,Tacoma,Pierce,48,87.5,83.33,0,0,2.08,47.1798705,-122.4424324
+950,Heritage Christian,Washington,University Place,Pierce,24,87.5,87.5,0,0,12.5,47.2075356,-122.5277743
+951,Holy Family,Washington,Auburn,King,16,87.5,87.5,0,0,12.5,47.2937828,-122.2230166
+952,Joyful Scholars Montessori Elementary,Washington,Wenatchee,Chelan,8,87.5,87.5,0,0,12.5,47.428421,-120.3157436
+953,Kingspoint Christian,Washington,Pasco,Franklin,16,87.5,87.5,0,0,12.5,46.242365,-119.194943
+954,Louisa May Alcott Elementar,Washington,Redmond,King,96,87.5,71.88,1.04,0,2.08,47.6466412,-122.0378709
+955,Methow Valley Elementary,Washington,Winthrop,Okanogan,56,87.5,67.86,0,0,7.14,48.4406983,-120.1666392
+956,Mid-Columbia Parent Partnership,Washington,Kennewick,Benton,16,87.5,87.5,0,0,12.5,46.1972682,-119.2043843
+957,Monarch Academy,Washington,Clarkston,Asotin,8,87.5,50,0,0,12.5,46.4179376,-117.0674411
+958,Parent Partnership,Washington,Snohomish,Snohomish,8,87.5,75,0,0,12.5,47.9318694,-122.0984211
+959,Seattle Country Day,Washington,Seattle,King,32,87.5,87.5,0,0,6.25,47.6436165,-122.3502907
+960,Alpac Elementary,Washington,Pacific,King,111,87.39,82.88,0,0.9,5.41,47.2710526,-122.2487541
+961,Parkside Elementary,Washington,Tenino,Thurston,79,87.34,82.28,1.27,0,8.86,46.857185,-122.8489387
+962,Sheridan Elementary,Washington,Tacoma,Pierce,79,87.34,82.28,0,0,1.27,47.2090867,-122.4199707
+963,Browns Point,Washington,Tacoma,Pierce,63,87.3,79.37,1.59,0,0,47.3025553,-122.4242646
+964,Central Elementary,Washington,Sedro-Woolley,Skagit,63,87.3,82.54,0,1.59,1.59,48.5011963,-122.231187
+965,West Hills Stem Academy,Washington,Bremerton,Kitsap,63,87.3,77.78,0,1.59,1.59,47.5573158,-122.6668559
+966,East Farms,Washington,Newman Lake,Spokane,55,87.27,85.45,0,0,3.64,47.7080628,-117.054066
+967,Sawyer Woods Elementary,Washington,Black Diamond,King,55,87.27,78.18,0,0,5.45,47.3235434,-122.0396884
+968,Dickinson Elementary,Washington,Redmond,King,94,87.23,80.85,1.06,0,2.13,47.6700527,-122.0600598
+969,Friday Harbor Elementaryoo,Washington,Friday Harbor,San Juan,47,87.23,70.21,4.26,0,0,48.528004,-123.014184
+970,Cedarhome Elementary,Washington,Stanwood,Snohomish,78,87.18,83.33,2.56,0,7.69,48.2494583,-122.3234133
+971,Chinook Elementary,Washington,Vancouver,Clark,117,87.18,83.76,0.85,0,2.56,45.724067,-122.6907411
+972,Evergreen Heights Elementary,Washington,Auburn,King,78,87.18,85.9,0,0,5.13,47.3194619,-122.2636961
+973,Terminal Park Elementaryoo,Washington,Auburn,King,78,87.18,79.49,1.28,1.28,5.13,47.297954,-122.225198
+974,Emerald Park Elementary,Washington,Kent,King,70,87.14,84.29,1.43,0,7.14,47.4097567,-122.1833104
+975,Evergreen Christian,Washington,Olympia,Thurston,31,87.1,83.87,0,0,12.9,47.0370058,-122.9326595
+976,Mountain View Elementary,Washington,Shelton,Mason,93,87.1,81.72,0,1.08,1.08,47.2278833,-123.1191381
+977,Rachel Carson Elementary,Washington,Sammamish,King,62,87.1,85.48,0,0,1.61,47.6192904,-122.0155399
+978,Tukes Valley Primary,Washington,Battle Ground,Clark,116,87.07,77.59,1.72,0.86,8.62,45.7729716,-122.4976773
+979,Marvista Elementary,Washington,Normandy Park,King,85,87.06,82.35,0,0,0,47.4253806,-122.3411392
+980,Catharine Blaine K-8,Washington,Seattle,King,100,87,83,0,0,2,47.6426158,-122.3999721
+981,Cascade K-8 Community,Washington,Shoreline,King,23,86.96,82.61,0,0,17.39,47.774673,-122.2994077
+982,Gold Bar Elementary,Washington,Gold Bar,Snohomish,46,86.96,80.43,0,0,4.35,47.8571325,-121.6967971
+983,Meadowglade Sda,Washington,Battle Ground,Clark,23,86.96,82.61,0,0,13.04,45.7580218,-122.5598533
+984,Renton Christian,Washington,Renton,King,46,86.96,86.96,0,0,10.87,47.4622999,-122.1379861
+985,Soar Academy Tacoma,Washington,Tacoma,Pierce,46,86.96,78.26,0,0,2.17,47.2402786,-122.4494263
+986,Goldendale Primary,Washington,Goldendale,Klickitat,84,86.9,80.95,3.57,1.19,11.9,45.8165183,-120.8175141
+987,Sand Hill Elementary,Washington,Belfair,Mason,84,86.9,80.95,0,0,4.76,47.4597444,-122.8474461
+988,Fairmount Park Elementary,Washington,SEATTLE,King,76,86.84,80.26,0,0,1.32,47.5525714,-122.3804532
+989,Machias Elementary,Washington,Snohomish,Snohomish,76,86.84,84.21,0,0,5.26,47.9939793,-122.0297785
+990,Sand Point Elementary,Washington,Seattle,King,38,86.84,78.95,0,0,0,47.6736228,-122.2628821
+991,West Seattle Elementary,Washington,Seattle,King,76,86.84,82.89,0,0,5.26,47.541578,-122.374133
+992,Garfield Elementary,Washington,Everett,Snohomish,53,86.79,81.13,0,0,7.55,47.987667,-122.1916366
+993,Highland Park Elementary,Washington,Seattle,King,53,86.79,83.02,1.89,0,1.89,47.525611,-122.348655
+994,Kiona-Benton Primary,Washington,Benton City,Benton,106,86.79,83.02,0,0,1.89,46.2704988,-119.4898528
+995,Anderson Elementary,Washington,Vancouver,Clark,121,86.78,85.95,0.83,0,1.65,45.6953984,-122.6489546
+996,Des Moines Elementary,Washington,Des Moines,King,68,86.76,85.29,0,0,2.94,47.3884582,-122.3128235
+997,Stanwood Elementary,Washington,Stanwood,Snohomish,68,86.76,83.82,0,0,8.82,48.2449331,-122.3720673
+998,Amazing Grace Christian,Washington,Seattle,King,15,86.67,73.33,0,0,26.67,47.4812206,-122.2017392
+999,Coulee City Elementary,Washington,Coulee City,Grant,15,86.67,66.67,0,0,6.67,47.6132785,-119.2929511
+1000,Eagle View Christian,Washington,Yelm,Thurston,15,86.67,73.33,6.67,0,0,46.8966417,-122.6061985
+1001,Grace Academy,Washington,Marysville,Snohomish,30,86.67,73.33,3.33,0,16.67,48.0724093,-122.139599
+1002,Green Mountain,Washington,Woodland,Cowlitz,15,86.67,86.67,0,0,6.67,45.9477394,-122.5385584
+1003,Home Connection,Washington,Vancouver,Clark,15,86.67,73.33,0,0,20,45.6193149,-122.5848859
+1004,Lafayette Elementary,Washington,Seattle,King,75,86.67,81.33,0,1.33,2.67,47.5800103,-122.3874364
+1005,Lind Elementary,Washington,Lind,Adams,15,86.67,86.67,0,0,6.67,46.9733414,-118.6177801
+1006,Otis Orchards,Washington,Otis Orchards,Spokane,60,86.67,78.33,6.67,0,16.67,47.6994495,-117.1097331
+1007,Rainier Christian Schools-Kent View Elementary,Washington,Auburn,King,30,86.67,70,0,0,3.33,47.350389,-122.229788
+1008,Lake Hills Elementary,Washington,Bellevue,King,82,86.59,84.15,1.22,0,4.88,47.6009937,-122.1492291
+1009,Lea Hill Elementary,Washington,Auburn,King,82,86.59,74.39,0,0,7.32,47.3248664,-122.1754302
+1010,Chester Elementary,Washington,Spokane Valley,Spokane,67,86.57,83.58,0,0,7.46,47.6239257,-117.2386741
+1011,Green Lake Elementary,Washington,Seattle,King,67,86.57,85.07,1.49,0,1.49,47.6763251,-122.3286334
+1012,Dearborn Park Elementary,Washington,Seattle,King,52,86.54,78.85,0,0,0,47.5518621,-122.2961718
+1013,Holy Rosary Elementary,Washington,Seattle,King,52,86.54,73.08,0,0,1.92,47.5654203,-122.3852579
+1014,Hough Elementary,Washington,Vancouver,Clark,52,86.54,73.08,1.92,0,0,45.635658,-122.6750426
+1015,Margaret Mead Elementary,Washington,Sammamish,King,89,86.52,77.53,1.12,0,4.49,47.6260509,-122.053283
+1016,Evergreen Academy,Washington,Bothell,King,37,86.49,81.08,0,0,8.11,47.744208,-122.1824408
+1017,Raymond Elementary,Washington,Raymond,Pacific,37,86.49,86.49,2.7,0,2.7,46.6856344,-123.7262399
+1018,Pathfinder K-8,Washington,Seattle,King,51,86.27,78.43,0,0,7.84,47.5626567,-122.3579438
+1019,Pleasant Valley Primary,Washington,Battle Ground,Clark,109,86.24,79.82,1.83,0,11.93,45.7265127,-122.6230695
+1020,Adams Elementary,Washington,Spokane,Spokane,58,86.21,86.21,0,0,6.9,47.6212465,-117.3677389
+1021,Adams Elementary,Washington,Spokane Valley,Spokane,65,86.21,80,0,1.54,0,47.6506763,-117.2062445
+1022,Rosa Parks Elementary,Washington,Redmond,King,87,86.21,83.91,1.15,0,1.15,47.6847431,-122.0348568
+1023,Samish Elementary,Washington,Sedro-Woolley,Skagit,29,86.21,82.76,6.9,0,3.45,48.5859954,-122.2248728
+1024,Vaughn Elementary,Washington,Vaughn,Pierce,58,86.21,77.59,1.72,1.72,1.72,47.3448723,-122.7706286
+1025,Beacon Elementary,Washington,Montesano,Grays Harbor,94,86.17,79.79,2.13,0,4.26,46.9843879,-123.5807001
+1026,Bryant Elementary,Washington,Seattle,King,86,86.05,83.72,0,0,0,47.6711946,-122.2921117
+1027,South Pines Elementary,Washington,Spokane,Spokane,50,86,80,0,0,12,47.6355857,-117.2428313
+1028,East Ridge Elementary,Washington,Woodinville,King,64,85.94,75,3.13,0,12.5,47.7408581,-122.0429405
+1029,Queen Anne Elementary,Washington,Seattle,King,64,85.94,79.69,0,0,0,47.6599142,-122.3400034
+1030,Franklin Elementary,Washington,Kirkland,King,71,85.92,73.24,1.41,0,0,47.6623189,-122.1735556
+1031,Washington Elementary,Washington,Tacoma,Pierce,71,85.92,83.1,2.82,0,2.82,47.2715604,-122.4864193
+1032,Mountain View Elementary,Washington,Lacey,Thurston,113,85.84,74.34,0.88,0,0,47.0288088,-122.8224197
+1033,Anderson Island Elementary,Washington,Steilacoom,Pierce,7,85.71,71.43,0,0,0,47.1629312,-122.7127764
+1034,Bickleton Elementary And High Schl,Washington,Bickelton,Klickitat,14,85.71,85.71,0,0,7.14,45.9990971,-120.2922785
+1035,Black Diamond Elementary,Washington,Black Diamond,King,49,85.71,79.59,0,0,12.24,47.3101417,-122.0052064
+1036,Carbonado Historical School 19,Washington,Carbonado,Pierce,14,85.71,85.71,0,0,7.14,47.0810768,-122.0540946
+1037,Concrete Elementary,Washington,Concrete,Skagit,42,85.71,80.95,0,0,0,48.5321161,-121.7631911
+1038,Evergreen Elementary,Washington,Spanaway,Pierce,89,85.71,95.51,0,0,1.12,47.1016534,-122.4118717
+1039,Evergreen Elementary,Washington,Fort Lewis,Pierce,105,85.71,84.76,0,0,0,47.11313,-122.5587337
+1040,Evergreen Elementary,Washington,Lakebay,Pierce,28,85.71,82.14,0,0,17.86,47.240804,-122.7714461
+1041,Glendale Lutheran,Washington,Burien,King,7,85.71,85.71,0,0,14.29,47.4819043,-122.3367969
+1042,Greenwood Elementary,Washington,Seattle,King,56,85.71,76.79,0,0,0,47.68735,-122.3598361
+1043,Lacrosse Elementary,Washington,LaCrosse,Whitman,7,85.71,85.71,0,0,14.29,46.8143132,-117.8751561
+1044,Liberty Christian,Washington,Richland,Benton,28,85.71,82.14,0,3.57,14.29,46.285779,-119.299378
+1045,Lynden Christian School Bellingham,Washington,Bellingham,Whatcom,21,85.71,76.19,9.52,0,14.29,48.7951185,-122.4721091
+1046,Mesa Elementary,Washington,Mesa,Franklin,28,85.71,78.57,0,0,0,46.5752748,-119.0016192
+1047,Nine Mile Falls Elementary,Washington,Nine Mile Falls,Spokane,21,85.71,76.19,0,0,19.05,47.7800401,-117.551163
+1048,Oakesdale Elementary,Washington,Oakesdale,Whitman,7,85.71,71.43,14.29,0,0,47.1263351,-117.2425891
+1049,Sonshine Christian Elementary,Washington,Vancouver,Clark,14,85.71,85.71,0,0,7.14,45.702977,-122.6700104
+1050,St. Francis Of Assisi,Washington,Burien,King,42,85.71,83.33,0,0,2.38,47.4665241,-122.3600164
+1051,Upper Valley Christian,Washington,Leavenworth,Chelan,7,85.71,85.71,0,0,14.29,47.594482,-120.6694229
+1052,Yale Elementary,Washington,Ariel,Cowlitz,7,85.71,85.71,0,0,14.29,45.9958417,-122.3804855
+1053,View Ridge Elementary,Washington,Everett,Snohomish,90,85.56,82.22,2.22,0,10,47.9517743,-122.2298111
+1054,Stevenson Elementary,Washington,Bellevue,King,131,85.5,73.28,1.53,0,0,47.6177921,-122.1503393
+1055,Evergreen Elementary,Washington,Shelton,Mason,110,85.45,72.73,0.91,0,0,47.2150063,-123.1096923
+1056,Parkway Elementary,Washington,Clarkston,Asotin,48,85.42,81.25,0,0,4.17,46.4085213,-117.0425969
+1057,Dunlap Elementary,Washington,Seattle,King,41,85.37,78.05,0,0,0,47.524971,-122.274738
+1058,Clear Lake Elementary,Washington,Clear Lake,Skagit,34,85.29,79.41,2.94,0,8.82,48.4644819,-122.233543
+1059,Madrona K-8,Washington,Edmonds,Snohomish,68,85.29,80.88,0,0,16.18,47.7841922,-122.3571122
+1060,Cedar Park Christian School-Mill Creek Campus,Washington,Everett,Snohomish,27,85.19,81.48,0,0,18.52,47.8788236,-122.2048139
+1061,Darrington Elementary,Washington,Darrington,Snohomish,27,85.19,81.48,3.7,0,7.41,48.247433,-121.60171
+1062,Renton Park Elementary,Washington,RENTON,King,81,85.19,82.72,2.47,2.47,4.94,47.4517946,-122.1687734
+1063,Opportunity Elementary,Washington,Spokane,Spokane,101,85.15,79.21,0,0.99,5.94,47.6467886,-117.2474716
+1064,Roosevelt Elementary,Washington,Yakima,Yakima,88,85.15,87.5,5.68,0,0,46.5993631,-120.5325731
+1065,Roosevelt Elementary,Washington,Granger,Yakima,101,85.15,85.15,0,0,0,46.3469632,-120.1898212
+1066,L P Brown Elementary,Washington,Olympia,Thurston,74,85.14,75.68,0,0,2.7,47.0709684,-122.9276709
+1067,Central Elementary,Washington,Ferndale,Whatcom,47,85.11,82.98,0,0,8.51,48.845492,-122.59183
+1068,Columbia Elementary,Washington,Burbank,Walla Walla,47,85.11,80.85,0,0,6.38,46.2003457,-119.0128683
+1069,Salnave Elementary,Washington,Cheney,Spokane,67,85.07,76.12,0,0,2.99,47.481134,-117.5955572
+1070,Quincy Valley,Washington,Quincy,Grant,20,85,85,0,0,5,47.2296687,-119.875069
+1071,Wilbur Elementary,Washington,Wilbur,Lincoln,20,85,85,0,0,10,47.7532071,-118.7044846
+1072,Redmond Elementary,Washington,Redmond,King,86,84.88,66.28,0,0,0,47.6755092,-122.1164596
+1073,Rose Hill Elementary,Washington,Kirkland,King,86,84.88,73.26,1.16,0,2.33,47.6763886,-122.1674375
+1074,John Hay Elementary,Washington,Seattle,King,79,84.81,82.28,0,0,0,47.6328507,-122.351958
+1075,Lake View Elementary,Washington,Auburn,King,79,84.81,84.81,1.27,0,8.86,47.3166394,-122.1222312
+1076,John Muir Elementary,Washington,Seattle,King,59,84.75,81.36,0,0,0,47.573151,-122.2907491
+1077,Martha Lake Elementary,Washington,Lynnwood,Snohomish,59,84.75,76.27,0,0,1.69,47.8393783,-122.2480967
+1078,Sunset Elementary,Washington,Vancouver,Clark,85,84.71,72.94,0,0,2.35,45.6895382,-122.5822521
+1079,Northgate Elementary,Washington,Seattle,King,39,84.62,79.49,0,0,0,47.7147167,-122.329337
+1080,Ocean Park Elementary,Washington,Ocean Park,Pacific,26,84.62,73.08,0,0,11.54,46.488573,-124.050617
+1081,Burnt Bridge Creek Elementary,Washington,Vancouver,Clark,84,84.52,67.86,0,1.19,3.57,45.657215,-122.522424
+1082,Stratton Elementary,Washington,Newport,Pend Oreille,71,84.51,77.46,0,0,4.23,48.1767459,-117.0562151
+1083,Lighthouse Christian,Washington,Gig Harbor,Pierce,32,84.38,84.38,0,0,6.25,47.289809,-122.5791441
+1084,Whidbey Island Waldorf,Washington,Clinton,Island,32,84.38,84.38,6.25,0,9.38,47.9798638,-122.4056354
+1085,Madison Elementary,Washington,Spokane,Spokane,51,84.31,84.31,3.92,3.92,5.88,47.7083638,-117.4153376
+1086,Chattaroy Elementary,Washington,Chattaroy,Spokane,38,84.21,84.21,0,0,15.79,47.8921167,-117.3584726
+1087,Crescent Heights Elementary,Washington,Tacoma,Pierce,82,84.15,71.95,0,0,3.66,47.2947852,-122.400525
+1088,Mountain Way Elementary,Washington,Granite Falls,Snohomish,119,84.03,78.15,0,0,1.68,48.0898269,-121.9702577
+1089,Bellevue Christian Mack Elementary,Washington,Woodinville,King,25,84,84,0,0,16,47.7589451,-122.1138803
+1090,Shoultes Elementary,Washington,Marysville,Snohomish,75,84,82.67,1.33,1.33,4,48.1186841,-122.1619066
+1091,Leschi Elementary,Washington,Seattle,King,68,83.82,79.41,0,0,0,47.6021448,-122.2918926
+1092,Salem Woods Elementary,Washington,Monroe,Snohomish,74,83.78,82.43,1.35,0,5.41,47.8810939,-121.9388294
+1093,Challenger Elementary,Washington,Everett,Snohomish,43,83.72,76.74,2.33,0,9.3,47.9116172,-122.2424756
+1094,K-8 Stem At Boren,Washington,Seattle,King,55,83.64,78.18,0,0,3.64,47.5486142,-122.3621873
+1095,Central Primary Center,Washington,Snohomish,Snohomish,61,83.61,77.05,1.64,0,6.56,47.9139911,-122.0924648
+1096,Lowell Elementary,Washington,Seattle,King,61,83.61,77.05,0,0,0,47.624599,-122.3181719
+1097,Helen Stafford Elementary,Washington,Tacoma,Pierce,67,83.58,82.09,1.49,0,1.49,47.1745707,-122.4562814
+1098,Hazelwood Elementary,Washington,NEWCASTLE,King,100,83.51,96,0,0,1,47.5379965,-122.1842938
+1099,Hazelwood Elementary,Washington,Auburn,King,97,83.51,78.35,1.03,1.03,12.37,47.3290114,-122.1836584
+1100,Irene Reither Elementary,Washington,Everson,Whatcom,115,83.48,74.78,0,0,3.48,48.8655569,-122.4397086
+1101,Calvary Christian,Washington,Kennewick,Benton,24,83.33,79.17,0,0,16.67,46.202356,-119.252951
+1102,Community Montessori,Washington,Tacoma,Pierce,6,83.33,83.33,0,0,16.67,47.2488887,-122.4475878
+1103,Cornerstone Academy,Washington,Monroe,Snohomish,6,83.33,83.33,0,0,0,47.866854,-122.008782
+1104,Cougar Creek Elementary,Washington,Arlington,Snohomish,66,83.33,75.76,0,0,1.52,48.142586,-122.2172284
+1105,Evergreen Elementary,Washington,Gifford,Stevens,6,83.33,83.33,16.67,0,0,48.3102576,-118.1385847
+1106,Mountlake Terrace Elementary,Washington,Mountlake Terrace,Snohomish,54,83.33,72.22,3.7,0,0,47.7994673,-122.3020639
+1107,Parkland Lutheran,Washington,Tacoma,Pierce,6,83.33,83.33,0,0,16.67,47.1443626,-122.4338362
+1108,Roosevelt Elementary,Washington,Roosevelt,Klickitat,6,83.33,66.67,0,0,0,45.7406847,-120.2194882
+1109,Swan,Washington,Port Townsend,Jefferson,6,83.33,33.33,0,0,0,48.1170086,-122.7817852
+1110,Riverview Elementary,Washington,Vancouver,Clark,65,83.08,73.85,1.54,0,1.54,45.6065753,-122.541296
+1111,South Shore Pk-8,Washington,Seattle,King,53,83.02,73.58,0,0,0,47.5241026,-122.2719749
+1112,Downing Elementary,Washington,Tacoma,Pierce,47,82.98,74.47,0,0,4.26,47.2700761,-122.5059436
+1113,Lakeland Elementary,Washington,Auburn,King,76,82.89,81.58,0,0,14.47,47.2805574,-122.2938019
+1114,Pleasant Glade Elementary,Washington,Lacey,Thurston,64,82.81,78.13,0,0,1.56,47.062303,-122.8251668
+1115,Midway Elementary,Washington,Des Moines,King,93,82.8,74.19,0,0,0,47.3997135,-122.3035268
+1116,Eatonville Elementary,Washington,Eatonville,Pierce,52,82.69,78.85,1.92,1.92,1.92,46.870241,-122.26408
+1117,Christian Faith,Washington,Federal Way,King,23,82.61,82.61,0,0,17.39,47.2988551,-122.3086606
+1118,Cornerstone Christian,Washington,Olympia,Thurston,23,82.61,69.57,0,0,4.35,47.0344129,-122.817597
+1119,Isom Elementary,Washington,Lynden,Whatcom,80,82.5,76.25,1.25,0,1.25,48.9493625,-122.4658359
+1120,South Whidbey Elementary,Washington,Langley,Island,80,82.5,78.75,3.75,0,0,48.0143548,-122.4112874
+1121,Chambers Prairie Elementary,Washington,Lacey,Thurston,114,82.46,70.18,0,0,5.26,46.9918552,-122.8055644
+1122,Glenwood Elementary,Washington,Lake Stevens,Snohomish,91,82.42,71.43,1.1,0,5.49,47.9757513,-122.0919844
+1123,Bellingham Christian,Washington,Bellingham,Whatcom,17,82.35,82.35,0,0,17.65,48.7745402,-122.4527335
+1124,Birney Elementary,Washington,Tacoma,Pierce,68,82.35,79.41,0,1.47,2.94,47.1877715,-122.4507432
+1125,Toutle Lake Elementary,Washington,Toutle,Cowlitz,51,82.35,72.55,0,1.96,5.88,46.3239204,-122.7405443
+1126,Wing Luke Elementary,Washington,Seattle,King,51,82.35,82.35,0,0,1.96,47.538532,-122.2958996
+1127,Chloe Clark Elementary,Washington,Dupont,Pierce,147,82.31,73.47,0.68,0,2.04,47.0973819,-122.6390956
+1128,Meriwether Elementary,Washington,JBLM LEWIS MCCHORD,Pierce,62,82.26,79.03,1.61,0,0,47.1362765,-122.5905307
+1129,Burton Elementary,Washington,Vancouver,Clark,56,82.14,75,1.79,0,12.5,45.642295,-122.5259443
+1130,Kendall Elementary,Washington,Maple Falls,Whatcom,61,81.97,65.57,1.64,1.64,11.48,48.9165361,-122.1415494
+1131,Sunset Elementary,Washington,Airway Heights,Spokane,72,81.94,79.17,0,0,2.78,47.6452791,-117.5888485
+1132,Bryant Campus,Washington,Spokane,Spokane,77,81.82,74.03,10.39,1.3,2.6,47.664621,-117.436552
+1133,Olympia Community,Washington,Olympia,Thurston,11,81.82,72.73,0,0,0,47.0185782,-122.8844616
+1134,St. John Vianney,Washington,Spokane,Spokane,11,81.82,81.82,0,0,0,47.6611914,-117.2723755
+1135,St. Mary,Washington,Aberdeen,Grays Harbor,22,81.82,81.82,0,0,0,46.980225,-123.820331
+1136,Wilson Creek Elementary,Washington,Wilson Creek,Grant,11,81.82,81.82,0,0,9.09,47.4255171,-119.1215912
+1137,Lakeview Elementary,Washington,Kirkland,King,114,81.58,65.79,2.63,0,1.75,47.667517,-122.2001338
+1138,Republic Elementary,Washington,Republic,Ferry,27,81.48,81.48,0,0,7.41,48.6418259,-118.7271254
+1139,Fishers Landing Elementary,Washington,Vancouver,Clark,97,81.44,61.86,0,0,3.09,45.5948748,-122.4885955
+1140,Lockwood Elementary,Washington,Bothell,King,70,81.43,77.14,0,0,0,47.7781648,-122.2558088
+1141,Bailey Gatzert Elementary,Washington,Seattle,King,43,81.4,74.42,0,0,0,47.6011701,-122.3155688
+1142,Montessori Children's House,Washington,Redmond,King,16,81.25,68.75,0,0,6.25,47.6539126,-122.0496168
+1143,Roxhill Elementary,Washington,Seattle,King,37,81.08,75.68,0,0,2.7,47.518267,-122.3709079
+1144,Green Gables Elementary,Washington,Federal Way,King,58,81.03,74.14,0,0,1.72,47.3096538,-122.3929108
+1145,Cascadia Elementary,Washington,Ferndale,Whatcom,63,80.95,79.37,1.59,0,17.46,48.8656188,-122.617843
+1146,Naselle Elementary,Washington,Naselle,Pacific,21,80.95,76.19,0,0,9.52,46.3777371,-123.8022373
+1147,Woodin Elementary,Washington,Bothell,King,89,80.9,68.54,0,0,0,47.7681382,-122.1676646
+1148,Audubon Elementary,Washington,Redmond,King,99,80.81,62.63,0,0,1.01,47.6374176,-122.1016403
+1149,Mount View Elementary,Washington,Seattle,King,99,80.81,64.65,0,1.01,0,47.5063969,-122.3506188
+1150,Elmhurst Elementary,Washington,Tacoma,Pierce,57,80.7,78.95,0,0,3.51,47.1355856,-122.4243429
+1151,Licton Springs K-8,Washington,Seattle,King,31,80.65,70.97,0,0,0,47.694691,-122.3433909
+1152,Thoreau Elementary,Washington,Kirkland,King,67,80.6,70.15,1.49,1.49,2.99,47.7251308,-122.2303274
+1153,Sacred Heart,Washington,Clyde Hill,King,36,80.56,75,0,0,0,47.6237889,-122.2133774
+1154,Sifton Elementary,Washington,Vancouver,Clark,77,80.52,66.23,0,0,10.39,45.6756078,-122.5308072
+1155,Nooksack Elementary,Washington,Everson,Whatcom,71,80.28,74.65,0,0,1.41,48.925886,-122.307888
+1156,Emerson,Washington,Hoquiam,Grays Harbor,126,80.16,74.6,2.38,0.79,2.38,46.9813125,-123.9034046
+1157,Christian Worship Center Elementary,Washington,Zillah,Yakima,5,80,80,0,0,20,46.4085331,-120.2732242
+1158,Evaline Elementary,Washington,Winlock,Lewis,10,80,80,0,0,20,46.539371,-122.939213
+1159,Everett Christian,Washington,Everett,Snohomish,10,80,60,10,0,10,47.987745,-122.1931683
+1160,Lincoln Elementary,Washington,Olympia,Thurston,40,80,65,0,0,5,47.0295195,-122.898405
+1161,Parade,Washington,Carnation,King,5,80,60,0,0,20,47.6515347,-121.9094694
+1162,Pullman Christian,Washington,Pullman,Whitman,5,80,60,0,0,40,46.722502,-117.1877594
+1163,Sacajawea Elementary,Washington,Seattle,King,45,80,75.56,0,0,2.22,47.6985053,-122.3075542
+1164,Seattle Hebrew Academy,Washington,Seattle,King,15,80,60,0,0,6.67,47.6342764,-122.3079247
+1165,The Island,Washington,Bainbridge Island,Kitsap,10,80,80,0,0,20,47.6789911,-122.535249
+1166,Eagle Creek Elementary,Washington,Arlington,Snohomish,109,79.82,69.72,2.75,0,2.75,48.194031,-122.112316
+1167,Windsor Elementary,Washington,Spokane,Spokane,104,79.81,71.15,0,0,7.69,47.5945304,-117.4902209
+1168,Hulan L Whitson Elem,Washington,White Salmon,Klickitat,99,79.8,63.64,8.08,0,0,45.7304881,-121.4869772
+1169,Pioneer Elementary,Washington,Vancouver,Clark,99,79.8,71.72,1.01,1.01,7.07,45.6763741,-122.5010951
+1170,Five Mile Prairie,Washington,Spokane,Spokane,39,79.49,69.23,0,0,28.21,47.736767,-117.4544859
+1171,Twin City Elementary,Washington,Stanwood,Snohomish,39,79.49,69.23,0,0,7.69,48.2343626,-122.3290155
+1172,Madison Elementary,Washington,Olympia,Thurston,29,79.31,51.72,0,0,6.9,47.0439087,-122.8860824
+1173,Madrona,Washington,Bainbridge Island,Kitsap,29,79.31,79.31,0,0,20.69,47.6245184,-122.5224269
+1174,Juanita Elementary,Washington,Kirkland,King,53,79.25,58.49,1.89,0,3.77,47.7179518,-122.2093553
+1175,Harmony Elementary,Washington,Bellingham,Whatcom,43,79.07,72.09,0,0,2.33,48.824402,-122.330784
+1176,Pioneer Elementary,Washington,Shelton,Mason,86,79.07,74.42,1.16,0,1.16,47.25742,-122.998416
+1177,B F Day Elementary,Washington,Seattle,King,57,78.95,71.93,0,1.75,0,47.654779,-122.3491306
+1178,Providence Classical Christian,Washington,Lynnwood,Snohomish,19,78.95,78.95,0,0,21.05,47.7645476,-122.1799313
+1179,Valley Academy Of Learning,Washington,Wenatchee,Chelan,19,78.95,52.63,0,0,31.58,47.4524959,-120.3321261
+1180,Assumption Catholic,Washington,Bellingham,Whatcom,14,78.57,78.57,7.14,0,14.29,48.7588567,-122.4745664
+1181,North Elementary,Washington,Moses Lake,Grant,56,78.57,78.57,5.36,0,1.79,47.173061,-119.32669
+1182,Paramount Christian Academy,Washington,Lacey,Thurston,14,78.57,85.71,0,0,14.29,47.0121402,-122.8224414
+1183,York Elementary,Washington,Vancouver,Clark,79,78.48,72.15,3.8,0,10.13,45.6896393,-122.5152153
+1184,Kirk Elementary,Washington,Kirkland,King,88,78.41,64.77,0,0,4.55,47.6860654,-122.1956143
+1185,Emerson Elementary,Washington,Seattle,King,46,78.26,71.74,0,0,0,47.5147059,-122.258828
+1186,Orla Montessori,Washington,Olympia,Thurston,32,78.13,62.5,18.75,0,12.5,47.0679401,-122.8734356
+1187,George T. Daniel Elementary,Washington,Kent,King,73,78.08,69.86,0,0,2.74,47.3804243,-122.1901757
+1188,English Crossing Elementary,Washington,North Lakewood,Snohomish,50,78,70,2,0,4,48.1472907,-122.2090588
+1189,Image Elementary,Washington,Vancouver,Clark,100,78,65,4,0,3,45.6536553,-122.5486746
+1190,Sherwood Forest Elementary,Washington,Bellevue,King,78,77.97,87.18,0,0,0,47.630396,-122.12026
+1191,Sherwood Forest Elementary,Washington,Federal Way,King,59,77.97,76.27,0,1.69,1.69,47.2919804,-122.349735
+1192,Brinnon,Washington,Brinnon,Jefferson,9,77.78,55.56,0,0,22.22,47.6973867,-122.9030892
+1193,Columbia Crest,Washington,Ashford,Pierce,18,77.78,72.22,0,0,0,46.7542148,-122.1097703
+1194,Five Acre,Washington,Sequim,Clallam,9,77.78,77.78,0,0,22.22,48.131758,-123.1881804
+1195,Holy Family,Washington,Lacey,Thurston,9,77.78,77.78,0,0,0,47.023181,-122.7903982
+1196,Northwest Christian Elementary And Middle,Washington,Spokane,Spokane,27,77.78,74.07,3.7,0,22.22,47.8264592,-117.3352443
+1197,Quil Ceda Elementary,Washington,Marysville,Snohomish,81,77.78,67.9,0,0,1.23,48.0639599,-122.20078
+1198,Riverside Sda Christian,Washington,Washougal,Clark,9,77.78,77.78,0,0,22.22,45.5896953,-122.3681438
+1199,The River Academy,Washington,Wenatchee,Chelan,18,77.78,72.22,0,0,22.22,47.4047167,-120.3147918
+1200,Whittier Elementary,Washington,Tacoma,Pierce,103,77.67,62.14,0,0,2.91,47.2290039,-122.5141363
+1201,Elger Bay Elementary,Washington,Camano Island,Island,53,77.36,71.7,3.77,0,7.55,48.1453579,-122.4686229
+1202,Julia Butler Hansen Elementary,Washington,Olympia,Thurston,75,77.33,68,4,0,0,47.0620538,-122.953813
+1203,Truman Elementary,Washington,Vancouver,Clark,92,77.17,68.48,1.09,0,3.26,45.6547209,-122.6273276
+1204,Lynnwood Elementary,Washington,Lynnwood,Snohomish,65,76.92,61.54,0,0,3.08,47.8295596,-122.2943269
+1205,Odyssey Elementary,Washington,Everett,Snohomish,39,76.92,74.36,2.56,0,5.13,47.8797257,-122.2544522
+1206,St. Nicholas,Washington,Gig Harbor,Pierce,13,76.92,61.54,0,0,15.38,47.3288029,-122.5865306
+1207,Hofstetter Elementary,Washington,Colville,Stevens,129,76.74,70.54,4.65,0.78,10.08,48.5502644,-117.896393
+1208,Primary Academy,Washington,Spokane,Spokane,47,76.6,34.04,0,0,8.51,47.7039491,-117.3705658
+1209,Ebenezer Christian,Washington,Lynden,Whatcom,17,76.47,76.47,0,11.76,11.76,48.982081,-122.4848237
+1210,Grant Street Elementary,Washington,Port Townsend,Jefferson,68,76.47,70.59,0,0,4.41,48.1113664,-122.7915339
+1211,Palisades Christian Academy,Washington,Spokane,Spokane,17,76.47,76.47,5.88,5.88,11.76,47.6662401,-117.4714261
+1212,Carson Elementary,Washington,Puyallup,Pierce,140,76.43,52.86,0.71,0.71,1.43,47.0902816,-122.3118139
+1213,Hillcrest Elementary,Washington,Everett,Snohomish,144,76.39,64.58,0,0,4.86,47.9931809,-122.1057554
+1214,Sunrise Elementary,Washington,Veradale,Spokane,97,76.29,69.07,2.06,0,7.22,47.6358416,-117.208581
+1215,Twain Elementary,Washington,Kirkland,King,109,76.15,65.14,0.92,0,1.83,47.6870828,-122.1695478
+1216,Skyline Elementary,Washington,Lake Stevens,Snohomish,117,76.07,70.09,0,0,0.85,47.9871623,-122.1048026
+1217,Harmony Elementary,Washington,Vancouver,Clark,96,76.04,67.71,3.13,0,7.29,45.6367854,-122.4931698
+1218,Van Asselt Elementary,Washington,Seattle,King,54,75.93,75.93,0,0,0,47.5290446,-122.2888891
+1219,Utsalady Elementary,Washington,Camano Island,Island,58,75.86,65.52,12.07,0,5.17,48.233338,-122.471764
+1220,Salmon Bay K-8,Washington,Seattle,King,45,75.56,66.67,0,0,2.22,47.6765526,-122.3804807
+1221,Camelot Elementary,Washington,Auburn,King,49,75.51,63.27,0,0,4.08,47.3342076,-122.2843444
+1222,Sunnycrest Elementary,Washington,Kent,King,102,75.49,63.73,0,0,0,47.3804809,-122.2817852
+1223,Broadway Elementary,Washington,Spokane Valley,Spokane,48,75,70.83,0,0,10.42,47.6634773,-117.2572484
+1224,Cedar Tree Montessori,Washington,Bellingham,Whatcom,4,75,50,0,0,0,48.7622359,-122.4843786
+1225,Emerson K-12,Washington,Kirkland,King,4,75,75,0,0,25,47.6547008,-122.1960512
+1226,Forest Park Adventist,Washington,Everett,Snohomish,4,75,50,0,0,0,47.9631245,-122.2192404
+1227,French Immersion School Of Wa,Washington,Bellevue,King,20,75,70,15,0,0,47.5698284,-122.1017966
+1228,Gess Elementary,Washington,Chewelah,Stevens,20,75,70,0,0,0,48.2819241,-117.7115551
+1229,Home Link Alternative,Washington,Chewelah,Stevens,4,75,50,0,0,0,48.2777105,-117.7150848
+1230,Loon Lake Elementary,Washington,Loon Lake,Stevens,16,75,62.5,0,0,18.75,48.0649963,-117.6313189
+1231,Mayflower Christian,Washington,Cle Elum,Kittitas,4,75,75,25,0,0,47.195485,-120.9287226
+1232,Montessori Schoolhouse,Washington,Bremerton,Kitsap,4,75,50,0,0,25,47.6146479,-122.6543019
+1233,Onion	Creek	Elementary,Washington,COLVILLE,Ferry,4,75,75,0,0,25,48.7834156,-117.8093004
+1234,Seattle Waldorf School - Seattle Campuses,Washington,Seattle,King,60,75,51.67,0,0,18.33,47.7016219,-122.2973358
+1235,Snowdon Elementary,Washington,Cheney,Spokane,68,75,64.71,0,0,4.41,47.5948051,-117.5337982
+1236,St. Basil Academy Of Classical Studies,Washington,Walla Walla,Walla Walla,4,75,75,0,25,0,46.039869,-118.30574
+1237,Stella Maris Academy,Washington,Edmonds,Snohomish,4,75,75,0,0,25,47.8142457,-122.3753383
+1238,Roosevelt Elementary,Washington,Olympia,Thurston,63,74.6,66.67,0,1.59,4.76,47.0568512,-122.885366
+1239,View Ridge Elementary,Washington,Bremerton,Kitsap,85,74.12,63.53,0,0,3.53,47.5934818,-122.6275401
+1240,St. Patrick,Washington,Pasco,Franklin,23,73.91,73.91,0,0,0,46.2357902,-119.1078716
+1241,Rogers Adventist,Washington,College Place,Walla Walla,34,73.53,70.59,0,0,20.59,46.048141,-118.4001979
+1242,Lake Quinault Elementary,Washington,Amanda Park,Grays Harbor,15,73.33,73.33,0,0,6.67,47.460439,-123.8956549
+1243,Three Tree Montessori,Washington,Burien,King,30,73.33,60,0,0,10,47.460198,-122.336812
+1244,Mt Stuart Elementary,Washington,Ellensburg,Kittitas,93,73.12,66.67,0,0,3.23,47.0083797,-120.5592775
+1245,Summit Valley Elementary,Washington,Addy,Stevens,11,72.73,72.73,9.09,0,18.18,48.3067193,-117.9747748
+1246,Fircrest Elementary,Washington,Vancouver,Clark,73,72.6,56.16,1.37,0,2.74,45.6275091,-122.5499464
+1247,Spokane Public Montessori,Washington,Spokane,Spokane,29,72.41,48.28,6.9,0,31.03,47.6762855,-117.4320494
+1248,Hearthwood Elementary,Washington,Vancouver,Clark,54,72.22,53.7,0,0,5.56,45.6269536,-122.5265244
+1249,Long Beach Elementary,Washington,Long Beach,Pacific,43,72.09,58.14,0,0,4.65,46.3492546,-124.0516463
+1250,Bell Elementary,Washington,Kirkland,King,60,71.67,50,1.67,0,3.33,47.701609,-122.1912453
+1251,Bonney Lake Christian Academy,Washington,Bonney Lake,Pierce,7,71.43,71.43,0,28.57,0,47.183095,-122.180943
+1252,Easton,Washington,Easton,Kittitas,7,71.43,71.43,14.29,0,0,47.2365506,-121.1767387
+1253,Mason County Christian,Washington,Shelton,Mason,7,71.43,71.43,0,0,14.29,47.23743,-123.0943409
+1254,Orchard Prairie Elementary,Washington,Spokane,Spokane,7,71.43,42.86,0,0,28.57,47.7276676,-117.3135745
+1255,Orchards Elementary,Washington,Vancouver,Clark,91,71.43,61.54,1.1,0,5.49,45.6725829,-122.5566369
+1256,Tri-City Junior Academy,Washington,Pasco,Franklin,7,71.43,71.43,0,0,0,46.2383457,-119.1460861
+1257,White Pass Elementary,Washington,Randle,Lewis,28,71.43,67.86,3.57,0,0,46.5355826,-121.9277974
+1258,Cedar Tree Classical Christian,Washington,Ridgefield,Clark,17,70.59,41.18,0,0,47.06,45.7704066,-122.6408133
+1259,Kings Schools,Washington,Seattle,King,68,70.59,63.24,1.47,0,2.94,47.7695571,-122.3541261
+1260,Thorp Elementary And Jr Sr High,Washington,Thorp,Kittitas,17,70.59,58.82,0,0,17.65,47.069245,-120.675262
+1261,Silver Star Elementary,Washington,Vancouver,Clark,84,70.24,59.52,1.19,0,8.33,45.6844203,-122.5642392
+1262,Grantham Elementary,Washington,Clarkston,Asotin,47,70.21,70.21,0,0,4.26,46.4177851,-117.0563653
+1263,Bess Herian Elementary,Washington,CUSICK,Pend Oreille,10,70,60,0,0,10,48.3372482,-117.2970959
+1264,Phoenix Program,Washington,Puyallup,Pierce,10,70,30,0,10,10,47.2052282,-122.2824246
+1265,Quilcene Primary,Washington,QUILCENE,Jefferson,10,70,30,0,0,30,47.8234322,-122.8750867
+1266,Silverwood,Washington,Poulsbo,Kitsap,10,70,70,20,0,10,47.691152,-122.650586
+1267,Valley,Washington,Valley,Stevens,20,70,70,0,0,25,48.1695606,-117.7210928
+1268,Endeavour Elementary,Washington,Vancouver,Clark,112,69.64,49.11,0,0,5.36,45.6418434,-122.5502651
+1269,Whatcom Hills Waldorf,Washington,Bellingham,Whatcom,36,69.44,44.44,2.78,0,44.44,48.7420307,-122.399422
+1270,Lynden Academy,Washington,Lynden,Whatcom,13,69.23,61.54,0,0,23.08,48.9468598,-122.4825543
+1271,Three Rivers Christian School-Longview Elem,Washington,Longview,Cowlitz,13,69.23,69.23,0,0,0,46.147202,-122.951043
+1272,Soap Lake Elementary,Washington,Soap Lake,Grant,29,68.97,62.07,0,0,13.79,47.3872198,-119.4982935
+1273,Homeconnection,Washington,Oak Harbor,Island,16,68.75,68.75,6.25,6.25,18.75,48.3294524,-122.6741175
+1274,Mount Vernon Christian,Washington,Mount Vernon,Skagit,16,68.75,31.25,0,0,6.25,48.405278,-122.343351
+1275,Springdale Elementary,Washington,Springdale,Stevens,16,68.75,43.75,0,0,12.5,48.0601645,-117.7463457
+1276,Trout Lake Elementary,Washington,Trout Lake,Klickitat,16,68.75,43.75,25,0,25,45.9888518,-121.5156555
+1277,Marrion Elementary,Washington,Vancouver,Clark,70,68.57,55.71,1.43,0,1.43,45.63138,-122.56976
+1278,Morton Elementary,Washington,Morton,Lewis,19,68.42,57.89,0,0,5.26,46.558387,-122.2789979
+1279,St. Brendan,Washington,Bothell,King,22,68.18,68.18,0,0,0,47.768792,-122.2051473
+1280,Seattle Waldorf - Three Cedars,Washington,Bellevue,King,31,67.74,64.52,0,0,35.48,47.6150866,-122.1739258
+1281,Illahee Elementary,Washington,Camas,Clark,83,67.47,49.4,0,0,3.61,45.6206391,-122.4719798
+1282,Ellsworth Elementary,Washington,Vancouver,Clark,61,67.21,42.62,1.64,1.64,1.64,45.6173769,-122.5620711
+1283,Columbia Valley Elementary,Washington,Vancouver,Clark,88,67.05,51.14,0,0,3.41,45.6125136,-122.4922374
+1284,Academy For Precision Learning,Washington,Seattle,King,6,66.67,66.67,0,0,0,47.6659047,-122.3134892
+1285,Beaver Valley,Washington,Leavenworth,Chelan,6,66.67,50,0,0,50,47.769853,-120.6652289
+1286,Curlew Elementary,Washington,Curlew,Ferry,12,66.67,66.67,0,0,8.33,48.8744955,-118.6044193
+1287,Emerald Heights Academy,Washington,Bellevue,King,9,66.67,55.56,11.11,0,11.11,47.5758363,-122.1316473
+1288,H.O.M.E. Program,Washington,RENTON,King,6,66.67,66.67,0,0,33.33,47.4568142,-122.1972837
+1289,Kitsap Adventist Christian,Washington,Bremerton,Kitsap,6,66.67,66.67,0,16.67,0,47.5868746,-122.7186048
+1290,Lopez Elementary,Washington,Lopez Island,San Juan,18,66.67,44.44,0,0,11.11,48.4919842,-122.8979784
+1291,Skagit Adventist Academy,Washington,Burlington,Skagit,9,66.67,66.67,11.11,0,22.22,48.4798743,-122.3128857
+1292,St. Pius X,Washington,Mountlake Terrace,Snohomish,15,66.67,66.67,0,0,0,47.7974368,-122.3107604
+1293,St. Thomas More,Washington,Spokane,Spokane,24,66.67,41.67,4.17,0,16.67,47.7329145,-117.4187987
+1294,Summit Classical Christian,Washington,North Bend,King,6,66.67,33.33,0,0,50,47.5685108,-121.9040597
+1295,Washtucna School District,Washington,Washtucna,Adams,3,66.67,66.67,0,0,0,46.7527308,-118.309791
+1296,Mc Cleary Elementary,Washington,McCleary,Grays Harbor,44,65.91,63.64,0,0,0,47.0481668,-123.2648904
+1297,Arlington Elementary,Washington,Tacoma,Pierce,63,65.08,50.79,0,0,1.59,47.1915607,-122.4742849
+1298,Monroe Christian,Washington,Monroe,Snohomish,14,64.29,64.29,0,0,0,47.85211,-121.984734
+1299,Port Gardner,Washington,Everett,Snohomish,14,64.29,42.86,7.14,0,21.43,47.9707952,-122.2127022
+1300,St. Catherine,Washington,Seattle,King,14,64.29,35.71,0,0,7.14,47.691103,-122.3200855
+1301,Cascade Parent Partnership Program,Washington,Seattle,King,22,63.64,45.45,0,0,4.55,47.6462408,-122.3583977
+1302,Mill Plain Elementary,Washington,Vancouver,Clark,79,63.29,49.37,0,0,3.8,45.6182671,-122.505569
+1303,Firm Foundation Christian,Washington,Battle Ground,Clark,40,62.5,52.5,0,0,42.5,45.7666335,-122.5622642
+1304,Mmsc Day,Washington,Seattle,King,8,62.5,50,0,0,0,47.6903952,-122.3523181
+1305,Edmonds Heights K-12,Washington,Edmonds,Snohomish,29,62.07,51.72,0,0,34.48,47.7862222,-122.3687008
+1306,Montessori Country School - Children's House,Washington,Bainbridge Island,Kitsap,13,61.54,46.15,0,0,15.38,47.662869,-122.573813
+1307,Hockinson Heights Elementary,Washington,BRUSH PRAIRIE,Clark,109,61.47,41.28,0.92,0,7.34,45.741815,-122.468155
+1308,Homelink River,Washington,Battle Ground,Clark,54,61.11,51.85,3.7,0,38.89,45.7669514,-122.544564
+1309,Foothills Christian,Washington,Mt Vernon,Skagit,5,60,60,0,0,0,48.4273176,-122.3211309
+1310,St. Mary's Academy,Washington,Tacoma,Pierce,5,60,60,0,20,20,47.1316876,-122.4432755
+1311,St. Mary's Catholic,Washington,Spokane,Spokane,10,60,40,0,0,0,47.6537367,-117.2080882
+1312,Crestline Elementary,Washington,Vancouver,Clark,96,59.38,46.88,0,0,3.13,45.6156717,-122.5392273
+1313,Faith Evangelical Lutheran,Washington,Tacoma,Pierce,12,58.33,58.33,0,0,0,47.170198,-122.43178
+1314,Arlington Christian,Washington,Arlington,Snohomish,7,57.14,57.14,0,0,42.86,48.1782612,-122.1967017
+1315,Homeworks,Washington,Cheney,Spokane,7,57.14,42.86,0,0,28.57,47.4896173,-117.5777135
+1316,Shorewood Christian,Washington,Seattle,King,14,57.14,57.14,0,7.14,7.14,47.510838,-122.367481
+1317,Valley Christian,Washington,Spokane,Spokane,21,57.14,47.62,0,4.76,28.57,47.6484615,-117.2677496
+1318,Smith Elementary,Washington,Grandview,Yakima,99,55.56,49.49,0,0,0,46.254413,-119.8888015
+1319,Stillaguamish Valley,Washington,Arlington,Snohomish,9,55.56,44.44,11.11,0,11.11,48.1943257,-122.1141046
+1320,Yakima Adventist Christian,Washington,Yakima,Yakima,13,53.85,38.46,0,7.69,0,46.6187633,-120.5783701
+1321,Kapka Cooperative,Washington,Seattle,King,15,53.33,40,0,0,13.33,47.6644744,-122.3520983
+1322,Burley Christian,Washington,Port Orchard,Kitsap,17,52.94,52.94,0,0,23.53,47.415128,-122.624723
+1323,Southside Christian,Washington,Spokane,Spokane,17,52.94,52.94,0,0,35.29,47.627868,-117.403557
+1324,Seattle Amistad,Washington,Seattle,King,25,52,52,0,4,0,47.6087378,-122.3010179
+1325,Central Avenue Elementary,Washington,Tacoma,Pierce,61,50.82,49.18,0,0,1.64,47.1623012,-122.3684692
+1326,Benge Elementary,Washington,Benge,Adams,2,50,50,0,0,50,46.9148198,-118.0491999
+1327,Blaine Homeconnection,Washington,Blaine,Whatcom,2,50,50,0,0,0,48.999955,-122.74471
+1328,Covenant Christian,Washington,Lynden,Whatcom,2,50,50,0,0,50,48.9707645,-122.4073421
+1329,Explorer Academy,Washington,Port Orchard,Kitsap,2,50,50,0,0,50,47.5356593,-122.6199688
+1330,Harbor Montessori,Washington,Gig Harbor,Pierce,10,50,50,0,0,0,47.319383,-122.611333
+1331,Hosanna Christian,Washington,Vancouver,Clark,18,50,50,0,0,27.78,45.6514957,-122.6376975
+1332,Johnson Christian,Washington,Colville,Stevens,2,50,50,0,0,50,48.4545948,-117.8759471
+1333,Living Wisdom School Of Seattle,Washington,Lynwood,King,6,50,33.33,0,0,66.67,47.8072056,-122.3262184
+1334,Mosaic Home Education Partnership,Washington,Bainbridge Island,Kitsap,2,50,50,0,0,50,47.636476,-122.5222446
+1335,New Life Christian,Washington,Ephrata,Grant,8,50,50,0,0,12.5,47.3192646,-119.5383076
+1336,Northport Elementary,Washington,Northport,Stevens,12,50,41.67,0,0,33.33,48.9115199,-117.7898754
+1337,Oak Harbor Christian,Washington,Oak Harbor,Island,8,50,37.5,0,0,12.5,48.297706,-122.6505012
+1338,Shelton Valley Christian,Washington,Shelton,Mason,2,50,50,50,0,0,47.20228,-123.136318
+1339,Spokane Windsong,Washington,Spokane,Spokane,14,50,50,0,0,28.57,47.6745997,-117.4740678
+1340,St. Michael's Academy,Washington,Spokane,Spokane,4,50,50,0,0,50,47.7315881,-117.3411298
+1341,Sunfield Waldorf,Washington,Port Hadlock,Jefferson,22,50,45.45,9.09,0,36.36,48.032569,-122.784179
+1342,Oly Regional Learning Academy,Washington,Olympia,Thurston,34,47.06,35.29,0,0,8.82,47.0371244,-122.867918
+1343,Home Choice Academy,Washington,Vancouver,Clark,23,43.48,26.09,4.35,0,26.09,45.641234,-122.5328041
+1344,Bright Water,Washington,Seattle,King,30,43.33,16.67,3.33,0,23.33,47.6325559,-122.3207143
+1345,Cosmopolis Elementary,Washington,Cosmopolis,Grays Harbor,21,42.86,33.33,0,0,0,46.952856,-123.7717041
+1346,Orient	Elementary,Washington,ORIENT,Ferry,7,42.86,42.86,0,0,0,48.8679061,-118.2048905
+1347,Brooklake Christian,Washington,Federal Way,King,15,40,20,0,0,6.67,47.2818845,-122.3258003
+1348,Colville Valley Junior Academy,Washington,Colville,Stevens,5,40,20,0,0,80,48.5325434,-117.8956514
+1349,Riverwood Community,Washington,Colville,Stevens,5,40,40,0,0,40,48.5613658,-117.918521
+1350,Spokane Christian Academy,Washington,Spokane,Spokane,10,40,40,10,0,0,47.72342,-117.2865909
+1351,St. John Of Kronstadt Orthodox Christian,Washington,Yakima,Yakima,5,40,40,0,0,60,46.5865221,-120.5157009
+1352,Great Northern Elementary,Washington,Spokane,Spokane,8,37.5,37.5,0,0,12.5,47.686214,-117.519043
+1353,Camas Christian Academy (Bright Futures Christian School),Washington,Camas,Clark,19,36.84,36.84,0,0,26.32,45.616806,-122.4026688
+1354,Dallesport Elementary,Washington,Dallesport,Klickitat,22,36.36,27.27,0,0,0,45.6173426,-121.1795155
+1355,Orcas Elementary,Washington,Eastsound,San Juan,20,35,20,0,0,0,48.6986866,-122.9036826
+1356,Mt Pleasant,Washington,Washougal,Clark,9,33.33,33.33,0,0,11.11,45.5637775,-122.2300535
+1357,Salish School Of Spokane,Washington,Spokane,Spokane,6,33.33,33.33,0,0,16.67,47.696244,-117.435465
+1358,Summit Christian Academy,Washington,Spokane,Spokane,18,33.33,22.22,0,0,77.78,47.740074,-117.446942
+1359,Tacoma Christian Academy- Formerly Slavic Christian Academy-Tacoma,Washington,Tacoma,Pierce,43,32.56,32.56,0,0,67.44,47.245404,-122.464254
+1360,Ponderosa Elementary,Washington,Spokane,Spokane,67,31.34,25.37,0,0,2.99,47.6192335,-117.268466
+1361,Providence Christian School Northwest,Washington,Ferndale,Whatcom,10,30,20,0,0,50,48.8578152,-122.5840545
+1362,Family Link,Washington,Vashon,King,7,28.57,28.57,14.29,0,28.57,47.4227449,-122.4573685
+1363,Central Education Services,Washington,Bellevue,King,4,25,25,0,0,0,47.6105891,-122.1786216
+1364,Overcomer Academy,Washington,Auburn,King,17,23.53,17.65,11.76,11.76,23.53,47.301117,-122.27632
+1365,Salvation Christian Academy- Formerly Slavic Christian Academy-Edgewood,Washington,Edgewood,Pierce,18,22.22,22.22,0,0,55.56,47.249023,-122.2876146
+1366,Saratoga,Washington,Stanwood,Snohomish,15,20,20,6.67,0,26.67,48.2425792,-122.3590965
+1367,Skagit Family Learning Center,Washington,Mount Vernon,Skagit,34,17.65,11.76,2.94,0,20.59,48.4064258,-122.3391663
+1368,Snohomish Center,Washington,Snohomish,Snohomish,10,10,10,0,0,0,47.9317684,-122.09876
+1369,Assumption Grade,Washington,Walla Walla,Walla Walla,1,0,0,0,0,100,46.06738,-118.290814
+1370,Carden Country,Washington,Bainbridge Island,Kitsap,2,0,0,0,0,100,47.625743,-122.557197
+1371,Hutch,Washington,SEATTLE,King,1,0,0,0,0,0,47.6237998,-122.3333524
+1372,Loon Lake Homelink,Washington,Loon Lake,Ferry,12,0,0,0,0,0,48.061499,-117.6305234
+1373,North River,Washington,Cosmopolis,Grays Harbor,3,0,0,0,0,0,46.776023,-123.484573
+1374,Northport Homelink K-8,Washington,Northport,Stevens,11,0,0,0,0,0,48.9113744,-117.7891215
+1375,Oasis,Washington,Eastsound,San Juan,20,0,0,0,0,0,48.6986025,-122.9032725
+1376,Pal Program,Washington,Poulsbo,Kitsap,1,0,0,0,0,0,47.7335866,-122.6260171
+1377,Point Roberts Primary,Washington,Blaine,Whatcom,3,0,0,0,0,0,48.9911548,-122.7401101
+1378,Special Education,Washington,Shoreline,King,2,0,0,0,0,0,47.7648183,-122.3290918
+1379,Special Services,Washington,Bothell,King,2,0,0,0,0,0,47.7770059,-122.1899463
+1380,Spokane Valley Learning Academy,Washington,Spokane,Spokane,1,0,0,0,0,100,47.6513934,-117.2303134
+1381,Waldron Island,Washington,Waldron Island,San Juan,1,0,0,0,0,0,48.7077564,-123.0308421
+1382,49Th Street Academy,Washington,Vancouver,Clark,,,,,,,45.6570843,-122.5222635
+1383,Academy Nw/Family Academy,Washington,Arlington,Snohomish,,,,,,,48.2086929,-122.0988139
+1384,Academy Schools / ChildrenÃ«Ã²Ã¬Ã Ã¬-S Academy,Washington,Tukwila,King,,,,,,,47.4724498,-122.2556182
+1385,Alcuin,Washington,Seattle,King,,,,,,,47.6385806,-122.3605131
+1386,Alderwood Elementary,Washington,Bellingham,Whatcom,,,,,,,48.7789379,-122.5270256
+1387,Alger Learning Center Inc,Washington,Sedro-Woolley,Whatcom,,,,,,,48.646038,-122.3318668
+1388,All Saints Catholic,Washington,Spokane,Spokane,,,,,,,47.6385721,-117.3591538
+1389,All Saints,Washington,Fife,Pierce,,,,,,,47.2351407,-122.3556977
+1390,Armin Jahr Elementary,Washington,Bremerton,Kitsap,,,,,,,47.5921323,-122.6354555
+1391,Assumption,Washington,Spokane,Spokane,,,,,,,47.7223473,-117.4638502
+1392,Baker View Christian,Washington,Bellingham,Whatcom,,,,,,,48.8353062,-122.5298606
+1393,Beezley Springs Elementary,Washington,Ephrata,Grant,,,,,,,47.3259869,-119.5496397
+1394,Bellevue Children's Academy,Washington,Bellevue,King,,,,,,,47.6326071,-122.1439742
+1395,Big Leaf Montessori,Washington,Castle Rock,Cowlitz,,,,,,,46.1408674,-122.9454581
+1396,Birchwood Elementary,Washington,Bellingham,Whatcom,,,,,,,48.77483,-122.5062501
+1397,Bk Play Academy For Gifted Children,Washington,Bellevue,King,,,,,,,47.6255526,-122.1507019
+1398,Brentwood Elementary,Washington,Spokane,Spokane,,,,,,,47.7630663,-117.4169283
+1399,Bridgeway Christian Academy,Washington,Bellingham,Whatcom,,,,,,,48.833809,-122.528426
+1400,Calvary Chapel Christian,Washington,Spokane,Spokane,,,,,,,47.6651373,-117.1838877
+1401,Can Learn Academy,Washington,Spokane,Spokane,,,,,,,47.73389,-117.4228411
+1402,Carl Cozier Elementary,Washington,Bellingham,Whatcom,,,,,,,48.7459268,-122.4615635
+1403,Carnation Elementary,Washington,Carnation,King,,,,,,,47.6517826,-121.9112902
+1404,Cascade Christian Academy,Washington,Wenatchee,Chelan,,,,,,,47.430904,-120.348393
+1405,Cedarbrook Adventist Christian,Washington,Port Hadlock,Jefferson,,,,,,,48.0347112,-122.7929625
+1406,Cherry Valley Elementary,Washington,Duvall,King,,,,,,,47.7470945,-121.9824677
+1407,Child Development Program Wsu Vancouver,Washington,Vancouver,Clark,,,,,,,45.7315635,-122.6362767
+1408,Children's Institute For Learning Differences (Child),Washington,Renton,King,,,,,,,47.4569155,-122.2011036
+1409,Choice Alternative,Washington,Shelton,Mason,,,,,,,47.215582,-123.1085336
+1410,Christ The King Lutheran,Washington,Bremerton,Kitsap,,,,,,,47.636575,-122.7032779
+1411,Christian Heritage,Washington,Edwall,Lincoln,,,,,,,47.5007332,-117.9504238
+1412,Chrysalis School (K-8),Washington,Woodinville,King,,,,,,,47.751054,-122.153408
+1413,Columbia Elementary,Washington,Bellingham,Whatcom,,,,,,,48.7635752,-122.4925602
+1414,Columbia Virtual Academy,Washington,Valley,Stevens,,,,,,,48.1704279,-117.721066
+1415,Connell Elem,Washington,Connell,Franklin,,,,,,,46.6635203,-118.8696838
+1416,Contract Services/Relife,Washington,Lakewood,Pierce,,,,,,,47.1592535,-122.5199718
+1417,Contracted Schools,Washington,Lynnwood,Snohomish,,,,,,,47.813454,-122.326024
+1418,Cordata Elementary,Washington,Bellingham,Whatcom,,,,,,,48.8018621,-122.5060688
+1419,Cottonwood Elementary,Washington,Yakima,Yakima,,,,,,,46.5866824,-120.634755
+1420,Crestview Christian,Washington,Moses Lake,Grant,,,,,,,47.137665,-119.3064911
+1421,Decatur Elementary,Washington,Anacortes,Skagit,,,,,,,48.513573,-122.798206
+1422,Deep Creek Hutterian,Washington,Reardan,Lincoln,,,,,,,47.691227,-117.728732
+1423,Discovery Depot Montessori,Washington,Bremerton,Kitsap,,,,,,,47.6300028,-122.6719064
+1424,District Run Home,Washington,Forks,Clallam,,,,,,,47.9465878,-124.3839233
+1425,Dixie Elementary,Washington,Dixie,Walla Walla,,,,,,,46.1418328,-118.149775
+1426,Dolan Academy & Learning Center,Washington,Woodinville,King,,,,,,,47.7629441,-122.1312601
+1427,Dutch Hill Elementary,Washington,Snohomish,Snohomish,,,,,,,47.9215141,-122.0540605
+1428,Eagleridge Elementary,Washington,Ferndale,Whatcom,,,,,,,48.8617327,-122.6243228
+1429,Eaton Arrowsmith Academy,Washington,Redmond,King,,,,,,,47.6643076,-122.101703
+1430,Edison (7/8),Washington,Bow,Skagit,,,,,,,48.5612187,-122.4407986
+1431,Evergreen Academy Of Arts & Sciences,Washington,Centralia,Lewis,,,,,,,46.7134119,-122.962911
+1432,Evergreen Christian Private,Washington,Federal Way,King,,,,,,,47.3000799,-122.2891963
+1433,Faith Lutheran,Washington,Lacey,Thurston,,,,,,,47.0409608,-122.7859202
+1434,Family Academy/Academy Nw,Washington,Seattle,King,,,,,,,47.4704542,-122.3591822
+1435,Family House Academy,Washington,Kelso,Cowlitz,,,,,,,46.110666,-122.860799
+1436,Finley Elementary,Washington,Kennewick,Benton,,,,,,,46.143889,-119.0530761
+1437,First Place Scholars,Washington,Seattle,King,,,,,,,47.6033015,-122.3058549
+1438,Geneva Elementary,Washington,Bellingham,Whatcom,,,,,,,48.7478512,-122.4021033
+1439,Giddens,Washington,Seattle,King,,,,,,,47.5967439,-122.3060356
+1440,Grand Ridge Elementary,Washington,Issaquah,King,,,,,,,47.5468628,-122.0046409
+1441,Greater Trinity Christian Learning Academy,Washington,Everett,Snohomish,,,,,,,47.895943,-122.238052
+1442,Green River Montessori,Washington,Auburn,King,,,,,,,47.3183826,-122.2176884
+1443,Greenwood Elementary,Washington,Fort Lewis,Pierce,,,,,,,47.0931578,-122.6024143
+1444,Greywolf Elementary,Washington,Sequim,Clallam,,,,,,,48.0814196,-123.1745032
+1445,Griffin Bay,Washington,Friday Harbor,San Juan,,,,,,,48.534076,-123.020781
+1446,Happy Valley Elementary,Washington,Bellingham,Whatcom,,,,,,,48.7223601,-122.4851723
+1447,Harbor Christian Schools,Washington,Gig Harbor,Pierce,,,,,,,47.316871,-122.604708
+1448,Harrington Elementary,Washington,Harrington,Lincoln,,,,,,,47.4797066,-118.250648
+1449,Harvard Elementary,Washington,Tacoma,Pierce,,,,,,,47.180638,-122.405578
+1450,Helen Haller Elementary,Washington,Sequim,Clallam,,,,,,,48.083832,-123.1093549
+1451,Holden Village Community,Washington,Chelan,Chelan,,,,,,,48.1998387,-120.7742549
+1452,Holy Innocents School Of Nw,Washington,Federal Way,King,,,,,,,47.3356648,-122.3001615
+1453,Homelink,Washington,Hoquiam,Grays Harbor,,,,,,,46.9804547,-123.888427
+1454,Hope Academy,Washington,Seattle,King,,,,,,,47.518505,-122.3581594
+1455,Hope Lutheran,Washington,Seattle,King,,,,,,,47.563366,-122.385062
+1456,Horizon,Washington,Shoreline,King,,,,,,,47.7710196,-122.3778231
+1457,Imagination School Of Education,Washington,Tacoma,Pierce,,,,,,,47.1224886,-122.4384815
+1458,Index Elementary,Washington,Index,Snohomish,,,,,,,47.820712,-121.5550572
+1459,James Sales Elementary,Washington,Tacoma,Pierce,,,,,,,47.155049,-122.451618
+1460,K12 Eburg Learning Ctr,Washington,Ellensburg,Kittitas,,,,,,,46.9941004,-120.5440423
+1461,Keller Elementary,Washington,Keller,Ferry,,,,,,,48.0784536,-118.6869543
+1462,Kent Mountain View Elementary,Washington,Des Moines,King,,,,,,,47.3665648,-122.1937921
+1463,Klickitat Elementary & High,Washington,Lyle,Klickitat,,,,,,,45.8163267,-121.153586
+1464,Lake Roosevelt Alternative,Washington,Coulee Dam,Grant,,,,,,,47.970145,-118.9731074
+1465,Lake Roosevelt Elementary,Washington,Grand Coulee,Grant,,,,,,,47.9382642,-119.0058917
+1466,Lake Stickney Elementary,Washington,Lynnwood,Snohomish,,,,,,,47.8704685,-122.2557081
+1467,Lewis River Academy,Washington,Woodland,Cowlitz,,,,,,,45.9038438,-122.7499647
+1468,Liberty Christian,Washington,Walla Walla,Walla Walla,,,,,,,46.028729,-118.382422
+1469,Light Of Faith Christian Academy,Washington,Bothell,Snohomish,,,,,,,47.8338464,-122.2114978
+1470,Lincoln Elementary,Washington,Hoquiam,Grays Harbor,,,,,,,46.9912796,-123.8877707
+1471,Lowell Elementary,Washington,Bellingham,Whatcom,,,,,,,48.7244787,-122.4990914
+1472,Makkah Islamic,Washington,Seattle,King,,,,,,,47.5495424,-122.2866149
+1473,Manson Elementary,Washington,Manson,Chelan,,,,,,,47.8899306,-120.1537253
+1474,Maple Grove,Washington,Battle Ground,Clark,,,,,,,45.7678161,-122.5437868
+1475,Marlin Hutterite,Washington,Warden,Grant,,,,,,,47.3492275,-119.0347569
+1476,Mattawa Elementary,Washington,Mattawa,Grant,,,,,,,46.7409257,-119.897128
+1477,Mid Columbia Christian,Washington,Othello,Adams,,,,,,,46.8282448,-119.1573857
+1478,Midway Learning Center,Washington,Moses Lake,Grant,,,,,,,47.120144,-119.2903562
+1479,Mill A Elementary,Washington,Cook,Skamania,,,,,,,45.7572233,-121.6487587
+1480,Monroe Montessori,Washington,Monroe,Snohomish,,,,,,,47.85187,-121.980846
+1481,Monte Cristo Elementary,Washington,Granite Falls,Snohomish,,,,,,,48.0875379,-121.9832975
+1482,Morgen Owings Elementary,Washington,Chelan,Chelan,,,,,,,47.840289,-120.0121387
+1483,Morris Schott Elementary,Washington,Mattawa,Grant,,,,,,,46.7417061,-119.8968136
+1484,Mountain View Christian,Washington,Sequim,Clallam,,,,,,,48.102533,-123.096348
+1485,Mountainview Elementary,Washington,Yakima,Yakima,,,,,,,46.588649,-120.7102279
+1486,Mt. Pilchuck Elementary,Washington,Lake Stevens,Snohomish,,,,,,,48.0151115,-122.0582128
+1487,Mukilteo Academy,Washington,Mukilteo,Snohomish,,,,,,,47.8811426,-122.2835584
+1488,Naval Avenue Elementary,Washington,Bremerton,Kitsap,,,,,,,47.5697482,-122.6473206
+1489,Nespelem Elementary,Washington,Nespelem,Okanogan,,,,,,,48.1652768,-118.9872229
+1490,Ness Elementary,Washington,Spokane,Spokane,,,,,,,47.6656054,-117.2749209
+1491,North Bend Montessori Inc,Washington,North Bend,King,,,,,,,47.49559,-121.7828159
+1492,North Coast Montessori,Washington,Pacific Beach,Grays Harbor,,,,,,,47.1955492,-124.1984579
+1493,North Mason Homelink,Washington,Belfair,Mason,,,,,,,47.414442,-122.8408265
+1494,North Wall Elementary,Washington,Spokane,Spokane,,,,,,,47.742568,-117.4211351
+1495,North Whidbey Kid's Academy,Washington,Oak Harbor,Island,,,,,,,48.30129,-122.651228
+1496,Northern Heights Elementary,Washington,Bellingham,Whatcom,,,,,,,48.786446,-122.418669
+1497,Northern Lights Montessori,Washington,Redmond,King,,,,,,,47.6779593,-122.1267698
+1498,Northwest Achieve,Washington,Spokane,Spokane,,,,,,,47.6752409,-117.4137199
+1499,Northwest Free,Washington,Renton,King,,,,,,,47.5052511,-122.1710217
+1500,Northwest Montessori,Washington,Seattle,King,,,,,,,47.6822691,-122.3003222
+1501,Oak Grove Elementary,Washington,Lakewood,Pierce,,,,,,,47.1789183,-122.5552554
+1502,Olympic Christian,Washington,Port Angeles,Clallam,,,,,,,48.095769,-123.3014192
+1503,Orchard Center Elementary,Washington,Spokane,Spokane,,,,,,,47.6825918,-117.3020372
+1504,Orchard Heights Elementary,Washington,Port Orchard,Kitsap,,,,,,,47.5273045,-122.5993848
+1505,Our Lady Of The Lake,Washington,Seattle,King,,,,,,,47.6935661,-122.2894855
+1506,Pacific Crest Academy,Washington,Camas,Clark,,,,,,,45.5910122,-122.3936008
+1507,Pacific Learning Center Nw,Washington,Shoreline,King,,,,,,,47.735176,-122.3542021
+1508,Park Orchard Elementary,Washington,Moses Lake,Grant,,,,,,,47.1336294,-119.2993569
+1509,Parkview Elementary,Washington,Bellingham,Whatcom,,,,,,,48.7709467,-122.4786568
+1510,Pasadena Park Elementary,Washington,Spokane,Spokane,,,,,,,47.6972991,-117.2891331
+1511,Pend Oreille River,Washington,Newport,Pend Oreille,,,,,,,48.1765145,-117.0604564
+1512,Praise Christian Academy,Washington,Burien,King,,,,,,,47.467842,-122.3482464
+1513,Queen Of Angels,Washington,Port Angeles,Clallam,,,,,,,48.111515,-123.4421811
+1514,Rainier Christian Schools-Maple Valley Elementary,Washington,Renton,King,,,,,,,47.4527783,-122.1114307
+1515,Red Rock Elementary,Washington,Royal City,Grant,,,,,,,46.9105036,-119.62414
+1516,Residential Consortium,Washington,Seattle,King,,,,,,,47.6392178,-122.3698222
+1517,Ridgecrest Elementary,Washington,Shoreline,King,,,,,,,47.74942,-122.31699
+1518,Riverday,Washington,Spokane,Spokane,,,,,,,47.6621571,-117.3863116
+1519,Riverview Elementary,Washington,Snohomish,Snohomish,,,,,,,47.937645,-122.132174
+1520,Rock Creek Hutterite,Washington,Odessa,Lincoln,,,,,,,47.231767,-118.585402
+1521,Roosevelt Elementary,Washington,Bellingham,Whatcom,,,,,,,48.7682983,-122.4429004
+1522,Saddle Mountain Elementary,Washington,Mattawa,Grant,,,,,,,46.741931,-119.9000094
+1523,Saint Helens Elementary,Washington,Longview,Cowlitz,,,,,,,46.1284262,-122.9599069
+1524,Salmonberry,Washington,Eastsound,San Juan,,,,,,,48.7011013,-122.9066277
+1525,School Home Partnership Program,Washington,Marysville,Snohomish,,,,,,,48.0677247,-122.1733097
+1526,Seabury,Washington,Tacoma,Pierce,,,,,,,47.3050395,-122.4231783
+1527,Selah Covenant Christian,Washington,Selah,Yakima,,,,,,,46.671422,-120.536997
+1528,Selah Homelink,Washington,Selah,Yakima,,,,,,,46.657174,-120.5319319
+1529,Sequim Community School (Olympic Peninsula Academy),Washington,Sequim,Clallam,,,,,,,48.0830471,-123.1060066
+1530,Serendipity Academy At The Lodge,Washington,Tumwater,Thurston,,,,,,,47.0107451,-122.9037811
+1531,Shaw Island Elementary,Washington,Shaw Island,San Juan,,,,,,,48.5726433,-122.9616155
+1532,Silver Beach Elementary,Washington,Bellingham,Whatcom,,,,,,,48.7683915,-122.4163743
+1533,Skamania Elementary,Washington,Skamania,Skamania,,,,,,,45.6174115,-122.0488344
+1534,Skinner Elementary Montessori,Washington,Vancouver,Clark,,,,,,,45.65842,-122.603898
+1535,Slavic Christian Academy-Vancouver,Washington,Vancouver,Clark,,,,,,,45.6192346,-122.5962239
+1536,Snoqualmie Access,Washington,Snoqualmie,King,,,,,,,47.5287132,-121.8253906
+1537,South Kitsap Christian,Washington,Port Orchard,Kitsap,,,,,,,47.5229218,-122.6295919
+1538,South Whidbey Academy,Washington,Langley,Island,,,,,,,48.012886,-122.411807
+1539,Southwest Washington Learning Center,Washington,Vancouver,Clark,,,,,,,45.6849705,-122.6613586
+1540,Spanish With Sarah,Washington,Camas,Clark,,,,,,,45.595132,-122.407261
+1541,Special Ed,Washington,Enumclaw,King,,,,,,,47.1882468,-122.0100336
+1542,Special Ed,Washington,Kelso,Cowlitz,,,,,,,46.1474366,-122.9059068
+1543,Special Education,Washington,Wenatchee,Chelan,,,,,,,47.4219901,-120.3353937
+1544,Special Services,Washington,Clarkston,Asotin,,,,,,,46.4108781,-117.0576954
+1545,Spectrum Academy,Washington,Redmond,King,,,,,,,47.6328612,-122.135786
+1546,St. Benedict,Washington,Seattle,King,,,,,,,47.6639127,-122.336762
+1547,St. Joseph,Washington,Vancouver,Clark,,,,,,,45.618255,-122.604612
+1548,St. Matthew Lutheran,Washington,Spokane,Spokane,,,,,,,47.7214799,-117.4332218
+1549,Stahlville,Washington,Odessa,Lincoln,,,,,,,47.1520893,-118.723328
+1550,Starbuck,Washington,Starbuck,Columbia,,,,,,,46.5173105,-118.1209982
+1551,Stehekin Elementary,Washington,Stehekin,Chelan,,,,,,,48.3416371,-120.7052522
+1552,Stevens Elementary,Washington,Aberdeen,Grays Harbor,,,,,,,46.9666678,-123.7896887
+1553,Stillwater Elementary,Washington,Carnation,King,,,,,,,47.7005267,-121.9096768
+1554,Sulamita Christian,Washington,Mukilteo,Snohomish,,,,,,,47.8852158,-122.2867833
+1555,Sunnyland Elementary,Washington,Bellingham,Whatcom,,,,,,,48.7673798,-122.464355
+1556,Tacoma Waldorf,Washington,Tacoma,Pierce,,,,,,,47.2431453,-122.4801879
+1557,Taproot,Washington,Seattle,King,,,,,,,47.5219486,-122.3879091
+1558,The Moose Project,Washington,Spokane,Spokane,,,,,,,47.6550296,-117.3985769
+1559,The Phoenix Rising,Washington,Rainier,Thurston,,,,,,,46.9003999,-122.6580444
+1560,The Well-Trained Mind Montessori,Washington,Renton,King,,,,,,,47.3965699,-122.114923
+1561,Toledo Elementary,Washington,Toledo,Lewis,,,,,,,46.4388763,-122.8529402
+1562,Upper Columbia Academy Elementary,Washington,Spangle,Spokane,,,,,,,47.412806,-117.367876
+1563,Wade King Elementary,Washington,Bellingham,Whatcom,,,,,,,48.7176324,-122.4421745
+1564,Warden Hutterian,Washington,Warden,Adams,,,,,,,47.0571645,-118.9497659
+1565,Washington Elementary,Washington,Centralia,Lewis,,,,,,,46.7085366,-122.9537263
+1566,Woodway Elementary,Washington,Edmonds,Snohomish,,,,,,,47.7820544,-122.3608468
+1567,Yellow Wood Academy,Washington,Mercer Island,King,,,,,,,47.5766955,-122.2093933

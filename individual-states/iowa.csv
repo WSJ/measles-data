@@ -1,0 +1,979 @@
+index,state,year,name,county,enroll,overall,lat,lng
+1,Iowa,2018-19,Blessed Sacrament,Black Hawk,100,100,42.50346,-92.385971
+2,Iowa,2018-19,Calmar Festina Spillville Catholic,Winneshiek,120,100,43.1805,-91.8646
+3,Iowa,2018-19,Central Springs Elem. Manly Campus,Worth,105,100,43.285519,-93.196297
+4,Iowa,2018-19,Delhi Elementary,Delaware,174,100,42.417816,-91.343126
+5,Iowa,2018-19,ExiraElk Horn-Kimballton Elementary,Shelby,170,100,41.59069,-95.057091
+6,Iowa,2018-19,Fredericksburg Elem,Chickasaw,138,100,42.961948,-92.194079
+7,Iowa,2018-19,George Elementary,Lyon,117,100,43.340203,-95.994735
+8,Iowa,2018-19,Glidden-Ralston Elementary,Carroll,179,100,42.061803,-94.727918
+9,Iowa,2018-19,Ruthven-Ayrshire Elementary,Palo Alto,113,100,43.13172,-94.902159
+10,Iowa,2018-19,Salem Elementary,Henry,105,100,40.852324,-91.616287
+11,Iowa,2018-19,Sanborn Christian,O'Brien,100,100,43.18123,-95.66067
+12,Iowa,2018-19,St Marys,Delaware,162,100,42.4855074,-91.4601411
+13,Iowa,2018-19,St Patrick,Dallas,114,100,41.8412,-94.100716
+14,Iowa,2018-19,Winfield Elementary,Henry,168,100,41.126852,-91.440009
+15,Iowa,2018-19,Lovejoy Elementary,Polk,392,99.7,41.534817,-93.601985
+16,Iowa,2018-19,Edgewood-Colesburg Elementary,Delaware,259,99.6,42.63981,-91.197056
+17,Iowa,2018-19,Hinton Elementary,Plymouth,267,99.6,42.625326,-96.296438
+18,Iowa,2018-19,Mulberry Elementary,Muscatine,248,99.6,41.445015,-91.074288
+19,Iowa,2018-19,Sunnyside Elementary,Woodbury,254,99.6,42.461711,-96.339817
+20,Iowa,2018-19,Holy Family,Polk,207,99.5,41.60173,-93.606141
+21,Iowa,2018-19,Madison Elementary,Muscatine,216,99.5,41.44505,-91.035123
+22,Iowa,2018-19,West Hancock Elementary,Hancock,190,99.5,43.092015,-93.813364
+23,Iowa,2018-19,Fairview Elementary,Poweshiek,165,99.4,41.750099,-92.712338
+24,Iowa,2018-19,Hillis Elementary,Polk,363,99.4,41.616087,-93.693584
+25,Iowa,2018-19,James Van Allen Elementary,Johnson,506,99.4,41.727736,-91.59562
+26,Iowa,2018-19,Lincoln Upper Elementary,Washington,339,99.4,41.294291,-91.687544
+27,Iowa,2018-19,Moulton Elementary,Polk,510,99.4,41.607199,-93.627468
+28,Iowa,2018-19,South Tama County Elementary,Tama,522,99.4,41.975171,-92.587339
+29,Iowa,2018-19,United Community South,Boone,164,99.4,42.0249112,-93.7753987
+30,Iowa,2018-19,Willard Elementary,Polk,352,99.4,41.590804,-93.559062
+31,Iowa,2018-19,Woodbury Elementary,Marshall,321,99.4,42.049864,-92.902035
+32,Iowa,2018-19,Davenport Learning Center/Keystone Academy,Scott,140,99.3,41.5610657,-90.5770173
+33,Iowa,2018-19,Davis Elementary,Poweshiek,270,99.3,41.736803,-92.725031
+34,Iowa,2018-19,Iowa Valley Elementary,Iowa,273,99.3,41.802542,-92.069097
+35,Iowa,2018-19,James Wilson Grimes,Des Moines,292,99.3,40.797176,-91.10761
+36,Iowa,2018-19,Mater Dei School Nativity Center,Woodbury,152,99.3,42.45217,-96.353351
+37,Iowa,2018-19,OABCIG Elementary School - Ida Grove,Ida,274,99.3,42.3417845,-95.4645977
+38,Iowa,2018-19,Poyner Elementary,Black Hawk,419,99.3,42.468465,-92.276188
+39,Iowa,2018-19,Richardson Elementary,Lee,285,99.3,40.627047,-91.354685
+40,Iowa,2018-19,Riverside Community Intermediate,Pottawattamie,147,99.3,41.238155,-95.418992
+41,Iowa,2018-19,Turkey Valley Elementary,Winneshiek,150,99.3,43.110404,-92.035197
+42,Iowa,2018-19,Wright Elementary,Polk,272,99.3,41.539485,-93.634432
+43,Iowa,2018-19,Adair-Casey Elementary,Guthrie,128,99.2,41.520597,-94.584408
+44,Iowa,2018-19,Audubon Elementary,Audubon,242,99.2,41.718803,-94.928958
+45,Iowa,2018-19,Delaware Elementary,Polk,358,99.2,41.639659,-93.521192
+46,Iowa,2018-19,Longfellow Elementary,Pottawattamie,497,99.2,41.242303,-95.858304
+47,Iowa,2018-19,Monroe Elementary,Jasper,247,99.2,41.523972,-93.106155
+48,Iowa,2018-19,Riceville Elementary,Howard,242,99.2,43.355372,-92.55277
+49,Iowa,2018-19,Sergeant Bluff-Luton Elementary,Woodbury,355,99.2,42.397496,-96.356756
+50,Iowa,2018-19,Sibley Ocheyedan Elementary,Osceola,237,99.2,43.404934,-95.741212
+51,Iowa,2018-19,Southeast Warren Primary,Warren,132,99.2,41.290677,-93.444632
+52,Iowa,2018-19,Sunnyside Elementary,Des Moines,395,99.2,40.832385,-91.117896
+53,Iowa,2018-19,West Elementary,Palo Alto,240,99.2,43.11399,-94.684861
+54,Iowa,2018-19,Clay Elementary,Polk,557,99.1,41.622548,-93.466356
+55,Iowa,2018-19,Colorado Elementary,Muscatine,228,99.1,41.443066,-91.027754
+56,Iowa,2018-19,East Marshall Elementary,Marshall,217,99.1,41.880848,-92.920808
+57,Iowa,2018-19,East Union Elementary,Union,215,99.1,41.024885,-94.179986
+58,Iowa,2018-19,Fayette Elementary,Fayette,106,99.1,42.8422446,-91.8055013
+59,Iowa,2018-19,Feelhaver Elementary,Webster,221,99.1,42.521686,-94.185973
+60,Iowa,2018-19,Franklin Elementary,Pottawattamie,445,99.1,41.264992,-95.895836
+61,Iowa,2018-19,Fred Becker Elementary,Black Hawk,446,99.1,42.501542,-92.372529
+62,Iowa,2018-19,Holy Trinity Elem,Lee,214,99.1,40.7149796,-91.4526495
+63,Iowa,2018-19,Jackson Elementary,Polk,446,99.1,41.54928,-93.591488
+64,Iowa,2018-19,LOESS HILLS ELEMENTARY,Woodbury,632,99.1,42.507762,-96.444765
+65,Iowa,2018-19,Margaretta Carey Elementary,Bremer,215,99.1,42.734874,-92.474698
+66,Iowa,2018-19,Phillips Elementary,Polk,331,99.1,41.608258,-93.571898
+67,Iowa,2018-19,Regina Elementary,Johnson,443,99.1,41.6667319,-91.5044429
+68,Iowa,2018-19,Sacred Heart,Woodbury,346,99.1,42.519551,-96.472999
+69,Iowa,2018-19,Sheldon Christian,O'Brien,107,99.1,43.17913,-95.840628
+70,Iowa,2018-19,Central Springs Elem. School - Nora Springs,Floyd,104,99,43.147745,-93.003798
+71,Iowa,2018-19,Crestwood Elementary,Howard,672,99,43.376157,-92.102945
+72,Iowa,2018-19,Fremont Elementary,Mahaska,104,99,41.21298,-92.431518
+73,Iowa,2018-19,Lenihan Intermediate,Marshall,783,99,42.031555,-92.917057
+74,Iowa,2018-19,Lewis Elementary,Cass,102,99,41.3039,-95.084105
+75,Iowa,2018-19,Liberty Elementary,Woodbury,725,99,42.507613,-96.426968
+76,Iowa,2018-19,Lucia Wallace Elementary,Kossuth,198,99,43.065227,-94.227987
+77,Iowa,2018-19,Madison Elementary,Scott,405,99,41.538771,-90.57335
+78,Iowa,2018-19,Midland Elementary,Jones,199,99,41.988359,-90.953433
+79,Iowa,2018-19,Mount Ayr Elementary,Ringgold,298,99,40.716309,-94.230485
+80,Iowa,2018-19,Prairie Crest Elementary,Linn,401,99,41.904195,-91.665258
+81,Iowa,2018-19,Remsen-Union Elementary,Plymouth,100,99,42.809435,-95.965149
+82,Iowa,2018-19,Roosevelt Elementary School-Council Bluffs,Pottawattamie,393,99,41.2666016,-95.8684236
+83,Iowa,2018-19,Rue Elementary,Pottawattamie,301,99,41.256751,-95.898527
+84,Iowa,2018-19,Sunset Heights Elementary,Hamilton,309,99,42.463095,-93.831312
+85,Iowa,2018-19,West Cedar Elementary,Bremer,193,99,42.727312,-92.489202
+86,Iowa,2018-19,Altoona Elementary,Polk,359,98.9,41.647131,-93.468053
+87,Iowa,2018-19,Aplington Elementary,Butler,176,98.9,42.579173,-92.885947
+88,Iowa,2018-19,Bryant Elementary,Kossuth,189,98.9,43.071303,-94.235909
+89,Iowa,2018-19,Frank L Smart Intermediate,Scott,562,98.9,41.52499,-90.606547
+90,Iowa,2018-19,Grundy Center Elementary,Grundy,261,98.9,42.359125,-92.775815
+91,Iowa,2018-19,H-L-V Elementary,Iowa,180,98.9,41.729676,-92.295392
+92,Iowa,2018-19,Lincoln Elementary,Henry,266,98.9,40.961408,-91.548434
+93,Iowa,2018-19,North Cedar Elementary,Black Hawk,264,98.9,42.558559,-92.453758
+94,Iowa,2018-19,River Valley Elementary,Cherokee,179,98.9,42.574478,-95.720631
+95,Iowa,2018-19,Sigourney Elementary,Keokuk,270,98.9,41.32957,-92.203188
+96,Iowa,2018-19,St Albert Elementary Sch,Pottawattamie,285,98.9,41.2621181,-95.8227752
+97,Iowa,2018-19,Akron Westfield Elementary,Plymouth,257,98.8,42.832587,-96.549416
+98,Iowa,2018-19,Brubaker Elementary,Polk,670,98.8,41.619873,-93.533413
+99,Iowa,2018-19,Capitol View Elementary,Polk,514,98.8,41.592908,-93.593105
+100,Iowa,2018-19,Cattell Elementary,Polk,403,98.8,41.623704,-93.604039
+101,Iowa,2018-19,Garton Elementary,Polk,563,98.8,41.621489,-93.574452
+102,Iowa,2018-19,La Porte City Elementary,Black Hawk,255,98.8,42.308437,-92.19003
+103,Iowa,2018-19,McKinley Elementary,Polk,249,98.8,41.573586,-93.606078
+104,Iowa,2018-19,Mediapolis Elementary,Des Moines,434,98.8,41.014223,-91.161036
+105,Iowa,2018-19,North Hill Elementary,Des Moines,252,98.8,40.816793,-91.108214
+106,Iowa,2018-19,Riverside Elementary,Washington,250,98.8,41.4095712,-91.5406295
+107,Iowa,2018-19,West Monona Middle Sch,Monona,172,98.8,42.022319,-96.104918
+108,Iowa,2018-19,East Elementary,O'Brien,391,98.7,43.183086,-95.839843
+109,Iowa,2018-19,Franklin Elementary,Boone,371,98.7,42.075935,-93.887286
+110,Iowa,2018-19,K-5 Elementary School Lincoln Street Building,Bremer,399,98.7,42.66901,-92.33072
+111,Iowa,2018-19,Monroe Elementary,Polk,464,98.7,41.614323,-93.6589
+112,Iowa,2018-19,Robert Blue,Wright,297,98.7,42.66712,-93.914927
+113,Iowa,2018-19,St Francis Xavier,Dubuque,306,98.7,42.483342,-91.126392
+114,Iowa,2018-19,St Matthew,Linn,158,98.7,41.99938,-91.637331
+115,Iowa,2018-19,Strawberry Hill,Jones,385,98.7,42.106267,-91.271659
+116,Iowa,2018-19,Wayne Elementary,Wayne,314,98.7,40.751688,-93.321173
+117,Iowa,2018-19,AGWSR Elementary,Hardin,215,98.6,42.549854,-93.047946
+118,Iowa,2018-19,Bailey Park Elementary,Poweshiek,145,98.6,41.748622,-92.733997
+119,Iowa,2018-19,Carter Lake Elementary,Pottawattamie,345,98.6,41.291349,-95.916354
+120,Iowa,2018-19,Durant Elementary,Bremer,209,98.6,42.850848,-92.104797
+121,Iowa,2018-19,Hawthorne Elementary,Lee,501,98.6,40.419661,-91.396163
+122,Iowa,2018-19,King Elementary,Polk,293,98.6,41.604919,-93.642095
+123,Iowa,2018-19,Leeds Elementary,Woodbury,655,98.6,42.538347,-96.368277
+124,Iowa,2018-19,Liberty Elementary,Wapello,694,98.6,40.993012,-92.43749
+125,Iowa,2018-19,Shell Rock Elementary,Butler,141,98.6,42.712057,-92.579285
+126,Iowa,2018-19,Spalding Park Elementary,Woodbury,647,98.6,42.480781,-96.355672
+127,Iowa,2018-19,Starmont Elementary,Fayette,208,98.6,42.687536,-91.649991
+128,Iowa,2018-19,Unity Elementary,Woodbury,499,98.6,42.51044,-96.368496
+129,Iowa,2018-19,Washington Intermediate,Montgomery,148,98.6,41.00851,-95.23361
+130,Iowa,2018-19,Woodrow Wilson Elementary School-Newton,Jasper,287,98.6,41.6921393,-93.0620195
+131,Iowa,2018-19,Alden Elementary,Hardin,133,98.5,42.517429,-93.372792
+132,Iowa,2018-19,Corse Elementary,Des Moines,274,98.5,40.80202,-91.122114
+133,Iowa,2018-19,Delwood Elementary,Clinton,135,98.5,42.002675,-90.605492
+134,Iowa,2018-19,DeSoto Intermediate,Dallas,460,98.5,41.536148,-94.009282
+135,Iowa,2018-19,Fisher Elementary,Marshall,335,98.5,42.024252,-92.920164
+136,Iowa,2018-19,GMG Elementary,Marshall,262,98.5,42.106627,-92.824166
+137,Iowa,2018-19,Lone Tree Elementary,Johnson,194,98.5,41.484909,-91.426317
+138,Iowa,2018-19,Parkersburg Elementary,Butler,206,98.5,42.573804,-92.783682
+139,Iowa,2018-19,Sageville Elementary,Dubuque,268,98.5,42.568515,-90.72051
+140,Iowa,2018-19,Shuler Elementary,Dallas,732,98.5,41.62746,-93.84408
+141,Iowa,2018-19,South Central Calhoun Elementary Building,Calhoun,263,98.5,42.396285,-94.62492
+142,Iowa,2018-19,Titan Hill Intermediate,Pottawattamie,889,98.5,41.219568,-95.811943
+143,Iowa,2018-19,Woodward-Granger Elementary,Dallas,460,98.5,41.7624,-93.818791
+144,Iowa,2018-19,Colo-Nesco Elementary Learning Center,Story,124,98.4,42.165612,-93.2976588
+145,Iowa,2018-19,Corning Elementary,Adams,187,98.4,40.993936,-94.742269
+146,Iowa,2018-19,Denver Early Elementary,Bremer,128,98.4,42.671843,-92.332381
+147,Iowa,2018-19,Drexler Middle- Intermediate,Dubuque,767,98.4,42.444326,-91.001506
+148,Iowa,2018-19,Eddyville Elementary,Wapello,305,98.4,41.161085,-92.632713
+149,Iowa,2018-19,Edmunds Fine Arts Academy,Polk,318,98.4,41.594707,-93.638843
+150,Iowa,2018-19,Fairview Park Elementary,Clay,249,98.4,43.153393,-95.138015
+151,Iowa,2018-19,Highland Elementary,Black Hawk,553,98.4,42.49598,-92.306125
+152,Iowa,2018-19,J C Hoglan Elementary,Marshall,376,98.4,42.018569,-92.904456
+153,Iowa,2018-19,Kittrell Elementary,Black Hawk,555,98.4,42.471905,-92.333159
+154,Iowa,2018-19,Morris Elementary,Polk,567,98.4,41.525364,-93.636361
+155,Iowa,2018-19,Orange Elementary,Black Hawk,507,98.4,42.42742,-92.357824
+156,Iowa,2018-19,Riverside Elementary,Pottawattamie,319,98.4,41.303317,-95.391344
+157,Iowa,2018-19,Roosevelt Elementary,Cerro Gordo,367,98.4,43.136867,-93.195023
+158,Iowa,2018-19,Anson Elementary,Marshall,300,98.3,42.035162,-92.907249
+159,Iowa,2018-19,Clark Elementary,Woodbury,115,98.3,42.5444254,-96.4079475
+160,Iowa,2018-19,Lewis & Clark Elementary,Pottawattamie,229,98.3,41.282933,-95.845588
+161,Iowa,2018-19,Newell-Fonda Elementary,Buena Vista,239,98.3,42.60555,-94.997522
+162,Iowa,2018-19,Prairieview,Dallas,767,98.3,41.6017,-93.859747
+163,Iowa,2018-19,Taft Elementary,Humboldt,357,98.3,42.723749,-94.217102
+164,Iowa,2018-19,Walnut Hills Elementary,Dallas,649,98.3,41.638384,-93.835142
+165,Iowa,2018-19,Windsor Elementary,Polk,349,98.3,41.599758,-93.699485
+166,Iowa,2018-19,Winterset Elementary,Madison,466,98.3,41.331943,-94.016362
+167,Iowa,2018-19,Anderson Elementary,Polk,554,98.2,41.697211,-93.465345
+168,Iowa,2018-19,Bedford Elementary,Taylor,224,98.2,40.671366,-94.723266
+169,Iowa,2018-19,Carver Elementary,Polk,489,98.2,41.598858,-93.61119
+170,Iowa,2018-19,Denison Elementary,Crawford,598,98.2,42.018278,-95.343081
+171,Iowa,2018-19,English Valleys Elementary,Iowa,222,98.2,41.513275,-92.079877
+172,Iowa,2018-19,Norway Elementary,Benton,337,98.2,41.90394,-91.928548
+173,Iowa,2018-19,Orange City Christian School K-8,Sioux,285,98.2,43.003539,-96.0653848
+174,Iowa,2018-19,Perry Elementary,Dallas,712,98.2,41.843801,-94.095301
+175,Iowa,2018-19,Prairie Heights Elementary,Linn,394,98.2,41.905986,-91.660576
+176,Iowa,2018-19,Timberline,Dallas,759,98.2,41.583411,-93.868345
+177,Iowa,2018-19,Bellevue Elementary,Jackson,264,98.1,42.257618,-90.425919
+178,Iowa,2018-19,Bluff Elementary,Clinton,362,98.1,41.834705,-90.219771
+179,Iowa,2018-19,Central Lee Elementary,Lee,528,98.1,40.575947,-91.51517
+180,Iowa,2018-19,Clarksville Elementary,Butler,159,98.1,42.786804,-92.665363
+181,Iowa,2018-19,CR-B Elementary,Carroll,161,98.1,41.876045,-94.672834
+182,Iowa,2018-19,Dallas Center Elementary,Dallas,260,98.1,41.677192,-93.961232
+183,Iowa,2018-19,Eldora-New Providence Elementary,Hardin,314,98.1,42.362187,-93.095441
+184,Iowa,2018-19,Grant Ragen Elementary,Dallas,790,98.1,41.6254599,-93.8637114
+185,Iowa,2018-19,Greenwood Elementary,Polk,268,98.1,41.582402,-93.667485
+186,Iowa,2018-19,Hoover Elementary,Cedar,266,98.1,41.673543,-91.349158
+187,Iowa,2018-19,Hoover Elementary,Pottawattamie,428,98.1,41.272313,-95.835767
+188,Iowa,2018-19,Kingsley Elementary,Plymouth,154,98.1,42.586205,-95.97966
+189,Iowa,2018-19,Lowell Elementary,Black Hawk,312,98.1,42.484645,-92.331913
+190,Iowa,2018-19,Pekin Elementary,Jefferson,321,98.1,41.155645,-92.161425
+191,Iowa,2018-19,Riverside Elementary,Woodbury,259,98.1,42.517761,-96.475675
+192,Iowa,2018-19,Stowe Elementary,Polk,377,98.1,41.60559,-93.55043
+193,Iowa,2018-19,Truman Elementary,Linn,270,98.1,41.977332,-91.739335
+194,Iowa,2018-19,Wilder Elementary,Warren,374,98.1,41.3644,-93.592291
+195,Iowa,2018-19,Central City Comm School District,Linn,101,98,42.2083829,-91.525126
+196,Iowa,2018-19,Central Elementary,Clayton,203,98,42.856691,-91.407386
+197,Iowa,2018-19,Creston Elementary,Union,659,98,41.076624,-94.371897
+198,Iowa,2018-19,Danville Elementary,Des Moines,300,98,40.860391,-91.316021
+199,Iowa,2018-19,Dyersville Elementary,Dubuque,253,98,42.4737746,-91.1355454
+200,Iowa,2018-19,E A Kreft Primary,Pottawattamie,395,98,41.222177,-95.895595
+201,Iowa,2018-19,East Elementary,Story,391,98,41.9003446,-93.5427904
+202,Iowa,2018-19,East Sac County Elementary Wall Lake,Sac,150,98,42.271305,-95.095123
+203,Iowa,2018-19,Fairmeadows Elementary,Polk,541,98,41.581674,-93.73556
+204,Iowa,2018-19,Fairview Elementary,Carroll,398,98,42.079534,-94.857983
+205,Iowa,2018-19,Hartley-Melvin-Sanborn Elementary,O'Brien,203,98,43.18037,-95.473204
+206,Iowa,2018-19,Helen Lemme Elementary,Johnson,393,98,41.662167,-91.487734
+207,Iowa,2018-19,IMMACULATE CONCEPTION-ST JOSEPH SCHOOL,Black Hawk,147,98,42.417451,-92.21602
+208,Iowa,2018-19,Jensen Elementary,Polk,247,98,41.637337,-93.704505
+209,Iowa,2018-19,Kingsley Elementary,Black Hawk,344,98,42.479458,-92.362157
+210,Iowa,2018-19,Kinsey Elementary,Sioux,541,98,43.068789,-96.169446
+211,Iowa,2018-19,Lawson Elementary,Polk,539,98,41.672404,-93.693741
+212,Iowa,2018-19,Mark Twain Elementary,Scott,302,98,41.537922,-90.508282
+213,Iowa,2018-19,Perkins Elementary,Polk,456,98,41.60805,-93.676914
+214,Iowa,2018-19,Robert Lucas Elementary,Johnson,454,98,41.650924,-91.492118
+215,Iowa,2018-19,Sacred Heart,Clay,153,98,43.14967,-95.153191
+216,Iowa,2018-19,South O'Brien Secondary,O'Brien,297,98,42.977385,-95.690881
+217,Iowa,2018-19,St Albert Secondary,Pottawattamie,307,98,41.2621181,-95.8227752
+218,Iowa,2018-19,West Elementary,Buchanan,396,98,42.466718,-91.909234
+219,Iowa,2018-19,Carpenter Elementary,Jones,192,97.9,42.244128,-91.195092
+220,Iowa,2018-19,Coon Rapids-Bayard 5-12 Attendance Center,Carroll,236,97.9,41.878278,-94.681675
+221,Iowa,2018-19,DC-G Meadows,Dallas,428,97.9,41.690196,-93.820619
+222,Iowa,2018-19,Fairbank Elementary,Buchanan,193,97.9,42.641541,-92.044933
+223,Iowa,2018-19,Findley Elementary,Polk,334,97.9,41.622864,-93.616935
+224,Iowa,2018-19,Harding Elementary,Cerro Gordo,280,97.9,43.164775,-93.183089
+225,Iowa,2018-19,Harlan Elementary,Henry,243,97.9,40.97891,-91.552214
+226,Iowa,2018-19,Howe Elementary,Polk,289,97.9,41.558606,-93.604016
+227,Iowa,2018-19,Indian Creek Elementary,Linn,677,97.9,42.051442,-91.592858
+228,Iowa,2018-19,Janesville Elementary,Bremer,235,97.9,42.649899,-92.458663
+229,Iowa,2018-19,Marshall Elementary,Dubuque,281,97.9,42.522546,-90.656903
+230,Iowa,2018-19,Morningside Elementary,Woodbury,659,97.9,42.464679,-96.360275
+231,Iowa,2018-19,North Iowa Elem Buffalo Center,Winnebago,195,97.9,43.388863,-93.948149
+232,Iowa,2018-19,Pleasant View Elementary,Hamilton,195,97.9,42.45886,-93.820419
+233,Iowa,2018-19,Sacred Heart,Polk,473,97.9,41.577965,-93.725925
+234,Iowa,2018-19,Sergeant Bluff-Luton Primary,Woodbury,341,97.9,42.398899,-96.359426
+235,Iowa,2018-19,Table Mound Elementary,Dubuque,375,97.9,42.46014,-90.680488
+236,Iowa,2018-19,Waukee Elementary,Dallas,758,97.9,41.606186,-93.887579
+237,Iowa,2018-19,Westwood Elementary,Polk,668,97.9,41.73841,-93.638322
+238,Iowa,2018-19,Buford Garner Elementary,Johnson,683,97.8,41.743018,-91.5994
+239,Iowa,2018-19,Four Mile Elementary,Polk,412,97.8,41.580088,-93.473271
+240,Iowa,2018-19,George Washington Elementary,Lee,277,97.8,40.399427,-91.384347
+241,Iowa,2018-19,Harmony Elementary,Van Buren,135,97.8,40.727846,-91.724479
+242,Iowa,2018-19,Inman Primary,Montgomery,270,97.8,41.019715,-95.222319
+243,Iowa,2018-19,Louisa-Muscatine Elementary,Louisa,404,97.8,41.306853,-91.207656
+244,Iowa,2018-19,Meskwaki Elementary,Tama,180,97.8,41.9763531,-92.5829794
+245,Iowa,2018-19,North Ridge Elementary,Polk,418,97.8,41.70909,-93.798281
+246,Iowa,2018-19,North Tama Elementary,Tama,224,97.8,42.188389,-92.467421
+247,Iowa,2018-19,North Union Elementary,Kossuth,134,97.8,43.211034,-94.387018
+248,Iowa,2018-19,Perry Creek Elementary,Woodbury,583,97.8,42.53223,-96.410571
+249,Iowa,2018-19,Rolling Green Elementary,Polk,271,97.8,41.632277,-93.729943
+250,Iowa,2018-19,Southeast Webster-Grand Southeast Valley Mi,Webster,321,97.8,42.3421513,-94.1061359
+251,Iowa,2018-19,St Francis of Assisi,Dallas,638,97.8,41.5841159,-93.8040194
+252,Iowa,2018-19,Van Buren Community Elementary,Van Buren,313,97.8,40.7305795,-91.9680476
+253,Iowa,2018-19,Walnut Creek Campus,Polk,179,97.8,41.58675,-93.714311
+254,Iowa,2018-19,West Marshall Elementary,Marshall,411,97.8,42.015325,-93.165636
+255,Iowa,2018-19,Aldrich Elementary,Black Hawk,345,97.7,42.495369,-92.45962
+256,Iowa,2018-19,Ashland Ridge Elementary,Polk,659,97.7,41.75439,-93.610021
+257,Iowa,2018-19,Centennial Elementary,Polk,395,97.7,41.641762,-93.4584329
+258,Iowa,2018-19,Central Elementary,Story,524,97.7,42.019912,-93.447463
+259,Iowa,2018-19,Garfield Elementary,Scott,429,97.7,41.549875,-90.561723
+260,Iowa,2018-19,Grant Wood Elementary,Linn,341,97.7,41.979091,-91.631751
+261,Iowa,2018-19,Harry S Truman,Scott,311,97.7,41.5769945,-90.6117499
+262,Iowa,2018-19,Interstate 35 Secondary,Madison,394,97.7,41.210678,-93.842807
+263,Iowa,2018-19,John Glenn Elementary,Scott,214,97.7,41.698612,-90.676216
+264,Iowa,2018-19,Lincoln Elementary,Clay,306,97.7,43.13147,-95.151968
+265,Iowa,2018-19,Maple Grove Elementary,Dallas,745,97.7,41.589914,-93.83947
+266,Iowa,2018-19,Nashua-Plainfield Elementary,Chickasaw,265,97.7,42.949626,-92.543665
+267,Iowa,2018-19,Nodland Elementary,Woodbury,219,97.7,42.450547,-96.339981
+268,Iowa,2018-19,Pleasant Hill Elementary,Polk,258,97.7,41.587305,-93.519289
+269,Iowa,2018-19,Southeast Warren Intermediate,Warren,132,97.7,41.194286,-93.383408
+270,Iowa,2018-19,West Elementary,Mills,479,97.7,41.045786,-95.74742
+271,Iowa,2018-19,West Liberty Elementary,Muscatine,531,97.7,41.576192,-91.25815
+272,Iowa,2018-19,West Monona Elementary,Monona,261,97.7,42.0311,-96.0885
+273,Iowa,2018-19,Willowbrook Elementary,Polk,488,97.7,41.6491934,-93.4836566
+274,Iowa,2018-19,Beaver Creek Elem,Polk,613,97.6,41.680154,-93.73793
+275,Iowa,2018-19,Blue Grass Elementary,Scott,293,97.6,41.512115,-90.768204
+276,Iowa,2018-19,Clarke Community Elementary,Clarke,720,97.6,41.032736,-93.759609
+277,Iowa,2018-19,Douma Elementary,Wapello,248,97.6,40.99563,-92.427491
+278,Iowa,2018-19,Henry A Wallace Elementary,Polk,637,97.6,41.672277,-93.708007
+279,Iowa,2018-19,Horizon Elementary,Polk,674,97.6,41.66676,-93.754272
+280,Iowa,2018-19,Hubbell Elementary,Polk,418,97.6,41.592264,-93.674915
+281,Iowa,2018-19,Irving Elementary,Woodbury,799,97.6,42.500129,-96.394453
+282,Iowa,2018-19,Kluckhohn Elementary,Plymouth,415,97.6,42.776303,-96.165385
+283,Iowa,2018-19,Lincoln Elementary,Lee,288,97.6,40.632789,-91.322324
+284,Iowa,2018-19,Linn Grove Elementary,Linn,496,97.6,42.045659,-91.555218
+285,Iowa,2018-19,Madrid Elementary,Boone,338,97.6,41.877373,-93.822227
+286,Iowa,2018-19,Mary Welsh Elementary,Iowa,578,97.6,41.661204,-92.028191
+287,Iowa,2018-19,Meeker Elementary,Story,461,97.6,42.041299,-93.614359
+288,Iowa,2018-19,Montezuma Elementary,Poweshiek,208,97.6,41.59072,-92.524907
+289,Iowa,2018-19,North Bend Elementary,Johnson,466,97.6,41.738949,-91.633487
+290,Iowa,2018-19,Oak Park,Polk,382,97.6,41.632435,-93.625271
+291,Iowa,2018-19,Oskaloosa Elementary,Mahaska,961,97.6,41.307361,-92.665013
+292,Iowa,2018-19,Penn Elementary,Johnson,613,97.6,41.747989,-91.595356
+293,Iowa,2018-19,Samuelson Elementary,Polk,466,97.6,41.64106,-93.671651
+294,Iowa,2018-19,St Ansgar Elementary,Mitchell,248,97.6,43.374205,-92.917097
+295,Iowa,2018-19,St Pius X,Linn,331,97.6,42.0272639,-91.6592484
+296,Iowa,2018-19,Tipton Elementary,Cedar,337,97.6,41.770907,-91.138222
+297,Iowa,2018-19,Van Allen Elementary,Henry,250,97.6,40.967951,-91.54185
+298,Iowa,2018-19,Van Meter Elementary,Dallas,415,97.6,41.528966,-93.953016
+299,Iowa,2018-19,Washington Elementary,Cass,425,97.6,41.397349,-95.00593
+300,Iowa,2018-19,Adams Elementary School-Davenport,Scott,529,97.5,41.5502396,-90.6000659
+301,Iowa,2018-19,Blakesburg Elementary,Wapello,121,97.5,40.958292,-92.638306
+302,Iowa,2018-19,East Buchanan Elementary,Buchanan,244,97.5,42.476379,-91.73729
+303,Iowa,2018-19,Eisenhower Elementary,Wapello,244,97.5,41.057638,-92.411328
+304,Iowa,2018-19,Epworth Elementary,Dubuque,240,97.5,42.442597,-90.928547
+305,Iowa,2018-19,Erskine Elementary,Linn,363,97.5,41.980103,-91.615429
+306,Iowa,2018-19,Franklin Elementary,Plymouth,275,97.5,42.787586,-96.161725
+307,Iowa,2018-19,George Washington Carver Academy,Black Hawk,478,97.5,42.521681,-92.340138
+308,Iowa,2018-19,Mitchellville Elementary,Polk,198,97.5,41.6701053,-93.3628291
+309,Iowa,2018-19,Northwood-Kensett Elementary,Worth,282,97.5,43.44542,-93.215319
+310,Iowa,2018-19,Spring Creek - 6th Grade,Polk,568,97.5,41.59914,-93.442
+311,Iowa,2018-19,Van Buren Elementary,Linn,444,97.5,41.95351,-91.709592
+312,Iowa,2018-19,Wickham Elementary,Johnson,482,97.5,41.706528,-91.576222
+313,Iowa,2018-19,Aurora Heights Elementary School - Newton,Jasper,269,97.4,41.6957259,-93.023592
+314,Iowa,2018-19,Buchanan Elementary,Scott,307,97.4,41.565999,-90.628605
+315,Iowa,2018-19,Crestview Elementary,Polk,493,97.4,41.6120514,-93.7329467
+316,Iowa,2018-19,Crossroads Park Elementary,Polk,571,97.4,41.586797,-93.772487
+317,Iowa,2018-19,East Sac County Elementary Sac Building,Sac,155,97.4,42.418851,-95.005424
+318,Iowa,2018-19,Hills Elementary,Johnson,190,97.4,41.553642,-91.540078
+319,Iowa,2018-19,Jefferson Elementary,Clinton,385,97.4,41.842918,-90.202828
+320,Iowa,2018-19,Madison Elementary,Polk,266,97.4,41.632428,-93.60728
+321,Iowa,2018-19,North Cedar Mechanicsville Elem Ctr,Cedar,155,97.4,41.91148,-91.247903
+322,Iowa,2018-19,Northeast Elementary,Polk,624,97.4,41.745565,-93.588961
+323,Iowa,2018-19,River Woods Elementary,Polk,541,97.4,41.558157,-93.576535
+324,Iowa,2018-19,Southeast Elementary,Polk,665,97.4,41.72001,-93.589788
+325,Iowa,2018-19,Treynor Elementary,Pottawattamie,380,97.4,41.231128,-95.603069
+326,Iowa,2018-19,Tripoli Elementary,Bremer,155,97.4,42.79986,-92.261614
+327,Iowa,2018-19,Williams Intermediate,Scott,766,97.4,41.550702,-90.602025
+328,Iowa,2018-19,Bishop Garrigan Schools,Kossuth,364,97.3,43.0800559,-94.2134343
+329,Iowa,2018-19,Bloomer Elementary,Pottawattamie,369,97.3,41.258659,-95.855043
+330,Iowa,2018-19,Cascade Elementary,Dubuque,264,97.3,42.300235,-91.008494
+331,Iowa,2018-19,Cornell Elementary,Polk,438,97.3,41.665185,-93.614273
+332,Iowa,2018-19,Dike Elementary,Grundy,264,97.3,42.467875,-92.627649
+333,Iowa,2018-19,Eason Elementary,Dallas,601,97.3,41.606742,-93.832382
+334,Iowa,2018-19,Edward White Elementary,Scott,523,97.3,41.653677,-90.586993
+335,Iowa,2018-19,Fillmore Elementary,Scott,402,97.3,41.59423,-90.60415
+336,Iowa,2018-19,Fremont-Mills Elementary,Fremont,264,97.3,40.885092,-95.669159
+337,Iowa,2018-19,Garfield Elementary,Linn,220,97.3,42.000978,-91.657501
+338,Iowa,2018-19,Garner-Hayfield-Ventura Elementary,Hancock,336,97.3,43.094708,-93.610483
+339,Iowa,2018-19,Hayes Elementary,Scott,373,97.3,41.512681,-90.622988
+340,Iowa,2018-19,Herbert Hoover Elementary,Johnson,262,97.3,41.657391,-91.50357
+341,Iowa,2018-19,Johnson Elementary,Clay,370,97.3,43.145917,-95.15658
+342,Iowa,2018-19,Keota Elementary,Keokuk,150,97.3,41.36969,-91.952597
+343,Iowa,2018-19,Lakeview Elementary,Appanoose,407,97.3,40.717016,-92.876337
+344,Iowa,2018-19,Lakeview Elementary,Johnson,404,97.3,41.808012,-91.501964
+345,Iowa,2018-19,Lambert Elementary,Delaware,442,97.3,42.493977,-91.450299
+346,Iowa,2018-19,Lou Henry Elementary,Black Hawk,490,97.3,42.463487,-92.362453
+347,Iowa,2018-19,Mater Dei Sch Immaculate Conception Center,Woodbury,184,97.3,42.4783271,-96.3594728
+348,Iowa,2018-19,Schuler Elementary,Cass,225,97.3,41.39933,-95.005333
+349,Iowa,2018-19,Sioux Central Elementary,Buena Vista,256,97.3,42.874172,-95.149322
+350,Iowa,2018-19,St Anthony,Polk,297,97.3,41.5726931,-93.6166243
+351,Iowa,2018-19,Stanton Elementary,Montgomery,112,97.3,40.984641,-95.100835
+352,Iowa,2018-19,Terrace Elementary,Polk,291,97.3,41.734599,-93.604464
+353,Iowa,2018-19,A-H-S-T-W Elementary,Pottawattamie,355,97.2,41.469567,-95.341869
+354,Iowa,2018-19,Durant Elementary,Cedar,216,97.2,41.603897,-90.911578
+355,Iowa,2018-19,East Elementary,Buchanan,283,97.2,42.46714,-91.907571
+356,Iowa,2018-19,Harrison Elementary,Scott,505,97.2,41.575224,-90.587471
+357,Iowa,2018-19,Roland-Story Elementary,Story,397,97.2,42.191453,-93.588116
+358,Iowa,2018-19,Sacred Heart,Boone,142,97.2,42.06753,-93.878451
+359,Iowa,2018-19,St Patrick,Black Hawk,214,97.2,42.53265,-92.447211
+360,Iowa,2018-19,St. Edmond Catholic,Webster,598,97.2,42.5107093,-94.1679777
+361,Iowa,2018-19,West Harrison Elementary,Harrison,178,97.2,41.708906,-96.01857
+362,Iowa,2018-19,West Union  Elementary,Fayette,213,97.2,42.96517,-91.803667
+363,Iowa,2018-19,Atkins Elementary,Benton,276,97.1,41.994392,-91.867387
+364,Iowa,2018-19,Black Hawk Elementary,Des Moines,455,97.1,40.777439,-91.111734
+365,Iowa,2018-19,Central Intermediate,Clinton,343,97.1,41.8260132,-90.5259671
+366,Iowa,2018-19,Creston Comm School District,Union,1296,97.1,41.0664756,-94.3633378
+367,Iowa,2018-19,Davis County Elementary,Davis,651,97.1,40.755248,-92.407761
+368,Iowa,2018-19,Forest City Elementary,Winnebago,485,97.1,43.264114,-93.654134
+369,Iowa,2018-19,Grant Wood Elementary,Scott,378,97.1,41.551021,-90.512019
+370,Iowa,2018-19,Helen A Hansen Elementary,Black Hawk,619,97.1,42.531994,-92.468542
+371,Iowa,2018-19,Holy Trinity,Polk,348,97.1,41.6220735,-93.6744062
+372,Iowa,2018-19,North Butler Elementary,Butler,309,97.1,42.755231,-92.801153
+373,Iowa,2018-19,Northstar Elementary,Marion,410,97.1,41.329034,-93.102017
+374,Iowa,2018-19,Prairie Hill Elementary,Linn,415,97.1,41.902526,-91.659529
+375,Iowa,2018-19,Rock Creek Elementary,Polk,720,97.1,41.762665,-93.627926
+376,Iowa,2018-19,Shellsburg Elementary,Benton,206,97.1,42.09666,-91.872452
+377,Iowa,2018-19,Sidney Elementary,Fremont,210,97.1,40.750774,-95.647831
+378,Iowa,2018-19,Solon Intermediate,Johnson,240,97.1,41.803577,-91.497817
+379,Iowa,2018-19,Spirit Lake Elementary,Dickinson,452,97.1,43.413826,-95.100058
+380,Iowa,2018-19,ST JOHNS SCHOOL,Buchanan,136,97.1,42.47169,-91.891101
+381,Iowa,2018-19,Wapello Elementary,Louisa,205,97.1,41.184274,-91.191868
+382,Iowa,2018-19,Woodbine Elementary,Harrison,311,97.1,41.737684,-95.707784
+383,Iowa,2018-19,Bronson Elementary,Woodbury,334,97,42.409798,-96.21478
+384,Iowa,2018-19,CAM South Elementary,Cass,101,97,41.256504,-94.767271
+385,Iowa,2018-19,Fellows Elementary,Story,595,97,42.042903,-93.627082
+386,Iowa,2018-19,Karen Acres Elementary,Polk,264,97,41.626462,-93.721468
+387,Iowa,2018-19,McKinley Elementary,Scott,368,97,41.536973,-90.53652
+388,Iowa,2018-19,Monroe Elementary,Scott,372,97,41.523838,-90.606356
+389,Iowa,2018-19,Park Ave Elementary,Polk,402,97,41.55627,-93.624934
+390,Iowa,2018-19,Walcott Intermediate,Scott,405,97,41.586972,-90.767281
+391,Iowa,2018-19,Whittier Elementary School-Indianola,Warren,305,97,41.36133,-93.578417
+392,Iowa,2018-19,Carlisle Elementary,Warren,606,96.9,41.497664,-93.490926
+393,Iowa,2018-19,Echo Hill Elementary,Linn,555,96.9,42.07505,-91.61279
+394,Iowa,2018-19,Francis Marion Intermediate,Linn,324,96.9,42.029369,-91.587574
+395,Iowa,2018-19,Howe Elementary,Boone,321,96.9,42.035836,-94.025263
+396,Iowa,2018-19,Hubbard-Radcliffe Elementary,Hardin,160,96.9,42.316708,-93.434729
+397,Iowa,2018-19,Jackson Elementary,Scott,319,96.9,41.532332,-90.648378
+398,Iowa,2018-19,Moore Elementary,Polk,324,96.9,41.62868,-93.688951
+399,Iowa,2018-19,Prairie City Elementary,Jasper,224,96.9,41.594575,-93.232949
+400,Iowa,2018-19,Roundy Elementary,Louisa,286,96.9,41.269036,-91.371102
+401,Iowa,2018-19,RRMR Elementary,Floyd,194,96.9,43.05124,-92.932956
+402,Iowa,2018-19,Ruby Van Meter,Polk,162,96.9,41.590325,-93.656242
+403,Iowa,2018-19,ST PAUL's LUTHERAN SCHOOL,Bremer,128,96.9,42.72811,-92.472492
+404,Iowa,2018-19,Valley Southwoods,Polk,671,96.9,41.56233,-93.755611
+405,Iowa,2018-19,Adams Elementary,Carroll,251,96.8,42.071079,-94.865557
+406,Iowa,2018-19,Briggs Elementary,Jackson,251,96.8,42.071505,-90.669455
+407,Iowa,2018-19,Calamus-Wheatland Sec Attendance Center,Clinton,218,96.8,41.837213,-90.838936
+408,Iowa,2018-19,Center Point-Urbana Intermediate,Benton,343,96.8,42.225565,-91.874036
+409,Iowa,2018-19,Crocker Elementary,Polk,602,96.8,41.699583,-93.63494
+410,Iowa,2018-19,Cunningham,Black Hawk,378,96.8,42.50884,-92.32143
+411,Iowa,2018-19,Emerson Elementary School-Indianola,Warren,469,96.8,41.3650337,-93.5487389
+412,Iowa,2018-19,Harlan Comm. Primary,Shelby,282,96.8,41.6548481,-95.3381622
+413,Iowa,2018-19,Hillside Elementary,Polk,595,96.8,41.580226,-93.711673
+414,Iowa,2018-19,Holy Cross Blessed Sacrament,Woodbury,218,96.8,42.5231824,-96.4013305
+415,Iowa,2018-19,Lakewood Elementary,Warren,726,96.8,41.498856,-93.685652
+416,Iowa,2018-19,Lincoln Intermediate,Cerro Gordo,625,96.8,43.135492,-93.197682
+417,Iowa,2018-19,Neil Armstrong Elementary,Scott,343,96.8,41.529675,-90.501908
+418,Iowa,2018-19,North Linn Elementary,Linn,217,96.8,42.291253,-91.661129
+419,Iowa,2018-19,South Hamilton Elem,Hamilton,316,96.8,42.304069,-93.647112
+420,Iowa,2018-19,South Union Elementary,Polk,497,96.8,41.545573,-93.614471
+421,Iowa,2018-19,St Jude Center,Linn,156,96.8,41.9688363,-91.7171669
+422,Iowa,2018-19,Brookview Elementary,Dallas,662,96.7,41.573604,-93.817328
+423,Iowa,2018-19,Bryant Elementary,Dubuque,271,96.7,42.485796,-90.677405
+424,Iowa,2018-19,Central City Elementary,Linn,181,96.7,42.208885,-91.524972
+425,Iowa,2018-19,Coolidge Elementary,Linn,336,96.7,41.970613,-91.752195
+426,Iowa,2018-19,Eagle Heights Elementary,Clinton,457,96.7,41.877769,-90.197467
+427,Iowa,2018-19,Earlham Elementary,Madison,305,96.7,41.495223,-94.124042
+428,Iowa,2018-19,East Mills Elementary,Mills,212,96.7,41.0323465,-95.464223
+429,Iowa,2018-19,GMG Secondary,Tama,240,96.7,42.095128,-92.674979
+430,Iowa,2018-19,Interstate 35 Elementary,Madison,422,96.7,41.210724,-93.842214
+431,Iowa,2018-19,Jackson Elementary,Linn,334,96.7,41.986119,-91.721944
+432,Iowa,2018-19,Lincoln Elementary,Boone,121,96.7,42.059708,-93.901667
+433,Iowa,2018-19,North Polk Central Elementary,Polk,364,96.7,41.817308,-93.615842
+434,Iowa,2018-19,Northeast Elementary,Clinton,331,96.7,41.968721,-90.376257
+435,Iowa,2018-19,Northeast Elementary,Mills,451,96.7,41.054607,-95.740918
+436,Iowa,2018-19,Prairie Creek,Linn,846,96.7,41.901392,-91.668402
+437,Iowa,2018-19,Runnells Elementary,Polk,269,96.7,41.520957,-93.357153
+438,Iowa,2018-19,South O'Brien Elem Sch Primghar Center,O'Brien,299,96.7,43.088729,-95.627992
+439,Iowa,2018-19,West Central K - 8,Fayette,181,96.7,42.7706137,-91.8812664
+440,Iowa,2018-19,Bridgeview Elementary,Scott,325,96.6,41.594805,-90.358788
+441,Iowa,2018-19,Dysart-Geneseo Elementary,Tama,148,96.6,42.169752,-92.312174
+442,Iowa,2018-19,Greene County Elementary,Greene,439,96.6,42.007405,-94.370132
+443,Iowa,2018-19,Hopewell Elementary,Scott,648,96.6,41.583555,-90.478368
+444,Iowa,2018-19,Lake Mills Elementary,Winnebago,294,96.6,43.415257,-93.531546
+445,Iowa,2018-19,Lincoln Elementary,Black Hawk,439,96.6,42.531863,-92.449278
+446,Iowa,2018-19,New Hartford Elementary,Butler,116,96.6,42.570012,-92.61936
+447,Iowa,2018-19,St Malachy,Union,145,96.6,41.05502,-94.364731
+448,Iowa,2018-19,Starry Elementary,Linn,232,96.6,42.02369,-91.594532
+449,Iowa,2018-19,Tilford Elementary,Benton,414,96.6,42.158404,-92.019869
+450,Iowa,2018-19,Walnut Street,Polk,265,96.6,41.585295,-93.628787
+451,Iowa,2018-19,West Burlington Elem,Des Moines,410,96.6,40.820775,-91.159857
+452,Iowa,2018-19,Wood Intermediate,Scott,730,96.6,41.579824,-90.598451
+453,Iowa,2018-19,Calamus-Wheatland Elem Attendance Center,Clinton,228,96.5,41.821723,-90.759458
+454,Iowa,2018-19,Clayton Ridge Elementary,Clayton,226,96.5,42.784772,-91.096263
+455,Iowa,2018-19,Hoover Elementary,Cerro Gordo,314,96.5,43.158493,-93.219209
+456,Iowa,2018-19,Irwin Elementary,Shelby,198,96.5,41.795856,-95.205859
+457,Iowa,2018-19,John Kennedy Elementary,Dubuque,575,96.5,42.508993,-90.722931
+458,Iowa,2018-19,Missouri Valley Elementary,Harrison,318,96.5,41.561906,-95.882899
+459,Iowa,2018-19,North Cedar Lowden Elementary Center,Cedar,144,96.5,41.860561,-90.929526
+460,Iowa,2018-19,Peosta Elementary,Dubuque,310,96.5,42.446866,-90.840205
+461,Iowa,2018-19,Thomas Jefferson Elementary,Jasper,255,96.5,41.700754,-93.07654
+462,Iowa,2018-19,Timber Ridge Elementary,Polk,665,96.5,41.655988,-93.719229
+463,Iowa,2018-19,Demoney Elementary,Emmet,418,96.4,43.399963,-94.8225495
+464,Iowa,2018-19,Franklin Elementary,Muscatine,275,96.4,41.414362,-91.062653
+465,Iowa,2018-19,Herbert Hoover Elementary,Scott,447,96.4,41.556854,-90.503058
+466,Iowa,2018-19,Horace Mann Elementary,Wapello,248,96.4,41.036531,-92.407053
+467,Iowa,2018-19,Hudson Elementary,Black Hawk,414,96.4,42.400508,-92.45343
+468,Iowa,2018-19,Hull Christian School K-8,Sioux,168,96.4,43.192881,-96.1296254
+469,Iowa,2018-19,Jefferson Elementary,Scott,420,96.4,41.530704,-90.590193
+470,Iowa,2018-19,Johnson Elementary,Linn,421,96.4,41.986197,-91.645055
+471,Iowa,2018-19,Nixon Elementary,Linn,305,96.4,42.044784,-91.668683
+472,Iowa,2018-19,Paul Norton Elementary,Scott,447,96.4,41.566749,-90.505306
+473,Iowa,2018-19,Pierce Elementary,Linn,388,96.4,42.023139,-91.676593
+474,Iowa,2018-19,Prairie Trail Elementary,Polk,714,96.4,41.712596,-93.630162
+475,Iowa,2018-19,West Elementary,Marion,329,96.4,41.316242,-93.115343
+476,Iowa,2018-19,Western Hills Elementary,Polk,563,96.4,41.57819,-93.757648
+477,Iowa,2018-19,Abbie Sawyer Elementary,Story,354,96.3,42.0339027,-93.6770658
+478,Iowa,2018-19,Alburnett Elementary,Linn,295,96.3,42.150155,-91.620511
+479,Iowa,2018-19,Andrew Elementary,Jackson,109,96.3,42.15264,-90.590985
+480,Iowa,2018-19,Audubon Elementary,Dubuque,214,96.3,42.515636,-90.66586
+481,Iowa,2018-19,Bowman Woods Elementary,Linn,464,96.3,42.044548,-91.628396
+482,Iowa,2018-19,Broadway Elementary,Crawford,327,96.3,42.01671,-95.350851
+483,Iowa,2018-19,Duncombe Elementary,Webster,431,96.3,42.50167,-94.183891
+484,Iowa,2018-19,Expo Alternative Learning Center,Black Hawk,509,96.3,42.497781,-92.306318
+485,Iowa,2018-19,Hoover Elementary,Dubuque,327,96.3,42.503211,-90.719814
+486,Iowa,2018-19,Lincoln Elementary,Johnson,216,96.3,41.667102,-91.552736
+487,Iowa,2018-19,Morris Elementary,Polk,547,96.3,41.695209,-93.465541
+488,Iowa,2018-19,Northwest Elementary,Polk,375,96.3,41.732653,-93.615587
+489,Iowa,2018-19,Novak Elementary,Linn,429,96.3,42.050079,-91.605183
+490,Iowa,2018-19,Tri-Center Elementary,Pottawattamie,299,96.3,41.503318,-95.594907
+491,Iowa,2018-19,Viola Gibson Elementary,Linn,508,96.3,42.039321,-91.714329
+492,Iowa,2018-19,Weber Elementary,Johnson,464,96.3,41.645034,-91.597269
+493,Iowa,2018-19,Whittier Elementary School-Clinton,Clinton,429,96.3,41.8455009,-90.2174685
+494,Iowa,2018-19,Grant Elementary,Muscatine,265,96.2,41.440592,-91.054336
+495,Iowa,2018-19,Hanawalt Elementary,Polk,365,96.2,41.579663,-93.693191
+496,Iowa,2018-19,Harlan Comm Intermediate,Shelby,316,96.2,41.6579172,-95.3385199
+497,Iowa,2018-19,Hull Protestant Reformed Christian School K-8t,Sioux,156,96.2,43.1889302,-96.1460664
+498,Iowa,2018-19,Irving Elementary,Black Hawk,449,96.2,42.486837,-92.34812
+499,Iowa,2018-19,Lynnville-Sully Elementary,Jasper,237,96.2,41.582482,-92.843329
+500,Iowa,2018-19,North Polk West Elementary,Polk,453,96.2,41.777812,-93.726078
+501,Iowa,2018-19,Oak Ridge,Linn,799,96.2,42.070208,-91.615164
+502,Iowa,2018-19,Riverdale Heights Elem,Scott,654,96.2,41.54525,-90.482677
+503,Iowa,2018-19,Springville Secondary,Linn,211,96.2,42.055513,-91.445102
+504,Iowa,2018-19,Boyer Valley Elementary,Crawford,180,96.1,41.927207,-95.493232
+505,Iowa,2018-19,Clear Creek Elementary,Johnson,280,96.1,41.724706,-91.792933
+506,Iowa,2018-19,Emerson Hough Elementary School - Newton,Jasper,255,96.1,41.703539,-93.045088
+507,Iowa,2018-19,Longfellow Elementary,Linn,181,96.1,42.03558,-91.581461
+508,Iowa,2018-19,Madison Elementary,Marion,386,96.1,41.40126,-92.894611
+509,Iowa,2018-19,Nodaway Valley Elementary,Adair,256,96.1,41.309726,-94.464037
+510,Iowa,2018-19,Okoboji Elementary,Dickinson,385,96.1,43.322327,-95.152419
+511,Iowa,2018-19,Prairie Valley Elementary,Calhoun,204,96.1,42.337119,-94.4154
+512,Iowa,2018-19,Resurrection,Dubuque,206,96.1,42.5185787,-90.7067199
+513,Iowa,2018-19,Richard O. Jacobson Elementary,Wright,306,96.1,42.85195,-93.604751
+514,Iowa,2018-19,Baxter Elementary,Jasper,198,96,41.826807,-93.148815
+515,Iowa,2018-19,Gehlen Catholic Elem,Plymouth,322,96,42.7933729,-96.1551745
+516,Iowa,2018-19,Hartford Upper Elementar,Warren,352,96,41.463164,-93.403526
+517,Iowa,2018-19,Moville Elementary,Woodbury,227,96,42.483753,-96.067722
+518,Iowa,2018-19,New Hampton Elementary,Chickasaw,405,96,43.058776,-92.318552
+519,Iowa,2018-19,Orange City Elementary,Sioux,424,96,43.005732,-96.061877
+520,Iowa,2018-19,Pleasant View Elementary,Scott,681,96,41.565604,-90.442169
+521,Iowa,2018-19,Prairie View Elementary,Linn,405,96,41.902686,-91.663821
+522,Iowa,2018-19,Seton Catholic Elem Sch Peosta Center,Dubuque,227,96,42.4504165,-90.8323765
+523,Iowa,2018-19,Woodland Hills,Dallas,582,96,41.549848,-93.839656
+524,Iowa,2018-19,Cooper Elementary,Webster,246,95.9,42.519826,-94.164674
+525,Iowa,2018-19,Edison Elementary,Pottawattamie,419,95.9,41.259074,-95.877772
+526,Iowa,2018-19,Eisenhower Elementary,Dubuque,516,95.9,42.521115,-90.718166
+527,Iowa,2018-19,Fulton Elementary,Dubuque,269,95.9,42.5185,-90.674104
+528,Iowa,2018-19,Heritage Elementary,Polk,343,95.9,41.7018982,-93.7897209
+529,Iowa,2018-19,Lincoln Elementary,Marion,270,95.9,41.411455,-92.917289
+530,Iowa,2018-19,Reinbeck Elementary,Grundy,241,95.9,42.3175719,-92.5954634
+531,Iowa,2018-19,Southdale Elementary,Black Hawk,508,95.9,42.505051,-92.43807
+532,Iowa,2018-19,Adel Elementary,Dallas,453,95.8,41.621432,-94.02875
+533,Iowa,2018-19,All Saints Catholic,Scott,380,95.8,41.53901,-90.592091
+534,Iowa,2018-19,Carver Elementary,Dubuque,519,95.8,42.507369,-90.754246
+535,Iowa,2018-19,Eisenhower Elementary,Scott,426,95.8,41.54839,-90.540653
+536,Iowa,2018-19,Jefferson Elementary,Cerro Gordo,378,95.8,43.147402,-93.173842
+537,Iowa,2018-19,Jefferson Elementary,Muscatine,431,95.8,41.429529,-91.048251
+538,Iowa,2018-19,Madison Elementary,Linn,237,95.8,41.985988,-91.710459
+539,Iowa,2018-19,South Winneshiek Elementary,Winneshiek,165,95.8,43.142617,-91.763079
+540,Iowa,2018-19,St Joseph,Clinton,165,95.8,41.8198257,-90.5396182
+541,Iowa,2018-19,Wilson Elementary,Scott,451,95.8,41.539942,-90.623673
+542,Iowa,2018-19,Wilson Elementary,Wapello,309,95.8,41.014724,-92.399986
+543,Iowa,2018-19,Carrie Lee Elementary,Winneshiek,234,95.7,43.300805,-91.788064
+544,Iowa,2018-19,Stuart Elementary,Guthrie,210,95.7,41.505721,-94.314685
+545,Iowa,2018-19,Studebaker Elementary,Polk,493,95.7,41.513015,-93.610791
+546,Iowa,2018-19,Valerius Elementary,Polk,282,95.7,41.625117,-93.742976
+547,Iowa,2018-19,West Fork Elementary at Rockwell,Cerro Gordo,211,95.7,42.983543,-93.191638
+548,Iowa,2018-19,Wright Elementary,Linn,300,95.7,42.017505,-91.658914
+549,Iowa,2018-19,Bergman Academy,Polk,252,95.6,41.576939,-93.6813142
+550,Iowa,2018-19,Dunkerton Elementary,Black Hawk,158,95.6,42.567702,-92.159551
+551,Iowa,2018-19,Gilbert Intermediate,Story,317,95.6,42.107207,-93.641672
+552,Iowa,2018-19,Grant Elementary,Linn,339,95.6,41.951401,-91.666552
+553,Iowa,2018-19,Guthrie Center Elementary,Guthrie,248,95.6,41.68521,-94.50377
+554,Iowa,2018-19,Pleasantville Elementary,Marion,339,95.6,41.389398,-93.273436
+555,Iowa,2018-19,South Side Elementary,Franklin,340,95.6,42.737422,-93.201048
+556,Iowa,2018-19,Springville Elementary,Linn,158,95.6,42.054428,-91.447268
+557,Iowa,2018-19,St Luke the Evangelist Catholic,Polk,160,95.6,41.74001,-93.655611
+558,Iowa,2018-19,St Paul The Apostle,Scott,387,95.6,41.5426084,-90.5611376
+559,Iowa,2018-19,Wilkins Elementary,Linn,436,95.6,42.044251,-91.582661
+560,Iowa,2018-19,Camanche Elementary,Clinton,358,95.5,41.7908821,-90.2550558
+561,Iowa,2018-19,Cedar Heights Elementary,Black Hawk,466,95.5,42.517737,-92.417534
+562,Iowa,2018-19,Central Lyon Elementary,Lyon,334,95.5,43.419253,-96.16911
+563,Iowa,2018-19,Cody Elementary,Scott,376,95.5,41.611718,-90.370544
+564,Iowa,2018-19,John F Kennedy Cath Sch,Scott,352,95.5,41.5625688,-90.598769
+565,Iowa,2018-19,McGregor Intermediate,Clayton,134,95.5,43.019517,-91.186773
+566,Iowa,2018-19,McKinley Elementary,Muscatine,419,95.5,41.42939,-91.070586
+567,Iowa,2018-19,Panorama Elementary,Guthrie,292,95.5,41.695955,-94.375255
+568,Iowa,2018-19,Prairie Ridge Elementary,Linn,401,95.5,41.901089,-91.665462
+569,Iowa,2018-19,West Elementary,Story,401,95.5,41.8836046,-93.6772737
+570,Iowa,2018-19,Wilton Elementary,Muscatine,509,95.5,41.596535,-91.01071
+571,Iowa,2018-19,Wings Park Elementary,Fayette,448,95.5,42.681074,-91.901828
+572,Iowa,2018-19,Ekstrand Elementary,Clinton,410,95.4,41.831136,-90.547664
+573,Iowa,2018-19,North Mahaska Elementary,Mahaska,307,95.4,41.459717,-92.64778
+574,Iowa,2018-19,Shannon Elementary,Jones,109,95.4,42.232065,-91.192614
+575,Iowa,2018-19,Southeast Elementary,Bremer,173,95.4,42.71805,-92.465029
+576,Iowa,2018-19,Brooklyn-Guernsey-Malcom Elementary,Poweshiek,295,95.3,41.738945,-92.447196
+577,Iowa,2018-19,Bryant Elementary School-Sioux City,Woodbury,298,95.3,42.5226388,-96.4001828
+578,Iowa,2018-19,Clark Elementary,Plymouth,276,95.3,42.796083,-96.169729
+579,Iowa,2018-19,Graettinger-Terril Elementary,Dickinson,128,95.3,43.305258,-94.974047
+580,Iowa,2018-19,Iowa Falls Comm School District,Hardin,106,95.3,42.5349537,-93.2732547
+581,Iowa,2018-19,Jefferson Intermediate,Marion,554,95.3,41.406704,-92.900594
+582,Iowa,2018-19,Keystone Elementary,Benton,128,95.3,42.002941,-92.199143
+583,Iowa,2018-19,Saints Mary and Mathias Catholic,Muscatine,170,95.3,41.4374015,-91.0724545
+584,Iowa,2018-19,St Pius X,Polk,300,95.3,41.62865,-93.706601
+585,Iowa,2018-19,Stewart Elementary,Washington,364,95.3,41.3067,-91.688818
+586,Iowa,2018-19,Cardinal Elementary,Jackson,228,95.2,42.075742,-90.652487
+587,Iowa,2018-19,Clear Creek Elementary,Cerro Gordo,640,95.2,43.12903,-93.372179
+588,Iowa,2018-19,Clive Elementary,Polk,498,95.2,41.6083453,-93.7187047
+589,Iowa,2018-19,Colfax-Mingo Elementary,Jasper,352,95.2,41.675519,-93.2458
+590,Iowa,2018-19,Dexter Elementary,Dallas,165,95.2,41.519913,-94.227984
+591,Iowa,2018-19,Kate Mitchell Elementary,Story,314,95.2,41.9903084,-93.6010533
+592,Iowa,2018-19,Schaller-Crestland Elementary,Sac,126,95.2,42.497611,-95.297139
+593,Iowa,2018-19,Webster Elementary,Polk,415,95.2,41.637743,-93.796525
+594,Iowa,2018-19,Eagle Grove Elementary,Wright,329,95.1,42.667956,-93.915253
+595,Iowa,2018-19,Edwards Elementary,Story,384,95.1,42.01546,-93.685401
+596,Iowa,2018-19,KUEMPER CATHOLIC SCHOOL SYSTEM,Carroll,738,95.1,42.059023,-94.865784
+597,Iowa,2018-19,Walcott Elementary,Scott,205,95.1,41.586799,-90.767345
+598,Iowa,2018-19,Boyden-Hull Elementary,Sioux,261,95,43.190343,-96.002385
+599,Iowa,2018-19,East Elementary,Polk,404,95,41.730548,-93.589991
+600,Iowa,2018-19,Franklin Elementary Sch,Marshall,338,95,42.04946,-92.936632
+601,Iowa,2018-19,Gilbert Elementary,Story,299,95,42.104858,-93.645007
+602,Iowa,2018-19,Manson Northwest Webster Elementary Schoo,Webster,401,95,42.504836,-94.361528
+603,Iowa,2018-19,Murray Elementary,Clarke,140,95,41.039155,-93.954147
+604,Iowa,2018-19,Shenandoah Elementary,Page,403,95,40.749418,-95.359361
+605,Iowa,2018-19,St Augustin,Polk,241,95,41.5830102,-93.6767513
+606,Iowa,2018-19,Wellman Elementary,Washington,258,95,41.4695851,-91.8367187
+607,Iowa,2018-19,BCLUW Elementary,Grundy,177,94.9,42.228784,-92.869593
+608,Iowa,2018-19,Collins-Maxwell Elementary,Story,177,94.9,41.903241,-93.302785
+609,Iowa,2018-19,Garfield Elementary,Page,393,94.9,40.730231,-95.036059
+610,Iowa,2018-19,Roosevelt Elementary,Cherokee,435,94.9,42.760712,-95.545469
+611,Iowa,2018-19,St. Francis Catholic,Marshall,175,94.9,42.02928,-92.918051
+612,Iowa,2018-19,Westridge Elementary,Polk,662,94.9,41.572853,-93.78254
+613,Iowa,2018-19,CAL Elementary,Franklin,115,94.8,42.751276,-93.368647
+614,Iowa,2018-19,Center Point-Urbana Primary,Linn,306,94.8,42.189074,-91.786285
+615,Iowa,2018-19,Mapleton Elementary,Monona,153,94.8,42.161333,-95.789621
+616,Iowa,2018-19,Newman Catholic Elementary,Cerro Gordo,232,94.8,43.1330643,-93.2365019
+617,Iowa,2018-19,Rivermont Collegiate,Scott,174,94.8,41.52931,-90.506251
+618,Iowa,2018-19,Sudlow Intermediate,Scott,862,94.8,41.538948,-90.554944
+619,Iowa,2018-19,Dayton Center,Webster,188,94.7,42.265418,-94.072842
+620,Iowa,2018-19,Farley Elementary,Dubuque,189,94.7,42.444561,-91.002052
+621,Iowa,2018-19,Galva-Holstein Upper Elementary,Ida,113,94.7,42.507055,-95.411888
+622,Iowa,2018-19,Hiawatha Elementary,Linn,374,94.7,42.038193,-91.679891
+623,Iowa,2018-19,Jordan Creek Elementary,Polk,702,94.7,41.560144,-93.759673
+624,Iowa,2018-19,OABCIG Elementary School - Odebolt,Sac,113,94.7,42.3081294,-95.252543
+625,Iowa,2018-19,St Columbkille,Dubuque,226,94.7,42.486461,-90.674498
+626,Iowa,2018-19,St Joseph Elementary,Polk,190,94.7,41.61318,-93.550867
+627,Iowa,2018-19,St Theresa,Polk,247,94.7,41.6018983,-93.698797
+628,Iowa,2018-19,Alan Shepard Elementary,Scott,388,94.6,41.69906,-90.585033
+629,Iowa,2018-19,Buffalo Elementary,Scott,258,94.6,41.458362,-90.716737
+630,Iowa,2018-19,Butler Elementary,Webster,427,94.6,42.494613,-94.172691
+631,Iowa,2018-19,Harrison Elementary,Linn,333,94.6,41.986056,-91.687738
+632,Iowa,2018-19,Irving Elementary,Warren,448,94.6,41.363702,-93.566859
+633,Iowa,2018-19,James Elementary,Wapello,202,94.6,41.032151,-92.420466
+634,Iowa,2018-19,Lincoln Elementary,Dubuque,203,94.6,42.497544,-90.68139
+635,Iowa,2018-19,Martensdale Elementary,Warren,242,94.6,41.375189,-93.738831
+636,Iowa,2018-19,MMCRU Marcus Elementary,Cherokee,149,94.6,42.818579,-95.801937
+637,Iowa,2018-19,Moravia Elementary,Appanoose,185,94.6,40.895508,-92.819599
+638,Iowa,2018-19,Sioux Center Christian,Sioux,485,94.6,43.07169,-96.173841
+639,Iowa,2018-19,South Prairie Elementary,Polk,447,94.6,41.68468,-93.796225
+640,Iowa,2018-19,Amana Elementary,Iowa,127,94.5,41.797865,-91.897201
+641,Iowa,2018-19,Hospers Elementary,Sioux,219,94.5,43.069861,-95.904411
+642,Iowa,2018-19,Lourdes Catholic,Scott,220,94.5,41.52804,-90.511561
+643,Iowa,2018-19,Downtown,Polk,266,94.4,41.583967,-93.642119
+644,Iowa,2018-19,Jefferson Elementary,Polk,394,94.4,41.548936,-93.650551
+645,Iowa,2018-19,Tiffin Elementary,Johnson,414,94.4,41.707513,-91.645551
+646,Iowa,2018-19,Arthur Elementary,Linn,317,94.3,42.004058,-91.638851
+647,Iowa,2018-19,Hawarden Elementary,Sioux,228,94.3,43.000295,-96.483379
+648,Iowa,2018-19,Kalona Elementary,Washington,297,94.3,41.4883946,-91.7062638
+649,Iowa,2018-19,Moulton Elementary,Appanoose,105,94.3,40.688925,-92.674138
+650,Iowa,2018-19,St Athanasius,Buchanan,106,94.3,42.47348,-92.062941
+651,Iowa,2018-19,Early Childhood Center,Muscatine,104,94.2,41.574996,-91.26155
+652,Iowa,2018-19,Hunt Elementary,Woodbury,309,94.2,42.511513,-96.402983
+653,Iowa,2018-19,Jesup Elementary,Buchanan,328,94.2,42.480775,-92.064427
+654,Iowa,2018-19,Morning Sun Elementary,Louisa,103,94.2,41.095377,-91.249682
+655,Iowa,2018-19,Clarion-Goldfield-Dows Elementary,Wright,389,94.1,42.735382,-93.72856
+656,Iowa,2018-19,Mormon Trail Elementary,Wayne,118,94.1,40.855203,-93.500136
+657,Iowa,2018-19,Olmsted Elementary,Polk,256,94.1,41.634331,-93.715912
+658,Iowa,2018-19,Andrew Comm School District,Jackson,134,94,42.1753532,-90.6204165
+659,Iowa,2018-19,Easton Valley Elementary,Jackson,215,94,42.046849,-90.310105
+660,Iowa,2018-19,Grant Center,Monroe,218,94,41.020955,-92.80784
+661,Iowa,2018-19,North Elementary,Decatur,215,94,40.748496,-93.74077
+662,Iowa,2018-19,Oelwein Comm School District,Fayette,1231,94,42.6743925,-91.9024062
+663,Iowa,2018-19,Alta Elementary,Buena Vista,228,93.9,42.664958,-95.303075
+664,Iowa,2018-19,Cleveland Elementary,Linn,358,93.9,41.971846,-91.703085
+665,Iowa,2018-19,Rock Run Elementary,Hardin,338,93.8,42.529326,-93.265866
+666,Iowa,2018-19,St Cecilia,Story,144,93.8,42.0498063,-93.6287839
+667,Iowa,2018-19,Cora B Darling Elementary,Allamakee,520,93.7,43.081893,-91.571749
+668,Iowa,2018-19,John Cline Elementary,Winneshiek,300,93.7,43.30548,-91.785655
+669,Iowa,2018-19,Virgil Grissom Elementary,Scott,159,93.7,41.676575,-90.34649
+670,Iowa,2018-19,Washington Elementary School-Davenport,Scott,271,93.7,41.5388089,-90.5521055
+671,Iowa,2018-19,Aquin Elementary,Dubuque,232,93.5,42.299278,-91.01939
+672,Iowa,2018-19,Notre Dame Elementary,Howard,170,93.5,43.3732741,-92.1142119
+673,Iowa,2018-19,Oviatt Elementary,Warren,735,93.5,41.472717,-93.680215
+674,Iowa,2018-19,Grant Wood Elementary,Johnson,304,93.4,41.634613,-91.507418
+675,Iowa,2018-19,Orchard Hill Elementary,Black Hawk,393,93.4,42.502632,-92.421701
+676,Iowa,2018-19,Rock Valley Elementary,Sioux,392,93.4,43.208897,-96.287175
+677,Iowa,2018-19,Schaller-Crestland M.S. Ridge View Middle Sch,Sac,227,93.4,42.464106,-95.1555607
+678,Iowa,2018-19,Sylvia Enarson Elementary,Montgomery,121,93.4,40.933235,-94.982062
+679,Iowa,2018-19,Thomas Jefferson Elementary,Scott,137,93.4,41.528791,-90.523156
+680,Iowa,2018-19,Cardinal Elementary,Wapello,445,93.3,40.9637997,-92.2386505
+681,Iowa,2018-19,Clark Elementary,Henry,240,93.3,40.92307,-91.402918
+682,Iowa,2018-19,Longfellow Elementary,Johnson,341,93.3,41.653912,-91.518222
+683,Iowa,2018-19,Melcher-Dallas Elem,Marion,193,93.3,41.234817,-93.236828
+684,Iowa,2018-19,Waco Elementary,Washington,253,93.3,41.212574,-91.538182
+685,Iowa,2018-19,St Anthony,Dubuque,278,93.2,42.5037905,-90.6973733
+686,Iowa,2018-19,Washington Elementary School-Mount Vernon,Linn,600,93.2,41.9199369,-91.4250874
+687,Iowa,2018-19,St Catherine-St Mary Grade,Plymouth,131,93.1,42.8128036,-95.9716507
+688,Iowa,2018-19,Bohumil Shimek Elementary,Johnson,215,93,41.680091,-91.526816
+689,Iowa,2018-19,Heritage Christian School-Iowa City,Johnson,142,93,41.7399163,-91.5936217
+690,Iowa,2018-19,Longfellow Elementary,Benton,242,93,41.890897,-92.276505
+691,Iowa,2018-19,St Mary Grade,Buena Vista,142,93,42.6397995,-95.1974253
+692,Iowa,2018-19,Logan-Magnolia Elementary,Harrison,339,92.9,41.656355,-95.788066
+693,Iowa,2018-19,North Kossuth Elementary,Kossuth,126,92.9,43.383691,-94.312864
+694,Iowa,2018-19,Prairie Point,Linn,1308,92.9,41.900986,-91.655269
+695,Iowa,2018-19,Westfield Elementary,Linn,564,92.7,42.063794,-91.649539
+696,Iowa,2018-19,Saint Edward,Black Hawk,216,92.6,42.4773049,-92.3542555
+697,Iowa,2018-19,Seton Catholic Elem Sch Farley Center,Dubuque,108,92.6,42.4412231,-91.0039773
+698,Iowa,2018-19,Washington Elementary School-Charles City,Floyd,326,92.6,43.078982,-92.6714909
+699,Iowa,2018-19,All Saints,Linn,161,92.5,41.9779484,-91.6256142
+700,Iowa,2018-19,Rogers Elementary,Marshall,213,92.5,42.052518,-92.920032
+701,Iowa,2018-19,Readlyn Elementary,Bremer,131,92.4,42.704203,-92.224221
+702,Iowa,2018-19,East Campus Elementary,Allamakee,235,92.3,43.270881,-91.483255
+703,Iowa,2018-19,Harris-Lake Park Elementary,Dickinson,142,92.3,43.4553,-95.32438
+704,Iowa,2018-19,Marquette Catholic Elementary,Jackson,128,92.2,42.2599236,-90.4290156
+705,Iowa,2018-19,Storm Lake Elementary,Buena Vista,937,92.2,42.648897,-95.226846
+706,Iowa,2018-19,Valley Elementary,Fayette,166,92.2,42.97219,-91.654291
+707,Iowa,2018-19,Lincoln Center,Monroe,362,92,41.029392,-92.805503
+708,Iowa,2018-19,Valley Lutheran,Black Hawk,175,92,42.49682,-92.418331
+709,Iowa,2018-19,Central Elementary,Johnson,431,91.9,41.676388,-91.572308
+710,Iowa,2018-19,Lamoni Elementary,Decatur,148,91.9,40.624841,-93.935872
+711,Iowa,2018-19,South Elementary,Decatur,124,91.9,40.735585,-93.74594
+712,Iowa,2018-19,St Joseph,Linn,136,91.9,42.0404513,-91.5955301
+713,Iowa,2018-19,Taylor Elementary,Linn,223,91.9,41.970015,-91.678888
+714,Iowa,2018-19,Des Moines Christian Elementary,Polk,1021,91.8,41.628836,-93.797815
+715,Iowa,2018-19,Lincoln Elementary,Mitchell,328,91.8,43.2853824,-92.8138584
+716,Iowa,2018-19,Van Allen Elementary,Lucas,282,91.8,41.023668,-93.311301
+717,Iowa,2018-19,Hoover Elementary,Linn,363,91.7,41.970797,-91.725047
+718,Iowa,2018-19,Lisbon Elementary,Linn,288,91.7,41.91867,-91.387376
+719,Iowa,2018-19,Mark Twain Elementary,Johnson,337,91.7,41.643371,-91.51572
+720,Iowa,2018-19,Seymour Elementary,Wayne,156,91.7,40.680905,-93.115977
+721,Iowa,2018-19,Pella Christian Grade,Marion,468,91.5,41.40539,-92.909246
+722,Iowa,2018-19,Charter Oak-Ute Elementary,Crawford,126,91.3,42.065348,-95.590832
+723,Iowa,2018-19,Prescott Elementary,Dubuque,290,91,42.504409,-90.66628
+724,Iowa,2018-19,Lenox Elementary,Taylor,276,90.9,40.875827,-94.556799
+725,Iowa,2018-19,Trinity Lutheran,Scott,306,90.8,41.54688,-90.589891
+726,Iowa,2018-19,Christ The King,Polk,171,90.6,41.5323996,-93.6238293
+727,Iowa,2018-19,Irving Elementary,Dubuque,457,90.6,42.499223,-90.702469
+728,Iowa,2018-19,Twin Cedars Elementary,Marion,171,90.6,41.218079,-92.925346
+729,Iowa,2018-19,Underwood Elementary,Pottawattamie,329,90.6,41.386149,-95.68283
+730,Iowa,2018-19,Lincoln Elementary,Floyd,169,90.5,43.066872,-92.663576
+731,Iowa,2018-19,Pence Elementary,Jefferson,377,90.5,40.9971627,-91.9710136
+732,Iowa,2018-19,Grand View Christian Elementary,Polk,396,90.4,41.6436182,-93.5597473
+733,Iowa,2018-19,Horace Mann Elementary,Johnson,209,90.4,41.667479,-91.52606
+734,Iowa,2018-19,West Lyon Elementary,Lyon,385,90.1,43.39238,-96.42997
+735,Iowa,2018-19,Trinity Lutheran,Linn,194,89.7,41.96945,-91.689921
+736,Iowa,2018-19,Marquette Catholic School System,Jackson,202,89.6,42.2599236,-90.4290156
+737,Iowa,2018-19,Siouxland Community Christian,Woodbury,220,89.5,42.4748211,-96.3288733
+738,Iowa,2018-19,Norman Borlaug Elementary,Johnson,508,89.4,41.670406,-91.600974
+739,Iowa,2018-19,Washington Elementary School-Fairfield,Jefferson,205,89.3,41.0025533,-91.9574597
+740,Iowa,2018-19,Marnie Simons Elementary,Fremont,111,89.2,40.616684,-95.652462
+741,Iowa,2018-19,Dubuque Comm School District,Dubuque,138,89.1,42.5094998,-90.7152749
+742,Iowa,2018-19,Rock Valley Christian,Sioux,201,89.1,43.20827,-96.296731
+743,Iowa,2018-19,Central Ward Elementary,Appanoose,221,88.7,40.730805,-92.873206
+744,Iowa,2018-19,River Hills,Black Hawk,104,88.5,42.518651,-92.412075
+745,Iowa,2018-19,Notre Dame Elementary,Des Moines,181,88.4,40.8024489,-91.1405105
+746,Iowa,2018-19,Columbus Elementary,Lucas,263,88.2,41.013786,-93.312296
+747,Iowa,2018-19,St Benedict,Winneshiek,108,88,43.297445,-91.781999
+748,Iowa,2018-19,MFL MarMac Elementary,Clayton,232,87.9,43.046245,-91.391999
+749,Iowa,2018-19,Clarinda Academy,Page,137,87.6,40.75782,-95.036062
+750,Iowa,2018-19,Immaculate Conception,Floyd,184,87.5,43.06506,-92.672931
+751,Iowa,2018-19,West Campus Elementary,Allamakee,206,87.4,43.272369,-91.489435
+752,Iowa,2018-19,Sacred Heart,Jackson,110,87.3,42.0663855,-90.6748586
+753,Iowa,2018-19,Westwood Elementary,Woodbury,409,87.3,42.229958,-96.218215
+754,Iowa,2018-19,Central Lutheran,Benton,147,87.1,41.993105,-91.973827
+755,Iowa,2018-19,Kenwood Elementary,Linn,411,87.1,42.016095,-91.641431
+756,Iowa,2018-19,St Mary,Humboldt,139,87.1,42.7253196,-94.2124208
+757,Iowa,2018-19,Iowa Virtual Academy,Clayton,398,86.9,42.867744,-91.242134
+758,Iowa,2018-19,Isaac Newton Christian Academy,Linn,236,86.9,42.0062,-91.672511
+759,Iowa,2018-19,Ernest Horn Elementary,Johnson,407,86.7,41.650772,-91.563031
+760,Iowa,2018-19,Oskaloosa Christian,Mahaska,177,85.9,41.3025,-92.649871
+761,Iowa,2018-19,Cowles Elementary,Polk,323,84.8,41.607987,-93.705419
+762,Iowa,2018-19,Alexander Elementary,Johnson,427,84.3,41.62198,-91.512993
+763,Iowa,2018-19,St Joseph Community,Chickasaw,139,83.5,43.061555,-92.319599
+764,Iowa,2018-19,Pocahontas Area Elementary,Pocahontas,641,83,42.731873,-94.672909
+765,Iowa,2018-19,Charles City Middle Sch.,Floyd,517,82.4,43.062698,-92.655686
+766,Iowa,2018-19,Pineview Elementary,Hardin,176,81.8,42.520177,-93.277487
+767,Iowa,2018-19,Kirkwood Elementary,Johnson,354,81.6,41.685988,-91.583763
+768,Iowa,2018-19,Ireton Elementary,Sioux,102,80.4,42.975246,-96.314846
+769,Iowa,2018-19,Iowa Christian Academy,Polk,157,80.3,41.58012,-93.739001
+770,Iowa,2018-19,St Patrick,Allamakee,169,79.9,43.26725,-91.478331
+771,Iowa,2018-19,Heartland Christian,Pottawattamie,190,79.5,41.21857,-95.852251
+772,Iowa,2018-19,Tri-County Elementary,Keokuk,131,79.4,41.453182,-92.33475
+773,Iowa,2018-19,Ankeny Christian Academy Elementary,Polk,292,77.7,41.7325352,-93.6231259
+774,Iowa,2018-19,College View Elementary,Pottawattamie,484,76.9,41.267999,-95.804377
+775,Iowa,2018-19,Iowa Connections Academy Elementary,Cass,101,75.2,41.44553,-94.767571
+776,Iowa,2018-19,Cedar Rapids Comm School District,Linn,334,75.1,42.0258244,-91.714958
+777,Iowa,2018-19,Morning Star Academy,Scott,198,74.7,41.56106,-90.511681
+778,Iowa,2018-19,Cedar Valley Christian,Linn,134,73.9,41.99602,-91.615511
+779,Iowa,2018-19,Ames Comm School District,Story,322,71.7,42.0020589,-93.6015207
+780,Iowa,2018-19,Boone Comm School District,Boone,170,61.8,42.1114144,-93.8858955
+781,Iowa,2018-19,Marion Home,Linn,1049,59.7,42.02528,-91.594211
+782,Iowa,2018-19,Netherlands Reformed Christian School K-12,Sioux,409,58.4,43.1955863,-96.2875754
+783,Iowa,2018-19,Maharishi School Of The Age Of Enlightenment,Jefferson,130,40.8,41.0154333,-91.9670254
+784,Iowa,2018-19,A-H-S-T-W Intermediate,Pottawattamie,99,,41.4694947,-95.3418031
+785,Iowa,2018-19,Adventist Christian,Muscatine,8,,41.442239,-91.0689809
+786,Iowa,2018-19,AGWSR Elementary at Wellsburg,Grundy,56,,42.432905,-92.9313
+787,Iowa,2018-19,Albert City-Truesdale Elementary,Buena Vista,94,,42.783082,-94.950444
+788,Iowa,2018-19,Alternative,Cerro Gordo,74,,43.151528,-93.167314
+789,Iowa,2018-19,Ames Christian School K-8,Story,40,,42.008897,-93.6242189
+790,Iowa,2018-19,Anamosa Comm School District,Jones,14,,42.1060521,-91.2874418
+791,Iowa,2018-19,Ankeny Comm School District,Polk,76,,41.7242774,-93.6015207
+792,Iowa,2018-19,Anthon Elementary,Woodbury,89,,42.384702,-95.869738
+793,Iowa,2018-19,Ar-We-Va Elementary Community,Crawford,89,,42.07519,-95.100821
+794,Iowa,2018-19,Aurelia Elementary,Cherokee,69,,42.714036,-95.429023
+795,Iowa,2018-19,Ballard Comm School District,Story,25,,41.9228383,-93.6015207
+796,Iowa,2018-19,Bennett Elementary,Cedar,70,,41.740891,-90.976756
+797,Iowa,2018-19,Bertha Godfrey Elementary,Kossuth,89,,43.070004,-94.21722
+798,Iowa,2018-19,Bettendorf Comm School District,Scott,37,,41.5551555,-90.5021589
+799,Iowa,2018-19,Bloomington Amish,Decatur,18,,40.6681682,-93.9674371
+800,Iowa,2018-19,CAM North Elementary,Cass,98,,41.45363,-94.769669
+801,Iowa,2018-19,Centerville Amish,Johnson,23,,40.7290565,-92.8738196
+802,Iowa,2018-19,Central Iowa Christian,Poweshiek,31,,41.74676,-92.745871
+803,Iowa,2018-19,Chariton Comm School District,Lucas,12,,41.0303353,-93.3792057
+804,Iowa,2018-19,Clarinda Comm School District,Page,13,,40.7297776,-95.0352154
+805,Iowa,2018-19,Clarinda Lutheran School Association,Page,88,,40.7468504,-95.0450291
+806,Iowa,2018-19,Clay Central-Everly Elementary,Clay,99,,43.062038,-95.286446
+807,Iowa,2018-19,Clyde D Mease Elementary,Humboldt,85,,42.721638,-94.203499
+808,Iowa,2018-19,Collins-Maxwell Comm School District,Story,4,,41.884133,-93.392113
+809,Iowa,2018-19,Colo-NESCO School Comm School District,Story,12,,42.0704809,-93.2986106
+810,Iowa,2018-19,Community Christian,Webster,54,,42.49529,-94.164741
+811,Iowa,2018-19,COMMUNITY LUTHERAN SCHOOL,Bremer,28,,42.66108,-92.238121
+812,Iowa,2018-19,Countryside Mennonite,Chickasaw,31,,43.0724667,-92.3813621
+813,Iowa,2018-19,Crescent Elementary,Pottawattamie,74,,41.364285,-95.854111
+814,Iowa,2018-19,Creston Early Childhood Center,Union,85,,41.066791,-94.363443
+815,Iowa,2018-19,Dallas Center Christian,Dallas,13,,41.699535,-93.970641
+816,Iowa,2018-19,Danbury Catholic,Woodbury,56,,42.2369,-95.717301
+817,Iowa,2018-19,De Sales Grade,Winneshiek,90,,43.1430098,-91.7583693
+818,Iowa,2018-19,Deerfield Mennonite,Chickasaw,29,,43.0589195,-92.3290555
+819,Iowa,2018-19,Deerview Amish,Johnson,22,,41.7095838,-91.6757358
+820,Iowa,2018-19,Des Moines Independent Comm School District,Polk,10,,41.5842182,-93.6217802
+821,Iowa,2018-19,Diagonal Elementary,Ringgold,57,,40.80722,-94.343673
+822,Iowa,2018-19,Doon Christian,Lyon,16,,43.273097,-96.234264
+823,Iowa,2018-19,Dubuque Lutheran,Dubuque,33,,42.509245,-90.721058
+824,Iowa,2018-19,Earlville Elementary,Delaware,49,,42.483762,-91.275855
+825,Iowa,2018-19,East Lincoln Mennonite,Mitchell,24,,43.2317132,-92.6288523
+826,Iowa,2018-19,Echo Vale Amish,Johnson,35,,41.533932,-91.785484
+827,Iowa,2018-19,Elliott Elementary,Montgomery,75,,41.15144,-95.164091
+828,Iowa,2018-19,Emmetsburg Catholic,Palo Alto,92,,43.10291,-94.679131
+829,Iowa,2018-19,Essex Elementary,Page,81,,40.830465,-95.309169
+830,Iowa,2018-19,Faith Academy,Johnson,88,,41.639075,-91.5215322
+831,Iowa,2018-19,Franklin Christian Day,Decatur,22,,40.782037,-93.698342
+832,Iowa,2018-19,Friendship Amish,Washington,31,,41.2874228,-91.6957325
+833,Iowa,2018-19,Galva-Holstein Elementary,Ida,93,,42.487426,-95.537045
+834,Iowa,2018-19,Gilmore City Elementary,Humboldt,91,,42.726759,-94.439209
+835,Iowa,2018-19,Gospel Assembly Christian Academy,Polk,12,,41.644433,-93.7160547
+836,Iowa,2018-19,Gospel Lighthouse Academy,Floyd,51,,43.1245569,-92.7383727
+837,Iowa,2018-19,Great River Christian,Des Moines,77,,40.789489,-91.102893
+838,Iowa,2018-19,Greenview Alternative,Bremer,17,,42.72382,-92.49235
+839,Iowa,2018-19,Grinnell-Newburg Community School District,Poweshiek,14,,41.7679201,-92.7381672
+840,Iowa,2018-19,Harvest Baptist,Webster,63,,42.50311,-94.188901
+841,Iowa,2018-19,Hickory Grove Amish,Buchanan,26,,41.8192461,-92.8597605
+842,Iowa,2018-19,Hillside Christian,Johnson,18,,41.69077,-91.583661
+843,Iowa,2018-19,Hilltop Amish,Buchanan,25,,41.5339022,-91.7855112
+844,Iowa,2018-19,Holy Cross St Michael,Woodbury,87,,42.5411549,-96.3631434
+845,Iowa,2018-19,Holy Ghost,Dubuque,69,,42.524877,-90.6811237
+846,Iowa,2018-19,Independence Comm School District,Buchanan,28,,42.4685833,-91.9079455
+847,Iowa,2018-19,Individualized Learning Center,Plymouth,23,,42.78844,-96.168709
+848,Iowa,2018-19,Interstate 35 Comm School District,Madison,12,,41.2107817,-93.8416333
+849,Iowa,2018-19,Inwood Christian,Lyon,40,,43.30519,-96.428691
+850,Iowa,2018-19,Iowa City Comm School District,Johnson,65,,41.6502294,-91.5789994
+851,Iowa,2018-19,Iowa Great Lakes Lutheran,Clay,86,,43.15728,-95.125971
+852,Iowa,2018-19,Iowa Mennonite,Johnson,77,,41.540269,-91.789054
+853,Iowa,2018-19,Iowa School for the Deaf,Pottawattamie,69,,41.2252515,-95.8199494
+854,Iowa,2018-19,Ireton Christian School K-8th,Sioux,60,,42.9742196,-96.3131498
+855,Iowa,2018-19,J. N. Andrews Christian Academy,Linn,21,,42.065025,-91.7067216
+856,Iowa,2018-19,Johnston Elementary,Delaware,95,,42.343761,-91.240589
+857,Iowa,2018-19,Kanawha Christian,Hancock,44,,42.938287,-93.786308
+858,Iowa,2018-19,Keokuk Catholic Schools St. Vincent's,Lee,61,,40.4201094,-91.4032776
+859,Iowa,2018-19,Keokuk Christian Academy,Lee,60,,40.39743,-91.412921
+860,Iowa,2018-19,LaSalle Catholic,Dubuque,31,,42.600268,-90.9971
+861,Iowa,2018-19,Laurens-Marathon Elementary,Pocahontas,89,,42.85268,-94.850979
+862,Iowa,2018-19,Lebanon Amish,Van Buren,40,,40.7001158,-91.9099238
+863,Iowa,2018-19,Liberty Christian,Pottawattamie,19,,41.2744932,-95.8870194
+864,Iowa,2018-19,Little Cedar Mennonite,Mitchell,19,,43.3802849,-92.7257634
+865,Iowa,2018-19,Little Rock Elementary,Lyon,50,,43.441821,-95.881449
+866,Iowa,2018-19,Lutheran Interparish,Iowa,83,,41.656387,-92.007252
+867,Iowa,2018-19,LuVerne Elementary,Kossuth,52,,42.912516,-94.085484
+868,Iowa,2018-19,Mallard Elementary,Palo Alto,91,,42.934303,-94.6824
+869,Iowa,2018-19,Maple Grove Amish,Washington,20,,41.3477966,-91.7538817
+870,Iowa,2018-19,Marshalltown Christian,Marshall,56,,42.03129,-92.899671
+871,Iowa,2018-19,Marshalltown Comm School District,Marshall,11,,42.0363596,-92.9073241
+872,Iowa,2018-19,Mayflower Heritage Christian,Union,51,,41.0707748,-94.3552795
+873,Iowa,2018-19,Meadow View Amish School-Sigourney,Keokuk,29,,41.3333445,-92.2046255
+874,Iowa,2018-19,Mediapolis Comm School District,Des Moines,20,,41.0135619,-91.1615464
+875,Iowa,2018-19,MOC-Floyd Valley Comm School District,Sioux,13,,42.9979776,-96.0483144
+876,Iowa,2018-19,Mount Pleasant Comm School District,Henry,88,,40.9885488,-91.5596117
+877,Iowa,2018-19,Mt Olive Lutheran,Polk,99,,41.61199,-93.695851
+878,Iowa,2018-19,Mt Pleasant Christian,Henry,67,,40.96315,-91.531161
+879,Iowa,2018-19,Muscatine Comm School District,Muscatine,77,,41.442565,-91.06785
+880,Iowa,2018-19,Nevada Comm School District,Story,8,,42.0205009,-93.438319
+881,Iowa,2018-19,Nevada Seventh Day Adventist,Story,19,,42.0133963,-93.452288
+882,Iowa,2018-19,New Albin Elementary,Allamakee,95,,43.493281,-91.288054
+883,Iowa,2018-19,Newell-Fonda Middle Sch.,Buena Vista,83,,42.605499,-94.997898
+884,Iowa,2018-19,Newton Christian Day,Jasper,73,,41.7104544,-93.0307686
+885,Iowa,2018-19,North Iowa Christian,Cerro Gordo,75,,43.14696,-93.188041
+886,Iowa,2018-19,North Side Elementary,Franklin,92,,42.75211,-93.205355
+887,Iowa,2018-19,North Winneshiek Elementary,Winneshiek,56,,43.442351,-91.81058
+888,Iowa,2018-19,Northeast Hamilton Elementary,Hamilton,89,,42.479217,-93.639467
+889,Iowa,2018-19,Northwest Iowa Protestant Reformed Sch,Lyon,22,,43.2826443,-96.2327058
+890,Iowa,2018-19,Northwood Pre-School,Story,42,,42.05032,-93.618877
+891,Iowa,2018-19,Oak Grove Amish,Howard,16,,43.2070368,-92.4553473
+892,Iowa,2018-19,Olin Elementary,Jones,72,,41.994093,-91.139554
+893,Iowa,2018-19,Orient Elementary,Adair,88,,41.200418,-94.411766
+894,Iowa,2018-19,Ottumwa Christian,Wapello,76,,41.00681,-92.441751
+895,Iowa,2018-19,Page Elementary,Boone,40,,42.05629,-93.881056
+896,Iowa,2018-19,Pathway Christian,Johnson,44,,41.51398,-91.712591
+897,Iowa,2018-19,Paton-Churdan Elementary,Greene,77,,42.159741,-94.476302
+898,Iowa,2018-19,PCM Comm School District,Jasper,3,,41.5185731,-93.1378173
+899,Iowa,2018-19,Pekin Comm School District,Keokuk,10,,41.1548907,-92.1606705
+900,Iowa,2018-19,Pella Comm School District,Marion,48,,41.444905,-92.8976254
+901,Iowa,2018-19,Peoria Christian,Mahaska,39,,41.4658,-92.802
+902,Iowa,2018-19,Perry #1 Elementary,Buchanan,38,,42.525556,-91.970541
+903,Iowa,2018-19,Pierson Elementary,Woodbury,36,,42.547679,-95.868813
+904,Iowa,2018-19,Pine Crest,Cerro Gordo,25,,43.1494516,-93.1681984
+905,Iowa,2018-19,Pine Grove Mennonite,Howard,43,,43.3819496,-92.3813621
+906,Iowa,2018-19,Plainview Amish Schools-McIntire,Mitchell,12,,43.4358006,-92.5937915
+907,Iowa,2018-19,Plainview Amish Schools-Milton,Van Buren,14,,40.6733602,-92.1621241
+908,Iowa,2018-19,Pleasant Valley Amish,Washington,29,,41.5697213,-90.4232235
+909,Iowa,2018-19,Pocahontas Catholic Grade,Pocahontas,91,,42.7287422,-94.6747547
+910,Iowa,2018-19,Prairie Edge,Linn,66,,41.921765,-91.658525
+911,Iowa,2018-19,Prairie Grove Elementary,Buchanan,38,,42.56939,-91.983581
+912,Iowa,2018-19,Prince of Peace Catholic Elementary Building,Clinton,96,,41.842791,-90.193464
+913,Iowa,2018-19,Promise Academy at Quakerdale,Hardin,13,,42.2953938,-93.1716237
+914,Iowa,2018-19,Purple Bloom,Johnson,3,,41.7024958,-91.5883177
+915,Iowa,2018-19,Quad City Montessori,Scott,29,,41.5679687,-90.5413076
+916,Iowa,2018-19,Riverside ELC,Webster,40,,42.4965,-94.197811
+917,Iowa,2018-19,Rock Valley Comm School District,Sioux,5,,43.1912526,-96.365157
+918,Iowa,2018-19,Roland-Story Comm School District,Story,18,,42.188549,-93.588821
+919,Iowa,2018-19,Rolling Hills Amish,Fayette,18,,41.5541855,-91.5348875
+920,Iowa,2018-19,Rural Elementary School #1,Buchanan,26,,42.627739,-91.983714
+921,Iowa,2018-19,Rural Elementary School #2,Buchanan,28,,42.61242,-91.982201
+922,Iowa,2018-19,Rural Elementary School #3,Buchanan,22,,42.598247,-91.983175
+923,Iowa,2018-19,Rural Elementary School #4,Buchanan,27,,42.611994,-92.005274
+924,Iowa,2018-19,Sacred Heart Elementary,Fayette,64,,42.66991,-91.914431
+925,Iowa,2018-19,Sacred Heart Grade,Jones,91,,42.2403894,-91.1886231
+926,Iowa,2018-19,Sacred Heart,Black Hawk,68,,42.49109,-92.343631
+927,Iowa,2018-19,Scarville Lutheran,Winnebago,21,,43.4704131,-93.6183861
+928,Iowa,2018-19,Scattergood Friends,Cedar,26,,41.66365,-91.310051
+929,Iowa,2018-19,Scenic View Christian,Fayette,19,,42.90691,-91.851521
+930,Iowa,2018-19,Schleswig Elementary,Crawford,81,,42.163983,-95.428024
+931,Iowa,2018-19,Schleswig Middle-School,Crawford,84,,42.164021,-95.428394
+932,Iowa,2018-19,Seton Catholic,Wapello,70,,41.0196915,-92.4101855
+933,Iowa,2018-19,Seton Grade,Kossuth,92,,43.07153,-94.227641
+934,Iowa,2018-19,Shady Lane Amish,Johnson,18,,41.5536063,-91.5396845
+935,Iowa,2018-19,Shelby Co. Catholic,Shelby,85,,41.6490288,-95.3310754
+936,Iowa,2018-19,Sigourney Comm School District,Keokuk,7,,41.3301451,-92.1948736
+937,Iowa,2018-19,Sioux Center Comm School District,Sioux,8,,43.064212,-96.2163597
+938,Iowa,2018-19,Solon Comm School District,Johnson,12,,41.7909145,-91.4821482
+939,Iowa,2018-19,South Page Elementary,Page,62,,40.62121,-95.119863
+940,Iowa,2018-19,Spalding Catholic Alton St. Mary's,Sioux,42,,42.988204,-96.014638
+941,Iowa,2018-19,St James Elem,Washington,69,,41.3008538,-91.6989953
+942,Iowa,2018-19,ST MARY IMMACULATE CONCEPTION SCHOOL,Clayton,69,,42.781077,-91.097768
+943,Iowa,2018-19,St Patrick,Jones,57,,42.11064,-91.287298
+944,Iowa,2018-19,St Patrick's,O'Brien,64,,43.1786442,-95.8545322
+945,Iowa,2018-19,St Paul Lutheran,Webster,68,,42.501502,-94.181553
+946,Iowa,2018-19,St Pauls Lutheran,Franklin,28,,42.733164,-93.369634
+947,Iowa,2018-19,St Pauls Lutheran,Woodbury,29,,42.496618,-96.399324
+948,Iowa,2018-19,St Rose Of Lima,Crawford,84,,42.0145586,-95.3595837
+949,Iowa,2018-19,St Thomas Aquinas,Hamilton,69,,42.46628,-93.821127
+950,Iowa,2018-19,Sterling Central Education,Pottawattamie,25,,41.2186764,-95.8143298
+951,Iowa,2018-19,Storm Lake Comm School District,Buena Vista,21,,42.6420345,-95.2003248
+952,Iowa,2018-19,Stratford Elementary,Hamilton,62,,42.273302,-93.92614
+953,Iowa,2018-19,Stringtown,Decatur,14,,40.748147,-93.7405014
+954,Iowa,2018-19,Sully Christian,Jasper,43,,41.572916,-92.838367
+955,Iowa,2018-19,Summit Schools Inc,Linn,72,,42.024549,-91.648263
+956,Iowa,2018-19,Sunny Slope Amish,Washington,20,,41.3096685,-91.7183567
+957,Iowa,2018-19,Timber View Mennonite,Howard,24,,43.374784,-92.1023897
+958,Iowa,2018-19,Timothy Christian,Grundy,55,,42.43328,-92.963831
+959,Iowa,2018-19,Tipton Christian,Cedar,7,,41.7661275,-91.1322396
+960,Iowa,2018-19,Trinity Catholic,Howard,42,,43.218584,-92.091402
+961,Iowa,2018-19,Trinity Lutheran,Boone,60,,42.06765,-93.882191
+962,Iowa,2018-19,Triumph Elementary,Buchanan,54,,42.57629,-92.013729
+963,Iowa,2018-19,Twin Cedars Comm School District,Marion,4,,41.2043542,-92.8976254
+964,Iowa,2018-19,Twin Rivers Elementary,Humboldt,42,,42.867456,-94.290073
+965,Iowa,2018-19,Valley View Amish,Mitchell,11,,43.2777302,-92.8089538
+966,Iowa,2018-19,Waco Comm School District,Henry,40,,41.1534452,-91.6601064
+967,Iowa,2018-19,Walnut Grove Mennonite,Mitchell,21,,43.3710702,-92.8577105
+968,Iowa,2018-19,Wapsie Valley Amish,Mitchell,10,,42.680821,-92.1396536
+969,Iowa,2018-19,Waterloo Christian Elementary,Black Hawk,80,,42.468599,-92.3771971
+970,Iowa,2018-19,West Academy Alternative,Jasper,67,,41.69933,-93.069631
+971,Iowa,2018-19,West Fork  Elementary Sheffield,Franklin,92,,42.896521,-93.218149
+972,Iowa,2018-19,West Fork CSD,Cerro Gordo,7,,42.8975537,-93.2178368
+973,Iowa,2018-19,Whiting Elementary,Monona,79,,42.126761,-96.156292
+974,Iowa,2018-19,Wild Rose Christian,Mitchell,13,,43.4433003,-92.6207182
+975,Iowa,2018-19,Willowwind,Johnson,64,,41.65084,-91.493891
+976,Iowa,2018-19,WisdomQuest Education Center,Henry,14,,40.966945,-91.548669
+977,Iowa,2018-19,Zion Lutheran School K-8th,Crawford,58,,42.0159939,-95.3590682
+978,Iowa,2018-19,Zion-St. John Lutheran,O'Brien,34,,42.973975,-95.687805

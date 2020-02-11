@@ -1,0 +1,603 @@
+index,state,year,name,type,city,county,enroll,mmr,xmed,xper,xrel,lat,lng
+1,Utah,2017-18,Antimony Elementary,Public,Antimony,Garfield,4,100,0,0,0,38.1177617,-111.9999178
+2,Utah,2017-18,Blessed Sacrament,Private,Sandy,Salt Lake,128,100,0,0,0,40.5744475,-111.8423608
+3,Utah,2017-18,Bluff Elementary,Public,Bluff,San Juan,100,100,0,0,0,37.2840308,-109.5513836
+4,Utah,2017-18,Book Cliff Elementary,Public,Green River,Emery,10,100,0,0,0,38.9924627,-110.1591474
+5,Utah,2017-18,Canyon View,Public,Ogden,Weber,12,100,0,0,0,41.245946,-111.9617508
+6,Utah,2017-18,Channing Hall,Public,Draper,Salt Lake,468,100,0,0,0,40.506024,-111.884589
+7,Utah,2017-18,Coral Canyon Elementary,Public,Washington,Washington,521,100,0,0,0,37.1623266,-113.4521533
+8,Utah,2017-18,Escalante Elementary -Slc,Public,Salt Lake City,Salt Lake,462,100,0,0,0,40.789522,-111.9422453
+9,Utah,2017-18,Eureka Elementary,Public,Eureka,Juab,92,100,0,0,0,39.9565752,-112.1133074
+10,Utah,2017-18,Flaming Gorge Elementary,Public,Dutch John,Daggett,36,100,0,0,0,40.9306244,-109.3943756
+11,Utah,2017-18,Granger Elementary,Public,West Valley City,Salt Lake,829,100,0,0,0,40.6919579,-111.9447731
+12,Utah,2017-18,Grouse Creek,Public,Grouse Creek,Box Elder,6,100,0,0,0,41.709605,-113.88343
+13,Utah,2017-18,Hanksville Elementary,Public,Hanksville,Wayne,14,100,0,0,0,38.3719001,-110.7150603
+14,Utah,2017-18,Hillside Elementary,Public,West Valley City,Salt Lake,610,100,0,0,0,40.6784008,-112.0333026
+15,Utah,2017-18,Iqra Academy Of Utah,Private,West Valley City,Salt Lake,45,100,0,0,0,40.6842001,-111.958525
+16,Utah,2017-18,Je Cosgriff Memorial,Private,Salt Lake City,Salt Lake,216,100,0,0,0,40.7276026,-111.8238773
+17,Utah,2017-18,Kearns - St. Ann,Private,Salt Lake City,Salt Lake,122,100,0,0,0,40.7239209,-111.8780981
+18,Utah,2017-18,Koosharem Elementary,Public,Koosharem,Sevier,39,100,0,0,0,38.5105026,-111.8798877
+19,Utah,2017-18,La Sal Elementary,Public,La Sal,San Juan,12,100,0,0,0,38.3356852,-109.2123235
+20,Utah,2017-18,Mana Academy Charter,Public,West Valley City,Salt Lake,257,100,0,0,0,40.7199993,-111.9733147
+21,Utah,2017-18,Oak Springs,Public,Provo,Utah,16,100,0,0,0,40.2329331,-111.6346375
+22,Utah,2017-18,Our Lady Of Lourdes,Private,Salt Lake City,Salt Lake,174,100,0,0,0,40.7544726,-111.8607305
+23,Utah,2017-18,Pleasant Green Elementary,Public,Magna,Salt Lake,628,100,0,0,0,40.7091118,-112.0865214
+24,Utah,2017-18,Provo Canyon,Private,Provo,Utah,18,100,0,0,0,40.2923269,-111.6583039
+25,Utah,2017-18,St.Joseph Catholic,Private,Ogden,Weber,241,100,0,0,0,41.210623,-111.9562084
+26,Utah,2017-18,St.Marguerite Catholic,Private,Tooele,Tooele,10,100,0,0,0,40.5303506,-112.2832374
+27,Utah,2017-18,St.Olaf,Private,Bountiful,Davis,100,100,0,0,0,40.8714924,-111.8753155
+28,Utah,2017-18,Twin Peaks Elementary,Public,Salt Lake City,Salt Lake,378,100,0,0,0,40.6547029,-111.8610846
+29,Utah,2017-18,Utah Schools For The Deaf & Blind At Ogden,Public,Ogden,Weber,26,100,0,0,0,41.250733,-111.9453906
+30,Utah,2017-18,Vernon Elementary,Public,Vernon,Tooele,20,100,0,0,0,40.0934843,-112.4331492
+31,Utah,2017-18,West Desert Elementary,Public,Trout Creek,Juab,11,100,0,0,0,39.6444685,-113.8887902
+32,Utah,2017-18,Western Hills Elementary,Public,Kearns,Salt Lake,384,100,0,0,0,40.6557978,-112.0107491
+33,Utah,2017-18,West Kearns Elementary,Public,Kearns,Salt Lake,711,99.86,0.14,0,0,40.6631688,-112.0015018
+34,Utah,2017-18,Philo T. Farnsworth Elementary,Public,West Valley City,Salt Lake,558,99.82,0,0.18,0,40.6905912,-111.9915048
+35,Utah,2017-18,Thomas O. Smith Elementary,Public,Ogden,Weber,500,99.8,0,0.2,0,41.2038799,-111.9595151
+36,Utah,2017-18,Edison Elementary-Slc,Public,Salt Lake City,Salt Lake,452,99.78,0,0.22,0,40.7591727,-111.9347705
+37,Utah,2017-18,Backman Elementary,Public,Salt Lake City,Salt Lake,413,99.76,0,0,0,40.7820562,-111.9345488
+38,Utah,2017-18,Adams Elementary-Logan,Public,Logan,Cache,352,99.72,0,0.28,0,41.7413521,-111.8236526
+39,Utah,2017-18,Ellis Elementary,Public,Logan,Cache,360,99.72,0,0.28,0,41.7369223,-111.8441087
+40,Utah,2017-18,Hillsdale Elementary,Public,West Valley City,Salt Lake,677,99.7,0.3,0,0,40.7030254,-111.9695662
+41,Utah,2017-18,Valley Crest Elementary,Public,West Valley City,Salt Lake,604,99.67,0,0.17,0,40.7046621,-112.0165005
+42,Utah,2017-18,Bridger Elementary,Public,Logan,Cache,695,99.57,0,0.43,0,41.75509,-111.8454069
+43,Utah,2017-18,Taylorsville Elementary,Public,Salt Lake City,Salt Lake,453,99.56,0,0.44,0,40.6794847,-111.9444876
+44,Utah,2017-18,Franklin Elementary - Slc,Public,Salt Lake City,Salt Lake,405,99.51,0,0.49,0,40.7622497,-111.9231012
+45,Utah,2017-18,Rolling Meadows Elementary,Public,Salt Lake City,Salt Lake,604,99.5,0.5,0,0,40.685407,-111.962486
+46,Utah,2017-18,Jackling Elementary,Public,West Valley City,Salt Lake,396,99.49,0,0,0,40.69041,-112.0018494
+47,Utah,2017-18,Mountain View Elementary-Slc,Public,Salt Lake City,Salt Lake,570,99.47,0,0.53,0,40.7393003,-111.9312372
+48,Utah,2017-18,North Star Elementary,Public,Salt Lake City,Salt Lake,564,99.47,0,0,0.53,40.803708,-111.9474051
+49,Utah,2017-18,St.Vincent De Paul,Private,Salt Lake City,Salt Lake,187,99.47,0.53,0,0,40.6613117,-111.852921
+50,Utah,2017-18,Liberty Elementary-Slc,Public,Salt Lake City,Salt Lake,348,99.43,0,0.57,0,40.7452153,-111.8844647
+51,Utah,2017-18,Panorama Elementary,Public,St. George,Washington,506,99.41,0,0.59,0,37.1135299,-113.5375896
+52,Utah,2017-18,Redwood Elementary,Public,Salt Lake City,Salt Lake,662,99.4,0,0,0,40.7136521,-111.9398274
+53,Utah,2017-18,Hillcrest Elementary-Logan,Public,Logan,Cache,474,99.37,0,0.63,0,41.748531,-111.7990502
+54,Utah,2017-18,Rose Park Elementary,Public,Salt Lake City,Salt Lake,392,99.23,0,0.77,0,40.7907322,-111.9231805
+55,Utah,2017-18,Bonneville Elementary-Ogden,Public,Ogden,Weber,507,99.21,0,0.79,0,41.2552944,-111.9564205
+56,Utah,2017-18,Montezuma Creek Elementary,Public,Montezuma Creek,San Juan,249,99.2,0,0.4,0,37.2604729,-109.3047434
+57,Utah,2017-18,St.John The Baptist,Private,Draper,Salt Lake,490,99.18,0.2,0.41,0,40.5360453,-111.8824744
+58,Utah,2017-18,North Rich Elementary,Public,Laketown,Rich,119,99.16,0,0.84,0,41.8228744,-111.3214217
+59,Utah,2017-18,Sharon Elementary,Public,Orem,Utah,466,99.14,0,0.86,0,40.3070744,-111.6871297
+60,Utah,2017-18,Carl Sandburg Elementary,Public,West Valley City,Salt Lake,337,99.11,0,0.59,0,40.68715,-112.0189945
+61,Utah,2017-18,Riverside Elementary-W. Jordan,Public,West Jordan,Salt Lake,772,99.09,0,0.91,0,40.592741,-111.926007
+62,Utah,2017-18,Meadowlark Elementary,Public,Salt Lake City,Salt Lake,434,99.08,0,0.69,0,40.779951,-111.9470325
+63,Utah,2017-18,Anna Smith Elementary,Public,Wendover,Tooele,215,99.07,0,0.93,0,40.7460452,-114.0417392
+64,Utah,2017-18,Parkview Elementary-Slc,Public,Salt Lake City,Salt Lake,320,99.06,0,0.94,0,40.748577,-111.926488
+65,Utah,2017-18,Riley Elementary,Public,Salt Lake City,Salt Lake,315,99.05,0,0.95,0,40.7385736,-111.9147741
+66,Utah,2017-18,Robert Frost Elementary,Public,West Valley City,Salt Lake,407,99.02,0,0.98,0,40.6756586,-111.9741851
+67,Utah,2017-18,Stansbury Elementary,Public,West Valley City,Salt Lake,921,99.02,0,0.98,0,40.7055522,-111.9589471
+68,Utah,2017-18,Guadalupe,Public,Salt Lake City,Salt Lake,304,99.01,0,0.66,0,40.798932,-111.9261609
+69,Utah,2017-18,Douglas T. Orchard Elementary School-Wvc,Public,West Valley City,Salt Lake,582,98.97,0.17,0.86,0,40.6900149,-112.0522034
+70,Utah,2017-18,Monroe Elementary-West Valley,Public,West Valley City,Salt Lake,663,98.94,0,1.06,0,40.7049742,-111.9971781
+71,Utah,2017-18,Lincoln Elementary-Granite,Public,Salt Lake City,Salt Lake,548,98.91,0,0.91,0,40.6907999,-111.8790115
+72,Utah,2017-18,Oquirrh Hills Elementary,Public,Kearns,Salt Lake,357,98.88,0,0.84,0,40.6554391,-111.9925928
+73,Utah,2017-18,Fremont Elementary,Public,Sunset,Davis,265,98.87,0,0.75,0.38,41.1504305,-112.0287164
+74,Utah,2017-18,Gearld Wright Elementary,Public,Salt Lake City,Salt Lake,791,98.86,0.13,1.01,0,40.7048534,-112.0524809
+75,Utah,2017-18,Horizon Elementary - Murray,Public,Murray,Salt Lake,681,98.83,0,1.17,0,40.6589576,-111.9107023
+76,Utah,2017-18,Lake Ridge Elementary,Public,Magna,Salt Lake,491,98.78,0,1.02,0,40.6989645,-112.0688992
+77,Utah,2017-18,South Kearns Elementary,Public,Kearns,Salt Lake,327,98.78,0,0.31,0,40.6502877,-111.996941
+78,Utah,2017-18,Columbia Elementary-W. Jordan,Public,West Jordan,Salt Lake,634,98.74,0,1.1,0.16,40.6085581,-111.9754058
+79,Utah,2017-18,David Gourley Elementary,Public,Kearns,Salt Lake,615,98.7,0,1.14,0,40.6625639,-111.9928732
+80,Utah,2017-18,Milford Elementary,Public,Milford,Beaver,231,98.7,0,1.3,0,38.3939505,-113.0197762
+81,Utah,2017-18,Bonneville Elementary-Slc,Public,Salt Lake City,Salt Lake,533,98.69,0,1.31,0,40.7443242,-111.8357292
+82,Utah,2017-18,Wellington Elementary,Public,Wellington,Carbon,224,98.66,0.45,0.89,0,39.545557,-110.7386599
+83,Utah,2017-18,Discovery Elementary-Brigham City,Public,Brigham City,Box Elder,519,98.65,0.19,0.96,0,41.5265916,-112.0220317
+84,Utah,2017-18,Mill Creek Elementary,Public,Salt Lake City,Salt Lake,445,98.65,0,1.35,0,40.6893179,-111.8587267
+85,Utah,2017-18,West Haven Elementary,Public,Ogden,Weber,659,98.63,0,0.91,0,41.1843404,-112.0761521
+86,Utah,2017-18,Manila Elementary,Public,Manila,Daggett,72,98.61,0,1.39,0,40.991856,-109.727089
+87,Utah,2017-18,Municipal Elementary,Public,Roy,Weber,358,98.6,0,0.84,0,41.1582176,-112.0339313
+88,Utah,2017-18,Midvale Elementary,Public,Midvale,Salt Lake,772,98.58,0,0.52,0.13,40.6086937,-111.9027323
+89,Utah,2017-18,Utah Virtual Academy,Public,Murray,Salt Lake,485,98.56,0,1.44,0,40.6739527,-111.8818881
+90,Utah,2017-18,Boulton Elementary,Public,Bountiful,Davis,480,98.54,0,1.46,0,40.8607486,-111.8847978
+91,Utah,2017-18,Clinton Elementary,Public,Clinton,Davis,475,98.53,0.42,1.05,0,41.1391667,-112.0473718
+92,Utah,2017-18,Odyssey Elementary,Public,Ogden,Weber,544,98.53,0,0.55,0,41.2042778,-111.9722073
+93,Utah,2017-18,Woodrow Wilson Elementary,Public,Salt Lake City,Salt Lake,676,98.52,0,0.89,0,40.7159067,-111.8900662
+94,Utah,2017-18,Academy Park,Public,West Valley City,Salt Lake,460,98.48,0,1.3,0,40.6701721,-112.0000833
+95,Utah,2017-18,Dual Immersion Academy,Public,Salt Lake City,Salt Lake,394,98.48,0,0.76,0.76,40.7439995,-111.9308997
+96,Utah,2017-18,Woodruff Elementary,Public,Logan,Cache,658,98.48,0,1.52,0,41.7198522,-111.8583716
+97,Utah,2017-18,Plymouth Elementary,Public,Taylorsville,Salt Lake,717,98.47,0.14,1.39,0,40.6563712,-111.9320154
+98,Utah,2017-18,Westland Elementary,Public,West Jordan,Salt Lake,522,98.47,0,1.53,0,40.620256,-111.963344
+99,Utah,2017-18,Providence Elementary,Public,Providence,Cache,585,98.46,0,1.54,0,41.7086049,-111.8162424
+100,Utah,2017-18,Terra Linda Elementary,Public,West Jordan,Salt Lake,580,98.45,0,1.55,0,40.5979568,-111.9748392
+101,Utah,2017-18,Bell View Elementary,Public,Sandy,Salt Lake,320,98.44,0,1.56,0,40.5739048,-111.8686405
+102,Utah,2017-18,Nibley Elementary,Public,Nibley,Cache,373,98.39,0.27,1.34,0,41.6864894,-111.8495313
+103,Utah,2017-18,Washington Elementary-Slc,Public,Salt Lake City,Salt Lake,248,98.39,0,1.21,0,40.7792854,-111.895965
+104,Utah,2017-18,Dixie Sun Elementary,Public,St. George,Washington,368,98.37,0,1.63,0,37.1288449,-113.6215522
+105,Utah,2017-18,Jim Bridger Elementary,Public,West Jordan,Salt Lake,547,98.35,0.37,1.28,0,40.6355072,-112.0204326
+106,Utah,2017-18,Copper Hills Elementary,Public,Magna,Salt Lake,541,98.34,0.18,1.29,0,40.6908656,-112.0735084
+107,Utah,2017-18,Dilworth Elementary-Slc,Public,Salt Lake City,Salt Lake,598,98.33,0,1.67,0,40.7282203,-111.8298632
+108,Utah,2017-18,Lewiston Elementary-Lewiston,Public,Lewiston,Cache,420,98.33,0,1.67,0,41.9721044,-111.8532228
+109,Utah,2017-18,Oakcrest Elementary,Public,West Jordan,Salt Lake,891,98.32,0,1.68,0,40.597596,-112.047029
+110,Utah,2017-18,Cook Elementary,Public,Syracuse,Davis,770,98.31,0,1.69,0,41.0936021,-112.0487812
+111,Utah,2017-18,Fox Hills Elementary,Public,Salt Lake City,Salt Lake,767,98.31,0,1.56,0,40.6407674,-111.9811412
+112,Utah,2017-18,Roosevelt Elementary-Granite,Public,Salt Lake City,Salt Lake,414,98.31,0,0.48,0,40.7011822,-111.8679281
+113,Utah,2017-18,Rose Creek Elementary,Public,Riverton,Salt Lake,826,98.31,0,1.45,0.24,40.5176,-111.978729
+114,Utah,2017-18,Millville Elementary,Public,Millville,Cache,351,98.29,0,1.71,0,41.6806508,-111.8242829
+115,Utah,2017-18,Bennion Elementary-Granite,Public,Salt Lake City,Salt Lake,581,98.28,0.17,1.55,0,40.6467367,-111.9615708
+116,Utah,2017-18,Sunset View Elementary,Public,Provo,Utah,582,98.28,0,1.37,0,40.2263566,-111.6861264
+117,Utah,2017-18,Sand Springs Elementary,Public,Layton,Davis,1042,98.27,0.1,1.63,0,41.0636505,-112.0251809
+118,Utah,2017-18,Woods Cross Elementary,Public,Woods Cross,Davis,578,98.27,0,1.73,0,40.8779607,-111.8993299
+119,Utah,2017-18,Valley View Elementary-Roy,Public,Roy,Weber,454,98.24,0,1.32,0,41.1806652,-112.0384346
+120,Utah,2017-18,Riverdale Elementary,Public,Ogden,Weber,498,98.19,0.2,1.61,0,41.1834417,-112.007241
+121,Utah,2017-18,Roosevelt Elementary-Ogden,Public,Ogden,Weber,495,98.18,0,1.82,0,41.1706697,-111.9801426
+122,Utah,2017-18,Birch Creek Elementary,Public,Smithfield,Cache,490,98.16,0,1.84,0,41.8420839,-111.8520144
+123,Utah,2017-18,Indian Hills Elementary,Public,Salt Lake City,Salt Lake,430,98.14,0,1.63,0,40.7399263,-111.8172657
+124,Utah,2017-18,Doxey Elementary,Public,Sunset,Davis,375,98.13,0,1.87,0,41.1277187,-112.0293794
+125,Utah,2017-18,Hayden Peak Elementary,Public,West Jordan,Salt Lake,796,98.12,0.13,1.76,0,40.6050795,-112.0138476
+126,Utah,2017-18,Lincoln Elementary-Ogden,Public,Ogden,Weber,533,98.12,0,1.5,0,41.2812893,-111.9652906
+127,Utah,2017-18,Sunrise Elementary-Cache,Public,Smithfield,Cache,627,98.09,0,1.75,0,41.831658,-111.821446
+128,Utah,2017-18,Willard Elementary,Public,Willard,Box Elder,262,98.09,0,1.15,0.38,41.4084842,-112.0372791
+129,Utah,2017-18,West Weber Elementary,Public,Ogden,Weber,520,98.08,0,1.92,0,41.250385,-112.0806276
+130,Utah,2017-18,Arcadia Elementary,Public,Salt Lake City,Salt Lake,412,98.06,0,1.94,0,40.6631074,-111.9734086
+131,Utah,2017-18,Midvalley Elementary,Public,Midvale,Salt Lake,413,98.06,0,1.45,0,40.6109062,-111.8839129
+132,Utah,2017-18,Jean Massieu,Public,Salt Lake City,Salt Lake,51,98.04,0,0,0,40.7002247,-111.8446083
+133,Utah,2017-18,Washington Terrace Elementary,Public,Ogden,Weber,508,98.03,0.2,1.77,0,41.1792146,-111.977089
+134,Utah,2017-18,Amelia Earhart Elementary,Public,Provo,Utah,504,98.02,0,1.98,0,40.2307681,-111.7045497
+135,Utah,2017-18,Plain City Elementary,Public,Ogden,Weber,702,98.01,0.14,1.71,0,41.2999105,-112.0677575
+136,Utah,2017-18,Jackson Elementary,Public,Salt Lake City,Salt Lake,451,98,0,2,0,40.7747498,-111.9127563
+137,Utah,2017-18,Westbrook Elementary,Public,Taylorsville,Salt Lake,551,98,0,1.63,0.18,40.6377014,-111.9729211
+138,Utah,2017-18,Wilson Elementary-Logan,Public,Logan,Cache,399,97.99,0,2.01,0,41.7299627,-111.8229513
+139,Utah,2017-18,Lincoln Elementary-Hyrum,Public,Hyrum,Cache,444,97.97,0,2.03,0,41.6323923,-111.8557407
+140,Utah,2017-18,Cottonwood Elementary,Public,Orangeville,Emery,146,97.95,0,1.37,0,39.224885,-111.0521037
+141,Utah,2017-18,South Clearfield Elementary,Public,Clearfield,Davis,536,97.95,0,1.68,0,41.1028516,-112.0079487
+142,Utah,2017-18,Hooper Elementary,Public,Hooper,Weber,626,97.92,0,2.08,0,41.1645492,-112.1211379
+143,Utah,2017-18,Roy Elementary,Public,Roy,Weber,528,97.92,0,2.08,0,41.1627375,-112.0494069
+144,Utah,2017-18,Hill Field Elementary,Public,Clearfield,Davis,477,97.9,0,2.1,0,41.10814,-112.005394
+145,Utah,2017-18,Greenville Elementary,Public,North Logan,Cache,474,97.89,0,1.9,0,41.7768468,-111.8218417
+146,Utah,2017-18,Syracuse Elementary,Public,Syracuse,Davis,993,97.89,0,2.11,0,41.0922453,-112.063795
+147,Utah,2017-18,Newman Elementary,Public,Salt Lake City,Salt Lake,424,97.88,0,2.12,0,40.7966489,-111.932325
+148,Utah,2017-18,J.R. Smith Elementary,Public,Heber City,Wasatch,655,97.86,0,2.14,0,40.5148131,-111.4094348
+149,Utah,2017-18,Elk Meadows Elementary,Public,South Jordan,Salt Lake,839,97.85,0.12,2.03,0,40.5741118,-111.9731497
+150,Utah,2017-18,North Ogden Elementary,Public,North Ogden,Weber,605,97.85,0,2.15,0,41.307845,-111.9644522
+151,Utah,2017-18,Barnett Elementary,Public,Payson,Utah,509,97.84,0,1.77,0,40.0490954,-111.727611
+152,Utah,2017-18,Midland Elementary,Public,Roy,Weber,556,97.84,0,1.26,0.18,41.1771097,-112.0536584
+153,Utah,2017-18,Bountiful Elementary,Public,Bountiful,Davis,454,97.8,0,1.76,0,40.8734894,-111.8828519
+154,Utah,2017-18,Copper Canyon Elementary - West Jordan,Public,West Jordan,Salt Lake,725,97.79,0,1.93,0,40.590623,-112.021451
+155,Utah,2017-18,Knowlton Elementary,Public,Farmington,Davis,678,97.79,0,1.92,0,41.0001068,-111.9051075
+156,Utah,2017-18,Three Mile Creek,Public,Perry,Box Elder,542,97.79,0,2.21,0,41.4639452,-112.0396685
+157,Utah,2017-18,King Elementary,Public,Layton,Davis,540,97.78,0,2.22,0,41.0752398,-111.9537862
+158,Utah,2017-18,Lakeview Elementary-Brigham,Public,Brigham City,Box Elder,629,97.77,0,1.91,0.16,41.4939741,-112.0185558
+159,Utah,2017-18,Uintah Elementary-Slc,Public,Salt Lake City,Salt Lake,538,97.77,0,2.23,0,40.7421024,-111.8460972
+160,Utah,2017-18,West Clinton Elementary,Public,Clinton,Davis,718,97.77,0.14,2.09,0,41.140466,-112.0805761
+161,Utah,2017-18,Parkside Elementary-Clinton,Public,Clinton,Davis,579,97.75,0,2.25,0,41.1461654,-112.0539713
+162,Utah,2017-18,Belknap Elementary,Public,Beaver,Beaver,484,97.73,0.21,2.07,0,38.2817005,-112.6297116
+163,Utah,2017-18,Circleville Elementary,Public,Circleville,Piute,88,97.73,0,2.27,0,38.167075,-112.273153
+164,Utah,2017-18,Calvin Smith Elementary,Public,Salt Lake City,Salt Lake,702,97.72,0,2.14,0,40.6396066,-111.9475146
+165,Utah,2017-18,Oakdale Elementary,Public,Sandy,Salt Lake,433,97.69,0,2.31,0,40.6047113,-111.8374516
+166,Utah,2017-18,Vista Elementary,Public,Salt Lake City,Salt Lake,680,97.65,0,2.21,0,40.6626729,-111.9476502
+167,Utah,2017-18,Wasatch Elementary-Ogden,Public,Ogden,Weber,340,97.65,0,2.35,0,41.2019609,-111.9430661
+168,Utah,2017-18,Wasatch Peak Academy,Public,North Salt Lake,Davis,426,97.65,0.23,2.11,0,40.8492978,-111.9311963
+169,Utah,2017-18,East Meadows Elementary,Public,Spanish Fork,Utah,761,97.63,0,2.37,0,40.0930404,-111.6181785
+170,Utah,2017-18,Heber Valley Elementary,Public,Heber City,Wasatch,462,97.62,0,2.38,0,40.4988557,-111.4247292
+171,Utah,2017-18,Horace Mann Elementary,Public,Ogden,Weber,421,97.62,0,2.38,0,41.2490013,-111.9452731
+172,Utah,2017-18,Ephraim Elementary,Public,Ephraim,Sanpete,587,97.61,0,2.21,0,39.3498408,-111.580367
+173,Utah,2017-18,James A. Madison Elementary,Public,Ogden,Weber,501,97.6,0,0.4,0,41.2189394,-111.959893
+174,Utah,2017-18,Gramercy Elementary,Public,Ogden,Weber,372,97.58,0,1.88,0,41.2428919,-111.956915
+175,Utah,2017-18,Mountain Shadows Elementary,Public,West Jordan,Salt Lake,661,97.58,0,1.66,0.15,40.623156,-112.016828
+176,Utah,2017-18,Edgemont Elementary-Sandy,Public,Sandy,Salt Lake,371,97.57,0,2.43,0,40.5740656,-111.8601626
+177,Utah,2017-18,Wasatch Elementary-Slc,Public,Salt Lake City,Salt Lake,453,97.57,0,2.43,0,40.7700803,-111.8575336
+178,Utah,2017-18,Crescent Elementary,Public,Sandy,Salt Lake,532,97.56,0.38,2.07,0,40.5495319,-111.8856433
+179,Utah,2017-18,John C. Fremont Elementary,Public,Taylorsville,Salt Lake,447,97.54,0,2.46,0,40.6785491,-111.9346815
+180,Utah,2017-18,Middle Canyon Elementary,Public,Tooele,Tooele,651,97.54,0,2.46,0,40.5519576,-112.2782316
+181,Utah,2017-18,Sally Mauro Elementary,Public,Helper,Carbon,324,97.53,0,2.47,0,39.6898417,-110.8646984
+182,Utah,2017-18,Valley View Elementary-Bount.,Public,Bountiful,Davis,486,97.53,0,2.47,0,40.8759002,-111.8681144
+183,Utah,2017-18,Ellison Park Elementary,Public,Layton,Davis,926,97.52,0.22,2.05,0,41.071895,-111.9995708
+184,Utah,2017-18,Heartland Elementary,Public,West Jordan,Salt Lake,565,97.52,0,2.48,0,40.6231478,-111.9329663
+185,Utah,2017-18,North Park Elementary-Logan,Public,North Logan,Cache,362,97.51,0,2.49,0,41.7833211,-111.8123003
+186,Utah,2017-18,Parkside Elementary-Murray,Public,Murray,Salt Lake,603,97.51,0,1.33,0,40.6584334,-111.8770799
+187,Utah,2017-18,Heritage Elementary - Cache,Public,Logan,Cache,601,97.5,0,2.5,0,41.6761061,-111.8560201
+188,Utah,2017-18,North Davis Preparatory Academy,Public,Layton,Davis,760,97.5,0,2.5,0,41.0671461,-111.998266
+189,Utah,2017-18,Brookwood Elementary,Public,Sandy,Salt Lake,439,97.49,0,2.51,0,40.5941712,-111.8207219
+190,Utah,2017-18,Grantsville Elementary,Public,Grantsville,Tooele,757,97.49,0.13,2.38,0,40.5983949,-112.4679851
+191,Utah,2017-18,Hawthorne Elementary,Public,Salt Lake City,Salt Lake,439,97.49,0,2.28,0,40.7339841,-111.8729156
+192,Utah,2017-18,Bluff Ridge Elementary,Public,Syracuse,Davis,953,97.48,0.1,1.89,0,41.0755391,-112.0413028
+193,Utah,2017-18,Salina Elementary,Public,Salina,Sevier,437,97.48,0,2.29,0,38.9621431,-111.8638229
+194,Utah,2017-18,Ashman Elementary,Public,Richfield,Sevier,468,97.44,0,2.56,0,38.7689184,-112.0875028
+195,Utah,2017-18,Holt Elementary,Public,Clearfield,Davis,464,97.41,0.22,2.16,0,41.1204176,-112.0441531
+196,Utah,2017-18,Monticello Academy,Public,West Valley City,Salt Lake,462,97.4,0,2.6,0,40.7093625,-112.0076751
+197,Utah,2017-18,Timpanogos Elementary,Public,Provo,Utah,655,97.4,0.15,2.14,0,40.2398676,-111.6683375
+198,Utah,2017-18,Washington Elementary-Davis,Public,Bountiful,Davis,268,97.39,0,2.61,0,40.8826625,-111.8890598
+199,Utah,2017-18,River's Edge,Public,South Jordan,Salt Lake,38,97.37,0,2.63,0,40.5510791,-111.9014728
+200,Utah,2017-18,Burton H.C. Elementary,Public,Kaysville,Davis,759,97.36,0,2.37,0,41.0322969,-111.9192501
+201,Utah,2017-18,Northlake Elementary,Public,Tooele,Tooele,568,97.36,0,2.64,0,40.5355484,-112.3126347
+202,Utah,2017-18,Bryce Valley Elementary,Public,Tropic,Garfield,151,97.35,0,1.99,0.66,37.6237165,-112.0922371
+203,Utah,2017-18,Castle Heights Elementary,Public,Price,Carbon,377,97.35,0,2.39,0,39.6124765,-110.7844192
+204,Utah,2017-18,Hunter Elementary,Public,West Valley City,Salt Lake,565,97.35,0,2.48,0,40.6760488,-112.0182313
+205,Utah,2017-18,Beehive Elementary,Public,Kearns,Salt Lake,598,97.32,0,1,0,40.6484005,-112.0144048
+206,Utah,2017-18,Copperview Elementary,Public,Midvale,Salt Lake,448,97.32,0,1.56,0,40.5976983,-111.8951169
+207,Utah,2017-18,South Rich Elementary,Public,Randolph,Rich,112,97.32,0,2.68,0,41.6655179,-111.1877592
+208,Utah,2017-18,Farr West Elementary,Public,Ogden,Weber,814,97.3,0.12,2.58,0,41.307665,-112.0326863
+209,Utah,2017-18,South Summit Elementary,Public,Kamas,Summit,593,97.3,0,2.7,0,40.6389185,-111.2692068
+210,Utah,2017-18,Magna Elementary,Public,Magna,Salt Lake,590,97.29,0,2.71,0,40.7041312,-112.094864
+211,Utah,2017-18,Franklin Elementary-Provo,Public,Provo,Utah,439,97.27,0,1.59,0,40.2291062,-111.6699957
+212,Utah,2017-18,Blanding Elementary,Public,Blanding,San Juan,547,97.26,0,1.28,0,37.6209983,-109.4806909
+213,Utah,2017-18,Pioneer Elementary-Weber,Public,Ogden,Weber,434,97.24,0,2.76,0,41.2641099,-112.0175713
+214,Utah,2017-18,Canyon Rim Academy,Public,Salt Lake City,Salt Lake,505,97.23,0,2.77,0,40.7057107,-111.8092312
+215,Utah,2017-18,Creekview Elementary,Public,Price,Carbon,505,97.23,0.2,1.78,0.2,39.592858,-110.818958
+216,Utah,2017-18,Orchard Elementary-Nsl,Public,North Salt Lake,Davis,758,97.23,0,2.64,0,40.8430807,-111.9071625
+217,Utah,2017-18,West Valley Elementary,Public,West Valley City,Salt Lake,613,97.23,0.16,2.12,0.16,40.7035665,-112.0355274
+218,Utah,2017-18,Harry S. Truman Elementary,Public,West Valley City,Salt Lake,468,97.22,0,2.78,0,40.6690156,-111.9653266
+219,Utah,2017-18,Manila Elementary-Pl. Gr.,Public,Pleasant Grove,Utah,714,97.2,0.14,2.66,0,40.3820064,-111.7480908
+220,Utah,2017-18,Antelope Elementary,Public,Clearfield,Davis,711,97.19,0,2.39,0,41.0871674,-112.02702
+221,Utah,2017-18,Mcgillis,Private,Salt Lake City,Salt Lake,285,97.19,0.7,2.11,0,40.7546691,-111.8548091
+222,Utah,2017-18,Mcmillan Elementary,Public,Murray,Salt Lake,498,97.19,0,2.81,0,40.6430902,-111.8820492
+223,Utah,2017-18,Overlake Elementary,Public,Tooele,Tooele,639,97.18,0,2.66,0,40.5665354,-112.3062237
+224,Utah,2017-18,American Preparatory Academy-Theschoolfor New Am,Public,West Valley City,Salt Lake,420,97.14,0,2.86,0,40.7135619,-111.9283085
+225,Utah,2017-18,Oak Hills Elementary,Public,Bountiful,Davis,490,97.14,0,2.86,0,40.8829118,-111.855271
+226,Utah,2017-18,Pioneer Elementary-Slc,Public,West Valley City,Salt Lake,560,97.14,0,2.86,0,40.6878285,-111.9726014
+227,Utah,2017-18,Wasatch Elementary-Clearfield,Public,Clearfield,Davis,455,97.14,0,2.64,0,41.1132502,-112.0221851
+228,Utah,2017-18,Howard R. Driggs Elementary,Public,Salt Lake City,Salt Lake,593,97.13,0.17,2.7,0,40.6771324,-111.8157328
+229,Utah,2017-18,Oquirrh Elementary,Public,West Jordan,Salt Lake,657,97.11,0.3,2.28,0,40.621064,-111.969585
+230,Utah,2017-18,North Point Elementary,Public,Lehi,Utah,759,97.1,0,1.98,0,40.4104651,-111.8877955
+231,Utah,2017-18,Central Elementary-Pleasant Gr,Public,Pleasant Grove,Utah,582,97.08,0,2.92,0,40.3643131,-111.7335976
+232,Utah,2017-18,Hillcrest Elementary-Ogden,Public,Ogden,Weber,376,97.07,0,1.06,0,41.2604855,-111.9496408
+233,Utah,2017-18,Monte Vista Elem.-So. Jordan,Public,South Jordan,Salt Lake,888,97.07,0.11,2.82,0,40.548602,-111.95682
+234,Utah,2017-18,Uintah Elementary-Weber,Public,Ogden,Weber,750,97.07,0.13,2.4,0,41.1531638,-111.9252321
+235,Utah,2017-18,Larsen Elementary,Public,Spanish Fork,Utah,476,97.06,0,2.94,0,40.1061043,-111.6340995
+236,Utah,2017-18,Majestic Elementary-Ogden,Public,Ogden,Weber,952,97.06,0,2.63,0,41.3029047,-111.9872747
+237,Utah,2017-18,Redeemer Lutheran,Private,Salt Lake City,Salt Lake,34,97.06,0,0,0,40.715892,-111.835083
+238,Utah,2017-18,H. Guy Child Elementary,Public,Ogden,Weber,440,97.05,0,2.95,0,41.1622906,-111.9647001
+239,Utah,2017-18,Summit Elementary,Public,Smithfield,Cache,576,97.05,0,2.95,0,41.8361847,-111.8344079
+240,Utah,2017-18,Thomas W. Bacchus Elementary,Public,Kearns,Salt Lake,440,97.05,0,2.73,0,40.6434519,-112.0328495
+241,Utah,2017-18,Ferron Elementary,Public,Ferron,Emery,235,97.02,0,2.55,0,39.0916235,-111.1346363
+242,Utah,2017-18,Mount Mahogany Elementary,Public,Pleasant Grove,Utah,872,97.02,0,2.98,0,40.3705562,-111.7584328
+243,Utah,2017-18,Lincoln Elementary-Layton,Public,Layton,Davis,702,97.01,0,1.71,0,41.0884332,-111.9768588
+244,Utah,2017-18,Silver Hills Elementary,Public,West Valley City,Salt Lake,432,96.99,0,2.78,0,40.6594443,-112.0281502
+245,Utah,2017-18,James E. Moss Elementary,Public,Salt Lake City,Salt Lake,496,96.98,0,2.42,0,40.6760078,-111.8758623
+246,Utah,2017-18,Gunnison Valley Elementary,Public,Gunnison,Sanpete,592,96.96,0.34,2.7,0,39.1439555,-111.8102002
+247,Utah,2017-18,North Park Elementary-Tremonton,Public,Tremonton,Box Elder,526,96.96,0,2.66,0,41.7212662,-112.1659153
+248,Utah,2017-18,Crestview Elementary-Layton,Public,Layton,Davis,361,96.95,0.55,2.22,0,41.0700346,-111.970973
+249,Utah,2017-18,Majestic Elementary-West Jordan,Public,West Jordan,Salt Lake,262,96.95,0,1.15,0.38,40.616021,-111.941285
+250,Utah,2017-18,Willow Springs Elementary,Public,Draper,Salt Lake,688,96.95,0.15,2.91,0,40.5099765,-111.8771665
+251,Utah,2017-18,Mckinley Elementary,Public,Tremonton,Box Elder,555,96.94,0,2.7,0,41.7061538,-112.1687299
+252,Utah,2017-18,Jordan Ridge Elementary,Public,South Jordan,Salt Lake,978,96.93,0,3.07,0,40.5741245,-111.9566608
+253,Utah,2017-18,Viewmont Elementary,Public,Murray,Salt Lake,455,96.92,0,1.98,0,40.6470869,-111.9115931
+254,Utah,2017-18,Mountain View Elementary-Layton,Public,Layton,Davis,809,96.91,0.25,2.84,0,41.1047676,-111.9281305
+255,Utah,2017-18,Rosecrest Elementary,Public,Salt Lake City,Salt Lake,421,96.91,0,3.09,0,40.7065258,-111.8213111
+256,Utah,2017-18,Canyon View Elementary,Public,Salt Lake City,Salt Lake,414,96.86,0,3.14,0,40.6087793,-111.8064165
+257,Utah,2017-18,Lakeview Elementary-Roy,Public,Roy,Weber,478,96.86,0,2.3,0.21,41.1730266,-112.0292723
+258,Utah,2017-18,Alta View Elementary,Public,Sandy,Salt Lake,604,96.85,0.17,2.81,0.17,40.5636302,-111.8645953
+259,Utah,2017-18,Brockbank Elementary,Public,Spanish Fork,Utah,631,96.83,0.16,2.69,0,40.1168164,-111.660761
+260,Utah,2017-18,Challenger School-Slc Elementary,Private,Salt Lake City,Salt Lake,284,96.83,0,3.17,0,40.7412831,-111.890674
+261,Utah,2017-18,Meadowbrook Elementary,Public,Bountiful,Davis,378,96.83,0,3.17,0,40.896567,-111.888831
+262,Utah,2017-18,Westside Elementary,Public,Springville,Utah,786,96.82,0.13,3.05,0,40.1675451,-111.6241283
+263,Utah,2017-18,Layton Elementary,Public,Layton,Davis,593,96.8,0,3.04,0.17,41.0592486,-111.9727429
+264,Utah,2017-18,Park Elementary-Spanish Fork,Public,Spanish Fork,Utah,469,96.8,0,3.2,0,40.110774,-111.643225
+265,Utah,2017-18,Fiddlers Canyon Elementary,Public,Cedar City,Iron,561,96.79,0,3.21,0,37.713231,-113.0538849
+266,Utah,2017-18,Country View Elementary,Public,West Haven,Weber,683,96.78,0.15,2.2,0,41.1769459,-112.0903295
+267,Utah,2017-18,Ridgecrest Elementary,Public,Salt Lake City,Salt Lake,622,96.78,0.16,3.05,0,40.61922,-111.8406854
+268,Utah,2017-18,M. Lynn Bennion Elementary-School,Public,Salt Lake City,Salt Lake,217,96.77,0,2.76,0,40.7596014,-111.8673312
+269,Utah,2017-18,Mountain View Elementary-Brigham City,Public,Brigham City,Box Elder,372,96.77,0,2.96,0.27,41.4953183,-112.0062455
+270,Utah,2017-18,Provost Elementary,Public,Provo,Utah,463,96.76,0.22,2.59,0,40.2254513,-111.641276
+271,Utah,2017-18,Cedar Ridge School-Cache,Public,Hyde Park,Cache,675,96.74,0,3.26,0,41.800879,-111.825242
+272,Utah,2017-18,Stansbury Park Elementary,Public,Stansbury Park,Tooele,516,96.71,0,3.29,0,40.6368623,-112.2963871
+273,Utah,2017-18,Crestview Elementary-Slc,Public,Salt Lake City,Salt Lake,696,96.7,0,3.3,0,40.6807868,-111.8304022
+274,Utah,2017-18,Eagle Bay Elementary,Public,Farmington,Davis,545,96.7,0.37,2.94,0,40.9817945,-111.9290106
+275,Utah,2017-18,Sprucewood Elementary,Public,Sandy,Salt Lake,453,96.69,0,3.31,0,40.5326913,-111.86172
+276,Utah,2017-18,West Point Elementary,Public,West Point,Davis,873,96.68,0,3.32,0,41.1186443,-112.0981298
+277,Utah,2017-18,Bates Elementary,Public,Ogden,Weber,781,96.67,0,3.2,0.13,41.3180281,-111.9537037
+278,Utah,2017-18,Ogden Preparatory Academy - K-6,Public,Ogden,Weber,748,96.66,0,3.34,0,41.240496,-111.976459
+279,Utah,2017-18,Wellsville Elementary,Public,Wellsville,Cache,477,96.65,0,3.35,0,41.6498712,-111.9406922
+280,Utah,2017-18,Sandstone Elementary,Public,St. George,Washington,564,96.63,0,3.37,0,37.1223291,-113.530725
+281,Utah,2017-18,Foothills Elementary - Riverton,Public,Riverton,Salt Lake,1056,96.59,0,3.41,0,40.5013092,-112.0114854
+282,Utah,2017-18,William Penn Elementary,Public,Salt Lake City,Salt Lake,644,96.58,0.16,3.26,0,40.6909854,-111.8443211
+283,Utah,2017-18,Quail Hollow Elementary,Public,Sandy,Salt Lake,523,96.56,0,3.06,0.38,40.5871175,-111.8164819
+284,Utah,2017-18,Carmen B Pingree -Children Behavior Therapy Unit,Public,Salt Lake City,Salt Lake,145,96.55,0,3.45,0,40.7514799,-111.8460088
+285,Utah,2017-18,Quest Academy,Public,West Haven,Weber,811,96.55,0,3.33,0,41.191544,-112.0971653
+286,Utah,2017-18,Willow Elementary,Public,Grantsville,Tooele,87,96.55,0,3.45,0,40.5870493,-112.4486057
+287,Utah,2017-18,Panguitch Elementary,Public,Panguitch,Garfield,229,96.51,0,3.49,0,37.8207341,-112.4379045
+288,Utah,2017-18,Woodstock Elementary,Public,Salt Lake City,Salt Lake,458,96.51,0,3.28,0.22,40.641477,-111.8531209
+289,Utah,2017-18,Pahvant Elementary,Public,Richfield,Sevier,543,96.5,0,3.5,0,38.7753731,-112.0898088
+290,Utah,2017-18,Brookside Elementary,Public,Springville,Utah,542,96.49,0.18,3.32,0,40.1604964,-111.5977434
+291,Utah,2017-18,Parkview Elementary-Payson,Public,Payson,Utah,484,96.49,0,3.31,0,40.0383252,-111.7311207
+292,Utah,2017-18,Vae View Elementary,Public,Layton,Davis,399,96.49,0.25,2.76,0,41.0834569,-111.9984845
+293,Utah,2017-18,Butler Elementary,Public,Salt Lake City,Salt Lake,597,96.48,0,3.52,0,40.6223643,-111.8164125
+294,Utah,2017-18,West Bountiful Elementary,Public,West Bountiful,Davis,621,96.46,0,2.74,0.32,40.894547,-111.9005186
+295,Utah,2017-18,White Pine Elementary,Public,Richmond,Cache,396,96.46,0,3.54,0,41.9263622,-111.813272
+296,Utah,2017-18,Highland Park Elementary,Public,Salt Lake City,Salt Lake,648,96.45,0,3.09,0,40.7108991,-111.8405144
+297,Utah,2017-18,Scera Park Elementary,Public,Orem,Utah,473,96.41,0.42,1.69,0,40.2885647,-111.6869024
+298,Utah,2017-18,Settlement Canyon Elementary,Public,Tooele,Tooele,550,96.36,0.36,2.91,0.36,40.5136119,-112.3223106
+299,Utah,2017-18,Morgan Elementary-Morgan,Public,Morgan,Morgan,767,96.35,0,3.65,0,41.0371804,-111.671103
+300,Utah,2017-18,Rocky Mountain Elementary,Public,Lindon,Utah,655,96.34,0,3.51,0,40.336586,-111.7025202
+301,Utah,2017-18,Snow Springs Elementary,Public,Lehi,Utah,846,96.34,0.12,2.84,0,40.3779032,-111.8780981
+302,Utah,2017-18,Westridge Elementary,Public,Provo,Utah,764,96.34,0.13,3.4,0,40.254699,-111.68837
+303,Utah,2017-18,Mountainside Elementary,Public,Mendon,Cache,380,96.32,0.26,3.42,0,41.7110651,-111.9705072
+304,Utah,2017-18,Whittier Elementary-Slc,Public,Salt Lake City,Salt Lake,542,96.31,0,3.32,0,40.735196,-111.883332
+305,Utah,2017-18,Holbrook Elementary,Public,Bountiful,Davis,487,96.3,0,3.7,0,40.8918514,-111.8605988
+306,Utah,2017-18,Lindon Elementary,Public,Lindon,Utah,699,96.28,0,3.29,0,40.3386573,-111.7146544
+307,Utah,2017-18,Sunset Elementary-Sunset,Public,Sunset,Davis,372,96.24,0,3.23,0,41.142583,-112.0301306
+308,Utah,2017-18,Ensign Elementary,Public,Salt Lake City,Salt Lake,292,96.23,0,3.77,0,40.7830574,-111.8660222
+309,Utah,2017-18,Waterford,Private,Sandy,Salt Lake,318,96.23,0,3.46,0,40.579465,-111.8479296
+310,Utah,2017-18,Rose Springs Elementary,Public,Stansbury Park,Tooele,396,96.21,0,3.79,0,40.6263001,-112.2936343
+311,Utah,2017-18,American Preparatory Academy-Accelerlated,Public,West Valley City,Salt Lake,79,96.2,0,2.53,1.27,40.7047719,-111.9783595
+312,Utah,2017-18,Canyon Elementary - Nebo,Public,Spanish Fork,Utah,606,96.2,0.17,3.63,0,40.0925656,-111.6285556
+313,Utah,2017-18,Red Cliffs Elementary,Public,Nephi,Juab,604,96.19,0,3.64,0,39.691116,-111.8349754
+314,Utah,2017-18,Jordan Hills Elementary,Public,West Jordan,Salt Lake,623,96.15,0.16,3.69,0,40.590019,-112.006323
+315,Utah,2017-18,Lomond View Elementary,Public,Ogden,Weber,644,96.12,0,3.88,0,41.3240424,-111.9975787
+316,Utah,2017-18,Bonneville Elementary-Orem,Public,Orem,Utah,566,96.11,0,3.89,0,40.3201694,-111.7160052
+317,Utah,2017-18,Sego Lily Elementary,Public,Lehi,Utah,797,96.11,0,3.89,0,40.397912,-111.8416301
+318,Utah,2017-18,Endeavour Elementary,Public,Kaysville,Davis,920,96.09,0.11,3.8,0,41.0034083,-111.939244
+319,Utah,2017-18,Challenger School-West Jordan,Private,West Jordan,Salt Lake,51,96.08,0,3.92,0,40.5935036,-111.9493198
+320,Utah,2017-18,Freedom Elementary,Public,Hooper,Weber,864,96.06,0.12,3.24,0,41.1620484,-112.0912312
+321,Utah,2017-18,Cherry Creek Elementary,Public,Springville,Utah,631,96.04,0,3.96,0,40.1595255,-111.6077605
+322,Utah,2017-18,Columbia Elementary-Kaysville,Public,Kaysville,Davis,651,96.01,0,3.99,0,41.0274157,-111.9387692
+323,Utah,2017-18,Spanish Oaks Elementary,Public,Spanish Fork,Utah,501,96.01,0,3.79,0,40.0857585,-111.6091662
+324,Utah,2017-18,East Layton Elementary,Public,East Layton,Davis,598,95.99,0.17,3.18,0,41.0802749,-111.9187462
+325,Utah,2017-18,Herriman Elementary,Public,Herriman,Salt Lake,870,95.98,0,4.02,0,40.511787,-112.035056
+326,Utah,2017-18,South Jordan Elementary,Public,South Jordan,Salt Lake,1046,95.98,0.1,3.54,0,40.547518,-111.932122
+327,Utah,2017-18,Spectrum Academy-Nsl,Public,North Salt Lake,Davis,199,95.98,0,3.52,0,40.8526916,-111.9323142
+328,Utah,2017-18,Welby Elementary,Public,South Jordan,Salt Lake,942,95.97,0,3.61,0.21,40.5775007,-111.9894016
+329,Utah,2017-18,Fountain Green Elementary,Public,Fountain Green,Sanpete,148,95.95,0,4.05,0,39.6264612,-111.6414118
+330,Utah,2017-18,Longview Elementary,Public,Murray,Salt Lake,419,95.94,0,2.63,0,40.6368079,-111.8754906
+331,Utah,2017-18,Navigator Pointe Academy,Public,West Jordan,Salt Lake,493,95.94,0,4.06,0,40.626396,-112.002453
+332,Utah,2017-18,Rosamond Elementary,Public,Riverton,Salt Lake,641,95.94,0.31,3.74,0,40.5298063,-111.9432049
+333,Utah,2017-18,Grant Elementary-Murray,Public,Murray,Salt Lake,392,95.92,0.26,2.81,0,40.6375272,-111.9090043
+334,Utah,2017-18,Muir Elementary,Public,Bountiful,Davis,736,95.92,0.27,3.67,0.14,40.8647453,-111.8706524
+335,Utah,2017-18,South Weber Elementary,Public,South Weber,Weber,807,95.91,0.12,3.47,0,41.131737,-111.947548
+336,Utah,2017-18,Sunrise Elementary-Sandy,Public,Sandy,Salt Lake,635,95.91,0,4.09,0,40.5463311,-111.8476824
+337,Utah,2017-18,Canyon Elementary - Cache,Public,Hyrum,Cache,561,95.9,0.18,3.92,0,41.6285936,-111.8204932
+338,Utah,2017-18,Emerson Elementary,Public,Salt Lake City,Salt Lake,586,95.9,0.17,3.58,0,40.7404927,-111.8617551
+339,Utah,2017-18,Rees Elementary,Public,Spanish Fork,Utah,537,95.9,0,3.35,0,40.1171895,-111.6289956
+340,Utah,2017-18,Granite Elementary,Public,Sandy,Salt Lake,389,95.89,0.77,3.34,0,40.5738833,-111.8075665
+341,Utah,2017-18,Moroni Elementary,Public,Moroni,Sanpete,316,95.89,0,4.11,0,39.5274951,-111.5867018
+342,Utah,2017-18,Beacon Heights Elementary,Public,Salt Lake City,Salt Lake,485,95.88,0,3.92,0.21,40.7302265,-111.8202477
+343,Utah,2017-18,Hawthorn Academy-West Jordan,Public,West Jordan,Salt Lake,558,95.88,0.36,3.76,0,40.586417,-111.949742
+344,Utah,2017-18,Cedar East Elementary,Public,Cedar City,Iron,557,95.87,0,3.95,0,37.6761682,-113.057848
+345,Utah,2017-18,Iron Springs Elementary,Public,Cedar City,Iron,628,95.86,0,4.14,0,37.6818433,-113.1327091
+346,Utah,2017-18,Meadow Elementary,Public,Lehi,Utah,773,95.86,0.13,3.88,0,40.3853153,-111.8583965
+347,Utah,2017-18,Cherry Hill Elementary,Public,Orem,Utah,675,95.85,0.3,3.26,0,40.2667981,-111.6893222
+348,Utah,2017-18,Edgemont Elementary-Provo,Public,Provo,Utah,649,95.84,0.31,3.54,0,40.2812613,-111.6491732
+349,Utah,2017-18,Legacy Elementary-St. George,Public,St. George,Washington,601,95.84,0,3.99,0,37.1061341,-113.5774996
+350,Utah,2017-18,Cottonwood Elementary-Slc,Public,Salt Lake City,Salt Lake,502,95.82,0.2,3.78,0,40.6566013,-111.8158601
+351,Utah,2017-18,Stewart Elementary,Public,Centerville,Davis,716,95.81,0,4.19,0,40.9311401,-111.8797933
+352,Utah,2017-18,Oak Hollow Elementary,Public,Draper,Salt Lake,690,95.8,0.29,3.91,0,40.4931042,-111.8674168
+353,Utah,2017-18,Westvale Elementary,Public,West Jordan,Salt Lake,548,95.8,0.18,3.28,0,40.594787,-111.94964
+354,Utah,2017-18,Grovecrest Elementary,Public,Pleasant Grove,Utah,760,95.79,0,4.21,0,40.3747702,-111.7365373
+355,Utah,2017-18,Foothills Elementary - Salem,Public,Salem,Utah,853,95.78,0,3.87,0,40.048089,-111.657816
+356,Utah,2017-18,Upland Terrace Elementary,Public,Salt Lake City,Salt Lake,425,95.76,0,4.24,0,40.6902638,-111.811719
+357,Utah,2017-18,Sage Hills Elementary,Public,Saratoga Springs,Utah,1008,95.73,0,3.08,0,40.3063992,-111.8952386
+358,Utah,2017-18,Geneva Elementary,Public,Orem,Utah,373,95.71,0,2.95,0,40.3038603,-111.7117024
+359,Utah,2017-18,Adams Elementary-Layton,Public,Layton,Davis,581,95.7,0.17,3.79,0,41.0949229,-111.9256071
+360,Utah,2017-18,Hillcrest Elementary-Orem,Public,Orem,Utah,372,95.7,0,4.3,0,40.2723046,-111.6799163
+361,Utah,2017-18,Cedar Ridge Elementary,Public,Cedar Hills,Utah,859,95.69,0.12,3.84,0,40.4147698,-111.766124
+362,Utah,2017-18,Art City Elementary,Public,Springville,Utah,552,95.65,0,3.62,0,40.1679111,-111.5947527
+363,Utah,2017-18,Lakeside Elementary,Public,West Point,Davis,828,95.65,0,4.23,0,41.1245548,-112.0821802
+364,Utah,2017-18,Delta South Elementary,Public,Delta,Millard,413,95.64,0,4.12,0,39.3441143,-112.5744772
+365,Utah,2017-18,Creekside Elementary,Public,Kaysville,Davis,709,95.63,0.14,3.81,0,41.0500164,-111.9426827
+366,Utah,2017-18,Green Acres Elementary,Public,North Ogden,Weber,523,95.6,0,3.82,0,41.2932489,-111.9602254
+367,Utah,2017-18,Saratoga Shores Elementary,Public,Saratoga Springs,Utah,977,95.6,0,3.99,0,40.3356348,-111.9206332
+368,Utah,2017-18,Morgan Elementary-Kaysville,Public,Kaysville,Davis,746,95.58,0.54,3.49,0.27,41.0514651,-111.9201547
+369,Utah,2017-18,Sage Creek Elementary,Public,Springville,Utah,792,95.58,0,4.29,0,40.1508598,-111.5987794
+370,Utah,2017-18,Kaysville Elementary-Kaysville,Public,Kaysville,Davis,632,95.57,0,4.27,0,41.0358286,-111.9360495
+371,Utah,2017-18,Peruvian Park Elementary,Public,Sandy,Salt Lake,540,95.56,0,3.7,0,40.599117,-111.8475806
+372,Utah,2017-18,Altamont Elementary,Public,Altamont,Duchesne,336,95.54,0,4.46,0,40.3596758,-110.2887683
+373,Utah,2017-18,Buffalo Point Elementary,Public,Syracuse,Davis,134,95.52,0,2.99,0,41.0862764,-112.0958783
+374,Utah,2017-18,Nebo View Elementary,Public,Nephi,Juab,357,95.52,0,4.2,0,39.7109077,-111.829657
+375,Utah,2017-18,Copper Canyon Elementary - Tooele,Public,Tooele,Tooele,444,95.5,0.23,4.05,0,40.5598081,-112.2882643
+376,Utah,2017-18,Lone Peak Elementary,Public,Sandy,Salt Lake,686,95.48,0.15,4.37,0,40.5421338,-111.8265166
+377,Utah,2017-18,Mt.Loafer Elementary,Public,Salem,Utah,727,95.46,0,4.26,0,40.0393574,-111.6778929
+378,Utah,2017-18,Eagle Valley Elementary,Public,Eagle Mountain,Utah,703,95.45,0,3.41,0,40.312515,-112.0122142
+379,Utah,2017-18,Escalante Valley,Public,Beryl,Iron,132,95.45,0,4.55,0,37.7111174,-113.6561378
+380,Utah,2017-18,Suncrest Elementary,Public,Orem,Utah,396,95.45,0,4.04,0,40.30079,-111.711944
+381,Utah,2017-18,Century Elementary,Public,Bear River City,Box Elder,482,95.44,0.41,3.94,0,41.6150776,-112.1291735
+382,Utah,2017-18,Westmore Elementary,Public,Orem,Utah,373,95.44,0,4.29,0,40.2763752,-111.6972757
+383,Utah,2017-18,Lapoint Elementary,Public,Lapoint,Uintah,219,95.43,0.46,4.11,0,40.401284,-109.7985506
+384,Utah,2017-18,North Park Elementary-Roy,Public,Roy,Weber,544,95.4,0.18,3.86,0,41.1866862,-112.0316541
+385,Utah,2017-18,Aspen Elementary,Public,Orem,Utah,477,95.39,0,4.4,0.21,40.3318301,-111.7189197
+386,Utah,2017-18,Garland Elementary,Public,Garland,Box Elder,779,95.38,0,4.49,0,41.7359627,-112.165004
+387,Utah,2017-18,Harvest Elementary,Public,Saratoga Springs,Utah,996,95.38,0.2,3.51,0.1,40.400834,-111.933991
+388,Utah,2017-18,Taylor Elementary,Public,Payson,Utah,475,95.37,0,4.21,0,40.0431131,-111.7402257
+389,Utah,2017-18,Valley View Elementary-Pleasant Grove,Public,Pleasant Grove,Utah,432,95.37,0,4.63,0,40.3587634,-111.7193589
+390,Utah,2017-18,West Elementary-Tooele,Public,Tooele,Tooele,474,95.36,0.21,4.43,0,40.5247547,-112.3109203
+391,Utah,2017-18,Foothill Elementary-Brigham City,Public,Brigham City,Box Elder,516,95.35,0.19,3.49,0,41.5275135,-112.0132086
+392,Utah,2017-18,Intermountain Christian,Private,Salt Lake City,Salt Lake,129,95.35,0,4.65,0,40.6315643,-111.8037533
+393,Utah,2017-18,Mountain Trails Elementary,Public,Eagle Mountain,Utah,679,95.29,0,3.68,0,40.3045661,-112.0263222
+394,Utah,2017-18,Spring Lane Elementary,Public,Salt Lake City,Salt Lake,510,95.29,0.2,3.73,0,40.6543236,-111.8422433
+395,Utah,2017-18,Whittier Elementary-Wvc,Public,West Valley City,Salt Lake,615,95.28,0,4.07,0,40.6951425,-112.0337319
+396,Utah,2017-18,Hobble Creek Elementary,Public,Mapleton,Utah,613,95.27,0,4.4,0,40.1420498,-111.5656468
+397,Utah,2017-18,Butterfield Canyon Elementary,Public,Herriman,Salt Lake,907,95.26,0.22,4.41,0,40.501057,-112.054217
+398,Utah,2017-18,Taylor Elementary-Centerville,Public,Centerville,Davis,359,95.26,0,4.74,0,40.9069556,-111.8751707
+399,Utah,2017-18,Canyon Crest Elementary,Public,Provo,Utah,524,95.23,0.19,4.58,0,40.2954257,-111.6523783
+400,Utah,2017-18,Hurricane Elementary,Public,Hurricane,Washington,629,95.23,0.16,4.61,0,37.1822209,-113.3055805
+401,Utah,2017-18,Altara Elementary,Public,Sandy,Salt Lake,544,95.22,0.18,4.41,0,40.5508173,-111.8689143
+402,Utah,2017-18,Santa Clara Elementary,Public,Santa Clara,Washington,499,95.19,0,4.81,0,37.1369837,-113.652333
+403,Utah,2017-18,Southland Elementary,Public,Riverton,Salt Lake,748,95.19,0.13,4.68,0,40.520937,-111.956691
+404,Utah,2017-18,Reading Elementary,Public,Centerville,Davis,536,95.15,0,3.73,0,40.9477191,-111.884543
+405,Utah,2017-18,The Early Light Academy At Daybreak,Public,South Jordan,Salt Lake,720,95.14,0,4.72,0,40.5385192,-112.0133035
+406,Utah,2017-18,Kanesville Elementary-Ogden,Public,West Haven,Weber,737,95.12,0,4.75,0,41.2081605,-112.0620041
+407,Utah,2017-18,Orchard Elementary-Orem,Public,Orem,Utah,735,95.1,0.14,4.76,0,40.3163728,-111.6776884
+408,Utah,2017-18,Orchard Hills Elementary,Public,Santaquin,Utah,770,95.06,0,4.68,0,39.9653657,-111.7810291
+409,Utah,2017-18,Ridgeline Elementary,Public,Highland,Utah,862,95.01,0,3.36,0,40.4451598,-111.8099078
+410,Utah,2017-18,Daybreak Elementary,Public,South Jordan,Salt Lake,678,94.99,0.15,4.57,0,40.539302,-111.999454
+411,Utah,2017-18,Heritage Elementary,Public,Layton,Davis,918,94.99,0,5.01,0,41.0453874,-111.9914103
+412,Utah,2017-18,Oakridge Elementary-Slc,Public,Salt Lake City,Salt Lake,439,94.99,0,5.01,0,40.6775243,-111.7893528
+413,Utah,2017-18,Pony Express Elementary,Public,Eagle Mountain,Utah,897,94.98,0,3.57,0,40.3590751,-111.9667811
+414,Utah,2017-18,Silver Mesa Elementary,Public,Sandy,Salt Lake,636,94.97,0,5.03,0,40.5893427,-111.8447363
+415,Utah,2017-18,Windsor Elementary,Public,Orem,Utah,537,94.97,0,2.05,0,40.3212199,-111.6970941
+416,Utah,2017-18,Salt Lake Arts Academy,Public,Salt Lake City,Salt Lake,99,94.95,0,5.05,0,40.7508602,-111.8857571
+417,Utah,2017-18,Deerfield Elementary,Public,Cedar Hills,Utah,770,94.94,0.26,4.81,0,40.405862,-111.759875
+418,Utah,2017-18,Shelley Elementary,Public,American Fork,Utah,948,94.94,0.11,3.9,0,40.3887115,-111.8031355
+419,Utah,2017-18,American Preparatory Academy-Draper 2,Public,Draper,Salt Lake,1022,94.91,0,5.09,0,40.5341788,-111.9010566
+420,Utah,2017-18,North Summit Elementary,Public,Coalville,Summit,393,94.91,0,5.09,0,40.9128548,-111.3912838
+421,Utah,2017-18,Delta North Elementary,Public,Delta,Millard,430,94.88,0,5.12,0,39.3535396,-112.5719087
+422,Utah,2017-18,Spring Lake Elementary,Public,Payson,Utah,702,94.87,0.14,4.84,0,40.0152559,-111.738922
+423,Utah,2017-18,Naples Elementary,Public,Vernal,Uintah,564,94.86,0,4.79,0.35,40.4274584,-109.4957322
+424,Utah,2017-18,Ashley Elementary,Public,Vernal,Uintah,581,94.84,0,4.99,0,40.459928,-109.549677
+425,Utah,2017-18,Kings Peak Elementary,Public,Roosevelt,Duchesne,463,94.82,0.22,4.75,0.22,40.3052814,-109.9970675
+426,Utah,2017-18,Goshen Elementary,Public,Goshen,Utah,327,94.8,0,4.89,0,39.9543304,-111.8995982
+427,Utah,2017-18,Children's Discovery,Private,Salt Lake City,Salt Lake,57,94.74,0,3.51,0,40.6922243,-111.8135582
+428,Utah,2017-18,Bella Vista Elementary,Public,Salt Lake City,Salt Lake,284,94.72,0.7,4.58,0,40.625285,-111.8299087
+429,Utah,2017-18,Whitesides Elementary,Public,Layton,Davis,436,94.72,0.46,4.82,0,41.0640878,-111.9531483
+430,Utah,2017-18,Centerville Elementary,Public,Centerville,Davis,473,94.71,0.42,4.86,0,40.920861,-111.8765319
+431,Utah,2017-18,Children's Christian,Private,West Jordan,Salt Lake,94,94.68,0,5.32,0,40.6247513,-111.9666879
+432,Utah,2017-18,Bluffdale Elementary,Public,Bluffdale,Salt Lake,1179,94.66,0.08,4.83,0,40.4916666,-111.9563479
+433,Utah,2017-18,Little Valley Elementary,Public,St. George,Washington,112,94.64,0,4.46,0,37.0527289,-113.5359277
+434,Utah,2017-18,East Sandy Elementary,Public,Sandy,Salt Lake,428,94.63,0.23,4.67,0.23,40.6003817,-111.8661263
+435,Utah,2017-18,Santaquin Elementary,Public,Santaquin,Utah,874,94.62,0,5.26,0,39.9742181,-111.7939779
+436,Utah,2017-18,Reagan Academy,Public,Springville,Utah,564,94.5,0,5.5,0,40.1659921,-111.6310861
+437,Utah,2017-18,West Jordan Elementary,Public,West Jordan,Salt Lake,491,94.5,0,4.68,0,40.619612,-111.952621
+438,Utah,2017-18,Cedar South Elementary,Public,Cedar City,Iron,490,94.49,0,5.51,0,37.6698837,-113.0703824
+439,Utah,2017-18,Park Lane Elementary,Public,Sandy,Salt Lake,379,94.46,0.53,5.01,0,40.570289,-111.823487
+440,Utah,2017-18,Sandy Elementary,Public,Sandy,Salt Lake,596,94.46,0,5.54,0,40.592995,-111.880293
+441,Utah,2017-18,Jefferson Academy,Public,Kaysville,Davis,577,94.45,0,5.37,0.17,41.0114817,-111.9581178
+442,Utah,2017-18,Hilltop Christian,Private,Sandy,Salt Lake,18,94.44,0,0,0,40.5593873,-111.8629629
+443,Utah,2017-18,River Heights Elementary,Public,River Heights,Cache,449,94.43,0,5.57,0,41.7206601,-111.8158644
+444,Utah,2017-18,Heritage Elementary-St. George,Public,St. George,Washington,466,94.42,0,4.29,0,37.0876724,-113.5675647
+445,Utah,2017-18,Coral Cliffs Elementary,Public,St. George,Washington,496,94.35,0,5.44,0.2,37.1438613,-113.6270479
+446,Utah,2017-18,Carden Memorial,Private,Salt Lake City,Salt Lake,264,94.32,0,3.41,0,40.7124445,-111.8484361
+447,Utah,2017-18,Good Foundations Academy,Public,Riverdale,Weber,488,94.26,0,4.71,0,41.1699833,-112.0071602
+448,Utah,2017-18,Greenwood Elementary,Public,American Fork,Utah,661,94.25,0,3.48,0,40.3720084,-111.7968051
+449,Utah,2017-18,Ascent Academies Of Utah- Lehi,Public,Lehi,Utah,432,94.21,0.23,5.32,0.23,40.3977571,-111.8842077
+450,Utah,2017-18,Parleys Park Elementary,Public,Park City,Summit,553,94.21,0,5.61,0.18,40.6972532,-111.541704
+451,Utah,2017-18,Wasatch Elementary-Provo,Public,Provo,Utah,859,94.18,0.23,5.47,0,40.2477521,-111.6417348
+452,Utah,2017-18,Provo Peaks Elementary,Public,Provo,Utah,600,94.17,0.17,4.5,0,40.2343995,-111.6471581
+453,Utah,2017-18,Oakwood Elementary,Public,Salt Lake City,Salt Lake,479,94.15,0,5.85,0,40.6451087,-111.8333832
+454,Utah,2017-18,Orem Elementary,Public,Orem,Utah,632,94.15,0,5.54,0,40.2906571,-111.7067779
+455,Utah,2017-18,Thomas Edison Charter School- North,Public,Logan,Cache,409,94.13,0.24,5.62,0,41.7792909,-111.8290078
+456,Utah,2017-18,Three Peaks Elementary,Public,Cedar City,Iron,609,94.09,0,5.91,0,37.7640358,-113.082109
+457,Utah,2017-18,Jeremy Ranch Elementary,Public,Park City,Summit,537,94.04,0,5.96,0,40.7533662,-111.5686241
+458,Utah,2017-18,Windridge Elementary,Public,Kaysville,Davis,637,94.03,0,5.65,0,41.0134859,-111.9234008
+459,Utah,2017-18,Rowland Hall Elementary,Private,Salt Lake City,Salt Lake,351,94.02,0,5.98,0,40.752893,-111.846572
+460,Utah,2017-18,Old Mill Elementary,Public,Heber City,Wasatch,746,93.97,0.13,5.9,0,40.4949951,-111.3894408
+461,Utah,2017-18,Rock Canyon Elementary,Public,Provo,Utah,577,93.93,0.17,5.72,0,40.2651807,-111.6509328
+462,Utah,2017-18,Salem Elementary,Public,Salem,Utah,558,93.91,0.18,5.73,0,40.0535694,-111.6768487
+463,Utah,2017-18,Morningside Elementary,Public,Salt Lake City,Salt Lake,620,93.87,1.29,3.23,0,40.6807261,-111.8072872
+464,Utah,2017-18,Cedar Valley Elementary,Public,Cedar Fort,Utah,114,93.86,0,5.26,0,40.3269815,-112.1063678
+465,Utah,2017-18,Edith Bowen Laboratory School-Logan,Public,Logan,Cache,358,93.85,0,6.15,0,41.7446096,-111.8096409
+466,Utah,2017-18,Riverton Elementary,Public,Riverton,Salt Lake,763,93.84,0,6.16,0,40.512258,-111.944385
+467,Utah,2017-18,Nibley Park Elementary,Public,Salt Lake City,Salt Lake,356,93.82,0,5.9,0,40.7103085,-111.8667185
+468,Utah,2017-18,Fox Hollow Elementary,Public,Lehi,Utah,1115,93.81,0.18,5.47,0,40.4287849,-111.872542
+469,Utah,2017-18,Legacy Preparatory Academy,Public,Bountiful,Davis,791,93.81,0.13,6.07,0,40.8676161,-111.9166247
+470,Utah,2017-18,Liberty Elementary,Public,Murray,Salt Lake,388,93.81,0.26,3.87,0,40.6390924,-111.8955647
+471,Utah,2017-18,Red Mountain Elementary,Public,Ivins,Washington,402,93.78,0.25,5.97,0,37.1655503,-113.6734476
+472,Utah,2017-18,Adelaide Elementary,Public,Bountiful,Davis,480,93.75,0,5.42,0,40.8499205,-111.8996473
+473,Utah,2017-18,Riverside Elementary,Public,Washington,Washington,604,93.71,0,6.13,0,37.0968328,-113.5190567
+474,Utah,2017-18,Tolman Elementary,Public,Bountiful,Davis,397,93.7,0.76,5.54,0,40.9011491,-111.8752241
+475,Utah,2017-18,Foothill Elementary-Orem,Public,Orem,Utah,712,93.68,0.28,6.04,0,40.3140127,-111.6672277
+476,Utah,2017-18,Washington Elementary-Wash.,Public,Washington,Washington,459,93.68,0,6.32,0,37.135724,-113.5038945
+477,Utah,2017-18,Davis Elementary,Public,Vernal,Uintah,504,93.65,0,6.35,0,40.3961127,-109.4796947
+478,Utah,2017-18,Hartvigsen School-Special,Public,Taylorsville,Salt Lake,189,93.65,0,6.35,0,40.6571004,-111.9344723
+479,Utah,2017-18,Noah Webster Academy,Public,Orem,Utah,563,93.61,0.18,6.04,0,40.2902459,-111.6905412
+480,Utah,2017-18,Polk Elementary,Public,Ogden,Weber,313,93.61,0,5.43,0,41.217258,-111.9431689
+481,Utah,2017-18,Discovery Elementary,Public,Vernal,Uintah,718,93.59,0,6.27,0,40.4380898,-109.541231
+482,Utah,2017-18,Traverse Mountain Elementary,Public,Lehi,Utah,1246,93.5,0.08,4.49,0,40.4460734,-111.8908177
+483,Utah,2017-18,Fielding Elementary,Public,Fielding,Box Elder,367,93.46,0,6.54,0,41.8151311,-112.1175253
+484,Utah,2017-18,C.S. Lewis Academy,Public,Payson,Utah,320,93.44,0,5.94,0,39.9820843,-111.7656582
+485,Utah,2017-18,East Midvale Elementary,Public,Midvale,Salt Lake,608,93.42,0,1.81,0.33,40.6250015,-111.8831026
+486,Utah,2017-18,Wilson Elementary-Payson,Public,Payson,Utah,439,93.39,0,6.15,0,40.0369981,-111.7410691
+487,Utah,2017-18,Monroe Elementary-Monroe,Public,Monroe,Sevier,543,93.37,0.37,6.08,0,38.6322875,-112.123159
+488,Utah,2017-18,Eastwood Elementary,Public,Salt Lake City,Salt Lake,300,93.33,0,6.67,0,40.6998621,-111.7936186
+489,Utah,2017-18,Lehi Elementary,Public,Lehi,Utah,656,93.29,0.15,6.1,0,40.3970115,-111.8509322
+490,Utah,2017-18,Farmington Elementary,Public,Farmington,Davis,513,93.18,0,6.63,0,40.9772991,-111.8890409
+491,Utah,2017-18,Highland Elementary,Public,Highland,Utah,833,93.16,0.24,4.8,0,40.4293319,-111.803266
+492,Utah,2017-18,East Elementary - Roosevelt,Public,Roosevelt,Duchesne,364,93.13,0,4.95,0,40.3052225,-109.9813484
+493,Utah,2017-18,Freedom Preparatory Academy-Provo,Public,Provo,Utah,638,93.1,0.16,6.74,0,40.2468672,-111.6794886
+494,Utah,2017-18,Fillmore Elementary,Public,Fillmore,Millard,389,93.06,0,5.91,0,38.9593189,-112.3390152
+495,Utah,2017-18,Willow Canyon Elementary,Public,Sandy,Salt Lake,373,93.03,0.27,6.7,0,40.5759122,-111.8467347
+496,Utah,2017-18,Conamore School-Special,Public,Myton,Duchesne,43,93.02,0,6.98,0,40.1945497,-110.0580749
+497,Utah,2017-18,Mapleton Elementary,Public,Mapleton,Utah,657,93,0.3,5.63,0,40.1310824,-111.580641
+498,Utah,2017-18,Providence Hall-Elementary,Public,Herriman,Salt Lake,786,93,0,7,0,40.4850606,-112.0043216
+499,Utah,2017-18,Freedom Elementary,Public,Highland,Utah,1032,92.93,0,7.07,0,40.4200451,-111.820355
+500,Utah,2017-18,Summit Academy- Draper Campus K-8,Public,Draper,Salt Lake,764,92.93,0,6.68,0,40.5123713,-111.8536919
+501,Utah,2017-18,Oscarson Elementary,Public,Marysvale,Piute,28,92.86,0,7.14,0,38.4507908,-112.2331309
+502,Utah,2017-18,Pinnacle Canyon Academy,Public,Price,Carbon,223,92.83,7.17,0,0,39.6032053,-110.7993882
+503,Utah,2017-18,Three Falls Elementary,Public,Hurricane,Washington,706,92.78,0,7.08,0,37.1653663,-113.2996662
+504,Utah,2017-18,Venture Academy,Public,Slaterville,Weber,291,92.78,0,7.22,0,41.2691117,-112.0172227
+505,Utah,2017-18,Alpine Elementary,Public,Alpine,Utah,705,92.77,0.28,5.25,0,40.4564239,-111.7702778
+506,Utah,2017-18,Midway Elementary,Public,Midway,Wasatch,581,92.77,0.17,3.96,0,40.5083299,-111.4694839
+507,Utah,2017-18,Challenger School-10693 S,Private,Sandy,Salt Lake,262,92.75,0,7.25,0,40.5570663,-111.8618732
+508,Utah,2017-18,Jordan Valley,Public,Midvale,Salt Lake,82,92.68,0,7.32,0,40.6149135,-111.8613659
+509,Utah,2017-18,Enoch Elementary,Public,Cedar City,Iron,559,92.67,0.18,7.16,0,37.7633618,-113.0305184
+510,Utah,2017-18,Loa Elementary,Public,Loa,Wayne,177,92.66,1.13,6.21,0,38.4010012,-111.641013
+511,Utah,2017-18,Northridge Elementary,Public,Orem,Utah,733,92.63,0,7.37,0,40.32799,-111.694366
+512,Utah,2017-18,George Washington Academy,Public,St. George,Washington,867,92.62,0.12,7.27,0,37.0697359,-113.5216975
+513,Utah,2017-18,Cleveland Elementary,Public,Cleveland,Emery,135,92.59,0.74,5.93,0,39.3482405,-110.8544451
+514,Utah,2017-18,Huntington Elementary,Public,Huntington,Emery,254,92.52,0,6.69,0,39.3280482,-110.9627896
+515,Utah,2017-18,Entheos Academy-Kearns,Public,Salt Lake City,Salt Lake,370,92.43,0,7.57,0,40.640663,-112.002752
+516,Utah,2017-18,Kanab Elementary,Public,Kanab,Kane,500,92.4,0,7.4,0,37.04943,-112.529092
+517,Utah,2017-18,Arches Academy,Private,Orem,Utah,13,92.31,0,7.69,0,40.291738,-111.686567
+518,Utah,2017-18,Cedar North Elementary,Public,Cedar City,Iron,607,92.26,0,7.74,0,37.681319,-113.0712865
+519,Utah,2017-18,Westfield Elementary,Public,Alpine,Utah,696,92.24,0.29,6.03,0,40.4480162,-111.7905378
+520,Utah,2017-18,Eaglecrest Elementary,Public,Lehi,Utah,1056,92.23,0,5.4,0,40.4225142,-111.8536407
+521,Utah,2017-18,Excelsior Academy,Public,Tooele,Tooele,459,92.16,0.22,6.1,0,40.6011684,-112.3009529
+522,Utah,2017-18,Odyssey Charter,Public,American Fork,Utah,457,92.12,0,7.88,0,40.3614976,-111.7795906
+523,Utah,2017-18,Cascade Elementary,Public,Orem,Utah,742,92.05,0.4,5.53,0,40.299988,-111.675244
+524,Utah,2017-18,Arrowhead Elementary,Public,Santa Clara,Washington,659,91.96,0,8.04,0,37.1186507,-113.6334832
+525,Utah,2017-18,John Hancock Charter,Public,Pleasant Grove,Utah,174,91.95,0,8.05,0,40.3658501,-111.7393878
+526,Utah,2017-18,Sunset Elementary-St.George,Public,St. George,Washington,506,91.9,0.4,7.71,0,37.1166802,-113.6154985
+527,Utah,2017-18,Castle Valley Center-Special,Public,Price,Carbon,37,91.89,0,8.11,0,39.612422,-110.794195
+528,Utah,2017-18,Bloomington Hills Elementary,Public,St. George,Washington,541,91.87,0.18,7.76,0,37.0549168,-113.564583
+529,Utah,2017-18,Maeser Elementary-Vernal,Public,Vernal,Uintah,589,91.85,0,7.81,0,40.4714606,-109.5796989
+530,Utah,2017-18,Trailside Elementary,Public,Park City,Summit,491,91.85,0,8.15,0,40.7152774,-111.5030418
+531,Utah,2017-18,American Academy Of Innovation,Public,South Jordan,Salt Lake,61,91.8,0,8.2,0,40.5565069,-112.0203103
+532,Utah,2017-18,Draper Elementary,Public,Draper,Salt Lake,742,91.78,0,8.22,0,40.5207704,-111.8610351
+533,Utah,2017-18,Valley Elementary-Huntsville,Public,Huntsville,Weber,595,91.76,0,7.73,0,41.2607744,-111.7699379
+534,Utah,2017-18,Ashley Valley Education Center- Alternative Ed,Public,Vernal,Uintah,24,91.67,0,8.33,0,40.45205,-109.529408
+535,Utah,2017-18,Vineyard Elementary,Public,Orem,Utah,1202,91.6,0,0.33,0,40.2892293,-111.7375781
+536,Utah,2017-18,La Verkin Elementary,Public,La Verkin,Washington,486,91.56,0.21,8.02,0,37.20083,-113.2708883
+537,Utah,2017-18,Parowan Elementary,Public,Parowan,Iron,378,91.53,0.26,7.94,0,37.8446969,-112.8307729
+538,Utah,2017-18,Bear River Charter,Public,Logan,Cache,106,91.51,0.94,7.55,0,41.730277,-111.8457538
+539,Utah,2017-18,Castle Dale Elementary,Public,Castle Dale,Emery,186,91.4,0,8.06,0,39.2204295,-111.0161827
+540,Utah,2017-18,American Heritage School Of South Jordan,Private,South Jordan,Salt Lake,127,91.34,0,8.66,0,40.5498626,-111.9392309
+541,Utah,2017-18,American Preparatory Academy-Draper #1,Public,Draper,Salt Lake,612,91.34,0,8.5,0.16,40.516567,-111.8947273
+542,Utah,2017-18,Legacy Elementary,Public,American Fork,Utah,710,91.13,0.28,8.59,0,40.4026001,-111.7973095
+543,Utah,2017-18,Manti Elementary,Public,Manti,Sanpete,431,90.95,0,8.58,0,39.2644968,-111.6398166
+544,Utah,2017-18,Tabiona Elementary,Public,Tabiona,Duchesne,76,90.79,0,9.21,0,40.3532926,-110.707238
+545,Utah,2017-18,Monticello Elementary,Public,Monticello,San Juan,260,90.77,0,8.85,0.38,37.8756241,-109.3477872
+546,Utah,2017-18,Minersville Elementary,Public,Minersville,Beaver,97,90.72,0,9.28,0,38.2084155,-112.9266987
+547,Utah,2017-18,Renaissance Academy,Public,Lehi,Utah,665,90.68,0,9.02,0,40.430437,-111.832545
+548,Utah,2017-18,Myton Elementary,Public,Myton,Duchesne,139,90.65,0,5.76,0,40.1945817,-110.0557794
+549,Utah,2017-18,Thomas Edison Charter School- South,Public,Logan,Cache,570,90.53,0,9.47,0,41.690018,-111.86411
+550,Utah,2017-18,The Ranches Academy,Public,Eagle Mountain,Utah,364,90.38,0.27,9.34,0,40.3592003,-111.9852254
+551,Utah,2017-18,Forbes Elementary,Public,American Fork,Utah,496,90.32,0.2,9.48,0,40.3824474,-111.7940869
+552,Utah,2017-18,Barratt Elementary,Public,American Fork,Utah,521,90.21,0,9.79,0,40.3805823,-111.7722723
+553,Utah,2017-18,Mcpolin Elementary,Public,Park City,Summit,406,90.15,0,9.36,0,40.6695909,-111.4927987
+554,Utah,2017-18,Horizon Elementary - Washington,Public,Washington,Washington,71,90.14,1.41,8.45,0,37.1042376,-113.4902715
+555,Utah,2017-18,Escalante Elementary,Public,Escalante,Garfield,10,90,0,10,0,37.7706616,-111.5941232
+556,Utah,2017-18,Springdale Elementary,Public,Springdale,Washington,50,90,2,6,0,37.1892057,-112.9992675
+557,Utah,2017-18,Duchesne Elementary,Public,Duchesne,Duchesne,462,89.83,0,9.96,0,40.166852,-110.4030924
+558,Utah,2017-18,Lincoln Academy,Public,Pleasant Grove,Utah,530,89.81,0.19,9.81,0,40.4002436,-111.7634957
+559,Utah,2017-18,Neola Elementary,Public,Neola,Duchesne,185,89.73,0,9.73,0,40.4283371,-110.0332582
+560,Utah,2017-18,Bloomington Elementary,Public,St. George,Washington,77,89.61,0,10.39,0,37.0515688,-113.5928449
+561,Utah,2017-18,North Star Academy,Public,Bluffdale,Salt Lake,360,89.17,0,10.83,0,40.4974902,-111.9615304
+562,Utah,2017-18,Timpanogos Academy,Public,Lindon,Utah,472,88.35,0,11.65,0,40.3368909,-111.7129647
+563,Utah,2017-18,Kauri Sue Hamilton,Public,Riverton,Salt Lake,200,87.5,0.5,12,0,40.507126,-111.960075
+564,Utah,2017-18,Mt. Pleasant Elementary,Public,Mt. Pleasant,Sanpete,446,87.44,0,12.11,0,39.538628,-111.4468678
+565,Utah,2017-18,Vista At Entrada School Of Performing Arts And Tec,Public,Ivins,Washington,590,87.29,0,12.54,0,37.169069,-113.666372
+566,Utah,2017-18,Diamond Valley Elementary,Public,St. George,Washington,39,87.18,0,12.82,0,37.2492548,-113.6141409
+567,Utah,2017-18,Park Valley,Public,Park Valley,Box Elder,23,86.96,0,13.04,0,41.8214218,-113.3303278
+568,Utah,2017-18,Fairview Elementary,Public,Fairview,Sanpete,291,86.94,0,13.06,0,39.631484,-111.425973
+569,Utah,2017-18,Terra Academy,Public,Vernal,Uintah,346,86.71,0,13.01,0,40.4522769,-109.565248
+570,Utah,2017-18,Challenger School-Holladay,Private,Salt Lake City,Salt Lake,30,86.67,0,10,0,40.6724395,-111.8242345
+571,Utah,2017-18,Garrison Elementary,Public,Garrison,Millard,15,86.67,0,0,0,38.9352265,-114.0355433
+572,Utah,2017-18,Weilenmann School Of Discovery,Public,Park City,Summit,405,86.67,0.25,12.84,0,40.75227,-111.592546
+573,Utah,2017-18,American Preparatory Academy-Salem-Charter,Public,Salem,Utah,364,86.54,0,13.46,0,40.0364749,-111.6912937
+574,Utah,2017-18,Lakeview Academy,Public,Saratoga Springs,Utah,104,86.54,0,13.46,0,40.3685109,-111.9280285
+575,Utah,2017-18,Spring City Elementary,Public,Spring City,Sanpete,147,86.39,0,13.61,0,39.4795782,-111.4873314
+576,Utah,2017-18,Valley Elementary-Kane,Public,Orderville,Kane,145,86.21,0,12.41,0.69,37.2752986,-112.6361905
+577,Utah,2017-18,Ibapah Elementary,Public,Ibapah,Tooele,36,86.11,0,13.89,0,40.0366039,-113.9861139
+578,Utah,2017-18,American International School Of Utah (Aisu),Public,Murray,Salt Lake,511,85.13,0.39,14.48,0,40.6631065,-111.903902
+579,Utah,2017-18,Open Classroom,Public,Salt Lake City,Salt Lake,345,84.93,0,15.07,0,40.7725728,-111.8778264
+580,Utah,2017-18,Grace Lutheran School & Preschool,Private,Sandy,Salt Lake,65,84.62,0,15.38,0,40.5740657,-111.8402861
+581,Utah,2017-18,Snowville Elementary,Public,Snowville,Box Elder,19,84.21,0,15.79,0,41.969118,-112.7096136
+582,Utah,2017-18,Moab Charter,Public,Moab,Grand,113,84.07,0,15.93,0,38.568221,-109.543711
+583,Utah,2017-18,American Leadership Academy,Public,Spanish Fork,Utah,888,83.78,0,16.22,0,40.0964001,-111.6709259
+584,Utah,2017-18,Mona Elementary,Public,Mona,Juab,422,83.65,0,16.11,0,39.8132788,-111.8505537
+585,Utah,2017-18,Davinci Academy Of Science And The Arts,Public,Ogden,Weber,684,83.33,0,16.67,0,41.230302,-111.973336
+586,Utah,2017-18,Lake Powell,Public,Lake Powell,Kane,6,83.33,0,16.67,0,37.5254862,-110.7081415
+587,Utah,2017-18,Reid,Private,Salt Lake City,Salt Lake,56,82.14,0,7.14,0,40.6977199,-111.808269
+588,Utah,2017-18,American Heritage,Private,American Fork,Utah,479,81.21,0,18.79,0,40.392817,-111.768947
+589,Utah,2017-18,Solider Hollow Charter,Public,Heber City,Wasatch,287,80.84,0,15.33,0.7,40.4718293,-111.467724
+590,Utah,2017-18,Walden School Of Liberal Arts,Public,Provo,Utah,240,80.42,0,15,0,40.2895035,-111.6575288
+591,Utah,2017-18,Layton Christian Academy,Private,Layton,Davis,121,80.17,0,2.48,0,41.1050762,-111.9221958
+592,Utah,2017-18,Mountainville Academy,Public,Alpine,Utah,512,77.93,0.39,21.68,0,40.4506655,-111.7763752
+593,Utah,2017-18,Dan W. Peterson,Public,American Fork,Utah,36,77.78,5.56,11.11,0,40.380394,-111.7697571
+594,Utah,2017-18,Canyon Grove Academy,Public,Pleasant Grove,Utah,589,76.91,0.17,22.41,0.51,40.4017056,-111.7504592
+595,Utah,2017-18,Montessori At Riverton,Private,Riverton,Salt Lake,30,73.33,0,23.33,0,40.5117331,-111.9373602
+596,Utah,2017-18,Utah Association Of Christian Schools,Private,Salt Lake City,Salt Lake,11,72.73,0,9.09,0,40.648941,-111.8382442
+597,Utah,2017-18,Gateway Preparatory Academy,Public,Enoch,Iron,463,70.19,0.22,29.16,0.43,37.7469759,-113.0575628
+598,Utah,2017-18,Big Water,Public,Big Water,Kane,29,68.97,0,31.03,0,37.0855677,-111.6641533
+599,Utah,2017-18,Blue Peak High,Public,Tooele,Tooele,933,68.38,0,31.62,0,40.5261169,-112.3244632
+600,Utah,2017-18,Berean Baptist Christian Academy,Private,Ogden,Weber,9,66.67,0,33.33,0,41.193381,-111.954002
+601,Utah,2017-18,Boulder Elementary,Public,Boulder,Garfield,10,20,0,80,0,37.9244444,-111.4261111
+602,Utah,2017-18,Oakridge,Public,Springville,Utah,,,,,,40.1555146,-111.5867597

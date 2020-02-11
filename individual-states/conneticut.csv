@@ -1,0 +1,752 @@
+index,state,year,name,type,city,county,mmr,xmed,xrel,lat,lng
+1,Connecticut,2017-18,A. Ward Spaulding,Public,Suffield,Hartford,100.00,0.00,0.00,41.9852122,-72.686865
+2,Connecticut,2017-18,Academy Of Aerospace And Engineering Elementary,Public,Rocky Hill,Hartford,100.00,0.00,0.00,41.643883,-72.664329
+3,Connecticut,2017-18,Alfred W. Hanmer,Public,Wethersfield,Hartford,100.00,0.00,0.00,41.715197,-72.658198
+4,Connecticut,2017-18,Andrew Avenue,Public,Naugatuck,New Haven,100.00,0.00,0.00,41.483149,-73.065408
+5,Connecticut,2017-18,Anna Reynolds,Public,Newington,Hartford,100.00,0.00,0.00,41.715046,-72.745874
+6,Connecticut,2017-18,Augusta Lewis Troup,Public,New Haven,New Haven,100.00,0.00,0.00,41.313383,-72.942201
+7,Connecticut,2017-18,Barlow Mountain Elementary,Public,Ridgefield,Fairfield,100.00,0.00,0.00,41.323635,-73.512667
+8,Connecticut,2017-18,Beecher,Public,New Haven,New Haven,100.00,0.00,0.00,41.326075,-72.953685
+9,Connecticut,2017-18,Benjamin Franklin,Public,Meriden,New Haven,100.00,0.00,0.00,41.539301,-72.818093
+10,Connecticut,2017-18,Betances Early Reading Lab Magnet,Public,Hartford,Hartford,100.00,0.00,0.00,41.759849,-72.673352
+11,Connecticut,2017-18,Bethany Community,Public,Bethany,New Haven,100.00,0.00,0.00,41.424489,-73.000279
+12,Connecticut,2017-18,Bielefield,Public,Middletown,Middlesex,100.00,0.00,0.00,41.542098,-72.632572
+13,Connecticut,2017-18,Bishop Woods Architecture And Design Magnet,Public,New Haven,New Haven,100.00,0.00,0.00,41.32704,-72.86983
+14,Connecticut,2017-18,Blackham,Public,Bridgeport,Fairfield,100.00,0.00,0.00,41.205552,-73.213346
+15,Connecticut,2017-18,Booth Hill,Public,Shelton,Fairfield,100.00,0.00,0.00,41.284438,-73.182782
+16,Connecticut,2017-18,Bradley,Public,Derby,New Haven,100.00,0.00,0.00,41.318283,-73.063589
+17,Connecticut,2017-18,Braeburn,Public,West Hartford,Hartford,100.00,0.00,0.00,41.761359,-72.76079
+18,Connecticut,2017-18,Branchville Elementary,Public,Ridgefield,Fairfield,100.00,0.00,0.00,41.270418,-73.444716
+19,Connecticut,2017-18,Brass City Charter,Public,Waterbury,New Haven,100.00,0.00,0.00,41.565546,-73.049593
+20,Connecticut,2017-18,Breakthrough Ii Magnet,Public,Hartford,Hartford,100.00,0.00,0.00,41.8047999,-72.7048757
+21,Connecticut,2017-18,Breakthrough Magnet,Public,Hartford,Hartford,100.00,0.00,0.00,41.7452827,-72.7066441
+22,Connecticut,2017-18,Brunswick,Nonpublic,Greenwich,Fairfield,100.00,0.00,0.00,41.038436,-73.626072
+23,Connecticut,2017-18,Bryant,Public,Bridgeport,Fairfield,100.00,0.00,0.00,41.174273,-73.214851
+24,Connecticut,2017-18,Bucks Hill,Public,Waterbury,New Haven,100.00,0.00,0.00,41.600713,-73.028662
+25,Connecticut,2017-18,Bungay,Public,Seymour,New Haven,100.00,0.00,0.00,41.38739,-73.09068
+26,Connecticut,2017-18,Burns Latino Studies Academy,Public,Hartford,Hartford,100.00,0.00,0.00,41.76117,-72.691496
+27,Connecticut,2017-18,Calvin Leete,Public,Guilford,New Haven,100.00,0.00,0.00,41.282958,-72.669092
+28,Connecticut,2017-18,Capital Preparatory Harbor School Inc.,Public,Bridgeport,Fairfield,100.00,0.00,0.00,41.175156,-73.188489
+29,Connecticut,2017-18,Capital Preparatory Magnet,Public,Hartford,Hartford,100.00,0.00,0.00,41.77265,-72.675361
+30,Connecticut,2017-18,Capitol Prep Lower Charter,Public,Bridgeport,Fairfield,100.00,0.00,0.00,41.1931665,-73.1654923
+31,Connecticut,2017-18,"Celentano Biotech, Health And Medical Magnet School",Public,New Haven,New Haven,100.00,0.00,0.00,41.32468,-72.92213
+32,Connecticut,2017-18,Central,Public,Simsbury,Hartford,100.00,0.00,0.00,41.88104,-72.803643
+33,Connecticut,2017-18,Chapel Elementary,Public,Stratford,Fairfield,100.00,0.00,0.00,41.2392393,-73.1178611
+34,Connecticut,2017-18,Chatfield-Lopresti,Public,Seymour,New Haven,100.00,0.00,0.00,41.40321,-73.056611
+35,Connecticut,2017-18,Church Street,Public,Hamden,New Haven,100.00,0.00,0.00,41.354518,-72.933507
+36,Connecticut,2017-18,Classical Studies Annex Elementary,Public,Bridgeport,Fairfield,100.00,0.00,0.00,41.1790776,-73.2097953
+37,Connecticut,2017-18,Clinton Avenue,Public,New Haven,New Haven,100.00,0.00,0.00,41.318797,-72.891996
+38,Connecticut,2017-18,Columbus Family Academy,Public,New Haven,New Haven,100.00,0.00,0.00,41.309277,-72.898511
+39,Connecticut,2017-18,Consolidated,Public,New Fairfield,Fairfield,100.00,0.00,0.00,41.462767,-73.493844
+40,Connecticut,2017-18,Cook Hill,Public,Wallingford,New Haven,100.00,0.00,0.00,41.45717,-72.858491
+41,Connecticut,2017-18,Crystal Lake,Public,Ellington,Tolland,100.00,0.00,0.00,41.929,-72.377851
+42,Connecticut,2017-18,Davis 21St Century Magnet Elementary,Public,New Haven,New Haven,100.00,0.00,0.00,41.32865,-72.973396
+43,Connecticut,2017-18,Dr. John A. Langford,Public,East Hartford,Hartford,100.00,0.00,0.00,41.792949,-72.599499
+44,Connecticut,2017-18,Driggs,Public,Waterbury,New Haven,100.00,0.00,0.00,41.563738,-73.043083
+45,Connecticut,2017-18,Duggan,Public,Waterbury,New Haven,100.00,0.00,0.00,41.543423,-73.047148
+46,Connecticut,2017-18,East Farms,Public,Farmington,Hartford,100.00,0.00,0.00,41.719676,-72.800842
+47,Connecticut,2017-18,East Rock Community Magnet,Public,New Haven,New Haven,100.00,0.00,0.00,41.31957,-72.907294
+48,Connecticut,2017-18,Eastbury,Public,Glastonbury,Hartford,100.00,0.00,0.00,41.696384,-72.537663
+49,Connecticut,2017-18,Edgewood,Public,Bristol,Hartford,100.00,0.00,0.00,41.700626,-72.923826
+50,Connecticut,2017-18,Elizabeth Shelton,Public,Shelton,Fairfield,100.00,0.00,0.00,41.315652,-73.135535
+51,Connecticut,2017-18,Elmer Thienes-Mary Hall Elementary,Public,Marlborough,Hartford,100.00,0.00,0.00,41.627172,-72.459447
+52,Connecticut,2017-18,Emerson-Williams,Public,Wethersfield,Hartford,100.00,0.00,0.00,41.702813,-72.680582
+53,Connecticut,2017-18,Fair Haven,Public,New Haven,New Haven,100.00,0.00,0.00,41.308476,-72.893326
+54,Connecticut,2017-18,Forbes,Public,Torrington,Litchfield,100.00,0.00,0.00,41.81298,-73.132753
+55,Connecticut,2017-18,Frederick Brewster,Public,Durham,Middlesex,100.00,0.00,0.00,41.468252,-72.700727
+56,Connecticut,2017-18,Frisbie,Public,Wolcott,New Haven,100.00,0.00,0.00,41.578187,-72.980027
+57,Connecticut,2017-18,Gaffney Elementary,Public,New Britain,Hartford,100.00,0.00,0.00,41.675922,-72.813264
+58,Connecticut,2017-18,Gainfield Elementary,Public,Southbury,New Haven,100.00,0.00,0.00,41.479663,-73.222471
+59,Connecticut,2017-18,Governor William Pitkin,Public,East Hartford,Hartford,100.00,0.00,0.00,41.743858,-72.591117
+60,Connecticut,2017-18,Greene-Hills,Public,Bristol,Hartford,100.00,0.00,0.00,41.668442,-72.89635
+61,Connecticut,2017-18,H. S. Chase,Public,Waterbury,New Haven,100.00,0.00,0.00,41.552786,-73.006182
+62,Connecticut,2017-18,Hall,Public,Bridgeport,Fairfield,100.00,0.00,0.00,41.191371,-73.159672
+63,Connecticut,2017-18,Harry S. Fisher Elementary,Public,Plymouth,Litchfield,100.00,0.00,0.00,41.6852256,-73.0072631
+64,Connecticut,2017-18,High Horizons Magnet,Public,Bridgeport,Fairfield,100.00,0.00,0.00,41.204286,-73.163002
+65,Connecticut,2017-18,Holland Hill,Public,Fairfield,Fairfield,100.00,0.00,0.00,41.17075,-73.244391
+66,Connecticut,2017-18,Hop Brook Elementary,Public,Naugatuck,New Haven,100.00,0.00,0.00,41.50166,-73.043254
+67,Connecticut,2017-18,Hopewell,Public,Glastonbury,Hartford,100.00,0.00,0.00,41.6794259,-72.5532016
+68,Connecticut,2017-18,Interdistrict Discovery Magnet,Public,Bridgeport,Fairfield,100.00,0.00,0.00,41.215573,-73.233786
+69,Connecticut,2017-18,International School At Dundee,Public,Greenwich,Fairfield,100.00,0.00,0.00,41.0515851,-73.5769141
+70,Connecticut,2017-18,Irving,Public,Derby,New Haven,100.00,0.00,0.00,41.327536,-73.08807
+71,Connecticut,2017-18,Israel Putnam,Public,Meriden,New Haven,100.00,0.00,0.00,41.530132,-72.792771
+72,Connecticut,2017-18,Ivy Drive,Public,Bristol,Hartford,100.00,0.00,0.00,41.704554,-72.901228
+73,Connecticut,2017-18,Jefferson Magnet,Public,Norwalk,Fairfield,100.00,0.00,0.00,41.116564,-73.421036
+74,Connecticut,2017-18,Jettie S. Tisdale,Public,Bridgeport,Fairfield,100.00,0.00,0.00,41.17906,-73.160691
+75,Connecticut,2017-18,John B. Sliney,Public,Branford,New Haven,100.00,0.00,0.00,41.27943,-72.811976
+76,Connecticut,2017-18,John Barry,Public,Meriden,New Haven,100.00,0.00,0.00,41.545629,-72.805225
+77,Connecticut,2017-18,John C. Daniels,Public,New Haven,New Haven,100.00,0.00,0.00,41.300709,-72.938325
+78,Connecticut,2017-18,John Paterson,Public,Newington,Hartford,100.00,0.00,0.00,41.669685,-72.738081
+79,Connecticut,2017-18,John S. Martinez Sea And Sky Stem,Public,New Haven,New Haven,100.00,0.00,0.00,41.305239,-72.903103
+80,Connecticut,2017-18,K. T. Murphy,Public,Stamford,Fairfield,100.00,0.00,0.00,41.047862,-73.511373
+81,Connecticut,2017-18,Lawrence,Public,Middletown,Middlesex,100.00,0.00,0.00,41.587156,-72.682417
+82,Connecticut,2017-18,Lewin G. Joel Jr.,Public,Clinton,Middlesex,100.00,0.00,0.00,41.30278,-72.525373
+83,Connecticut,2017-18,Lillie B. Haynes,Public,East Lyme,New London,100.00,0.00,0.00,41.3481165,-72.2143175
+84,Connecticut,2017-18,Linden Street,Public,Plainville,Hartford,100.00,0.00,0.00,41.669472,-72.858411
+85,Connecticut,2017-18,Long Meadow Elementary,Public,Middlebury,New Haven,100.00,0.00,0.00,41.504323,-73.154108
+86,Connecticut,2017-18,Louis Toffolon,Public,Plainville,Hartford,100.00,0.00,0.00,41.686174,-72.887034
+87,Connecticut,2017-18,Macdonough,Public,Middletown,Middlesex,100.00,0.00,0.00,41.566812,-72.656467
+88,Connecticut,2017-18,Madison,Public,Bridgeport,Fairfield,100.00,0.00,0.00,41.202722,-73.208854
+89,Connecticut,2017-18,Martin,Public,Manchester,Hartford,100.00,0.00,0.00,41.75442,-72.512265
+90,Connecticut,2017-18,Mary E. Griswold,Public,Berlin,Hartford,100.00,0.00,0.00,41.6372248,-72.7846471
+91,Connecticut,2017-18,Mckinley,Public,Fairfield,Fairfield,100.00,0.00,0.00,41.179517,-73.237616
+92,Connecticut,2017-18,Mead,Public,Ansonia,New Haven,100.00,0.00,0.00,41.337564,-73.050922
+93,Connecticut,2017-18,Meadowside,Public,Milford,New Haven,100.00,0.00,0.00,41.211426,-73.074053
+94,Connecticut,2017-18,Mile Creek,Public,Old Lyme,New London,100.00,0.00,0.00,41.295704,-72.284221
+95,Connecticut,2017-18,Mill Ridge Primary,Public,Danbury,Fairfield,100.00,0.00,0.00,41.389621,-73.484917
+96,Connecticut,2017-18,Momauguin,Public,East Haven,New Haven,100.00,0.00,0.00,41.248221,-72.872742
+97,Connecticut,2017-18,Morley,Public,West Hartford,Hartford,100.00,0.00,0.00,41.769121,-72.732156
+98,Connecticut,2017-18,Morris Street,Public,Danbury,Fairfield,100.00,0.00,0.00,41.394817,-73.466021
+99,Connecticut,2017-18,Moses Y. Beach,Public,Wallingford,New Haven,100.00,0.00,0.00,41.460152,-72.81502
+100,Connecticut,2017-18,Mountain View,Public,Bristol,Hartford,100.00,0.00,0.00,41.696498,-72.898869
+101,Connecticut,2017-18,Multicultural Magnet,Public,Bridgeport,Fairfield,100.00,0.00,0.00,41.204222,-73.161637
+102,Connecticut,2017-18,Nathan Hale,Public,Meriden,New Haven,100.00,0.00,0.00,41.542807,-72.773397
+103,Connecticut,2017-18,Nayaug Elementary,Public,Glastonbury,Hartford,100.00,0.00,0.00,41.6372889,-72.6152893
+104,Connecticut,2017-18,Naylor/Ccsu Leadership Academy,Public,Hartford,Hartford,100.00,0.00,0.00,41.73057,-72.674873
+105,Connecticut,2017-18,New Fairfield Prek -12,Public,New Fairfield,Fairfield,100.00,0.00,0.00,41.4678264,-73.4830867
+106,Connecticut,2017-18,New Lebanon,Public,Greenwich,Fairfield,100.00,0.00,0.00,41.000567,-73.655004
+107,Connecticut,2017-18,Nichols,Public,Stratford,Fairfield,100.00,0.00,0.00,41.202738,-73.139352
+108,Connecticut,2017-18,North Street,Public,Windsor Locks,Hartford,100.00,0.00,0.00,41.937396,-72.649197
+109,Connecticut,2017-18,Northeast,Public,Vernon,Tolland,100.00,0.00,0.00,41.8614404,-72.43127
+110,Connecticut,2017-18,Norton,Public,Cheshire,New Haven,100.00,0.00,0.00,41.479445,-72.918552
+111,Connecticut,2017-18,Odyssey Community,Public,Manchester,Hartford,100.00,0.00,0.00,41.781747,-72.550678
+112,Connecticut,2017-18,Ox Ridge Elementary,Public,Darien,Fairfield,100.00,0.00,0.00,41.103121,-73.485241
+113,Connecticut,2017-18,Park Avenue,Public,Danbury,Fairfield,100.00,0.00,0.00,41.385787,-73.462382
+114,Connecticut,2017-18,Parkville Community,Public,Hartford,Hartford,100.00,0.00,0.00,41.756532,-72.707415
+115,Connecticut,2017-18,Plantsville Elementary,Public,Southington,Hartford,100.00,0.00,0.00,41.589312,-72.895946
+116,Connecticut,2017-18,Quaker Hill Elementary,Public,Waterford,New London,100.00,0.00,0.00,41.4018268,-72.1133961
+117,Connecticut,2017-18,Quinnipiac Real World Math Stem,Public,New Haven,New Haven,100.00,0.00,0.00,41.310224,-72.882143
+118,Connecticut,2017-18,Read,Public,Bridgeport,Fairfield,100.00,0.00,0.00,41.202573,-73.198291
+119,Connecticut,2017-18,Reed,Public,Waterbury,New Haven,100.00,0.00,0.00,41.565736,-73.027653
+120,Connecticut,2017-18,Regan,Public,Waterbury,New Haven,100.00,0.00,0.00,41.591594,-73.025648
+121,Connecticut,2017-18,Richard D. Hubbard,Public,Berlin,Hartford,100.00,0.00,0.00,41.6149866,-72.7205902
+122,Connecticut,2017-18,Ridge Road Elementary,Public,North Haven,New Haven,100.00,0.00,0.00,41.370674,-72.894414
+123,Connecticut,2017-18,Riverfield,Nonpublic,Fairfield,Fairfield,100.00,0.00,0.00,41.161764,-73.268196
+124,Connecticut,2017-18,Roger Sherman,Public,Meriden,New Haven,100.00,0.00,0.00,41.536174,-72.78378
+125,Connecticut,2017-18,Ross/Woodward,Public,New Haven,New Haven,100.00,0.00,0.00,41.323691,-72.878262
+126,Connecticut,2017-18,Roxbury,Public,Stamford,Fairfield,100.00,0.00,0.00,41.089066,-73.564293
+127,Connecticut,2017-18,S. B. Butler,Public,Groton,New London,100.00,0.00,0.00,41.3493242,-71.9837043
+128,Connecticut,2017-18,Saint James-Manchester,Nonpublic,Manchester,Hartford,100.00,0.00,0.00,41.770668,-72.524275
+129,Connecticut,2017-18,Saint Rita,Nonpublic,Hamden,New Haven,100.00,0.00,0.00,41.35774,-72.909401
+130,Connecticut,2017-18,Samuel B. Webb Elementary,Public,Wethersfield,Hartford,100.00,0.00,0.00,41.698361,-72.691207
+131,Connecticut,2017-18,Samuel Huntington,Public,Norwich,New London,100.00,0.00,0.00,41.549697,-72.102076
+132,Connecticut,2017-18,Sanchez,Public,Hartford,Hartford,100.00,0.00,0.00,41.758947,-72.688942
+133,Connecticut,2017-18,Savin Rock Community,Public,West Haven,New Haven,100.00,0.00,0.00,41.261226,-72.940302
+134,Connecticut,2017-18,Sayles,Public,Sprague,New London,100.00,0.00,0.00,41.622884,-72.0858983
+135,Connecticut,2017-18,Second Hill Lane,Public,Stratford,Fairfield,100.00,0.00,0.00,41.217983,-73.149617
+136,Connecticut,2017-18,Smalley Elementary,Public,New Britain,Hartford,100.00,0.00,0.00,41.676933,-72.771333
+137,Connecticut,2017-18,South End Elementary,Public,Southington,Hartford,100.00,0.00,0.00,41.5700112,-72.8780953
+138,Connecticut,2017-18,South Side,Public,Bristol,Hartford,100.00,0.00,0.00,41.6611,-72.952001
+139,Connecticut,2017-18,South Street,Public,Danbury,Fairfield,100.00,0.00,0.00,41.387614,-73.443484
+140,Connecticut,2017-18,Southwest,Public,Torrington,Litchfield,100.00,0.00,0.00,41.795062,-73.126961
+141,Connecticut,2017-18,Spencer,Public,Middletown,Middlesex,100.00,0.00,0.00,41.563012,-72.677109
+142,Connecticut,2017-18,Sprague,Public,Waterbury,New Haven,100.00,0.00,0.00,41.586219,-73.050163
+143,Connecticut,2017-18,St. Raphael Academy,Nonpublic,Bridgeport,Fairfield,100.00,0.00,0.00,41.1862104,-73.2002085
+144,Connecticut,2017-18,Stadley Rough,Public,Danbury,Fairfield,100.00,0.00,0.00,41.432992,-73.428768
+145,Connecticut,2017-18,Strong 21St Century Communications Magnet And Scsu Lab,Public,New Haven,New Haven,100.00,0.00,0.00,41.3048618,-72.9430115
+146,Connecticut,2017-18,Sunnyside,Public,Shelton,Fairfield,100.00,0.00,0.00,41.291392,-73.074028
+147,Connecticut,2017-18,The Catholic Academy Of Stamford Lower,Nonpublic,Stamford,Fairfield,100.00,0.00,0.00,41.0923617,-73.5353752
+148,Connecticut,2017-18,The Foote,Nonpublic,New Haven,New Haven,100.00,0.00,0.00,41.32632,-72.920321
+149,Connecticut,2017-18,The Friendship,Public,Waterford,New London,100.00,0.00,0.00,41.341346,-72.132898
+150,Connecticut,2017-18,Thomas Hooker,Public,Meriden,New Haven,100.00,0.00,0.00,41.517406,-72.778937
+151,Connecticut,2017-18,Thomas W. Mahan,Public,Norwich,New London,100.00,0.00,0.00,41.510154,-72.112074
+152,Connecticut,2017-18,Truman,Public,New Haven,New Haven,100.00,0.00,0.00,41.29269,-72.941081
+153,Connecticut,2017-18,University Of Hartford Magnet,Public,West Hartford,Hartford,100.00,0.00,0.00,41.793517,-72.712915
+154,Connecticut,2017-18,Veterans Park Elementary,Public,Ridgefield,Fairfield,100.00,0.00,0.00,41.279649,-73.496309
+155,Connecticut,2017-18,Veterans' Memorial,Public,Norwich,New London,100.00,0.00,0.00,41.503829,-72.072244
+156,Connecticut,2017-18,Vogel-Wetmore,Public,Torrington,Litchfield,100.00,0.00,0.00,41.803637,-73.123044
+157,Connecticut,2017-18,Washington,Public,Manchester,Hartford,100.00,0.00,0.00,41.767042,-72.533712
+158,Connecticut,2017-18,Washington,Public,Waterbury,New Haven,100.00,0.00,0.00,41.543402,-73.033707
+159,Connecticut,2017-18,Washington,Public,West Haven,New Haven,100.00,0.00,0.00,41.268913,-72.946003
+160,Connecticut,2017-18,Webster Hill,Public,West Hartford,Hartford,100.00,0.00,0.00,41.743888,-72.741999
+161,Connecticut,2017-18,Webster Micro Society Magnet,Public,Hartford,Hartford,100.00,0.00,0.00,41.768599,-72.712201
+162,Connecticut,2017-18,Wequonnoc Magnet,Public,Norwich,New London,100.00,0.00,0.00,41.5691671,-72.0551847
+163,Connecticut,2017-18,West Bristol,Public,Bristol,Hartford,100.00,0.00,0.00,41.683651,-72.981531
+164,Connecticut,2017-18,West Woods,Public,Hamden,New Haven,100.00,0.00,0.00,41.43164,-72.926481
+165,Connecticut,2017-18,Western,Public,Naugatuck,New Haven,100.00,0.00,0.00,41.493256,-73.069617
+166,Connecticut,2017-18,Wilbur Cross Elementary,Public,Bridgeport,Fairfield,100.00,0.00,0.00,41.224616,-73.1953657
+167,Connecticut,2017-18,Windermere,Public,Ellington,Tolland,100.00,0.00,0.00,41.871667,-72.500208
+168,Connecticut,2017-18,Windham Center,Public,Windham,Windham,100.00,0.00,0.00,41.701677,-72.160845
+169,Connecticut,2017-18,Woodrow Wilson,Public,Waterbury,New Haven,100.00,0.00,0.00,41.556009,-73.020098
+170,Connecticut,2017-18,Worthington Hooker,Public,New Haven,New Haven,100.00,0.00,0.00,41.323747,-72.914095
+171,Connecticut,2017-18,Yeshiva Ateres Shmuel Of Waterbury,Nonpublic,Waterbury,New Haven,100.00,0.00,0.00,41.5627487,-73.0400382
+172,Connecticut,2017-18,John Trumbull Primary,Public,Watertown,Litchfield,99.47,0.00,0.53,41.606146,-73.092992
+173,Connecticut,2017-18,Hanover,Public,Meriden,New Haven,99.25,0.00,0.75,41.519138,-72.832497
+174,Connecticut,2017-18,Cesar Batalla,Public,Bridgeport,Fairfield,99.19,0.00,0.81,41.17006,-73.207779
+175,Connecticut,2017-18,Griswold Elementary,Public,Griswold,New London,99.16,0.84,0.00,41.595258,-71.978735
+176,Connecticut,2017-18,Strawberry Hill An Ext. Of Rogers International,Public,Stamford,Fairfield,99.13,0.00,0.87,41.067013,-73.534413
+177,Connecticut,2017-18,Enfield Street,Public,Enfield,Hartford,99.00,0.00,0.00,41.976085,-72.593584
+178,Connecticut,2017-18,Hart,Public,Stamford,Fairfield,98.97,0.00,0.00,41.05775,-73.547585
+179,Connecticut,2017-18,Holmes Elementary,Public,New Britain,Hartford,98.95,0.00,1.05,41.7036307,-72.7778945
+180,Connecticut,2017-18,Achievement First Bridgeport Academy,Public,Bridgeport,Fairfield,98.92,0.00,1.08,41.186149,-73.185247
+181,Connecticut,2017-18,Frenchtown Elementary,Public,Trumbull,Fairfield,98.89,0.00,1.11,41.231438,-73.209169
+182,Connecticut,2017-18,Newfield,Public,Stamford,Fairfield,98.89,0.00,0.00,41.091053,-73.539798
+183,Connecticut,2017-18,Prendergast,Public,Ansonia,New Haven,98.88,0.00,1.12,41.332451,-73.059288
+184,Connecticut,2017-18,Silvermine Elementary,Public,Norwalk,Fairfield,98.86,0.00,1.14,41.147463,-73.440613
+185,Connecticut,2017-18,Torringford,Public,Torrington,Litchfield,98.86,0.00,1.14,41.81907,-73.093591
+186,Connecticut,2017-18,Orchard Hill,Public,South Windsor,Hartford,98.85,0.00,1.15,41.827318,-72.52852
+187,Connecticut,2017-18,Lake Garda Elementary,Public,Burlington,Hartford,98.84,0.00,1.16,41.741234,-72.908675
+188,Connecticut,2017-18,Shepard Hill Elementary,Public,Plainfield,Windham,98.84,0.00,0.00,41.733798,-71.906622
+189,Connecticut,2017-18,Winthrop Stem Elementary Magnet,Public,New London,New London,98.81,0.00,1.19,41.368313,-72.099405
+190,Connecticut,2017-18,Marvin Elementary,Public,Norwalk,Fairfield,98.80,0.00,1.20,41.093766,-73.395412
+191,Connecticut,2017-18,Eli Whitney,Public,Stratford,Fairfield,98.77,0.00,1.23,41.222349,-73.134166
+192,Connecticut,2017-18,Frank J. Diloreto,Public,New Britain,Hartford,98.73,1.27,0.00,41.6869159,-72.8079636
+193,Connecticut,2017-18,Hayestown Avenue,Public,Danbury,Fairfield,98.73,0.00,1.27,41.415065,-73.452039
+194,Connecticut,2017-18,North Mianus,Public,Greenwich,Fairfield,98.72,0.00,1.28,41.0568425,-73.579325
+195,Connecticut,2017-18,Darcey,Public,Cheshire,New Haven,98.70,0.00,1.30,41.537905,-72.939
+196,Connecticut,2017-18,North Windham,Public,Windham,Windham,98.70,0.00,1.30,41.7409617,-72.1571196
+197,Connecticut,2017-18,Gales Ferry,Public,Ledyard,New London,98.67,0.00,1.33,41.4522631,-72.0698892
+198,Connecticut,2017-18,J. Milton Jeffrey Elementary,Public,Madison,New Haven,98.67,0.00,1.33,41.295009,-72.615936
+199,Connecticut,2017-18,Union,Public,Farmington,Hartford,98.67,0.00,1.33,41.7583493,-72.8905465
+200,Connecticut,2017-18,Seth G. Haley,Public,West Haven,New Haven,98.65,0.00,0.00,41.241899,-72.979205
+201,Connecticut,2017-18,West,Public,New Canaan,Fairfield,98.65,0.00,1.35,41.139272,-73.526123
+202,Connecticut,2017-18,Verplanck,Public,Manchester,Hartford,98.61,0.00,1.39,41.772784,-72.553799
+203,Connecticut,2017-18,Buttonball Lane,Public,Glastonbury,Hartford,98.59,0.00,1.41,41.68947,-72.597231
+204,Connecticut,2017-18,Henry Barnard,Public,Enfield,Hartford,98.57,0.00,0.00,42.004027,-72.563378
+205,Connecticut,2017-18,Fox Run Elementary,Public,Norwalk,Fairfield,98.55,0.00,1.45,41.1164,-73.453971
+206,Connecticut,2017-18,Thalberg Elementary,Public,Southington,Hartford,98.55,0.00,1.45,41.643786,-72.865619
+207,Connecticut,2017-18,Winthrop,Public,Bridgeport,Fairfield,98.53,0.00,1.47,41.2210549,-73.231909
+208,Connecticut,2017-18,Reggio Magnet School Of The Arts,Public,Avon,Hartford,98.51,0.00,1.49,41.80092,-72.820401
+209,Connecticut,2017-18,Ellen P. Hubbell,Public,Bristol,Hartford,98.48,0.00,1.52,41.678887,-72.908094
+210,Connecticut,2017-18,Vance Elementary,Public,New Britain,Hartford,98.48,0.00,0.00,41.654527,-72.792738
+211,Connecticut,2017-18,Claude Chester,Public,Groton,New London,98.46,0.00,0.00,41.347906,-72.027309
+212,Connecticut,2017-18,Cos Cob,Public,Greenwich,Fairfield,98.46,0.00,1.54,41.0397087,-73.5979632
+213,Connecticut,2017-18,Elm City Elementary College Prep,Public,New Haven,New Haven,98.46,0.00,1.54,41.313801,-72.9033373
+214,Connecticut,2017-18,Farm Hill,Public,Middletown,Middlesex,98.46,0.00,1.54,41.538453,-72.641287
+215,Connecticut,2017-18,Flanders Elementary,Public,Southington,Hartford,98.46,0.00,1.54,41.615628,-72.849686
+216,Connecticut,2017-18,North Stratfield,Public,Fairfield,Fairfield,98.46,0.00,1.54,41.206882,-73.249731
+217,Connecticut,2017-18,Helen Street,Public,Hamden,New Haven,98.44,1.56,0.00,41.349994,-72.943389
+218,Connecticut,2017-18,Highcrest,Public,Wethersfield,Hartford,98.44,0.00,1.56,41.679599,-72.683789
+219,Connecticut,2017-18,Alma E. Pagels,Public,West Haven,New Haven,98.41,0.00,1.59,41.242932,-72.98709
+220,Connecticut,2017-18,Joseph O. Goodwin,Public,East Hartford,Hartford,98.41,0.00,1.59,41.739291,-72.605982
+221,Connecticut,2017-18,Kendall Elementary,Public,Norwalk,Fairfield,98.41,0.00,1.59,41.11781,-73.433261
+222,Connecticut,2017-18,Lincoln-Bassett,Public,New Haven,New Haven,98.41,0.00,1.59,41.331011,-72.931128
+223,Connecticut,2017-18,Old Greenwich,Public,Greenwich,Fairfield,98.41,1.59,0.00,41.0295835,-73.5674784
+224,Connecticut,2017-18,Riverside,Public,Greenwich,Fairfield,98.41,0.00,1.59,41.0329635,-73.5797321
+225,Connecticut,2017-18,Clintonville Elementary,Public,North Haven,New Haven,98.39,0.00,1.61,41.390526,-72.831769
+226,Connecticut,2017-18,Hazardville Memorial,Public,Enfield,Hartford,98.37,0.00,1.63,41.99302,-72.539178
+227,Connecticut,2017-18,Coventry Grammar,Public,Coventry,Tolland,98.36,0.00,0.82,41.794951,-72.36771
+228,Connecticut,2017-18,Ellsworth Avenue,Public,Danbury,Fairfield,98.36,1.64,0.00,41.402901,-73.448698
+229,Connecticut,2017-18,Green Acres Elementary,Public,North Haven,New Haven,98.36,0.00,1.64,41.405764,-72.863906
+230,Connecticut,2017-18,Allgrove,Public,East Granby,Hartford,98.33,0.00,1.67,41.94357,-72.731218
+231,Connecticut,2017-18,Elizabeth Green,Public,Newington,Hartford,98.33,0.00,0.00,41.71322,-72.722287
+232,Connecticut,2017-18,Bowers,Public,Manchester,Hartford,98.31,0.00,1.69,41.788632,-72.510081
+233,Connecticut,2017-18,Global Communications Academy,Public,Hartford,Hartford,98.31,0.00,0.00,41.774828,-72.68196
+234,Connecticut,2017-18,Naramake Elementary,Public,Norwalk,Fairfield,98.28,0.00,1.72,41.120221,-73.390777
+235,Connecticut,2017-18,Noah Wallace,Public,Farmington,Hartford,98.28,0.00,1.72,41.720882,-72.828193
+236,Connecticut,2017-18,Quaker Farms,Public,Oxford,New Haven,98.28,0.00,0.86,41.425444,-73.142503
+237,Connecticut,2017-18,Robertson,Public,Manchester,Hartford,98.28,0.00,1.72,41.796945,-72.524606
+238,Connecticut,2017-18,Flanders,Public,East Lyme,New London,98.25,0.00,1.75,41.367425,-72.215412
+239,Connecticut,2017-18,Hebron Avenue,Public,Glastonbury,Hartford,98.25,1.75,0.00,41.718695,-72.55884
+240,Connecticut,2017-18,Stepney Elementary,Public,Monroe,Fairfield,98.25,0.00,0.00,41.318103,-73.253402
+241,Connecticut,2017-18,Tashua,Public,Trumbull,Fairfield,98.25,0.00,1.75,41.274809,-73.243044
+242,Connecticut,2017-18,East,Public,Torrington,Litchfield,98.21,0.00,1.79,41.807839,-73.089391
+243,Connecticut,2017-18,Ledyard Center,Public,Ledyard,New London,98.21,0.00,0.00,41.442008,-72.016309
+244,Connecticut,2017-18,Curiale,Public,Bridgeport,Fairfield,98.18,0.00,0.00,41.1760354,-73.2047375
+245,Connecticut,2017-18,Highland Park,Public,Manchester,Hartford,98.18,0.00,0.00,41.772809,-72.494579
+246,Connecticut,2017-18,Tracey,Public,Norwalk,Fairfield,98.18,0.00,1.82,41.124445,-73.41327
+247,Connecticut,2017-18,Wakelee,Public,Wolcott,New Haven,98.18,0.00,1.82,41.609736,-73.009971
+248,Connecticut,2017-18,Anna H. Rockwell,Public,Bethel,Fairfield,98.17,0.00,1.83,41.383013,-73.395034
+249,Connecticut,2017-18,Green's Farms,Public,Westport,Fairfield,98.15,0.00,1.85,41.137306,-73.324814
+250,Connecticut,2017-18,Hawley Elementary,Public,Newtown,Fairfield,98.15,0.00,1.85,41.414766,-73.302394
+251,Connecticut,2017-18,Mauro-Sheridan Magnet,Public,New Haven,New Haven,98.15,0.00,1.85,41.327406,-72.965725
+252,Connecticut,2017-18,Jerome Harrison,Public,North Branford,New Haven,98.13,0.93,0.93,41.32727,-72.811543
+253,Connecticut,2017-18,Mill Hill,Public,Fairfield,Fairfield,98.11,0.00,1.89,41.1451016,-73.282108
+254,Connecticut,2017-18,West District,Public,Farmington,Hartford,98.11,0.00,1.89,41.7631275,-72.7254152
+255,Connecticut,2017-18,Edgewood,Public,New Haven,New Haven,98.08,0.00,0.00,41.318076,-72.960692
+256,Connecticut,2017-18,Julian Curtiss,Public,Greenwich,Fairfield,98.08,0.00,1.92,41.031904,-73.619132
+257,Connecticut,2017-18,Stafford,Public,Bristol,Hartford,98.08,1.92,0.00,41.688515,-72.917488
+258,Connecticut,2017-18,Wendell L. Cross,Public,Waterbury,New Haven,98.08,1.92,0.00,41.533403,-73.01214
+259,Connecticut,2017-18,Oliver Ellsworth,Public,Windsor,Hartford,98.06,0.97,0.97,41.882693,-72.639032
+260,Connecticut,2017-18,King/Robinson Magnet,Public,New Haven,New Haven,98.04,0.00,1.96,41.333863,-72.940094
+261,Connecticut,2017-18,Roberto Clemente Leadership Academy For Global Awareness,Public,New Haven,New Haven,98.04,0.00,0.00,41.297562,-72.935355
+262,Connecticut,2017-18,Island Avenue Elementary,Public,Madison,New Haven,98.00,0.00,2.00,41.275995,-72.601683
+263,Connecticut,2017-18,Mohegan,Public,Montville,New London,98.00,0.00,2.00,41.3788405,-72.104025
+264,Connecticut,2017-18,Norfeldt,Public,West Hartford,Hartford,98.00,0.00,2.00,41.794465,-72.763704
+265,Connecticut,2017-18,Chapman,Public,Cheshire,New Haven,97.96,0.00,2.04,41.520138,-72.896487
+266,Connecticut,2017-18,Grove J. Tuttle,Public,East Haven,New Haven,97.96,0.00,2.04,41.273408,-72.873599
+267,Connecticut,2017-18,Horace W. Porter,Public,Columbia,Tolland,97.96,0.00,2.04,41.704471,-72.301287
+268,Connecticut,2017-18,Silver Lane,Public,East Hartford,Hartford,97.96,0.00,0.00,41.76056,-72.635049
+269,Connecticut,2017-18,Waltersville,Public,Bridgeport,Fairfield,97.96,0.00,0.00,41.18217,-73.175991
+270,Connecticut,2017-18,Geraldine Claytor Magnet Academy,Public,Bridgeport,Fairfield,97.92,0.00,2.08,41.162461,-73.217724
+271,Connecticut,2017-18,Great Neck Elementary,Public,Waterford,New London,97.92,0.00,2.08,41.313305,-72.133585
+272,Connecticut,2017-18,Smith,Public,West Hartford,Hartford,97.92,0.00,0.00,41.751822,-72.724525
+273,Connecticut,2017-18,Lincoln Elementary,Public,New Britain,Hartford,97.89,0.00,2.11,41.65924,-72.80485
+274,Connecticut,2017-18,Somers Elementary,Public,Somers,Tolland,97.89,0.00,2.11,41.977048,-72.461775
+275,Connecticut,2017-18,Stillmeadow,Public,Stamford,Fairfield,97.89,0.00,2.11,41.069324,-73.559022
+276,Connecticut,2017-18,Gallup Hill,Public,Ledyard,New London,97.87,0.00,0.00,41.427884,-71.975562
+277,Connecticut,2017-18,Montowese Elementary,Public,North Haven,New Haven,97.87,2.13,0.00,41.355629,-72.850762
+278,Connecticut,2017-18,Rowayton,Public,Norwalk,Fairfield,97.85,0.00,2.15,41.06668,-73.438023
+279,Connecticut,2017-18,Charles Wright,Public,Wethersfield,Hartford,97.83,0.00,2.17,41.717305,-72.668589
+280,Connecticut,2017-18,Guilford Lakes,Public,Guilford,New Haven,97.83,2.17,0.00,41.328187,-72.688645
+281,Connecticut,2017-18,Sand,Public,Hartford,Hartford,97.83,0.00,2.17,41.778935,-72.675819
+282,Connecticut,2017-18,Shepherd Glen,Public,Hamden,New Haven,97.83,2.17,0.00,41.379,-72.921472
+283,Connecticut,2017-18,Snow,Public,Middletown,Middlesex,97.83,0.00,2.17,41.540645,-72.6724
+284,Connecticut,2017-18,Urbin T. Kelley,Public,Southington,Hartford,97.83,0.00,2.17,41.608652,-72.893981
+285,Connecticut,2017-18,Middlebrook,Public,Trumbull,Fairfield,97.80,1.10,1.10,41.249397,-73.211102
+286,Connecticut,2017-18,Anna E. Norris,Public,East Hartford,Hartford,97.78,0.00,0.00,41.785283,-72.630171
+287,Connecticut,2017-18,Beardsley,Public,Bridgeport,Fairfield,97.78,0.00,2.22,41.199656,-73.181716
+288,Connecticut,2017-18,Myrtle H. Stevens,Public,Rocky Hill,Hartford,97.75,0.00,1.12,41.669024,-72.656173
+289,Connecticut,2017-18,Rotella Interdistrict Magnet,Public,Waterbury,New Haven,97.75,1.12,1.12,41.548876,-72.969761
+290,Connecticut,2017-18,Haddam Elementary,Public,Haddam,Middlesex,97.73,0.00,2.27,41.4981194,-72.5611039
+291,Connecticut,2017-18,Highland,Public,Cheshire,New Haven,97.73,0.00,2.27,41.510723,-72.895656
+292,Connecticut,2017-18,Keeney,Public,Manchester,Hartford,97.73,2.27,0.00,41.75665,-72.538655
+293,Connecticut,2017-18,Natchaug,Public,Windham,Windham,97.73,0.00,0.00,41.7137729,-72.2066669
+294,Connecticut,2017-18,Shelter Rock,Public,Danbury,Fairfield,97.73,0.00,0.00,41.39309,-73.418211
+295,Connecticut,2017-18,Smith Elementary,Public,New Britain,Hartford,97.73,0.00,1.14,41.660506,-72.758161
+296,Connecticut,2017-18,Tootin' Hills,Public,Simsbury,Hartford,97.73,0.00,2.27,41.8600696,-72.8615174
+297,Connecticut,2017-18,Whiting Lane,Public,West Hartford,Hartford,97.73,0.00,2.27,41.763169,-72.725054
+298,Connecticut,2017-18,Cranbury Elementary,Public,Norwalk,Fairfield,97.70,0.00,2.30,41.157156,-73.402215
+299,Connecticut,2017-18,Deans Mill,Public,Stonington,New London,97.67,0.00,2.33,41.362049,-71.925008
+300,Connecticut,2017-18,Miller-Driscoll,Public,Wilton,Fairfield,97.67,0.00,2.33,41.176114,-73.435248
+301,Connecticut,2017-18,North Elementary,Public,North Canaan,Litchfield,97.67,0.00,0.00,42.0325924,-73.3323389
+302,Connecticut,2017-18,West Middle,Public,Hartford,Hartford,97.67,0.00,0.00,41.770102,-72.696458
+303,Connecticut,2017-18,Mary Morrisson,Public,Groton,New London,97.65,0.00,2.35,41.374001,-72.066451
+304,Connecticut,2017-18,Poquonock Elementary,Public,Windsor,Hartford,97.65,0.00,2.35,41.9043,-72.677727
+305,Connecticut,2017-18,Alcott,Public,Wolcott,New Haven,97.62,0.00,2.38,41.62429,-72.958797
+306,Connecticut,2017-18,Dr. Charles E. Murphy,Public,Montville,New London,97.62,0.00,2.38,41.446954,-72.196311
+307,Connecticut,2017-18,Hallen,Public,Bridgeport,Fairfield,97.62,0.00,2.38,41.217345,-73.191062
+308,Connecticut,2017-18,Hill Central Music Academy,Public,New Haven,New Haven,97.62,0.00,0.00,41.29519,-72.936271
+309,Connecticut,2017-18,Maple Hill,Public,Naugatuck,New Haven,97.62,0.00,2.38,41.488957,-73.017639
+310,Connecticut,2017-18,Montessori Magnet,Public,Hartford,Hartford,97.62,0.00,2.38,41.749257,-72.686535
+311,Connecticut,2017-18,Davenport Ridge,Public,Stamford,Fairfield,97.59,0.00,0.00,41.104155,-73.533001
+312,Connecticut,2017-18,King Street Primary,Public,Danbury,Fairfield,97.56,0.81,1.63,41.425248,-73.500746
+313,Connecticut,2017-18,Duffy,Public,West Hartford,Hartford,97.53,0.00,2.47,41.747304,-72.752263
+314,Connecticut,2017-18,Regional Multicultural Magnet,Public,New London,New London,97.53,0.00,1.23,41.358761,-72.099807
+315,Connecticut,2017-18,Stratford Academy - Victoria Soto,Public,Stratford,Fairfield,97.47,0.00,2.53,41.178778,-73.137898
+316,Connecticut,2017-18,Highville Charter,Public,New Haven,New Haven,97.44,0.00,2.56,41.323444,-72.92617
+317,Connecticut,2017-18,Pumpkin Delight,Public,Milford,New Haven,97.44,0.00,2.56,41.20432,-73.077499
+318,Connecticut,2017-18,Birch Grove Primary,Public,Tolland,Tolland,97.42,0.00,2.58,41.861042,-72.333836
+319,Connecticut,2017-18,Barnum,Public,Bridgeport,Fairfield,97.40,0.00,0.00,41.188922,-73.184869
+320,Connecticut,2017-18,Buckley,Public,Manchester,Hartford,97.40,0.00,0.00,41.79318,-72.493572
+321,Connecticut,2017-18,Bakerville Consolidated,Public,New Hartford,Litchfield,97.37,0.00,2.63,41.833476,-73.035377
+322,Connecticut,2017-18,Deer Run,Public,East Haven,New Haven,97.37,1.32,1.32,41.326685,-72.835491
+323,Connecticut,2017-18,Great Plain,Public,Danbury,Fairfield,97.37,0.00,2.63,41.420658,-73.434237
+324,Connecticut,2017-18,Jennings,Public,Fairfield,Fairfield,97.37,0.00,2.63,41.187732,-73.246455
+325,Connecticut,2017-18,Luis Munoz Marin,Public,Bridgeport,Fairfield,97.33,0.00,0.00,41.193167,-73.175153
+326,Connecticut,2017-18,Dwight Elementary,Public,Fairfield,Fairfield,97.30,0.00,2.70,41.182863,-73.302996
+327,Connecticut,2017-18,Franklin,Public,Stratford,Fairfield,97.30,0.00,2.70,41.193032,-73.145727
+328,Connecticut,2017-18,Lisbon Central,Public,Lisbon,New London,97.30,0.00,2.70,41.604339,-72.01544
+329,Connecticut,2017-18,M. D. Fox,Public,Hartford,Hartford,97.30,0.00,0.00,41.746413,-72.680539
+330,Connecticut,2017-18,Toquam Magnet,Public,Stamford,Fairfield,97.30,0.00,0.90,41.080151,-73.523971
+331,Connecticut,2017-18,Waterside,Nonpublic,Stamford,Fairfield,97.30,2.70,0.00,41.04061,-73.538406
+332,Connecticut,2017-18,Wesley,Public,Middletown,Middlesex,97.30,0.00,0.00,41.525145,-72.668344
+333,Connecticut,2017-18,Pine Grove,Public,Avon,Hartford,97.27,0.00,2.73,41.774945,-72.854888
+334,Connecticut,2017-18,Center,Public,Willington,Tolland,97.22,0.00,2.78,41.8731622,-72.2628452
+335,Connecticut,2017-18,Frank T. Wheeler,Public,Plainville,Hartford,97.22,0.00,2.78,41.685104,-72.851817
+336,Connecticut,2017-18,Greenwich Country Day,Nonpublic,Greenwich,Fairfield,97.22,0.00,2.78,41.04927,-73.614551
+337,Connecticut,2017-18,Northend Elementary,Public,New Britain,Hartford,97.22,0.00,2.78,41.656417,-72.779433
+338,Connecticut,2017-18,Edith E. Mackrille,Public,West Haven,New Haven,97.18,1.41,1.41,41.259355,-72.967704
+339,Connecticut,2017-18,Tokeneke Elementary,Public,Darien,Fairfield,97.18,0.00,2.82,41.072987,-73.458319
+340,Connecticut,2017-18,Cherry Brook Primary,Public,Canton,Hartford,97.17,0.00,1.89,41.859849,-72.91507
+341,Connecticut,2017-18,Conte/West Hills Magnet,Public,New Haven,New Haven,97.14,0.00,1.43,41.304682,-72.915001
+342,Connecticut,2017-18,Essex Elementary,Public,Essex,Middlesex,97.14,0.00,0.00,41.348111,-72.4420033
+343,Connecticut,2017-18,Osborn Hill,Public,Fairfield,Fairfield,97.14,0.00,2.86,41.177239,-73.256651
+344,Connecticut,2017-18,Strong Elementary,Public,Southington,Hartford,97.14,0.00,2.86,41.572451,-72.918599
+345,Connecticut,2017-18,Tariffville,Public,Simsbury,Hartford,97.14,0.00,0.00,41.9104274,-72.7679915
+346,Connecticut,2017-18,Northeast Academy Elementary,Public,Groton,New London,97.10,0.00,2.90,41.3826832,-71.9850915
+347,Connecticut,2017-18,Margaret M. Generali Elementary,Public,Waterbury,New Haven,97.09,0.00,2.91,41.54587,-72.98201
+348,Connecticut,2017-18,Barkhamsted Elementary,Public,Barkhamsted,Litchfield,97.06,0.00,2.94,41.911421,-72.990151
+349,Connecticut,2017-18,Julia A. Stark,Public,Stamford,Fairfield,97.06,0.98,0.98,41.067629,-73.522722
+350,Connecticut,2017-18,Scotland Elementary,Public,Ridgefield,Fairfield,97.06,0.98,0.98,41.321604,-73.512099
+351,Connecticut,2017-18,Dr. Thomas S. O'Connell,Public,East Hartford,Hartford,97.00,1.00,2.00,41.735365,-72.592216
+352,Connecticut,2017-18,Burr District Elementary,Public,Haddam,Middlesex,96.97,0.00,3.03,41.4440278,-72.5540337
+353,Connecticut,2017-18,Niantic Center,Public,East Lyme,New London,96.97,0.00,3.03,41.3229554,-72.2034296
+354,Connecticut,2017-18,Philip R. Smith,Public,South Windsor,Hartford,96.97,0.00,3.03,41.84108,-72.513443
+355,Connecticut,2017-18,Salem Elementary,Public,Salem,New London,96.97,3.03,0.00,41.487545,-72.273702
+356,Connecticut,2017-18,Putnam Elementary,Public,Putnam,Windham,96.91,2.06,0.00,41.92487,-71.922543
+357,Connecticut,2017-18,Corpus Christi,Nonpublic,Wethersfield,Hartford,96.88,3.13,0.00,41.709026,-72.663666
+358,Connecticut,2017-18,Spring Glen,Public,Hamden,New Haven,96.88,0.00,1.56,41.368842,-72.908116
+359,Connecticut,2017-18,Squadron Line,Public,Simsbury,Hartford,96.88,0.00,3.13,41.901245,-72.805432
+360,Connecticut,2017-18,Northville Elementary,Public,New Milford,Litchfield,96.85,0.79,0.79,41.618504,-73.394185
+361,Connecticut,2017-18,Prospect Elementary,Public,Prospect,New Haven,96.84,0.00,3.16,41.49175,-72.971841
+362,Connecticut,2017-18,Bugbee,Public,West Hartford,Hartford,96.83,0.00,3.17,41.777842,-72.7536
+363,Connecticut,2017-18,Chester Elementary,Public,Chester,Middlesex,96.77,0.00,3.23,41.403111,-72.457751
+364,Connecticut,2017-18,Dr. Franklin H. Mayberry,Public,East Hartford,Hartford,96.77,0.00,1.61,41.775577,-72.595015
+365,Connecticut,2017-18,Evarts C. Stevens,Public,Wallingford,New Haven,96.77,0.00,3.23,41.4337,-72.816874
+366,Connecticut,2017-18,Lake Street,Public,Vernon,Tolland,96.77,0.00,3.23,41.810892,-72.470292
+367,Connecticut,2017-18,Latimer Lane,Public,Simsbury,Hartford,96.72,0.00,3.28,41.8409209,-72.8235375
+368,Connecticut,2017-18,Robert J. O'Brien,Public,East Hartford,Hartford,96.72,1.64,0.00,41.794031,-72.610022
+369,Connecticut,2017-18,Stratfield,Public,Fairfield,Fairfield,96.72,1.64,0.00,41.195099,-73.237226
+370,Connecticut,2017-18,Waddell,Public,Manchester,Hartford,96.72,0.00,1.64,41.76603,-72.519311
+371,Connecticut,2017-18,West Vine Street,Public,Stonington,New London,96.72,0.00,3.28,41.3862789,-71.8419515
+372,Connecticut,2017-18,Broad Brook Elementary,Public,East Windsor,Hartford,96.70,0.00,3.30,41.910867,-72.5464
+373,Connecticut,2017-18,Bear Path,Public,Hamden,New Haven,96.67,1.67,1.67,41.389277,-72.927411
+374,Connecticut,2017-18,Emma Hart Willard,Public,Berlin,Hartford,96.67,1.67,1.67,41.616174,-72.755899
+375,Connecticut,2017-18,Hamilton Avenue,Public,Greenwich,Fairfield,96.67,0.00,3.33,41.01821,-73.640431
+376,Connecticut,2017-18,Center Elementary,Public,Brookfield,Fairfield,96.64,0.67,2.68,41.467493,-73.386179
+377,Connecticut,2017-18,John B. Stanton Network,Public,Norwich,New London,96.61,1.69,1.69,41.5225324,-72.1020755
+378,Connecticut,2017-18,West Hill,Public,Rocky Hill,Hartford,96.61,1.69,1.69,41.662825,-72.682205
+379,Connecticut,2017-18,East Haddam Elementary,Public,East Haddam,Middlesex,96.59,0.00,3.41,41.500559,-72.439594
+380,Connecticut,2017-18,Environmental Sciences Magnet At Hooker,Public,Hartford,Hartford,96.55,0.00,3.45,41.74154,-72.702611
+381,Connecticut,2017-18,Gilmartin,Public,Waterbury,New Haven,96.55,0.00,3.45,41.524787,-73.029416
+382,Connecticut,2017-18,Jefferson Elementary,Public,New Britain,Hartford,96.55,0.00,3.45,41.695878,-72.799736
+383,Connecticut,2017-18,Kathleen E. Goodwin,Public,Old Saybrook,Middlesex,96.55,0.00,3.45,41.286093,-72.381555
+384,Connecticut,2017-18,Skinner Road,Public,Vernon,Tolland,96.55,0.00,3.45,41.855933,-72.491466
+385,Connecticut,2017-18,Forest,Public,West Haven,New Haven,96.51,0.00,0.00,41.299056,-72.969126
+386,Connecticut,2017-18,Burr Elementary,Public,Fairfield,Fairfield,96.49,0.00,3.51,41.198071,-73.286845
+387,Connecticut,2017-18,Lebanon Elementary,Public,Lebanon,New London,96.49,0.00,3.51,41.639942,-72.20509
+388,Connecticut,2017-18,Naubuc,Public,Glastonbury,Hartford,96.49,1.75,1.75,41.721855,-72.611066
+389,Connecticut,2017-18,Wolcott,Public,West Hartford,Hartford,96.49,0.00,0.00,41.725061,-72.749457
+390,Connecticut,2017-18,Westover,Public,Stamford,Fairfield,96.40,0.90,2.70,41.056207,-73.560176
+391,Connecticut,2017-18,Edna C. Stevens,Public,Cromwell,Middlesex,96.38,0.72,2.90,41.619619,-72.658497
+392,Connecticut,2017-18,C.B. Jennings Dual Language & International Elementary Magnet,Public,New London,New London,96.36,0.00,1.82,41.3568631,-72.1049645
+393,Connecticut,2017-18,North Stonington Elementary,Public,North Stonington,New London,96.36,0.00,3.64,41.439783,-71.889141
+394,Connecticut,2017-18,Nathan Hale Arts Magnet,Public,New London,New London,96.34,0.00,3.66,41.32214,-72.099291
+395,Connecticut,2017-18,Pleasant Valley,Public,South Windsor,Hartford,96.34,0.00,3.66,41.810672,-72.596168
+396,Connecticut,2017-18,All Saints Catholic,Nonpublic,Norwalk,Fairfield,96.30,0.00,3.70,41.1375965,-73.4170641
+397,Connecticut,2017-18,Farmingville Elementary,Public,Ridgefield,Fairfield,96.30,0.00,3.70,41.293533,-73.466287
+398,Connecticut,2017-18,Frank A. Berry,Public,Bethel,Fairfield,96.30,0.93,2.78,41.379444,-73.396234
+399,Connecticut,2017-18,Maloney Interdistrict Magnet,Public,Waterbury,New Haven,96.25,0.00,3.75,41.550134,-73.037664
+400,Connecticut,2017-18,Wilcoxson,Public,Stratford,Fairfield,96.23,0.00,3.77,41.20788,-73.122339
+401,Connecticut,2017-18,Maple Street,Public,Vernon,Tolland,96.15,0.00,3.85,41.867783,-72.4623425
+402,Connecticut,2017-18,South,Public,New Canaan,Fairfield,96.15,0.00,3.85,41.13164,-73.49096
+403,Connecticut,2017-18,Kennelly,Public,Hartford,Hartford,96.08,0.00,1.96,41.735122,-72.695059
+404,Connecticut,2017-18,Holmes Elementary,Public,Darien,Fairfield,96.05,1.32,2.63,41.079158,-73.512535
+405,Connecticut,2017-18,Mary T. Murphy,Public,Branford,New Haven,96.05,2.63,0.00,41.294074,-72.820578
+406,Connecticut,2017-18,Highland,Public,Wallingford,New Haven,96.04,0.00,3.96,41.488027,-72.83974
+407,Connecticut,2017-18,Killingworth Elementary,Public,Haddam,Middlesex,96.00,2.00,2.00,41.3712726,-72.5658133
+408,Connecticut,2017-18,Brooklyn Elementary,Public,Brooklyn,Windham,95.95,1.35,2.70,41.784048,-71.937784
+409,Connecticut,2017-18,Chamberlain Elementary,Public,New Britain,Hartford,95.95,0.00,1.35,41.672952,-72.760243
+410,Connecticut,2017-18,Elams/Montessori Magnet At Moylan,Public,Hartford,Hartford,95.93,0.81,0.81,41.7456012,-72.6989092
+411,Connecticut,2017-18,B. W. Tinker,Public,Waterbury,New Haven,95.92,0.00,0.00,41.536148,-73.051386
+412,Connecticut,2017-18,East,Public,New Canaan,Fairfield,95.92,0.00,4.08,41.147846,-73.479679
+413,Connecticut,2017-18,Head O'Meadow Elementary,Public,Newtown,Fairfield,95.92,0.00,2.04,41.38312,-73.315192
+414,Connecticut,2017-18,Barnard Environmental Magnet,Public,New Haven,New Haven,95.83,0.00,0.00,41.309847,-72.95245
+415,Connecticut,2017-18,J. F. Kennedy,Public,Milford,New Haven,95.83,0.00,4.17,41.216338,-73.088892
+416,Connecticut,2017-18,Jane Ryan,Public,Trumbull,Fairfield,95.83,0.00,2.08,41.254643,-73.22769
+417,Connecticut,2017-18,Uncas Network,Public,Norwich,New London,95.83,0.00,2.08,41.510778,-72.093941
+418,Connecticut,2017-18,Batcheller Early Education Center,Public,Winchester,Litchfield,95.77,0.00,0.00,41.9092909,-73.0756825
+419,Connecticut,2017-18,Roaring Brook,Public,Avon,Hartford,95.77,0.00,4.23,41.792698,-72.889855
+420,Connecticut,2017-18,Sandy Hook Elementary,Public,Newtown,Fairfield,95.77,1.41,2.82,41.419961,-73.2773997
+421,Connecticut,2017-18,Middlebury Elementary,Public,Middlebury,New Haven,95.74,0.00,4.26,41.528533,-73.100651
+422,Connecticut,2017-18,Saugatuck Elementary,Public,Westport,Fairfield,95.71,0.00,2.86,41.134337,-73.365607
+423,Connecticut,2017-18,Asian Studies Academy At Bellizzi,Public,Hartford,Hartford,95.65,0.00,1.45,41.73386,-72.680281
+424,Connecticut,2017-18,Carrington,Public,Waterbury,New Haven,95.65,0.00,0.00,41.572066,-73.083361
+425,Connecticut,2017-18,Hindley Elementary,Public,Darien,Fairfield,95.65,1.45,2.90,41.059151,-73.48829
+426,Connecticut,2017-18,Mohegan,Public,Shelton,Fairfield,95.65,0.00,4.35,41.30431,-73.16987
+427,Connecticut,2017-18,Salem,Public,Naugatuck,New Haven,95.65,0.00,4.35,41.490742,-73.057105
+428,Connecticut,2017-18,Geraldine Johnson,Public,Bridgeport,Fairfield,95.60,0.00,1.10,41.184616,-73.203885
+429,Connecticut,2017-18,Orange Avenue,Public,Milford,New Haven,95.59,0.00,4.41,41.238611,-73.050317
+430,Connecticut,2017-18,Oswegatchie Elementary,Public,Waterford,New London,95.56,4.44,0.00,41.360054,-72.178852
+431,Connecticut,2017-18,Preston Veterans' Memorial,Public,Preston,New London,95.56,0.00,4.44,41.529768,-71.98434
+432,Connecticut,2017-18,Valley View,Public,Portland,Middlesex,95.51,0.00,4.49,41.577876,-72.625444
+433,Connecticut,2017-18,Columbus Magnet,Public,Norwalk,Fairfield,95.45,0.00,4.55,41.093717,-73.42084
+434,Connecticut,2017-18,North Street,Public,Greenwich,Fairfield,95.45,0.00,3.03,41.057966,-73.618953
+435,Connecticut,2017-18,Plymouth Center,Public,Plymouth,Litchfield,95.45,2.27,2.27,41.679704,-73.053893
+436,Connecticut,2017-18,Bethlehem Elementary,Public,Bethlehem,Litchfield,95.35,0.00,4.65,41.639157,-73.199708
+437,Connecticut,2017-18,Western Ct Academy Of International Studies Elementary Magnet,Public,Danbury,Fairfield,95.31,0.00,4.69,41.403826,-73.492861
+438,Connecticut,2017-18,Derynoski Elementary,Public,Southington,Hartford,95.29,1.18,3.53,41.596388,-72.878256
+439,Connecticut,2017-18,Long Lots,Public,Westport,Fairfield,95.29,0.00,1.18,41.142967,-73.316736
+440,Connecticut,2017-18,Hill And Plain,Public,New Milford,Litchfield,95.28,1.89,1.89,41.534967,-73.430907
+441,Connecticut,2017-18,Center,Public,Litchfield,Litchfield,95.24,0.00,4.76,41.746063,-73.194866
+442,Connecticut,2017-18,Fawn Hollow Elementary,Public,Monroe,Fairfield,95.24,1.19,3.57,41.345921,-73.23122
+443,Connecticut,2017-18,Royle Elementary,Public,Darien,Fairfield,95.24,0.00,4.76,41.086632,-73.474425
+444,Connecticut,2017-18,Wintergreen Interdistrict Magnet,Public,Hamden,New Haven,95.16,0.00,3.23,41.356353,-72.961542
+445,Connecticut,2017-18,Greenwich Catholic,Nonpublic,Greenwich,Fairfield,95.12,0.00,4.88,41.069593,-73.625064
+446,Connecticut,2017-18,W. B. Sweeney,Public,Windham,Windham,95.12,0.00,4.88,41.725713,-72.228712
+447,Connecticut,2017-18,Beecher Road,Public,Woodbridge,New Haven,95.10,0.00,4.90,41.335891,-73.009853
+448,Connecticut,2017-18,Mary R. Tisko,Public,Branford,New Haven,95.08,0.00,3.28,41.28427,-72.788881
+449,Connecticut,2017-18,Ana Grace Academy Of The Arts Elementary,Public,Avon,Hartford,95.00,0.00,5.00,41.809943,-72.835779
+450,Connecticut,2017-18,Ruth Chaffee,Public,Newington,Hartford,95.00,0.00,5.00,41.683083,-72.715723
+451,Connecticut,2017-18,Wexler Grant Community,Public,New Haven,New Haven,95.00,0.00,0.00,41.319175,-72.931017
+452,Connecticut,2017-18,Kelly Lane Primary,Public,Granby,Hartford,94.96,0.84,0.00,41.968139,-72.810351
+453,Connecticut,2017-18,Moosup Elementary,Public,Plainfield,Windham,94.94,0.00,5.06,41.716414,-71.880567
+454,Connecticut,2017-18,Black Rock,Public,Thomaston,Litchfield,94.92,3.39,1.69,41.656929,-73.09184
+455,Connecticut,2017-18,Bunker Hill,Public,Waterbury,New Haven,94.81,0.00,1.30,41.567793,-73.062507
+456,Connecticut,2017-18,Annie Fisher Elementary,Public,Hartford,Hartford,94.74,0.00,0.00,41.7920867,-72.7077156
+457,Connecticut,2017-18,Stem Magnet At Fisher,Public,Hartford,Hartford,94.74,0.00,0.00,41.792022,-72.70731
+458,Connecticut,2017-18,Mathewson,Public,Milford,New Haven,94.64,0.00,5.36,41.239231,-73.062341
+459,Connecticut,2017-18,Mitchell Elementary,Public,Woodbury,Litchfield,94.64,0.00,5.36,41.54852,-73.209112
+460,Connecticut,2017-18,Springdale,Public,Stamford,Fairfield,94.59,2.70,2.70,41.097094,-73.519256
+461,Connecticut,2017-18,Rogers International,Public,Stamford,Fairfield,94.57,0.00,5.43,41.052702,-73.513688
+462,Connecticut,2017-18,Oakdale,Public,Montville,New London,94.44,1.85,3.70,41.470986,-72.191704
+463,Connecticut,2017-18,Staffordville,Public,Stafford,Tolland,94.34,0.00,5.66,41.995571,-72.2583245
+464,Connecticut,2017-18,Memorial,Public,East Hampton,Middlesex,94.33,2.13,1.42,41.570618,-72.486061
+465,Connecticut,2017-18,Gilead Hill,Public,Hebron,Tolland,94.32,0.00,5.68,41.676654,-72.409483
+466,Connecticut,2017-18,John Lyman,Public,Middlefield,Middlesex,94.29,2.86,2.86,41.518298,-72.725264
+467,Connecticut,2017-18,Ridge Hill,Public,Hamden,New Haven,94.29,5.71,0.00,41.34681,-72.896536
+468,Connecticut,2017-18,Harwinton Consolidated,Public,Harwinton,Litchfield,94.12,1.47,4.41,41.7687687,-73.0711309
+469,Connecticut,2017-18,Laurel Elementary,Public,Bloomfield,Hartford,94.06,0.00,0.00,41.8377046,-72.7233264
+470,Connecticut,2017-18,Booth Hill,Public,Trumbull,Fairfield,94.03,0.00,5.97,41.261012,-73.171494
+471,Connecticut,2017-18,Pomperaug,Public,Southbury,New Haven,94.00,0.00,6.00,41.466302,-73.227212
+472,Connecticut,2017-18,Moriarty Magnet,Public,Norwich,New London,93.94,3.03,0.00,41.57267,-72.066066
+473,Connecticut,2017-18,Bolton Center,Public,Bolton,Tolland,93.88,0.00,6.12,41.775574,-72.440903
+474,Connecticut,2017-18,Mary R. Fisher Elementary,Public,Thompson,Windham,93.88,1.02,3.06,41.9756777,-71.8984636
+475,Connecticut,2017-18,Monroe Elementary,Public,Monroe,Fairfield,93.88,0.00,6.12,41.309366,-73.222304
+476,Connecticut,2017-18,Thompson Middle,Public,Thompson,Windham,93.88,1.02,3.06,41.9764536,-71.8985515
+477,Connecticut,2017-18,Middle Gate Elementary,Public,Newtown,Fairfield,93.85,0.00,3.08,41.366675,-73.273881
+478,Connecticut,2017-18,F. J. Kingsbury,Public,Waterbury,New Haven,93.83,0.00,2.47,41.571984,-73.045109
+479,Connecticut,2017-18,Northeast,Public,Stamford,Fairfield,93.81,0.88,5.31,41.122632,-73.546896
+480,Connecticut,2017-18,Coleytown Elementary,Public,Westport,Fairfield,93.75,0.00,6.25,41.176097,-73.348996
+481,Connecticut,2017-18,Hurlbutt Elementary,Public,Weston,Fairfield,93.69,1.80,4.50,41.203768,-73.379839
+482,Connecticut,2017-18,Charles H. Barrows Stem Academy,Public,Windham,Windham,93.65,0.00,6.35,41.71831,-72.1759852
+483,Connecticut,2017-18,Center Road,Public,Vernon,Tolland,93.59,1.28,5.13,41.840225,-72.46677
+484,Connecticut,2017-18,Hatton Elementary,Public,Southington,Hartford,93.44,0.00,6.56,41.600531,-72.854922
+485,Connecticut,2017-18,King's Highway Elementary,Public,Westport,Fairfield,93.44,0.00,3.28,41.136439,-73.367696
+486,Connecticut,2017-18,Kinsella Magnet School Of Performing Arts,Public,Hartford,Hartford,93.33,0.00,0.00,41.754901,-72.665437
+487,Connecticut,2017-18,Roosevelt,Public,Bridgeport,Fairfield,93.33,0.00,0.00,41.17151,-73.194623
+488,Connecticut,2017-18,Aiken,Public,West Hartford,Hartford,93.22,0.00,5.08,41.800753,-72.744788
+489,Connecticut,2017-18,Salisbury Central,Public,Salisbury,Litchfield,93.18,0.00,6.82,41.9706586,-73.43656
+490,Connecticut,2017-18,Brookside Elementary,Public,Norwalk,Fairfield,93.06,0.00,6.94,41.090286,-73.435443
+491,Connecticut,2017-18,Colchester Elementary,Public,Colchester,New London,92.90,1.29,5.81,41.57403,-72.318406
+492,Connecticut,2017-18,Daniels Farm,Public,Trumbull,Fairfield,92.86,1.43,4.29,41.269758,-73.199068
+493,Connecticut,2017-18,Booker T. Washington Academy,Public,New Haven,New Haven,92.75,0.00,1.45,41.31255,-72.915031
+494,Connecticut,2017-18,Brennan Rogers,Public,New Haven,New Haven,92.73,0.00,0.00,41.343968,-72.958559
+495,Connecticut,2017-18,Columbus,Public,Bridgeport,Fairfield,92.73,0.00,0.00,41.185719,-73.197283
+496,Connecticut,2017-18,Wolfpit,Public,Norwalk,Fairfield,92.73,0.00,7.27,41.136571,-73.38954
+497,Connecticut,2017-18,Orchard Hills,Public,Milford,New Haven,92.68,2.44,4.88,41.220413,-73.023733
+498,Connecticut,2017-18,Hopeville,Public,Waterbury,New Haven,92.63,0.00,1.05,41.534389,-73.033354
+499,Connecticut,2017-18,A. W. Cox,Public,Guilford,New Haven,92.50,2.50,5.00,41.985115,-72.696925
+500,Connecticut,2017-18,Harbor,Public,New London,New London,92.50,5.00,2.50,41.33506,-72.101621
+501,Connecticut,2017-18,Center,Public,Ellington,Tolland,92.42,1.52,4.55,41.903743,-72.466471
+502,Connecticut,2017-18,International Magnet School For Global Citizenship,Public,South Windsor,Hartford,92.42,1.52,3.03,41.805514,-72.59644
+503,Connecticut,2017-18,Melissa Jones,Public,Guilford,New Haven,92.31,0.00,5.77,41.368904,-72.726428
+504,Connecticut,2017-18,Moody,Public,Middletown,Middlesex,92.11,0.00,7.89,41.563759,-72.711971
+505,Connecticut,2017-18,Woodstock Elementary,Public,Woodstock,Windham,92.11,1.32,6.58,41.944576,-71.962709
+506,Connecticut,2017-18,Charter Oak International Academy,Public,West Hartford,Hartford,91.95,0.00,2.30,41.74356,-72.722467
+507,Connecticut,2017-18,Laurel Ledge,Public,Beacon Falls,New Haven,91.84,0.00,0.00,41.447243,-73.060311
+508,Connecticut,2017-18,Nathan Hale,Public,New Haven,New Haven,91.84,0.00,0.00,41.269784,-72.897434
+509,Connecticut,2017-18,Mary L. Tracy,Public,Orange,New Haven,91.72,0.69,6.90,41.280249,-73.025988
+510,Connecticut,2017-18,Live Oaks,Public,Milford,New Haven,91.67,0.00,8.33,41.23796,-72.994863
+511,Connecticut,2017-18,Pembroke,Public,Danbury,Fairfield,91.67,4.17,4.17,41.435913,-73.47491
+512,Connecticut,2017-18,Sherman,Public,Fairfield,Fairfield,91.53,3.39,5.08,41.140183,-73.245991
+513,Connecticut,2017-18,Saint Mary School-Milford,Nonpublic,Milford,New Haven,91.43,0.00,8.57,41.2260911,-73.0475753
+514,Connecticut,2017-18,Samuel Staples Elementary,Public,Easton,Fairfield,91.21,2.20,5.49,41.241151,-73.290281
+515,Connecticut,2017-18,Discovery Academy,Public,Wethersfield,Hartford,91.18,0.00,4.41,41.71936,-72.675201
+516,Connecticut,2017-18,Killingly Central,Public,Killingly,Windham,90.67,2.59,6.22,41.849206,-71.88408
+517,Connecticut,2017-18,Ridgebury Elementary,Public,Ridgefield,Fairfield,90.38,1.92,7.69,41.339034,-73.512718
+518,Connecticut,2017-18,Long Hill,Public,Shelton,Fairfield,90.28,1.39,0.00,41.283635,-73.100008
+519,Connecticut,2017-18,Ashford,Public,Ashford,Windham,90.00,2.50,5.00,41.892413,-72.168952
+520,Connecticut,2017-18,West Rock Authors Academy,Public,New Haven,New Haven,89.58,0.00,0.00,41.33259,-72.967941
+521,Connecticut,2017-18,Bi-Cultural Day,Nonpublic,Stamford,Fairfield,88.89,0.00,2.78,41.1441624,-73.5491035
+522,Connecticut,2017-18,Canterbury Elementary,Public,Canterbury,Windham,88.68,0.00,11.32,41.703252,-71.98373
+523,Connecticut,2017-18,West Stafford,Public,Stafford,Tolland,88.68,0.00,11.32,41.9695063,-72.3464941
+524,Connecticut,2017-18,Museum Academy,Public,Bloomfield,Hartford,88.52,3.28,6.56,41.823685,-72.733541
+525,Connecticut,2017-18,Catherine Kolnaski Magnet,Public,Groton,New London,88.16,0.00,2.63,41.34679,-72.060461
+526,Connecticut,2017-18,Glenville,Public,Greenwich,Fairfield,88.16,9.21,2.63,41.040615,-73.662224
+527,Connecticut,2017-18,Calf Pen Meadow,Public,Milford,New Haven,88.00,2.00,10.00,41.213297,-73.028027
+528,Connecticut,2017-18,Kathleen H. Ryerson Elementary,Public,Madison,New Haven,87.50,0.00,12.50,41.340403,-72.625794
+529,Connecticut,2017-18,Jumoke Academy,Public,Hartford,Hartford,87.32,0.00,4.23,41.77005,-72.692211
+530,Connecticut,2017-18,Dorothy C. Goodwin,Public,Mansfield,Tolland,87.10,0.00,6.45,41.818487,-72.283587
+531,Connecticut,2017-18,Redding Elementary,Public,Redding,Fairfield,86.52,0.00,12.36,41.182738,-73.30326
+532,Connecticut,2017-18,Walsh,Public,Waterbury,New Haven,86.44,0.00,0.00,41.558114,-73.030472
+533,Connecticut,2017-18,New Canaan Country,Nonpublic,New Canaan,Fairfield,86.36,0.00,6.82,41.131865,-73.521944
+534,Connecticut,2017-18,Montessori Magnet At Fisher,Public,Hartford,Hartford,85.71,0.00,9.52,41.79158,-72.707841
+535,Connecticut,2017-18,Burr,Public,Hartford,Hartford,85.42,0.00,0.00,41.744978,-72.672607
+536,Connecticut,2017-18,Six-Six Magnet,Public,Bridgeport,Fairfield,85.00,0.00,15.00,41.204659,-73.162398
+537,Connecticut,2017-18,Dunbar,Public,Bridgeport,Fairfield,84.44,0.00,0.00,41.1779233,-73.1645691
+538,Connecticut,2017-18,Eli Terry,Public,South Windsor,Hartford,84.38,3.13,6.25,41.864616,-72.551754
+539,Connecticut,2017-18,Benjamin Jepson Magnet,Public,New Haven,New Haven,84.31,0.00,0.00,41.29932,-72.886881
+540,Connecticut,2017-18,Black Rock,Public,Bridgeport,Fairfield,84.09,0.00,2.27,41.156476,-73.225942
+541,Connecticut,2017-18,Rawson,Public,Hartford,Hartford,83.72,0.00,4.65,41.796064,-72.700607
+542,Connecticut,2017-18,Wintonbury Early Childhood Magnet,Public,Bloomfield,Hartford,83.67,0.00,4.08,41.838223,-72.746007
+543,Connecticut,2017-18,Amistad Academy,Public,New Haven,New Haven,82.29,0.00,0.00,41.311152,-72.937407
+544,Connecticut,2017-18,Integrated Day Charter,Public,Norwich,New London,81.82,0.00,12.12,41.511328,-72.077647
+545,Connecticut,2017-18,Glastonbury East Hartford Magnet,Public,Glastonbury,Hartford,81.16,2.90,14.49,41.708834,-72.594415
+546,Connecticut,2017-18,Charles Barnum,Public,Groton,New London,80.60,0.00,2.99,41.384683,-72.067628
+547,Connecticut,2017-18,Edison,Public,Bridgeport,Fairfield,80.56,0.00,0.00,41.195252,-73.163109
+548,Connecticut,2017-18,The Children's,Nonpublic,Stamford,Fairfield,80.00,0.00,5.71,41.12318,-73.548651
+549,Connecticut,2017-18,Wish Museum,Public,Hartford,Hartford,80.00,0.00,0.00,41.794829,-72.675691
+550,Connecticut,2017-18,Riverside Magnet School At Goodwin College,Public,East Hartford,Hartford,79.22,0.00,3.90,41.744498,-72.638036
+551,Connecticut,2017-18,Park City Magnet,Public,Bridgeport,Fairfield,78.00,0.00,4.00,41.220889,-73.200717
+552,Connecticut,2017-18,New Beginnings Inc Family Academy,Public,Bridgeport,Fairfield,70.18,0.00,0.00,41.169724,-73.198901
+553,Connecticut,2017-18,Achievement First Hartford Academy Inc.,Nonpublic,Hartford,Hartford,69.33,0.00,0.00,41.784008,-72.697292
+554,Connecticut,2017-18,Stamford Charter School For Excellence,Public,Stamford,Fairfield,67.86,0.00,0.00,41.05296,-73.547341
+555,Connecticut,2017-18,Aces Village,Public,North Haven,New Haven,,,,41.407836,-72.8414
+556,Connecticut,2017-18,Alice Peck Learning Center,Public,Hamden,New Haven,,,,41.421362,-72.921695
+557,Connecticut,2017-18,All Nations Christian Academy,Nonpublic,New Haven,New Haven,,,,41.308293,-72.885
+558,Connecticut,2017-18,Alpha & Omega Christian Academy,Nonpublic,Waterbury,New Haven,,,,41.55873,-73.039421
+559,Connecticut,2017-18,American School For The Deaf,Nonpublic,West Hartford,Hartford,,,,41.77119,-72.746687
+560,Connecticut,2017-18,Anchor Academy Dba Regina Pacis Academy,Nonpublic,Norwalk,Fairfield,,,,41.1153098,-73.4138679
+561,Connecticut,2017-18,Andover Elementary,Public,Andover,Tolland,,,,41.728967,-72.36624
+562,Connecticut,2017-18,Annie E. Vinton,Public,Mansfield,Tolland,,,,41.7461498,-72.2593188
+563,Connecticut,2017-18,Assumption Catholic,Nonpublic,Fairfield,Fairfield,,,,41.1925089,-73.2270297
+564,Connecticut,2017-18,Assumption-Ansonia,Nonpublic,Ansonia,New Haven,,,,41.3487233,-73.0796136
+565,Connecticut,2017-18,Baptist Bible Academy,Nonpublic,Waterford,New London,,,,41.403787,-72.1814682
+566,Connecticut,2017-18,Batchelder,Public,Hartford,Hartford,,,,41.732352,-72.707936
+567,Connecticut,2017-18,Bess & Paul Sigel Hebrew Academy,Nonpublic,Bloomfield,Hartford,,,,41.827873,-72.74267
+568,Connecticut,2017-18,Best Academy,Nonpublic,Wallingford,New Haven,,,,41.4758731,-72.8063079
+569,Connecticut,2017-18,Blessed Sacrament,Nonpublic,Waterbury,New Haven,,,,41.5573483,-73.0636404
+570,Connecticut,2017-18,Booth Free,Public,Roxbury,Litchfield,,,,41.55492,-73.307969
+571,Connecticut,2017-18,Botelle Elementary,Public,Norfolk,Litchfield,,,,41.987391,-73.188298
+572,Connecticut,2017-18,Bridgeport Hope,Nonpublic,Bridgeport,Fairfield,,,,41.167275,-73.188307
+573,Connecticut,2017-18,Carmel Academy,Nonpublic,Greenwich,Fairfield,,,,41.0367894,-73.6359195
+574,Connecticut,2017-18,Carver Academy,Nonpublic,Wallingford,New Haven,,,,41.49755,-72.751731
+575,Connecticut,2017-18,Central Christian Academy,Nonpublic,Southington,Hartford,,,,41.62946,-72.899331
+576,Connecticut,2017-18,Chaplin Elementary,Public,Chaplin,Windham,,,,41.78953,-72.147581
+577,Connecticut,2017-18,Chase Collegiate,Nonpublic,Waterbury,New Haven,,,,41.5461422,-73.0663171
+578,Connecticut,2017-18,Children's Community,Nonpublic,Waterbury,New Haven,,,,41.553598,-73.026676
+579,Connecticut,2017-18,Christian Heritiage,Nonpublic,Trumbull,Fairfield,,,,41.2374844,-73.1839252
+580,Connecticut,2017-18,Christian Life Academy,Nonpublic,Brookfield,Fairfield,,,,41.45422,-73.401701
+581,Connecticut,2017-18,Cold Spring,Nonpublic,New Haven,New Haven,,,,41.30415,-72.902841
+582,Connecticut,2017-18,Colebrook Consolidated,Public,Colebrook,Litchfield,,,,41.987908,-73.092243
+583,Connecticut,2017-18,Convent Of The Sacred Heart,Nonpublic,Greenwich,Fairfield,,,,41.066244,-73.69439
+584,Connecticut,2017-18,Cooperative Educational Services,Public,Trumbull,Fairfield,,,,41.2320259,-73.2004325
+585,Connecticut,2017-18,Cornwall Consolidated,Public,Cornwall,Litchfield,,,,41.876761,-73.341507
+586,Connecticut,2017-18,Crossway Christian Academy,Nonpublic,Putnam,Windham,,,,41.91581,-71.819151
+587,Connecticut,2017-18,Ct Christian Academy,Nonpublic,Meriden,New Haven,,,,41.512302,-72.778878
+588,Connecticut,2017-18,Daisy Ingraham,Public,Westbrook,Middlesex,,,,41.286454,-72.44198
+589,Connecticut,2017-18,Deep River Elementary,Public,Deep River,Middlesex,,,,41.386206,-72.434582
+590,Connecticut,2017-18,Diocese Of Bridgeport Schools Corp. D.B.A. St. James,Nonpublic,Stratford,Fairfield,,,,41.211863,-73.2172534
+591,Connecticut,2017-18,Dunbar Hill,Public,Hamden,New Haven,,,,41.365513,-72.940227
+592,Connecticut,2017-18,Eagle Hill,Nonpublic,Greenwich,Fairfield,,,,41.032465,-73.640254
+593,Connecticut,2017-18,Eastford Elementary,Public,Eastford,Windham,,,,41.902927,-72.082045
+594,Connecticut,2017-18,Easton Country Day,Nonpublic,Easton,Fairfield,,,,41.25003,-73.294851
+595,Connecticut,2017-18,Elm City Montessori,Public,New Haven,New Haven,,,,41.30062,-72.889851
+596,Connecticut,2017-18,Emmanuel Christian Academy,Nonpublic,Newington,Hartford,,,,41.6763504,-72.742773
+597,Connecticut,2017-18,Enfield Montessori,Nonpublic,Enfield,Hartford,,,,41.9748286,-72.59211
+598,Connecticut,2017-18,Ezra Academy,Nonpublic,Woodbridge,New Haven,,,,41.33849,-73.003231
+599,Connecticut,2017-18,Fairfield Country Day,Nonpublic,Fairfield,Fairfield,,,,41.17273,-73.291311
+600,Connecticut,2017-18,Faith Preparatory,Nonpublic,New Milford,Litchfield,,,,41.5034183,-73.4198446
+601,Connecticut,2017-18,Farmington Valley Academy Montessori,Nonpublic,Avon,Hartford,,,,41.817956,-72.835865
+602,Connecticut,2017-18,Fields Memorial,Public,Bozrah,New London,,,,41.563509,-72.153618
+603,Connecticut,2017-18,Franklin Elementary,Public,Franklin,New London,,,,41.6311925,-72.1259564
+604,Connecticut,2017-18,Goshen Center,Public,Goshen,Litchfield,,,,41.835023,-73.227183
+605,Connecticut,2017-18,Greens Farms Academy,Nonpublic,Westport,Fairfield,,,,41.1186928,-73.3149754
+606,Connecticut,2017-18,Greenwich Academy,Nonpublic,Greenwich,Fairfield,,,,41.04193,-73.627461
+607,Connecticut,2017-18,Hamden Hall,Nonpublic,Hamden,New Haven,,,,41.3417113,-72.9139423
+608,Connecticut,2017-18,Hampton Elementary,Public,Hampton,Windham,,,,41.792331,-72.05853
+609,Connecticut,2017-18,Hartford Area S.D.A.,Nonpublic,Hartford,Hartford,,,,41.78257,-72.695801
+610,Connecticut,2017-18,Hartland,Public,Hartland,Hartford,,,,41.9970158,-72.9068888
+611,Connecticut,2017-18,Heritage Baptist Academy,Nonpublic,Wallingford,New Haven,,,,41.450593,-72.823585
+612,Connecticut,2017-18,Hickory Street,Public,Norwich,New London,,,,41.5308341,-72.0608523
+613,Connecticut,2017-18,High Road School Of New London Primary At Bennie Dover,Nonpublic,New London,New London,,,,41.3550913,-72.1029925
+614,Connecticut,2017-18,High Road School Of Norwalk,Nonpublic,Norwalk,Fairfield,,,,41.1225604,-73.4114221
+615,Connecticut,2017-18,Holy Trinity,Nonpublic,Wallingford,New Haven,,,,41.4552196,-72.8194516
+616,Connecticut,2017-18,Hooker,Public,Bridgeport,Fairfield,,,,41.21678,-73.1696259
+617,Connecticut,2017-18,Housatonic Valley,Nonpublic,Newtown,Fairfield,,,,41.379206,-73.355174
+618,Connecticut,2017-18,Hudson Country Montessori,Nonpublic,Danbury,Fairfield,,,,41.3899094,-73.4300441
+619,Connecticut,2017-18,Immanuel Lutheran-Bristol,Nonpublic,Bristol,Hartford,,,,41.6737281,-72.9492965
+620,Connecticut,2017-18,Immanuel Lutheran-Danbury,Nonpublic,Danbury,Fairfield,,,,41.4075999,-73.4677545
+621,Connecticut,2017-18,Indian Mountain,Nonpublic,Salisbury,Litchfield,,,,41.936677,-73.467304
+622,Connecticut,2017-18,James Morris,Public,Morris,Litchfield,,,,41.683472,-73.198067
+623,Connecticut,2017-18,Kent Center,Public,Kent,Litchfield,,,,41.724077,-73.481904
+624,Connecticut,2017-18,"King, Inc.",Nonpublic,Stamford,Fairfield,,,,41.110374,-73.533735
+625,Connecticut,2017-18,Landmark Of Academy Redding/Westport,Nonpublic,Redding,Fairfield,,,,41.1363953,-73.3657429
+626,Connecticut,2017-18,Lee H. Kellogg,Public,Canaan,Litchfield,,,,41.955991,-73.36028
+627,Connecticut,2017-18,Litchfield Montessori,Nonpublic,Litchfield,Litchfield,,,,41.6977505,-73.1058972
+628,Connecticut,2017-18,Lordship,Public,Stratford,Fairfield,,,,41.1545,-73.12634
+629,Connecticut,2017-18,Lyme Consolidated,Public,Lyme,New London,,,,41.41348,-72.337531
+630,Connecticut,2017-18,"M. L. King, Jr. School",Public,Hartford,Hartford,,,,41.785682,-72.696695
+631,Connecticut,2017-18,Madina Academy,Nonpublic,Windsor,Hartford,,,,41.870527,-72.629035
+632,Connecticut,2017-18,Mead,Nonpublic,Stamford,Fairfield,,,,41.1260497,-73.5985853
+633,Connecticut,2017-18,Meliora Academy,Nonpublic,Meriden,New Haven,,,,41.507252,-72.77096
+634,Connecticut,2017-18,Midstate Christian Academy,Nonpublic,Meriden,New Haven,,,,41.53131,-72.793361
+635,Connecticut,2017-18,Milford Christian Academy,Nonpublic,Milford,New Haven,,,,41.22664,-73.012991
+636,Connecticut,2017-18,Mill Road (Aces),Public,North Haven,New Haven,,,,41.385097,-72.8401
+637,Connecticut,2017-18,Milner,Public,Hartford,Hartford,,,,41.782668,-72.687407
+638,Connecticut,2017-18,Montessori Discovery,Nonpublic,Norwich,New London,,,,41.5297715,-72.1029236
+639,Connecticut,2017-18,Montessori School Of Greater Hartford,Nonpublic,West Hartford,Hartford,,,,41.770386,-72.751095
+640,Connecticut,2017-18,New Hartford Elementary,Public,New Hartford,Litchfield,,,,41.877298,-72.966906
+641,Connecticut,2017-18,New Testament Baptist,Nonpublic,East Hartford,Hartford,,,,41.768204,-72.655415
+642,Connecticut,2017-18,North Stonington Christian Academy,Nonpublic,North Stonington,New London,,,,41.42812,-71.843591
+643,Connecticut,2017-18,Oak Grove Montessori,Nonpublic,Mansfield,Tolland,,,,41.7309919,-72.233946
+644,Connecticut,2017-18,Old Saint Lawrence Elementary - Shelton,Nonpublic,Shelton,Fairfield,,,,41.2980683,-73.1473859
+645,Connecticut,2017-18,Our Lady Of Fatima,Nonpublic,Wilton,Fairfield,,,,41.1875464,-73.426014
+646,Connecticut,2017-18,"Our Lady Of Mercy, Incorporated",Nonpublic,Madison,New Haven,,,,41.3611723,-72.6344045
+647,Connecticut,2017-18,Our Lady Of Mount Carmel-Meriden,Nonpublic,Meriden,New Haven,,,,41.5415372,-72.80744
+648,Connecticut,2017-18,Our Lady Of Mount Carmel-Waterbury,Nonpublic,Waterbury,New Haven,,,,41.5369724,-73.0516636
+649,Connecticut,2017-18,Our Lady Of Victory,Nonpublic,West Haven,New Haven,,,,41.253442,-72.9741562
+650,Connecticut,2017-18,Parkway,Public,Greenwich,Fairfield,,,,41.111898,-73.653432
+651,Connecticut,2017-18,Pear Tree Point,Nonpublic,Darien,Fairfield,,,,41.05025,-73.481251
+652,Connecticut,2017-18,Pine Point,Nonpublic,Stonington,New London,,,,41.36683,-71.893431
+653,Connecticut,2017-18,Pomfret Community,Public,Pomfret,Windham,,,,41.859653,-71.960243
+654,Connecticut,2017-18,"Praise, Power & Prayer Christian School",Nonpublic,Windsor,Hartford,,,,41.86758,-72.637721
+655,Connecticut,2017-18,Renbrook,Nonpublic,West Hartford,Hartford,,,,41.78804,-72.778021
+656,Connecticut,2017-18,Ridgefield Academy,Nonpublic,Ridgefield,Fairfield,,,,41.29681,-73.534181
+657,Connecticut,2017-18,River Street Autism Program @ Berkin,Public,Bloomfield,Hartford,,,,41.8535603,-72.704831
+658,Connecticut,2017-18,Rumsey Hall,Nonpublic,Washington,Litchfield,,,,41.678232,-73.295523
+659,Connecticut,2017-18,Sacred Heart,Nonpublic,Groton,New London,,,,41.3484,-72.072621
+660,Connecticut,2017-18,Sacred Heart,Nonpublic,New Britain,Hartford,,,,41.671943,-72.788618
+661,Connecticut,2017-18,Sacred Heart,Nonpublic,TAFTVILLE,New London,,,,41.567555,-72.054951
+662,Connecticut,2017-18,Saint Aloysius,Nonpublic,New Canaan,Fairfield,,,,41.1453932,-73.4938578
+663,Connecticut,2017-18,Saint Ann Academy,Nonpublic,Bridgeport,Fairfield,,,,41.15613,-73.225677
+664,Connecticut,2017-18,Saint Anthony School-Winchester,Nonpublic,Winchester,Litchfield,,,,41.9231075,-73.0642779
+665,Connecticut,2017-18,Saint Bernadette,Nonpublic,New Haven,New Haven,,,,41.267583,-72.896133
+666,Connecticut,2017-18,Saint Bernard School-Enfield,Nonpublic,Enfield,Hartford,,,,41.9865517,-72.5996746
+667,Connecticut,2017-18,Saint Bridget School-Cheshire,Nonpublic,Cheshire,New Haven,,,,41.503371,-72.903986
+668,Connecticut,2017-18,Saint Bridget School-Manchester,Nonpublic,Manchester,Hartford,,,,41.7914175,-72.5255185
+669,Connecticut,2017-18,"Saint Brigid - Saint Augustine, A Partnership School",Nonpublic,West Hartford,Hartford,,,,41.7361238,-72.7358462
+670,Connecticut,2017-18,Saint Catherine Of Siena,Nonpublic,Trumbull,Fairfield,,,,41.2460271,-73.1566477
+671,Connecticut,2017-18,Saint Christopher,Nonpublic,East Hartford,Hartford,,,,41.747631,-72.601942
+672,Connecticut,2017-18,Saint Gabriel-Windsor,Nonpublic,Windsor,Hartford,,,,41.8522759,-72.6478731
+673,Connecticut,2017-18,Saint Gregory The Great,Nonpublic,Danbury,Fairfield,,,,41.4272005,-73.4392966
+674,Connecticut,2017-18,Saint James School-Danielson,Nonpublic,Killingly,Windham,,,,41.8016125,-71.8853089
+675,Connecticut,2017-18,Saint John Catholic,Nonpublic,Old Saybrook,Middlesex,,,,41.2918173,-72.3781524
+676,Connecticut,2017-18,Saint John Paul Ii,Nonpublic,Middletown,Middlesex,,,,41.5537703,-72.6494529
+677,Connecticut,2017-18,Saint John The Evangelist,Nonpublic,Watertown,Litchfield,,,,41.6022691,-73.1169493
+678,Connecticut,2017-18,Saint Joseph School-Danbury,Nonpublic,Danbury,Fairfield,,,,41.4000216,-73.4592983
+679,Connecticut,2017-18,Saint Joseph School-North Grosvenordale,Nonpublic,Thompson,Windham,,,,41.9792871,-71.9025725
+680,Connecticut,2017-18,Saint Joseph School-Sprague,Nonpublic,Sprague,New London,,,,41.6157446,-72.0892117
+681,Connecticut,2017-18,Saint Joseph-Bristol,Nonpublic,Bristol,Hartford,,,,41.6779249,-72.9396379
+682,Connecticut,2017-18,Saint Joseph-Brookfield,Nonpublic,Brookfield,Fairfield,,,,41.4657583,-73.3868052
+683,Connecticut,2017-18,Saint Joseph-New London,Nonpublic,New London,New London,,,,41.3443743,-72.1063802
+684,Connecticut,2017-18,Saint Lawrence School-West Haven,Nonpublic,West Haven,New Haven,,,,41.2743111,-72.9458259
+685,Connecticut,2017-18,Saint Mark,Nonpublic,Stratford,Fairfield,,,,41.2282279,-73.1303271
+686,Connecticut,2017-18,Saint Martha,Nonpublic,Enfield,Hartford,,,,42.02074,-72.564891
+687,Connecticut,2017-18,Saint Mary - Saint Joseph,Nonpublic,Windham,Windham,,,,41.7131584,-72.2092947
+688,Connecticut,2017-18,Saint Mary - Saint Michael,Nonpublic,Derby,New Haven,,,,41.327417,-73.0892064
+689,Connecticut,2017-18,Saint Mary At Simsbury,Nonpublic,Simsbury,Hartford,,,,41.8816645,-72.7991554
+690,Connecticut,2017-18,Saint Mary Magdalen,Nonpublic,Watertown,Litchfield,,,,41.5904957,-73.0831168
+691,Connecticut,2017-18,Saint Mary School - Ridgefield,Nonpublic,Ridgefield,Fairfield,,,,41.2817595,-73.5052056
+692,Connecticut,2017-18,Saint Mary School-Bethel,Nonpublic,Bethel,Fairfield,,,,41.373895,-73.388103
+693,Connecticut,2017-18,Saint Mary School-Branford,Nonpublic,Branford,New Haven,,,,41.2825099,-72.8164765
+694,Connecticut,2017-18,Saint Mary School-Waterbury,Nonpublic,Waterbury,New Haven,,,,41.5533353,-73.0354894
+695,Connecticut,2017-18,Saint Matthew,Nonpublic,Bristol,Hartford,,,,41.6751619,-72.9012161
+696,Connecticut,2017-18,Saint Michael,Nonpublic,Stonington,New London,,,,41.380621,-71.837543
+697,Connecticut,2017-18,Saint Patrick Cathedral,Nonpublic,Norwich,New London,,,,41.5312703,-72.0771074
+698,Connecticut,2017-18,Saint Paul,Nonpublic,Berlin,Hartford,,,,41.6345161,-72.7712769
+699,Connecticut,2017-18,Saint Peter,Nonpublic,Danbury,Fairfield,,,,41.3907996,-73.4492839
+700,Connecticut,2017-18,Saint Rose Of Lima-Newtown,Nonpublic,Newtown,Fairfield,,,,41.4155712,-73.2977557
+701,Connecticut,2017-18,Saint Theresa,Nonpublic,Trumbull,Fairfield,,,,41.238348,-73.221206
+702,Connecticut,2017-18,Saint Thomas Aquinas Catholic,Nonpublic,Fairfield,Fairfield,,,,41.14102,-73.261851
+703,Connecticut,2017-18,Saint Thomas The Apostle,Nonpublic,West Hartford,Hartford,,,,41.76485,-72.734811
+704,Connecticut,2017-18,Saint Thomas's Day,Nonpublic,New Haven,New Haven,,,,41.332082,-72.913689
+705,Connecticut,2017-18,Saints Peter & Paul,Nonpublic,Waterbury,New Haven,,,,41.5470821,-73.0100369
+706,Connecticut,2017-18,Scotland Elementary,Public,Scotland,Windham,,,,41.703408,-72.081303
+707,Connecticut,2017-18,Sharon Center,Public,Sharon,Litchfield,,,,41.88202,-73.471191
+708,Connecticut,2017-18,Sherman,Public,Sherman,Fairfield,,,,41.578208,-73.495931
+709,Connecticut,2017-18,Side By Side Charter,Public,Norwalk,Fairfield,,,,41.095574,-73.42
+710,Connecticut,2017-18,Simpson-Waverly,Public,Hartford,Hartford,,,,41.795304,-72.682553
+711,Connecticut,2017-18,Solomon Schechter Academy,Nonpublic,Waterford,New London,,,,41.37516,-72.137261
+712,Connecticut,2017-18,Solomon Schechter Day School Of Greater Hartford,Nonpublic,West Hartford,Hartford,,,,41.751137,-72.766305
+713,Connecticut,2017-18,Southeast Elementary,Public,Mansfield,Tolland,,,,41.7730345,-72.1918689
+714,Connecticut,2017-18,Southern Connecticut Hebrew Academy,Nonpublic,Orange,New Haven,,,,41.29975,-73.008111
+715,Connecticut,2017-18,Southington Catholic,Nonpublic,Southington,Hartford,,,,41.595867,-72.882043
+716,Connecticut,2017-18,ST PETER/ST FRANCIS SCHOOL,Nonpublic,Torrington,Litchfield,,,,41.805,-73.122625
+717,Connecticut,2017-18,St. Aedan-Brendan,Nonpublic,New Haven,New Haven,,,,41.3258005,-72.9629557
+718,Connecticut,2017-18,St. Andrew Academy,Nonpublic,Bridgeport,Fairfield,,,,41.217986,-73.223147
+719,Connecticut,2017-18,St. Francis - St. Hedwig,Nonpublic,Naugatuck,New Haven,,,,41.4929917,-73.0550519
+720,Connecticut,2017-18,St. Francis & St. Rose Of Lima School-New Haven,Nonpublic,New Haven,New Haven,,,,41.3114112,-72.8955624
+721,Connecticut,2017-18,St. Vincent's Special Needs School Program,Nonpublic,Trumbull,Fairfield,,,,41.2399668,-73.1451006
+722,Connecticut,2017-18,Sterling Community,Public,Sterling,Windham,,,,41.70527,-71.836563
+723,Connecticut,2017-18,Talcott Mt. Academy Of Science Math & Technology,Nonpublic,Avon,Hartford,,,,41.8112689,-72.7983839
+724,Connecticut,2017-18,The Burnham,Public,Bridgewater,Litchfield,,,,41.532361,-73.364662
+725,Connecticut,2017-18,The Children's Tree Montessori School Inc.,Nonpublic,Old Saybrook,Middlesex,,,,41.31842,-72.3587622
+726,Connecticut,2017-18,The Cobb School-Montessori,Nonpublic,Simsbury,Hartford,,,,41.8509436,-72.8331605
+727,Connecticut,2017-18,The Cornerstone Christian,Nonpublic,Manchester,Hartford,,,,41.785694,-72.524203
+728,Connecticut,2017-18,The Country,Nonpublic,Madison,New Haven,,,,41.3251,-72.636111
+729,Connecticut,2017-18,The Fraser-Woods,Nonpublic,Newtown,Fairfield,,,,41.380883,-73.28134
+730,Connecticut,2017-18,The Independent Day,Nonpublic,Middlefield,Middlesex,,,,41.508381,-72.687557
+731,Connecticut,2017-18,The Long Ridge,Nonpublic,Stamford,Fairfield,,,,41.13942,-73.600521
+732,Connecticut,2017-18,The Master's,Nonpublic,Simsbury,Hartford,,,,41.8770305,-72.8628623
+733,Connecticut,2017-18,The Montessori,Nonpublic,Wilton,Fairfield,,,,41.16794,-73.410991
+734,Connecticut,2017-18,The Rectory,Nonpublic,Pomfret,Windham,,,,41.893041,-71.9644866
+735,Connecticut,2017-18,The Stanwich,Nonpublic,Greenwich,Fairfield,,,,41.07261,-73.602931
+736,Connecticut,2017-18,The Unquowa,Public,Fairfield,Fairfield,,,,41.1952944,-73.2328723
+737,Connecticut,2017-18,The Webb School At Cheshire,Nonpublic,Cheshire,New Haven,,,,41.5324076,-72.9157422
+738,Connecticut,2017-18,Torrington Christian Academy,Nonpublic,Torrington,Litchfield,,,,41.8062777,-73.0995813
+739,Connecticut,2017-18,Trinity Christian,Nonpublic,Windsor,Hartford,,,,41.8391,-72.662281
+740,Connecticut,2017-18,Union Elementary,Public,Union,Tolland,,,,41.987431,-72.161986
+741,Connecticut,2017-18,Villa Maria Education Center,Nonpublic,Stamford,Fairfield,,,,41.14384,-73.553531
+742,Connecticut,2017-18,Voluntown Elementary,Public,Voluntown,New London,,,,41.574502,-71.866368
+743,Connecticut,2017-18,Warren Elementary,Public,Warren,Litchfield,,,,41.741661,-73.347778
+744,Connecticut,2017-18,Washington Montessori,Nonpublic,Washington,Litchfield,,,,41.703241,-73.300003
+745,Connecticut,2017-18,Washington Primary,Public,Washington,Litchfield,,,,41.6380338,-73.3188701
+746,Connecticut,2017-18,West Woods Christian Academy,Nonpublic,Hamden,New Haven,,,,41.3385766,-72.8969616
+747,Connecticut,2017-18,Whitby,Nonpublic,Greenwich,Fairfield,,,,41.11386,-73.653271
+748,Connecticut,2017-18,Wildwood Christian,Nonpublic,Norwich,New London,,,,41.514514,-72.115041
+749,Connecticut,2017-18,Windsor Montessori,Nonpublic,Windsor,Hartford,,,,41.857812,-72.635207
+750,Connecticut,2017-18,Woodland,Public,East Hartford,Hartford,,,,41.785652,-72.594128
+751,Connecticut,2017-18,Wooster,Nonpublic,Danbury,Fairfield,,,,41.37106,-73.498241

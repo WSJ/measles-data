@@ -1,0 +1,1516 @@
+index,state,year,name,type,address,city,county,district,enroll,mmr,overall,xmed,xper,xrel,lat,lng
+1,Wisconsin,2018-19,Al Behrman Elementary,,,Baraboo,Sauk,,,,95,,5,5,43.458278,-89.738543
+2,Wisconsin,2018-19,Albany Elementary,,,Albany,Green,,,,95,,5,5,42.706961,-89.434
+3,Wisconsin,2018-19,Alma Elementary,,,Alma,Buffalo,,,,95,,5,5,44.363158,-91.943294
+4,Wisconsin,2018-19,Arcadia Elementary,,,Arcadia,Trempealeau,,,,95,,5,5,44.25289,-91.495131
+5,Wisconsin,2018-19,Argyle Elementary,,,Argyle,Lafayette,,,,95,,5,5,42.707231,-89.868213
+6,Wisconsin,2018-19,Assumption Catholic,,,Durand,Pepin,,,,95,,5,5,44.622429,-91.971544
+7,Wisconsin,2018-19,Auburndale Elementary,,,Auburndale,Wood,,,,95,,5,5,44.629299,-90.010987
+8,Wisconsin,2018-19,Augusta Elementary,,,Augusta,Eau Claire,,,,95,,5,5,44.685257,-91.141028
+9,Wisconsin,2018-19,Bader Hillel Academy,,,Milwaukee,Milwaukee,,,,95,,5,5,43.1472184,-87.9400902
+10,Wisconsin,2018-19,Bannach Elementary,,,Stevens Point,Portage,,,,95,,5,5,44.528174,-89.51768
+11,Wisconsin,2018-19,Banta,,,Menasha,Winnebago,,,,95,,5,5,44.209532,-88.450046
+12,Wisconsin,2018-19,Barneveld Elementary,,,Barneveld,Iowa,,,,95,,5,5,43.013,-89.895465
+13,Wisconsin,2018-19,Beautiful Savior Lutheran,,,Waukesha,Waukesha,,,,95,,5,5,42.9911374,-88.2263582
+14,Wisconsin,2018-19,Believers in Christ Academy,,,Milwaukee,Milwaukee,,,,95,,5,5,43.0913086,-87.9451732
+15,Wisconsin,2018-19,Ben Franklin Elementary,,,Franklin,Milwaukee,,,,95,,5,5,42.898346,-88.008989
+16,Wisconsin,2018-19,Benjamin Franklin El&amp;Early Lrn,,,Menomonee Falls,Waukesha,,,,95,,5,5,43.1654969,-88.0924934
+17,Wisconsin,2018-19,Berry Elementary,,,Appleton,Outagamie,,,,95,,5,5,44.227788,-88.378983
+18,Wisconsin,2018-19,Bird Elementary,,,Sun Prairie,Dane,,,,95,,5,5,43.1957535,-89.2272018
+19,Wisconsin,2018-19,Black Earth Elementary,,,Black Earth,Dane,,,,95,,5,5,43.138645,-89.74631
+20,Wisconsin,2018-19,Blessed Savior Catholic,,,Milwaukee,Milwaukee,,,,95,,5,5,43.0909093,-87.9928051
+21,Wisconsin,2018-19,Brandon Elementary,,,Brandon,Fond du Lac,,,,95,,5,5,43.732784,-88.784152
+22,Wisconsin,2018-19,Brookfield Academy,,,Brookfield,Waukesha,,,,95,,5,5,43.08191,-88.144972
+23,Wisconsin,2018-19,Brookfield Elementary,,,Brookfield,Waukesha,,,,95,,5,5,43.064992,-88.144499
+24,Wisconsin,2018-19,Bruce Elementary,,,Bruce,Rusk,,,,95,,5,5,45.45975,-91.273529
+25,Wisconsin,2018-19,Bruce Guadalupe,,,Milwaukee,Milwaukee,,,,95,,5,5,43.020718,-87.922096
+26,Wisconsin,2018-19,Burleigh Elementary,,,Brookfield,Waukesha,,,,95,,5,5,43.077695,-88.113521
+27,Wisconsin,2018-19,Butte des Morts Elementary,,,Menasha,Winnebago,,,,95,,5,5,44.207519,-88.451981
+28,Wisconsin,2018-19,Cashton Elementary,,,Cashton,Monroe,,,,95,,5,5,43.739104,-90.783854
+29,Wisconsin,2018-19,Cataract Elementary,,,Sparta,Monroe,,,,95,,5,5,44.084371,-90.840257
+30,Wisconsin,2018-19,Cathedral,,,La Crosse,La Crosse,,,,95,,5,5,43.8060688,-91.2368308
+31,Wisconsin,2018-19,Catholic East Elementary,,,Milwaukee,Milwaukee,,,,95,,5,5,43.062928,-87.8857994
+32,Wisconsin,2018-19,Chilton Area Catholic,,,Chilton,Calumet,,,,95,,5,5,44.0301422,-88.1611807
+33,Wisconsin,2018-19,Chilton Elementary,,,Chilton,Calumet,,,,95,,5,5,44.028526,-88.173427
+34,Wisconsin,2018-19,Christ King,,,Wauwatosa,Milwaukee,,,,95,,5,5,43.0669039,-88.0269965
+35,Wisconsin,2018-19,Christian Life,,,Kenosha,Kenosha,,,,95,,5,5,42.57,-87.939081
+36,Wisconsin,2018-19,Clay Lamberton Elementary,,,Berlin,Green Lake,,,,95,,5,5,43.974718,-88.939666
+37,Wisconsin,2018-19,Columbus Elementary,,,Columbus,Columbia,,,,95,,5,5,43.335585,-89.021547
+38,Wisconsin,2018-19,Coon Valley Elementary,,,Coon Valley,Vernon,,,,95,,5,5,43.69962,-91.014866
+39,Wisconsin,2018-19,Cooper Elementary,,,Sheboygan,Sheboygan,,,,95,,5,5,43.770299,-87.733337
+40,Wisconsin,2018-19,County Line Elementary,,,Germantown,Washington,,,,95,,5,5,43.197989,-88.107389
+41,Wisconsin,2018-19,Crandon Elementary,,,Crandon,Forest,,,,95,,5,5,45.573725,-88.925584
+42,Wisconsin,2018-19,Crivitz Elementary,,,Crivitz,Marinette,,,,95,,5,5,45.23445,-88.004942
+43,Wisconsin,2018-19,Cuba City Elementary,,,Cuba City,Grant,,,,95,,5,5,42.608679,-90.437439
+44,Wisconsin,2018-19,Davey Elementary,,,Eau Claire,Eau Claire,,,,95,,5,5,44.851262,-91.478712
+45,Wisconsin,2018-19,Davids Star Lutheran,,,Jackson,Washington,,,,95,,5,5,43.288707,-88.105276
+46,Wisconsin,2018-19,Decorah Elementary,,,West Bend,Washington,,,,95,,5,5,43.403914,-88.173447
+47,Wisconsin,2018-19,Dickinson Elementary,,,De Pere,Brown,,,,95,,5,5,44.443332,-88.051753
+48,Wisconsin,2018-19,Divine Mercy,,,South Milwaukee,Milwaukee,,,,95,,5,5,42.930104,-87.856172
+49,Wisconsin,2018-19,Divine Savior Catholic,,,Fredonia,Ozaukee,,,,95,,5,5,43.46984,-87.949246
+50,Wisconsin,2018-19,Dixon Elementary,,,Brookfield,Waukesha,,,,95,,5,5,43.062349,-88.10474
+51,Wisconsin,2018-19,Doubek Elementary,,,East Troy,Walworth,,,,95,,5,5,42.7871838,-88.4093944
+52,Wisconsin,2018-19,Douglas Elementary,,,Watertown,Jefferson,,,,95,,5,5,43.205043,-88.716067
+53,Wisconsin,2018-19,Downsville Elementary,,,Downsville,Dunn,,,,95,,5,5,44.777572,-91.928598
+54,Wisconsin,2018-19,Eagle Sch of Madison,,,Madison,Dane,,,,95,,5,5,43.0103445,-89.4225919
+55,Wisconsin,2018-19,East Elementary,,,Jefferson,Jefferson,,,,95,,5,5,43.004356,-88.802787
+56,Wisconsin,2018-19,East Elementary,,,Baraboo,Sauk,,,,95,,5,5,43.473201,-89.730313
+57,Wisconsin,2018-19,Eastbrook Academy,,,Milwaukee,Milwaukee,,,,95,,5,5,43.114254,-87.934497
+58,Wisconsin,2018-19,Edgerton Elementary,,,Hales Corners,Milwaukee,,,,95,,5,5,42.951016,-88.058512
+59,Wisconsin,2018-19,Edgewood Elementary,,,Greenfield,Milwaukee,,,,95,,5,5,42.958484,-87.974217
+60,Wisconsin,2018-19,Edgewood Elementary,,,Oak Creek,Milwaukee,,,,95,,5,5,42.889002,-87.902757
+61,Wisconsin,2018-19,Elm Lawn Elementary,,,Middleton,Dane,,,,95,,5,5,43.089186,-89.500302
+62,Wisconsin,2018-19,Elmwood Elementary,,,New Berlin,Waukesha,,,,95,,5,5,42.935591,-88.087947
+63,Wisconsin,2018-19,Emerson Elementary,,,La Crosse,La Crosse,,,,95,,5,5,43.815854,-91.22472
+64,Wisconsin,2018-19,Ettrick Elementary,,,Ettrick,Trempealeau,,,,95,,5,5,44.167784,-91.266764
+65,Wisconsin,2018-19,Evergreen Elementary,,,Holmen,La Crosse,,,,95,,5,5,43.969869,-91.255835
+66,Wisconsin,2018-19,Fall River Elementary,,,Fall River,Columbia,,,,95,,5,5,43.386079,-89.045577
+67,Wisconsin,2018-19,Fennimore Elementary,,,Fennimore,Grant,,,,95,,5,5,42.984029,-90.657272
+68,Wisconsin,2018-19,First Evang Lutheran,,,La Crosse,La Crosse,,,,95,,5,5,43.8061906,-91.2395291
+69,Wisconsin,2018-19,First Immanuel Lutheran,,,Cedarburg,Ozaukee,,,,95,,5,5,43.298599,-87.993702
+70,Wisconsin,2018-19,Forest Ridge Elementary,,,Oak Creek,Milwaukee,,,,95,,5,5,42.90191,-87.945771
+71,Wisconsin,2018-19,Fox Prairie Elementary,,,Stoughton,Dane,,,,95,,5,5,42.913898,-89.238969
+72,Wisconsin,2018-19,Franklin Elementary,,,Madison,Dane,,,,95,,5,5,43.055612,-89.387363
+73,Wisconsin,2018-19,Freedom Elementary,,,Freedom,Outagamie,,,,95,,5,5,44.367611,-88.317052
+74,Wisconsin,2018-19,G D Jones Elementary,,,Wausau,Marathon,,,,95,,5,5,44.949318,-89.652071
+75,Wisconsin,2018-19,Gaylord A Nelson Educ Center,,,Clear Lake,Polk,,,,95,,5,5,45.2475085,-92.2675565
+76,Wisconsin,2018-19,Gillett Elementary,,,Gillett,Oconto,,,,95,,5,5,44.885081,-88.315862
+77,Wisconsin,2018-19,Gilman Elementary,,,Gilman,Taylor,,,,95,,5,5,45.168445,-90.807019
+78,Wisconsin,2018-19,Glendale Elementary,,,Madison,Dane,,,,95,,5,5,43.057822,-89.3121
+79,Wisconsin,2018-19,Good Shepherds Evang Luth,,,West Allis,Milwaukee,,,,95,,5,5,43.0176985,-88.037608
+80,Wisconsin,2018-19,Grace Lutheran,,,Oak Creek,Milwaukee,,,,95,,5,5,42.88924,-87.883971
+81,Wisconsin,2018-19,Granville Lutheran,,,Milwaukee,Milwaukee,,,,95,,5,5,43.16714,-88.032991
+82,Wisconsin,2018-19,Great Lakes Elementary,,,Superior,Douglas,,,,95,,5,5,46.706991,-92.06873
+83,Wisconsin,2018-19,Greenville Elementary,,,Greenville,Outagamie,,,,95,,5,5,44.29403,-88.533819
+84,Wisconsin,2018-19,Greenwood Elementary,,,Greenwood,Clark,,,,95,,5,5,44.767595,-90.589726
+85,Wisconsin,2018-19,Halmstad Elementary,,,Chippewa Falls,Chippewa,,,,95,,5,5,44.914472,-91.379349
+86,Wisconsin,2018-19,Hamilton Early Learning Ctr,,,La Crosse,La Crosse,,,,95,,5,5,43.7998104,-91.2470502
+87,Wisconsin,2018-19,HAPA-Hmong Amer Peace Ac,,,Milwaukee,Milwaukee,,,,95,,5,5,43.1014328,-88.0187045
+88,Wisconsin,2018-19,Harvey Elementary,,,Kenosha,Kenosha,,,,95,,5,5,42.619923,-87.833546
+89,Wisconsin,2018-19,Hemlock Creek Elementary,,,De Pere,Brown,,,,95,,5,5,44.424597,-88.141775
+90,Wisconsin,2018-19,Heyer Elementary,,,Waukesha,Waukesha,,,,95,,5,5,42.990034,-88.211102
+91,Wisconsin,2018-19,Highland Community Elementary,,,Highland,Iowa,,,,95,,5,5,43.052514,-90.375351
+92,Wisconsin,2018-19,Hintgen Elementary,,,La Crosse,La Crosse,,,,95,,5,5,43.771987,-91.21343
+93,Wisconsin,2018-19,Holy Angels Grade,,,West Bend,Washington,,,,95,,5,5,43.4253608,-88.1867623
+94,Wisconsin,2018-19,Holy Family Cath Gr,,,Arcadia,Trempealeau,,,,95,,5,5,44.248702,-91.493719
+95,Wisconsin,2018-19,Holy Family Parish,,,Whitefish Bay,Milwaukee,,,,95,,5,5,43.105063,-87.896341
+96,Wisconsin,2018-19,Holy Wisdom Academy,,,Milwaukee,Milwaukee,,,,95,,5,5,42.98408,-87.925602
+97,Wisconsin,2018-19,Holyland Catholic,,,Malone,Calumet,,,,95,,5,5,43.877035,-88.291492
+98,Wisconsin,2018-19,Horizon Elementary,,,Sun Prairie,Dane,,,,95,,5,5,43.188548,-89.281047
+99,Wisconsin,2018-19,Hudson Prairie Elementary,,,Hudson,Saint Croix,,,,95,,5,5,44.985603,-92.717926
+100,Wisconsin,2018-19,Humboldt Park Elementary,,,Milwaukee,Milwaukee,,,,95,,5,5,42.985685,-87.902356
+101,Wisconsin,2018-19,Huntley Elementary,,,Appleton,Outagamie,,,,95,,5,5,44.282673,-88.3816
+102,Wisconsin,2018-19,Immanuel Evang Lutheran,,,Greenville,Outagamie,,,,95,,5,5,44.2860861,-88.5555493
+103,Wisconsin,2018-19,Independence Elementary,,,Independence,Trempealeau,,,,95,,5,5,44.368617,-91.421935
+104,Wisconsin,2018-19,Iowa-Grant El/Mid,,,Livingston,Iowa,,,,95,,5,5,42.9303872,-90.3977555
+105,Wisconsin,2018-19,Jackson Elementary,,,Green Bay,Brown,,,,95,,5,5,44.511391,-88.058829
+106,Wisconsin,2018-19,Jefferson Elementary,,,Stevens Point,Portage,,,,95,,5,5,44.51908,-89.572013
+107,Wisconsin,2018-19,Jefferson Elementary,,,Oshkosh,Winnebago,,,,95,,5,5,44.009062,-88.544478
+108,Wisconsin,2018-19,Jo's Learning Academy,,,Milwaukee,Milwaukee,,,,95,,5,5,43.060402,-87.973773
+109,Wisconsin,2018-19,Johnston Elementary,,,Appleton,Outagamie,,,,95,,5,5,44.254907,-88.365896
+110,Wisconsin,2018-19,Jones Elementary,,,Cudahy,Milwaukee,,,,95,,5,5,42.938336,-87.855413
+111,Wisconsin,2018-19,Kennedy Elementary,,,Grafton,Ozaukee,,,,95,,5,5,43.313429,-87.953332
+112,Wisconsin,2018-19,Kenosha Montessori,,,Kenosha,Kenosha,,,,95,,5,5,42.57031,-87.838261
+113,Wisconsin,2018-19,Keshena Primary,,,Keshena,Menominee,,,,95,,5,5,44.87219,-88.627553
+114,Wisconsin,2018-19,Kohler Elementary,,,Kohler,Sheboygan,,,,95,,5,5,43.73948,-87.784221
+115,Wisconsin,2018-19,Kosciuszko Elementary,,,Cudahy,Milwaukee,,,,95,,5,5,42.948844,-87.8569
+116,Wisconsin,2018-19,La Causa Charter,,,Milwaukee,Milwaukee,,,,95,,5,5,43.012909,-87.912922
+117,Wisconsin,2018-19,Lac du Flambeau Elementary,,,Lac du Flambeau,Vilas,,,,95,,5,5,45.977666,-89.876832
+118,Wisconsin,2018-19,Lake Delton Elementary,,,Lake Delton,Sauk,,,,95,,5,5,43.592235,-89.78934
+119,Wisconsin,2018-19,Lake View Elementary,,,Madison,Dane,,,,95,,5,5,43.135732,-89.36169
+120,Wisconsin,2018-19,Lakeshore Elementary,,,Fond du Lac,Fond du Lac,,,,95,,5,5,43.797319,-88.41347
+121,Wisconsin,2018-19,Lakeside Elementary,,,Oshkosh,Winnebago,,,,95,,5,5,43.945714,-88.50663
+122,Wisconsin,2018-19,Lakeview Elementary,,,South Milwaukee,Milwaukee,,,,95,,5,5,42.903419,-87.856003
+123,Wisconsin,2018-19,Lakeview Elementary,,,Wind Lake,Waukesha,,,,95,,5,5,42.820441,-88.159052
+124,Wisconsin,2018-19,Lannon Elementary,,,Lannon,Waukesha,,,,95,,5,5,43.147276,-88.165545
+125,Wisconsin,2018-19,Lannoye Elementary,,,Green Bay,Brown,,,,95,,5,5,44.592863,-88.191708
+126,Wisconsin,2018-19,Leopold Elementary,,,Madison,Dane,,,,95,,5,5,43.027367,-89.421814
+127,Wisconsin,2018-19,Lincoln Elementary,,,Merrillan,Jackson,,,,95,,5,5,44.452661,-90.838845
+128,Wisconsin,2018-19,Lincoln Elementary,,,Hartford,Washington,,,,95,,5,5,43.309052,-88.380817
+129,Wisconsin,2018-19,Loganville Elementary,,,Loganville,Sauk,,,,95,,5,5,43.432932,-90.035601
+130,Wisconsin,2018-19,Lowell Elementary,,,Milwaukee,Milwaukee,,,,95,,5,5,42.965283,-87.9384794
+131,Wisconsin,2018-19,Lumen Christi,,,Mequon,Ozaukee,,,,95,,5,5,43.2225568,-87.9442026
+132,Wisconsin,2018-19,Lyndon Station Elementary,,,Lyndon Station,Juneau,,,,95,,5,5,43.70845,-89.900313
+133,Wisconsin,2018-19,MacDowell Montessori,,,Milwaukee,Milwaukee,,,,95,,5,5,43.0336785,-87.9927775
+134,Wisconsin,2018-19,Madison Elementary,,,Wauwatosa,Milwaukee,,,,95,,5,5,43.100724,-88.035746
+135,Wisconsin,2018-19,Madison Elementary,,,West Allis,Milwaukee,,,,95,,5,5,43.019545,-88.042561
+136,Wisconsin,2018-19,Magee Elementary,,,Two Rivers,Manitowoc,,,,95,,5,5,44.166161,-87.582286
+137,Wisconsin,2018-19,Malaika Early Learning Ctr,,,Milwaukee,Milwaukee,,,,95,,5,5,43.076127,-87.9114796
+138,Wisconsin,2018-19,Maple Avenue Elementary,,,Sussex,Waukesha,,,,95,,5,5,43.127963,-88.227018
+139,Wisconsin,2018-19,Maple Grove Elementary,,,Greenfield,Milwaukee,,,,95,,5,5,42.965882,-87.999028
+140,Wisconsin,2018-19,McAuliffe Elementary,,,Green Bay,Brown,,,,95,,5,5,44.462965,-87.931353
+141,Wisconsin,2018-19,McKinley Center,,,Stevens Point,Portage,,,,95,,5,5,44.507059,-89.566239
+142,Wisconsin,2018-19,McKinley Elementary,,,Appleton,Outagamie,,,,95,,5,5,44.239088,-88.387384
+143,Wisconsin,2018-19,Mead El Charter,,,Wisconsin Rapids,Wood,,,,95,,5,5,44.3939807,-89.8439918
+144,Wisconsin,2018-19,Meadow View Elementary,,,Oconomowoc,Waukesha,,,,95,,5,5,43.147854,-88.463419
+145,Wisconsin,2018-19,Meadowview Elementary,,,Oak Creek,Milwaukee,,,,95,,5,5,42.855109,-87.897071
+146,Wisconsin,2018-19,Melrose Elementary,,,Melrose,Jackson,,,,95,,5,5,44.136858,-90.997492
+147,Wisconsin,2018-19,Merrill Elementary,,,Beloit,Rock,,,,95,,5,5,42.518222,-89.021184
+148,Wisconsin,2018-19,Midvale Elementary,,,Madison,Dane,,,,95,,5,5,43.056896,-89.449753
+149,Wisconsin,2018-19,Milw College Prep--38th St,,,Milwaukee,Milwaukee,,,,95,,5,5,43.0666301,-87.962171
+150,Wisconsin,2018-19,Mineral Point Elementary,,,Mineral Point,Iowa,,,,95,,5,5,42.857323,-90.184382
+151,Wisconsin,2018-19,Monticello Elementary,,,Monticello,Green,,,,95,,5,5,42.742902,-89.593843
+152,Wisconsin,2018-19,Mother of Good Counsel Gr,,,Milwaukee,Milwaukee,,,,95,,5,5,43.0741713,-87.9976994
+153,Wisconsin,2018-19,Mount Calvary Lutheran Gr,,,Milwaukee,Milwaukee,,,,95,,5,5,43.0711753,-87.979438
+154,Wisconsin,2018-19,Mount Olive Evang Luth,,,Appleton,Outagamie,,,,95,,5,5,44.2914864,-88.3917617
+155,Wisconsin,2018-19,New Auburn Elementary,,,New Auburn,Chippewa,,,,95,,5,5,45.209571,-91.556044
+156,Wisconsin,2018-19,New Richmond Hillside Elementary,,,New Richmond,Saint Croix,,,,95,,5,5,45.10168,-92.52548
+157,Wisconsin,2018-19,New Richmond Paperjack Elementary,,,New Richmond,Saint Croix,,,,95,,5,5,45.112884,-92.5227
+158,Wisconsin,2018-19,New Richmond Starr Elementary,,,New Richmond,Saint Croix,,,,95,,5,5,45.11281,-92.533786
+159,Wisconsin,2018-19,New World Montessori,,,Milwaukee,Milwaukee,,,,95,,5,5,43.17533,-87.921271
+160,Wisconsin,2018-19,North Elementary,,,Antigo,Langlade,,,,95,,5,5,45.147132,-89.14848
+161,Wisconsin,2018-19,North Freedom Elementary,,,North Freedom,Sauk,,,,95,,5,5,43.46884,-89.865751
+162,Wisconsin,2018-19,North Greenville Elementary,,,Greenville,Outagamie,,,,95,,5,5,44.328637,-88.527235
+163,Wisconsin,2018-19,North Lake Elementary,,,North Lake,Waukesha,,,,95,,5,5,43.155658,-88.366726
+164,Wisconsin,2018-19,North Lakeland Elementary,,,Manitowish Waters,Vilas,,,,95,,5,5,46.158406,-89.803295
+165,Wisconsin,2018-19,Northside Elementary,,,Middleton,Dane,,,,95,,5,5,43.114414,-89.502902
+166,Wisconsin,2018-19,Northside Elementary,,,Sun Prairie,Dane,,,,95,,5,5,43.193846,-89.216631
+167,Wisconsin,2018-19,Northwest Catholic,,,Milwaukee,Milwaukee,,,,95,,5,5,43.1477727,-87.962042
+168,Wisconsin,2018-19,Notre Dame School of Milwaukee,,,Milwaukee,Milwaukee,,,,95,,5,5,43.019335,-87.929989
+169,Wisconsin,2018-19,Nuestro Mundo,,,Monona,Dane,,,,95,,5,5,43.061689,-89.339539
+170,Wisconsin,2018-19,Oakwood Elementary,,,Oshkosh,Winnebago,,,,95,,5,5,44.033444,-88.604117
+171,Wisconsin,2018-19,Olson Elementary,,,Verona,Dane,,,,95,,5,5,43.04309,-89.545621
+172,Wisconsin,2018-19,Orchard Lane Elementary,,,New Berlin,Waukesha,,,,95,,5,5,43.007418,-88.088939
+173,Wisconsin,2018-19,Osseo Elementary,,,Osseo,Trempealeau,,,,95,,5,5,44.5821838,-91.2126571
+174,Wisconsin,2018-19,Our Lady Queen of Peace Gr,,,Madison,Dane,,,,95,,5,5,43.0601934,-89.44659
+175,Wisconsin,2018-19,Our Redeemer Lutheran,,,Wauwatosa,Milwaukee,,,,95,,5,5,43.0596335,-88.0380675
+176,Wisconsin,2018-19,Ozaukee Elementary,,,Fredonia,Ozaukee,,,,95,,5,5,43.476496,-87.943048
+177,Wisconsin,2018-19,Park Community Charter,,,Kaukauna,Outagamie,,,,95,,5,5,44.284454,-88.266071
+178,Wisconsin,2018-19,Park Lawn Elementary,,,Oconomowoc,Waukesha,,,,95,,5,5,43.107929,-88.50736
+179,Wisconsin,2018-19,Parkside Elementary,,,Monroe,Green,,,,95,,5,5,42.608213,-89.649547
+180,Wisconsin,2018-19,Patch Elementary,,,Omro,Winnebago,,,,95,,5,5,44.035014,-88.740178
+181,Wisconsin,2018-19,Peace Lutheran Elementary,,,Hartford,Washington,,,,95,,5,5,43.328251,-88.3814442
+182,Wisconsin,2018-19,Pembine Elementary,,,Pembine,Marinette,,,,95,,5,5,45.636192,-87.994561
+183,Wisconsin,2018-19,Pilgrim Evang Lutheran,,,Menomonee Falls,Waukesha,,,,95,,5,5,43.1164492,-88.1069091
+184,Wisconsin,2018-19,Pioneer Elementary,,,Green Bay,Brown,,,,95,,5,5,44.487145,-88.092206
+185,Wisconsin,2018-19,Pleasant View Elementary,,,Franklin,Milwaukee,,,,95,,5,5,42.90827,-87.972829
+186,Wisconsin,2018-19,Plover-Whiting Elementary,,,Plover,Portage,,,,95,,5,5,44.478383,-89.526831
+187,Wisconsin,2018-19,Port Edwards Elementary,,,Port Edwards,Wood,,,,95,,5,5,44.34926,-89.866481
+188,Wisconsin,2018-19,Poynette Elementary,,,Poynette,Columbia,,,,95,,5,5,43.390896,-89.396629
+189,Wisconsin,2018-19,Prairie,,,Racine,Racine,,,,95,,5,5,42.77288,-87.774624
+190,Wisconsin,2018-19,Prairie View Elementary,,,Oregon,Dane,,,,95,,5,5,42.930049,-89.381244
+191,Wisconsin,2018-19,Prairie View Elementary,,,Beaver Dam,Dodge,,,,95,,5,5,43.46517,-88.806434
+192,Wisconsin,2018-19,Purdy Elementary,,,Fort Atkinson,Jefferson,,,,95,,5,5,42.91905,-88.835781
+193,Wisconsin,2018-19,Rawson Elementary,,,South Milwaukee,Milwaukee,,,,95,,5,5,42.916544,-87.870234
+194,Wisconsin,2018-19,Readfield Elementary,,,Readfield,Waupaca,,,,95,,5,5,44.271403,-88.767186
+195,Wisconsin,2018-19,Red Smith K-8,,,Green Bay,Brown,,,,95,,5,5,44.545229,-87.905067
+196,Wisconsin,2018-19,Rib Mountain Elementary,,,Wausau,Marathon,,,,95,,5,5,44.929881,-89.669227
+197,Wisconsin,2018-19,Richards Elementary,,,Whitefish Bay,Milwaukee,,,,95,,5,5,43.12342,-87.905982
+198,Wisconsin,2018-19,Rio Elementary,,,Rio,Columbia,,,,95,,5,5,43.445933,-89.245707
+199,Wisconsin,2018-19,Risen Savior Evan Luth,,,Milwaukee,Milwaukee,,,,95,,5,5,43.1787177,-88.0301293
+200,Wisconsin,2018-19,Robinwood Elementary,,,Franklin,Milwaukee,,,,95,,5,5,42.902128,-88.048461
+201,Wisconsin,2018-19,Rockfield Elementary,,,Germantown,Washington,,,,95,,5,5,43.256683,-88.137403
+202,Wisconsin,2018-19,Ronald Reagan Elementary,,,New Berlin,Waukesha,,,,95,,5,5,42.96535,-88.129069
+203,Wisconsin,2018-19,Roosevelt Elementary,,,Eau Claire,Eau Claire,,,,95,,5,5,44.830419,-91.521624
+204,Wisconsin,2018-19,Rosendale Primary,,,Rosendale,Fond du Lac,,,,95,,5,5,43.80942,-88.678891
+205,Wisconsin,2018-19,Royal Oaks Elementary,,,Sun Prairie,Dane,,,,95,,5,5,43.184381,-89.252897
+206,Wisconsin,2018-19,Royall Elementary,,,Elroy,Juneau,,,,95,,5,5,43.754028,-90.275194
+207,Wisconsin,2018-19,Saint Adalbert Grade,,,Milwaukee,Milwaukee,,,,95,,5,5,43.0062628,-87.9372103
+208,Wisconsin,2018-19,Saint Alphonsus Grade,,,Greendale,Milwaukee,,,,95,,5,5,42.9409755,-87.9894295
+209,Wisconsin,2018-19,Saint Andrews Parish,,,Delavan,Walworth,,,,95,,5,5,42.632942,-88.6388921
+210,Wisconsin,2018-19,Saint Anthony Grade,,,Oconto Falls,Oconto,,,,95,,5,5,44.877366,-88.144362
+211,Wisconsin,2018-19,Saint Anthony,,,Milwaukee,Milwaukee,,,,95,,5,5,43.0128766,-87.9170943
+212,Wisconsin,2018-19,Saint Bernard Grade Sch-GRACE,,,Green Bay,Brown,,,,95,,5,5,44.4938699,-87.97262
+213,Wisconsin,2018-19,Saint Boniface Grade,,,Germantown,Washington,,,,95,,5,5,43.2349127,-88.1615536
+214,Wisconsin,2018-19,Saint Bronislava Elementary,,,Plover,Portage,,,,95,,5,5,44.4551703,-89.5553826
+215,Wisconsin,2018-19,Saint Charles Borromeo,,,Chippewa Falls,Chippewa,,,,95,,5,5,44.9383398,-91.4041593
+216,Wisconsin,2018-19,Saint Charles Borromeo,,,Milwaukee,Milwaukee,,,,95,,5,5,42.9426111,-87.9545366
+217,Wisconsin,2018-19,Saint Charles Parish,,,Hartland,Waukesha,,,,95,,5,5,43.1081127,-88.338041
+218,Wisconsin,2018-19,Saint Clare's Grade,,,Wrightstown,Brown,,,,95,,5,5,44.3289911,-88.1648902
+219,Wisconsin,2018-19,Saint Croix Central Elementary,,,Roberts,Saint Croix,,,,95,,5,5,44.98225,-92.551565
+220,Wisconsin,2018-19,Saint Dennis Grade,,,Madison,Dane,,,,95,,5,5,43.0904245,-89.3157269
+221,Wisconsin,2018-19,Saint Dominic Catholic Gr,,,Brookfield,Waukesha,,,,95,,5,5,43.088894,-88.1376569
+222,Wisconsin,2018-19,Saint Frances Cabrini,,,West Bend,Washington,,,,95,,5,5,43.407947,-88.1833506
+223,Wisconsin,2018-19,Saint James Grade,,,Madison,Dane,,,,95,,5,5,43.0661331,-89.4058522
+224,Wisconsin,2018-19,Saint James Lutheran Grade,,,Shawano,Shawano,,,,95,,5,5,44.7775911,-88.6051203
+225,Wisconsin,2018-19,Saint Jerome Parochial Gr,,,Columbus,Columbia,,,,95,,5,5,43.324223,-89.020798
+226,Wisconsin,2018-19,Saint John the Baptist Gr,,,Jefferson,Jefferson,,,,95,,5,5,43.0068104,-88.8028315
+227,Wisconsin,2018-19,Saint John the Baptist-GRACE,,,Green Bay,Brown,,,,95,,5,5,44.5641415,-88.0822885
+228,Wisconsin,2018-19,Saint John Vianney Cath,,,Janesville,Rock,,,,95,,5,5,42.6778408,-89.0071087
+229,Wisconsin,2018-19,Saint Johns Evang Lutheran,,,Milwaukee,Milwaukee,,,,95,,5,5,42.9717694,-88.0013095
+230,Wisconsin,2018-19,Saint Johns Lutheran Grade,,,Two Rivers,Manitowoc,,,,95,,5,5,44.1734476,-87.5992084
+231,Wisconsin,2018-19,Saint Johns Lutheran,,,Racine,Racine,,,,95,,5,5,42.7396487,-87.7885903
+232,Wisconsin,2018-19,Saint Joseph Grade,,,Menomonie,Dunn,,,,95,,5,5,44.8750715,-91.9189273
+233,Wisconsin,2018-19,Saint Joseph Grade,,,Fort Atkinson,Jefferson,,,,95,,5,5,42.903306,-88.846135
+234,Wisconsin,2018-19,Saint Joseph,,,Baraboo,Sauk,,,,95,,5,5,43.4687939,-89.7385946
+235,Wisconsin,2018-19,Saint Jude the Apostle Gr,,,Wauwatosa,Milwaukee,,,,95,,5,5,43.0400627,-88.0135329
+236,Wisconsin,2018-19,Saint Lucy Grade,,,Racine,Racine,,,,95,,5,5,42.6958531,-87.8120196
+237,Wisconsin,2018-19,Saint Maria Goretti,,,Madison,Dane,,,,95,,5,5,43.0342162,-89.4722977
+238,Wisconsin,2018-19,Saint Mark's Ev Lutheran,,,Watertown,Jefferson,,,,95,,5,5,43.19546,-88.717536
+239,Wisconsin,2018-19,Saint Mary Parish,,,Hales Corners,Milwaukee,,,,95,,5,5,42.9486466,-88.0330224
+240,Wisconsin,2018-19,Saint Mary Parish,,,Menomonee Falls,Waukesha,,,,95,,5,5,43.1804664,-88.1113298
+241,Wisconsin,2018-19,Saint Mary's Springs Academy,,,Fond du Lac,Fond du Lac,,,,95,,5,5,43.7866086,-88.3846574
+242,Wisconsin,2018-19,Saint Marys Grade,,,Marathon,Marathon,,,,95,,5,5,44.9277759,-89.8387239
+243,Wisconsin,2018-19,Saint Matthew El,,,Oak Creek,Milwaukee,,,,95,,5,5,42.874512,-87.8619863
+244,Wisconsin,2018-19,Saint Monica Grade,,,Whitefish Bay,Milwaukee,,,,95,,5,5,43.1195082,-87.9076279
+245,Wisconsin,2018-19,Saint Patrick Grade,,,Mauston,Juneau,,,,95,,5,5,43.7969551,-90.0731712
+246,Wisconsin,2018-19,Saint Patricks Grade,,,Sparta,Monroe,,,,95,,5,5,43.944364,-90.8151799
+247,Wisconsin,2018-19,Saint Paul Lutheran Grade,,,Bonduel,Shawano,,,,95,,5,5,44.737653,-88.4426701
+248,Wisconsin,2018-19,Saint Pauls Evang Lutheran,,,Wonewoc,Juneau,,,,95,,5,5,43.6499441,-90.2206589
+249,Wisconsin,2018-19,Saint Pauls Evang Lutheran,,,Onalaska,La Crosse,,,,95,,5,5,43.8843185,-91.2197876
+250,Wisconsin,2018-19,Saint Pauls Evang Lutheran,,,Oconomowoc,Waukesha,,,,95,,5,5,43.111788,-88.495572
+251,Wisconsin,2018-19,Saint Pauls Lutheran,,,Franklin,Milwaukee,,,,95,,5,5,42.9195381,-87.9805915
+252,Wisconsin,2018-19,Saint Pauls Lutheran,,,East Troy,Walworth,,,,95,,5,5,42.7917266,-88.3965262
+253,Wisconsin,2018-19,Saint Philips Lutheran,,,Milwaukee,Milwaukee,,,,95,,5,5,43.0732901,-87.905028
+254,Wisconsin,2018-19,Saint Robert Grade,,,Shorewood,Milwaukee,,,,95,,5,5,43.0898381,-87.882187
+255,Wisconsin,2018-19,Saint Sebastian Grade,,,Milwaukee,Milwaukee,,,,95,,5,5,43.0538857,-87.9814358
+256,Wisconsin,2018-19,Saint Stephen Elementary,,,Stevens Point,Portage,,,,95,,5,5,44.52212,-89.5791604
+257,Wisconsin,2018-19,Saint Thomas Aquinas Academy,,,Milwaukee,Milwaukee,,,,95,,5,5,42.971751,-87.9058608
+258,Wisconsin,2018-19,Saint William Grade,,,Janesville,Rock,,,,95,,5,5,42.6843294,-89.0432919
+259,Wisconsin,2018-19,Salam,,,Milwaukee,Milwaukee,,,,95,,5,5,42.95884,-87.930191
+260,Wisconsin,2018-19,Salem Lutheran,,,Milwaukee,Milwaukee,,,,95,,5,5,43.142422,-88.04514
+261,Wisconsin,2018-19,Sandburg Elementary,,,Madison,Dane,,,,95,,5,5,43.136433,-89.312807
+262,Wisconsin,2018-19,Section Elementary,,,Mukwonago,Waukesha,,,,95,,5,5,42.892575,-88.381584
+263,Wisconsin,2018-19,Seeds of Health Elementary,,,Milwaukee,Milwaukee,,,,95,,5,5,43.0003391,-87.9315669
+264,Wisconsin,2018-19,Seneca Elementary,,,Seneca,Crawford,,,,95,,5,5,43.265192,-90.957088
+265,Wisconsin,2018-19,Sharon Community,,,Sharon,Walworth,,,,95,,5,5,42.507203,-88.725907
+266,Wisconsin,2018-19,Sheboygan Leadership Academy,,,Sheboygan,Sheboygan,,,,95,,5,5,43.748031,-87.713559
+267,Wisconsin,2018-19,Shepherd of the Valley Luth Sc,,,Menasha,Outagamie,,,,95,,5,5,44.2139971,-88.433539
+268,Wisconsin,2018-19,Shiocton Elementary,,,Shiocton,Outagamie,,,,95,,5,5,44.444138,-88.574582
+269,Wisconsin,2018-19,Smith Elementary,,,Oshkosh,Winnebago,,,,95,,5,5,43.999821,-88.543075
+270,Wisconsin,2018-19,Solon Springs,,,Solon Springs,Douglas,,,,95,,5,5,46.346085,-91.831277
+271,Wisconsin,2018-19,Spence Elementary,,,La Crosse,La Crosse,,,,95,,5,5,43.787976,-91.222391
+272,Wisconsin,2018-19,Spencer Elementary,,,Spencer,Marathon,,,,95,,5,5,44.759131,-90.293743
+273,Wisconsin,2018-19,SS Peter &amp; Paul Grade,,,Independence,Trempealeau,,,,95,,5,5,44.3653681,-91.4223571
+274,Wisconsin,2018-19,St John's Ev Lutheran,,,Wauwatosa,Milwaukee,,,,95,,5,5,43.0480674,-88.0116436
+275,Wisconsin,2018-19,St John's Lutheran,,,Baraboo,Sauk,,,,95,,5,5,43.47231,-89.734731
+276,Wisconsin,2018-19,St Matthew's Lutheran,,,Oconomowoc,Waukesha,,,,95,,5,5,43.1156051,-88.5123004
+277,Wisconsin,2018-19,St Pauls Evang Lutheran,,,North Fond du Lac,Fond du Lac,,,,95,,5,5,43.814134,-88.4866474
+278,Wisconsin,2018-19,St Pauls Lutheran,,,Muskego,Waukesha,,,,95,,5,5,42.924,-88.091551
+279,Wisconsin,2018-19,State Road Elementary,,,La Crosse,La Crosse,,,,95,,5,5,43.78702,-91.200141
+280,Wisconsin,2018-19,Stellar Collegiate,,,Milwaukee,Milwaukee,,,,95,,5,5,43.0197153,-87.9199545
+281,Wisconsin,2018-19,Stettin Elementary,,,Wausau,Marathon,,,,95,,5,5,44.96421,-89.705453
+282,Wisconsin,2018-19,Stoddard Elementary,,,Stoddard,Vernon,,,,95,,5,5,43.665715,-91.217211
+283,Wisconsin,2018-19,Sunset Elementary,,,Sturgeon Bay,Door,,,,95,,5,5,44.844988,-87.372099
+284,Wisconsin,2018-19,Sunset Ridge Elementary,,,Middleton,Dane,,,,95,,5,5,43.113311,-89.584606
+285,Wisconsin,2018-19,THINK Academy,,,Rudolph,Wood,,,,95,,5,5,44.497894,-89.7938549
+286,Wisconsin,2018-19,Thoreau Elementary,,,Madison,Dane,,,,95,,5,5,43.046089,-89.442341
+287,Wisconsin,2018-19,Tibbets Elementary,,,Elkhorn,Walworth,,,,95,,5,5,42.739257,-88.559494
+288,Wisconsin,2018-19,Trempealeau Elementary,,,Trempealeau,Trempealeau,,,,95,,5,5,44.005334,-91.435819
+289,Wisconsin,2018-19,Trinity Academy,,,Pewaukee,Waukesha,,,,95,,5,5,43.07729,-88.198881
+290,Wisconsin,2018-19,Trinity Lutheran,,,Kiel,Manitowoc,,,,95,,5,5,43.91025,-88.003781
+291,Wisconsin,2018-19,Trinity Lutheran,,,Waukesha,Waukesha,,,,95,,5,5,43.01495,-88.225201
+292,Wisconsin,2018-19,Trinity Lutheran School LC-MS,,,Racine,Racine,,,,95,,5,5,42.7474434,-87.7937696
+293,Wisconsin,2018-19,Trinity-St Lukes Luth Gr,,,Watertown,Jefferson,,,,95,,5,5,43.1882153,-88.721153
+294,Wisconsin,2018-19,Union Grove Elementary,,,Union Grove,Racine,,,,95,,5,5,42.677,-88.046651
+295,Wisconsin,2018-19,University Sch of Milwaukee,,,Milwaukee,Milwaukee,,,,95,,5,5,43.0768862,-87.8831631
+296,Wisconsin,2018-19,Verona Area International,,,Fitchburg,Dane,,,,95,,5,5,43.0042,-89.449231
+297,Wisconsin,2018-19,Washington Elementary,,,Beaver Dam,Dodge,,,,95,,5,5,43.468636,-88.83858
+298,Wisconsin,2018-19,Washington Elementary,,,Stevens Point,Portage,,,,95,,5,5,44.527739,-89.551102
+299,Wisconsin,2018-19,Washington Elementary,,,Waterford,Racine,,,,95,,5,5,42.84222,-88.197128
+300,Wisconsin,2018-19,Washington Elementary,,,Oshkosh,Winnebago,,,,95,,5,5,44.016292,-88.524654
+301,Wisconsin,2018-19,Waunakee Heritage Elementary,,,Waunakee,Dane,,,,95,,5,5,43.18732,-89.454407
+302,Wisconsin,2018-19,Waunakee Prairie Elementary,,,Waunakee,Dane,,,,95,,5,5,43.1991,-89.453082
+303,Wisconsin,2018-19,Wauwatosa Catholic,,,Wauwatosa,Milwaukee,,,,95,,5,5,43.050935,-88.006707
+304,Wisconsin,2018-19,Wauwatosa STEM,,,Wauwatosa,Milwaukee,,,,95,,5,5,43.043615,-88.012942
+305,Wisconsin,2018-19,Webster Elementary,,,Watertown,Jefferson,,,,95,,5,5,43.1847,-88.714705
+306,Wisconsin,2018-19,Wequiock Elementary,,,Green Bay,Brown,,,,95,,5,5,44.588593,-87.868402
+307,Wisconsin,2018-19,West El-KG Ctr,,,Baraboo,Sauk,,,,95,,5,5,43.4710944,-89.7442906
+308,Wisconsin,2018-19,West Middleton Elementary,,,Verona,Dane,,,,95,,5,5,43.05922,-89.5787
+309,Wisconsin,2018-19,West Side Elementary,,,Elkhorn,Walworth,,,,95,,5,5,42.676436,-88.552662
+310,Wisconsin,2018-19,Whittier Elementary,,,Pleasant Prairie,Kenosha,,,,95,,5,5,42.550561,-87.870628
+311,Wisconsin,2018-19,Whittier Elementary,,,Waukesha,Waukesha,,,,95,,5,5,42.992692,-88.226461
+312,Wisconsin,2018-19,Wilder Elementary,,,Green Bay,Brown,,,,95,,5,5,44.478004,-87.955299
+313,Wisconsin,2018-19,Wileman Elementary,,,Delavan,Walworth,,,,95,,5,5,42.62814,-88.630581
+314,Wisconsin,2018-19,Wilson Elementary,,,Beaver Dam,Dodge,,,,95,,5,5,43.458075,-88.844412
+315,Wisconsin,2018-19,Wilson Elementary,,,Sheboygan,Sheboygan,,,,95,,5,5,43.722486,-87.726268
+316,Wisconsin,2018-19,Wilson Elementary,,,Wauwatosa,Milwaukee,,,,95,,5,5,43.043574,-88.012889
+317,Wisconsin,2018-19,Windsor Elementary,,,Windsor,Dane,,,,95,,5,5,43.217175,-89.333079
+318,Wisconsin,2018-19,Woodfield Elementary,,,Waterford,Racine,,,,95,,5,5,42.762126,-88.22702
+319,Wisconsin,2018-19,Woodlands,,,Milwaukee,Milwaukee,,,,95,,5,5,43.036896,-87.982187
+320,Wisconsin,2018-19,Yahara Elementary,,,De Forest,Dane,,,,95,,5,5,43.249761,-89.356959
+321,Wisconsin,2018-19,Yorkville Elementary,,,Union Grove,Racine,,,,95,,5,5,42.741544,-88.042784
+322,Wisconsin,2018-19,Zion Lutheran Grade,,,Menomonee Falls,Waukesha,,,,95,,5,5,43.1060316,-88.1440069
+323,Wisconsin,2018-19,Zion Lutheran Sch-Wayside,,,Greenleaf,Manitowoc,,,,95,,5,5,44.2487588,-87.9502244
+324,Wisconsin,2018-19,Academy of Excellence,,,Milwaukee,Milwaukee,,,,94,,5,5,43.024982,-87.926752
+325,Wisconsin,2018-19,Altoona Elementary,,,Altoona,Eau Claire,,,,94,,6,5,44.799322,-91.409604
+326,Wisconsin,2018-19,Birnamwood Elementary,,,Birnamwood,Shawano,,,,94,,5,5,44.929099,-89.209933
+327,Wisconsin,2018-19,Black Hawk Elementary,,,South Wayne,Lafayette,,,,94,,5,5,42.5697,-89.876086
+328,Wisconsin,2018-19,Blakewood Elementary,,,South Milwaukee,Milwaukee,,,,94,,5,5,42.896987,-87.874951
+329,Wisconsin,2018-19,Bridges Elementary,,,Prairie du Sac,Sauk,,,,94,,6,5,43.290257,-89.73233
+330,Wisconsin,2018-19,Cadott Elementary,,,Cadott,Chippewa,,,,94,,5,5,44.951151,-91.143959
+331,Wisconsin,2018-19,Central City Cyberschool,,,Milwaukee,Milwaukee,,,,94,,5,5,43.09549,-87.969245
+332,Wisconsin,2018-19,Cesar Chavez Elementary,,,Madison,Dane,,,,94,,5,5,43.009534,-89.500281
+333,Wisconsin,2018-19,Christian Educ Leadership Academy,,,Pewaukee,Waukesha,,,,94,,6,5,43.104022,-88.271173
+334,Wisconsin,2018-19,Cumberland Elementary,,,Whitefish Bay,Milwaukee,,,,94,,5,5,43.102871,-87.896547
+335,Wisconsin,2018-19,Dr H B Tanner Elementary,,,Kaukauna,Outagamie,,,,94,,5,5,44.259909,-88.283344
+336,Wisconsin,2018-19,Elm Dale Elementary,,,Greenfield,Milwaukee,,,,94,,5,5,42.94846,-87.963469
+337,Wisconsin,2018-19,Ferber Elementary,,,Appleton,Outagamie,,,,94,,6,5,44.293953,-88.398849
+338,Wisconsin,2018-19,Fontana Elementary,,,Fontana,Walworth,,,,94,,6,5,42.548622,-88.585769
+339,Wisconsin,2018-19,Franklin Elementary,,,Oshkosh,Winnebago,,,,94,,6,5,44.012346,-88.571248
+340,Wisconsin,2018-19,Glacier Edge Elementary,,,Verona,Dane,,,,94,,5,5,42.978585,-89.517779
+341,Wisconsin,2018-19,Grant Elementary,,,Wausau,Marathon,,,,94,,6,5,44.969136,-89.640941
+342,Wisconsin,2018-19,Haugen Elementary,,,Haugen,Barron,,,,94,,6,5,45.610784,-91.783455
+343,Wisconsin,2018-19,Hewitt-Texas Elementary,,,Wausau,Marathon,,,,94,,5,5,45.040793,-89.494437
+344,Wisconsin,2018-19,Holcombe Elementary,,,Holcombe,Chippewa,,,,94,,6,5,45.221926,-91.121033
+345,Wisconsin,2018-19,Holy Apostles Grade,,,New Berlin,Waukesha,,,,94,,6,5,42.9742972,-88.1128923
+346,Wisconsin,2018-19,Jackson Elementary,,,Jackson,Washington,,,,94,,5,5,43.324714,-88.161198
+347,Wisconsin,2018-19,Jim Falls Elementary,,,Jim Falls,Chippewa,,,,94,,6,5,45.04254,-91.273827
+348,Wisconsin,2018-19,Juda Elementary,,,Juda,Green,,,,94,,6,5,42.591127,-89.510426
+349,Wisconsin,2018-19,Kewaunee Elementary,,,Kewaunee,Kewaunee,,,,94,,5,5,44.452204,-87.517735
+350,Wisconsin,2018-19,Kickapoo Elementary,,,Viola,Vernon,,,,94,,6,5,43.493402,-90.677605
+351,Wisconsin,2018-19,Lapham Elementary,,,Madison,Dane,,,,94,,5,5,43.085575,-89.372141
+352,Wisconsin,2018-19,Lincoln-Erdman Elementary,,,Sheboygan,Sheboygan,,,,94,,6,5,43.789102,-87.770941
+353,Wisconsin,2018-19,Loyal Elementary,,,Loyal,Clark,,,,94,,5,5,44.73612,-90.502671
+354,Wisconsin,2018-19,Luther Elementary,,,South Milwaukee,Milwaukee,,,,94,,5,5,42.916831,-87.854997
+355,Wisconsin,2018-19,Luxemburg-Casco Primary,,,Luxemburg,Kewaunee,,,,94,,5,5,44.549067,-87.699842
+356,Wisconsin,2018-19,Marengo Valley Elementary,,,Ashland,Ashland,,,,94,,6,5,46.443772,-90.873596
+357,Wisconsin,2018-19,Meadowbrook Elementary,,,Green Bay,Brown,,,,94,,5,5,44.561312,-88.098529
+358,Wisconsin,2018-19,Meadowview Elementary,,,Eau Claire,Eau Claire,,,,94,,6,5,44.768765,-91.469278
+359,Wisconsin,2018-19,Merrimac Community,,,Merrimac,Sauk,,,,94,,6,5,43.375418,-89.624034
+360,Wisconsin,2018-19,Milw College Prep--36th St,,,Milwaukee,Milwaukee,,,,94,,6,5,43.0632685,-87.9591562
+361,Wisconsin,2018-19,Mitchell Elementary,,,West Allis,Milwaukee,,,,94,,6,5,42.993734,-88.039307
+362,Wisconsin,2018-19,Mondovi Elementary,,,Mondovi,Buffalo,,,,94,,5,5,44.571156,-91.674647
+363,Wisconsin,2018-19,North Shore Montessori,,,Glendale,Milwaukee,,,,94,,5,6,43.10091,-87.915161
+364,Wisconsin,2018-19,Northview Elementary,,,Howards Grove,Sheboygan,,,,94,,5,5,43.842823,-87.824759
+365,Wisconsin,2018-19,Northwest Lutheran Grade,,,Milwaukee,Milwaukee,,,,94,,5,5,43.0919784,-88.0143405
+366,Wisconsin,2018-19,Oakdale Elementary,,,Tomah,Monroe,,,,94,,5,5,43.95821,-90.380426
+367,Wisconsin,2018-19,Parkway Elementary,,,Glendale,Milwaukee,,,,94,,5,5,43.125202,-87.927419
+368,Wisconsin,2018-19,Pittsville Elementary,,,Pittsville,Wood,,,,94,,5,5,44.444403,-90.132764
+369,Wisconsin,2018-19,Princeton,,,Princeton,Green Lake,,,,94,,6,5,43.843824,-89.12036
+370,Wisconsin,2018-19,Roosevelt Elementary,,,Wauwatosa,Milwaukee,,,,94,,6,5,43.06479,-88.004465
+371,Wisconsin,2018-19,Saint Bridget Parish,,,River Falls,Pierce,,,,94,,6,5,44.863072,-92.6229029
+372,Wisconsin,2018-19,Saint Clement,,,Lancaster,Grant,,,,94,,6,5,42.8474144,-90.7124556
+373,Wisconsin,2018-19,Saint Francis of Assisi Elementary,,,Manitowoc,Manitowoc,,,,94,,5,5,44.1092134,-87.6662666
+374,Wisconsin,2018-19,Saint Gabriel Grade,,,Neenah,Winnebago,,,,94,,5,5,44.1860641,-88.4825298
+375,Wisconsin,2018-19,Saint John Lutheran,,,Merrill,Lincoln,,,,94,,6,5,45.1836035,-89.6851134
+376,Wisconsin,2018-19,Saint Johns Lutheran,,,Watertown,Jefferson,,,,94,,6,5,43.0060145,-88.8044091
+377,Wisconsin,2018-19,Saint Joseph Elementary,,,Wauwatosa,Milwaukee,,,,94,,6,5,43.0677806,-88.0637611
+378,Wisconsin,2018-19,Saint Joseph,,,Rice Lake,Barron,,,,94,,6,5,45.5049863,-91.7380505
+379,Wisconsin,2018-19,Sch of Technology and Arts I,,,La Crosse,La Crosse,,,,94,,6,5,43.8062928,-91.2450629
+380,Wisconsin,2018-19,Schenk Elementary,,,Madison,Dane,,,,94,,5,5,43.092508,-89.323594
+381,Wisconsin,2018-19,Schultz Elementary,,,Mishicot,Manitowoc,,,,94,,6,5,44.23811,-87.629289
+382,Wisconsin,2018-19,Schurz Elementary,,,Watertown,Jefferson,,,,94,,6,5,43.177466,-88.727339
+383,Wisconsin,2018-19,Sheboygan Falls Elementary,,,Sheboygan Falls,Sheboygan,,,,94,,5,5,43.737367,-87.805688
+384,Wisconsin,2018-19,Shell Lake Primary (K-2),,,Shell Lake,Washburn,,,,94,,6,5,45.729895,-91.936699
+385,Wisconsin,2018-19,St John's Evangelical Luth,,,Sparta,Monroe,,,,94,,5,6,43.9422439,-90.8155061
+386,Wisconsin,2018-19,Stillson Elementary,,,Chippewa Falls,Chippewa,,,,94,,6,5,44.91854,-91.321401
+387,Wisconsin,2018-19,Stratford Elementary,,,Stratford,Marathon,,,,94,,5,5,44.805733,-90.076727
+388,Wisconsin,2018-19,Strum Elementary,,,Strum,Trempealeau,,,,94,,6,5,44.54754,-91.396938
+389,Wisconsin,2018-19,Taft Elementary,,,Neenah,Winnebago,,,,94,,5,5,44.18738,-88.480341
+390,Wisconsin,2018-19,Tainter Elementary,,,Rice Lake,Barron,,,,94,,6,5,45.478316,-91.726668
+391,Wisconsin,2018-19,Thorson Elementary,,,Cedarburg,Ozaukee,,,,94,,6,5,43.309592,-87.973323
+392,Wisconsin,2018-19,Todd Elementary,,,Beloit,Rock,,,,94,,5,5,42.50656,-89.015559
+393,Wisconsin,2018-19,Traver Elementary,,,Lake Geneva,Walworth,,,,94,,6,5,42.543643,-88.472132
+394,Wisconsin,2018-19,Tullar Elementary,,,Neenah,Winnebago,,,,94,,6,5,44.1715,-88.495629
+395,Wisconsin,2018-19,Valders Elementary,,,Valders,Manitowoc,,,,94,,6,5,44.068606,-87.887408
+396,Wisconsin,2018-19,Waterloo Elementary,,,Waterloo,Jefferson,,,,94,,6,5,43.190899,-88.992185
+397,Wisconsin,2018-19,Westside Academy,,,Milwaukee,Milwaukee,,,,94,,5,5,43.055724,-87.958145
+398,Wisconsin,2018-19,Woodside Elementary,,,Sussex,Waukesha,,,,94,,6,5,43.153413,-88.216444
+399,Wisconsin,2018-19,Abrams Elementary,,,Abrams,Oconto,,,,93,,5,5,44.782855,-88.055496
+400,Wisconsin,2018-19,Allis Elementary,,,Madison,Dane,,,,93,,5,5,43.07735,-89.321263
+401,Wisconsin,2018-19,Arboretum Elementary,,,Waunakee,Dane,,,,93,,6,5,43.17641,-89.41782
+402,Wisconsin,2018-19,Badger Elementary,,,Appleton,Outagamie,,,,93,,5,5,44.258252,-88.456605
+403,Wisconsin,2018-19,Barrie Elementary,,,Fort Atkinson,Jefferson,,,,93,,5,5,42.932984,-88.85016
+404,Wisconsin,2018-19,Bay Harbor Elementary,,,Suamico,Brown,,,,93,,5,5,44.62204,-88.045481
+405,Wisconsin,2018-19,Brookfield Christian,,,Brookfield,Waukesha,,,,93,,7,5,43.07414,-88.088381
+406,Wisconsin,2018-19,Brown Deer Elementary,,,Brown Deer,Milwaukee,,,,93,,6,5,43.169736,-87.983501
+407,Wisconsin,2018-19,Cathedral,,,Superior,Douglas,,,,93,,5,5,46.72151,-92.095311
+408,Wisconsin,2018-19,Central WI Christian Schs,,,Waupun,Fond du Lac,,,,93,,7,5,43.628136,-88.753131
+409,Wisconsin,2018-19,Cooper Elementary,,,Superior,Douglas,,,,93,,5,5,46.71661,-92.123019
+410,Wisconsin,2018-19,Country Dale Elementary,,,Franklin,Milwaukee,,,,93,,5,5,42.909703,-88.061609
+411,Wisconsin,2018-19,Creekside Elementary,,,Sun Prairie,Dane,,,,93,,5,5,43.165189,-89.254072
+412,Wisconsin,2018-19,Crestwood Elementary,,,Antigo,Langlade,,,,93,,5,5,45.109593,-89.072277
+413,Wisconsin,2018-19,Cushing Elementary,,,Delafield,Waukesha,,,,93,,5,5,43.057163,-88.40544
+414,Wisconsin,2018-19,Deerfield Elementary,,,Oak Creek,Milwaukee,,,,93,,5,5,42.853719,-87.855988
+415,Wisconsin,2018-19,Dodgeville Elementary,,,Dodgeville,Iowa,,,,93,,5,5,42.965155,-90.140079
+416,Wisconsin,2018-19,E Cook Elementary,,,Oshkosh,Winnebago,,,,93,,7,5,44.037119,-88.522031
+417,Wisconsin,2018-19,Edgerton Community Elementary,,,Edgerton,Rock,,,,93,,7,5,42.842261,-89.071154
+418,Wisconsin,2018-19,Endeavor Elementary,,,Endeavor,Columbia,,,,93,,5,5,43.710475,-89.46484
+419,Wisconsin,2018-19,Erin Elementary,,,Hartford,Washington,,,,93,,8,5,43.250896,-88.382196
+420,Wisconsin,2018-19,Falk Elementary,,,Madison,Dane,,,,93,,5,5,43.040683,-89.489726
+421,Wisconsin,2018-19,Flynn Elementary,,,Eau Claire,Eau Claire,,,,93,,5,5,44.803344,-91.480621
+422,Wisconsin,2018-19,Franklin Elementary,,,Wausau,Marathon,,,,93,,5,5,44.969073,-89.624907
+423,Wisconsin,2018-19,Galesville Elementary,,,Galesville,Trempealeau,,,,93,,8,5,44.086114,-91.363003
+424,Wisconsin,2018-19,Gaston Elementary,,,Beloit,Rock,,,,93,,5,5,42.50219,-89.057511
+425,Wisconsin,2018-19,Gegan Elementary,,,Menasha,Winnebago,,,,93,,5,5,44.222022,-88.440373
+426,Wisconsin,2018-19,Grace Evang Lutheran,,,Menomonee Falls,Waukesha,,,,93,,5,5,43.176723,-88.11121
+427,Wisconsin,2018-19,Grant Elementary,,,Wisconsin Rapids,Wood,,,,93,,5,5,44.359419,-89.717139
+428,Wisconsin,2018-19,Greenfield Elementary,,,Baldwin,Saint Croix,,,,93,,5,5,44.965094,-92.382307
+429,Wisconsin,2018-19,Holy Trinity Grade,,,Kewaskum,Washington,,,,93,,7,5,43.5206497,-88.2254204
+430,Wisconsin,2018-19,HolyGhostImmaculateConception,,,Dickeyville,Grant,,,,93,,7,5,42.6276577,-90.5954055
+431,Wisconsin,2018-19,Howard Elementary,,,Green Bay,Brown,,,,93,,5,5,44.559704,-88.073662
+432,Wisconsin,2018-19,Huegel Elementary,,,Madison,Dane,,,,93,,5,5,43.024963,-89.487844
+433,Wisconsin,2018-19,Immanuel Evang Lutheran Gr,,,Manitowoc,Manitowoc,,,,93,,7,5,44.1072752,-87.6595897
+434,Wisconsin,2018-19,Indian Hill Elementary,,,River Hills,Milwaukee,,,,93,,5,5,43.175732,-87.921509
+435,Wisconsin,2018-19,Ixonia Elementary,,,Ixonia,Waukesha,,,,93,,7,5,43.148448,-88.598243
+436,Wisconsin,2018-19,Janssen Elementary,,,Combined Locks,Outagamie,,,,93,,5,5,44.267063,-88.307133
+437,Wisconsin,2018-19,Jefferson Elementary,,,Sheboygan,Sheboygan,,,,93,,5,5,43.762216,-87.725553
+438,Wisconsin,2018-19,Johnson Creek Elementary,,,Johnson Creek,Jefferson,,,,93,,7,5,43.074351,-88.769746
+439,Wisconsin,2018-19,Kennedy Elementary,,,Junction City,Portage,,,,93,,7,5,44.5933,-89.765454
+440,Wisconsin,2018-19,Kewaskum Elementary,,,Kewaskum,Washington,,,,93,,5,5,43.522958,-88.224744
+441,Wisconsin,2018-19,Ladysmith Elementary,,,Ladysmith,Rusk,,,,93,,5,5,45.458706,-91.09528
+442,Wisconsin,2018-19,Levi Leonard Elementary,,,Evansville,Rock,,,,93,,5,5,42.775176,-89.306911
+443,Wisconsin,2018-19,Longfellow Elementary,,,Clintonville,Waupaca,,,,93,,8,5,44.620453,-88.763754
+444,Wisconsin,2018-19,Lowell Elementary,,,Madison,Dane,,,,93,,5,5,43.093175,-89.340369
+445,Wisconsin,2018-19,MacArthur Elementary,,,Germantown,Washington,,,,93,,6,5,43.22757,-88.101789
+446,Wisconsin,2018-19,Marcy Elementary,,,Menomonee Falls,Waukesha,,,,93,,6,5,43.105904,-88.136961
+447,Wisconsin,2018-19,Merrill Elementary,,,Oshkosh,Winnebago,,,,93,,7,5,44.033141,-88.539789
+448,Wisconsin,2018-19,Minocqua Elementary,,,Minocqua,Oneida,,,,93,,5,5,45.82308,-89.714686
+449,Wisconsin,2018-19,Morning Star Lutheran,,,Jackson,Washington,,,,93,,7,5,43.33018,-88.158701
+450,Wisconsin,2018-19,Mound View Elementary,,,Elk Mound,Dunn,,,,93,,6,5,44.873187,-91.678419
+451,Wisconsin,2018-19,Muir Elementary,,,Madison,Dane,,,,93,,5,5,43.068236,-89.49476
+452,Wisconsin,2018-19,Neenah Creek Elementary,,,Briggsville,Sauk,,,,93,,5,7,43.65027,-89.58521
+453,Wisconsin,2018-19,Our Lady Queen of Peace Gr,,,Milwaukee,Milwaukee,,,,93,,5,5,42.98624,-87.9495809
+454,Wisconsin,2018-19,Parkview Elementary,,,Orfordville,Rock,,,,93,,7,5,42.63178,-89.256301
+455,Wisconsin,2018-19,Pewaukee Lake Elementary,,,Pewaukee,Waukesha,,,,93,,5,5,43.076353,-88.262353
+456,Wisconsin,2018-19,Pineview Elementary,,,Reedsburg,Sauk,,,,93,,8,5,43.540484,-89.992643
+457,Wisconsin,2018-19,Prairie View Elementary,,,Holmen,La Crosse,,,,93,,5,5,43.990107,-91.284589
+458,Wisconsin,2018-19,Putnam Heights Elementary,,,Eau Claire,Eau Claire,,,,93,,5,5,44.78855,-91.505041
+459,Wisconsin,2018-19,Reedsville Elementary,,,Reedsville,Manitowoc,,,,93,,5,5,44.148334,-87.95287
+460,Wisconsin,2018-19,Reek Elementary,,,Lake Geneva,Walworth,,,,93,,7,5,42.546144,-88.501036
+461,Wisconsin,2018-19,Riverview Elementary,,,Manitowoc,Manitowoc,,,,93,,5,5,44.106766,-87.704602
+462,Wisconsin,2018-19,Roosevelt Elementary,,,Janesville,Rock,,,,93,,7,5,42.682899,-89.007666
+463,Wisconsin,2018-19,Rossman Elementary,,,Hartford,Washington,,,,93,,7,5,43.323995,-88.370086
+464,Wisconsin,2018-19,Sacred Heart Grade,,,Reedsburg,Sauk,,,,93,,5,5,43.537762,-89.999133
+465,Wisconsin,2018-19,Saint Francis Borgia Gr,,,Cedarburg,Ozaukee,,,,93,,7,5,43.3270808,-88.0068098
+466,Wisconsin,2018-19,Saint Francis,,,Ellsworth,Pierce,,,,93,,7,5,44.7288489,-92.480634
+467,Wisconsin,2018-19,Saint John Vianney Grade,,,Brookfield,Waukesha,,,,93,,7,5,43.0543644,-88.1275117
+468,Wisconsin,2018-19,Saint Joseph Academy,,,Milwaukee,Milwaukee,,,,93,,5,5,42.988343,-87.933782
+469,Wisconsin,2018-19,Saint Nicholas Grade,,,Freedom,Outagamie,,,,93,,7,5,44.3862229,-88.2880961
+470,Wisconsin,2018-19,Sauk Trail Elementary,,,Middleton,Dane,,,,93,,7,5,43.099016,-89.493382
+471,Wisconsin,2018-19,Shepard Hills Elementary,,,Oak Creek,Milwaukee,,,,93,,6,5,42.868374,-87.907517
+472,Wisconsin,2018-19,Slinger Elementary,,,Slinger,Washington,,,,93,,6,5,43.330346,-88.2868
+473,Wisconsin,2018-19,Star Center Elementary,,,Lake Geneva,Walworth,,,,93,,5,5,42.545884,-88.367754
+474,Wisconsin,2018-19,Stormonth Elementary,,,Milwaukee,Milwaukee,,,,93,,6,5,43.149514,-87.905256
+475,Wisconsin,2018-19,Suamico Elementary,,,Green Bay,Brown,,,,93,,5,5,44.636764,-88.067384
+476,Wisconsin,2018-19,Susie C Altmayer Elementary,,,De Pere,Brown,,,,93,,5,5,44.410198,-88.06378
+477,Wisconsin,2018-19,Swallow Elementary,,,Hartland,Waukesha,,,,93,,7,5,43.120948,-88.341544
+478,Wisconsin,2018-19,Swanson Elementary,,,Brookfield,Waukesha,,,,93,,5,5,43.033953,-88.128803
+479,Wisconsin,2018-19,Taylor Prairie Elementary,,,Cottage Grove,Dane,,,,93,,6,5,43.097376,-89.20589
+480,Wisconsin,2018-19,Tigerton Elementary,,,Tigerton,Shawano,,,,93,,5,5,44.740625,-89.066977
+481,Wisconsin,2018-19,Trinity Lutheran Grade,,,Mequon,Ozaukee,,,,93,,7,5,43.2352842,-88.0445346
+482,Wisconsin,2018-19,Turtle Lake Elementary,,,Turtle Lake,Barron,,,,93,,7,5,45.398001,-92.138887
+483,Wisconsin,2018-19,Washington Elementary,,,Wisconsin Rapids,Wood,,,,93,,5,5,44.396343,-89.790681
+484,Wisconsin,2018-19,Webster Elementary,,,Green Bay,Brown,,,,93,,5,5,44.483004,-88.021592
+485,Wisconsin,2018-19,Webster Elementary,,,Webster,Burnett,,,,93,,5,5,45.874984,-92.362698
+486,Wisconsin,2018-19,Westwood Elementary,,,De Pere,Brown,,,,93,,5,5,44.436402,-88.09054
+487,Wisconsin,2018-19,Wilson Elementary,,,Mequon,Ozaukee,,,,93,,5,5,43.217234,-87.990605
+488,Wisconsin,2018-19,Winskill Elementary,,,Lancaster,Grant,,,,93,,5,5,42.848315,-90.718857
+489,Wisconsin,2018-19,Wittenberg Elementary,,,Wittenberg,Shawano,,,,93,,5,5,44.825164,-89.172797
+490,Wisconsin,2018-19,Woodridge Elementary,,,Portage,Columbia,,,,93,,5,5,43.559067,-89.462865
+491,Wisconsin,2018-19,Arbor Vitae-Woodruff Elementary,,,Arbor Vitae,Vilas,,,,92,,8,5,45.926791,-89.692478
+492,Wisconsin,2018-19,BA Kennedy,,,Prairie du Chien,Crawford,,,,92,,5,5,43.046904,-91.144464
+493,Wisconsin,2018-19,Bay Lane Elementary,,,Muskego,Waukesha,,,,92,,5,5,42.9082279,-88.1183803
+494,Wisconsin,2018-19,Belleville Intermediate,,,Belleville,Dane,,,,92,,5,5,42.858778,-89.541353
+495,Wisconsin,2018-19,Boscobel Elementary,,,Boscobel,Grant,,,,92,,5,5,43.13262,-90.703548
+496,Wisconsin,2018-19,Clinton Elementary,,,Clinton,Rock,,,,92,,5,5,42.555656,-88.859296
+497,Wisconsin,2018-19,Clovis Grove Elementary,,,Menasha,Winnebago,,,,92,,5,5,44.21618,-88.427044
+498,Wisconsin,2018-19,Colfax Elementary,,,Colfax,Dunn,,,,92,,8,5,45.002963,-91.723046
+499,Wisconsin,2018-19,Columbus Elementary,,,Appleton,Outagamie,,,,92,,5,5,44.270135,-88.406299
+500,Wisconsin,2018-19,Crown of Life Christian Academy,,,Fort Atkinson,Jefferson,,,,92,,5,8,42.9328909,-88.8488037
+501,Wisconsin,2018-19,Deerfield Elementary,,,Deerfield,Dane,,,,92,,5,5,43.048917,-89.084112
+502,Wisconsin,2018-19,DLH Academy,,,Milwaukee,Milwaukee,,,,92,,5,5,43.1477134,-88.0179239
+503,Wisconsin,2018-19,Early Learning Center,,,North Fond du Lac,Fond du Lac,,,,92,,8,5,43.812461,-88.484028
+504,Wisconsin,2018-19,Early Learning Ctr,,,Mount Horeb,Dane,,,,92,,5,5,43.0022925,-89.7361551
+505,Wisconsin,2018-19,East Elementary,,,Milton,Rock,,,,92,,8,5,42.774964,-88.937538
+506,Wisconsin,2018-19,Emanuel Lutheran,,,New London,Waupaca,,,,92,,8,5,44.38528,-88.737771
+507,Wisconsin,2018-19,Emerson Elementary,,,Madison,Dane,,,,92,,5,5,43.10088,-89.352604
+508,Wisconsin,2018-19,Fairview Elementary,,,Krakow,Brown,,,,92,,5,5,44.778586,-88.250099
+509,Wisconsin,2018-19,Farmington Elementary,,,Kewaskum,Washington,,,,92,,8,5,43.506416,-88.099001
+510,Wisconsin,2018-19,Grace Christian Academy,,,West Allis,Milwaukee,,,,92,,5,8,42.99201,-88.018641
+511,Wisconsin,2018-19,Hales Corners Elementary,,,Hales Corners,Milwaukee,,,,92,,5,5,42.94195,-88.063539
+512,Wisconsin,2018-19,Howe Elementary,,,Wisconsin Rapids,Wood,,,,92,,5,5,44.390159,-89.817607
+513,Wisconsin,2018-19,Immanuel Lutheran Grade,,,Marshfield,Wood,,,,92,,5,5,44.6625813,-90.1793481
+514,Wisconsin,2018-19,Jackson Elementary,,,Sheboygan,Sheboygan,,,,92,,5,5,43.70284,-87.741101
+515,Wisconsin,2018-19,John Hustis Elementary,,,Hustisford,Dodge,,,,92,,8,5,43.340304,-88.605494
+516,Wisconsin,2018-19,Kennedy Elementary,,,Green Bay,Brown,,,,92,,5,5,44.519476,-88.076241
+517,Wisconsin,2018-19,Lena Elementary,,,Lena,Oconto,,,,92,,5,5,44.951283,-88.042237
+518,Wisconsin,2018-19,Lincoln Elementary,,,Beaver Dam,Dodge,,,,92,,5,5,43.462327,-88.823769
+519,Wisconsin,2018-19,Maine Elementary,,,Wausau,Marathon,,,,92,,5,5,45.026341,-89.691918
+520,Wisconsin,2018-19,McDill Elementary,,,Stevens Point,Portage,,,,92,,8,5,44.489264,-89.547922
+521,Wisconsin,2018-19,Meadow View Elementary,,,Sun Prairie,Dane,,,,92,,5,5,43.174644,-89.265049
+522,Wisconsin,2018-19,Milw College Prep--Lloyd St,,,Milwaukee,Milwaukee,,,,92,,8,5,43.0582996,-87.9289736
+523,Wisconsin,2018-19,Milwaukee Scholars Charter,,,Milwaukee,Milwaukee,,,,92,,5,5,43.127812,-87.998966
+524,Wisconsin,2018-19,Mitchell Elementary,,,Cudahy,Milwaukee,,,,92,,5,5,42.936098,-87.874177
+525,Wisconsin,2018-19,Mount Lebanon Lutheran,,,Milwaukee,Milwaukee,,,,92,,5,5,43.1052223,-87.9883029
+526,Wisconsin,2018-19,New Testament Christian Academy,,,Milwaukee,Milwaukee,,,,92,,5,5,43.16245,-88.036081
+527,Wisconsin,2018-19,Nicolet Elementary,,,Green Bay,Brown,,,,92,,5,5,44.512944,-87.993553
+528,Wisconsin,2018-19,Northwoods Elementary,,,Eau Claire,Eau Claire,,,,92,,8,5,44.835189,-91.460124
+529,Wisconsin,2018-19,Oaklawn Elementary,,,Oshkosh,Winnebago,,,,92,,8,5,44.041432,-88.541716
+530,Wisconsin,2018-19,One City Senior Preschool,,,Madison,Dane,,,,92,,5,5,43.043867,-89.392146
+531,Wisconsin,2018-19,Oriole Lane Elementary,,,Mequon,Ozaukee,,,,92,,5,5,43.252631,-87.932016
+532,Wisconsin,2018-19,Our Lady of Lourdes Sch-GRACE,,,De Pere,Brown,,,,92,,8,5,44.4390257,-88.0880153
+533,Wisconsin,2018-19,Parkview Elementary,,,Cedarburg,Ozaukee,,,,92,,8,5,43.306981,-88.000757
+534,Wisconsin,2018-19,Prairie Catholic,,,Prairie du Chien,Crawford,,,,92,,8,5,43.058432,-91.146976
+535,Wisconsin,2018-19,Prairie View Elementary,,,De Soto,Vernon,,,,92,,5,5,43.456453,-91.088575
+536,Wisconsin,2018-19,Prince of Peace,,,Milwaukee,Milwaukee,,,,92,,5,5,43.01983,-87.944621
+537,Wisconsin,2018-19,Riverview Elementary,,,Wausau,Marathon,,,,92,,5,5,45.002064,-89.615023
+538,Wisconsin,2018-19,Robbins Elementary,,,Eau Claire,Eau Claire,,,,92,,8,5,44.786495,-91.449536
+539,Wisconsin,2018-19,Ronald R Albrecht Elementary,,,Brodhead,Green,,,,92,,8,5,42.609209,-89.382776
+540,Wisconsin,2018-19,Rusch Elementary,,,Portage,Columbia,,,,92,,5,5,43.543596,-89.463968
+541,Wisconsin,2018-19,Saint Eugene,,,Fox Point,Milwaukee,,,,92,,8,5,43.1552993,-87.910309
+542,Wisconsin,2018-19,Saint Gregory the Great Gr,,,Milwaukee,Milwaukee,,,,92,,5,5,42.9873928,-87.989591
+543,Wisconsin,2018-19,Saint John Lutheran Grade,,,Glendale,Milwaukee,,,,92,,5,5,43.160301,-87.912871
+544,Wisconsin,2018-19,Saint John the Baptist Gr,,,Plymouth,Sheboygan,,,,92,,8,5,43.7481963,-87.9839589
+545,Wisconsin,2018-19,Saint Johns Lutheran Grade,,,Portage,Columbia,,,,92,,8,5,43.9669206,-88.9524067
+546,Wisconsin,2018-19,Saint Joseph Catholic,,,Boyd,Chippewa,,,,92,,8,5,44.9501555,-91.03579
+547,Wisconsin,2018-19,Saint Joseph Parish,,,Prescott,Pierce,,,,92,,8,5,44.7469211,-92.7977907
+548,Wisconsin,2018-19,Saint Pauls Lutheran Grade,,,West Allis,Milwaukee,,,,92,,5,5,43.0024811,-88.0106806
+549,Wisconsin,2018-19,Saint Victor Grade,,,Monroe,Green,,,,92,,5,5,42.5976317,-89.6349406
+550,Wisconsin,2018-19,Sand Lake Elementary,,,Holmen,La Crosse,,,,92,,6,5,43.928034,-91.240615
+551,Wisconsin,2018-19,Shady Lane Elementary,,,Menomonee Falls,Waukesha,,,,92,,7,5,43.180494,-88.12462
+552,Wisconsin,2018-19,South Beaver Dam Elementary,,,Beaver Dam,Dodge,,,,92,,5,5,43.440422,-88.888741
+553,Wisconsin,2018-19,South Mountain Elementary,,,Wausau,Marathon,,,,92,,5,5,44.90797,-89.671787
+554,Wisconsin,2018-19,Southern Bluffs Elementary,,,La Crosse,La Crosse,,,,92,,5,5,43.747283,-91.198765
+555,Wisconsin,2018-19,St Mark Lutheran,,,Eau Claire,Eau Claire,,,,92,,8,5,44.78515,-91.496121
+556,Wisconsin,2018-19,St Peter Catholic,,,Middleton,Dane,,,,92,,8,5,43.139832,-89.541176
+557,Wisconsin,2018-19,Stetsonville Elementary,,,Stetsonville,Taylor,,,,92,,8,5,45.077669,-90.322716
+558,Wisconsin,2018-19,Stone Bank Elementary,,,Oconomowoc,Waukesha,,,,92,,5,5,43.144123,-88.41606
+559,Wisconsin,2018-19,Stoner Prairie Elementary,,,Madison,Dane,,,,92,,5,5,43.004425,-89.449015
+560,Wisconsin,2018-19,Summit Environmental,,,La Crosse,La Crosse,,,,92,,8,5,43.85246,-91.266902
+561,Wisconsin,2018-19,Tomahawk Elementary,,,Tomahawk,Lincoln,,,,92,,5,5,45.477985,-89.709261
+562,Wisconsin,2018-19,Trinity Lutheran,,,Marinette,Marinette,,,,92,,8,5,45.092902,-87.626024
+563,Wisconsin,2018-19,Valley View Elementary,,,Green Bay,Brown,,,,92,,5,5,44.495095,-88.072768
+564,Wisconsin,2018-19,Washington Elementary,,,Whitewater,Walworth,,,,92,,5,5,42.834337,-88.722257
+565,Wisconsin,2018-19,West Elementary,,,Jefferson,Jefferson,,,,92,,5,5,43.004462,-88.824863
+566,Wisconsin,2018-19,Whitehall Memorial Elementary,,,Whitehall,Trempealeau,,,,92,,5,5,44.365705,-91.330087
+567,Wisconsin,2018-19,Woodland,,,Appleton,Outagamie,,,,92,,5,5,44.21968,-88.34427
+568,Wisconsin,2018-19,Word of Life Lutheran,,,Milwaukee,Milwaukee,,,,92,,5,5,42.979954,-87.943874
+569,Wisconsin,2018-19,Xavier El--Marquette St Campus,,,Appleton,Outagamie,,,,92,,6,5,44.2829383,-88.4145582
+570,Wisconsin,2018-19,Abbotsford Elementary,,,Abbotsford,Clark,,,,91,,9,5,44.944701,-90.330395
+571,Wisconsin,2018-19,All Saints Catholic,,,Kenosha,Kenosha,,,,91,,5,5,42.567577,-87.855684
+572,Wisconsin,2018-19,Bangor Elementary,,,Bangor,La Crosse,,,,91,,5,5,43.887692,-90.985341
+573,Wisconsin,2018-19,Bethany Evang Lutheran,,,Manitowoc,Manitowoc,,,,91,,5,5,44.0947107,-87.6880924
+574,Wisconsin,2018-19,Bethlehem Lutheran Grade,,,Sheboygan,Sheboygan,,,,91,,9,5,43.7397067,-87.7193079
+575,Wisconsin,2018-19,Brompton,,,Kenosha,Kenosha,,,,91,,9,5,42.550337,-87.835866
+576,Wisconsin,2018-19,Butternut Elementary,,,Butternut,Ashland,,,,91,,5,5,46.016531,-90.496264
+577,Wisconsin,2018-19,Cambridge Elementary,,,Cambridge,Dane,,,,91,,9,5,43.001912,-89.030067
+578,Wisconsin,2018-19,Cedar Hills Elementary,,,Oak Creek,Milwaukee,,,,91,,9,5,42.924013,-87.942423
+579,Wisconsin,2018-19,Central - Denison Elementary,,,Lake Geneva,Walworth,,,,91,,5,5,42.59456,-88.437987
+580,Wisconsin,2018-19,Christ the Lord Evang Luth,,,Brookfield,Waukesha,,,,91,,9,5,43.053406,-88.145057
+581,Wisconsin,2018-19,Cochrane-Fountain City Elementary,,,Fountain City,Buffalo,,,,91,,9,5,44.191973,-91.778308
+582,Wisconsin,2018-19,College Park Elementary,,,Greendale,Milwaukee,,,,91,,9,5,42.929797,-87.986698
+583,Wisconsin,2018-19,Cormier Sch and Early Lrn Ctr,,,Green Bay,Brown,,,,91,,5,5,44.484636,-88.048985
+584,Wisconsin,2018-19,Danz Elementary,,,Green Bay,Brown,,,,91,,5,5,44.508754,-87.968859
+585,Wisconsin,2018-19,Eastside Elementary,,,Sun Prairie,Dane,,,,91,,5,5,43.189178,-89.203632
+586,Wisconsin,2018-19,Edgewood Campus,,,Madison,Dane,,,,91,,5,5,43.0585,-89.4206
+587,Wisconsin,2018-19,Elvehjem Elementary,,,Madison,Dane,,,,91,,5,5,43.078322,-89.292893
+588,Wisconsin,2018-19,Fairview Elementary,,,Milwaukee,Milwaukee,,,,91,,7,5,42.991342,-87.993658
+589,Wisconsin,2018-19,Friedrich Froebel Garden,,,Green Bay,Brown,,,,91,,5,5,44.486982,-87.905548
+590,Wisconsin,2018-19,Green Tree Elementary,,,West Bend,Washington,,,,91,,5,5,43.437277,-88.198808
+591,Wisconsin,2018-19,Hillcrest Elementary,,,Chippewa Falls,Chippewa,,,,91,,9,5,44.932902,-91.410368
+592,Wisconsin,2018-19,Hillcrest Elementary,,,Waukesha,Waukesha,,,,91,,5,5,43.025626,-88.185506
+593,Wisconsin,2018-19,Holy Cross Lutheran,,,Madison,Dane,,,,91,,5,5,43.108836,-89.287934
+594,Wisconsin,2018-19,Hoover Elementary,,,New Berlin,Milwaukee,,,,91,,7,5,42.985239,-88.071974
+595,Wisconsin,2018-19,Hope Christian School: Fidelis,,,Milwaukee,Milwaukee,,,,91,,5,5,43.131066,-87.964436
+596,Wisconsin,2018-19,Horace Mann Elementary,,,West Allis,Milwaukee,,,,91,,5,5,43.013672,-87.990504
+597,Wisconsin,2018-19,Hurley Elementary,,,Hurley,Iron,,,,91,,9,5,46.45599,-90.203551
+598,Wisconsin,2018-19,Iola-Scandinavia Elementary,,,Iola,Waupaca,,,,91,,9,5,44.50366,-89.124075
+599,Wisconsin,2018-19,Iron River Elementary,,,Iron River,Douglas,,,,91,,9,5,46.56081,-91.413094
+600,Wisconsin,2018-19,Jefferson Elementary,,,West Allis,Milwaukee,,,,91,,5,5,43.0057,-88.003721
+601,Wisconsin,2018-19,Jefferson Elementary,,,Appleton,Outagamie,,,,91,,5,5,44.254105,-88.425169
+602,Wisconsin,2018-19,Journey,,,Ripon,Fond du Lac,,,,91,,7,5,43.828805,-88.838966
+603,Wisconsin,2018-19,King's Acad Christian,,,Milwaukee,Milwaukee,,,,91,,5,5,43.1596763,-87.9840987
+604,Wisconsin,2018-19,La Farge Elementary,,,La Farge,Vernon,,,,91,,9,5,43.579382,-90.639282
+605,Wisconsin,2018-19,Lake Mills Elementary,,,Lake Mills,Jefferson,,,,91,,9,5,43.087191,-88.90723
+606,Wisconsin,2018-19,Lake Superior Primary,,,Ashland,Ashland,,,,91,,5,5,46.568564,-90.878998
+607,Wisconsin,2018-19,Lakeview Elementary,,,Neenah,Winnebago,,,,91,,6,5,44.146572,-88.463945
+608,Wisconsin,2018-19,Locust Lane Elementary,,,Eau Claire,Eau Claire,,,,91,,9,5,44.853075,-91.462144
+609,Wisconsin,2018-19,Longfellow Elementary,,,Sheboygan,Sheboygan,,,,91,,5,5,43.741407,-87.713852
+610,Wisconsin,2018-19,Luther Elementary,,,Fort Atkinson,Jefferson,,,,91,,5,5,42.918765,-88.839912
+611,Wisconsin,2018-19,Madison Community Montessori,,,Middleton,Dane,,,,91,,9,5,43.11142,-89.562601
+612,Wisconsin,2018-19,Malone Elementary,,,Prescott,Pierce,,,,91,,9,5,44.754311,-92.792698
+613,Wisconsin,2018-19,Marshall Early Learning Ctr,,,Marshall,Dane,,,,91,,6,5,43.1641891,-89.06875
+614,Wisconsin,2018-19,Mauston Montessori Charter,,,Mauston,Juneau,,,,91,,9,5,43.79649,-90.084961
+615,Wisconsin,2018-19,Meadow View Primary,,,Waupun,Fond du Lac,,,,91,,8,5,43.627416,-88.746207
+616,Wisconsin,2018-19,Mill Valley Elementary,,,Muskego,Waukesha,,,,91,,9,5,42.927396,-88.154369
+617,Wisconsin,2018-19,Notre Dame of De Pere-GRACE,,,De Pere,Brown,,,,91,,5,5,44.4470937,-88.0588796
+618,Wisconsin,2018-19,Oakfield Elementary,,,Oakfield,Fond du Lac,,,,91,,9,5,43.682804,-88.541285
+619,Wisconsin,2018-19,Randolph Elementary,,,Randolph,Dodge,,,,91,,9,5,43.542533,-88.998853
+620,Wisconsin,2018-19,Read Elementary,,,Oshkosh,Winnebago,,,,91,,9,5,44.031136,-88.554699
+621,Wisconsin,2018-19,Red Apple Elementary,,,Racine,Racine,,,,91,,5,5,42.740975,-87.791115
+622,Wisconsin,2018-19,Rock Co Chr Sch-Janesville,,,Janesville,Rock,,,,91,,9,5,42.6485211,-89.0560664
+623,Wisconsin,2018-19,Rock Prairie Montessori Inc,,,Janesville,Rock,,,,91,,9,5,42.7277897,-88.9411869
+624,Wisconsin,2018-19,Sacred Hearts Grade,,,Sun Prairie,Dane,,,,91,,5,5,43.1857292,-89.2104853
+625,Wisconsin,2018-19,Saint Anthony on the Lake,,,Pewaukee,Waukesha,,,,91,,5,5,43.058414,-88.305529
+626,Wisconsin,2018-19,Saint Bernard Grade,,,Watertown,Jefferson,,,,91,,9,5,43.1967968,-88.7214901
+627,Wisconsin,2018-19,Saint Johns Evang Lutheran,,,Neillsville,Clark,,,,91,,5,5,44.5602347,-90.606527
+628,Wisconsin,2018-19,Saint Marcus Lutheran,,,Milwaukee,Milwaukee,,,,91,,5,5,43.0594939,-87.9100352
+629,Wisconsin,2018-19,Saint Patricks Elementary,,,Onalaska,La Crosse,,,,91,,9,5,43.8855776,-91.2232324
+630,Wisconsin,2018-19,Saint Paul Lutheran Grade,,,Stevens Point,Portage,,,,91,,9,5,44.518,-89.5725
+631,Wisconsin,2018-19,Saint Peters Evang Luth,,,Sturgeon Bay,Door,,,,91,,9,5,44.8295127,-87.3870486
+632,Wisconsin,2018-19,Saint Peters Lutheran Gr,,,Fond du Lac,Fond du Lac,,,,91,,5,5,43.775635,-88.4452717
+633,Wisconsin,2018-19,Saint Rita,,,Racine,Racine,,,,91,,5,5,42.776854,-87.8044132
+634,Wisconsin,2018-19,Saint Thomas More Sch-GRACE,,,Green Bay,Brown,,,,91,,5,5,44.5132104,-87.9896572
+635,Wisconsin,2018-19,Sevastopol Elementary,,,Sturgeon Bay,Door,,,,91,,5,5,44.890719,-87.289461
+636,Wisconsin,2018-19,St John Bosco Catholic,,,Sturgeon Bay,Door,,,,91,,5,5,44.828957,-87.395295
+637,Wisconsin,2018-19,Star of Bethlehem Evang Luth,,,New Berlin,Waukesha,,,,91,,9,5,42.9761744,-88.1180574
+638,Wisconsin,2018-19,Sugar Creek Elementary,,,Verona,Dane,,,,91,,5,5,42.988163,-89.539306
+639,Wisconsin,2018-19,Sunrise Elementary,,,Appleton,Outagamie,,,,91,,6,5,44.230246,-88.327524
+640,Wisconsin,2018-19,Traeger Elementary,,,Oshkosh,Winnebago,,,,91,,5,5,43.998129,-88.610121
+641,Wisconsin,2018-19,Trailside Elementary,,,Waterford,Racine,,,,91,,9,5,42.774092,-88.201589
+642,Wisconsin,2018-19,Walker Elementary,,,West Allis,Milwaukee,,,,91,,6,5,43.021862,-88.060038
+643,Wisconsin,2018-19,Westside Elementary,,,Sun Prairie,Dane,,,,91,,5,5,43.181489,-89.235945
+644,Wisconsin,2018-19,Willow Glen Primary,,,Saint Francis,Milwaukee,,,,91,,5,5,42.9675126,-87.8775837
+645,Wisconsin,2018-19,Woodland Elementary,,,Barron,Barron,,,,91,,5,5,45.397112,-91.845688
+646,Wisconsin,2018-19,Woodside Elementary,,,Wisconsin Rapids,Wood,,,,91,,9,5,44.363012,-89.820094
+647,Wisconsin,2018-19,Woodview Elementary,,,Grafton,Ozaukee,,,,91,,9,5,43.332866,-87.958589
+648,Wisconsin,2018-19,Adams Elementary,,,Janesville,Rock,,,,90,,8,5,42.692709,-89.010965
+649,Wisconsin,2018-19,Big Bend Elementary,,,Big Bend,Waukesha,,,,90,,6,5,42.886994,-88.209883
+650,Wisconsin,2018-19,Bryant Elementary,,,Superior,Douglas,,,,90,,6,5,46.666795,-92.100309
+651,Wisconsin,2018-19,Carollton Elementary,,,Oak Creek,Milwaukee,,,,90,,7,5,42.880766,-87.866652
+652,Wisconsin,2018-19,Chegwin Elementary,,,Fond du Lac,Fond du Lac,,,,90,,10,5,43.781381,-88.442675
+653,Wisconsin,2018-19,Converse Elementary,,,Beloit,Rock,,,,90,,5,5,42.519718,-89.061726
+654,Wisconsin,2018-19,Cooper Elementary,,,Burlington,Racine,,,,90,,9,5,42.677792,-88.283385
+655,Wisconsin,2018-19,Divine Savior Catholic,,,Kiel,Manitowoc,,,,90,,5,5,43.912123,-88.035015
+656,Wisconsin,2018-19,Eagle Point Elementary,,,De Forest,Dane,,,,90,,5,5,43.248436,-89.333179
+657,Wisconsin,2018-19,Elmore Elementary,,,Green Bay,Brown,,,,90,,5,5,44.52981,-88.035093
+658,Wisconsin,2018-19,Flambeau Elementary,,,Tony,Rusk,,,,90,,5,5,45.454707,-90.993723
+659,Wisconsin,2018-19,Forest Glen Elementary,,,Green Bay,Brown,,,,90,,5,5,44.593657,-88.085661
+660,Wisconsin,2018-19,Friess Lake Elementary,,,Hubertus,Washington,,,,90,,7,5,43.25294,-88.258801
+661,Wisconsin,2018-19,Glenbrook Elementary,,,Pulaski,Brown,,,,90,,6,5,44.669996,-88.243996
+662,Wisconsin,2018-19,Heritage Elementary,,,De Pere,Brown,,,,90,,5,5,44.428895,-88.043597
+663,Wisconsin,2018-19,Highlands Elementary,,,Appleton,Outagamie,,,,90,,5,5,44.281295,-88.427852
+664,Wisconsin,2018-19,Holy Cross School-GRACE,,,Green Bay,Brown,,,,90,,10,5,44.5530427,-87.8904003
+665,Wisconsin,2018-19,Holy Spirit,,,Appleton,Outagamie,,,,90,,10,5,44.24372,-88.329351
+666,Wisconsin,2018-19,Hoover Elementary,,,Neenah,Winnebago,,,,90,,5,5,44.171949,-88.477683
+667,Wisconsin,2018-19,Houdini Elementary,,,Appleton,Outagamie,,,,90,,7,5,44.294251,-88.443531
+668,Wisconsin,2018-19,Irving Elementary,,,West Allis,Milwaukee,,,,90,,7,5,43.00487,-88.041009
+669,Wisconsin,2018-19,James Madison Elementary,,,Sheboygan,Sheboygan,,,,90,,8,5,43.738133,-87.735568
+670,Wisconsin,2018-19,Leonardo da Vinci Sch-Gifted,,,Green Bay,Brown,,,,90,,10,5,44.511097,-88.010415
+671,Wisconsin,2018-19,Lincoln Elementary,,,Watertown,Jefferson,,,,90,,10,5,43.196308,-88.72999
+672,Wisconsin,2018-19,Lincoln Elementary,,,Wauwatosa,Milwaukee,,,,90,,5,5,43.052885,-88.007807
+673,Wisconsin,2018-19,Lincoln Elementary,,,New London,Waupaca,,,,90,,8,5,44.386891,-88.73777
+674,Wisconsin,2018-19,Lomira Elementary,,,Lomira,Dodge,,,,90,,5,5,43.58982,-88.446895
+675,Wisconsin,2018-19,Medford Elementary,,,Medford,Taylor,,,,90,,6,5,45.143847,-90.368106
+676,Wisconsin,2018-19,Mellen Public,,,Mellen,Ashland,,,,90,,5,5,46.3232,-90.659844
+677,Wisconsin,2018-19,Merton Primary,,,Merton,Waukesha,,,,90,,5,5,43.142711,-88.310704
+678,Wisconsin,2018-19,Neillsville Elementary,,,Neillsville,Clark,,,,90,,7,5,44.559137,-90.58785
+679,Wisconsin,2018-19,Netherwood Knoll Elementary,,,Oregon,Dane,,,,90,,5,5,42.928558,-89.382429
+680,Wisconsin,2018-19,New Century,,,Verona,Dane,,,,90,,5,5,42.988878,-89.538298
+681,Wisconsin,2018-19,Northern Hills Elementary,,,Onalaska,La Crosse,,,,90,,7,5,43.895598,-91.233954
+682,Wisconsin,2018-19,Northland Pines El-Eagle River,,,Eagle River,Vilas,,,,90,,10,5,45.936189,-89.253088
+683,Wisconsin,2018-19,Norwalk-Ontario-Wilton Elementary,,,Ontario,Monroe,,,,90,,5,5,43.761514,-90.579511
+684,Wisconsin,2018-19,Oaklawn Elementary,,,Menomonie,Dunn,,,,90,,7,5,44.878893,-91.901355
+685,Wisconsin,2018-19,Palmyra Elementary,,,Palmyra,Jefferson,,,,90,,10,5,42.877913,-88.592574
+686,Wisconsin,2018-19,Pardeeville Elementary,,,Pardeeville,Columbia,,,,90,,5,5,43.535091,-89.294846
+687,Wisconsin,2018-19,Park Elementary,,,Cross Plains,Dane,,,,90,,5,5,43.115744,-89.658377
+688,Wisconsin,2018-19,River Crest Elementary,,,Hudson,Saint Croix,,,,90,,10,5,44.94007,-92.729566
+689,Wisconsin,2018-19,Riverside Elementary,,,Fond du Lac,Fond du Lac,,,,90,,8,5,43.768861,-88.449352
+690,Wisconsin,2018-19,Riverview Elementary,,,Wautoma,Waushara,,,,90,,5,5,44.070127,-89.291027
+691,Wisconsin,2018-19,Roberts Elementary,,,Fond du Lac,Fond du Lac,,,,90,,10,5,43.770556,-88.428116
+692,Wisconsin,2018-19,Robinson Elementary,,,Beloit,Rock,,,,90,,5,5,42.532601,-89.015783
+693,Wisconsin,2018-19,Rockwell Elementary,,,Fort Atkinson,Jefferson,,,,90,,5,5,42.939223,-88.844991
+694,Wisconsin,2018-19,Rocky Branch Elementary,,,River Falls,Pierce,,,,90,,9,5,44.843114,-92.636024
+695,Wisconsin,2018-19,Roosevelt Elementary,,,Plover,Portage,,,,90,,8,5,44.463765,-89.541319
+696,Wisconsin,2018-19,SAGES,,,Fox Lake,Fond du Lac,,,,90,,10,5,43.5647096,-88.9048316
+697,Wisconsin,2018-19,Saint Jerome Parish,,,Oconomowoc,Waukesha,,,,90,,5,5,43.096889,-88.493062
+698,Wisconsin,2018-19,Saint Johns Lutheran,,,West Bend,Washington,,,,90,,7,5,43.4103147,-88.1831419
+699,Wisconsin,2018-19,Saint Josaphat Parish,,,Milwaukee,Milwaukee,,,,90,,5,5,43.0025803,-87.9216061
+700,Wisconsin,2018-19,Saint Joseph,,,Green Bay,Brown,,,,90,,10,5,44.4830831,-88.074669
+701,Wisconsin,2018-19,Saint Paul Evang Lutheran,,,Lake Mills,Jefferson,,,,90,,10,5,43.0603485,-88.9073285
+702,Wisconsin,2018-19,Salem Elementary,,,Salem,Kenosha,,,,90,,6,5,42.548053,-88.109614
+703,Wisconsin,2018-19,Sandhill Elementary,,,Stoughton,Dane,,,,90,,5,5,42.936369,-89.237034
+704,Wisconsin,2018-19,Shorewood Hills Elementary,,,Madison,Dane,,,,90,,5,5,43.079387,-89.442462
+705,Wisconsin,2018-19,Somers Elementary,,,Kenosha,Kenosha,,,,90,,6,5,42.6383,-87.894131
+706,Wisconsin,2018-19,Somerset Elementary,,,Somerset,Saint Croix,,,,90,,5,5,45.113222,-92.684028
+707,Wisconsin,2018-19,St Mary,,,Portage,Columbia,,,,90,,5,5,43.538868,-89.464885
+708,Wisconsin,2018-19,Summit Elementary,,,Oconomowoc,Waukesha,,,,90,,8,5,43.07765,-88.457896
+709,Wisconsin,2018-19,Sunnyside Elementary,,,Sobieski,Brown,,,,90,,5,5,44.698322,-88.150404
+710,Wisconsin,2018-19,Theresa Elementary,,,Theresa,Dodge,,,,90,,5,5,43.51814,-88.453134
+711,Wisconsin,2018-19,Thorp Elementary,,,Thorp,Clark,,,,90,,7,5,44.954049,-90.794868
+712,Wisconsin,2018-19,Token Springs Elementary,,,Sun Prairie,Dane,,,,90,,5,5,43.202947,-89.250529
+713,Wisconsin,2018-19,Trevor-Wilmot Grade,,,Trevor,Kenosha,,,,90,,6,5,42.509671,-88.12786
+714,Wisconsin,2018-19,Van Hise Elementary,,,Madison,Dane,,,,90,,5,5,43.066262,-89.458036
+715,Wisconsin,2018-19,Webster Stanley Elementary,,,Oshkosh,Winnebago,,,,90,,10,5,44.028777,-88.522963
+716,Wisconsin,2018-19,Westside Elementary,,,Kimberly,Outagamie,,,,90,,8,5,44.267922,-88.344766
+717,Wisconsin,2018-19,Wheatland Center Elementary,,,Burlington,Kenosha,,,,90,,6,5,42.575038,-88.25733
+718,Wisconsin,2018-19,Williams Bay Elementary,,,Williams Bay,Walworth,,,,90,,10,5,42.576573,-88.563924
+719,Wisconsin,2018-19,Wilson Elementary,,,West Allis,Milwaukee,,,,90,,6,5,43.014469,-88.021404
+720,Wisconsin,2018-19,Wisconsin Lutheran,,,Racine,Racine,,,,90,,5,5,42.724995,-87.78752
+721,Wisconsin,2018-19,Wyeville Elementary,,,Wyeville,Monroe,,,,90,,5,5,44.027794,-90.390323
+722,Wisconsin,2018-19,Zielanis Elementary,,,Kiel,Manitowoc,,,,90,,8,5,43.917655,-88.027769
+723,Wisconsin,2018-19,Amy Belle Elementary,,,Colgate,Washington,,,,89,,7,5,43.207936,-88.201262
+724,Wisconsin,2018-19,Appleton Bilingual,,,Appleton,Outagamie,,,,89,,5,5,44.270065,-88.406554
+725,Wisconsin,2018-19,Blessed Sacrament Grade,,,Milwaukee,Milwaukee,,,,89,,11,5,42.9875005,-87.9648901
+726,Wisconsin,2018-19,Bloomer Elementary,,,Bloomer,Chippewa,,,,89,,5,5,45.107883,-91.476365
+727,Wisconsin,2018-19,Bristol Elementary,,,Bristol,Kenosha,,,,89,,6,5,42.556796,-88.052424
+728,Wisconsin,2018-19,Brooklyn Elementary,,,Brooklyn,Dane,,,,89,,5,5,42.85505,-89.375549
+729,Wisconsin,2018-19,Caddie Woodlawn Elementary,,,Durand,Pepin,,,,89,,11,5,44.628422,-91.956154
+730,Wisconsin,2018-19,Cameron Elementary,,,Cameron,Barron,,,,89,,9,5,45.41857,-91.737821
+731,Wisconsin,2018-19,Canterbury Elementary,,,Greendale,Milwaukee,,,,89,,7,5,42.940473,-88.00083
+732,Wisconsin,2018-19,Chappell Elementary,,,Green Bay,Brown,,,,89,,5,5,44.530507,-88.054819
+733,Wisconsin,2018-19,Classical,,,Appleton,Outagamie,,,,89,,8,5,44.294258,-88.401357
+734,Wisconsin,2018-19,Core Knowledge Charter,,,Verona,Dane,,,,89,,5,5,42.999714,-89.535606
+735,Wisconsin,2018-19,Crestwood Elementary,,,Madison,Dane,,,,89,,5,5,43.075644,-89.481843
+736,Wisconsin,2018-19,Cumberland Elementary,,,Cumberland,Barron,,,,89,,9,5,45.537704,-92.021181
+737,Wisconsin,2018-19,Denmark Early Childhood Ctr,,,Denmark,Brown,,,,89,,5,5,44.354485,-87.825854
+738,Wisconsin,2018-19,Doty Elementary,,,Green Bay,Brown,,,,89,,5,5,44.453431,-88.030494
+739,Wisconsin,2018-19,Dresser Elementary,,,Saint Croix Falls,Polk,,,,89,,6,5,45.404644,-92.6329797
+740,Wisconsin,2018-19,Eagle Elementary,,,Eagle,Jefferson,,,,89,,11,5,42.882107,-88.462907
+741,Wisconsin,2018-19,Eagleville Charter,,,Eagle,Waukesha,,,,89,,5,5,42.858989,-88.433794
+742,Wisconsin,2018-19,Eisenhower Elementary,,,Wauwatosa,Milwaukee,,,,89,,5,5,43.06848,-88.05806
+743,Wisconsin,2018-19,Forrest Street Early Lrng Ctr,,,Black River Falls,Jackson,,,,89,,5,5,44.3050408,-90.8509926
+744,Wisconsin,2018-19,Four Corners Elementary,,,Superior,Douglas,,,,89,,5,5,46.533485,-92.07395
+745,Wisconsin,2018-19,Gifford Elementary,,,Racine,Racine,,,,89,,5,5,42.757913,-87.886547
+746,Wisconsin,2018-19,Greenwood Elementary,,,River Falls,Pierce,,,,89,,11,5,44.861246,-92.615959
+747,Wisconsin,2018-19,Gresham Elementary,,,Gresham,Shawano,,,,89,,5,5,44.845316,-88.782926
+748,Wisconsin,2018-19,Hayward Pri,,,Hayward,Sawyer,,,,89,,6,5,46.0046066,-91.4654288
+749,Wisconsin,2018-19,Hillsboro Elementary,,,Hillsboro,Vernon,,,,89,,7,5,43.657965,-90.349716
+750,Wisconsin,2018-19,Horizons Elementary,,,Appleton,Outagamie,,,,89,,7,5,44.237213,-88.371165
+751,Wisconsin,2018-19,Hortonville Elementary,,,Hortonville,Outagamie,,,,89,,5,5,44.3404,-88.62883
+752,Wisconsin,2018-19,Houlton Elementary,,,Houlton,Saint Croix,,,,89,,9,5,45.061281,-92.786222
+753,Wisconsin,2018-19,Jacob Shapiro Brain Based Inst,,,Oshkosh,Winnebago,,,,89,,11,5,44.0002774,-88.5643473
+754,Wisconsin,2018-19,Kate Goodrich Elementary,,,Merrill,Lincoln,,,,89,,5,5,45.187854,-89.707674
+755,Wisconsin,2018-19,La Grange Elementary,,,Tomah,Monroe,,,,89,,5,5,44.008885,-90.511767
+756,Wisconsin,2018-19,Lawrence-Lawson Elementary,,,Sparta,Monroe,,,,89,,5,5,43.948411,-90.820269
+757,Wisconsin,2018-19,Maple Tree Elementary,,,Milwaukee,Milwaukee,,,,89,,5,5,43.138646,-88.044342
+758,Wisconsin,2018-19,McFarland Primary,,,McFarland,Dane,,,,89,,5,5,43.010889,-89.2888601
+759,Wisconsin,2018-19,McKinley Elementary,,,Wauwatosa,Milwaukee,,,,89,,5,5,43.062738,-88.024117
+760,Wisconsin,2018-19,Milw Seventh Day Adventist,,,Milwaukee,Milwaukee,,,,89,,5,5,43.1347833,-88.0477641
+761,Wisconsin,2018-19,Milw Spanish Immersion,,,Milwaukee,Milwaukee,,,,89,,5,5,42.9942678,-87.9833174
+762,Wisconsin,2018-19,New Hope Christian,,,Neenah,Winnebago,,,,89,,5,5,44.22608,-88.471671
+763,Wisconsin,2018-19,New Lisbon Elementary,,,New Lisbon,Juneau,,,,89,,5,5,43.876196,-90.169748
+764,Wisconsin,2018-19,Niagara Elementary,,,Niagara,Marinette,,,,89,,8,5,45.782387,-88.001572
+765,Wisconsin,2018-19,Oconto Elementary,,,Oconto,Oconto,,,,89,,7,5,44.879138,-87.872043
+766,Wisconsin,2018-19,Oostburg Elementary,,,Oostburg,Sheboygan,,,,89,,7,5,43.624881,-87.79201
+767,Wisconsin,2018-19,Pertzsch Elementary,,,Onalaska,La Crosse,,,,89,,5,5,43.883385,-91.229741
+768,Wisconsin,2018-19,Peshtigo Elementary,,,Peshtigo,Marinette,,,,89,,7,5,45.05905,-87.75225
+769,Wisconsin,2018-19,Richmond Elementary,,,Sussex,Waukesha,,,,89,,5,5,43.120525,-88.274729
+770,Wisconsin,2018-19,River Ridge Elementary,,,Patch Grove,Grant,,,,89,,5,5,42.951964,-90.977233
+771,Wisconsin,2018-19,River Valley Early Learning,,,Plain,Sauk,,,,89,,7,5,43.2754277,-90.0499477
+772,Wisconsin,2018-19,Rolling Hills Elementary,,,Mukwonago,Waukesha,,,,89,,11,5,42.877404,-88.389234
+773,Wisconsin,2018-19,RUSD Montessori,,,Racine,Racine,,,,89,,5,5,42.72697,-87.837551
+774,Wisconsin,2018-19,Saint Margaret Mary Grade,,,Neenah,Winnebago,,,,89,,5,5,44.178841,-88.4563877
+775,Wisconsin,2018-19,Saint Martini Lutheran Gr,,,Milwaukee,Milwaukee,,,,89,,5,5,43.0154117,-87.9326249
+776,Wisconsin,2018-19,Saint Mary Imm Conc Greenville,,,Greenville,Outagamie,,,,89,,5,6,44.326844,-88.537352
+777,Wisconsin,2018-19,Southview Elementary,,,Chippewa Falls,Chippewa,,,,89,,11,5,44.919789,-91.38252
+778,Wisconsin,2018-19,Southwestern Wisconsin Elementary,,,Hazel Green,Grant,,,,89,,5,5,42.53188,-90.437468
+779,Wisconsin,2018-19,Southwood Glen Elementary,,,Franklin,Milwaukee,,,,89,,11,5,42.878443,-87.960583
+780,Wisconsin,2018-19,Stephen Foster El Charter,,,Appleton,Outagamie,,,,89,,11,5,44.2447639,-88.4087016
+781,Wisconsin,2018-19,Stephens Elementary,,,Madison,Dane,,,,89,,5,5,43.065889,-89.479699
+782,Wisconsin,2018-19,Thomas Jefferson Elementary,,,Wausau,Marathon,,,,89,,11,5,44.98156,-89.641587
+783,Wisconsin,2018-19,Trinity Lutheran Grade,,,Merrill,Lincoln,,,,89,,5,5,45.1786898,-89.7077775
+784,Wisconsin,2018-19,Victory Christian Academy,,,West Allis,Milwaukee,,,,89,,11,5,43.0026114,-87.9877547
+785,Wisconsin,2018-19,Waller Elementary,,,Burlington,Racine,,,,89,,10,5,42.669852,-88.279028
+786,Wisconsin,2018-19,Walworth Elementary,,,Walworth,Walworth,,,,89,,8,5,42.530341,-88.600759
+787,Wisconsin,2018-19,West Elementary,,,Milton,Rock,,,,89,,9,5,42.783523,-88.96666
+788,Wisconsin,2018-19,West Side Elementary,,,Reedsburg,Sauk,,,,89,,9,5,43.529786,-90.024538
+789,Wisconsin,2018-19,Westby Elementary,,,Westby,Vernon,,,,89,,8,5,43.64795,-90.864705
+790,Wisconsin,2018-19,Wilson Elementary,,,Neenah,Winnebago,,,,89,,6,5,44.173838,-88.46182
+791,Wisconsin,2018-19,Winkler Elementary,,,Burlington,Racine,,,,89,,11,5,42.637253,-88.288319
+792,Wisconsin,2018-19,Wonewoc-Center Elementary,,,Wonewoc,Juneau,,,,89,,5,5,43.6625,-90.222853
+793,Wisconsin,2018-19,Wrightstown Elementary,,,Wrightstown,Brown,,,,89,,5,5,44.322245,-88.15754
+794,Wisconsin,2018-19,Algoma Elementary,,,Algoma,Kewaunee,,,,88,,5,5,44.606259,-87.440365
+795,Wisconsin,2018-19,All Saints Catholic,,,Antigo,Langlade,,,,88,,13,5,45.1384931,-89.1468002
+796,Wisconsin,2018-19,Belmont Elementary,,,Belmont,Lafayette,,,,88,,12,5,42.741849,-90.326638
+797,Wisconsin,2018-19,Bethlehem Evang Luth,,,Menomonee Falls,Washington,,,,88,,13,5,43.1705331,-88.0994944
+798,Wisconsin,2018-19,Bonduel Elementary,,,Bonduel,Shawano,,,,88,,6,5,44.740379,-88.45267
+799,Wisconsin,2018-19,Bowler Elementary,,,Bowler,Shawano,,,,88,,5,5,44.85633,-88.982245
+800,Wisconsin,2018-19,Brillion Elementary,,,Brillion,Calumet,,,,88,,12,5,44.173485,-88.065096
+801,Wisconsin,2018-19,Chetek-Weyerhaeuser Roselawn,,,Chetek,Barron,,,,88,,5,5,45.320003,-91.657441
+802,Wisconsin,2018-19,Christ-St Peter Lutheran,,,Milwaukee,Milwaukee,,,,88,,5,5,43.01665,-87.941701
+803,Wisconsin,2018-19,Coleman Elementary,,,Coleman,Marinette,,,,88,,6,5,45.071613,-88.035924
+804,Wisconsin,2018-19,Cornell Elementary,,,Cornell,Chippewa,,,,88,,12,5,45.167021,-91.14662
+805,Wisconsin,2018-19,Country View Elementary,,,Verona,Dane,,,,88,,5,5,43.004354,-89.544575
+806,Wisconsin,2018-19,Curtin Elementary,,,Milwaukee,Milwaukee,,,,88,,5,5,42.982021,-87.95347
+807,Wisconsin,2018-19,Dousman Elementary,,,Dousman,Waukesha,,,,88,,5,5,43.009305,-88.46472
+808,Wisconsin,2018-19,Eagle Bluff Elementary,,,Onalaska,La Crosse,,,,88,,9,5,43.882785,-91.19963
+809,Wisconsin,2018-19,Eden Elementary,,,Eden,Fond du Lac,,,,88,,12,5,43.69462,-88.36108
+810,Wisconsin,2018-19,Elkhart Lake El/Mid,,,Elkhart Lake,Sheboygan,,,,88,,12,5,43.838167,-88.015308
+811,Wisconsin,2018-19,Florence Elementary,,,Florence,Florence,,,,88,,5,8,45.92464,-88.249263
+812,Wisconsin,2018-19,Grove Elementary,,,Wisconsin Rapids,Wood,,,,88,,5,5,44.370116,-89.822904
+813,Wisconsin,2018-19,High Point Christian,,,Madison,Dane,,,,88,,12,5,43.0764,-89.5161
+814,Wisconsin,2018-19,Hilbert Elementary,,,Hilbert,Calumet,,,,88,,5,5,44.136996,-88.168808
+815,Wisconsin,2018-19,Hilltop Elementary,,,Rice Lake,Barron,,,,88,,12,5,45.499255,-91.753576
+816,Wisconsin,2018-19,Immanuel Lutheran Grade,,,Wisconsin Rapids,Wood,,,,88,,12,5,44.3896919,-89.813689
+817,Wisconsin,2018-19,Jackson Elementary,,,Janesville,Rock,,,,88,,10,5,42.645025,-89.018329
+818,Wisconsin,2018-19,Jackson Elementary,,,Elkhorn,Walworth,,,,88,,12,5,42.672412,-88.538551
+819,Wisconsin,2018-19,Jefferson Elementary,,,Beaver Dam,Dodge,,,,88,,8,5,43.447524,-88.832258
+820,Wisconsin,2018-19,Kagel Elementary,,,Milwaukee,Milwaukee,,,,88,,5,5,43.021574,-87.927346
+821,Wisconsin,2018-19,Kennedy Elementary,,,Madison,Dane,,,,88,,5,5,43.094489,-89.297348
+822,Wisconsin,2018-19,Lincoln Elementary,,,Wausau,Marathon,,,,88,,6,5,44.954491,-89.644051
+823,Wisconsin,2018-19,Little Chute Elementary,,,Little Chute,Outagamie,,,,88,,5,5,44.282907,-88.316374
+824,Wisconsin,2018-19,Lodi Primary,,,Lodi,Columbia,,,,88,,11,5,43.310772,-89.524466
+825,Wisconsin,2018-19,Longfellow Elementary,,,West Allis,Milwaukee,,,,88,,9,5,43.004484,-87.988114
+826,Wisconsin,2018-19,Lourdes Academy--Seton Site,,,Oshkosh,Winnebago,,,,88,,10,5,44.0211828,-88.5664706
+827,Wisconsin,2018-19,Lyons Ctr,,,Burlington,Walwroth,,,,88,,12,5,42.6463024,-88.3588958
+828,Wisconsin,2018-19,Marion Elementary,,,Marion,Waupaca,,,,88,,8,5,44.677229,-88.890948
+829,Wisconsin,2018-19,McLane Elementary,,,West Bend,Washington,,,,88,,6,5,43.418845,-88.187534
+830,Wisconsin,2018-19,Milwaukee Montessori,,,Milwaukee,Milwaukee,,,,88,,5,5,43.03347,-88.032161
+831,Wisconsin,2018-19,New Directions Learning Comm,,,Kaukauna,Outagamie,,,,88,,12,5,44.2591363,-88.2798233
+832,Wisconsin,2018-19,North Elementary,,,Hartland,Waukesha,,,,88,,6,5,43.106947,-88.342429
+833,Wisconsin,2018-19,North Hudson Elementary,,,Hudson,Saint Croix,,,,88,,12,5,44.995254,-92.750985
+834,Wisconsin,2018-19,North Woods International,,,La Crosse,La Crosse,,,,88,,12,5,43.858116,-91.181696
+835,Wisconsin,2018-19,Our Lady of the Lake,,,Ashland,Ashland,,,,88,,5,5,46.5926532,-90.8819693
+836,Wisconsin,2018-19,Pelican Elementary,,,Rhinelander,Oneida,,,,88,,5,5,45.62536,-89.367497
+837,Wisconsin,2018-19,Pigeon River Elementary,,,Sheboygan,Sheboygan,,,,88,,5,5,43.781449,-87.738018
+838,Wisconsin,2018-19,Plum City Elementary,,,Plum City,Pierce,,,,88,,12,5,44.633109,-92.192233
+839,Wisconsin,2018-19,Poplar Creek Elementary,,,New Berlin,Waukesha,,,,88,,11,5,42.992816,-88.130814
+840,Wisconsin,2018-19,Port Washington Catholic,,,Port Washington,Ozaukee,,,,88,,6,6,43.4089422,-87.8691687
+841,Wisconsin,2018-19,Providence Academy,,,Green Bay,Brown,,,,88,,13,5,44.53174,-88.051641
+842,Wisconsin,2018-19,Redgranite Elementary,,,Redgranite,Waushara,,,,88,,6,5,44.03737,-89.09535
+843,Wisconsin,2018-19,Richmond Elementary,,,Appleton,Outagamie,,,,88,,6,5,44.255625,-88.382542
+844,Wisconsin,2018-19,Robinson Elementary,,,Laona,Forest,,,,88,,12,5,45.561037,-88.668611
+845,Wisconsin,2018-19,Rock Elementary,,,Hudson,Saint Croix,,,,88,,7,5,44.967535,-92.740078
+846,Wisconsin,2018-19,Roosevelt Elementary,,,Oshkosh,Winnebago,,,,88,,10,5,44.02848,-88.566507
+847,Wisconsin,2018-19,Rose Glen Elementary,,,Waukesha,Waukesha,,,,88,,12,5,42.974479,-88.294101
+848,Wisconsin,2018-19,Saint Gabriel Grade,,,Hubertus,Washington,,,,88,,5,5,43.2308352,-88.2589992
+849,Wisconsin,2018-19,Saint John Grade,,,Little Chute,Outagamie,,,,88,,12,5,44.2780428,-88.3151061
+850,Wisconsin,2018-19,Saint Leonard,,,Muskego,Waukesha,,,,88,,8,5,42.9025707,-88.1326192
+851,Wisconsin,2018-19,Saint Mark Evang Lutheran,,,Green Bay,Brown,,,,88,,13,5,44.503377,-88.056321
+852,Wisconsin,2018-19,Saint Roman Grade,,,Milwaukee,Milwaukee,,,,88,,5,5,42.9674427,-87.9366876
+853,Wisconsin,2018-19,Saukville Elementary,,,Saukville,Ozaukee,,,,88,,5,5,43.384793,-87.940046
+854,Wisconsin,2018-19,Sheboygan Christian,,,Sheboygan,Sheboygan,,,,88,,6,5,43.7690399,-87.707024
+855,Wisconsin,2018-19,Siren Elementary,,,Siren,Burnett,,,,88,,5,5,45.78593,-92.377112
+856,Wisconsin,2018-19,Spring Hill Elementary,,,Wisconsin Dells,Sauk,,,,88,,12,5,43.621848,-89.759888
+857,Wisconsin,2018-19,Spring Valley Elementary,,,Antigo,Langlade,,,,88,,8,5,45.200689,-89.072937
+858,Wisconsin,2018-19,St John,,,Waunakee,Dane,,,,88,,13,5,43.1891158,-89.4534802
+859,Wisconsin,2018-19,Sugar Bush Elementary,,,New London,Waupaca,,,,88,,13,5,44.482495,-88.729311
+860,Wisconsin,2018-19,Sugar Camp Elementary,,,Rhinelander,Oneida,,,,88,,6,5,45.790659,-89.322073
+861,Wisconsin,2018-19,Trinity Academy,,,Hudson,Saint Croix,,,,88,,8,5,44.98304,-92.751421
+862,Wisconsin,2018-19,Warrens Elementary,,,Warrens,Monroe,,,,88,,6,5,44.128397,-90.50104
+863,Wisconsin,2018-19,Washington Elementary,,,Wauwatosa,Milwaukee,,,,88,,5,5,43.058627,-87.997005
+864,Wisconsin,2018-19,Washington Elementary,,,Janesville,Rock,,,,88,,13,5,42.692011,-89.040431
+865,Wisconsin,2018-19,Weyauwega Elementary,,,Weyauwega,Waupaca,,,,88,,12,5,44.323846,-88.927775
+866,Wisconsin,2018-19,Whittier Elementary,,,Milwaukee,Milwaukee,,,,88,,13,5,42.964758,-87.913809
+867,Wisconsin,2018-19,Wild Rose Elementary,,,Wild Rose,Waushara,,,,88,,7,5,44.175443,-89.238232
+868,Wisconsin,2018-19,Winneconne Elementary,,,Winneconne,Winnebago,,,,88,,7,5,44.108245,-88.70466
+869,Wisconsin,2018-19,Atonement Lutheran,,,Milwaukee,Milwaukee,,,,87,,5,5,43.099251,-87.965647
+870,Wisconsin,2018-19,Beaumont Elementary,,,Green Bay,Brown,,,,87,,5,5,44.505417,-88.051304
+871,Wisconsin,2018-19,Birchwood Elementary,,,Birchwood,Washburn,,,,87,,5,5,45.654162,-91.553771
+872,Wisconsin,2018-19,Blair Elementary,,,Waukesha,Waukesha,,,,87,,13,5,43.016149,-88.240909
+873,Wisconsin,2018-19,City,,,Milwaukee,Milwaukee,,,,87,,5,5,43.1752862,-88.0032737
+874,Wisconsin,2018-19,Clarendon Avenue Elementary,,,Mukwonago,Waukesha,,,,87,,8,5,42.872444,-88.330369
+875,Wisconsin,2018-19,Colby Elementary,,,Colby,Clark,,,,87,,5,8,44.91873,-90.320399
+876,Wisconsin,2018-19,Donges Bay Elementary,,,Mequon,Ozaukee,,,,87,,5,5,43.205972,-87.940065
+877,Wisconsin,2018-19,Franklin Elementary,,,West Allis,Milwaukee,,,,87,,8,5,43.006926,-88.019394
+878,Wisconsin,2018-19,Franklin Elementary,,,Appleton,Outagamie,,,,87,,5,5,44.282725,-88.40262
+879,Wisconsin,2018-19,Gibraltar Elementary,,,Fish Creek,Door,,,,87,,13,5,45.127382,-87.230797
+880,Wisconsin,2018-19,Hackett Elementary,,,Beloit,Rock,,,,87,,5,5,42.50222,-89.045661
+881,Wisconsin,2018-19,Harrison Elementary,,,Janesville,Rock,,,,87,,7,5,42.692149,-88.971372
+882,Wisconsin,2018-19,Hillcrest Elementary,,,Oneida,Brown,,,,87,,5,5,44.542915,-88.130869
+883,Wisconsin,2018-19,Hillcrest Primary,,,Shawano,Shawano,,,,87,,6,5,44.76354,-88.588081
+884,Wisconsin,2018-19,Jefferson Elementary,,,Merrill,Lincoln,,,,87,,5,5,45.174739,-89.727042
+885,Wisconsin,2018-19,Jefferson Elementary,,,Janesville,Rock,,,,87,,9,5,42.701748,-88.99892
+886,Wisconsin,2018-19,Jeffery Elementary,,,Kenosha,Kenosha,,,,87,,9,5,42.546866,-87.855687
+887,Wisconsin,2018-19,Langlade Elementary,,,Green Bay,Brown,,,,87,,9,5,44.464868,-88.026433
+888,Wisconsin,2018-19,Lemonweir Elementary,,,Tomah,Monroe,,,,87,,6,5,43.993994,-90.494468
+889,Wisconsin,2018-19,Madison Elementary,,,Stevens Point,Portage,,,,87,,11,5,44.534507,-89.589035
+890,Wisconsin,2018-19,Manz Elementary,,,Eau Claire,Eau Claire,,,,87,,5,5,44.789708,-91.485203
+891,Wisconsin,2018-19,Martin Luther,,,Oshkosh,Winnebago,,,,87,,7,5,44.0358238,-88.5576607
+892,Wisconsin,2018-19,Milw German Immersion,,,Milwaukee,Milwaukee,,,,87,,5,5,43.0857014,-88.0144385
+893,Wisconsin,2018-19,Milwaukee Acad of Science,,,Milwaukee,Milwaukee,,,,87,,6,5,43.042236,-87.939499
+894,Wisconsin,2018-19,Mosinee Elementary,,,Mosinee,Marathon,,,,87,,5,5,44.796681,-89.71486
+895,Wisconsin,2018-19,Northwestern Elementary,,,Poplar,Douglas,,,,87,,9,5,46.584232,-91.759202
+896,Wisconsin,2018-19,Peace Lutheran,,,Sun Prairie,Dane,,,,87,,5,7,43.2012284,-89.2287244
+897,Wisconsin,2018-19,Ridgeway Elementary,,,Ridgeway,Iowa,,,,87,,13,5,42.998554,-89.989777
+898,Wisconsin,2018-19,Riverview Elementary,,,Silver Lake,Kenosha,,,,87,,13,5,42.552962,-88.168896
+899,Wisconsin,2018-19,Rogers Street Academy,,,Milwaukee,Milwaukee,,,,87,,5,5,43.008812,-87.944392
+900,Wisconsin,2018-19,Saint James Grade,,,Eau Claire,Eau Claire,,,,87,,13,5,44.8246388,-91.525289
+901,Wisconsin,2018-19,Saint John the Baptist Primary,,,Marshfield,Wood,,,,87,,13,5,44.6707322,-90.1742199
+902,Wisconsin,2018-19,Saint Mary of theAssumptionSchool,,,Richland Center,Richland,,,,87,,13,5,43.3409977,-90.386049
+903,Wisconsin,2018-19,Saint Peter Immanuel Luth,,,Milwaukee,Milwaukee,,,,87,,5,5,43.1370913,-88.0070221
+904,Wisconsin,2018-19,South Elementary,,,Reedsburg,Sauk,,,,87,,11,5,43.530137,-90.004923
+905,Wisconsin,2018-19,Unity Elementary,,,Balsam Lake,Polk,,,,87,,6,5,45.485095,-92.465522
+906,Wisconsin,2018-19,Viking Elementary,,,Holmen,La Crosse,,,,87,,13,5,43.961265,-91.249315
+907,Wisconsin,2018-19,Waters Elementary,,,Fond du Lac,Fond du Lac,,,,87,,11,5,43.765102,-88.436804
+908,Wisconsin,2018-19,Wilkins Elementary,,,Platteville,Grant,,,,87,,6,5,42.735408,-90.466772
+909,Wisconsin,2018-19,Winnequah,,,Monona,Dane,,,,87,,5,5,43.0646,-89.3393
+910,Wisconsin,2018-19,Woodlands Sch East,,,Milwaukee,Milwaukee,,,,87,,5,5,43.0428511,-87.9535841
+911,Wisconsin,2018-19,Allenton Elementary,,,Allenton,Washington,,,,86,,12,5,43.416366,-88.335412
+912,Wisconsin,2018-19,Amherst Elementary,,,Amherst,Portage,,,,86,,14,5,44.455306,-89.285157
+913,Wisconsin,2018-19,Baird Elementary,,,Green Bay,Brown,,,,86,,5,5,44.511051,-87.933499
+914,Wisconsin,2018-19,Cassville Elementary,,,Cassville,Grant,,,,86,,5,5,42.711382,-90.983175
+915,Wisconsin,2018-19,Concordia Lutheran,,,Sturtevant,Racine,,,,86,,9,5,42.69961,-87.890041
+916,Wisconsin,2018-19,Crescent Elementary,,,Rhinelander,Oneida,,,,86,,5,5,45.624898,-89.435346
+917,Wisconsin,2018-19,Evans Elementary,,,Fond du Lac,Fond du Lac,,,,86,,11,5,43.774595,-88.472567
+918,Wisconsin,2018-19,EverGreen Academy,,,Racine,Racine,,,,86,,5,5,42.690386,-87.82505
+919,Wisconsin,2018-19,Faith Lutheran,,,Fond du Lac,Fond du Lac,,,,86,,14,5,43.7795249,-88.4109144
+920,Wisconsin,2018-19,Fox River Academy,,,Appleton,Outagamie,,,,86,,14,5,44.254118,-88.425201
+921,Wisconsin,2018-19,Glenwood City Elementary,,,Glenwood City,Saint Croix,,,,86,,5,5,45.05266,-92.156128
+922,Wisconsin,2018-19,Glenwood Elementary,,,Greenfield,Milwaukee,,,,86,,10,5,42.980174,-87.977018
+923,Wisconsin,2018-19,Granton Elementary,,,Granton,Clark,,,,86,,5,5,44.592853,-90.462364
+924,Wisconsin,2018-19,Jerstad-Agerholm Elementary,,,Racine,Racine,,,,86,,5,5,42.763525,-87.791182
+925,Wisconsin,2018-19,Kennedy Elementary,,,Janesville,Rock,,,,86,,13,5,42.707637,-88.967393
+926,Wisconsin,2018-19,Lake Superior Elementary,,,Superior,Douglas,,,,86,,6,5,46.664631,-92.003663
+927,Wisconsin,2018-19,Lakeview Elementary,,,Whitewater,Walworth,,,,86,,5,5,42.757306,-88.711484
+928,Wisconsin,2018-19,Lincoln Elementary,,,Green Bay,Brown,,,,86,,5,5,44.52264,-88.040121
+929,Wisconsin,2018-19,Lincoln Elementary,,,Cudahy,Milwaukee,,,,86,,11,5,42.964103,-87.859332
+930,Wisconsin,2018-19,Lincoln Elementary,,,Appleton,Outagamie,,,,86,,12,5,44.270782,-88.425331
+931,Wisconsin,2018-19,Lincoln Elementary,,,Whitewater,Walworth,,,,86,,5,5,42.831306,-88.747849
+932,Wisconsin,2018-19,MacArthur Elementary,,,Green Bay,Brown,,,,86,,5,5,44.518715,-88.090221
+933,Wisconsin,2018-19,Monroe Elementary,,,Janesville,Rock,,,,86,,12,5,42.69036,-88.98681
+934,Wisconsin,2018-19,Morgandale Elementary,,,Milwaukee,Milwaukee,,,,86,,5,5,42.978512,-87.935842
+935,Wisconsin,2018-19,Northern Lights Elementary,,,Superior,Douglas,,,,86,,5,5,46.709317,-92.094911
+936,Wisconsin,2018-19,O Brown Elementary,,,Racine,Racine,,,,86,,5,5,42.805207,-87.803484
+937,Wisconsin,2018-19,Osceola Elementary,,,Osceola,Polk,,,,86,,10,5,45.328429,-92.695492
+938,Wisconsin,2018-19,Phillips Elementary,,,Phillips,Price,,,,86,,5,5,45.690254,-90.405078
+939,Wisconsin,2018-19,Queen of the Apostles,,,Tomah,Monroe,,,,86,,14,5,43.9798099,-90.5080871
+940,Wisconsin,2018-19,Random Lake Elementary,,,Random Lake,Sheboygan,,,,86,,12,5,43.554515,-87.972343
+941,Wisconsin,2018-19,Raymond Elementary,,,Franksville,Racine,,,,86,,8,5,42.797974,-88.013788
+942,Wisconsin,2018-19,Riley Elementary,,,Milwaukee,Milwaukee,,,,86,,5,5,43.001001,-87.914937
+943,Wisconsin,2018-19,Saint Ignatius Catholic,,,Kaukauna,Outagamie,,,,86,,7,5,44.2838883,-88.2698795
+944,Wisconsin,2018-19,Saint Matthias,,,Milwaukee,Milwaukee,,,,86,,5,5,42.9861951,-88.0286441
+945,Wisconsin,2018-19,Saint Paul Evang Lutheran,,,Appleton,Outagamie,,,,86,,14,5,44.264202,-88.4040669
+946,Wisconsin,2018-19,Saint Paul Lutheran,,,Grafton,Ozaukee,,,,86,,14,5,43.319449,-87.957312
+947,Wisconsin,2018-19,Waukesha Catholic School Sys,,,Waukesha,Waukesha,,,,86,,5,5,43.0014536,-88.2218168
+948,Wisconsin,2018-19,Waupaca Learning Center Elementary,,,Waupaca,Waupaca,,,,86,,13,5,44.346156,-89.064513
+949,Wisconsin,2018-19,Woods Elementary,,,Lake Geneva,Walworth,,,,86,,5,5,42.58422,-88.463934
+950,Wisconsin,2018-19,Abundant Life Christian,,,Madison,Dane,,,,85,,8,8,43.07146,-89.298221
+951,Wisconsin,2018-19,ALBA,,,Milwaukee,Milwaukee,,,,85,,5,5,43.0118534,-87.9533963
+952,Wisconsin,2018-19,Barlow Park Elementary,,,Ripon,Fond du Lac,,,,85,,5,5,43.829173,-88.838282
+953,Wisconsin,2018-19,Brass Community,,,Kenosha,Kenosha,,,,85,,5,5,42.571156,-87.829894
+954,Wisconsin,2018-19,Brighton Elementary,,,Kansasville,Kenosha,,,,85,,15,5,42.640538,-88.111594
+955,Wisconsin,2018-19,Discovery Charter,,,Columbus,Columbia,,,,85,,10,5,43.33686,-89.019074
+956,Wisconsin,2018-19,Doudna Elementary,,,Richland Center,Richland,,,,85,,12,5,43.318431,-90.37911
+957,Wisconsin,2018-19,Fairview Elementary,,,Plymouth,Sheboygan,,,,85,,12,5,43.750155,-87.96418
+958,Wisconsin,2018-19,Fall Creek Elementary,,,Fall Creek,Eau Claire,,,,85,,5,5,44.758941,-91.272856
+959,Wisconsin,2018-19,Fort Howard Elementary,,,Green Bay,Brown,,,,85,,5,5,44.520377,-88.021413
+960,Wisconsin,2018-19,Gilmanton Elementary,,,Gilmanton,Buffalo,,,,85,,5,5,44.472691,-91.677508
+961,Wisconsin,2018-19,Gompers Elementary,,,Madison,Dane,,,,85,,12,5,43.146205,-89.369
+962,Wisconsin,2018-19,Highland View Elementary,,,Greendale,Milwaukee,,,,85,,7,5,42.936954,-87.976372
+963,Wisconsin,2018-19,Immaculate Conception Gr,,,Eau Claire,Eau Claire,,,,85,,10,5,44.8077701,-91.477168
+964,Wisconsin,2018-19,Ithaca Elementary,,,Richland Center,Richland,,,,85,,12,5,43.341295,-90.280293
+965,Wisconsin,2018-19,Keefe Avenue Elementary,,,Milwaukee,Milwaukee,,,,85,,5,5,43.082369,-87.931661
+966,Wisconsin,2018-19,Koenig Elementary,,,Two Rivers,Manitowoc,,,,85,,5,5,44.143891,-87.583228
+967,Wisconsin,2018-19,Lake Bluff Elementary,,,Shorewood,Milwaukee,,,,85,,13,5,43.096333,-87.889657
+968,Wisconsin,2018-19,Lincoln Elementary,,,Janesville,Rock,,,,85,,15,5,42.652856,-89.042624
+969,Wisconsin,2018-19,Little Rails Early Learning,,,Spooner,Washburn,,,,85,,5,5,45.837181,-91.889532
+970,Wisconsin,2018-19,Magee Elementary,,,Genesee Depot,Waukesha,,,,85,,5,5,42.96969,-88.3728
+971,Wisconsin,2018-19,Manitoba Elementary,,,Milwaukee,Milwaukee,,,,85,,5,5,42.991148,-87.965548
+972,Wisconsin,2018-19,Markesan Primary,,,Markesan,Green Lake,,,,85,,10,5,43.705116,-88.991352
+973,Wisconsin,2018-19,Mitchell Elementary,,,Racine,Racine,,,,85,,5,5,42.698895,-87.811546
+974,Wisconsin,2018-19,Nelson Elementary,,,Grantsburg,Burnett,,,,85,,15,5,45.77287,-92.574821
+975,Wisconsin,2018-19,Oconto Falls Elementary,,,Oconto Falls,Oconto,,,,85,,8,5,44.869901,-88.128496
+976,Wisconsin,2018-19,Park Falls Elementary,,,Park Falls,Price,,,,85,,8,5,45.947189,-90.453415
+977,Wisconsin,2018-19,Parkview Elementary,,,Plymouth,Sheboygan,,,,85,,13,5,43.754467,-87.990211
+978,Wisconsin,2018-19,Pier Elementary,,,Fond du Lac,Fond du Lac,,,,85,,15,5,43.755366,-88.438209
+979,Wisconsin,2018-19,Prairie Farm Elementary,,,Prairie Farm,Barron,,,,85,,15,5,45.232624,-91.983021
+980,Wisconsin,2018-19,Prentice Elementary,,,Prentice,Price,,,,85,,15,5,45.54407,-90.292094
+981,Wisconsin,2018-19,Randall Consolidated,,,Burlington,Kenosha,,,,85,,8,5,42.548295,-88.260186
+982,Wisconsin,2018-19,Rosenow Elementary,,,Fond du Lac,Fond du Lac,,,,85,,9,5,43.787441,-88.42907
+983,Wisconsin,2018-19,Saint Charles Grade,,,Burlington,Racine,,,,85,,8,5,42.6808035,-88.2802782
+984,Wisconsin,2018-19,Sheridan Elementary,,,Sheboygan,Sheboygan,,,,85,,8,5,43.745791,-87.723989
+985,Wisconsin,2018-19,Shullsburg Elementary,,,Shullsburg,Lafayette,,,,85,,15,5,42.575434,-90.230184
+986,Wisconsin,2018-19,Southside Elementary,,,Sparta,Monroe,,,,85,,5,5,43.93799,-90.794532
+987,Wisconsin,2018-19,St Joseph Parish,,,Grafton,Ozaukee,,,,85,,5,5,43.319683,-87.946496
+988,Wisconsin,2018-19,Stanley Elementary,,,Stanley,Chippewa,,,,85,,13,5,44.961609,-90.924116
+989,Wisconsin,2018-19,Sullivan Elementary,,,Green Bay,Brown,,,,85,,5,5,44.503209,-87.988909
+990,Wisconsin,2018-19,Tower Rock Elementary,,,Prairie du Sac,Sauk,,,,85,,15,5,43.317664,-89.898652
+991,Wisconsin,2018-19,Underwood Elementary,,,Wauwatosa,Milwaukee,,,,85,,5,5,43.04142,-88.052903
+992,Wisconsin,2018-19,Van Buren Elementary,,,Janesville,Rock,,,,85,,12,5,42.662258,-89.038178
+993,Wisconsin,2018-19,Vieau Elementary,,,Milwaukee,Milwaukee,,,,85,,5,5,43.022864,-87.916064
+994,Wisconsin,2018-19,Viroqua Elementary,,,Viroqua,Vernon,,,,85,,12,5,43.556793,-90.902712
+995,Wisconsin,2018-19,Wauzeka Elementary,,,Wauzeka,Crawford,,,,85,,15,5,43.085512,-90.883127
+996,Wisconsin,2018-19,Willow River Elementary,,,Hudson,Saint Croix,,,,85,,10,5,44.981806,-92.753037
+997,Wisconsin,2018-19,Bethesda Elementary,,,Waukesha,Waukesha,,,,84,,5,5,43.004182,-88.277093
+998,Wisconsin,2018-19,Clayton Elementary,,,Neenah,Winnebago,,,,84,,8,5,44.214677,-88.54534
+999,Wisconsin,2018-19,Cooper Elementary,,,Milwaukee,Milwaukee,,,,84,,5,5,42.950804,-87.940857
+1000,Wisconsin,2018-19,Craig Montessori,,,Milwaukee,Milwaukee,,,,84,,5,5,43.096801,-88.007941
+1001,Wisconsin,2018-19,Darlington El/Mid,,,Darlington,Lafayette,,,,84,,16,5,42.6633815,-90.1233238
+1002,Wisconsin,2018-19,Dodgeland Elementary,,,Juneau,Dodge,,,,84,,16,5,43.402844,-88.716012
+1003,Wisconsin,2018-19,East Elementary,,,Antigo,Langlade,,,,84,,11,5,45.137783,-89.143716
+1004,Wisconsin,2018-19,Fernwood Montessori,,,Milwaukee,Milwaukee,,,,84,,9,5,42.985914,-87.880273
+1005,Wisconsin,2018-19,Fifty-Third Street Elementary,,,Milwaukee,Milwaukee,,,,84,,9,5,43.083495,-87.978601
+1006,Wisconsin,2018-19,Franklin Elementary,,,Milwaukee,Milwaukee,,,,84,,5,5,43.085064,-87.941726
+1007,Wisconsin,2018-19,Frederic Elementary,,,Frederic,Polk,,,,84,,16,5,45.663422,-92.461797
+1008,Wisconsin,2018-19,Greenland Elementary,,,Oconomowoc,Waukesha,,,,84,,14,5,43.119094,-88.493228
+1009,Wisconsin,2018-19,Hales Corners Lutheran Schools,,,Hales Corners,Milwaukee,,,,84,,12,5,42.935064,-88.068896
+1010,Wisconsin,2018-19,Hawthorn Hills Elementary,,,Wausau,Marathon,,,,84,,5,5,44.95675,-89.605898
+1011,Wisconsin,2018-19,Honey Creek Elementary,,,Milwaukee,Milwaukee,,,,84,,15,5,42.979216,-87.99676
+1012,Wisconsin,2018-19,Hope Christian School: Prima,,,Milwaukee,Milwaukee,,,,84,,5,5,43.061665,-87.945702
+1013,Wisconsin,2018-19,Hope Christian School: Semper,,,Milwaukee,Milwaukee,,,,84,,5,5,43.09031,-87.951791
+1014,Wisconsin,2018-19,Indian Community,,,Franklin,Milwaukee,,,,84,,5,5,42.89058,-88.047631
+1015,Wisconsin,2018-19,Inst of Technology &amp; Academics,,,Milwaukee,Milwaukee,,,,84,,5,5,43.1803061,-88.0147769
+1016,Wisconsin,2018-19,Jefferson Lighthouse Elementary,,,Racine,Racine,,,,84,,5,5,42.726564,-87.802559
+1017,Wisconsin,2018-19,La Casa de Esperanza Charter,,,Waukesha,Waukesha,,,,84,,5,5,43.012176,-88.222891
+1018,Wisconsin,2018-19,Milw College Prep--North,,,Milwaukee,Milwaukee,,,,84,,5,5,43.0666765,-87.9619908
+1019,Wisconsin,2018-19,Newman Catholic El at St Mark,,,Rothschild,Marathon,,,,84,,5,5,44.8811681,-89.6172442
+1020,Wisconsin,2018-19,North Park Elementary,,,Racine,Racine,,,,84,,5,5,42.781407,-87.802904
+1021,Wisconsin,2018-19,Parkside Elementary,,,Fond du Lac,Fond du Lac,,,,84,,14,5,43.787298,-88.465471
+1022,Wisconsin,2018-19,Saint Augustine Preparatory Ac,,,Milwaukee,Milwaukee,,,,84,,5,5,42.997377,-87.9173637
+1023,Wisconsin,2018-19,Saint Peter Lutheran,,,Freedom,Outagamie,,,,84,,16,5,44.3375884,-88.3521781
+1024,Wisconsin,2018-19,Schulte Elementary,,,Sturtevant,Racine,,,,84,,5,5,42.693314,-87.889629
+1025,Wisconsin,2018-19,Spring Valley Elementary,,,Spring Valley,Pierce,,,,84,,12,5,44.844901,-92.236913
+1026,Wisconsin,2018-19,Tonawanda Elementary,,,Elm Grove,Waukesha,,,,84,,5,5,43.053788,-88.081399
+1027,Wisconsin,2018-19,Washington Elementary,,,Merrill,Lincoln,,,,84,,11,5,45.1853,-89.673398
+1028,Wisconsin,2018-19,West Side Elementary,,,Mauston,Juneau,,,,84,,5,5,43.79633,-90.086987
+1029,Wisconsin,2018-19,Westlawn Elementary,,,Cedarburg,Ozaukee,,,,84,,14,5,43.287365,-87.990986
+1030,Wisconsin,2018-19,Barbee Elementary,,,Milwaukee,Milwaukee,,,,83,,5,5,43.098463,-87.942429
+1031,Wisconsin,2018-19,Christ Child Academy,,,Sheboygan,Sheboygan,,,,83,,5,5,43.72468,-87.722611
+1032,Wisconsin,2018-19,Clemens Elementary,,,Milwaukee,Milwaukee,,,,83,,5,5,43.094082,-87.958711
+1033,Wisconsin,2018-19,Cleveland Elementary,,,Cleveland,Sheboygan,,,,83,,17,5,43.913715,-87.732144
+1034,Wisconsin,2018-19,Doerfler Elementary,,,Milwaukee,Milwaukee,,,,83,,5,5,43.019818,-87.952188
+1035,Wisconsin,2018-19,Drummond Elementary,,,Drummond,Bayfield,,,,83,,17,5,46.335946,-91.255331
+1036,Wisconsin,2018-19,Early Learning Ctr,,,Green Bay,Brown,,,,83,,5,5,44.4889298,-87.9949241
+1037,Wisconsin,2018-19,Emerson Elementary,,,Milwaukee,Milwaukee,,,,83,,5,5,43.097721,-88.025608
+1038,Wisconsin,2018-19,Good Shepherd Lutheran,,,Watertown,Jefferson,,,,83,,9,5,43.191007,-88.698784
+1039,Wisconsin,2018-19,Grewenow Elementary,,,Kenosha,Kenosha,,,,83,,5,5,42.562933,-87.83383
+1040,Wisconsin,2018-19,Hawthorne Elementary,,,Madison,Dane,,,,83,,7,5,43.111763,-89.327974
+1041,Wisconsin,2018-19,John Marshall Elementary,,,Wausau,Marathon,,,,83,,10,5,44.936942,-89.624577
+1042,Wisconsin,2018-19,Johnson Elementary,,,Racine,Racine,,,,83,,5,5,42.701082,-87.830313
+1043,Wisconsin,2018-19,Lien Elementary,,,Amery,Polk,,,,83,,5,5,45.304316,-92.350842
+1044,Wisconsin,2018-19,Madison Country Day,,,Waunakee,Dane,,,,83,,5,5,43.1623,-89.387451
+1045,Wisconsin,2018-19,Madison Elementary,,,Janesville,Rock,,,,83,,14,5,42.683827,-89.048147
+1046,Wisconsin,2018-19,Martin Elementary,,,Green Bay,Brown,,,,83,,5,5,44.489614,-87.963248
+1047,Wisconsin,2018-19,Mendota Elementary,,,Madison,Dane,,,,83,,5,5,43.136847,-89.383563
+1048,Wisconsin,2018-19,Milwaukee Math and Science Academy,,,Milwaukee,Milwaukee,,,,83,,5,5,43.075103,-87.911474
+1049,Wisconsin,2018-19,Necedah Elementary,,,Necedah,Juneau,,,,83,,12,5,44.000442,-90.073982
+1050,Wisconsin,2018-19,Oostburg Christian Grade,,,Oostburg,Sheboygan,,,,83,,17,5,43.6221755,-87.7923994
+1051,Wisconsin,2018-19,Parkview Elementary,,,Chippewa Falls,Chippewa,,,,83,,16,5,44.948569,-91.397007
+1052,Wisconsin,2018-19,Peace Lutheran Grade,,,Antigo,Langlade,,,,83,,17,5,45.1366672,-89.161055
+1053,Wisconsin,2018-19,Pershing Elementary,,,West Milwaukee,Milwaukee,,,,83,,17,5,43.0172,-87.971887
+1054,Wisconsin,2018-19,River Heights Elementary,,,Menomonie,Dunn,,,,83,,5,5,44.862042,-91.935966
+1055,Wisconsin,2018-19,Saint John Lutheran,,,Plymouth,Sheboygan,,,,83,,17,5,43.749331,-87.977967
+1056,Wisconsin,2018-19,Saint Joseph Grade,,,Dodgeville,Iowa,,,,83,,17,5,42.9577742,-90.1273459
+1057,Wisconsin,2018-19,Saint Mary Grade,,,Janesville,Rock,,,,83,,17,5,42.6852884,-89.0212223
+1058,Wisconsin,2018-19,Saint Marys Grade,,,Burlington,Racine,,,,83,,17,5,42.6755382,-88.2807961
+1059,Wisconsin,2018-19,Southern Door Elementary,,,Brussels,Door,,,,83,,6,5,44.772283,-87.522768
+1060,Wisconsin,2018-19,Trinity Lutheran Grade,,,Wausau,Marathon,,,,83,,5,5,44.958664,-89.642529
+1061,Wisconsin,2018-19,Trinity Lutheran Sch Wis Synod,,,Caledonia,Racine,,,,83,,17,5,42.8275693,-87.8952155
+1062,Wisconsin,2018-19,West Elementary,,,Antigo,Langlade,,,,83,,6,5,45.138164,-89.164529
+1063,Wisconsin,2018-19,West Ridge Elementary,,,Racine,Racine,,,,83,,5,5,42.715785,-87.854487
+1064,Wisconsin,2018-19,Abraham Lincoln Elementary,,,Monroe,Green,,,,82,,11,5,42.586697,-89.642893
+1065,Wisconsin,2018-19,Aquinas Academy,,,Menomonee Falls,Waukesha,,,,82,,18,5,43.14633,-88.110131
+1066,Wisconsin,2018-19,Clarke Street Elementary,,,Milwaukee,Milwaukee,,,,82,,5,5,43.066321,-87.949296
+1067,Wisconsin,2018-19,Coolidge Elementary,,,Neenah,Winnebago,,,,82,,15,5,44.163021,-88.459665
+1068,Wisconsin,2018-19,Coulee Montessori Charter,,,La Crosse,La Crosse,,,,82,,18,5,43.847409,-91.241844
+1069,Wisconsin,2018-19,Edgar Elementary,,,Edgar,Marathon,,,,82,,18,5,44.923708,-89.961998
+1070,Wisconsin,2018-19,Edison Elementary,,,Appleton,Outagamie,,,,82,,7,5,44.265197,-88.394428
+1071,Wisconsin,2018-19,Fair Park Elementary,,,West Bend,Washington,,,,82,,10,5,43.428473,-88.174727
+1072,Wisconsin,2018-19,Good Shepherd Lutheran,,,West Bend,Washington,,,,82,,12,5,43.41278,-88.172811
+1073,Wisconsin,2018-19,Grace Lutheran,,,Oshkosh,Winnebago,,,,82,,18,5,44.01028,-88.540551
+1074,Wisconsin,2018-19,Honor Elementary,,,Neosho,Dodge,,,,82,,15,5,43.31021,-88.513191
+1075,Wisconsin,2018-19,Jefferson Elementary,,,Wauwatosa,Milwaukee,,,,82,,5,5,43.042088,-87.998972
+1076,Wisconsin,2018-19,Jefferson Elementary,,,Menasha,Winnebago,,,,82,,5,5,44.203291,-88.432133
+1077,Wisconsin,2018-19,Lakeshore Elementary,,,Eau Claire,Eau Claire,,,,82,,15,5,44.806285,-91.514808
+1078,Wisconsin,2018-19,Lindbergh Elementary,,,Madison,Dane,,,,82,,5,5,43.143352,-89.388512
+1079,Wisconsin,2018-19,Maplewood Elementary,,,Sparta,Monroe,,,,82,,5,5,43.950491,-90.797749
+1080,Wisconsin,2018-19,Marathon Elementary,,,Marathon,Marathon,,,,82,,16,5,44.92925,-89.831116
+1081,Wisconsin,2018-19,Meadowbrook Elementary,,,Waukesha,Waukesha,,,,82,,6,5,43.045547,-88.284274
+1082,Wisconsin,2018-19,Milw French Immersion,,,Milwaukee,Milwaukee,,,,82,,5,5,43.0620206,-87.9781255
+1083,Wisconsin,2018-19,Mount Olive Lutheran Grade,,,Milwaukee,Milwaukee,,,,82,,18,5,43.052388,-87.980544
+1084,Wisconsin,2018-19,Our Redeemer Lutheran,,,Delavan,Walworth,,,,82,,6,5,42.62684,-88.658361
+1085,Wisconsin,2018-19,Owen-Withee Elementary,,,Owen,Clark,,,,82,,5,5,44.949795,-90.579157
+1086,Wisconsin,2018-19,Park View Elementary,,,Cudahy,Milwaukee,,,,82,,5,5,42.943682,-87.877425
+1087,Wisconsin,2018-19,Pierce Elementary,,,Milwaukee,Milwaukee,,,,82,,5,5,43.068714,-87.901883
+1088,Wisconsin,2018-19,Powers Elementary,,,Beloit,Rock,,,,82,,9,5,42.553978,-89.035359
+1089,Wisconsin,2018-19,Prairie View Elementary,,,North Prairie,Waukesha,,,,82,,10,5,42.92653,-88.40631
+1090,Wisconsin,2018-19,Rib Lake Elementary,,,Rib Lake,Taylor,,,,82,,18,5,45.327954,-90.205816
+1091,Wisconsin,2018-19,Rocketship Southside Comm Prep,,,Milwaukee,Milwaukee,,,,82,,5,5,42.9958432,-87.9519156
+1092,Wisconsin,2018-19,Saint Joseph Grade,,,Big Bend,Waukesha,,,,82,,9,5,42.8825145,-88.2028683
+1093,Wisconsin,2018-19,St Mary,,,Mayville,Dodge,,,,82,,18,5,43.4940043,-88.5405341
+1094,Wisconsin,2018-19,Sunrise Early Learning Ctr,,,Marinette,Marinette,,,,82,,7,5,45.086257,-87.600949
+1095,Wisconsin,2018-19,Tank Elementary,,,Green Bay,Brown,,,,82,,5,5,44.510792,-88.031978
+1096,Wisconsin,2018-19,Thorp Catholic,,,Thorp,Clark,,,,82,,18,5,44.960421,-90.793995
+1097,Wisconsin,2018-19,Waukesha STEM Academy,,,Waukesha,Waukesha,,,,82,,5,5,43.00467,-88.227178
+1098,Wisconsin,2018-19,Wausaukee Elementary,,,Wausaukee,Marinette,,,,82,,9,5,45.390171,-87.963743
+1099,Wisconsin,2018-19,White Lake Elementary,,,White Lake,Langlade,,,,82,,5,5,45.155897,-88.765059
+1100,Wisconsin,2018-19,Zion Lutheran Grade,,,Rhinelander,Oneida,,,,82,,18,5,45.6403467,-89.4124002
+1101,Wisconsin,2018-19,Adams-Friendship Elementary,,,Friendship,Adams,,,,81,,5,5,43.9650592,-89.8111399
+1102,Wisconsin,2018-19,Black Creek Elementary,,,Black Creek,Outagamie,,,,81,,5,5,44.473475,-88.446756
+1103,Wisconsin,2018-19,Carson Academy,,,Milwaukee,Milwaukee,,,,81,,5,5,43.090624,-87.975385
+1104,Wisconsin,2018-19,Cedar Grove-Belgium Elementary,,,Cedar Grove,Sheboygan,,,,81,,6,5,43.572613,-87.822445
+1105,Wisconsin,2018-19,Chain O Lakes Elementary,,,Waupaca,Waupaca,,,,81,,14,5,44.354434,-89.168792
+1106,Wisconsin,2018-19,Clara Mohammed,,,Milwaukee,Milwaukee,,,,81,,5,13,43.0637964,-87.9145508
+1107,Wisconsin,2018-19,Elmwood Elementary,,,Elmwood,Pierce,,,,81,,8,5,44.777744,-92.15367
+1108,Wisconsin,2018-19,Fine Arts Elementary,,,Racine,Racine,,,,81,,8,5,42.707111,-87.78979
+1109,Wisconsin,2018-19,Green Bay Trinity Lutheran,,,Green Bay,Brown,,,,81,,19,5,44.50152,-87.978841
+1110,Wisconsin,2018-19,Hillcrest Elementary,,,Ellsworth,Pierce,,,,81,,17,5,44.7263296,-92.4828272
+1111,Wisconsin,2018-19,Howard Avenue Montessori,,,Milwaukee,Milwaukee,,,,81,,7,5,42.9736094,-87.9059284
+1112,Wisconsin,2018-19,Messmer Catholic Schools,,,Milwaukee,Milwaukee,,,,81,,5,5,43.089783,-87.920396
+1113,Wisconsin,2018-19,Our Lady Queen of Heaven,,,Wisconsin Rapids,Wood,,,,81,,12,5,44.3884448,-89.8368501
+1114,Wisconsin,2018-19,Paris Elementary,,,Kenosha,Kenosha,,,,81,,8,8,42.625513,-88.021678
+1115,Wisconsin,2018-19,Point 4 the Future,,,Stevens Point,Portage,,,,81,,15,5,44.498059,-89.567444
+1116,Wisconsin,2018-19,Prairie Lane Elementary,,,Pleasant Prairie,Kenosha,,,,81,,5,5,42.519423,-87.862472
+1117,Wisconsin,2018-19,Saint Agnes Catholic Grade,,,Butler,Waukesha,,,,81,,6,5,43.1074979,-88.0715765
+1118,Wisconsin,2018-19,Saint Rafael the ArchangElementary,,,Milwaukee,Milwaukee,,,,81,,5,5,43.0068745,-87.9545707
+1119,Wisconsin,2018-19,Saint Vincent Pallotti,,,Milwaukee,Milwaukee,,,,81,,5,5,43.0326404,-88.0082668
+1120,Wisconsin,2018-19,Stocker Elementary,,,Kenosha,Kenosha,,,,81,,6,5,42.573546,-87.884015
+1121,Wisconsin,2018-19,Sullivan Elementary,,,Sullivan,Jefferson,,,,81,,19,5,43.015975,-88.590001
+1122,Wisconsin,2018-19,Tiffany Creek Elementary,,,Boyceville,Dunn,,,,81,,14,5,45.051824,-92.033914
+1123,Wisconsin,2018-19,Victory Elementary,,,Milwaukee,Milwaukee,,,,81,,5,5,42.93663,-87.942728
+1124,Wisconsin,2018-19,Wabeno Elementary,,,Wabeno,Forest,,,,81,,12,5,45.44148,-88.649507
+1125,Wisconsin,2018-19,Xavier El--McDonald St Campus,,,Appleton,Outagamie,,,,81,,19,5,44.2787943,-88.3879562
+1126,Wisconsin,2018-19,Atwater Elementary,,,Shorewood,Milwaukee,,,,80,,20,5,43.089865,-87.883532
+1127,Wisconsin,2018-19,Charis Classical Academy,,,Madison,Dane,,,,80,,20,5,43.0927,-89.263871
+1128,Wisconsin,2018-19,Community Christian,,,Baraboo,Sauk,,,,80,,20,5,43.5219262,-89.6923444
+1129,Wisconsin,2018-19,Dunwiddie Elementary,,,Port Washington,Ozaukee,,,,80,,5,5,43.384141,-87.893881
+1130,Wisconsin,2018-19,Early View Acad of Excellence,,,Milwaukee,Milwaukee,,,,80,,5,5,43.15031,-88.0001969
+1131,Wisconsin,2018-19,First German Evang Luth Gr,,,Manitowoc,Manitowoc,,,,80,,20,5,44.0873316,-87.6576329
+1132,Wisconsin,2018-19,Fratney Elementary,,,Milwaukee,Milwaukee,,,,80,,5,5,43.077509,-87.902115
+1133,Wisconsin,2018-19,Friedens Lutheran,,,Kenosha,Kenosha,,,,80,,10,5,42.5900504,-87.8330687
+1134,Wisconsin,2018-19,Grant Elementary,,,Sheboygan,Sheboygan,,,,80,,8,5,43.761506,-87.708774
+1135,Wisconsin,2018-19,Grant Elementary,,,Marshfield,Wood,,,,80,,5,5,44.681633,-90.172335
+1136,Wisconsin,2018-19,Green Lake Elementary,,,Green Lake,Green Lake,,,,80,,20,5,43.850251,-88.95978
+1137,Wisconsin,2018-19,Highland Community,,,Milwaukee,Milwaukee,,,,80,,7,5,43.045051,-87.951253
+1138,Wisconsin,2018-19,Hope Christian School: Fortis,,,Milwaukee,Milwaukee,,,,80,,5,5,43.08292,-87.917841
+1139,Wisconsin,2018-19,Jefferson Elementary,,,Green Bay,Brown,,,,80,,5,5,44.528178,-88.020747
+1140,Wisconsin,2018-19,Kegonsa Elementary,,,Stoughton,Dane,,,,80,,12,5,42.916209,-89.203889
+1141,Wisconsin,2018-19,Lac Courte Oreilles Ojibwe,,,Hayward,Sawyer,,,,80,,5,5,45.943816,-91.3586806
+1142,Wisconsin,2018-19,Lake Country,,,Hartland,Waukesha,,,,80,,7,5,43.099765,-88.38463
+1143,Wisconsin,2018-19,LEADS Primary Charter,,,Shawano,Shawano,,,,80,,20,5,44.766214,-88.586846
+1144,Wisconsin,2018-19,Lewiston Elementary,,,Portage,Columbia,,,,80,,13,5,43.593776,-89.55863
+1145,Wisconsin,2018-19,Longfellow Elementary,,,Eau Claire,Eau Claire,,,,80,,5,5,44.819095,-91.49072
+1146,Wisconsin,2018-19,New Glarus Elementary,,,New Glarus,Green,,,,80,,18,5,42.805414,-89.634117
+1147,Wisconsin,2018-19,Northside Elementary,,,Monroe,Green,,,,80,,15,5,42.603975,-89.622299
+1148,Wisconsin,2018-19,Northside Elementary,,,La Crosse,La Crosse,,,,80,,17,5,43.847409,-91.241844
+1149,Wisconsin,2018-19,Orchard Ridge Elementary,,,Madison,Dane,,,,80,,12,5,43.033492,-89.475237
+1150,Wisconsin,2018-19,Rock Ledge Elementary,,,Seymour,Outagamie,,,,80,,5,5,44.504843,-88.333684
+1151,Wisconsin,2018-19,Roosevelt Elementary,,,Neenah,Winnebago,,,,80,,10,5,44.189904,-88.454165
+1152,Wisconsin,2018-19,Sacred Heart Catholic,,,Shawano,Shawano,,,,80,,10,10,44.778055,-88.608497
+1153,Wisconsin,2018-19,Saint Elizabeth Ann Seton Cath,,,Sheboygan,Sheboygan,,,,80,,5,5,43.7610357,-87.713556
+1154,Wisconsin,2018-19,Saint Jacobi Lutheran,,,Greenfield,Milwaukee,,,,80,,12,5,42.9554562,-88.0205455
+1155,Wisconsin,2018-19,Saint John Lutheran,,,Berlin,Green Lake,,,,80,,20,5,43.8402148,-88.9573503
+1156,Wisconsin,2018-19,Saint Johns Luth Grade,,,Lannon,Waukesha,,,,80,,10,5,43.1455177,-88.1694917
+1157,Wisconsin,2018-19,Saint Matthews Lutheran,,,Janesville,Rock,,,,80,,20,5,42.6923185,-89.0150603
+1158,Wisconsin,2018-19,Saint Pauls Evang Luth Gr,,,Algoma,Kewaunee,,,,80,,20,5,44.602125,-87.444868
+1159,Wisconsin,2018-19,Spring Road Elementary,,,Neenah,Winnebago,,,,80,,5,5,44.199175,-88.487772
+1160,Wisconsin,2018-19,Stevens Pt Christian Academy,,,Stevens Point,Portage,,,,80,,20,5,44.5236147,-89.6046135
+1161,Wisconsin,2018-19,Suring Elementary,,,Suring,Oconto,,,,80,,16,5,45.000669,-88.375436
+1162,Wisconsin,2018-19,Tomah Area Montessori (TAMS),,,Tomah,Monroe,,,,80,,5,5,43.9702702,-90.469227
+1163,Wisconsin,2018-19,Trinity Evang Lutheran,,,Brillion,Calumet,,,,80,,10,5,44.1670586,-88.053118
+1164,Wisconsin,2018-19,Trinity Evang Lutheran,,,Marshfield,Wood,,,,80,,10,5,44.5917782,-90.1818588
+1165,Wisconsin,2018-19,Van Brunt Elementary,,,Horicon,Dodge,,,,80,,5,5,43.449352,-88.62779
+1166,Wisconsin,2018-19,Wakanda Elementary,,,Menomonie,Dunn,,,,80,,5,5,44.902953,-91.920692
+1167,Wisconsin,2018-19,Wales Elementary,,,Wales,Waukesha,,,,80,,9,5,43.007604,-88.376605
+1168,Wisconsin,2018-19,Weston Elementary,,,Cazenovia,Sauk,,,,80,,20,5,43.480239,-90.190616
+1169,Wisconsin,2018-19,Addison Elementary,,,Hartford,Washington,,,,79,,20,5,43.375371,-88.298008
+1170,Wisconsin,2018-19,Auer Avenue Elementary,,,Milwaukee,Milwaukee,,,,79,,5,5,43.075656,-87.941578
+1171,Wisconsin,2018-19,Bryant Elementary,,,Milwaukee,Milwaukee,,,,79,,5,5,43.120867,-88.021408
+1172,Wisconsin,2018-19,Capitol West Academy,,,Milwaukee,Milwaukee,,,,79,,5,5,43.088746,-88.0239
+1173,Wisconsin,2018-19,Crown of Life Evang Luth,,,Hubertus,Washington,,,,79,,21,5,43.2361962,-88.2450152
+1174,Wisconsin,2018-19,Evergreen Elementary,,,Waterford,Racine,,,,79,,21,5,42.766711,-88.224029
+1175,Wisconsin,2018-19,Faith Christian Academy,,,Wausau,Marathon,,,,79,,17,5,44.9618,-89.6703
+1176,Wisconsin,2018-19,Fremont Elementary,,,Fremont,Waupaca,,,,79,,21,5,44.26312,-88.874975
+1177,Wisconsin,2018-19,Garden Homes Lutheran,,,Milwaukee,Milwaukee,,,,79,,5,5,43.09569,-87.943851
+1178,Wisconsin,2018-19,Garland Elementary,,,Milwaukee,Milwaukee,,,,79,,5,5,42.940124,-87.95389
+1179,Wisconsin,2018-19,Grand Marsh Elementary,,,Friendship,Adams,,,,79,,11,5,43.887768,-89.7019321
+1180,Wisconsin,2018-19,Greater Holy Temple Chr Academy,,,Milwaukee,Milwaukee,,,,79,,5,5,43.1190879,-88.0068692
+1181,Wisconsin,2018-19,Hawthorne Elementary,,,Waukesha,Waukesha,,,,79,,5,5,43.026062,-88.247778
+1182,Wisconsin,2018-19,Jefferson Elementary,,,Kenosha,Kenosha,,,,79,,5,5,42.597451,-87.832747
+1183,Wisconsin,2018-19,Keller Elementary,,,Green Bay,Brown,,,,79,,5,5,44.541068,-88.065794
+1184,Wisconsin,2018-19,Knapp Elementary,,,Knapp,Dunn,,,,79,,21,5,44.953605,-92.078214
+1185,Wisconsin,2018-19,KTEC,,,Kenosha,Kenosha,,,,79,,5,5,42.5711015,-87.8298125
+1186,Wisconsin,2018-19,Lighthouse Christian,,,Madison,Dane,,,,79,,5,5,43.06855,-89.469111
+1187,Wisconsin,2018-19,Lincoln Avenue Elementary,,,Milwaukee,Milwaukee,,,,79,,5,5,43.002406,-87.936201
+1188,Wisconsin,2018-19,Lincoln Elementary,,,Port Washington,Ozaukee,,,,79,,5,5,43.404083,-87.875964
+1189,Wisconsin,2018-19,Manawa Elementary,,,Manawa,Waupaca,,,,79,,21,5,44.46036,-88.910783
+1190,Wisconsin,2018-19,Maple Grove,,,Hamburg,Lincoln,,,,79,,14,5,45.09088,-89.864541
+1191,Wisconsin,2018-19,Milw Acad of Chinese Lang,,,Milwaukee,Milwaukee,,,,79,,5,5,43.040008,-87.9438197
+1192,Wisconsin,2018-19,Milw Parkside,,,Milwaukee,Milwaukee,,,,79,,5,5,42.9911218,-87.9051302
+1193,Wisconsin,2018-19,Parkview Elementary,,,Mayville,Dodge,,,,79,,5,5,43.49247,-88.5508
+1194,Wisconsin,2018-19,Pilgrim Lutheran,,,Green Bay,Brown,,,,79,,11,5,44.50883,-88.068751
+1195,Wisconsin,2018-19,Renaissance,,,Racine,Racine,,,,79,,5,5,42.7133597,-87.7871836
+1196,Wisconsin,2018-19,Royal Montessori Acad Cormier,,,Green Bay,Brown,,,,79,,21,5,44.4874133,-88.056364
+1197,Wisconsin,2018-19,Saint Marys,,,New Richmond,Saint Croix,,,,79,,21,5,45.120829,-92.5443567
+1198,Wisconsin,2018-19,Saint Pauls Lutheran,,,Janesville,Rock,,,,79,,6,5,42.6844308,-89.0080239
+1199,Wisconsin,2018-19,Siefert Elementary,,,Milwaukee,Milwaukee,,,,79,,5,5,43.051132,-87.930734
+1200,Wisconsin,2018-19,Three Lakes Elementary,,,Three Lakes,Oneida,,,,79,,17,5,45.794693,-89.16708
+1201,Wisconsin,2018-19,University Lake,,,Hartland,Waukesha,,,,79,,21,5,43.09562,-88.380491
+1202,Wisconsin,2018-19,Washington Elementary,,,Marshfield,Wood,,,,79,,8,5,44.657729,-90.197235
+1203,Wisconsin,2018-19,Wauwatosa Montessori,,,Wauwatosa,Milwaukee,,,,79,,5,5,43.059532,-88.063774
+1204,Wisconsin,2018-19,Westside Elementary,,,River Falls,Pierce,,,,79,,17,5,44.861349,-92.638033
+1205,Wisconsin,2018-19,Wilson Elementary,,,Kenosha,Kenosha,,,,79,,5,5,42.594736,-87.85061
+1206,Wisconsin,2018-19,Allen-Field Elementary,,,Milwaukee,Milwaukee,,,,78,,5,5,43.014687,-87.920727
+1207,Wisconsin,2018-19,Almond Elementary,,,Almond,Portage,,,,78,,11,5,44.2599518,-89.4130177
+1208,Wisconsin,2018-19,Grantosa Drive Elementary,,,Milwaukee,Milwaukee,,,,78,,5,5,43.10646,-88.01295
+1209,Wisconsin,2018-19,KM Explore,,,Wales,Waukesha,,,,78,,6,5,43.0168528,-88.3760278
+1210,Wisconsin,2018-19,Lakewood Elementary,,,Twin Lakes,Kenosha,,,,78,,9,5,42.522808,-88.245391
+1211,Wisconsin,2018-19,McKinley Elementary,,,Kenosha,Kenosha,,,,78,,5,5,42.584979,-87.848504
+1212,Wisconsin,2018-19,Menominee Tribal,,,Neopit,Menominee,,,,78,,5,5,44.979345,-88.833819
+1213,Wisconsin,2018-19,New Holstein Elementary,,,New Holstein,Calumet,,,,78,,5,5,43.952917,-88.096626
+1214,Wisconsin,2018-19,Northwood Elementary,,,Minong,Washburn,,,,78,,22,5,46.15625,-91.814201
+1215,Wisconsin,2018-19,Oneida Nation Sch System,,,Oneida,Outagamie,,,,78,,5,5,44.496459,-88.202585
+1216,Wisconsin,2018-19,Pleasant Prairie Elementary,,,Pleasant Prairie,Kenosha,,,,78,,5,5,42.559454,-87.919261
+1217,Wisconsin,2018-19,Rosholt Elementary,,,Rosholt,Portage,,,,78,,5,5,44.629817,-89.313402
+1218,Wisconsin,2018-19,Saint Martin Lutheran Gr,,,Clintonville,Waupaca,,,,78,,6,5,44.6209386,-88.7649565
+1219,Wisconsin,2018-19,Tri-County Elementary,,,Plainfield,Waushara,,,,78,,5,5,44.210444,-89.494445
+1220,Wisconsin,2018-19,Washburn Elementary,,,Washburn,Bayfield,,,,78,,22,5,46.677866,-90.898689
+1221,Wisconsin,2018-19,Aldo Leopold Comm Sch K-8,,,Green Bay,Brown,,,,77,,6,5,44.5000046,-88.0180058
+1222,Wisconsin,2018-19,Dimensions of Learning Academy,,,Kenosha,Kenosha,,,,77,,9,5,42.578125,-87.839587
+1223,Wisconsin,2018-19,Janes Elementary,,,Racine,Racine,,,,77,,5,5,42.738942,-87.785575
+1224,Wisconsin,2018-19,King Elementary,,,Green Bay,Brown,,,,77,,5,5,44.515521,-88.114877
+1225,Wisconsin,2018-19,Miller Elementary,,,Tomah,Monroe,,,,77,,5,5,43.979167,-90.507486
+1226,Wisconsin,2018-19,Our Redeemer Evang Luth,,,Madison,Dane,,,,77,,23,5,43.034498,-89.4961398
+1227,Wisconsin,2018-19,Stockbridge Elementary,,,Stockbridge,Calumet,,,,77,,23,5,44.074085,-88.298435
+1228,Wisconsin,2018-19,Westside Christian,,,Middleton,Dane,,,,77,,5,5,43.1195224,-89.5167947
+1229,Wisconsin,2018-19,Whitman Elementary,,,Milwaukee,Milwaukee,,,,77,,5,5,42.968456,-87.982233
+1230,Wisconsin,2018-19,WI Consrv Lifelong Learning,,,Milwaukee,Milwaukee,,,,77,,5,5,43.0389025,-87.9064736
+1231,Wisconsin,2018-19,Yeshiva Elementary,,,Milwaukee,Milwaukee,,,,77,,18,5,43.08226,-87.977731
+1232,Wisconsin,2018-19,Zablocki Elementary,,,Milwaukee,Milwaukee,,,,77,,5,5,42.988922,-87.925846
+1233,Wisconsin,2018-19,Brookwood Elementary,,,Genoa City,Walworth,,,,76,,20,5,42.499878,-88.329374
+1234,Wisconsin,2018-19,Campbellsport Elementary,,,Campbellsport,Fond du Lac,,,,76,,22,5,43.604557,-88.28203
+1235,Wisconsin,2018-19,Hi-Mount Elementary,,,Milwaukee,Milwaukee,,,,76,,5,5,43.058709,-87.975448
+1236,Wisconsin,2018-19,Julian Thomas Elementary,,,Racine,Racine,,,,76,,5,5,42.732369,-87.795659
+1237,Wisconsin,2018-19,Mary Queen of Saints Catholic,,,West Allis,Milwaukee,,,,76,,5,5,43.0156624,-88.0276789
+1238,Wisconsin,2018-19,North Crawford Elementary,,,Soldiers Grove,Crawford,,,,76,,9,5,43.358461,-90.805751
+1239,Wisconsin,2018-19,Prairie Elementary,,,Waukesha,Waukesha,,,,76,,5,5,42.98214,-88.246457
+1240,Wisconsin,2018-19,Saint Matthew Grade,,,Campbellsport,Fond du Lac,,,,76,,6,5,43.5988406,-88.2755323
+1241,Wisconsin,2018-19,Shining Star Christian Schools,,,Milwaukee,Milwaukee,,,,76,,5,5,43.09109,-88.031091
+1242,Wisconsin,2018-19,Wadewitz Elementary,,,Racine,Racine,,,,76,,5,5,42.746354,-87.812681
+1243,Wisconsin,2018-19,Winter Elementary,,,Winter,Sawyer,,,,76,,24,5,45.818985,-91.012841
+1244,Wisconsin,2018-19,Benton Elementary,,,Benton,Lafayette,,,,75,,25,5,42.571425,-90.387139
+1245,Wisconsin,2018-19,Divine Redeemer Luth,,,Hartland,Waukesha,,,,75,,21,5,43.1044741,-88.370284
+1246,Wisconsin,2018-19,Frank Elementary,,,Kenosha,Kenosha,,,,75,,5,5,42.582887,-87.831053
+1247,Wisconsin,2018-19,Hadfield Elementary,,,Waukesha,Waukesha,,,,75,,15,5,43.009578,-88.216888
+1248,Wisconsin,2018-19,Hawley Environmental,,,Milwaukee,Milwaukee,,,,75,,5,5,43.039282,-87.983555
+1249,Wisconsin,2018-19,Heritage Christian Schs,,,New Berlin,Waukesha,,,,75,,22,5,42.981001,-88.091439
+1250,Wisconsin,2018-19,Hope Christian School: Caritas,,,Milwaukee,Milwaukee,,,,75,,5,5,43.177867,-88.022584
+1251,Wisconsin,2018-19,Kilbourn Elementary,,,Milwaukee,Milwaukee,,,,75,,5,5,43.115246,-87.995506
+1252,Wisconsin,2018-19,Lake Country Acad - Charter,,,Sheboygan,Sheboygan,,,,75,,10,5,43.794478,-87.761507
+1253,Wisconsin,2018-19,Lowell Elementary,,,Waukesha,Waukesha,,,,75,,7,5,43.01518,-88.259085
+1254,Wisconsin,2018-19,Mount Calvary Lutheran,,,Waukesha,Waukesha,,,,75,,10,5,43.011332,-88.257287
+1255,Wisconsin,2018-19,Northland Pines El-St Germain,,,Saint Germain,Vilas,,,,75,,17,5,45.9148583,-89.4943547
+1256,Wisconsin,2018-19,Parkview Elementary,,,New London,Waupaca,,,,75,,16,5,44.381888,-88.751248
+1257,Wisconsin,2018-19,Saint Johns Lutheran,,,Burlington,Racine,,,,75,,25,5,42.6760867,-88.2961272
+1258,Wisconsin,2018-19,21st Century Prep,,,Racine,Racine,,,,74,,5,5,42.72816,-87.796187
+1259,Wisconsin,2018-19,Blair-Taylor Elementary,,,Blair,Trempealeau,,,,74,,5,5,44.291193,-91.209517
+1260,Wisconsin,2018-19,Burdick Elementary,,,Milwaukee,Milwaukee,,,,74,,5,5,42.965511,-87.903859
+1261,Wisconsin,2018-19,Clement Avenue Elementary,,,Milwaukee,Milwaukee,,,,74,,5,5,42.977734,-87.893781
+1262,Wisconsin,2018-19,Downtown Montessori,,,Milwaukee,Milwaukee,,,,74,,8,5,42.9986,-87.90393
+1263,Wisconsin,2018-19,Engleburg Elementary,,,Milwaukee,Milwaukee,,,,74,,5,5,43.110978,-88.025219
+1264,Wisconsin,2018-19,Guidance Academy,,,Milwaukee,Milwaukee,,,,74,,5,5,42.9134739,-87.8734145
+1265,Wisconsin,2018-19,Horizon Elementary,,,Plymouth,Sheboygan,,,,74,,19,5,43.740824,-87.959777
+1266,Wisconsin,2018-19,Jackson Elementary,,,Milwaukee,Milwaukee,,,,74,,5,5,43.068984,-87.93932
+1267,Wisconsin,2018-19,King Jr Elementary,,,Milwaukee,Milwaukee,,,,74,,5,5,43.087885,-87.920475
+1268,Wisconsin,2018-19,Pleasant View Elementary,,,Antigo,Langlade,,,,74,,13,5,45.117868,-89.211439
+1269,Wisconsin,2018-19,Racine Christian,,,Racine,Racine,,,,74,,9,13,42.72182,-87.835411
+1270,Wisconsin,2018-19,Rocketship Northside,,,Milwaukee,Milwaukee,,,,74,,5,5,43.117977,-87.990622
+1271,Wisconsin,2018-19,Townsend Street Elementary,,,Milwaukee,Milwaukee,,,,74,,5,5,43.080443,-87.966594
+1272,Wisconsin,2018-19,Alcott Elementary,,,Milwaukee,Milwaukee,,,,73,,5,5,42.979571,-88.034433
+1273,Wisconsin,2018-19,Crestview Academy,,,Eau Claire,Eau Claire,,,,73,,18,5,44.83349,-91.434961
+1274,Wisconsin,2018-19,Divine Destiny,,,Milwaukee,Milwaukee,,,,73,,5,5,43.08435,-87.968141
+1275,Wisconsin,2018-19,Elem Sch for Arts &amp; Academics,,,Sheboygan,Sheboygan,,,,73,,27,5,43.7615805,-87.7087305
+1276,Wisconsin,2018-19,Milw Sign Language Elementary,,,Milwaukee,Milwaukee,,,,73,,5,5,43.1381617,-88.0096298
+1277,Wisconsin,2018-19,Penfield Montessori Academy,,,Milwaukee,Milwaukee,,,,73,,5,5,43.049861,-87.94338
+1278,Wisconsin,2018-19,Potosi Elementary,,,Potosi,Grant,,,,73,,5,5,42.692563,-90.694926
+1279,Wisconsin,2018-19,Racine Montessori,,,Racine,Racine,,,,73,,27,5,42.70059,-87.790461
+1280,Wisconsin,2018-19,Roosevelt Elementary,,,Racine,Racine,,,,73,,5,5,42.750642,-87.791407
+1281,Wisconsin,2018-19,Saint Aloysius Grade,,,Sauk City,Sauk,,,,73,,27,5,43.2815029,-89.7272139
+1282,Wisconsin,2018-19,Saint Ann,,,Stoughton,Dane,,,,73,,18,9,42.9216458,-89.2303799
+1283,Wisconsin,2018-19,Saint Lucas Lutheran,,,Milwaukee,Milwaukee,,,,73,,23,5,42.997672,-87.901046
+1284,Wisconsin,2018-19,Siloah Lutheran,,,Milwaukee,Milwaukee,,,,73,,5,5,43.085035,-87.938684
+1285,Wisconsin,2018-19,Starms Early Childhood,,,Milwaukee,Milwaukee,,,,73,,5,5,43.059397,-87.946666
+1286,Wisconsin,2018-19,Story Elementary,,,Milwaukee,Milwaukee,,,,73,,5,5,43.041153,-87.961425
+1287,Wisconsin,2018-19,Wingra Sch Inc,,,Madison,Dane,,,,73,,20,5,43.0498961,-89.3976035
+1288,Wisconsin,2018-19,Banting Elementary,,,Waukesha,Waukesha,,,,72,,5,5,43.028631,-88.205509
+1289,Wisconsin,2018-19,Immanuel Lutheran,,,Brookfield,Waukesha,,,,72,,5,5,43.1037,-88.079791
+1290,Wisconsin,2018-19,Lincoln Elementary,,,Marshfield,Wood,,,,72,,5,5,44.652391,-90.163931
+1291,Wisconsin,2018-19,North Cape Elementary,,,Franksville,Racine,,,,72,,17,6,42.779563,-88.067237
+1292,Wisconsin,2018-19,Pilgrim Lutheran,,,Wauwatosa,Milwaukee,,,,72,,5,5,43.06775,-87.996871
+1293,Wisconsin,2018-19,Eighty-First Street Elementary,,,Milwaukee,Milwaukee,,,,71,,5,5,43.072906,-88.013236
+1294,Wisconsin,2018-19,Fratt Elementary,,,Racine,Racine,,,,71,,5,5,42.721802,-87.821987
+1295,Wisconsin,2018-19,Gaenslen Elementary,,,Milwaukee,Milwaukee,,,,71,,5,5,43.075198,-87.895045
+1296,Wisconsin,2018-19,Giese Elementary,,,Racine,Racine,,,,71,,5,5,42.710384,-87.841264
+1297,Wisconsin,2018-19,Harmony Elementary,,,Janesville,Rock,,,,71,,5,5,42.729417,-88.960839
+1298,Wisconsin,2018-19,Howe Elementary,,,Green Bay,Brown,,,,71,,5,5,44.507085,-88.015249
+1299,Wisconsin,2018-19,Jones Elementary,,,Racine,Racine,,,,71,,5,5,42.683219,-87.818432
+1300,Wisconsin,2018-19,Knapp Elementary,,,Racine,Racine,,,,71,,5,5,42.709908,-87.811794
+1301,Wisconsin,2018-19,Ninety-Fifth Street Elementary,,,Milwaukee,Milwaukee,,,,71,,5,5,43.084564,-88.030332
+1302,Wisconsin,2018-19,Oxford Elementary,,,Oxford,Marquette,,,,71,,6,6,43.780025,-89.571899
+1303,Wisconsin,2018-19,Saint Marys Grade,,,Tomahawk,Lincoln,,,,71,,29,5,45.4732719,-89.7253686
+1304,Wisconsin,2018-19,Saint Rose of Lima,,,Cuba City,Grant,,,,71,,29,5,42.6080821,-90.4329203
+1305,Wisconsin,2018-19,West Bend School District 4K,,,West Bend,Washington,,,,71,,5,5,43.4139,-88.180401
+1306,Wisconsin,2018-19,Bruce Elementary,,,Milwaukee,Milwaukee,,,,70,,7,5,43.135336,-88.023399
+1307,Wisconsin,2018-19,Carver Academy,,,Milwaukee,Milwaukee,,,,70,,5,5,43.055903,-87.910871
+1308,Wisconsin,2018-19,Forest Park Elementary,,,Kenosha,Kenosha,,,,70,,5,5,42.572701,-87.863824
+1309,Wisconsin,2018-19,Grant Elementary,,,Milwaukee,Milwaukee,,,,70,,5,5,43.005571,-87.951089
+1310,Wisconsin,2018-19,Hartland Fine Arts Ldrshp Academy,,,Hartland,Waukesha,,,,70,,10,5,43.1065947,-88.3432765
+1311,Wisconsin,2018-19,Holy Family Sch-GRACE,,,Green Bay,Brown,,,,70,,5,5,44.515968,-88.0647377
+1312,Wisconsin,2018-19,Luck Elementary,,,Luck,Polk,,,,70,,25,5,45.568845,-92.472461
+1313,Wisconsin,2018-19,Montessori Charter,,,Eau Claire,Eau Claire,,,,70,,26,5,44.8166879,-91.5131643
+1314,Wisconsin,2018-19,Pepin Elementary,,,Pepin,Pepin,,,,70,,30,5,44.444356,-92.148595
+1315,Wisconsin,2018-19,Saint Mary Visitation Grade,,,Elm Grove,Waukesha,,,,70,,5,5,43.045957,-88.07571
+1316,Wisconsin,2018-19,Saint Stephens Lutheran,,,Beaver Dam,Dodge,,,,70,,5,5,43.45735,-88.844372
+1317,Wisconsin,2018-19,Hartford Avenue Elementary,,,Milwaukee,Milwaukee,,,,69,,5,5,43.077046,-87.881965
+1318,Wisconsin,2018-19,Nasonville Elementary,,,Marshfield,Wood,,,,69,,5,5,44.599473,-90.266062
+1319,Wisconsin,2018-19,Nativity of Our Lord Catholic,,,Rhinelander,Oneida,,,,69,,25,5,45.636071,-89.4100622
+1320,Wisconsin,2018-19,Rolf's Early Childhood Ctr,,,West Bend,Washington,,,,69,,5,5,43.4141021,-88.1794747
+1321,Wisconsin,2018-19,Spooner Elementary,,,Spooner,Washburn,,,,69,,7,5,45.837181,-91.889532
+1322,Wisconsin,2018-19,Saint Patrick Catholic,,,Hudson,Saint Croix,,,,68,,18,5,44.9831118,-92.7538815
+1323,Wisconsin,2018-19,Stuart Elementary,,,Milwaukee,Milwaukee,,,,68,,5,5,43.145296,-88.018832
+1324,Wisconsin,2018-19,Tomorrow River Comm Charter,,,Amherst,Portage,,,,68,,27,5,44.5430312,-89.2752668
+1325,Wisconsin,2018-19,ACE Charter,,,Neenah,Winnebago,,,,67,,15,9,44.1898213,-88.4542268
+1326,Wisconsin,2018-19,Cross Trainers Academy,,,Milwaukee,Milwaukee,,,,67,,5,5,43.067766,-87.932241
+1327,Wisconsin,2018-19,Messiah Lutheran,,,Eau Claire,Eau Claire,,,,67,,33,5,44.83896,-91.473701
+1328,Wisconsin,2018-19,Saint Catherine,,,Milwaukee,Milwaukee,,,,67,,5,5,43.0672346,-87.9778647
+1329,Wisconsin,2018-19,Saint Marys Grade,,,Altoona,Eau Claire,,,,67,,33,5,44.8067825,-91.4397609
+1330,Wisconsin,2018-19,Southport Elementary,,,Kenosha,Kenosha,,,,67,,5,5,42.564288,-87.820603
+1331,Wisconsin,2018-19,Summit View Elementary,,,Waukesha,Waukesha,,,,67,,10,5,43.024124,-88.261048
+1332,Wisconsin,2018-19,Trinity Lutheran Grade,,,Sheboygan,Sheboygan,,,,67,,8,5,43.7533928,-87.7141613
+1333,Wisconsin,2018-19,Bay City Christian,,,Green Bay,Brown,,,,66,,34,5,44.54188,-88.066791
+1334,Wisconsin,2018-19,Bayfield Elementary,,,Bayfield,Bayfield,,,,66,,5,5,46.815395,-90.819152
+1335,Wisconsin,2018-19,Hope Christian School: Via,,,Racine,Racine,,,,66,,5,5,42.76328,-87.802601
+1336,Wisconsin,2018-19,Appleton Public Montessori,,,Grand Chute,Outagamie,,,,65,,25,10,44.325768,-88.380966
+1337,Wisconsin,2018-19,Athens Elementary,,,Athens,Marathon,,,,65,,35,5,45.034329,-90.078479
+1338,Wisconsin,2018-19,Lancaster Elementary,,,Milwaukee,Milwaukee,,,,65,,5,5,43.107494,-87.996686
+1339,Wisconsin,2018-19,Madison Elementary,,,Marshfield,Wood,,,,65,,9,5,44.668357,-90.160066
+1340,Wisconsin,2018-19,Mitchell Elementary,,,Milwaukee,Milwaukee,,,,65,,5,5,43.013136,-87.94319
+1341,Wisconsin,2018-19,Thoreau Elementary,,,Milwaukee,Milwaukee,,,,65,,5,5,43.160855,-87.984046
+1342,Wisconsin,2018-19,Trowbridge Street Elementary,,,Milwaukee,Milwaukee,,,,65,,5,5,42.9919213,-87.8852744
+1343,Wisconsin,2018-19,Atlas Preparatory Academy,,,Milwaukee,Milwaukee,,,,64,,5,5,42.9962656,-87.8955504
+1344,Wisconsin,2018-19,IDEAL,,,Milwaukee,Milwaukee,,,,64,,5,5,42.939704,-87.931529
+1345,Wisconsin,2018-19,Kluge Elementary,,,Milwaukee,Milwaukee,,,,64,,5,5,43.122583,-87.994056
+1346,Wisconsin,2018-19,Flex Academy,,,Little Chute,Outagamie,,,,63,,37,5,44.280782,-88.316758
+1347,Wisconsin,2018-19,Greenfield Bilingual,,,Milwaukee,Milwaukee,,,,62,,5,5,43.011916,-87.958336
+1348,Wisconsin,2018-19,Isthmus Montessori Acad Public,,,Madison,Dane,,,,62,,38,5,43.1186146,-89.3540946
+1349,Wisconsin,2018-19,Central Oaks Academy,,,Wisconsin Rapids,Wood,,,,61,,28,11,44.359419,-89.717139
+1350,Wisconsin,2018-19,Elcho Elementary,,,Elcho,Langlade,,,,61,,5,5,45.437594,-89.183515
+1351,Wisconsin,2018-19,Forest Lane Community,,,Montello,Marquette,,,,61,,7,5,43.796286,-89.322211
+1352,Wisconsin,2018-19,Fox Valley Christian Academy,,,Neenah,Winnebago,,,,61,,26,13,44.186274,-88.489844
+1353,Wisconsin,2018-19,Thurston Woods Elementary,,,Milwaukee,Milwaukee,,,,61,,5,5,43.125755,-87.955401
+1354,Wisconsin,2018-19,Christ Lutheran,,,Chippewa Falls,Chippewa,,,,60,,30,5,44.913906,-91.378289
+1355,Wisconsin,2018-19,Consolidated Elementary,,,Janesville,Rock,,,,60,,15,5,42.743043,-89.05217
+1356,Wisconsin,2018-19,Hayes Bilingual,,,Milwaukee,Milwaukee,,,,60,,5,5,43.000482,-87.925299
+1357,Wisconsin,2018-19,Maryland Montessori,,,Milwaukee,Milwaukee,,,,60,,5,5,43.062054,-87.882385
+1358,Wisconsin,2018-19,Milw Environmental Science Academy,,,Milwaukee,Milwaukee,,,,60,,5,5,43.088308,-87.994857
+1359,Wisconsin,2018-19,Holy Redeemer Christian Academy,,,Milwaukee,Milwaukee,,,,59,,5,5,43.1051233,-87.9559348
+1360,Wisconsin,2018-19,LaFollette Elementary,,,Milwaukee,Milwaukee,,,,59,,5,5,43.077279,-87.922961
+1361,Wisconsin,2018-19,Montessori Sch of Waukesha Inc,,,Waukesha,Waukesha,,,,59,,22,5,43.0222895,-88.2674938
+1362,Wisconsin,2018-19,Next Door Charter,,,Milwaukee,Milwaukee,,,,59,,5,5,43.064755,-87.950493
+1363,Wisconsin,2018-19,River Falls Public Montessori,,,River Falls,Pierce,,,,59,,38,5,44.8600477,-92.6303222
+1364,Wisconsin,2018-19,Saint Paul Lutheran,,,Manawa,Waupaca,,,,59,,6,5,44.4583797,-88.9233991
+1365,Wisconsin,2018-19,Vernon Elementary,,,Kenosha,Kenosha,,,,59,,5,5,42.550798,-87.836345
+1366,Wisconsin,2018-19,Wilson Elementary,,,Janesville,Rock,,,,59,,37,5,42.672045,-89.02482
+1367,Wisconsin,2018-19,Hopkins Lloyd,,,Milwaukee,Milwaukee,,,,58,,5,5,43.070884,-87.9319613
+1368,Wisconsin,2018-19,Northland Pines Montessori,,,Saint Germain,Vilas,,,,58,,33,5,45.912836,-89.498424
+1369,Wisconsin,2018-19,Calvary Baptist Christian,,,Watertown,Jefferson,,,,57,,29,5,43.17929,-88.751491
+1370,Wisconsin,2018-19,Goodrich Elementary,,,Milwaukee,Milwaukee,,,,57,,5,5,43.166968,-88.037561
+1371,Wisconsin,2018-19,Green Bay Avenue,,,Milwaukee,Milwaukee,,,,57,,5,5,43.08714,-87.920331
+1372,Wisconsin,2018-19,Obama SCTE,,,Milwaukee,Milwaukee,,,,57,,5,5,43.1097379,-87.9681767
+1373,Wisconsin,2018-19,Cass Street Elementary,,,Milwaukee,Milwaukee,,,,56,,5,5,43.051604,-87.902584
+1374,Wisconsin,2018-19,Lakeview Montessori,,,Sparta,Monroe,,,,56,,5,5,43.946653,-90.799775
+1375,Wisconsin,2018-19,Longfellow Elementary,,,Milwaukee,Milwaukee,,,,56,,5,5,43.020569,-87.939951
+1376,Wisconsin,2018-19,Parkview Elementary,,,Milwaukee,Milwaukee,,,,56,,5,5,43.111298,-88.047828
+1377,Wisconsin,2018-19,Tamarack Waldorf,,,Milwaukee,Milwaukee,,,,56,,44,5,43.053149,-87.897082
+1378,Wisconsin,2018-19,Hawthorne Elementary,,,Milwaukee,Milwaukee,,,,55,,5,5,43.144033,-87.963794
+1379,Wisconsin,2018-19,St John Paul II Classical,,,Green Bay,Brown,,,,55,,5,9,44.51579,-88.064691
+1380,Wisconsin,2018-19,Bose Elementary,,,Kenosha,Kenosha,,,,54,,5,5,42.632768,-87.832521
+1381,Wisconsin,2018-19,Hampton Elementary,,,Milwaukee,Milwaukee,,,,54,,5,5,43.109111,-87.978234
+1382,Wisconsin,2018-19,Holmes Elementary,,,Milwaukee,Milwaukee,,,,54,,5,5,43.063496,-87.907182
+1383,Wisconsin,2018-19,Edward Bain Sch Dual Language,,,Kenosha,Kenosha,,,,53,,5,5,42.593565,-87.8414819
+1384,Wisconsin,2018-19,Pratt Elementary,,,Milwaukee,Milwaukee,,,,53,,5,5,43.110796,-87.933419
+1385,Wisconsin,2018-19,Roosevelt Elementary,,,Kenosha,Kenosha,,,,53,,5,5,42.570605,-87.848991
+1386,Wisconsin,2018-19,Viroqua Area Montessori,,,Viroqua,Vernon,,,,53,,47,5,43.556901,-90.902816
+1387,Wisconsin,2018-19,Sherman Elementary,,,Milwaukee,Milwaukee,,,,52,,5,5,43.072168,-87.978014
+1388,Wisconsin,2018-19,Strange Elementary,,,Kenosha,Kenosha,,,,52,,5,5,42.586413,-87.869101
+1389,Wisconsin,2018-19,Burbank Elementary,,,Milwaukee,Milwaukee,,,,50,,5,5,43.027226,-87.988811
+1390,Wisconsin,2018-19,Clayton Elementary,,,Clayton,Polk,,,,50,,25,5,45.328395,-92.173241
+1391,Wisconsin,2018-19,Fond du Lac Christian,,,Fond du Lac,Fond du Lac,,,,50,,36,5,43.76175,-88.419131
+1392,Wisconsin,2018-19,St Katharine Drexel,,,Beaver Dam,Dodge,,,,50,,5,5,43.45151,-88.836121
+1393,Wisconsin,2018-19,Grant Elementary,,,Kenosha,Kenosha,,,,47,,5,5,42.606743,-87.830397
+1394,Wisconsin,2018-19,Elkhorn Options Virtual,,,Elkhorn,Walworth,,,,46,,31,23,42.67224,-88.538831
+1395,Wisconsin,2018-19,i4Learning Community,,,Campbellsport,Washington,,,,46,,8,5,43.515181,-88.324464
+1396,Wisconsin,2018-19,Nash Elementary,,,Kenosha,Kenosha,,,,46,,8,5,42.57354,-87.92716
+1397,Wisconsin,2018-19,Barton Elementary,,,Milwaukee,Milwaukee,,,,45,,5,5,43.141666,-87.983718
+1398,Wisconsin,2018-19,Browning Elementary,,,Milwaukee,Milwaukee,,,,44,,5,5,43.117443,-87.99069
+1399,Wisconsin,2018-19,Prairie Hill Waldorf,,,Pewaukee,Waukesha,,,,44,,44,6,43.04905,-88.328201
+1400,Wisconsin,2018-19,Neeskara Elementary,,,Milwaukee,Milwaukee,,,,41,,5,5,43.051806,-87.983516
+1401,Wisconsin,2018-19,Forest Home Elementary,,,Milwaukee,Milwaukee,,,,40,,5,5,43.010878,-87.931467
+1402,Wisconsin,2018-19,River Trail Elementary,,,Milwaukee,Milwaukee,,,,39,,5,5,43.125824,-88.061669
+1403,Wisconsin,2018-19,Daniels Univ Prep,,,Milwaukee,Milwaukee,,,,38,,5,5,43.1071478,-87.9568402
+1404,Wisconsin,2018-19,Metcalfe Elementary,,,Milwaukee,Milwaukee,,,,38,,5,5,43.060894,-87.956268
+1405,Wisconsin,2018-19,Saint Margaret Mary Grade,,,Milwaukee,Milwaukee,,,,38,,5,5,43.0891713,-88.0270526
+1406,Wisconsin,2018-19,Bridges Virtual Academy,,,Merrill,Lincoln,,,,37,,29,5,45.19056,-89.672761
+1407,Wisconsin,2018-19,Elm Creative Arts Elementary,,,Milwaukee,Milwaukee,,,,36,,5,5,43.053724,-87.92354
+1408,Wisconsin,2018-19,Holy Rosary Catholic Grade,,,Medford,Taylor,,,,36,,55,5,45.1350195,-90.3502212
+1409,Wisconsin,2018-19,Edward Bain School Creative Arts,,,Kenosha,Kenosha,,,,35,,5,5,42.593609,-87.841385
+1410,Wisconsin,2018-19,Valley Christian,,,Oshkosh,Winnebago,,,,35,,31,5,44.0636,-88.552771
+1411,Wisconsin,2018-19,Bethune Academy,,,Milwaukee,Milwaukee,,,,30,,5,5,43.050823,-87.957989
+1412,Wisconsin,2018-19,Brown Street Academy,,,Milwaukee,Milwaukee,,,,30,,5,5,43.057094,-87.938038
+1413,Wisconsin,2018-19,Pleasant Ridge Waldorf,,,Viroqua,Vernon,,,,30,,70,5,43.5558787,-90.8841562
+1414,Wisconsin,2018-19,HACIL,,,Hayward,Sawyer,,,,29,,64,7,46.0130065,-91.4846208
+1415,Wisconsin,2018-19,Congress Elementary,,,Milwaukee,Milwaukee,,,,28,,5,5,43.09893,-87.978953
+1416,Wisconsin,2018-19,Madison Waldorf,,,Madison,Dane,,,,8,,46,5,43.04723,-89.493611
+1417,Wisconsin,2018-19,Carter's Christian Academy,,,Milwaukee,Milwaukee,,,,5,,16,8,43.11327,-87.955911
+1418,Wisconsin,2018-19,Reedsville Hi,,,Reedsville,Manitowoc,,,,5,,5,5,44.1538421,-87.9530908
+1419,Wisconsin,2018-19,Rio Mid/Hi,,,Rio,Columbia,,,,5,,5,5,43.443107,-89.23297
+1420,Wisconsin,2018-19,Saint Croix Falls Hi,,,Saint Croix Falls,Polk,,,,5,,5,5,45.4076016,-92.6337713
+1421,Wisconsin,2018-19,Sch for Arts and Performance,,,Wales,Waukesha,,,,5,,5,5,43.0092084,-88.37704
+1422,Wisconsin,2018-19,Spooner Hi,,,Spooner,Washburn,,,,5,,5,5,45.8224475,-91.8893431
+1423,Wisconsin,2018-19,Wisconsin Virtual Learning,,,Fredonia,Ozaukee,,,,5,,8,8,43.476575,-87.94294
+1424,Wisconsin,2018-19,4K Community-Based,,,Reedsburg,Sauk,,,,,,,,43.529539,-90.024813
+1425,Wisconsin,2018-19,A Promise of Hope Academy,,,Milwaukee,Milwaukee,,,,,,,,43.0226852,-87.9416007
+1426,Wisconsin,2018-19,Amish Parochial,,,Cashton,Vernon,,,,,,,,43.7405837,-90.7797475
+1427,Wisconsin,2018-19,Argyle Mid,,,Argyle,Lafayette,,,,,,,,42.7011151,-89.8670679
+1428,Wisconsin,2018-19,Arlington Elementary,,,Poynette,Columbia,,,,,,,,43.3895249,-89.3969482
+1429,Wisconsin,2018-19,Augusta Amish Parochial,,,Augusta,Eau Claire,,,,,,,,44.685516,-91.13847
+1430,Wisconsin,2018-19,Ave Maria Academy,,,Plum City,Pierce,,,,,,,,44.628279,-92.192697
+1431,Wisconsin,2018-19,Believers Institute,,,Milwaukee,Milwaukee,,,,,,,,43.1752177,-88.0043168
+1432,Wisconsin,2018-19,Blessed Trinity Catholic Schoo,,,Dane,Columbia,,,,,,,,43.2494749,-89.501008
+1433,Wisconsin,2018-19,Blooming Grove Montessori,,,Madison,Dane,,,,,,,,43.0966753,-89.2696068
+1434,Wisconsin,2018-19,Breezeway Amish,,,Greenwood,Clark,,,,,,,,44.7652048,-90.6013977
+1435,Wisconsin,2018-19,Calvary's Chrstn Acad Sch Arts,,,Milwaukee,Milwaukee,,,,,,,,42.987166,-88.037913
+1436,Wisconsin,2018-19,Cambria Friesland Elementary,,,Cambria,Columbia,,,,,,,,43.542487,-89.101909
+1437,Wisconsin,2018-19,Carr Valley Amish,,,La Valle,Sauk,,,,,,,,43.534862,-90.164618
+1438,Wisconsin,2018-19,Class ACT Charter,,,Park Falls,Price,,,,,,,,45.947179,-90.45357
+1439,Wisconsin,2018-19,Clearview Amish,,,Albany,Green,,,,,,,,42.6969,-89.371661
+1440,Wisconsin,2018-19,Clinton Amish Schs,,,Westby,Monroe,,,,,,,,43.7256251,-90.75273
+1441,Wisconsin,2018-19,Cornerstone Christian Academy,,,Viroqua,Vernon,,,,,,,,43.598283,-90.888268
+1442,Wisconsin,2018-19,D C Everest Idea,,,Weston,Marathon,,,,,,,,44.914525,-89.573345
+1443,Wisconsin,2018-19,DCE 4K Community Partnership,,,Rothschild,Marathon,,,,,,,,44.9000469,-89.5934891
+1444,Wisconsin,2018-19,De Soto Virtual,,,De Soto,Vernon,,,,,,,,43.42858,-91.195681
+1445,Wisconsin,2018-19,East Ridgeville Amish,,,Wilton,Monroe,,,,,,,,43.7615464,-90.5796358
+1446,Wisconsin,2018-19,Eau Claire 4K Community Sites,,,Eau Claire,Eau Claire,,,,,,,,44.7967459,-91.5034191
+1447,Wisconsin,2018-19,Eleva Elementary,,,Eleva,Trempealeau,,,,,,,,44.57563,-91.473781
+1448,Wisconsin,2018-19,Evergreen Elementary,,,Rothschild,Marathon,,,,,,,,44.852013,-89.635196
+1449,Wisconsin,2018-19,Fly Creek Amish,,,Blair,Trempealeau,,,,,,,,44.2833314,-91.2194401
+1450,Wisconsin,2018-19,Frederic Amish,,,Frederic,Polk,,,,,,,,45.59215,-92.345411
+1451,Wisconsin,2018-19,FreedomProject Academy,,,Appleton,Outagamie,,,,,,,,44.269476,-88.447567
+1452,Wisconsin,2018-19,Hatley Elementary,,,Hatley,Marathon,,,,,,,,44.888011,-89.336051
+1453,Wisconsin,2018-19,Hillel Academy,,,Glendale,Milwaukee,,,,,,,,43.1332647,-87.907716
+1454,Wisconsin,2018-19,Hillside Amish,,,Medford,Taylor,,,,,,,,45.1385798,-90.3401404
+1455,Wisconsin,2018-19,Humke Elementary,,,Nekoosa,Wood,,,,,,,,44.310821,-89.904817
+1456,Wisconsin,2018-19,Immaculate Hrt of Mary Gr,,,Monona,Dane,,,,,,,,43.066064,-89.329874
+1457,Wisconsin,2018-19,Innovative &amp; Alternative Mid,,,Madison,Dane,,,,,,,,43.0730517,-89.4012302
+1458,Wisconsin,2018-19,Island City Virtual Academy,,,Cumberland,Barron,,,,,,,,45.528393,-92.03065
+1459,Wisconsin,2018-19,Jefferson Elementary,,,Richland Center,Richland,,,,,,,,43.3397,-90.387003
+1460,Wisconsin,2018-19,Kingdom Prep Lutheran Hi,,,Wauwatosa,Milwaukee,,,,,,,,43.0649983,-88.0067592
+1461,Wisconsin,2018-19,Larkin Valley Amish,,,Blair,Trempealeau,,,,,,,,44.327858,-91.251659
+1462,Wisconsin,2018-19,Life Christian,,,Phillips,Price,,,,,,,,45.6525548,-90.3897339
+1463,Wisconsin,2018-19,Little Stars Pre-School,,,Colby,Clark,,,,,,,,44.91872,-90.320398
+1464,Wisconsin,2018-19,Living Word Child Dev Ctr,,,Jackson,Washington,,,,,,,,43.326016,-88.150451
+1465,Wisconsin,2018-19,Milwaukee Academy,,,Wauwatosa,Milwaukee,,,,,,,,43.0887837,-88.0242785
+1466,Wisconsin,2018-19,MilwCounty Corrctnl Fac South,,,Franklin,Milwaukee,,,,,,,,42.879856,-88.00184
+1467,Wisconsin,2018-19,Mountain Bay Elementary,,,Weston,Marathon,,,,,,,,44.900539,-89.514488
+1468,Wisconsin,2018-19,Mountain View Montessori,,,Wausau,Marathon,,,,,,,,44.9822,-89.648101
+1469,Wisconsin,2018-19,Nekoosa 4K,,,Nekoosa,Wood,,,,,,,,44.309,-89.906661
+1470,Wisconsin,2018-19,Nekoosa Academy,,,Nekoosa,Wood,,,,,,,,44.309531,-89.909506
+1471,Wisconsin,2018-19,Nekoosa Hi,,,Nekoosa,Wood,,,,,,,,44.30906,-89.91046
+1472,Wisconsin,2018-19,New Sch for Youth Empowerment,,,Milwaukee,Milwaukee,,,,,,,,43.0378814,-87.9221208
+1473,Wisconsin,2018-19,New Vision Wilderness Academy,,,Medford,Taylor,,,,,,,,45.1520776,-90.3338454
+1474,Wisconsin,2018-19,Oak Grove Amish,,,Downing,Dunn,,,,,,,,45.0463524,-92.1321284
+1475,Wisconsin,2018-19,Odyssey Elementary,,,Weston,Marathon,,,,,,,,44.8908021,-89.5476204
+1476,Wisconsin,2018-19,Pecatonica Elementary,,,Hollandale,Lafayette,,,,,,,,42.871515,-89.932528
+1477,Wisconsin,2018-19,Phillips Mid,,,Phillips,Price,,,,,,,,45.6966257,-90.4004296
+1478,Wisconsin,2018-19,Pine Creek Amish,,,Blair,Trempealeau,,,,,,,,44.2944029,-91.2351602
+1479,Wisconsin,2018-19,Pine Hill Amish,,,Blair,Trempealeau,,,,,,,,44.35264,-91.245101
+1480,Wisconsin,2018-19,Plank Road Complex,,,Wauwatosa,Milwaukee,,,,,,,,43.04431,-88.040441
+1481,Wisconsin,2018-19,Pleasant View Amish,,,Chetek,Barron,,,,,,,,45.308114,-91.769823
+1482,Wisconsin,2018-19,Pleasant View Amish,,,New Auburn,Chippewa,,,,,,,,45.2669,-91.610331
+1483,Wisconsin,2018-19,Pleasant View Amish,,,Hillpoint,Sauk,,,,,,,,43.390045,-90.19813
+1484,Wisconsin,2018-19,Quaker Valley Amish,,,La Valle,Sauk,,,,,,,,43.556348,-90.206892
+1485,Wisconsin,2018-19,Richland Online Academy,,,Richland Center,Richland,,,,,,,,43.348972,-90.405645
+1486,Wisconsin,2018-19,Riverdale Academy,,,Muscoda,Forest,,,,,,,,43.193237,-90.435674
+1487,Wisconsin,2018-19,Riverside Elementary,,,Ringle,Marathon,,,,,,,,44.905614,-89.469609
+1488,Wisconsin,2018-19,Rolling Acres Amish,,,Blair,Trempealeau,,,,,,,,44.3569,-91.256341
+1489,Wisconsin,2018-19,Rothschild Elementary,,,Rothschild,Marathon,,,,,,,,44.892125,-89.61808
+1490,Wisconsin,2018-19,Rural Virtual Academy,,,Medford,Taylor,,,,,,,,45.129379,-90.336013
+1491,Wisconsin,2018-19,Saint Boniface Grade,,,Waumandee,Trempealeau,,,,,,,,44.3028,-91.7059
+1492,Wisconsin,2018-19,Saint Charles Education Ctr,,,Milwaukee,Milwaukee,,,,,,,,43.050255,-88.00822
+1493,Wisconsin,2018-19,Saint Francis Solanus,,,Stone Lake,Sawyer,,,,,,,,45.8903343,-91.3861657
+1494,Wisconsin,2018-19,Saint Francis Xavier Gr,,,Cross Plains,Dane,,,,,,,,43.1198241,-89.6346315
+1495,Wisconsin,2018-19,Saint John the Evangelist,,,Spring Green,Sauk,,,,,,,,43.1780628,-90.0693117
+1496,Wisconsin,2018-19,Saint Joseph Catholic Academy,,,Kenosha,Kenosha,,,,,,,,42.5708171,-87.837956
+1497,Wisconsin,2018-19,Saint Luke Grade,,,Plain,Sauk,,,,,,,,43.2762643,-90.0492658
+1498,Wisconsin,2018-19,Saint Pauls Evang Luth,,,Wisconsin Rapids,Wood,,,,,,,,44.393447,-89.840399
+1499,Wisconsin,2018-19,Saint Peters Lutheran Grade Sc,,,Reedsburg,Sauk,,,,,,,,43.5347426,-90.0046995
+1500,Wisconsin,2018-19,Sandy Oak Amish,,,Rockland,La Crosse,,,,,,,,43.89496,-90.917361
+1501,Wisconsin,2018-19,Silver Ten Amish,,,Medford,Taylor,,,,,,,,45.071749,-90.47416
+1502,Wisconsin,2018-19,Sonnenberg,,,Pleasant Prairie,Kenosha,,,,,,,,42.52238,-87.895291
+1503,Wisconsin,2018-19,Sunny Meadow Amish,,,Chetek,Barron,,,,,,,,45.26397,-91.743621
+1504,Wisconsin,2018-19,Sunny Valley Amish,,,Tomah,Monroe,,,,,,,,43.862182,-90.4134483
+1505,Wisconsin,2018-19,Texas Bufkin Christian Academy,,,Milwaukee,Milwaukee,,,,,,,,43.041,-87.956931
+1506,Wisconsin,2018-19,Toad Hill Children's House,,,Madison,Dane,,,,,,,,43.0990974,-89.3067276
+1507,Wisconsin,2018-19,Tri-Center,,,West Bend,Washington,,,,,,,,43.4251233,-88.1735961
+1508,Wisconsin,2018-19,Tuckertown Amish,,,Hillpoint,Sauk,,,,,,,,43.38945,-90.195461
+1509,Wisconsin,2018-19,Univ of Islam,,,Milwaukee,Milwaukee,,,,,,,,43.0744352,-87.8818511
+1510,Wisconsin,2018-19,Valley View Amish,,,La Valle,Sauk,,,,,,,,43.5780712,-90.135349
+1511,Wisconsin,2018-19,Vance Creek Amish,,,Prairie Farm,Barron,,,,,,,,45.2325859,-91.9830628
+1512,Wisconsin,2018-19,Walnut Grove Amish,,,Hillpoint,Sauk,,,,,,,,43.4237935,-90.1125248
+1513,Wisconsin,2018-19,Wauwatosa Virtual Academy,,,Wauwatosa,Milwaukee,,,,,,,,43.05936,-88.063521
+1514,Wisconsin,2018-19,Weston Elementary,,,Weston,Marathon,,,,,,,,44.910337,-89.571602
+1515,Wisconsin,2018-19,WISE Academy,,,Nekoosa,Wood,,,,,,,,44.309343,-89.916676

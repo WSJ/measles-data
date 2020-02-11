@@ -1,0 +1,966 @@
+index,state,name,city,county,overall,xmed,xrel,xper,lat,lng
+1,Oklahoma,Adams Elementary,Enid,Garfield,100,0,,,36.3983024,-97.8455188
+2,Oklahoma,Adams Elementary,Oklahoma City,Oklahoma,100,0,,,35.4268744,-97.57764809999999
+3,Oklahoma,Alex Elementary,Alex,Grady,100,0,,,34.9163609,-97.776921
+4,Oklahoma,Allen Public Schools,Allen,Pontotoc,100,0,,,34.8798734,-96.41339289999999
+5,Oklahoma,Andrew Johnson Elementary,Oklahoma City,Oklahoma,100,0,,,35.5634856,-97.5525634
+6,Oklahoma,Asher Elementary,Asher,Pottawatomie,100,0,,,34.9896032,-96.9224177
+7,Oklahoma,Ator Elementary,Owasso,Tulsa,100,0,,,36.2815354,-95.8544733
+8,Oklahoma,Bennington Public Schools,Bennington,Bryan,100,0,,,34.0072283,-96.03827509999999
+9,Oklahoma,Bradley Elementary,Drumright,Creek,100,0,,,35.9829406,-96.61372759999999
+10,Oklahoma,Bray-Doyle Elementary,Marlow,Stephens,100,0,,,34.6328267,-97.8180901
+11,Oklahoma,Cache Primary,Cache,Comanche,100,0,,,34.6180481,-98.62730119999999
+12,Oklahoma,Calvin Elementary,Calvin,Hughes,100,0,,,34.9661553,-96.24618679999999
+13,Oklahoma,Canute Elementary,Canute,Washita,100,0,,,35.417829,-99.282591
+14,Oklahoma,Coolidge Elementary,Oklahoma City,Oklahoma,100,0,,,35.412325,-97.5560071
+15,Oklahoma,Dahlonegah Public Schools,Stilwell,Adair,100,0,,,35.7481471,-94.67005309999999
+16,Oklahoma,Davenport Elementary,Davenport,Lincoln,100,0,,,35.7084643,-96.76656349999999
+17,Oklahoma,Edwards Elementary,Oklahoma City,Oklahoma,100,0,,,35.478917,-97.467187
+18,Oklahoma,Eisenhower Elementary,Lawton,Comanche,100,0,,,34.6046649,-98.4578037
+19,Oklahoma,Eisenhower Elementary,Enid,Garfield,100,0,,,36.346735,-97.89809969999999
+20,Oklahoma,Fanshawe Public,Fanshawe,Le Flore,100,0,,,34.9527042,-94.9139256
+21,Oklahoma,Flower Mound Public,Lawton,Comanche,100,0,,,34.5788529,-98.3529128
+22,Oklahoma,Fort Cobb-Broxton Elementary,Fort Cobb,Caddo,100,0,,,35.0986358,-98.4412689
+23,Oklahoma,Fort Towson Elementary,Fort Towson,Choctaw,100,0,,,34.020756,-95.269729
+24,Oklahoma,Friend Public,Chickasha,Grady,100,0,,,35.0580158,-97.8810465
+25,Oklahoma,Garber Elementary,Garber,Garfield,100,0,,,36.4331083,-97.58246319999999
+26,Oklahoma,Gatewood Elementary,Oklahoma City,Oklahoma,100,0,,,35.4914643,-97.54113079999999
+27,Oklahoma,Geronimo Elementary,Geronimo,Comanche,100,0,,,34.4839638,-98.3859897
+28,Oklahoma,Grandfield Elementary,Grandfield,Tillman,100,0,,,34.2282296,-98.6839306
+29,Oklahoma,Grandview Ps,Comanche,Stephens,100,0,,,34.348142,-98.0511488
+30,Oklahoma,Granite Elementary,Granite,Greer,100,0,,,34.96356,-99.38644269999999
+31,Oklahoma,Greenville Elementary,Marietta,Love,100,0,,,34.005607,-97.12576299999999
+32,Oklahoma,Heavener Elementary,Heavener,Le Flore,100,0,,,34.8856956,-94.5986628
+33,Oklahoma,Heritage Elementary,Tahlequah,Cherokee,100,0,,,35.876897,-94.9815998
+34,Oklahoma,Heronville Elementary,Oklahoma City,Oklahoma,100,0,,,35.434742,-97.53828299999999
+35,Oklahoma,Holy Family Cathedral,Tulsa,Tulsa,100,0,,,36.147423,-95.98973199999999
+36,Oklahoma,Holy Trinity,Okarche,Kingfisher,100,0,,,35.7295315,-97.9755374
+37,Oklahoma,Hoover Elementary,Enid,Garfield,100,0,,,36.395815,-97.912922
+38,Oklahoma,Horace Mann,Duncan,Stephens,100,0,,,34.5170764,-97.9767413
+39,Oklahoma,Jefferson Elementary,Pryor,Mayes,100,0,,,36.2964869,-95.3146347
+40,Oklahoma,Jefferson Heights Elementary,Sapulpa,Creek,100,0,,,35.9822131,-96.135712
+41,Oklahoma,Justice Public,Wewoka,Seminole,100,0,,,35.1158728,-96.5097488
+42,Oklahoma,Keota Elementary,Keota,Haskell,100,0,,,35.2571176,-94.9212658
+43,Oklahoma,Kinta Elementary,Kinta,Haskell,100,0,,,35.1177748,-95.2382916
+44,Oklahoma,Lawton Academy Of Arts & Sciences,Lawton,Comanche,100,0,,,34.6290009,-98.4771748
+45,Oklahoma,Liberty Elementary,Sapulpa,Creek,100,0,,,36.0074673,-96.0912206
+46,Oklahoma,Lincoln Elementary,Norman,Cleveland,100,0,,,35.2148294,-97.43560029999999
+47,Oklahoma,Macomb Elementary,Macomb,Pottawatomie,100,0,,,35.1446113,-97.0096566
+48,Oklahoma,Mannsville Public,Mannsville,Johnston,100,0,,,34.1908585,-96.8750598
+49,Oklahoma,Marietta Primary,Marietta,Love,100,0,,,33.9299781,-97.12315389999999
+50,Oklahoma,Mark Twain Elem,Oklahoma City,Oklahoma,100,0,,,35.4677,-97.5559769
+51,Oklahoma,Mary Golda Ross,Oklahoma City,Oklahoma,100,0,,,35.4383447,-97.5576275
+52,Oklahoma,Maud Elementary,Maud,Pottawatomie,100,0,,,35.1336319,-96.780531
+53,Oklahoma,Midway Elementary,COUNCIL HILL,Mcintosh,100,0,,,35.554615,-95.6527139
+54,Oklahoma,Mitchell Elementary,Tulsa,Tulsa,100,0,,,36.1652693,-95.8946713
+55,Oklahoma,Monroe Elementary,Enid,Garfield,100,0,,,36.4191999,-97.88314899999999
+56,Oklahoma,Morris Elementary,Morris,Okmulgee,100,0,,,35.6057996,-95.855694
+57,Oklahoma,Moss Elementary,Holdenville,Hughes,100,0,,,35.0723742,-96.3533439
+58,Oklahoma,Navajo Elementary,Altus,Jackson,100,0,,,34.706004,-99.2291982
+59,Oklahoma,Northmoor Elementary,Moore,Cleveland,100,0,,,35.3554071,-97.49176039999999
+60,Oklahoma,Northwest Heights Elementary,Durant,Bryan,100,0,,,34.0044119,-96.39375489999999
+61,Oklahoma,Okay Elementary,Okay,Wagoner,100,0,,,35.8661108,-95.3052436
+62,Oklahoma,Okeene Elementary,Okeene,Blaine,100,0,,,36.1184158,-98.31690069999999
+63,Oklahoma,Oktaha Elementary,Oktaha,Muskogee,100,0,,,35.5771584,-95.47278569999999
+64,Oklahoma,Olive Public,Drumright,Creek,100,0,,,36.0273125,-96.4805763
+65,Oklahoma,Pamela Hodson Elementary,Owasso,Tulsa,100,0,,,36.2777234,-95.8115342
+66,Oklahoma,Pierce Elementary,Oklahoma City,Oklahoma,100,0,,,35.4383966,-97.5928709
+67,Oklahoma,Pioneer Pleasant Vale Elementary,Enid,Garfield,100,0,,,36.4198522,-97.7913402
+68,Oklahoma,Pleasant Grove Public,Shawnee,Pottawatomie,100,0,,,35.3251346,-96.8952922
+69,Oklahoma,Pleasant Hill Elementary,Oklahoma City,Oklahoma,100,0,,,35.5066241,-97.4424262
+70,Oklahoma,Pond Creek-Hunter,Pond Creek,Grant,100,0,,,36.6366372,-97.76340189999999
+71,Oklahoma,Ralph Downs Elementary,Oklahoma City,Oklahoma,100,0,,,35.5809392,-97.6464415
+72,Oklahoma,Rattan Elementary,Rattan,Pushmataha,100,0,,,34.199309,-95.421109
+73,Oklahoma,Ridgeview Elementary,Oklahoma City,Oklahoma,100,0,,,35.5718546,-97.5591792
+74,Oklahoma,Ringwood Elementary,Ringwood,Major,100,0,,,36.3810689,-98.24567379999999
+75,Oklahoma,Rockwood Elem,Oklahoma City,Oklahoma,100,0,,,35.4409942,-97.5706134
+76,Oklahoma,Rocky Mountain Public,Stilwell,Adair,100,0,,,35.8053766,-94.76675279999999
+77,Oklahoma,Roff,Roff,Pontotoc,100,0,,,34.6277121,-96.8404181
+78,Oklahoma,Rosary Catholic,Oklahoma City,Oklahoma,100,0,,,35.4889676,-97.54416979999999
+79,Oklahoma,Saint Catherine,Tulsa,Tulsa,100,0,,,36.0974457,-96.02202319999999
+80,Oklahoma,Sallie Gillentine Elementary,Hollis,Harmon,100,0,,,34.6839683,-99.91491599999999
+81,Oklahoma,Santa Fe South Early Childhood Center,Oklahoma City,Oklahoma,100,0,,,35.396019,-97.4875702
+82,Oklahoma,Santa Fe South Spero Elementary,Oklahoma City,Oklahoma,100,0,,,35.4165279,-97.51218449999999
+83,Oklahoma,Savanna Elementary,Savanna,Pittsburg,100,0,,,34.8265961,-95.8420729
+84,Oklahoma,Schulter Public,Schulter,Okmulgee,100,0,,,35.5143484,-95.95820359999999
+85,Oklahoma,Shady Grove,Hulbert,Cherokee,100,0,,,35.94428,-95.118417
+86,Oklahoma,Shattuck Elementary,Shattuck,Ellis,100,0,,,36.2747112,-99.87144789999999
+87,Oklahoma,St. Charles Borromeo Catholic,Oklahoma City,Oklahoma,100,0,,,35.5211452,-97.6138752
+88,Oklahoma,St. James Catholic,Oklahoma City,Oklahoma,100,0,,,35.4224969,-97.5381299
+89,Oklahoma,St. Joseph Catholic,Enid,Garfield,100,0,,,36.3969621,-97.88557279999999
+90,Oklahoma,St. Mary Catholic,Guthrie,Logan,100,0,,,35.881316,-97.42000089999999
+91,Oklahoma,St. Mary's Catholic,Lawton,Comanche,100,0,,,34.607773,-98.3977833
+92,Oklahoma,St. Mary's Catholic,Ponca City,Kay,100,0,,,36.6999899,-97.0758108
+93,Oklahoma,St. Pius X Catholic,Tulsa,Tulsa,100,0,,,36.1379319,-95.8927595
+94,Oklahoma,Stigler Kindergarten,Stigler,Haskell,100,0,,,35.254983,-95.1204516
+95,Oklahoma,Stuart Public,Stuart,Hughes,100,0,,,34.89796949999999,-96.09981529999999
+96,Oklahoma,Taft Elementary,Enid,Garfield,100,0,,,36.38486700000001,-97.89390999999999
+97,Oklahoma,Temple Elementary,Temple,Cotton,100,0,,,34.2668404,-98.2395712
+98,Oklahoma,Tipton Elementary,Tipton,Tillman,100,0,,,34.4950914,-99.1406509
+99,Oklahoma,Townsend Elementary,Del City,Oklahoma,100,0,,,35.4253432,-97.4361347
+100,Oklahoma,Tupelo Elementary,Tupelo,Coal,100,0,,,34.60318609999999,-96.4248873
+101,Oklahoma,Velma-Alma Elementary,Velma,Stephens,100,0,,,34.4521593,-97.66952350000001
+102,Oklahoma,Wayland Bonds Elementary,Oklahoma City,Cleveland,100,0,,,35.3271497,-97.5668742
+103,Oklahoma,Whitefield Public,Whitefield,Haskell,100,0,,,35.2511378,-95.2390004
+104,Oklahoma,Wilson Public,Henryetta,Okmulgee,100,0,,,35.5077095,-96.0351256
+105,Oklahoma,Woodall Public,Tahlequah,Cherokee,100,0,,,35.82042879999999,-95.05643409999999
+106,Oklahoma,Woodrow Wilson Elementary,Bartlesville,Washington,100,0,,,36.7596808,-95.92320169999999
+107,Oklahoma,Zion,Stilwell,Adair,100,0,,,35.7902961,-94.63224869999999
+108,Oklahoma,Altus Early Childhood Center,Altus,Jackson,99,0,,,34.6484252,-99.3235435
+109,Oklahoma,Barnes Elementary,Oklahoma City,Oklahoma,99,1,,,35.4068164,-97.3416737
+110,Oklahoma,Calera Isd,Calera,Bryan,99,1,,,33.9369607,-96.4291538
+111,Oklahoma,Central Elementary,Yukon,Canadian,99,1,,,35.5045055,-97.7580545
+112,Oklahoma,Cornelsen Elementary,Fairview,Major,99,1,,,36.2735335,-98.4666482
+113,Oklahoma,Dewey Public,Dewey,Washington,99,1,,,36.8035341,-95.9372337
+114,Oklahoma,Emerson Elementary,Duncan,Stephens,99,1,,,34.5083441,-97.9629473
+115,Oklahoma,Garfield Elementary,Enid,Garfield,99,1,,,36.4006661,-97.8689299
+116,Oklahoma,Greenwood Elementary,Tahlequah,Cherokee,99,1,,,35.9091141,-94.96528649999999
+117,Oklahoma,Grove Elementary,Tulsa,Tulsa,99,1,,,36.0729538,-95.8611437
+118,Oklahoma,Henryetta Kindergarten Center,Henryetta,Okmulgee,99,1,,,35.4422917,-96.0041638
+119,Oklahoma,Highland Park Elementary,Oklahoma City,Oklahoma,99,0,,,35.4125691,-97.44400569999999
+120,Oklahoma,Kaiser Elementary,Oklahoma City,Oklahoma,99,0,,,35.5006146,-97.59073649999999
+121,Oklahoma,Liberty Elementary,Sallisaw,Sequoyah,99,1,,,35.4570071,-94.7776943
+122,Oklahoma,Lincoln Early Childhood Center,Pryor,Mayes,99,1,,,36.2867212,-95.30784489999999
+123,Oklahoma,Linwood Elementary,Oklahoma City,Oklahoma,99,1,,,35.4865647,-97.57805069999999
+124,Oklahoma,Madill Early Childhood Center,Madill,Marshall,99,1,,,34.082933,-96.7833783
+125,Oklahoma,Mckinley Elementary,Norman,Cleveland,99,1,,,35.2084396,-97.4534674
+126,Oklahoma,Merritt Elementary,Elk City,Beckham,99,0,,,35.3796731,-99.47171689999999
+127,Oklahoma,Nichols Hills Elementary,Nichols Hills,Oklahoma,99,1,,,35.5518629,-97.5382814
+128,Oklahoma,Oakes Elementary,Okemah,Okfuskee,99,0,,,35.4322521,-96.3200533
+129,Oklahoma,Richmond Elementary,Stillwater,Payne,99,1,,,36.1731598,-97.0607175
+130,Oklahoma,Sequoyah Elementary,Claremore,Rogers,99,1,,,36.371353,-95.56065199999999
+131,Oklahoma,Soldier Creek Elementary,Midwest City,Oklahoma,99,1,,,35.4507719,-97.3692938
+132,Oklahoma,Sperry Elementary,Sperry,Tulsa,99,0,,,36.2976949,-95.9976983
+133,Oklahoma,Stilwell Elementary,Stilwell,Adair,99,0,,,35.8151987,-94.63357069999999
+134,Oklahoma,Thomas Jefferson Elementary,Tulsa,Tulsa,99,1,,,36.0407146,-95.85765239999999
+135,Oklahoma,Westville Elementary,Westville,Adair,99,1,,,35.9885283,-94.57146039999999
+136,Oklahoma,Willow Brook Elementary,Oklahoma City,Oklahoma,99,1,,,35.47917109999999,-97.3856281
+137,Oklahoma,Apollo Elementary,Bethany,Oklahoma,98,0,,,35.4888243,-97.6285369
+138,Oklahoma,Arthur Elementary,Oklahoma City,Oklahoma,98,1,,,35.4148039,-97.573228
+139,Oklahoma,Atoka Elementary,Atoka,Atoka,98,0,,,34.38099260000001,-96.1443934
+140,Oklahoma,Bill Wallace Ec Center,Chickasha,Grady,98,1,,,35.0272303,-97.9516316
+141,Oklahoma,Bodine Elementary,Oklahoma City,Oklahoma,98,0,,,35.4112166,-97.461033
+142,Oklahoma,Buchanan Elementary,Oklahoma City,Oklahoma,98,0,,,35.4876353,-97.5936078
+143,Oklahoma,Caney Valley Elementary,Ochelata,Washington,98,0,,,36.6004728,-95.9851278
+144,Oklahoma,Cleveland Bailey Elementary,Midwest City,Oklahoma,98,0,,,35.4716048,-97.41402149999999
+145,Oklahoma,Coolidge Elementary,Enid,Garfield,98,2,,,36.4058962,-97.8554106
+146,Oklahoma,Council Grove,Oklahoma City,Oklahoma,98,0,,,35.47251,-97.6539365
+147,Oklahoma,Darnaby Elementary,Tulsa,Tulsa,98,2,,,36.0395058,-95.89153639999999
+148,Oklahoma,Eisenhower Elementary,Norman,Cleveland,98,1,,,35.2394087,-97.4205053
+149,Oklahoma,Esperanza Elementary,Oklahoma City,Oklahoma,98,0,,,35.4296766,-97.5596747
+150,Oklahoma,Fillmore Elementary,Oklahoma City,Oklahoma,98,1,,,35.4135607,-97.5381312
+151,Oklahoma,Fisher Elementary,Oklahoma City,Cleveland,98,0,,,35.35050140000001,-97.5583879
+152,Oklahoma,Fort Gibson Early Learning Center,Fort Gibson,Muskogee,98,2,,,35.7936926,-95.2399415
+153,Oklahoma,Foyil Elementary,Foyil,Rogers,98,0,,,36.4338059,-95.5269541
+154,Oklahoma,Francis Elementary,Ada,Pontotoc,98,2,,,34.86412809999999,-96.62330539999999
+155,Oklahoma,Glenpool Elementary,Glenpool,Tulsa,98,2,,,35.9484222,-96.0044296
+156,Oklahoma,Hamilton Elementary,Tulsa,Tulsa,98,0,,,36.1871968,-95.907001
+157,Oklahoma,Hayes Elementary,Oklahoma City,Oklahoma,98,2,,,35.3961115,-97.5025653
+158,Oklahoma,Hayward Smith Elementary,Owasso,Tulsa,98,1,,,36.2865028,-95.8379387
+159,Oklahoma,Highland Park,Stillwater,Payne,98,2,,,36.119074,-97.026873
+160,Oklahoma,Hobart Elementary,Hobart,Kiowa,98,2,,,35.0295967,-99.0931332
+161,Oklahoma,Holland Hall,Tulsa,Tulsa,98,2,,,36.0438868,-95.9143594
+162,Oklahoma,Homer Elementary,Ada,Pontotoc,98,2,,,34.7874575,-96.63299839999999
+163,Oklahoma,Homer Long Elementary,Guymon,Texas,98,0,,,36.6939181,-101.4883496
+164,Oklahoma,Hooker Elementary,Hooker,Texas,98,0,,,36.8622483,-101.2173842
+165,Oklahoma,Horace Mann Elementary,Oklahoma City,Oklahoma,98,2,,,35.5182465,-97.5305923
+166,Oklahoma,Hugo Elementary,Hugo,Choctaw,98,2,,,33.9960004,-95.5011231
+167,Oklahoma,Indian Meridian Elementary,Choctaw,Oklahoma,98,2,,,35.446942,-97.2489483
+168,Oklahoma,Jay Elementary,Jay,Delaware,98,1,,,36.4283551,-94.78672619999999
+169,Oklahoma,Jefferson Elementary,Norman,Cleveland,98,0,,,35.226246,-97.43494500000001
+170,Oklahoma,Jenks Southeast Elementary,Tulsa,Tulsa,98,2,,,36.0158856,-95.9230834
+171,Oklahoma,Latta Elementary,Ada,Pontotoc,98,2,,,34.7524819,-96.706061
+172,Oklahoma,Little Axe,Norman,Cleveland,98,2,,,35.2325694,-97.2125276
+173,Oklahoma,Marrs Elementary,Skiatook,Tulsa,98,2,,,36.3578659,-96.00057609999999
+174,Oklahoma,Mary White Elementary,Haskell,Muskogee,98,2,,,35.8204578,-95.68029639999999
+175,Oklahoma,Mckinley Elementary,Enid,Garfield,98,2,,,36.396199,-97.899675
+176,Oklahoma,Oklahoma Union Elementary,South Coffeyville,Nowata,98,0,,,36.9189047,-95.6313375
+177,Oklahoma,Okmulgee Primary,Okmulgee,Okmulgee,98,1,,,35.6327705,-95.9746447
+178,Oklahoma,Pawnee Elementary,Pawnee,Pawnee,98,2,,,36.3358617,-96.8043592
+179,Oklahoma,Peary Elementary,Tulsa,Tulsa,98,0,,,36.13728589999999,-95.8555853
+180,Oklahoma,Plato Elementary,Duncan,Stephens,98,2,,,34.5366498,-97.9588607
+181,Oklahoma,Poteau Primary,Poteau,Le Flore,98,2,,,35.0797888,-94.6365332
+182,Oklahoma,Prairie Elementary,Guymon,Texas,98,2,,,36.6739043,-101.4613986
+183,Oklahoma,Prairie View Elementary,Oklahoma City,Canadian,98,0,,,35.407102,-97.6741808
+184,Oklahoma,Rancho Village Elementary,Oklahoma City,Oklahoma,98,0,,,35.4210049,-97.54467079999999
+185,Oklahoma,Reagan Elementary,Norman,Cleveland,98,2,,,35.1986157,-97.40574300000002
+186,Oklahoma,Salk Elementary,Tulsa,Tulsa,98,2,,,36.0814262,-95.8907146
+187,Oklahoma,Salyer Elementary,Guymon,Texas,98,2,,,36.6781676,-101.4795719
+188,Oklahoma,Sangre Ridge Elementary,Stillwater,Payne,98,1,,,36.09474650000001,-97.1053879
+189,Oklahoma,Santa Fe Elementary,Moore,Cleveland,98,0,,,35.3404583,-97.5128524
+190,Oklahoma,South Rock Creek Elementary,Shawnee,Pottawatomie,98,2,,,35.3067247,-96.8605784
+191,Oklahoma,St. Elizabeth Ann Seton Catholic,Edmond,Oklahoma,98,0,,,35.644117,-97.4789129
+192,Oklahoma,Surrey Hills Elementary,Yukon,Canadian,98,1,,,35.5782668,-97.7225217
+193,Oklahoma,Tuttle Early Childhood Center,Tuttle,Grady,98,2,,,35.2863022,-97.8072862
+194,Oklahoma,Washington Elementary,Alva,Woods,98,0,,,36.8031846,-98.66884329999999
+195,Oklahoma,Washington Irving Elementary,Durant,Bryan,98,2,,,33.9993526,-96.3829116
+196,Oklahoma,Waurika Elementary,Waurika,Jefferson,98,2,,,34.1691772,-97.986249
+197,Oklahoma,Wayside Elementary,Bartlesville,Washington,98,1,,,36.718768,-95.944253
+198,Oklahoma,Will Rogers Elementary,Oklahoma City,Oklahoma,98,0,,,35.5955496,-97.6597077
+199,Oklahoma,William Gay Early Childhood Center,McAlester,Pittsburg,98,2,,,34.9384907,-95.77799879999999
+200,Oklahoma,Wilson Elementary,Miami,Ottawa,98,2,,,36.8796293,-94.88470009999999
+201,Oklahoma,Woodrow Wilson Elementary,Duncan,Stephens,98,2,,,34.5064669,-97.9383034
+202,Oklahoma,Alexander Elementary,COMMERCE,Ottawa,97,0,,,36.9399614,-94.8707943
+203,Oklahoma,Apache Elementary,Apache,Caddo,97,3,,,34.8900048,-98.3616763
+204,Oklahoma,Bishop Public,Lawton,Comanche,97,3,,,34.5795079,-98.4218842
+205,Oklahoma,Blanchard Elementary,Blanchard,Mcclain,97,3,,,35.1521495,-97.6567589
+206,Oklahoma,Boevers Elementary,Tulsa,Tulsa,97,0,,,36.1125551,-95.8275546
+207,Oklahoma,Britton Elementary,Oklahoma City,Oklahoma,97,1,,,35.5676509,-97.5345799
+208,Oklahoma,Burcham Elementary,Weatherford,Custer,97,2,,,35.5414157,-98.68635379999999
+209,Oklahoma,Carnegie Elementary,Carnegie,Caddo,97,3,,,35.1014306,-98.6061372
+210,Oklahoma,Cedar Ridge Elementary,Tulsa,Tulsa,97,3,,,36.0219642,-95.86739689999999
+211,Oklahoma,Central Elementary,Warr Acres,Oklahoma,97,0,,,35.5120164,-97.615573
+212,Oklahoma,Cherokee Elementary,TAHLEQUAH,Cherokee,97,2,,,35.9168543,-94.9587919
+213,Oklahoma,Chouteau Early Childhood Center (Ecc),Chouteau,Mayes,97,2,,,36.19195,-95.3488505
+214,Oklahoma,Cleveland Elementary,Norman,Cleveland,97,3,,,35.2249808,-97.4689872
+215,Oklahoma,Cleveland Primary,Cleveland,Pawnee,97,2,,,36.3119276,-96.4773148
+216,Oklahoma,Colbert Westward Elementary,Colbert,Bryan,97,2,,,33.8543407,-96.5072606
+217,Oklahoma,Del City Elementary,Del City,Oklahoma,97,3,,,35.4402872,-97.4377798
+218,Oklahoma,Disney Elementary,Tulsa,Tulsa,97,1,,,36.1267892,-95.8445328
+219,Oklahoma,Fletcher Elementary,Fletcher,Comanche,97,3,,,34.8227553,-98.2406315
+220,Oklahoma,Glenwood Elementary,Enid,Garfield,97,0,,,36.404447,-97.92709099999999
+221,Oklahoma,Hilldale Elementary,Oklahoma City,Oklahoma,97,0,,,35.4864662,-97.6069045
+222,Oklahoma,Hugh Bish Elementary,Lawton,Comanche,97,3,,,34.6334819,-98.4631378
+223,Oklahoma,Jane Phillips Elementary,Bartlesville,Washington,97,3,,,36.736082,-95.990568
+224,Oklahoma,Kellyville Elementary,Kellyville,Creek,97,2,,,35.940633,-96.21376219999999
+225,Oklahoma,L. W. Westfall,Choctaw,Oklahoma,97,3,,,35.4795473,-97.29651849999999
+226,Oklahoma,Larkin Bailey Elementary,Owasso,Tulsa,97,3,,,36.2938795,-95.8596266
+227,Oklahoma,Laverne Elementary,Laverne,Harper,97,3,,,36.7091435,-99.9005993
+228,Oklahoma,Lewis And Clark Elementary,Tulsa,Tulsa,97,0,,,36.15118289999999,-95.85025209999999
+229,Oklahoma,Maryetta,Stilwell,Adair,97,0,,,35.8418531,-94.6339218
+230,Oklahoma,Millwood Public Schools,Oklahoma City,Oklahoma,97,3,,,35.5421019,-97.47059349999999
+231,Oklahoma,Monte Cassino Early Learning Center,Tulsa,Tulsa,97,3,,,36.1317482,-95.9589233
+232,Oklahoma,Northeast Elementary,Guymon,Texas,97,0,,,36.6907067,-101.4800982
+233,Oklahoma,Northeast Elementary,Owasso,Tulsa,97,2,,,36.3012519,-95.8201852
+234,Oklahoma,Nowata Public Schools,Nowata,Nowata,97,2,,,36.6968117,-95.64506779999999
+235,Oklahoma,Owen Elementary,Tulsa,Tulsa,97,2,,,36.1707388,-95.92608129999999
+236,Oklahoma,Parmelee Elementary,Oklahoma City,Oklahoma,97,1,,,35.39844,-97.51837859999999
+237,Oklahoma,Prairie View Elementary,Enid,Garfield,97,3,,,36.4207356,-97.9371544
+238,Oklahoma,Ranchwood Elementary,Yukon,Canadian,97,2,,,35.5142896,-97.73471219999999
+239,Oklahoma,Rollingwood Elementary,Oklahoma City,Oklahoma,97,3,,,35.5354979,-97.6113786
+240,Oklahoma,Skyline Elementary,Stillwater,Payne,97,3,,,36.1384744,-97.0413354
+241,Oklahoma,Sooner Elementary,Oklahoma City,Cleveland,97,3,,,35.3772104,-97.42665079999999
+242,Oklahoma,Southside Elementary,Coweta,Wagoner,97,3,,,35.9419947,-95.6489992
+243,Oklahoma,Spence Memorial,Weleetka,Okfuskee,97,3,,,35.3396233,-96.13530999999999
+244,Oklahoma,Steed Elementary,Midwest City,Oklahoma,97,3,,,35.4588283,-97.38217139999999
+245,Oklahoma,Tonkawa Elementary,Tonkawa,Kay,97,2,,,36.6838746,-97.3015547
+246,Oklahoma,Tulakes Elementary,Oklahoma City,Oklahoma,97,3,,,35.5394083,-97.63035889999999
+247,Oklahoma,Valliant Elementary,Valliant,Mccurtain,97,3,,,34.0043973,-95.0886891
+248,Oklahoma,Wayne Elementary,Wayne,Mcclain,97,3,,,34.9178096,-97.3198125
+249,Oklahoma,Will Rogers Elementary,Stillwater,Payne,97,2,,,36.1351339,-97.06865739999999
+250,Oklahoma,Wilson Elementary,Wilson,Carter,97,0,,,34.1664829,-97.4197437
+251,Oklahoma,Winding Creek Elementary,Moore,Cleveland,97,2,,,35.349455,-97.4686667
+252,Oklahoma,Brantly Elementary,Antlers,Pushmataha,96,4,,,34.2345453,-95.6196921
+253,Oklahoma,Bryant Elementary,Oklahoma City,Cleveland,96,2,,,35.3731717,-97.4583151
+254,Oklahoma,Central Elementary,Bixby,Tulsa,96,4,,,35.939235,-95.88004500000001
+255,Oklahoma,Christ The King,Oklahoma City,Oklahoma,96,2,,,35.5528659,-97.5575889
+256,Oklahoma,Collinsville Early Childhood Center,Collinsville,Tulsa,96,3,,,36.3422256,-95.8302313
+257,Oklahoma,Darlington Ps,El Reno,Canadian,96,4,,,35.5723703,-97.9587404
+258,Oklahoma,Deer Creek Elementary,Edmond,Oklahoma,96,4,,,35.6372514,-97.60631289999999
+259,Oklahoma,Earlywine Elementary,Oklahoma City,Cleveland,96,4,,,35.3404119,-97.5638468
+260,Oklahoma,Elgin Elementary,Elgin,Comanche,96,3,,,34.7809345,-98.2884942
+261,Oklahoma,Ethel Reed Elementary,Holdenville,Hughes,96,3,,,35.0786319,-96.4092725
+262,Oklahoma,Fairview Elementary,Oklahoma City,Cleveland,96,2,,,35.3784485,-97.556826
+263,Oklahoma,Freedom Elementary,Sapulpa,Creek,96,4,,,36.03099460000001,-96.07247
+264,Oklahoma,Frink-Chambers Elementary,McAlester,Pittsburg,96,0,,,34.8769498,-95.78845009999999
+265,Oklahoma,Hayes Elementary,Enid,Garfield,96,4,,,36.381124,-97.904155
+266,Oklahoma,Hillcrest Elementary,El Reno,Canadian,96,1,,,35.5181325,-97.95964099999999
+267,Oklahoma,Hilldale Elementary,Muskogee,Muskogee,96,3,,,35.7098273,-95.37081239999999
+268,Oklahoma,Holly Creek,Broken Bow,Mccurtain,96,4,,,33.9831449,-94.81929129999999
+269,Oklahoma,Jefferson Early Learning Center,Pauls Valley,Garvin,96,0,,,34.7412414,-97.2130983
+270,Oklahoma,Jenks West Elementary,Jenks,Tulsa,96,3,,,36.0307785,-96.0054928
+271,Oklahoma,Kingston Elementary,Kingston,Marshall,96,2,,,34.0023928,-96.7184427
+272,Oklahoma,Lane Public,Lane,Atoka,96,0,,,34.3017132,-95.9879688
+273,Oklahoma,Mannford Early Childhood Center,Mannford,Creek,96,2,,,36.122362,-96.34463509999999
+274,Oklahoma,Mcauliffe Elementary,Broken Arrow,Tulsa,96,1,,,36.0655038,-95.85034449999999
+275,Oklahoma,Mcclure Elementary,Tulsa,Tulsa,96,0,,,36.0743872,-95.96377269999999
+276,Oklahoma,Mcloud Ecc And Elementarys,McLoud,Pottawatomie,96,2,,,35.4340958,-97.092919
+277,Oklahoma,Monroe Elementary,Oklahoma City,Oklahoma,96,4,,,35.5192156,-97.55798500000002
+278,Oklahoma,North Rock Creek Public Schools,Shawnee,Pottawatomie,96,3,,,35.4061423,-96.9035392
+279,Oklahoma,Northwoods Fine Arts Academy,Sand Springs,Tulsa,96,4,,,36.1603097,-96.08648579999999
+280,Oklahoma,Oak Crest Elementary,Broken Arrow,Tulsa,96,3,,,36.0364199,-95.78784759999999
+281,Oklahoma,Oakridge Elementary,Moore,Cleveland,96,4,,,35.306801,-97.5130179
+282,Oklahoma,Osage Public,Pryor,Mayes,96,4,,,36.3073907,-95.3983422
+283,Oklahoma,Prairie Queen Elementary,Oklahoma City,Oklahoma,96,0,,,35.3996786,-97.5402635
+284,Oklahoma,Rivers Elementary,Altus,Jackson,96,1,,,34.6614324,-99.29824269999999
+285,Oklahoma,Roosevelt Elementary,Ponca City,Kay,96,2,,,36.7100869,-97.07362649999999
+286,Oklahoma,Rush Springs Elementary,Rush Springs,Grady,96,0,,,34.7830035,-97.9624164
+287,Oklahoma,Salina Elementary,Salina,Mayes,96,2,,,36.3014973,-95.1496401
+288,Oklahoma,School Of Saint Mary,Tulsa,Tulsa,96,4,,,36.0925073,-95.9735919
+289,Oklahoma,Southern Hills Elementary,Oklahoma City,Oklahoma,96,0,,,35.3874877,-97.54218379999999
+290,Oklahoma,Southgate-Rippetoe Elementary,Moore,Cleveland,96,3,,,35.3408291,-97.50340519999999
+291,Oklahoma,Spiro Public,Spiro,Le Flore,96,2,,,35.2401216,-94.6288053
+292,Oklahoma,St. Philip Neri Catholic,Midwest City,Oklahoma,96,0,,,35.448443,-97.396813
+293,Oklahoma,Talihina Elementary,Talihina,Le Flore,96,4,,,34.7551661,-95.0444536
+294,Oklahoma,Tishomingo Elementary,Tishomingo,Johnston,96,0,,,34.2390336,-96.67521459999999
+295,Oklahoma,Varnum Elementary,Seminole,Seminole,96,0,,,35.2863804,-96.6899729
+296,Oklahoma,Verden Elementary,Verden,Grady,96,4,,,35.0822482,-98.0854792
+297,Oklahoma,Waynoka Elementary,Waynoka,Woods,96,0,,,36.5913256,-98.8699244
+298,Oklahoma,Westwood Elementary,Oklahoma City,Oklahoma,96,0,,,35.4546455,-97.5460481
+299,Oklahoma,Wewoka Elementary,Wewoka,Seminole,96,4,,,35.1486903,-96.49723449999999
+300,Oklahoma,Will Rogers Elementary,Ardmore,Carter,96,1,,,34.1880978,-97.12292839999999
+301,Oklahoma,Wister Elementary,Wister,Le Flore,96,0,,,34.9706789,-94.72396549999999
+302,Oklahoma,Academy Central,Tulsa,Tulsa,95,2,,,36.1809373,-96.01268999999999
+303,Oklahoma,Academy-C Elementary,Guymon,Texas,95,0,,,36.6837094,-101.486403
+304,Oklahoma,All Saints Catholic,Broken Arrow,Tulsa,95,5,,,36.0508099,-95.77910969999999
+305,Oklahoma,Arbor Grove,Oklahoma City,Oklahoma,95,2,,,35.5190938,-97.5936663
+306,Oklahoma,Battiest Public,Broken Bow,Mccurtain,95,0,,,34.3942,-94.9251
+307,Oklahoma,Bell Elementary,Tulsa,Tulsa,95,0,,,36.1594653,-95.9068906
+308,Oklahoma,Canadian Elementary,Canadian,Pittsburg,95,0,,,35.171872,-95.6561349
+309,Oklahoma,Clark Elementary,Tulsa,Tulsa,95,0,,,36.1101505,-95.863
+310,Oklahoma,Country Estates Elementary,Oklahoma City,Oklahoma,95,2,,,35.455409,-97.3955369
+311,Oklahoma,Creek Elementary,Muskogee,Muskogee,95,2,,,35.7379881,-95.32054819999999
+312,Oklahoma,Cyril Elementary,Cyril,Caddo,95,0,,,34.8965234,-98.203032
+313,Oklahoma,Dennis Elementary,Oklahoma City,Oklahoma,95,5,,,35.5889218,-97.6308249
+314,Oklahoma,Depew Elementary,Depew,Creek,95,5,,,35.8000788,-96.50795719999999
+315,Oklahoma,Edison Elementary,Bristow,Creek,95,2,,,35.8363978,-96.39201489999999
+316,Oklahoma,Erick Grade,Erick,Beckham,95,0,,,35.2136347,-99.8730089
+317,Oklahoma,F.D. Moon Academy,Oklahoma City,Oklahoma,95,5,,,35.4828664,-97.4784433
+318,Oklahoma,Greystone Elementary,Oklahoma City,Oklahoma,95,2,,,35.5874398,-97.555972
+319,Oklahoma,Hartshorne Elementary,Hartshorne,Pittsburg,95,0,,,34.850561,-95.5572732
+320,Oklahoma,Hawthorne Elementary,Oklahoma City,Oklahoma,95,0,,,35.4844272,-97.55319709999999
+321,Oklahoma,Horace Mann Elementary,Shawnee,Pottawatomie,95,2,,,35.3316005,-96.9059886
+322,Oklahoma,Jenks East Elementary,Jenks,Tulsa,95,3,,,36.033814,-95.9378796
+323,Oklahoma,John D. Moeller Elementary,Mt. Park,Kiowa,95,0,,,34.7010719,-98.94866599999999
+324,Oklahoma,John Ross Elementary,Edmond,Oklahoma,95,2,,,35.6736944,-97.4855515
+325,Oklahoma,Kelley Elementary,Moore,Cleveland,95,5,,,35.3555177,-97.5023468
+326,Oklahoma,Lanier Elementary,Tulsa,Tulsa,95,3,,,36.1359681,-95.9398023
+327,Oklahoma,Leedey Elementary,Leedey,Roger Mills,95,5,,,35.8679689,-99.3423088
+328,Oklahoma,Leisure Park Elementary,Broken Arrow,Tulsa,95,5,,,36.0093143,-95.8053088
+329,Oklahoma,Lincoln Elementary,Ponca City,Kay,95,2,,,36.7046549,-97.1021169
+330,Oklahoma,Madison Elementary,Norman,Cleveland,95,5,,,35.1983699,-97.43644839999999
+331,Oklahoma,Mark Twain Elementary,Duncan,Stephens,95,3,,,34.5051989,-97.9772548
+332,Oklahoma,Mason Elementary,Mason,Okfuskee,95,5,,,35.5668319,-96.35156719999999
+333,Oklahoma,Mccord Elementary,Ponca City,Osage,95,0,,,36.6664867,-97.0309534
+334,Oklahoma,Mcmurray Elementary,Sentinel,Washita,95,5,,,35.1561526,-99.1672629
+335,Oklahoma,Medford Public Schools,Medford,Grant,95,0,,,36.8095599,-97.7353146
+336,Oklahoma,Moffett Public,Moffett,Sequoyah,95,0,,,35.389733,-94.4496465
+337,Oklahoma,Monroe Elementary,Norman,Cleveland,95,3,,,35.1984073,-97.4670897
+338,Oklahoma,Mustang Centennial Elementary,Mustang,Canadian,95,3,,,35.3860306,-97.74113179999999
+339,Oklahoma,Nicoma Park Elementary,Choctaw,Oklahoma,95,5,,,35.4800765,-97.3259228
+340,Oklahoma,Patrick Henry Elementary,Tulsa,Tulsa,95,0,,,36.1036582,-95.9350396
+341,Oklahoma,Purcell Elementary,Purcell,Mcclain,95,3,,,35.0229612,-97.3712961
+342,Oklahoma,Quail Creek Elementary,Oklahoma City,Oklahoma,95,5,,,35.5885984,-97.5713615
+343,Oklahoma,Quapaw Elementary,Quapaw,Ottawa,95,5,,,36.9600932,-94.78799090000001
+344,Oklahoma,Ranch Heights Elementary,Bartlesville,Washington,95,4,,,36.7341804,-95.9208043
+345,Oklahoma,Red Oak Elementary,Red Oak,Latimer,95,5,,,34.9553693,-95.0790851
+346,Oklahoma,Roosevelt Elementary,Norman,Cleveland,95,5,,,35.260967,-97.5038457
+347,Oklahoma,Roosevelt Elementary,Pryor,Mayes,95,5,,,36.3134383,-95.3079307
+348,Oklahoma,Shawnee Early Childhood Center,Shawnee,Pottawatomie,95,3,,,35.3538529,-96.9356193
+349,Oklahoma,Shedeck Elementary,Yukon,Canadian,95,0,,,35.4857056,-97.75205249999999
+350,Oklahoma,Shidler Elementary,Oklahoma City,Oklahoma,95,0,,,35.4513028,-97.5039097
+351,Oklahoma,South Lake Elementary,Oklahoma City,Cleveland,95,5,,,35.341805,-97.5843888
+352,Oklahoma,Stanley Hupfled Academy,Oklahoma City,Oklahoma,95,2,,,35.5781339,-97.5409179
+353,Oklahoma,Sterling Elementary,Sterling,Comanche,95,5,,,34.7460783,-98.1730381
+354,Oklahoma,Tecumseh Early Childhood Center,Tecumseh,Pottawatomie,95,4,,,35.2706704,-96.9400026
+355,Oklahoma,Timberlake Elementary,Jet,Alfalfa,95,5,,,36.6685126,-98.1789002
+356,Oklahoma,Truman Primary,Norman,Cleveland,95,5,,,35.226736,-97.5054353
+357,Oklahoma,Vandever Elementary,Broken Arrow,Tulsa,95,5,,,36.0249921,-95.80474319999999
+358,Oklahoma,Vian Elementary,Vian,Sequoyah,95,1,,,35.4941675,-94.97465009999999
+359,Oklahoma,Wellston Elementary,Wellston,Lincoln,95,2,,,35.685718,-97.05775399999999
+360,Oklahoma,Western Oaks Elementary,Bethany,Oklahoma,95,1,,,35.4925567,-97.6393623
+361,Oklahoma,Westside Elementary,Claremore,Rogers,95,3,,,36.308106,-95.644555
+362,Oklahoma,Westwood Elementary,Stillwater,Payne,95,4,,,36.116464,-97.08268939999999
+363,Oklahoma,Wiley Post Elementary,Oklahoma City,Oklahoma,95,2,,,35.56476170000001,-97.633939
+364,Oklahoma,Wilson Elementary,Norman,Cleveland,95,5,,,35.2282049,-97.44463069999999
+365,Oklahoma,Beaver Public,Beaver,Beaver,94,0,,,36.809934,-100.5255551
+366,Oklahoma,Blair Elementary,Blair,Jackson,94,6,,,34.7780708,-99.3349693
+367,Oklahoma,Carney Elementary,Carney,Lincoln,94,6,,,35.8074226,-97.0118548
+368,Oklahoma,Chattanooga Elementary,Chattanooga,Comanche,94,0,,,34.4224047,-98.658148
+369,Oklahoma,Cherokee Elementary,Cherokee,Alfalfa,94,3,,,36.75101,-98.3489073
+370,Oklahoma,Chisholm Elementary,Edmond,Oklahoma,94,4,,,35.6226671,-97.45017109999999
+371,Oklahoma,Choctaw Elementary,Choctaw,Oklahoma,94,2,,,35.4995861,-97.2726498
+372,Oklahoma,Cooper Elementary,Tulsa,Tulsa,94,1,,,36.1362064,-95.84082079999999
+373,Oklahoma,Coronado Heights Elementary,Oklahoma City,Oklahoma,94,3,,,35.5301946,-97.5890574
+374,Oklahoma,Cross Timbers Elementary,Edmond,Oklahoma,94,4,,,35.7045373,-97.49511629999999
+375,Oklahoma,Deer Creek-Lamont Elementary,Deer Creek,Grant,94,6,,,36.8101756,-97.5199439
+376,Oklahoma,Dolores Huerta Elementary,Tulsa,Tulsa,94,3,,,36.1244212,-95.85838269999999
+377,Oklahoma,E.M. Trout Elementary,Ponca City,Kay,94,4,,,36.7392054,-97.05553470000001
+378,Oklahoma,Ellen Ochoa Elementary,Tulsa,Tulsa,94,4,,,36.1177266,-95.8446414
+379,Oklahoma,Epperly Heights Elementary,Del City,Oklahoma,94,1,,,35.4417284,-97.44781429999999
+380,Oklahoma,Forest Grove Public,Garvin,Mccurtain,94,6,,,33.8995427,-94.9143239
+381,Oklahoma,Frontier Elementary,Edmond,Oklahoma,94,2,,,35.6775793,-97.5482779
+382,Oklahoma,Garfield Elementary,Ponca City,Kay,94,3,,,36.6982528,-97.0762292
+383,Oklahoma,Green Pastures Elementary,Spencer,Oklahoma,94,0,,,35.5155186,-97.35275779999999
+384,Oklahoma,Heritage Trails Elementary,Moore,Cleveland,94,1,,,35.3220439,-97.4612095
+385,Oklahoma,Hinton Elementary,Hinton,Caddo,94,3,,,35.4743971,-98.35547679999999
+386,Oklahoma,Holmes Park Elementary,Sapulpa,Creek,94,6,,,35.9999975,-96.0955494
+387,Oklahoma,Hulbert Elementary,Hulbert,Cherokee,94,3,,,35.93096000000001,-95.1457326
+388,Oklahoma,Katherine I Daily Elementary,Noble,Cleveland,94,3,,,35.1360867,-97.3927284
+389,Oklahoma,Keys Elementary,Park Hill,Cherokee,94,4,,,35.7972017,-94.96301450000001
+390,Oklahoma,Locust Grove Early Learning Center,Locust Grove,Mayes,94,4,,,36.20727249999999,-95.1601469
+391,Oklahoma,Maysville Schools,Maysville,Garvin,94,6,,,34.8217071,-97.40977040000001
+392,Oklahoma,Midwest City Elementary,Midwest City,Oklahoma,94,3,,,35.4431805,-97.3900008
+393,Oklahoma,Mustang Lakehoma Elementary,Mustang,Canadian,94,6,,,35.3899216,-97.7591569
+394,Oklahoma,Mustang Trails Elementary,Yukon,Canadian,94,0,,,35.4506868,-97.73914959999999
+395,Oklahoma,Nance Elementary,Clinton,Custer,94,1,,,35.511749,-98.973801
+396,Oklahoma,Newcastle Ecc,Newcastle,Mcclain,94,4,,,35.2498335,-97.5968398
+397,Oklahoma,Parkland Elementary,Yukon,Canadian,94,6,,,35.4857873,-97.7417497
+398,Oklahoma,Perry Lower Elementary,Perry,Noble,94,0,,,36.2964908,-97.3017508
+399,Oklahoma,Pioneer Park,Lawton,Comanche,94,4,,,34.638565,-98.37988039999999
+400,Oklahoma,Plainview Primary Elementary,Ardmore,Carter,94,5,,,34.1572727,-97.17789169999999
+401,Oklahoma,Plaza Towers,Moore,Cleveland,94,6,,,35.3256738,-97.50565069999999
+402,Oklahoma,Porum Elementary,Porum,Muskogee,94,0,,,35.3607204,-95.26766289999999
+403,Oklahoma,Pretty Water Elementary,Sapulpa,Creek,94,3,,,36.0474705,-96.162807
+404,Oklahoma,Putnam Heights,Oklahoma City,Oklahoma,94,6,,,35.5087549,-97.53623259999999
+405,Oklahoma,Schwartz Elementary,Oklahoma City,Oklahoma,94,4,,,35.36387,-97.3168922
+406,Oklahoma,Sequoyah Elem,Oklahoma City,Oklahoma,94,6,,,35.5064942,-97.5549638
+407,Oklahoma,Smithville Elementary,Smithville,Mccurtain,94,6,,,34.468058,-94.6451961
+408,Oklahoma,St. John Nepomuk Catholic,Yukon,Canadian,94,0,,,35.502762,-97.76125599999999
+409,Oklahoma,Tinker Elementary,Oklahoma City,Oklahoma,94,3,,,35.4198443,-97.4177031
+410,Oklahoma,Turkey Ford Elem.,Wyandotte,Ottawa,94,0,,,36.6690816,-94.67930129999999
+411,Oklahoma,Turner Elementary,Burneyville,Love,94,3,,,33.9398204,-97.3187063
+412,Oklahoma,Twin Hills Public,Okmulgee,Okmulgee,94,0,,,35.7498943,-95.8375118
+413,Oklahoma,Union Elementary,Ponca City,Kay,94,0,,,36.734582,-97.083412
+414,Oklahoma,Wheeler Elementary,Oklahoma City,Oklahoma,94,0,,,35.4402383,-97.50307199999999
+415,Oklahoma,Wilson Elementary,Oklahoma City,Oklahoma,94,6,,,35.491753,-97.5217206
+416,Oklahoma,Ada Early Childhood,Ada,Pontotoc,93,1,,,34.7528788,-96.6866398
+417,Oklahoma,Apple Creek Elementary,Moore,Cleveland,93,4,,,35.3265155,-97.47025529999999
+418,Oklahoma,Art Goad Elementary,Chelsea,Rogers,93,5,,,36.5415719,-95.4373054
+419,Oklahoma,Aspen Creek Elementary,Broken Arrow,Tulsa,93,4,,,36.003626,-95.82204399999999
+420,Oklahoma,Big Pasture Elementary,Randlett,Cotton,93,0,,,34.179814,-98.469777
+421,Oklahoma,Bixby Northeast Elementary,Broken Arrow,Tulsa,93,4,,,35.9747676,-95.8432674
+422,Oklahoma,Burroughs Elementary,Tulsa,Tulsa,93,0,,,36.1833259,-95.9952084
+423,Oklahoma,Canton Elementary,Canton,Blaine,93,4,,,36.0483356,-98.5867949
+424,Oklahoma,Capitol Hill Elementary,Oklahoma City,Oklahoma,93,0,,,35.4378318,-97.5166024
+425,Oklahoma,Carnegie Elementary,Tulsa,Tulsa,93,2,,,36.0831656,-95.92880129999999
+426,Oklahoma,Cheyenne Elementary,Cheyenne,Roger Mills,93,0,,,35.6098311,-99.66954899999999
+427,Oklahoma,Copan Elementary,Copan,Washington,93,0,,,36.8994291,-95.9197421
+428,Oklahoma,Country Lane Primary Elementary,Broken Arrow,Tulsa,93,6,,,36.0887537,-95.7895691
+429,Oklahoma,Dickson Elementary,Ardmore,Carter,93,2,,,34.1895997,-96.9831985
+430,Oklahoma,Dual Language Academy,Tulsa,Tulsa,93,2,,,36.1935633,-95.9623415
+431,Oklahoma,Frontier Elementary,Red Rock,Noble,93,4,,,36.4620576,-97.1596124
+432,Oklahoma,Heritage Elementary,EDMOND,Oklahoma,93,4,,,35.70983,-97.47374359999999
+433,Oklahoma,Hillcrest Elementary,Oklahoma City,Oklahoma,93,1,,,35.4009493,-97.56160229999999
+434,Oklahoma,Jarman Elementary,Tulsa,Tulsa,93,4,,,36.0504547,-95.8761188
+435,Oklahoma,Jones Elementary,Jones,Oklahoma,93,7,,,35.558886,-97.299632
+436,Oklahoma,Justus-Tiawah,Claremore,Rogers,93,0,,,36.2606318,-95.560289
+437,Oklahoma,Kendall-Whittier Elementary,Tulsa,Tulsa,93,1,,,36.1536919,-95.9537338
+438,Oklahoma,Lefore Elementary,Leflore,Le Flore,93,0,,,34.8954605,-94.9789278
+439,Oklahoma,Lincoln Christian,Tulsa,Tulsa,93,7,,,36.1679303,-95.83030409999999
+440,Oklahoma,Lindsay Elementary,Lindsay,Garvin,93,3,,,34.8333605,-97.6129043
+441,Oklahoma,Lomega Elementary,Loyal,Kingfisher,93,7,,,35.9734848,-98.11631080000001
+442,Oklahoma,Mayo Demonstration Elementary,Tulsa,Tulsa,93,5,,,36.1465061,-95.95109959999999
+443,Oklahoma,Metro Christian Academy,Tulsa,Tulsa,93,7,,,36.0695708,-95.96723039999999
+444,Oklahoma,Morrison Elementary,Morrison,Noble,93,0,,,36.2996133,-97.00673959999999
+445,Oklahoma,Mustang Valley Elementary,Oklahoma City,Canadian,93,6,,,35.4343067,-97.6906929
+446,Oklahoma,Myers Elementary,Yukon,Canadian,93,4,,,35.4942289,-97.74515029999999
+447,Oklahoma,Northern Hills Elementary,Edmond,Oklahoma,93,6,,,35.661637,-97.46726380000001
+448,Oklahoma,Overholser Elementary,Bethany,Oklahoma,93,2,,,35.5072137,-97.65243740000001
+449,Oklahoma,Prague Early Childhood Center,Prague,Lincoln,93,2,,,35.4715983,-96.683227
+450,Oklahoma,Ravia,Ravia,Johnston,93,7,,,34.2445276,-96.75705169999999
+451,Oklahoma,Russell Dougherty Elementary,Edmond,Oklahoma,93,7,,,35.6555556,-97.47868210000001
+452,Oklahoma,Sacred Heart School Okc,Oklahoma City,Oklahoma,93,7,,,35.437622,-97.52484480000001
+453,Oklahoma,Sadler Arts Academy,Muskogee,Muskogee,93,5,,,35.7589175,-95.3687993
+454,Oklahoma,Telstar Elementary,Oklahoma City,Oklahoma,93,5,,,35.4862465,-97.3604362
+455,Oklahoma,Thackerville Elementary,Thackerville,Love,93,7,,,33.7956947,-97.14049370000001
+456,Oklahoma,Thomas Elementary,Thomas,Custer,93,0,,,35.7523377,-98.7475315
+457,Oklahoma,Van Buren Elementary,Oklahoma City,Oklahoma,93,2,,,35.4243267,-97.56204849999999
+458,Oklahoma,Washington Elementary,Norman,Cleveland,93,7,,,35.214733,-97.371805
+459,Oklahoma,Washington Elementary,Miami,Ottawa,93,2,,,36.897395,-94.874409
+460,Oklahoma,Washington Irving Elementary,Edmond,Oklahoma,93,5,,,35.6559637,-97.5323899
+461,Oklahoma,Whitesboro Elementary,Whitesboro,Le Flore,93,7,,,34.6925715,-94.8866449
+462,Oklahoma,Windsor Hills,Oklahoma City,Oklahoma,93,1,,,35.5024146,-97.6046446
+463,Oklahoma,Woodward EC Center,Woodward,Woodward,93,5,,,36.409073,-99.4258229
+464,Oklahoma,Zaneis Ps,Wilson,Carter,93,4,,,34.1724657,-97.50000349999999
+465,Oklahoma,Adams Elementary,Norman,Cleveland,92,6,,,35.2281201,-97.4569135
+466,Oklahoma,Adelaide Lee Elementary,Oklahoma City,Oklahoma,92,0,,,35.434868,-97.5207355
+467,Oklahoma,Berryhill South Elementary,Tulsa,Tulsa,92,2,,,36.1182276,-96.06415679999999
+468,Oklahoma,Betty L. Smith Ecc,Seminole,Seminole,92,1,,,35.2263981,-96.6774513
+469,Oklahoma,Cesar Chavez Elementary,Oklahoma City,Oklahoma,92,0,,,35.4276176,-97.5014224
+470,Oklahoma,Cordell Elementary,Cordell,Washita,92,8,,,35.2957292,-98.9805337
+471,Oklahoma,Crossings Christian,Oklahoma City,Oklahoma,92,6,,,35.6164506,-97.58216589999999
+472,Oklahoma,Grimes Elementary,Tulsa,Tulsa,92,8,,,36.08311320000001,-95.9412187
+473,Oklahoma,Hawthorne Elementary,Tulsa,Tulsa,92,6,,,36.2026644,-95.97677399999999
+474,Oklahoma,Helen Paul Learning Center,Catoosa,Rogers,92,5,,,36.1840486,-95.7472828
+475,Oklahoma,Houchin Elementary,Moore,Cleveland,92,1,,,35.36724410000001,-97.50685399999999
+476,Oklahoma,Howe Elementary,Howe,Le Flore,92,6,,,34.95429439999999,-94.6367278
+477,Oklahoma,Inola Elementary,Inola,Rogers,92,4,,,36.1551167,-95.515435
+478,Oklahoma,Liberty Public,MULDROW,Sequoyah,92,4,,,35.4777508,-94.5405056
+479,Oklahoma,Lone Grove Primary,Lone Grove,Carter,92,2,,,34.172443,-97.262002
+480,Oklahoma,Lone Star,Sapulpa,Creek,92,5,,,35.9611231,-96.11648009999999
+481,Oklahoma,Macarthur Elementary,Tulsa,Tulsa,92,3,,,36.1302636,-95.89632429999999
+482,Oklahoma,Middleberg,Blanchard,Grady,92,8,,,35.106111,-97.73472199999999
+483,Oklahoma,Mill Creek Elementary,Mill Creek,Johnston,92,0,,,34.3983969,-96.8265772
+484,Oklahoma,Oakridge Elementary,Oklahoma City,Oklahoma,92,0,,,35.4226311,-97.4520157
+485,Oklahoma,Olustee-Eldorado Elementary,Olustee,Jackson,92,0,,,34.5467954,-99.4182943
+486,Oklahoma,Skelly Elementary,Tulsa,Tulsa,92,1,,,36.11996070000001,-95.875816
+487,Oklahoma,Sunset Elementary,Edmond,Oklahoma,92,2,,,35.6471684,-97.4890121
+488,Oklahoma,Welch Elementary,Welch,Craig,92,4,,,36.8704408,-95.0968024
+489,Oklahoma,Will Rogers Elementary,Edmond,Oklahoma,92,6,,,35.6466619,-97.4646755
+490,Oklahoma,Wolf Creek Elementary,Broken Arrow,Tulsa,92,3,,,36.019028,-95.8255
+491,Oklahoma,Achille Public,Achille,Bryan,91,3,,,33.8358717,-96.39325980000001
+492,Oklahoma,Allen Bowden,Tulsa,Creek,91,3,,,36.0539129,-96.0996978
+493,Oklahoma,Barnsdall Elementary,Barnsdall,Osage,91,6,,,36.5587029,-96.1685456
+494,Oklahoma,Bearden Public,Okemah,Okfuskee,91,0,,,35.348722,-96.3877401
+495,Oklahoma,Benjamin Franklin Stem Academy,Muskogee,Muskogee,91,9,,,35.7536114,-95.43888489999999
+496,Oklahoma,Briggs Public,Tahlequah,Cherokee,91,4,,,35.92329160000001,-94.8732265
+497,Oklahoma,Celia Clinton Elementary,Tulsa,Tulsa,91,1,,,36.1800284,-95.94087739999999
+498,Oklahoma,Central Elementary,Moore,Cleveland,91,7,,,35.3410713,-97.48851959999999
+499,Oklahoma,Chisholm Elementary,Enid,Garfield,91,1,,,36.4370853,-97.86704379999999
+500,Oklahoma,Cleora Public,Afton,Delaware,91,0,,,36.59043940000001,-94.9653484
+501,Oklahoma,Colcord Elementary,Colcord,Delaware,91,0,,,36.2608676,-94.69431639999999
+502,Oklahoma,Creekwood Elementary,Broken Arrow,Tulsa,91,5,,,36.0745679,-95.774104
+503,Oklahoma,Dibble Elementary,BLANCHARD,Mcclain,91,2,,,35.031771,-97.6291301
+504,Oklahoma,Earl Harris Elementary,Bethany,Oklahoma,91,8,,,35.5163798,-97.6311114
+505,Oklahoma,Eastlake Elementary,Oklahoma City,Cleveland,91,4,,,35.3352177,-97.5392577
+506,Oklahoma,Eufaula Elementary,Eufaula,Mcintosh,91,7,,,35.2889211,-95.6070304
+507,Oklahoma,Grove Early Childhood Center,Grove,Delaware,91,3,,,36.5873018,-94.7821621
+508,Oklahoma,Healdton Elementary,Healdton,Carter,91,9,,,34.229365,-97.49313169999999
+509,Oklahoma,Hennessey Elementary,Hennessey,Kingfisher,91,0,,,36.1099462,-97.8911248
+510,Oklahoma,Indiahoma Public,Indiahoma,Comanche,91,9,,,34.6195102,-98.75433629999999
+511,Oklahoma,Indianola Elementary,Indianola,Pittsburg,91,0,,,35.1592421,-95.7725565
+512,Oklahoma,Kennedy Elementary,Norman,Cleveland,91,2,,,35.2106534,-97.4187863
+513,Oklahoma,Liberty Elementary,Mounds,Tulsa,91,9,,,35.872101,-95.95480599999999
+514,Oklahoma,Mustang Creek Elementary,Yukon,Canadian,91,4,,,35.450715,-97.71269799999999
+515,Oklahoma,New Lima Elementary,Wewoka,Seminole,91,0,,,35.1716506,-96.5922049
+516,Oklahoma,Northridge Elementary,Oklahoma City,Oklahoma,91,7,,,35.5574308,-97.6670254
+517,Oklahoma,Parkview Elementary,Oklahoma City,Oklahoma,91,1,,,35.4090284,-97.4294978
+518,Oklahoma,Perkins-Tryon Elementary,PERKINS,Payne,91,3,,,35.9770201,-97.0202717
+519,Oklahoma,Pocola Elementary,Pocola,Le Flore,91,4,,,35.2574725,-94.46545920000001
+520,Oklahoma,Porter Elementary,Porter,Wagoner,91,0,,,35.8696331,-95.52215059999999
+521,Oklahoma,Preston Public,Preston,Okmulgee,91,2,,,35.711213,-95.9959358
+522,Oklahoma,Primary South Elementary,Idabel,Mccurtain,91,0,,,33.8857685,-94.8133555
+523,Oklahoma,Ridgecrest Elementary,Midwest City,Oklahoma,91,5,,,35.4710411,-97.3986321
+524,Oklahoma,Robertson Elementary,Tulsa,Tulsa,91,0,,,36.0926364,-96.02343359999999
+525,Oklahoma,Silo Elementary,Durant,Bryan,91,1,,,34.03846860000001,-96.47636419999999
+526,Oklahoma,Singleton Elementary,Arkoma,Le Flore,91,0,,,35.3484944,-94.4397509
+527,Oklahoma,Sunset Elementary,Anadarko,Caddo,91,0,,,35.0700304,-98.2538778
+528,Oklahoma,Unity Learning Academy,Tulsa,Tulsa,91,0,,,36.1847168,-95.9307688
+529,Oklahoma,Wright Elementary,Tulsa,Tulsa,91,0,,,36.097682,-95.978251
+530,Oklahoma,Arrowhead Elementary,Broken Arrow,Tulsa,90,0,,,36.0661023,-95.803687
+531,Oklahoma,Blackwell Elementary,Blackwell,Kay,90,0,,,36.7958135,-97.3086099
+532,Oklahoma,Burlington Public,Burlington,Alfalfa,90,0,,,36.903049,-98.42299700000001
+533,Oklahoma,Catalayah Elementary,Claremore,Rogers,90,6,,,36.27893299999999,-95.647463
+534,Oklahoma,Cleveland Elementary,Oklahoma City,Oklahoma,90,9,,,35.4934489,-97.5620026
+535,Oklahoma,Crowder Elementary,CROWDER,Pittsburg,90,0,,,35.12369,-95.67031
+536,Oklahoma,Deborah Brown Community,Tulsa,Tulsa,90,2,,,36.1570332,-95.98959909999999
+537,Oklahoma,Glencoe Elementary,Glencoe,Payne,90,0,,,36.2306004,-96.92542069999999
+538,Oklahoma,John Glenn Elementary,Oklahoma City,Oklahoma,90,0,,,35.3998159,-97.573768
+539,Oklahoma,Key Elementary,Tulsa,Tulsa,90,0,,,36.0814772,-95.9120739
+540,Oklahoma,Krebs Public,Krebs,Pittsburg,90,0,,,34.9271787,-95.721111
+541,Oklahoma,Lake Park Elementary,Bethany,Oklahoma,90,2,,,35.5011531,-97.66028419999999
+542,Oklahoma,Liberty Elementary,Broken Arrow,Tulsa,90,1,,,36.1002075,-95.7452265
+543,Oklahoma,Lindbergh Elementary,Tulsa,Tulsa,90,2,,,36.1489043,-95.87635279999999
+544,Oklahoma,Lone Wolf Elementary,Lone Wolf,Kiowa,90,0,,,34.9874513,-99.248059
+545,Oklahoma,Lukfata Public,Broken Bow,Mccurtain,90,7,,,34.0194122,-94.7837895
+546,Oklahoma,Lynn Wood Elementary,Broken Arrow,Tulsa,90,6,,,36.038586,-95.8076889
+547,Oklahoma,Mccurtain Elementary,McCurtain,Haskell,90,5,,,35.1520842,-94.9738119
+548,Oklahoma,Orvis Risner Elementary,Edmond,Oklahoma,90,8,,,35.627837,-97.47577249999999
+549,Oklahoma,Prather Brown Center,Frederick,Tillman,90,1,,,34.3883583,-99.0133029
+550,Oklahoma,Skyview Elementary,Yukon,Canadian,90,2,,,35.5013515,-97.7239464
+551,Oklahoma,Wanette Elementary,Wanette,Pottawatomie,90,0,,,34.9658926,-97.0285167
+552,Oklahoma,Webbers Falls Elementary,Webbers Falls,Muskogee,90,0,,,35.5087558,-95.1293245
+553,Oklahoma,Whitebead Public,Pauls Valley,Garvin,90,6,,,34.7612011,-97.3007643
+554,Oklahoma,Wilburton Elementary,Wilburton,Latimer,90,0,,,34.9222306,-95.3144573
+555,Oklahoma,Woodland Elementary,Fairfax,Osage,90,0,,,36.5721244,-96.7117258
+556,Oklahoma,Woodlands Elementary,Ponca City,Kay,90,2,,,36.7210279,-97.05780399999999
+557,Oklahoma,Wright City Elementary,Wright City,Mccurtain,90,5,,,34.0650939,-95.0055702
+558,Oklahoma,Angie Debo Elementary,Edmond,Oklahoma,89,6,,,35.6335105,-97.564852
+559,Oklahoma,Bernita Hughes Elementary,Adair,Mayes,89,4,,,36.434057,-95.2677937
+560,Oklahoma,Bixby North Elementary,Bixby,Tulsa,89,9,,,35.9906048,-95.8977623
+561,Oklahoma,Bluejacket Elementary,Bluejacket,Craig,89,0,,,36.8009,-95.1104
+562,Oklahoma,Boise City Elementary,Boise City,Cimarron,89,0,,,36.7285802,-102.5050903
+563,Oklahoma,Briarwood Elementary,Oklahoma City,Cleveland,89,5,,,35.321292,-97.52019229999999
+564,Oklahoma,Central Elementary,Coweta,Wagoner,89,8,,,35.9528854,-95.65006729999999
+565,Oklahoma,Claremont Elementary,Claremore,Rogers,89,3,,,36.313707,-95.604419
+566,Oklahoma,Comanche Elementary,Comanche,Stephens,89,2,,,34.3655895,-97.9743996
+567,Oklahoma,Eugene Field Elementary,Oklahoma City,Oklahoma,89,0,,,35.4842071,-97.5326665
+568,Oklahoma,Fargo-Gage Elementary,Fargo,Ellis,89,0,,,36.371418,-99.623508
+569,Oklahoma,Fox Elementary,Fox,Carter,89,11,,,34.3625409,-97.4912413
+570,Oklahoma,Grandview Elementary,Tahlequah,Cherokee,89,2,,,35.9519143,-94.9935508
+571,Oklahoma,Hoover Elementary,Bartlesville,Washington,89,2,,,36.7484792,-95.9160607
+572,Oklahoma,Kerr Elementary,Tulsa,Tulsa,89,1,,,36.1572406,-95.8479752
+573,Oklahoma,Lexington Elementary,Lexington,Cleveland,89,7,,,35.0191057,-97.3286644
+574,Oklahoma,Marshall T. Moore Elementary,Broken Arrow,Tulsa,89,8,,,36.05821,-95.847577
+575,Oklahoma,Mckinley Elementary,Tulsa,Tulsa,89,2,,,36.168435,-95.9017472
+576,Oklahoma,Mountain View Gotebo Elementary,Mountain View,Kiowa,89,0,,,35.0973092,-98.7435065
+577,Oklahoma,Newkirk Elementary,Newkirk,Kay,89,3,,,36.8753378,-97.0631167
+578,Oklahoma,Robin Hill,Norman,Cleveland,89,3,,,35.2767046,-97.3702262
+579,Oklahoma,Seiling Elementary,Seiling,Dewey,89,2,,,36.1471992,-98.92046270000002
+580,Oklahoma,Tulsa Legacy Charter,Tulsa,Tulsa,89,2,,,36.2453849,-95.9941508
+581,Oklahoma,Warner Elementary,Warner,Muskogee,89,0,,,35.4966485,-95.30464429999999
+582,Oklahoma,Waukomis Elementary,Waukomis,Garfield,89,11,,,36.2765406,-97.89946479999999
+583,Oklahoma,Afton Elementary,Afton,Ottawa,88,6,,,36.6888142,-94.9585484
+584,Oklahoma,Bethel Elementary,Shawnee,Pottawatomie,88,2,,,35.3187406,-97.0127014
+585,Oklahoma,Broadmoore Elementary,Moore,Cleveland,88,5,,,35.3061686,-97.4709668
+586,Oklahoma,Central Elementary,Wynnewood,Garvin,88,2,,,34.6414408,-97.1675544
+587,Oklahoma,Central Elementary,Sallisaw,Sequoyah,88,0,,,35.4485339,-94.7075001
+588,Oklahoma,Davis Elementary,Davis,Murray,88,2,,,34.5002062,-97.11524059999999
+589,Oklahoma,Grove,Shawnee,Pottawatomie,88,6,,,35.363086,-96.89568039999999
+590,Oklahoma,Hoover Elementary,Tulsa,Tulsa,88,7,,,36.1288525,-95.91715649999999
+591,Oklahoma,Jenks Northwest Elementary,Tulsa,Tulsa,88,3,,,36.0524423,-95.9929568
+592,Oklahoma,John Rex Charter Elementary,Oklahoma City,Oklahoma,88,7,,,35.4661654,-97.52160599999999
+593,Oklahoma,Kansas Elementary,Kansas,Delaware,88,4,,,36.2081158,-94.7995361
+594,Oklahoma,Kiefer Elementary,Kiefer,Creek,88,4,,,35.9450361,-96.0648554
+595,Oklahoma,Marlow Elementary,Marlow,Stephens,88,1,,,34.6439188,-97.9628929
+596,Oklahoma,Mills Elementary,Owasso,Tulsa,88,5,,,36.2725273,-95.8348778
+597,Oklahoma,North Highland Elementary,Oklahoma City,Oklahoma,88,0,,,35.5561021,-97.5152518
+598,Oklahoma,Roosa Elementary,Claremore,Rogers,88,2,,,36.328072,-95.598294
+599,Oklahoma,Sayre Elementary,Sayre,Beckham,88,5,,,35.31304830000001,-99.6341588
+600,Oklahoma,Timber Ridge Elementary,Broken Arrow,Tulsa,88,3,,,36.0666282,-95.7471351
+601,Oklahoma,Turpin Elementary,Turpin,Beaver,88,0,,,36.8650206,-100.8816221
+602,Oklahoma,Walters Elementary,Walters,Cotton,88,0,,,34.355359,-98.3078628
+603,Oklahoma,Cashion Elementary,Cashion,Kingfisher,87,7,,,35.8011127,-97.67638389999999
+604,Oklahoma,East Side Elementary,Chandler,Lincoln,87,2,,,35.706979,-96.8758976
+605,Oklahoma,Edison Elementary,Mangum,Greer,87,1,,,34.8825503,-99.50834499999999
+606,Oklahoma,Greenvale Elementary,Oklahoma City,Oklahoma,87,6,,,35.4769286,-97.6457411
+607,Oklahoma,Hodgen Public,Hodgen,Le Flore,87,0,,,34.8411162,-94.6320703
+608,Oklahoma,Ketchum Elementary,Ketchum,Craig,87,5,,,36.5271009,-95.02368899999999
+609,Oklahoma,Kirkland Early Childhood Center,Oklahoma City,Oklahoma,87,2,,,35.53240419999999,-97.57414039999999
+610,Oklahoma,Luther Elementary,Luther,Oklahoma,87,8,,,35.6540528,-97.1912005
+611,Oklahoma,Mustang Elementary,Mustang,Canadian,87,6,,,35.3887283,-97.72270689999999
+612,Oklahoma,Peckham,Newkirk,Kay,87,13,,,36.8852714,-97.1768498
+613,Oklahoma,Red Oak Elementary,Oklahoma City,Cleveland,87,6,,,35.3553248,-97.546735
+614,Oklahoma,Roosevelt Elementary,Miami,Ottawa,87,4,,,36.877253,-94.8704171
+615,Oklahoma,Thelma Parks Elementary,Oklahoma City,Oklahoma,87,0,,,35.5013423,-97.484545
+616,Oklahoma,Amber-Pocasset Elementary,Amber,Grady,86,0,,,35.1595,-97.87505689999999
+617,Oklahoma,Arnett Elementary,Arnett,Ellis,86,14,,,36.1386765,-99.7724076
+618,Oklahoma,Buffalo Elementary,Buffalo,Harper,86,0,,,36.8296252,-99.6276062
+619,Oklahoma,Calumet Elementary,Calumet,Canadian,86,0,,,35.6017298,-98.1213748
+620,Oklahoma,Charles Haskell Elementary,Edmond,Oklahoma,86,7,,,35.6269214,-97.5425691
+621,Oklahoma,Dierks Elementary,Broken Bow,Mccurtain,86,1,,,34.0214363,-94.7429933
+622,Oklahoma,Eagletown Public,Eagletown,Mccurtain,86,0,,,34.0419651,-94.5748995
+623,Oklahoma,Ecdc Bunche,Tulsa,Tulsa,86,6,,,36.2314362,-95.99421339999999
+624,Oklahoma,Emerson Elementary,Coalgate,Coal,86,3,,,34.533142,-96.2204651
+625,Oklahoma,Empire Elementary,Duncan,Stephens,86,5,,,34.4633347,-98.0546315
+626,Oklahoma,Grissom Elementary,Tulsa,Tulsa,86,3,,,36.0665758,-95.8961214
+627,Oklahoma,Haywood Public,McAlester,Pittsburg,86,7,,,34.8852796,-95.9471616
+628,Oklahoma,Liberty Elementary,Ponca City,Kay,86,6,,,36.7169736,-97.0888973
+629,Oklahoma,M.L. King Jr. Elementary,Oklahoma City,Oklahoma,86,0,,,35.4952877,-97.48407999999999
+630,Oklahoma,Marshall Elementary,Tulsa,Tulsa,86,0,,,36.0816792,-95.97689629999999
+631,Oklahoma,Mooreland Elementary,Mooreland,Woodward,86,7,,,36.4430434,-99.2067151
+632,Oklahoma,Pat Henry,Lawton,Comanche,86,0,,,34.6337769,-98.41057909999999
+633,Oklahoma,Piedmont Elementary,Piedmont,Canadian,86,3,,,35.6478142,-97.74590219999999
+634,Oklahoma,Rock Creek Elementary,Durant,Bryan,86,0,,,33.9994129,-96.22876989999999
+635,Oklahoma,Springdale Elementary,Tulsa,Tulsa,86,0,,,36.1761349,-95.95549290000001
+636,Oklahoma,Summit Christian Academy,Broken Arrow,Tulsa,86,6,,,36.0525426,-95.7886163
+637,Oklahoma,Timber Creek Elementary,Moore,Cleveland,86,7,,,35.3043547,-97.44222479999999
+638,Oklahoma,Vanoss Elementary,Ada,Pontotoc,86,4,,,34.75989089999999,-96.8684782
+639,Oklahoma,Braggs Public Schools,Braggs,Muskogee,85,8,,,35.667357,-95.19802299999999
+640,Oklahoma,Brushy Public,Sallisaw,Sequoyah,85,13,,,35.5522935,-94.7434196
+641,Oklahoma,Edgemere Elementary,Oklahoma City,Oklahoma,85,0,,,35.5019433,-97.52054659999999
+642,Oklahoma,Emerson Elementary,Tulsa,Tulsa,85,2,,,36.1674405,-95.99349459999999
+643,Oklahoma,Highland Park Elementary,Broken Arrow,Tulsa,85,3,,,36.037653,-95.70079369999999
+644,Oklahoma,Mark Twain Elementary,Tulsa,Tulsa,85,3,,,36.1492188,-96.0394388
+645,Oklahoma,Meeker Elementary,Meeker,Lincoln,85,4,,,35.4995903,-96.90174119999999
+646,Oklahoma,Rhoades Elementary,Broken Arrow,Tulsa,85,10,,,36.0585116,-95.7868494
+647,Oklahoma,Riverwood Elementary,Mustang,Canadian,85,2,,,35.4197503,-97.734605
+648,Oklahoma,Sasakwa Elementary,Sasakwa,Seminole,85,0,,,34.9473704,-96.52557259999999
+649,Oklahoma,Spencer Elementary,Spencer,Oklahoma,85,3,,,35.5215631,-97.3725541
+650,Oklahoma,Stone Canyon Elementary,Owasso,Tulsa,85,5,,,36.2582927,-95.7716696
+651,Oklahoma,Stratford Elementary,Stratford,Garvin,85,4,,,34.7981518,-96.9594479
+652,Oklahoma,West Nichols Hills Elementary,Oklahoma City,Oklahoma,85,11,,,35.5398269,-97.55936679999999
+653,Oklahoma,Bowlegs Public,Bowlegs,Seminole,84,0,,,35.1474187,-96.6675133
+654,Oklahoma,Central High Elementary,Marlow,Stephens,84,4,,,34.6084881,-98.1069424
+655,Oklahoma,Coyle Public Schools,Coyle,Logan,84,0,,,35.9513752,-97.2356167
+656,Oklahoma,Eliot Elementary,Tulsa,Tulsa,84,9,,,36.111213,-95.97177459999999
+657,Oklahoma,Keystone Public,Sand Springs,Tulsa,84,6,,,36.12911649999999,-96.2572943
+658,Oklahoma,Kingsgate Elementary,Oklahoma City,Cleveland,84,3,,,35.3693044,-97.54166629999999
+659,Oklahoma,Konawa Elementary,Konawa,Seminole,84,0,,,34.956885,-96.7620232
+660,Oklahoma,Marshall Elementary,Checotah,Mcintosh,84,2,,,35.4603775,-95.5294215
+661,Oklahoma,Minco Elementary,Minco,Grady,84,3,,,35.3109598,-97.9497292
+662,Oklahoma,Peters Elementary,Broken Arrow,Tulsa,84,7,,,36.0548381,-95.8265247
+663,Oklahoma,Sky Ranch Elementary,Oklahoma City,Cleveland,84,3,,,35.3722598,-97.5310705
+664,Oklahoma,Spring Creek Elementary,Broken Arrow,Tulsa,84,3,,,35.986361,-95.78726590000001
+665,Oklahoma,Strother Elementary,Seminole,Seminole,84,0,,,35.3632734,-96.5857659
+666,Oklahoma,Barnes Elementary,Owasso,Tulsa,83,4,,,36.2653365,-95.8869981
+667,Oklahoma,Clinton West Elementary,Tulsa,Tulsa,83,0,,,36.1037745,-96.01828599999999
+668,Oklahoma,Cottonwood Public,Coalgate,Coal,83,9,,,34.5557461,-96.2001148
+669,Oklahoma,Earlsboro Elementary,Earlsboro,Pottawatomie,83,0,,,35.268129,-96.79890929999999
+670,Oklahoma,Haileyville,Haileyville,Pittsburg,83,0,,,34.85454259999999,-95.5822044
+671,Oklahoma,Jackson Elementary,Norman,Cleveland,83,0,,,35.2133923,-97.4640847
+672,Oklahoma,Oologah Lower Elementary,Oologah,Rogers,83,2,,,36.4559247,-95.7118553
+673,Oklahoma,Prue Elementary,Prue,Osage,83,0,,,36.2530661,-96.2677269
+674,Oklahoma,Rosa Parks Elementary,Tulsa,Tulsa,83,1,,,36.0966682,-95.8223731
+675,Oklahoma,Springer Public Schools,Springer,Carter,83,0,,,34.312455,-97.141865
+676,Oklahoma,Tushka Public,Atoka,Atoka,83,3,,,34.3173504,-96.17349229999999
+677,Oklahoma,Wayman Tisdale Fine Arts Academy,Tulsa,Tulsa,83,0,,,36.1573759,-96.03984489999999
+678,Oklahoma,Whittier Elementary,Lawton,Comanche,83,0,,,34.621862,-98.411211
+679,Oklahoma,Banner Public,El Reno,Canadian,82,18,,,35.494085,-97.8493134
+680,Oklahoma,Centennial Elementary,Edmond,Oklahoma,82,4,,,35.6995496,-97.44151579999999
+681,Oklahoma,Dale Elementary,Dale,Pottawatomie,82,3,,,35.3873551,-97.0460214
+682,Oklahoma,Elmore City-Pernell Elementary,Elmore City,Garvin,82,0,,,34.6234636,-97.3937402
+683,Oklahoma,Hammon Public Schools,Hammon,Roger Mills,82,0,,,35.6307804,-99.3806067
+684,Oklahoma,Lakeview Elementary,Norman,Cleveland,82,18,,,35.25889,-97.283624
+685,Oklahoma,Limestone Elementary,Sand Springs,Tulsa,82,0,,,36.1034199,-96.1219371
+686,Oklahoma,Moyers Public,Moyers,Pushmataha,82,9,,,34.3263051,-95.6552493
+687,Oklahoma,Northwood Elementary,Piedmont,Canadian,82,3,,,35.6138095,-97.76159439999999
+688,Oklahoma,Oklahoma Connections Academy,Bartlesville,Washington,82,12,,,36.7288277,-95.950217
+689,Oklahoma,Pittsburg Elementary,Pittsburg,Pittsburg,82,9,,,34.7135121,-95.8540902
+690,Oklahoma,Victory Christian,Tulsa,Tulsa,82,13,,,36.052822,-95.960291
+691,Oklahoma,Wapanucka Elementary,Wapanucka,Johnston,82,6,,,34.3711688,-96.4244928
+692,Oklahoma,Beggs Elementary,Beggs,Okmulgee,81,3,,,35.7425977,-96.0702731
+693,Oklahoma,Caddo Elementary,Caddo,Bryan,81,3,,,34.1219489,-96.27060259999999
+694,Oklahoma,Eugene Field Elementary,Tulsa,Tulsa,81,0,,,36.1308145,-96.0047233
+695,Oklahoma,Oakdale Ps,Edmond,Oklahoma,81,1,,,35.5809421,-97.4223221
+696,Oklahoma,Sacred Heart Catholic,El Reno,Canadian,81,0,,,35.5319225,-97.9562854
+697,Oklahoma,Washington Elementary,Washington,Mcclain,81,5,,,35.0552536,-97.48452359999999
+698,Oklahoma,Watonga Elementary,Watonga,Blaine,81,3,,,35.8526224,-98.4159698
+699,Oklahoma,Wetumka Elementary,Wetumka,Hughes,81,0,,,35.2341735,-96.23686409999999
+700,Oklahoma,Whitman Elementary,Tulsa,Tulsa,81,0,,,36.2106867,-95.98165039999999
+701,Oklahoma,Central Elementary,Guthrie,Logan,80,0,,,35.8797097,-97.42176649999999
+702,Oklahoma,Clegern Elementary,Edmond,Oklahoma,80,5,,,35.6481525,-97.4766999
+703,Oklahoma,Eisenhower Elementary,Tulsa,Tulsa,80,4,,,36.0835748,-95.94345489999999
+704,Oklahoma,First Lutheran,Ponca City,Kay,80,0,,,36.716113,-97.07902399999999
+705,Oklahoma,Henry Zarrow Elementary,Tulsa,Tulsa,80,4,,,36.1109386,-95.9122991
+706,Oklahoma,Oak Hall Episcopal,Ardmore,Carter,80,7,,,34.2041309,-97.1267785
+707,Oklahoma,Okarche Elementary,Okarche,Kingfisher,80,4,,,35.7278698,-97.9787255
+708,Oklahoma,Oklahoma Virtual Charter Academy Elementary,Midwest City,Oklahoma,80,17,,,35.4535213,-97.3698065
+709,Oklahoma,Stidham Public,Eufaula,Mcintosh,80,0,,,35.1799339,-95.611133
+710,Oklahoma,Wainwright Public,Wainwright,Muskogee,80,7,,,35.6119063,-95.5659886
+711,Oklahoma,All Saints Catholic,Norman,Cleveland,79,0,,,35.2684075,-97.4926636
+712,Oklahoma,Andersen Elementary,Broken Arrow,Tulsa,79,9,,,36.0404484,-95.8414067
+713,Oklahoma,Ida Freeman Elementary,Edmond,Oklahoma,79,5,,,35.6572135,-97.49060999999999
+714,Oklahoma,Jones Elementary,Tulsa,Tulsa,79,0,,,36.139979,-95.89648629999999
+715,Oklahoma,Panama Elementary,Panama,Le Flore,79,0,,,35.1779791,-94.6752068
+716,Oklahoma,Pratt Elementary,Sand Springs,Tulsa,79,2,,,36.1127591,-96.12670639999999
+717,Oklahoma,Richard Kane Elementary,Bartlesville,Washington,79,3,,,36.740068,-95.9692965
+718,Oklahoma,Ryal Public,Henryetta,Mcintosh,79,7,,,35.3474075,-95.96306829999999
+719,Oklahoma,Shady Point Public Schools,Shady Point,Le Flore,79,0,,,35.1315837,-94.6603274
+720,Oklahoma,Stone Ridge Elementary,Yukon,Canadian,79,5,,,35.6082229,-97.695937
+721,Oklahoma,Council Oak Elementary,Tulsa,Tulsa,78,5,,,36.1346251,-95.98365179999999
+722,Oklahoma,Garfield Elementary,Sand Springs,Tulsa,78,3,,,36.1452074,-96.11251159999999
+723,Oklahoma,Quinton Elementary,Quinton,Pittsburg,78,0,,,35.1302745,-95.3682206
+724,Oklahoma,Regent Preparatory School Of Oklahoma,Tulsa,Tulsa,78,22,,,36.0378695,-95.8851847
+725,Oklahoma,Kremlin-Hillsdale Elementary,Kremlin,Garfield,77,0,,,36.544461,-97.8298499
+726,Oklahoma,Gilmour Elementary,Kingfisher,Kingfisher,76,3,,,35.8448442,-97.9387342
+727,Oklahoma,Harmony Ps,Atoka,Atoka,76,0,,,34.317252,-96.07408339999999
+728,Oklahoma,Indian Camp Elementary,Pawhuska,Osage,76,0,,,36.6789803,-96.3231447
+729,Oklahoma,Pioneer Elementary,Chickasha,Grady,76,0,,,34.985873,-98.0215583
+730,Oklahoma,Ripley Elementary,Ripley,Payne,76,8,,,36.0146568,-96.9025315
+731,Oklahoma,Special Care Inc.,Oklahoma City,Oklahoma,76,14,,,35.593485,-97.532646
+732,Oklahoma,Sullivan Village Elementary,Lawton,Comanche,76,1,,,34.6000807,-98.3414439
+733,Oklahoma,Wesleyan Christian,Bartlesville,Washington,76,24,,,36.7258918,-95.9510768
+734,Oklahoma,Winds West Elementary,Oklahoma City,Oklahoma,76,0,,,35.4252547,-97.6606604
+735,Oklahoma,Angus Valley Elementary,Sand Springs,Tulsa,75,3,,,36.0840725,-96.1290082
+736,Oklahoma,Mulhall-Orlando Elementary,Mulhall,Logan,75,0,,,36.0635933,-97.40570059999999
+737,Oklahoma,Sequoyah Elementary,Tulsa,Tulsa,75,3,,,36.1649505,-95.9538274
+738,Oklahoma,Watts Public,Watts,Adair,75,19,,,36.11019599999999,-94.57023810000001
+739,Oklahoma,Central Oak Elementary,Oklahoma City,Oklahoma,74,1,,,35.4515188,-97.4781264
+740,Oklahoma,Maple Public,Calumet,Canadian,74,0,,,35.52847680000001,-98.16774319999999
+741,Oklahoma,Will Rodgers Elementry,Burns Flat,Washita,74,0,,,35.3608671,-99.1706851
+742,Oklahoma,Agra Public,Agra,Lincoln,73,27,,,35.897591,-96.8722452
+743,Oklahoma,Binger-Oney Elementary,Binger,Caddo,73,7,,,35.3057808,-98.3435523
+744,Oklahoma,Charter Oak Elementary,Guthrie,Logan,73,0,,,35.7551125,-97.3635911
+745,Oklahoma,Ellington Elementary,Wagoner,Wagoner,73,1,,,35.9535669,-95.36876559999999
+746,Oklahoma,Messiah Lutheran Church And,Oklahoma City,Oklahoma,73,0,,,35.5319746,-97.5828519
+747,Oklahoma,Harvest Hills Elementary,Oklahoma City,Oklahoma,72,0,,,35.57638439999999,-97.66039149999999
+748,Oklahoma,Hominy Early Childhood Center,Hominy,Osage,72,0,,,36.4228286,-96.3909333
+749,Oklahoma,Oak Grove Public Schools,Cushing,Payne,72,6,,,35.970227,-96.641508
+750,Oklahoma,Sharon-Mutual Elementary,Fort Supply,Woodward,72,0,,,36.2748994,-99.33788969999999
+751,Oklahoma,Ninnekah Elementary,Ninnekah,Grady,71,0,,,34.948985,-97.92432269999999
+752,Oklahoma,Santa Fe South Hills Elementary,Oklahoma City,Oklahoma,71,0,,,35.4268417,-97.5047606
+753,Oklahoma,Anderson Elementary,Tulsa,Tulsa,70,0,,,36.1956286,-95.96413129999999
+754,Oklahoma,Moseley,Colcord,Delaware,70,0,,,36.1892045,-94.6289777
+755,Oklahoma,Northwest Elementary,Coweta,Wagoner,70,3,,,35.9727063,-95.67570719999999
+756,Oklahoma,Penn Elementary,Tulsa,Tulsa,70,0,,,36.2235949,-95.96111959999999
+757,Oklahoma,Undercroft Montessori,Tulsa,Tulsa,70,5,,,36.10983969999999,-95.9117603
+758,Oklahoma,Gore Public Schools,Gore,Sequoyah,69,0,,,35.531551,-95.117397
+759,Oklahoma,Anderson Public,Sand Springs,Osage,68,5,,,36.1734877,-96.1848227
+760,Oklahoma,Fairland Elementary,Fairland,Ottawa,68,2,,,36.7512734,-94.8516572
+761,Oklahoma,Gans Elementary,Gans,Sequoyah,68,3,,,35.3902747,-94.6888464
+762,Oklahoma,Jennings Public,Jennings,Pawnee,68,5,,,36.181671,-96.5687085
+763,Oklahoma,Verdigris Elementary,Claremore,Rogers,68,4,,,36.2350605,-95.6859865
+764,Oklahoma,Bridge Creek Early Childhood Center,Blanchard,Grady,67,6,,,35.23188409999999,-97.71986670000001
+765,Oklahoma,Holy Trinity Lutheran,Edmond,Oklahoma,67,0,,,35.63753,-97.51924299999999
+766,Oklahoma,Norwood,Hulbert,Cherokee,67,0,,,35.8709403,-95.163454
+767,Oklahoma,Ryan Public Schools,Ryan,Jefferson,67,0,,,34.02534360000001,-97.9493212
+768,Oklahoma,Dewar Elementary,Dewar,Okmulgee,66,4,,,35.4585379,-95.93799
+769,Oklahoma,Roland Elementary,Roland,Sequoyah,66,0,,,35.4172265,-94.5162177
+770,Oklahoma,King's Gate Christian,Oklahoma City,Oklahoma,65,13,,,35.5959809,-97.72766709999999
+771,Oklahoma,Coleman Elementary,Coleman,Johnston,64,0,,,34.2721556,-96.42183299999999
+772,Oklahoma,Osage Hills Public,Bartlesville,Osage,64,0,,,36.7335772,-96.0070736
+773,Oklahoma,Peavine,Stilwell,Adair,64,9,,,35.8875426,-94.6387823
+774,Oklahoma,Soper Elementary,Soper,Choctaw,64,0,,,34.0371261,-95.6991448
+775,Oklahoma,Stringtown Elementary,Stringtown,Atoka,64,9,,,34.4659926,-96.05248639999999
+776,Oklahoma,Hydro-Eakly Elem.,Hydro,Caddo,63,0,,,35.551863,-98.57290599999999
+777,Oklahoma,Wyandotte Elementary,Wyandotte,Ottawa,63,0,,,36.7920123,-94.7266836
+778,Oklahoma,Riverside Elementary,El Reno,Canadian,62,0,,,35.5365688,-97.9009068
+779,Oklahoma,Cotteral Elementary,Guthrie,Logan,61,5,,,35.8794021,-97.44939169999999
+780,Oklahoma,Epic One On One Charter,Oklahoma City/Tulsa,Oklahoma/Tulsa,60,7,,,36.1083016,-95.86220519999999
+781,Oklahoma,Muldrow Elementary,Muldrow,Sequoyah,60,3,,,35.4076054,-94.5980688
+782,Oklahoma,St.Eugene Catholic,Oklahoma City,Oklahoma,60,0,,,35.5795002,-97.5575564
+783,Oklahoma,Tenkiller Elementary,Welling,Cherokee,60,4,,,35.7673894,-94.84118319999999
+784,Oklahoma,West Field Elementary,Edmond,Oklahoma,57,2,,,35.6504482,-97.5509591
+785,Oklahoma,Crosby Park,Lawton,Comanche,53,5,,,34.6293994,-98.46761359999999
+786,Oklahoma,Union City Elementary,Union City,Canadian,53,0,,,35.3923626,-97.94215229999999
+787,Oklahoma,Vici Public Schools,Vici,Dewey,52,43,,,36.1476633,-99.3012155
+788,Oklahoma,Crescent Elementary,Crescent,Logan,50,0,,,35.9544287,-97.58919259999999
+789,Oklahoma,Kiowa Elementary,Kiowa,Pittsburg,50,0,,,34.717872,-95.8949947
+790,Oklahoma,Fogarty Elementary,Guthrie,Logan,46,3,,,35.8868697,-97.4237287
+791,Oklahoma,Yale Elementary,Yale,Payne,45,0,,,36.1217929,-96.69508499999999
+792,Oklahoma,Lookeba-Sickles Elementary,Lookeba,Caddo,42,0,,,35.36074610000001,-98.36772069999999
+793,Oklahoma,Arapaho-Butler Elementary,Arapaho,Custer,35,0,,,35.5795687,-98.96663679999999
+794,Oklahoma,Lowrey Public,Tahlequah,Cherokee,33,0,,,36.08918999999999,-94.9216847
+795,Oklahoma,Adams Elementary,Lawton,Comanche,,,,,34.6170344,-98.4351715
+796,Oklahoma,Albion Public,Albion,Pushmataha,,,,,34.6627892,-95.0963379
+797,Oklahoma,Aline Cleo Elementary,Cleo Springs,Major,,,,,36.4038482,-98.4417924
+798,Oklahoma,Almor West Elementary,Lawton,Comanche,,,,,34.605082,-98.478718
+799,Oklahoma,Altus Christian Academy,Altus,Jackson,,,,,34.6518847,-99.3322098
+800,Oklahoma,Ardmore Adventist Academy,Ardmore,Carter,,,,,34.2476655,-97.12947249999999
+801,Oklahoma,Avant Public,Avant,Osage,,,,,36.4902608,-96.0633819
+802,Oklahoma,Balko Elementary,Balko,Beaver,,,,,36.6174206,-100.7311006
+803,Oklahoma,Belfonte Bell Elementary (Adair Cnty),Stilwell,Sequoyah,,,,,35.7255952,-94.576274
+804,Oklahoma,Belfonte Public,Muldrow,Sequoyah,,,,,35.5451455,-94.56145939999999
+805,Oklahoma,Billings Public Schools,Billings,Noble,,,,,36.5310264,-97.4440934
+806,Oklahoma,Bishop John Carroll,Oklahoma City,Oklahoma,,,,,35.5022768,-97.5305518
+807,Oklahoma,Bokoshe Elementary,Bokoshe,Le Flore,,,,,35.1901207,-94.79201789999999
+808,Oklahoma,Boswell Elementary,Boswell,Choctaw,,,,,34.02892,-95.8673098
+809,Oklahoma,Bowring Public,Pawhuska,Osage,,,,,36.6678426,-96.3372309
+810,Oklahoma,Bristow Adventist,Bristow,Creek,,,,,35.8249262,-96.3793955
+811,Oklahoma,Buffalo Valley Elementary,Talihina,Latimer,,,,,34.743081,-95.0400183
+812,Oklahoma,Butner Elementary,Cromwell,Seminole,,,,,35.3380304,-96.45904390000001
+813,Oklahoma,Cameron Elementary,Cameron,Le Flore,,,,,35.1356149,-94.53872009999999
+814,Oklahoma,Caney Elementary,Caney,Atoka,,,,,34.2349635,-96.2120406
+815,Oklahoma,Carlton Landing Academy Elementary,Canadian,Pittsburg,,,,,35.2032126,-95.5449039
+816,Oklahoma,Carriage Hills Elementary,Lawton,Comanche,,,,,34.6055371,-98.34685209999999
+817,Oklahoma,Casady,Oklahoma City,Oklahoma,,,,,35.568469,-97.54640599999999
+818,Oklahoma,Cave Springs,Bunch,Adair,,,,,35.7181447,-94.7513359
+819,Oklahoma,Cement Elementary,Cement,Caddo,,,,,34.9303684,-98.13904149999999
+820,Oklahoma,Cherokee Elementary,Muskogee,Muskogee,,,,,35.7455386,-95.3949201
+821,Oklahoma,Cherokee Immersion Charter,Tahlequah,Cherokee,,,,,35.8488518,-95.0020273
+822,Oklahoma,Children's Ctr,Bethany,Oklahoma,,,,,35.510726,-97.63298119999999
+823,Oklahoma,Christian Heritage Academy,Del City,Oklahoma,,,,,35.4371197,-97.43965759999999
+824,Oklahoma,Cimarron Elementary,Lahoma,Major,,,,,36.3863802,-98.0893487
+825,Oklahoma,Claremore Christian,Claremore,Rogers,,,,,36.3212677,-95.6212573
+826,Oklahoma,Cleveland Elementary,Lawton,Comanche,,,,,34.5972093,-98.43062139999999
+827,Oklahoma,College Bound Academy Charter,Tulsa,Tulsa,,,,,36.125261,-95.8638837
+828,Oklahoma,Community Christian,Norman,Cleveland,,,,,35.253129,-97.486626
+829,Oklahoma,Covington-Douglas Elementary,Covington,Garfield,,,,,36.3058658,-97.58222939999999
+830,Oklahoma,Crain Elementary,Clayton,Pushmataha,,,,,34.58919789999999,-95.3600726
+831,Oklahoma,Crutcho Public,Oklahoma City,Oklahoma,,,,,35.4938932,-97.4067908
+832,Oklahoma,Cushing Lower Elementary,Cushing,Payne,,,,,35.965925,-96.733997
+833,Oklahoma,Davidson Elementary,Davidson,Tillman,,,,,34.2378325,-99.0782668
+834,Oklahoma,Denison Public,Idabel,Mccurtain,,,,,33.895505,-94.7894913
+835,Oklahoma,Destiny Christian,Del City,Oklahoma,,,,,35.436205,-97.4486024
+836,Oklahoma,Dimensions Academy,Norman,Cleveland,,,,,35.2247051,-97.4245701
+837,Oklahoma,Dove School Of Discovery Elementary Tulsa,Tulsa,Tulsa,,,,,36.0936149,-95.89648629999999
+838,Oklahoma,Dove Science Academy Elementary,Oklahoma City,Oklahoma,,,,,35.520673,-97.5046813
+839,Oklahoma,Dover Elementary,Dover,Kingfisher,,,,,35.9822846,-97.9078158
+840,Oklahoma,Drummond Elementary,Drummond,Garfield,,,,,36.2974629,-98.0328918
+841,Oklahoma,Duke Elementary,Duke,Jackson,,,,,34.6634346,-99.5660415
+842,Oklahoma,Dustin Elementary,Dustin,Okfuskee,,,,,35.273986,-96.0388904
+843,Oklahoma,Eagle Point Christian Academy,Sapulpa,Creek,,,,,35.991515,-96.116647
+844,Oklahoma,Edison Elementary,Lawton,Comanche,,,,,34.6133799,-98.4640888
+845,Oklahoma,Elk City Elementary,Elk City,Beckham,,,,,35.418339,-99.4392407
+846,Oklahoma,Emmanuel Christian,Enid,Garfield,,,,,36.389508,-97.90982299999999
+847,Oklahoma,Family Of Faith Christian,Shawnee,Pottawatomie,,,,,35.4623548,-96.9014236
+848,Oklahoma,Felt Elementary,FELT,Cimarron,,,,,36.5614473,-102.7951942
+849,Oklahoma,Forgan Elementary,Forgan,Beaver,,,,,36.9070343,-100.5403236
+850,Oklahoma,Fort Supply Elementary,Fort Supply,Woodward,,,,,36.5718792,-99.5697625
+851,Oklahoma,Freedom Elementary,Lawton,Comanche,,,,,34.66047289999999,-98.3911746
+852,Oklahoma,Freedom Elementary,Freedom,Woods,,,,,36.7702263,-99.1123994
+853,Oklahoma,Geary Elementary,Geary,Blaine,,,,,35.6297423,-98.323955
+854,Oklahoma,Glover Public,Broken Bow,Mccurtain,,,,,34.0686832,-94.8790291
+855,Oklahoma,Good Shepherd Catholic,Oklahoma City,Oklahoma,,,,,35.6063098,-97.6020444
+856,Oklahoma,Good Shepherd Lutheran,Midwest City,Oklahoma,,,,,35.47265,-97.405203
+857,Oklahoma,Goodwell Elementary,Goodwell,Texas,,,,,36.5958315,-101.6312183
+858,Oklahoma,Gracemont Elementary,Gracemont,Caddo,,,,,35.1898501,-98.25600829999999
+859,Oklahoma,Grant-Foreman Elementary,Muskogee,Muskogee,,,,,35.7309047,-95.3359803
+860,Oklahoma,Greasy Public,Bunch,Adair,,,,,35.6826766,-94.7608801
+861,Oklahoma,Grove Valley Elementary,Edmond,Oklahoma,,,,,35.6666789,-97.5789484
+862,Oklahoma,Gypsy Public,Depew,Creek,,,,,35.713113,-96.45821199999999
+863,Oklahoma,Hanna Public,Hanna,Mcintosh,,,,,35.2050578,-95.8880444
+864,Oklahoma,Happy Hands Education Center,Broken Arrow,Tulsa,,,,,36.03667799999999,-95.8503573
+865,Oklahoma,Hardesty Elementary,Hardesty,Texas,,,,,36.6143728,-101.1943874
+866,Oklahoma,Haworth Elementary,Haworth,Mccurtain,,,,,33.8447867,-94.65204039999999
+867,Oklahoma,Heritage Hall,Oklahoma City,Oklahoma,,,,,35.591122,-97.542737
+868,Oklahoma,Hillsdale Christian,Hillsdale,Garfield,,,,,36.565043,-97.99006829999999
+869,Oklahoma,Immanuel Lutheran Christian Academy,Broken Arrow,Tulsa,,,,,36.0562322,-95.81663569999999
+870,Oklahoma,Irving Elementary,Muskogee,Muskogee,,,,,35.7544685,-95.3515154
+871,Oklahoma,J. F. Kennedy Elementary,Oilton,Creek,,,,,36.0867645,-96.5835731
+872,Oklahoma,James Caraway Christian Academy,Chickasha,Grady,,,,,35.0885517,-97.98230140000001
+873,Oklahoma,Kenwood Public,Salina,Delaware,,,,,36.3129605,-95.1544737
+874,Oklahoma,Ketchum Jr. Academy,Vinita,Craig,,,,,36.5055696,-95.0603702
+875,Oklahoma,Keyes Elementary,Keyes,Cimarron,,,,,36.80908549999999,-102.2566688
+876,Oklahoma,Kildare,Ponca City,Kay,,,,,36.806827,-97.04996899999999
+877,Oklahoma,Lakewood Christian,McAlester,Pittsburg,,,,,34.9013591,-95.74816709999999
+878,Oklahoma,Lawton Christian,Lawton,Comanche,,,,,34.6250271,-98.5289794
+879,Oklahoma,Le Mond International,Norman,Cleveland,,,,,35.2225668,-97.4394777
+880,Oklahoma,Leach Public,Rose,Delaware,,,,,36.2053661,-94.9416217
+881,Oklahoma,Legacy Christian,Claremore,Rogers,,,,,36.3100257,-95.61088930000001
+882,Oklahoma,Life Christian Academy,Choctaw,Oklahoma,,,,,35.501679,-97.263831
+883,Oklahoma,Lincoln Elementary,Lawton,Comanche,,,,,34.5969158,-98.39740789999999
+884,Oklahoma,Marble City Public,Marble City,Sequoyah,,,,,35.625319,-94.81526249999999
+885,Oklahoma,Marquette Catholic,Tulsa,Tulsa,,,,,36.1401305,-95.9723673
+886,Oklahoma,Mazie Elementary,Chouteau,Mayes,,,,,36.1059308,-95.36612579999999
+887,Oklahoma,Mercy School Institute,Edmond,Oklahoma,,,,,35.61269619999999,-97.5190377
+888,Oklahoma,Milburn Elementary,Milburn,Johnston,,,,,34.2417457,-96.552201
+889,Oklahoma,Mingo Valley Christian,Tulsa,Tulsa,,,,,36.043056,-95.857565
+890,Oklahoma,Monroe Public,Monroe,Le Flore,,,,,34.9895904,-94.51746879999999
+891,Oklahoma,Mounds Elementary,Mounds,Creek,,,,,35.8801449,-96.0550968
+892,Oklahoma,Mt. Olive Lutheran,Miami,Ottawa,,,,,36.9032228,-94.8786435
+893,Oklahoma,Nashoba Public,Nashoba,Pushmataha,,,,,34.4821606,-95.2091299
+894,Oklahoma,Oaks-Mission Elementary,Oaks,Delaware,,,,,36.166198,-94.8546745
+895,Oklahoma,Oklahoma Christian Academy,Edmond,Oklahoma,,,,,35.6471451,-97.4658755
+896,Oklahoma,Oklahoma Christian,Edmond,Oklahoma,,,,,35.6500743,-97.4191242
+897,Oklahoma,Oklahoma School For The Blind,Muskogee,Muskogee,,,,,35.7556437,-95.3269163
+898,Oklahoma,Oklahoma School For The Deaf,Sulphur,Murray,,,,,34.5120626,-96.9535425
+899,Oklahoma,Optima Public,Optima,Texas,,,,,36.7559714,-101.3555369
+900,Oklahoma,Paden Elementary,Paden,Okfuskee,,,,,35.5047185,-96.57030139999999
+901,Oklahoma,Panola Elementary,Panola,Latimer,,,,,34.9311043,-95.21347630000001
+902,Oklahoma,Paoli Elementary,Paoli,Garvin,,,,,34.8282331,-97.26201019999999
+903,Oklahoma,Parkview Adventist Academy,Oklahoma City,Oklahoma,,,,,35.5154814,-97.478795
+904,Oklahoma,Parkview Elementary,Stroud,Lincoln,,,,,35.7568148,-96.6534034
+905,Oklahoma,Paths To Independence,Bartlesville,Washington,,,,,36.748728,-95.9248384
+906,Oklahoma,Peace Academy,Tulsa,Tulsa,,,,,36.096653,-95.911935
+907,Oklahoma,Peggs Public,Peggs,Cherokee,,,,,36.0809666,-95.1022911
+908,Oklahoma,Pershing Elementary,Muskogee,Muskogee,,,,,35.7573583,-95.42942479999999
+909,Oklahoma,Pioneer Adventist Christian,Guymon,Texas,,,,,36.6951279,-101.4750243
+910,Oklahoma,Ponca City Christian Academy,Ponca City,Kay,,,,,36.71842,-97.0370389
+911,Oklahoma,Positive Tomorrows,Oklahoma City,Oklahoma,,,,,,
+912,Oklahoma,Prairie Vale Elementary,Edmond,Oklahoma,,,,,35.7007874,-97.5482286
+913,Oklahoma,Primrose School Of Nw Oklahoma City,Oklahoma City,Oklahoma,,,,,35.6127082,-97.6242053
+914,Oklahoma,Project Accept Traice Elementary,Tulsa,Tulsa,,,,,36.1738206,-96.0051473
+915,Oklahoma,Rejoice Christian,Owasso,Tulsa,,,,,36.3100364,-95.8291484
+916,Oklahoma,Reydon Elementary,Reydon,Roger Mills,,,,,35.655713,-99.92056
+917,Oklahoma,Ridgecrest Elementary,Lawton,Comanche,,,,,34.6291704,-98.45065590000002
+918,Oklahoma,Ringling Elementary,Ringling,Jefferson,,,,,34.1862957,-97.5933199
+919,Oklahoma,Riverfield Country Day,Tulsa,Tulsa,,,,,36.0781351,-96.01962309999999
+920,Oklahoma,Rockdale Elementary,Miami,Ottawa,,,,,36.8871478,-94.8545397
+921,Oklahoma,Rose Union Elementary,Edmond,Oklahoma,,,,,35.6961663,-97.6106286
+922,Oklahoma,South Coffeyville Elementary,South Coffeyville,Nowata,,,,,36.9941895,-95.61304779999999
+923,Oklahoma,Southwest Covenant Schools,Yukon,Canadian,,,,,35.4912299,-97.7216424
+924,Oklahoma,Spring Creek Elementary,Oklahoma City,Oklahoma,,,,,35.6271553,-97.63726109999999
+925,Oklahoma,St. John Catholic,Bartlesville,Washington,,,,,36.7451602,-95.97999569999999
+926,Oklahoma,St. John Christian Heritage Academy,Oklahoma City,Oklahoma,,,,,35.5304786,-97.4930828
+927,Oklahoma,St. John's Lutheran,Moore,Cleveland,,,,,35.3476423,-97.51110779999999
+928,Oklahoma,St. Joseph Catholic,Muskogee,Muskogee,,,,,35.7428766,-95.344134
+929,Oklahoma,St. Mary's Episcopal,Edmond,Oklahoma,,,,,35.6839682,-97.47153139999999
+930,Oklahoma,St. Paul's Lutheran,Enid,Garfield,,,,,36.3971588,-97.8534129
+931,Oklahoma,Stillwater Christian,Stillwater,Payne,,,,,36.1747556,-97.0575659
+932,Oklahoma,Stonebridge Academy,Okmulgee,Okmulgee,,,,,35.62188039999999,-95.9734895
+933,Oklahoma,Stonewall Elementary,Stonewall,Pontotoc,,,,,34.6475821,-96.52855079999999
+934,Oklahoma,Straight Public,Guymon,Texas,,,,,36.8780176,-101.4492623
+935,Oklahoma,Sts. Peter And Paul Catholic,Kingfisher,Kingfisher,,,,,35.8580102,-97.9324097
+936,Oklahoma,Sts. Peter And Paul Catholic,Tulsa,Tulsa,,,,,36.1759906,-95.90232859999999
+937,Oklahoma,Sulphur Elementary,Sulphur,Murray,,,,,34.5103626,-96.9756721
+938,Oklahoma,Sweetwater Public,Sweetwater,Roger Mills,,,,,35.4068676,-99.9120109
+939,Oklahoma,Swink Public,Swink,Choctaw,,,,,34.0155266,-95.203707
+940,Oklahoma,Taloga Elementary,Taloga,Dewey,,,,,36.0385581,-98.9690543
+941,Oklahoma,Tannehill Public,McAlester,Pittsburg,,,,,34.9995143,-95.85818069999999
+942,Oklahoma,Terral Public,Terral,Jefferson,,,,,33.897182,-97.9359509
+943,Oklahoma,The Academy Of Classical Christian Studies,Oklahoma City,Oklahoma,,,,,35.5794631,-97.4948279
+944,Oklahoma,The Little Light House,Tulsa,Tulsa,,,,,36.110523,-95.9206109
+945,Oklahoma,Tony Goetz Elementary,Muskogee,Muskogee,,,,,35.748988,-95.33913400000002
+946,Oklahoma,Trinity Lutheran,Norman,Cleveland,,,,,35.217875,-97.43601699999999
+947,Oklahoma,Tulsa Adventist Academy,Tulsa,Tulsa,,,,,36.149234,-95.93427199999999
+948,Oklahoma,Tuskahoma Public,Tuskahoma,Pushmataha,,,,,34.6191831,-95.2765321
+949,Oklahoma,Tyrone Elementary Elementary,Tyrone,Texas,,,,,36.9582911,-101.0686147
+950,Oklahoma,Victory Life Academy,Durant,Bryan,,,,,34.0056225,-96.4114932
+951,Oklahoma,Vinita Elementary,Vinita,Craig,,,,,36.6397689,-95.15874219999999
+952,Oklahoma,Virginia Smith Elementary,Harrah,Oklahoma,,,,,35.4793257,-97.1731176
+953,Oklahoma,Ward Elementary,Shidler,Osage,,,,,36.7814503,-96.6650246
+954,Oklahoma,Washington Elementary,Lawton,Comanche,,,,,34.613163,-98.400797
+955,Oklahoma,Western Oklahoma Christian,Clinton,Washita,,,,,35.4656117,-98.9976701
+956,Oklahoma,Westminster,Oklahoma City,Oklahoma,,,,,35.5161531,-97.52262069999999
+957,Oklahoma,White Oak Ps,Vinita,Craig,,,,,36.6201895,-95.2701326
+958,Oklahoma,White Rock Public,McLoud,Lincoln,,,,,35.5504371,-97.03563609999999
+959,Oklahoma,Whittier Elementary,Muskogee,Muskogee,,,,,35.737659,-95.34983969999999
+960,Oklahoma,Wickliffe Public,Salina,Mayes,,,,,36.3356404,-95.05537419999999
+961,Oklahoma,William Bradford Christian,Pryor,Mayes,,,,,36.3038557,-95.28243959999999
+962,Oklahoma,Woodland Hills Elementary,Lawton,Comanche,,,,,34.6129248,-98.47734679999999
+963,Oklahoma,Wright Christian Academy,Tulsa,Tulsa,,,,,36.161388,-95.84927900000001
+964,Oklahoma,Wynona Elementary,Wynona,Osage,,,,,36.5480943,-96.3284168
+965,Oklahoma,Yarbrough Elementary,Goodwell,Texas,,,,,36.5953038,-101.6365504

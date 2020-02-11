@@ -1,0 +1,1290 @@
+index,state,year,name,county,enroll,mmr,overall,xmed,xper,xrel,lat,lng
+1,Minnesota,2017-18,Appleton Elementary,Lac qui Parle,41,100.00,,0.00,0.00,,45.1960686,-96.01252
+2,Minnesota,2017-18,Argyle Elementary,Marshall,24,100.00,,0.00,0.00,,48.33247,-96.824427
+3,Minnesota,2017-18,Ashby Elementary,Grant,23,100.00,,0.00,0.00,,46.09193,-95.821348
+4,Minnesota,2017-18,Ava Maria Academy,Hennepin,17,100.00,,0.00,0.00,,45.0831293,-93.4967965
+5,Minnesota,2017-18,Banaadir South K-8,Hennepin,11,100.00,,0.00,0.00,,44.9505072,-93.237853
+6,Minnesota,2017-18,Bertha Elementary,Todd,38,100.00,,0.00,0.00,,46.262716,-95.061576
+7,Minnesota,2017-18,Bethany Academy,Hennepin,10,100.00,,0.00,0.00,,44.82652,-93.335391
+8,Minnesota,2017-18,Blake Lower School-Hopkins Campus,Hennepin,34,100.00,,0.00,0.00,,44.9223192,-93.3896076
+9,Minnesota,2017-18,Brookview Elementary,Washington,91,100.00,,0.00,0.00,,44.932881,-92.880461
+10,Minnesota,2017-18,Browerville Elementary,Todd,40,100.00,,0.00,0.00,,46.085998,-94.873177
+11,Minnesota,2017-18,Browns Valley Elementary,Traverse,22,100.00,,0.00,0.00,,45.592616,-96.830192
+12,Minnesota,2017-18,Butterfield Elementary,Watonwan,16,100.00,,0.00,0.00,,43.959477,-94.790709
+13,Minnesota,2017-18,Cass Lake-Bena Elementary,Cass,111,100.00,,0.00,0.00,,47.38148,-94.603341
+14,Minnesota,2017-18,Cathedral,Polk,12,100.00,,0.00,0.00,,47.7752401,-96.5897449
+15,Minnesota,2017-18,Chandler Christian,Murray,5,100.00,,0.00,0.00,,43.93151,-95.94818
+16,Minnesota,2017-18,Childrens Day Montessori,Stearns,6,100.00,,0.00,0.00,,45.51781,-94.163641
+17,Minnesota,2017-18,Childrens Workshop Montessori,Hennepin,11,100.00,,0.00,0.00,,45.013855,-93.465228
+18,Minnesota,2017-18,Chokio-Alberta Public Schools,Stevens,5,100.00,,0.00,0.00,,45.5724853,-96.1760506
+19,Minnesota,2017-18,Christ Lutheran,Wabasha,5,100.00,,0.00,0.00,,44.2920394,-92.6676398
+20,Minnesota,2017-18,Christ The King,Todd,7,100.00,,0.00,0.00,,46.08706,-94.867641
+21,Minnesota,2017-18,Clarkfield Area Charter,Yellow Medicine,15,100.00,,0.00,0.00,,44.7242998,-95.8087383
+22,Minnesota,2017-18,Comfrey Elementary,Brown,6,100.00,,0.00,0.00,,44.109568,-94.908067
+23,Minnesota,2017-18,Community Of Peace Academy Elementary,Ramsey,47,100.00,,0.00,0.00,,44.9739357,-93.0805432
+24,Minnesota,2017-18,Convent Of The Visitation,Dakota,17,100.00,,0.00,0.00,,44.868994,-93.13321
+25,Minnesota,2017-18,Cornelia Elementary,Hennepin,93,100.00,,0.00,0.00,,44.875169,-93.336599
+26,Minnesota,2017-18,Cross Of Christ Lutheran,Anoka,13,100.00,,0.00,0.00,,45.150787,-93.274647
+27,Minnesota,2017-18,Crown Of Life,Dakota,7,100.00,,0.00,0.00,,44.8875216,-93.089911
+28,Minnesota,2017-18,Crucifixion,Houston,13,100.00,,0.00,0.00,,43.8268061,-91.3067878
+29,Minnesota,2017-18,Daytons Bluff,Ramsey,59,100.00,,0.00,0.00,,44.9543909,-93.0626284
+30,Minnesota,2017-18,Deerwood Elementary,Dakota,123,100.00,,0.00,0.00,,44.80935,-93.174844
+31,Minnesota,2017-18,Eagle Point Elementary,Ramsey,71,100.00,,0.00,0.00,,44.9713055,-92.9475154
+32,Minnesota,2017-18,East Union Elementary,Carver,23,100.00,,0.00,0.00,,44.720167,-93.683449
+33,Minnesota,2017-18,Edgerton Christian,Pipestone,21,100.00,,0.00,0.00,,43.8761662,-96.1320451
+34,Minnesota,2017-18,Faribault Lutheran,Rice,19,100.00,,0.00,0.00,,44.29527,-93.277241
+35,Minnesota,2017-18,Finlayson Elementary,Pine,9,100.00,,0.00,0.00,,46.203159,-92.922952
+36,Minnesota,2017-18,Foley Elementary,Benton,137,100.00,,0.00,0.00,,45.671726,-93.910235
+37,Minnesota,2017-18,Frassati Catholic Academy,Ramsey,33,100.00,,0.00,0.00,,45.082843,-93.014659
+38,Minnesota,2017-18,Frost Lake,Ramsey,92,100.00,,0.00,0.00,,44.9888236,-93.0394254
+39,Minnesota,2017-18,Fulda Elementary,Murray,22,100.00,,0.00,0.00,,43.872381,-95.602214
+40,Minnesota,2017-18,Garden City Elementary,Hennepin,63,100.00,,0.00,0.00,,45.072239,-93.327217
+41,Minnesota,2017-18,Gethsemane Lutheran,Ramsey,13,100.00,,0.00,0.00,,44.96921,-92.998741
+42,Minnesota,2017-18,Guardian Angels,Carver,5,100.00,,0.00,0.00,,44.7850802,-93.602777
+43,Minnesota,2017-18,Hamline,Ramsey,54,100.00,,0.00,0.00,,44.9650603,-93.1645547
+44,Minnesota,2017-18,Hancock Elementary,Stevens,27,100.00,,0.00,0.00,,45.497349,-95.789929
+45,Minnesota,2017-18,Harambee Elementary,Ramsey,34,100.00,,0.00,0.00,,45.00385,-93.100381
+46,Minnesota,2017-18,Harrison Elementary,Crow Wing,35,100.00,,0.00,0.00,,46.352922,-94.186367
+47,Minnesota,2017-18,Herman-Norcross Community,Grant,10,100.00,,0.00,0.00,,45.8108288,-96.1380636
+48,Minnesota,2017-18,Hills-Beaver Creek Elementary,Rock,28,100.00,,0.00,0.00,,43.61067,-96.362044
+49,Minnesota,2017-18,Hinckley Elementary,Pine,58,100.00,,0.00,0.00,,46.013889,-92.93531
+50,Minnesota,2017-18,Holy Cross,Stearns,8,100.00,,0.00,0.00,,45.40033,-94.330581
+51,Minnesota,2017-18,Holy Family,Stearns,13,100.00,,0.00,0.00,,45.737433,-94.94796
+52,Minnesota,2017-18,Holy Name Of Jesus,Hennepin,41,100.00,,0.00,0.00,,45.0128444,-93.5243621
+53,Minnesota,2017-18,Holy Rosary,Becker,17,100.00,,0.00,0.00,,46.8146301,-95.8484195
+54,Minnesota,2017-18,Holy Trinity,Wright,11,100.00,,0.00,0.00,,45.0280894,-94.0665182
+55,Minnesota,2017-18,Immaculate Conception,Anoka,15,100.00,,0.00,0.00,,45.04206,-93.250321
+56,Minnesota,2017-18,Immanuel Lutheran,Jackson,5,100.00,,0.00,0.00,,43.680934,-95.170079
+57,Minnesota,2017-18,Immanuel Lutheran,Winona,10,100.00,,0.00,0.00,,44.016834,-91.859475
+58,Minnesota,2017-18,International School Of Minnesota,Hennepin,14,100.00,,0.00,0.00,,44.887831,-93.442053
+59,Minnesota,2017-18,Jefferson Elementary,Blue Earth,35,100.00,,0.00,0.00,,44.153065,-94.006308
+60,Minnesota,2017-18,Jefferson Elementary,Olmsted,92,100.00,,0.00,0.00,,44.035541,-92.450621
+61,Minnesota,2017-18,John Ireland,Nicollet,10,100.00,,0.00,0.00,,44.331976,-93.976864
+62,Minnesota,2017-18,Karlstad Elementary,Kittson,14,100.00,,0.00,0.00,,48.574344,-96.524391
+63,Minnesota,2017-18,Kenyon-Wanamingo Elementary,Goodhue,41,100.00,,0.00,0.00,,44.303787,-92.786996
+64,Minnesota,2017-18,Kittson Central Elementary,Kittson,21,100.00,,0.00,0.00,,48.78022,-96.94761
+65,Minnesota,2017-18,Knight Elementary,Morrison,15,100.00,,0.00,0.00,,46.089329,-94.494992
+66,Minnesota,2017-18,Knoll Elementary,Big Stone,40,100.00,,0.00,0.00,,45.309078,-96.442061
+67,Minnesota,2017-18,Lake Of The Woods Elementary,Lake of the Woods,30,100.00,,0.00,0.00,,48.708869,-94.634509
+68,Minnesota,2017-18,Lakeland Elementary,Kandiyohi,100,100.00,,0.00,0.00,,45.113232,-95.019211
+69,Minnesota,2017-18,Lester Prairie Elementary,McLeod,24,100.00,,0.00,0.00,,44.886925,-94.043974
+70,Minnesota,2017-18,Lewiston-Altura Elementary,Winona,35,100.00,,0.00,0.00,,43.98149,-91.870966
+71,Minnesota,2017-18,Life Prep School/Formerly Concordia Creative Learning Academy,,42,100.00,,0.00,0.00,,44.9754583,-93.0616246
+72,Minnesota,2017-18,Lincoln Elementary,Anoka,80,100.00,,0.00,0.00,,45.190128,-93.381865
+73,Minnesota,2017-18,Lincoln Elementary,Lincoln,12,100.00,,0.00,0.00,,44.4622664,-96.2537818
+74,Minnesota,2017-18,Lyle K-12,Mower,18,100.00,,0.00,0.00,,43.5092835,-92.9440632
+75,Minnesota,2017-18,Madelia Elementary,Watonwan,46,100.00,,0.00,0.00,,44.051441,-94.413676
+76,Minnesota,2017-18,Madison-Marietta-Nassau Elementary,Lac qui Parle,32,100.00,,0.00,0.00,,45.012586,-96.190215
+77,Minnesota,2017-18,Mankato Area Catholic Schools Inc,Blue Earth,25,100.00,,0.00,0.00,,#N/A,-93.977914
+78,Minnesota,2017-18,Mary Of Lourdes Elementary,Morrison,22,100.00,,0.00,0.00,,45.9785728,-94.3734546
+79,Minnesota,2017-18,Middle River Elementary,Roseau,8,100.00,,0.00,0.00,,48.7893835,-96.2866138
+80,Minnesota,2017-18,Montessori At Franklin,Olmsted,35,100.00,,0.00,0.00,,43.994711,-92.450288
+81,Minnesota,2017-18,Mount Olive Lutheran,Blue Earth,23,100.00,,0.00,0.00,,44.16406,-93.980131
+82,Minnesota,2017-18,Nativity Of Mary,Hennepin,20,100.00,,0.00,0.00,,44.823858,-93.290586
+83,Minnesota,2017-18,Nay Ah Shing Elementary,McLeod,31,100.00,,0.00,0.00,,46.1814027,-93.7509243
+84,Minnesota,2017-18,Naytahwaush Community,,22,100.00,,0.00,0.00,,47.2621195,-95.6272155
+85,Minnesota,2017-18,Norman County E. Elementary,Norman,15,100.00,,0.00,0.00,,47.371893,-96.2640379
+86,Minnesota,2017-18,Northwoods Elementary And Secondary,St. Louis,26,100.00,,0.00,0.00,,47.8874236,-92.7741394
+87,Minnesota,2017-18,Notre Dame Academy,Hennepin,18,100.00,,0.00,0.00,,44.91224,-93.451041
+88,Minnesota,2017-18,Our Lady Of Grace,Hennepin,60,100.00,,0.00,0.00,,44.9069059,-93.3524759
+89,Minnesota,2017-18,Our Saviors Lutheran,Polk,8,100.00,,0.00,0.00,,47.7721287,-96.6077157
+90,Minnesota,2017-18,Pilgrim Lutheran,Hennepin,5,100.00,,0.00,0.00,,44.93204,-93.276241
+91,Minnesota,2017-18,Pinewood Elementary,Olmsted,53,100.00,,0.00,0.00,,43.988397,-92.439295
+92,Minnesota,2017-18,Pleasantview Elementary,Jackson,26,100.00,,0.00,0.00,,43.675578,-95.166977
+93,Minnesota,2017-18,Presentation Of The Bvm,Ramsey,13,100.00,,0.00,0.00,,44.9926057,-93.0311123
+94,Minnesota,2017-18,Queen Of Peace,Carlton,17,100.00,,0.00,0.00,,46.7193,-92.458754
+95,Minnesota,2017-18,Raven Stream Elementary,Scott,103,100.00,,0.00,0.00,,44.54668,-93.598681
+96,Minnesota,2017-18,Renville County West Public School #2890,Renville,38,100.00,,0.00,0.00,,44.7913359,-95.207703
+97,Minnesota,2017-18,Resurrection Lutheran,Olmsted,11,100.00,,0.00,0.00,,44.07094,-92.490391
+98,Minnesota,2017-18,Risen Savior Lutheran,Blue Earth,9,100.00,,0.00,0.00,,44.1563908,-94.025323
+99,Minnesota,2017-18,Rosa Parks Elementary,Blue Earth,76,100.00,,0.00,0.00,,44.13635,-93.981121
+100,Minnesota,2017-18,Roseau Elementary,Roseau,83,100.00,,0.00,0.00,,48.85053,-95.755739
+101,Minnesota,2017-18,Rosemount Elementary,Dakota,96,100.00,,0.00,0.00,,44.740784,-93.130028
+102,Minnesota,2017-18,Sacred Heart,Waseca,18,100.00,,0.00,0.00,,44.077875,-93.511392
+103,Minnesota,2017-18,Samuel Lutheran,Lyon,9,100.00,,0.00,0.00,,44.455771,-95.768575
+104,Minnesota,2017-18,Shakopee Area Catholic,Scott,66,100.00,,0.00,0.00,,44.77101,-93.486221
+105,Minnesota,2017-18,Sleepy Eye Elementary,Brown,51,100.00,,0.00,0.00,,44.292756,-94.72806
+106,Minnesota,2017-18,South Ridge Elementary And South Ridge High,St. Louis,35,100.00,,0.00,0.00,,46.9657168,-92.5461023
+107,Minnesota,2017-18,Springfield Public,Brown,40,100.00,,0.00,0.00,,44.2388001,-94.9820332
+108,Minnesota,2017-18,St Anastasia,McLeod,8,100.00,,0.00,0.00,,44.8862191,-94.3867094
+109,Minnesota,2017-18,St Anne,Redwood,13,100.00,,0.00,0.00,,44.40353,-95.254221
+110,Minnesota,2017-18,St Dominic,Rice,13,100.00,,0.00,0.00,,44.459554,-93.1643183
+111,Minnesota,2017-18,St Felix,Wabasha,10,100.00,,0.00,0.00,,44.380963,-92.032694
+112,Minnesota,2017-18,St Francis,Olmsted,23,100.00,,0.00,0.00,,44.019924,-92.448127
+113,Minnesota,2017-18,St John School Of Little Canada,Ramsey,9,100.00,,0.00,0.00,,45.01995,-93.085461
+114,Minnesota,2017-18,St John The Baptist-Savage,Dakota,26,100.00,,0.00,0.00,,44.7760795,-93.3373376
+115,Minnesota,2017-18,St John Vianney,Martin,8,100.00,,0.00,0.00,,43.64381,-94.456471
+116,Minnesota,2017-18,St Johns Lutheran,Wabasha,13,100.00,,0.00,0.00,,44.446891,-92.272306
+117,Minnesota,2017-18,St Johns Lutheran,Winona,8,100.00,,0.00,0.00,,43.904133,-91.435346
+118,Minnesota,2017-18,St Johns Lutheran-Chaska,Carver,18,100.00,,0.00,0.00,,44.7877044,-93.5973218
+119,Minnesota,2017-18,St Johns Lutheran-Red Wing,Goodhue,7,100.00,,0.00,0.00,,44.5627487,-92.5337649
+120,Minnesota,2017-18,St Joseph,Carver,19,100.00,,0.00,0.00,,44.8494482,-93.7874665
+121,Minnesota,2017-18,St Josephs Catholic,Dakota,19,100.00,,0.00,0.00,,44.7475648,-93.1146985
+122,Minnesota,2017-18,St Jude Of The Lake,Washington,6,100.00,,0.00,0.00,,45.063541,-92.957132
+123,Minnesota,2017-18,St Mary,Watonwan,5,100.00,,0.00,0.00,,44.0519505,-94.4113952
+124,Minnesota,2017-18,St Marys,Nobles,13,100.00,,0.00,0.00,,43.62489,-95.598245
+125,Minnesota,2017-18,St Marys Mission,Beltrami,12,100.00,,0.00,0.00,,47.87382,-95.030599
+126,Minnesota,2017-18,St Michael,Mahnomen,6,100.00,,0.00,0.00,,47.3110602,-95.9723721
+127,Minnesota,2017-18,St Pauls Lutheran,Brown,31,100.00,,0.00,0.00,,44.30717,-94.467171
+128,Minnesota,2017-18,St Pauls Lutheran,Scott,8,100.00,,0.00,0.00,,44.723167,-93.407749
+129,Minnesota,2017-18,St Pauls Lutheran,Sibley,7,100.00,,0.00,0.00,,44.60627,-94.084111
+130,Minnesota,2017-18,St Pauls Lutheran,Watonwan,9,100.00,,0.00,0.00,,43.981244,-94.622552
+131,Minnesota,2017-18,St Pauls Lutheran-Fairmont,Martin,16,100.00,,0.00,0.00,,43.6470891,-94.4619633
+132,Minnesota,2017-18,St Pauls Lutheran-Truman,Martin,5,100.00,,0.00,0.00,,43.832374,-94.4344807
+133,Minnesota,2017-18,St Peter,Yellow Medicine,13,100.00,,0.00,0.00,,44.7133531,-96.275284
+134,Minnesota,2017-18,St Rose Of Lima,Ramsey,12,100.00,,0.00,0.00,,45.00404,-93.15532
+135,Minnesota,2017-18,St Stephen,Anoka,45,100.00,,0.00,0.00,,45.19831,-93.382311
+136,Minnesota,2017-18,St. Clair Elementary,Blue Earth,41,100.00,,0.00,0.00,,44.081184,-93.858936
+137,Minnesota,2017-18,St. Thomas More,Ramsey,12,100.00,,0.00,0.00,,44.941851,-93.145099
+138,Minnesota,2017-18,Step Academy,Ramsey,21,100.00,,0.00,0.00,,44.959644,-93.065051
+139,Minnesota,2017-18,Stevens Elementary,Lac qui Parle,34,100.00,,0.00,0.00,,44.930222,-96.058035
+140,Minnesota,2017-18,Tower-Soudan Elementary,St. Louis,9,100.00,,0.00,0.00,,47.806835,-92.273139
+141,Minnesota,2017-18,Transfiguration,Ramsey,22,100.00,,0.00,0.00,,44.9693489,-92.9828918
+142,Minnesota,2017-18,Trinity Lone Oak Lutheran,Dakota,10,100.00,,0.00,0.00,,44.84975,-93.125821
+143,Minnesota,2017-18,Trinity Lutheran,Waseca,11,100.00,,0.00,0.00,,44.11982,-93.706861
+144,Minnesota,2017-18,Usc,Faribault,49,100.00,,0.00,0.00,,43.7340249,-93.7351476
+145,Minnesota,2017-18,Valley View Elementary,Anoka,68,100.00,,0.00,0.00,,45.056324,-93.251238
+146,Minnesota,2017-18,Wabasha-Kellogg Elementary,Wabasha,24,100.00,,0.00,0.00,,44.357255,-92.011119
+147,Minnesota,2017-18,Warren Elementary,Marshall,32,100.00,,0.00,0.00,,48.194317,-96.767493
+148,Minnesota,2017-18,Washington Elementary,Winona,48,100.00,,0.00,0.00,,44.0426092,-91.6195128
+149,Minnesota,2017-18,Washington Learning Center,Brown,152,100.00,,0.00,0.00,,44.3244103,-94.4787144
+150,Minnesota,2017-18,Watkins Elementary,Meeker,43,100.00,,0.00,0.00,,45.313543,-94.414638
+151,Minnesota,2017-18,Weaver Elementary,Ramsey,87,100.00,,0.00,0.00,,45.005767,-93.041688
+152,Minnesota,2017-18,West Central Area S. Elementary,Grant,24,100.00,,0.00,0.00,,45.7810388,-95.6956655
+153,Minnesota,2017-18,William Kelley,Lake,30,100.00,,0.00,0.00,,47.2910785,-91.2764798
+154,Minnesota,2017-18,Woodland Elementary,Douglas,78,100.00,,0.00,0.00,,45.876579,-95.355352
+155,Minnesota,2017-18,Zion Lutheran,Douglas,16,100.00,,0.00,0.00,,45.8893,-95.370391
+156,Minnesota,2017-18,Challenger Elementary,Pennington,166,99.40,,0.00,0.60,,48.094964,-96.17166
+157,Minnesota,2017-18,Concord Elementary,Hennepin,118,99.15,,0.00,0.85,,44.896374,-93.346017
+158,Minnesota,2017-18,Meadowbrook Elementary,Hennepin,113,99.12,,0.00,0.88,,44.978833,-93.348968
+159,Minnesota,2017-18,Sunset Hill Elementary,Hennepin,106,99.06,,0.00,0.94,,44.979873,-93.445318
+160,Minnesota,2017-18,Pine Bend Elementary,Dakota,105,99.05,,0.00,0.95,,44.806425,-93.03659
+161,Minnesota,2017-18,Zumbroata-Mazeppa Primary,Wabasha,104,99.04,,0.00,0.96,,44.2899313,-92.6740011
+162,Minnesota,2017-18,Hiawatha Elementary,Hennepin,99,98.99,,0.00,0.00,,44.926461,-93.21212
+163,Minnesota,2017-18,Akin Road Elementary,Dakota,97,98.97,,0.00,1.03,,44.668003,-93.172332
+164,Minnesota,2017-18,Plainview Elgin Millville K-3,,97,98.97,,0.00,1.03,,44.1654725,-92.1756435
+165,Minnesota,2017-18,Weaver Lake Elementary,Hennepin,95,98.95,,0.00,1.05,,45.1100364,-93.4852212
+166,Minnesota,2017-18,Pinewood Elementary,Dakota,93,98.92,,0.00,1.08,,43.988548,-92.438388
+167,Minnesota,2017-18,Olson Elementary,Hennepin,89,98.88,,0.00,1.12,,44.818494,-93.338124
+168,Minnesota,2017-18,Bridgewater Elementary,Rice,88,98.86,,0.00,0.00,,44.439397,-93.164503
+169,Minnesota,2017-18,Centerville Elementary,Anoka,88,98.86,,0.00,1.14,,45.165523,-93.055004
+170,Minnesota,2017-18,Luverne Elementary,Rock,88,98.86,,0.00,1.14,,43.661638,-96.217358
+171,Minnesota,2017-18,Woodbury Elementary,Washington,88,98.86,,0.00,0.00,,44.930333,-92.973794
+172,Minnesota,2017-18,Kasson-Mantorville Elementary,Dodge,172,98.84,,0.00,1.16,,44.042798,-92.741524
+173,Minnesota,2017-18,Somerset Elementary,Dakota,86,98.84,,0.00,1.16,,44.905452,-93.114327
+174,Minnesota,2017-18,Jeffers Pond Elementary,Scott,85,98.82,,0.00,1.18,,44.736095,-93.441478
+175,Minnesota,2017-18,Northport Elementary,Hennepin,84,98.81,,0.00,1.19,,45.054732,-93.325883
+176,Minnesota,2017-18,St. James Northside Elementary,Watonwan,84,98.81,,0.00,0.00,,43.991306,-94.621237
+177,Minnesota,2017-18,Vandyke Elementary,Itasca,84,98.81,,0.00,1.19,,47.286539,-93.425114
+178,Minnesota,2017-18,Hoover Elementary,Anoka,81,98.77,,0.00,1.23,,45.169499,-93.327349
+179,Minnesota,2017-18,Bishop Elementary,Olmsted,80,98.75,,0.00,0.00,,44.029143,-92.518363
+180,Minnesota,2017-18,Voyager Elementary,Douglas,80,98.75,,0.00,1.25,,45.910232,-95.373672
+181,Minnesota,2017-18,Monroe Elementary,Blue Earth,79,98.73,,0.00,1.27,,44.175075,-94.0123083
+182,Minnesota,2017-18,Franklin Elementary,Blue Earth,78,98.72,,0.00,1.28,,44.17545,-93.992232
+183,Minnesota,2017-18,Lacrescent-Hokah Elementary,Houston,76,98.68,,0.00,0.00,,43.824384,-91.306615
+184,Minnesota,2017-18,Peter Hobart Elementary,Hennepin,75,98.67,,0.00,0.00,,44.957142,-93.361893
+185,Minnesota,2017-18,Roosevelt Elementary,Kandiyohi,75,98.67,,0.00,1.33,,45.104354,-95.067097
+186,Minnesota,2017-18,Harriet Bishop Elementary,Dakota,74,98.65,,1.35,0.00,,44.7439043,-93.3531396
+187,Minnesota,2017-18,Triton Primary Elementary,Dodge,73,98.63,,0.00,0.00,,44.0316893,-92.865559
+188,Minnesota,2017-18,Hawley Elementary,Clay,72,98.61,,0.00,1.39,,46.885483,-96.321114
+189,Minnesota,2017-18,Andover Elementary,Anoka,214,98.60,,0.00,0.47,,45.24243,-93.308756
+190,Minnesota,2017-18,Blue Earth Elementary,Faribault,71,98.59,,0.00,0.00,,43.6390992,-94.0990003
+191,Minnesota,2017-18,Pine Hill Elementary,Washington,71,98.59,,0.00,0.00,,44.818351,-92.963004
+192,Minnesota,2017-18,Kindergarden Center,Beltrami,139,98.56,,0.00,0.00,,47.8785766,-95.0147768
+193,Minnesota,2017-18,Lakeview Elementary,Hennepin,69,98.55,,1.45,0.00,,45.036055,-93.33312
+194,Minnesota,2017-18,Grey Cloud Elementary,Washington,137,98.54,,0.00,1.46,,44.841635,-92.910795
+195,Minnesota,2017-18,Hillside Elementary,Washington,68,98.53,,0.00,0.00,,44.826798,-92.940153
+196,Minnesota,2017-18,Murphy Elementary,Itasca,68,98.53,,0.00,1.47,,47.240995,-93.51968
+197,Minnesota,2017-18,Afton-Lakeland Elementary,Washington,66,98.48,,0.00,0.00,,44.942158,-92.769836
+198,Minnesota,2017-18,Cannon Falls Elementary,Goodhue,66,98.48,,1.52,0.00,,44.511655,-92.88508
+199,Minnesota,2017-18,Chatfield Elementary,Olmsted,66,98.48,,0.00,0.00,,43.8461661,-92.1647009
+200,Minnesota,2017-18,Chatfield Sec.,Olmsted,66,98.48,,0.00,0.00,,43.8461559,-92.1885471
+201,Minnesota,2017-18,Birch Grove Elementary,Hennepin,65,98.46,,0.00,1.54,,45.0993564,-93.3400965
+202,Minnesota,2017-18,Cedar Ridge Elementary,Hennepin,65,98.46,,0.00,1.54,,44.841935,-93.489122
+203,Minnesota,2017-18,Pullman Elementary,Washington,65,98.46,,0.00,1.54,,44.835426,-92.981187
+204,Minnesota,2017-18,Nativity,Ramsey,64,98.44,,0.00,0.00,,44.9322143,-93.1809905
+205,Minnesota,2017-18,Park Rapids Area Century Elementary,Hubbard,127,98.43,,0.00,0.00,,46.927999,-95.072026
+206,Minnesota,2017-18,Royalton Elementary,Morrison,63,98.41,,0.00,1.59,,45.832237,-94.290863
+207,Minnesota,2017-18,Prairie Elementary,Nobles,249,98.39,,0.40,0.40,,43.604893,-95.620718
+208,Minnesota,2017-18,Sand Creek Elementary,Anoka,124,98.39,,0.00,0.81,,45.190933,-93.287628
+209,Minnesota,2017-18,Meadowridge Elementary,Hennepin,122,98.36,,0.00,1.64,,45.060996,-93.506737
+210,Minnesota,2017-18,Glen Lake Elementary,Hennepin,59,98.31,,0.00,1.69,,44.915262,-93.456912
+211,Minnesota,2017-18,Folwell Elementary,Olmsted,58,98.28,,0.00,1.72,,44.016555,-92.485697
+212,Minnesota,2017-18,Phalen Lake,Ramsey,116,98.28,,0.86,0.00,,44.9884235,-93.0544608
+213,Minnesota,2017-18,Longfellow Elementary,Olmsted,56,98.21,,0.00,1.79,,43.9991048,-92.4344373
+214,Minnesota,2017-18,St. Charles Elementary,Winona,56,98.21,,0.00,0.00,,43.968919,-92.062689
+215,Minnesota,2017-18,Kimberly Lane Elementary,Hennepin,111,98.20,,0.00,1.80,,45.03358,-93.501213
+216,Minnesota,2017-18,Carver Elementary,Carver,109,98.17,,0.00,1.83,,44.770712,-93.644768
+217,Minnesota,2017-18,Prarie View Elementary & Middle,Sherburne,109,98.17,,0.00,0.92,,45.26697,-93.6393997
+218,Minnesota,2017-18,Red Oak Elementary,Scott,109,98.17,,0.00,0.92,,44.773076,-93.420484
+219,Minnesota,2017-18,Murray Co. Central Elementary,Murray,54,98.15,,0.00,1.85,,43.987391,-95.765025
+220,Minnesota,2017-18,Blooming Prairie Elementary,Steele,53,98.11,,1.89,0.00,,43.868787,-93.055809
+221,Minnesota,2017-18,Xinxing Academy,Hennepin,53,98.11,,0.00,1.89,,44.934206,-93.413634
+222,Minnesota,2017-18,Washington Elementary,Carlton,105,98.10,,0.00,0.95,,46.711306,-92.452015
+223,Minnesota,2017-18,Hayfield Elementary,Dodge,52,98.08,,0.00,1.92,,43.889182,-92.838299
+224,Minnesota,2017-18,Linwood Elementary,Washington,52,98.08,,0.00,0.00,,45.3671048,-93.1095331
+225,Minnesota,2017-18,St Odilia,Ramsey,52,98.08,,0.00,1.92,,45.0470095,-93.1339985
+226,Minnesota,2017-18,Rum River Elementary,Anoka,155,98.06,,0.00,1.29,,45.278155,-93.328366
+227,Minnesota,2017-18,Glacier Hills Elementary School Of Arts & Science,Dakota,103,98.06,,0.00,1.94,,44.8183574,-93.1551707
+228,Minnesota,2017-18,Franklin Elementary,Olmsted,102,98.04,,0.00,1.96,,43.994711,-92.450288
+229,Minnesota,2017-18,South Elementary,Nicollet,153,98.04,,0.00,0.00,,44.317296,-93.9725412
+230,Minnesota,2017-18,Crest View Elementary,Hennepin,50,98.00,,0.00,2.00,,45.104487,-93.354765
+231,Minnesota,2017-18,Cherry View Elementary,Dakota,96,97.92,,0.00,1.04,,44.694648,-93.239317
+232,Minnesota,2017-18,Mountain Lake Elementary,Cottonwood,48,97.92,,0.00,2.08,,43.941917,-94.925586
+233,Minnesota,2017-18,Park Spanish Immersion Elementary,Hennepin,96,97.92,,0.00,1.04,,44.939288,-93.359413
+234,Minnesota,2017-18,Parker Elementary,Sherburne,96,97.92,,1.04,1.04,,45.312377,-93.56231
+235,Minnesota,2017-18,Liberty Ridge Elementary Site 2,Washington,143,97.90,,0.00,2.10,,44.9102688,-92.8741618
+236,Minnesota,2017-18,Royal Oaks Elementary,Washington,95,97.89,,1.05,1.05,,44.919214,-92.957866
+237,Minnesota,2017-18,Caledonia Elementary,Houston,47,97.87,,0.00,0.00,,43.634057,-91.502606
+238,Minnesota,2017-18,Hilltop Elementary,Dakota,94,97.87,,0.00,2.13,,44.852155,-93.041135
+239,Minnesota,2017-18,Janesville-Waldorf-Pemberton Elementary,Waseca,47,97.87,,0.00,0.00,,44.1162953,-93.7075521
+240,Minnesota,2017-18,Plymouth Creek Elementary,Hennepin,94,97.87,,0.00,2.13,,45.030033,-93.482829
+241,Minnesota,2017-18,Elm Creek Elementary,Hennepin,92,97.83,,0.00,1.09,,45.132753,-93.409939
+242,Minnesota,2017-18,North Trail Elementary,Dakota,92,97.83,,0.00,1.09,,44.70162,-93.178795
+243,Minnesota,2017-18,Oak Ridge Elementary,Dakota,92,97.83,,0.00,2.17,,44.798829,-93.1852038
+244,Minnesota,2017-18,Bluff Creek Elementary,Carver,91,97.80,,0.00,2.20,,44.860923,-93.578582
+245,Minnesota,2017-18,Breck,Hennepin,45,97.78,,0.00,2.22,,44.98068,-93.342491
+246,Minnesota,2017-18,Keewatin Elementary,Itasca,45,97.78,,2.22,0.00,,47.3988095,-93.0794358
+247,Minnesota,2017-18,Risen Christ,Hennepin,45,97.78,,0.00,0.00,,44.9364156,-93.2578565
+248,Minnesota,2017-18,Bamber Valley Elementary,Olmsted,133,97.74,,0.00,2.26,,43.991803,-92.50037
+249,Minnesota,2017-18,Gleason Lake Elementary,Hennepin,88,97.73,,1.14,0.00,,44.981981,-93.500887
+250,Minnesota,2017-18,Emerson Spanish Immersion,Hennepin,87,97.70,,0.00,2.30,,44.9682529,-93.2804462
+251,Minnesota,2017-18,Glendale Elementary,Scott,87,97.70,,0.00,2.30,,44.7038335,-93.4277712
+252,Minnesota,2017-18,Greenhaven Elementary,St. Louis,87,97.70,,0.00,2.30,,47.408198,-92.93689
+253,Minnesota,2017-18,Elton Hills Elementary,Olmsted,86,97.67,,0.00,2.33,,44.049513,-92.48501
+254,Minnesota,2017-18,Gage Elementary,Olmsted,129,97.67,,0.00,2.33,,44.063093,-92.481842
+255,Minnesota,2017-18,Bay View Elementary,St. Louis,85,97.65,,1.18,1.18,,46.746272,-92.209675
+256,Minnesota,2017-18,Hamilton Elementary,Anoka,85,97.65,,0.00,0.00,,45.170394,-93.301308
+257,Minnesota,2017-18,St Francis Xavier,Stearns,42,97.62,,0.00,2.38,,45.6206677,-94.2087745
+258,Minnesota,2017-18,St Joseph,Dakota,42,97.62,,0.00,0.00,,44.9178316,-93.1390709
+259,Minnesota,2017-18,Expo,Ramsey,125,97.60,,0.00,1.60,,44.9251799,-93.1621718
+260,Minnesota,2017-18,Red Rock Elementary,Washington,83,97.59,,0.00,2.41,,44.899033,-92.946506
+261,Minnesota,2017-18,Sibley Elementary,Rice,83,97.59,,0.00,2.41,,44.445047,-93.151738
+262,Minnesota,2017-18,Faithful Shepherd Catholic,Dakota,41,97.56,,0.00,2.44,,44.835696,-93.138664
+263,Minnesota,2017-18,Madison Elementary,Winona,41,97.56,,0.00,2.44,,44.051793,-91.651524
+264,Minnesota,2017-18,Oakdale Elementary,Ramsey,82,97.56,,0.00,2.44,,44.960236,-92.9788899
+265,Minnesota,2017-18,Washington Elementary,Polk,81,97.53,,0.00,0.00,,47.782882,-96.609836
+266,Minnesota,2017-18,Woodland Elementary,Dakota,121,97.52,,1.65,0.83,,44.820699,-93.135595
+267,Minnesota,2017-18,Eisenhower Elementary,Anoka,120,97.50,,0.00,1.67,,45.172198,-93.268807
+268,Minnesota,2017-18,Highland Elementary,Dakota,120,97.50,,0.00,1.67,,44.744686,-93.178809
+269,Minnesota,2017-18,Nrheg Elementary,Waseca,80,97.50,,0.00,1.25,,43.8717493,-93.2969686
+270,Minnesota,2017-18,Pike Lake Elementary,St. Louis,40,97.50,,0.00,0.00,,46.864649,-92.278848
+271,Minnesota,2017-18,Rtr Elementary,Lincoln,40,97.50,,0.00,2.50,,44.1785777,-96.1016958
+272,Minnesota,2017-18,Winfair Elementary,Cottonwood,80,97.50,,0.00,0.00,,43.872134,-95.121215
+273,Minnesota,2017-18,Kaposia Education Center Elementary,Dakota,119,97.48,,0.00,0.84,,44.870038,-93.033781
+274,Minnesota,2017-18,Lincoln Center Elementary,Dakota,119,97.48,,0.00,0.84,,44.89557,-93.045879
+275,Minnesota,2017-18,Jackson Elementary,Scott,158,97.47,,0.00,2.53,,44.773448,-93.537106
+276,Minnesota,2017-18,L.H. Tanglen Elementary,Hennepin,79,97.47,,0.00,2.53,,44.960078,-93.416927
+277,Minnesota,2017-18,Lily Lake Elementary,Washington,79,97.47,,0.00,2.53,,45.048841,-92.832239
+278,Minnesota,2017-18,Cedar Creek Community Elementary,Anoka,117,97.44,,0.00,2.56,,45.3526166,-93.2485924
+279,Minnesota,2017-18,Kindergarten Center,Carver,78,97.44,,1.28,1.28,,44.825325,-93.6074223
+280,Minnesota,2017-18,St Vincent De Paul,Hennepin,39,97.44,,0.00,2.56,,45.123261,-93.396719
+281,Minnesota,2017-18,Sunset Terrace Elementary,Olmsted,117,97.44,,0.00,1.71,,44.040532,-92.493544
+282,Minnesota,2017-18,Johnsville Elementary,Anoka,155,97.42,,0.00,1.29,,45.198016,-93.244712
+283,Minnesota,2017-18,Kenwood Elementary,Hennepin,77,97.40,,0.00,2.60,,44.962212,-93.307806
+284,Minnesota,2017-18,Lincoln Elementary,Rice,77,97.40,,0.00,0.00,,44.295555,-93.287062
+285,Minnesota,2017-18,Red Pine Elementary,Dakota,114,97.37,,0.00,2.63,,44.781503,-93.109822
+286,Minnesota,2017-18,Meadowview Elementary,Dakota,113,97.35,,0.00,1.77,,44.665492,-93.190065
+287,Minnesota,2017-18,Wilson Elementary,Steele,75,97.33,,1.33,0.00,,44.080835,-93.241775
+288,Minnesota,2017-18,Faribault Consolidated Catholic,Rice,37,97.30,,0.00,2.70,,44.2897761,-93.2725479
+289,Minnesota,2017-18,Maple River West Elementary,Blue Earth,37,97.30,,0.00,0.00,,44.00193,-94.065357
+290,Minnesota,2017-18,Prairie View Elementary,Hennepin,111,97.30,,0.90,1.80,,44.875943,-93.49704
+291,Minnesota,2017-18,Sacred Heart Elementary,Polk,37,97.30,,0.00,2.70,,47.927898,-97.022168
+292,Minnesota,2017-18,Cold Spring Elementary,Stearns,73,97.26,,0.00,2.74,,45.465154,-94.425905
+293,Minnesota,2017-18,King Elementary,Itasca,73,97.26,,0.00,1.37,,47.32811,-93.786655
+294,Minnesota,2017-18,Ramsey Elementary,Anoka,73,97.26,,0.00,1.37,,45.243589,-93.414093
+295,Minnesota,2017-18,Cedar Park Elementary,Dakota,109,97.25,,0.00,2.75,,44.723732,-93.2191877
+296,Minnesota,2017-18,Oak Ridge Elementary,Stearns,145,97.24,,0.00,2.76,,45.656552,-94.228705
+297,Minnesota,2017-18,Christa Mcauliffe Elementary,Dakota,107,97.20,,0.00,2.80,,44.735513,-92.885278
+298,Minnesota,2017-18,Sky Oaks Elementary,Dakota,71,97.18,,0.00,2.82,,44.763231,-93.275211
+299,Minnesota,2017-18,Adams Elementary,Anoka,70,97.14,,0.00,2.86,,45.133499,-93.290853
+300,Minnesota,2017-18,Lino Lakes Elementary,Washington,70,97.14,,1.43,1.43,,45.197617,-93.105651
+301,Minnesota,2017-18,Morris Bye Elementary,Anoka,70,97.14,,0.00,2.86,,45.187646,-93.336821
+302,Minnesota,2017-18,Ogilvie Public Schools,Kanabec,35,97.14,,0.00,2.86,,45.8269461,-93.4321902
+303,Minnesota,2017-18,Southwest Elementary,Itasca,70,97.14,,0.00,2.86,,47.225227,-93.538396
+304,Minnesota,2017-18,St. Katharine Drexel,Stearns,35,97.14,,0.00,2.86,,45.5634447,-94.1492518
+305,Minnesota,2017-18,Sunrise River Ele.,Chisago,174,97.13,,0.00,2.87,,45.4954003,-92.9693632
+306,Minnesota,2017-18,Windom Dual Immersion,Hennepin,104,97.12,,0.00,2.88,,44.8966403,-93.2800014
+307,Minnesota,2017-18,Laketown Elementary,Carver,103,97.09,,0.00,1.94,,44.846317,-93.763715
+308,Minnesota,2017-18,Washington Elementary,St. Louis,103,97.09,,0.00,2.91,,47.900399,-91.85803
+309,Minnesota,2017-18,Cedar Mountain Elementary,Redwood,34,97.06,,0.00,2.94,,44.5276733,-94.8833766
+310,Minnesota,2017-18,Hoover Elementary,Blue Earth,102,97.06,,0.00,2.94,,45.169462,-93.327209
+311,Minnesota,2017-18,Parkers Prairie Elementary,Otter Tail,34,97.06,,0.00,2.94,,46.148735,-95.331326
+312,Minnesota,2017-18,Salem Hills Elementary,Dakota,34,97.06,,0.00,2.94,,44.864126,-93.069576
+313,Minnesota,2017-18,Walnut Grove Elementary,Cottonwood,34,97.06,,0.00,0.00,,44.0441376,-95.4332074
+314,Minnesota,2017-18,Trailview Elementary,Kanabec,101,97.03,,0.99,0.99,,45.8875553,-93.2948196
+315,Minnesota,2017-18,Barnesville Elementary,Clay,67,97.01,,0.00,2.99,,46.650545,-96.413416
+316,Minnesota,2017-18,Champlin/Brooklyn Pk Acd Math Ensci,Hennepin,133,96.99,,0.00,0.75,,45.153591,-93.356236
+317,Minnesota,2017-18,Blake Lower School-Highcroft Campu,Hennepin,33,96.97,,0.00,3.03,,44.970107,-93.530463
+318,Minnesota,2017-18,Eagle Lake Elementary,Blue Earth,66,96.97,,0.00,1.52,,44.162415,-93.886015
+319,Minnesota,2017-18,Fair Oaks Elementary,Hennepin,66,96.97,,0.00,1.52,,45.073918,-93.351695
+320,Minnesota,2017-18,Greenwood Elementary,Hennepin,132,96.97,,0.00,3.03,,45.022668,-93.509118
+321,Minnesota,2017-18,Park Elementary,Le Sueur,66,96.97,,0.00,0.00,,44.459758,-93.909537
+322,Minnesota,2017-18,Sherburn Elementary,Martin,33,96.97,,0.00,3.03,,43.65849,-94.726345
+323,Minnesota,2017-18,Lincoln Elementary,Ramsey,65,96.92,,0.00,3.08,,45.088376,-93.018656
+324,Minnesota,2017-18,Melrose Elementary,Stearns,65,96.92,,0.00,3.08,,45.683466,-94.805804
+325,Minnesota,2017-18,Stonebridge Elementary,Washington,65,96.92,,0.00,3.08,,45.062699,-92.822816
+326,Minnesota,2017-18,Hugo Elementary,Ramsey,162,96.91,,0.00,3.09,,45.1768807,-93.0080797
+327,Minnesota,2017-18,Lake Marion Elementary,Dakota,97,96.91,,0.00,3.09,,44.660287,-93.254989
+328,Minnesota,2017-18,Riverside Elementary,Crow Wing,97,96.91,,0.00,1.03,,46.356903,-94.213399
+329,Minnesota,2017-18,Liberty Elementary,Sherburne,225,96.89,,0.00,3.11,,45.342043,-93.724811
+330,Minnesota,2017-18,Alden-Conger Elementary,Freeborn,32,96.88,,0.00,3.13,,43.673117,-93.574017
+331,Minnesota,2017-18,Mckinley Elementary,Anoka,95,96.84,,0.00,3.16,,45.265115,-93.225618
+332,Minnesota,2017-18,Washington Elementary,Blue Earth,63,96.83,,0.00,3.17,,44.162669,-93.980621
+333,Minnesota,2017-18,Cowern Elementary,Ramsey,62,96.77,,0.00,1.61,,45.005509,-92.99302
+334,Minnesota,2017-18,Kennedy Elementary,Dakota,62,96.77,,0.00,1.61,,44.734634,-92.848015
+335,Minnesota,2017-18,Obama,Ramsey,62,96.77,,0.00,3.23,,44.9434656,-93.1299018
+336,Minnesota,2017-18,St Marys,Douglas,31,96.77,,0.00,3.23,,45.88736,-95.375641
+337,Minnesota,2017-18,Wilson Elementary,Anoka,186,96.77,,0.00,2.15,,45.217366,-93.369508
+338,Minnesota,2017-18,Mississippi Heights Elementary,Benton,185,96.76,,0.00,3.24,,45.588758,-94.149561
+339,Minnesota,2017-18,Highlands Elementary,Hennepin,92,96.74,,0.00,2.17,,44.905192,-93.364744
+340,Minnesota,2017-18,Snail Lake Kindergarten Center,Ramsey,337,96.74,,0.00,1.78,,45.07872,-93.115401
+341,Minnesota,2017-18,Churchill Elementary,Carlton,91,96.70,,0.00,1.10,,46.733998,-92.461111
+342,Minnesota,2017-18,Jonathan Elementary,Carver,91,96.70,,0.00,3.30,,44.829357,-93.607143
+343,Minnesota,2017-18,Pinecrest Elementary,Dakota,121,96.69,,0.00,3.31,,44.733631,-92.864756
+344,Minnesota,2017-18,Riverview Elementary,Dakota,121,96.69,,0.00,1.65,,44.645845,-93.149635
+345,Minnesota,2017-18,East Lake Elementary,Dakota,120,96.67,,0.00,3.33,,44.716,-93.158695
+346,Minnesota,2017-18,Jefferson Elementary,Winona,60,96.67,,0.00,1.67,,44.054593,-91.671195
+347,Minnesota,2017-18,Lakeaires Elementary,Ramsey,60,96.67,,0.00,1.67,,45.061873,-93.012015
+348,Minnesota,2017-18,New Ulm Area Catholic,Brown,30,96.67,,0.00,3.33,,44.3168112,-94.4679996
+349,Minnesota,2017-18,Verndale Elementary,Wadena,30,96.67,,0.00,3.33,,46.394162,-95.01829
+350,Minnesota,2017-18,New Heights Elementary,Polk,149,96.64,,0.67,2.01,,47.939423,-97.028906
+351,Minnesota,2017-18,Kennedy Elementary,Kandiyohi,119,96.64,,0.00,2.52,,45.113768,-95.051243
+352,Minnesota,2017-18,Vadnais Heights Elementary,Ramsey,59,96.61,,0.00,3.39,,45.052025,-93.068353
+353,Minnesota,2017-18,Park Side Elementary,Lyon,176,96.59,,0.00,0.57,,44.444553,-95.767683
+354,Minnesota,2017-18,Westview Elementary,Dakota,88,96.59,,0.00,2.27,,44.738543,-93.237522
+355,Minnesota,2017-18,Burroughs Elementary,Hennepin,117,96.58,,0.00,2.56,,44.911753,-93.300333
+356,Minnesota,2017-18,Wilshire Park Elementary,Hennepin,117,96.58,,0.00,2.56,,45.035069,-93.208971
+357,Minnesota,2017-18,Armstrong Elementary,Washington,58,96.55,,1.72,1.72,,44.821342,-92.93306
+358,Minnesota,2017-18,Chisago Lakes Elementary,Chisago,174,96.55,,0.00,3.45,,45.3591468,-92.8828017
+359,Minnesota,2017-18,J.W. Smith Elementary,Beltrami,58,96.55,,0.00,0.00,,47.485791,-94.883242
+360,Minnesota,2017-18,Red Lake County Central Elementary,Red Lake,29,96.55,,0.00,0.00,,47.909373,-96.042282
+361,Minnesota,2017-18,Webster Elementary,Ramsey,58,96.55,,0.00,1.72,,45.001834,-93.008922
+362,Minnesota,2017-18,Lake Harriet Lower,Hennepin,144,96.53,,0.69,1.39,,44.9289511,-93.3256697
+363,Minnesota,2017-18,Twin Lakes Elementary,Sherburne,86,96.51,,0.00,3.49,,45.320566,-93.521973
+364,Minnesota,2017-18,Riverside Elementary,Jackson,57,96.49,,0.00,3.51,,43.624999,-94.991949
+365,Minnesota,2017-18,Woodson Community,Mower,399,96.49,,1.00,1.50,,43.6527921,-92.969006
+366,Minnesota,2017-18,Winterquist Elementary,Carlton,85,96.47,,0.00,0.00,,46.70578,-92.361711
+367,Minnesota,2017-18,Gordon Bailey Elementary,Washington,113,96.46,,0.88,2.65,,44.889713,-92.96228
+368,Minnesota,2017-18,Edinbrook Elementary,Hennepin,112,96.43,,0.00,2.68,,45.116974,-93.358596
+369,Minnesota,2017-18,Lanesboro Public,Fillmore,28,96.43,,0.00,3.57,,43.7168731,-91.9764381
+370,Minnesota,2017-18,Lynd Elementary,Lyon,28,96.43,,0.00,0.00,,44.385977,-95.894107
+371,Minnesota,2017-18,St Philip's,Beltrami,28,96.43,,0.00,0.00,,47.47484,-94.880681
+372,Minnesota,2017-18,Diamond Path Elementary,Dakota,111,96.40,,0.00,3.60,,44.7397797,-93.1582508
+373,Minnesota,2017-18,Hartley Elementary,Waseca,111,96.40,,0.00,0.90,,44.083299,-93.499387
+374,Minnesota,2017-18,Carver Elementary,Ramsey,83,96.39,,0.00,2.41,,44.940487,-92.986556
+375,Minnesota,2017-18,North Park Elementary,Anoka,55,96.36,,0.00,1.82,,45.069154,-93.240695
+376,Minnesota,2017-18,Rice Elementary,Benton,55,96.36,,0.00,3.64,,45.755612,-94.21792
+377,Minnesota,2017-18,Normandale Elementary,Hennepin,109,96.33,,0.00,2.75,,44.899346,-93.34889
+378,Minnesota,2017-18,Braham Elementary,Isanti,54,96.30,,0.00,3.70,,45.717197,-93.17992
+379,Minnesota,2017-18,Highland Elementary,Anoka,81,96.30,,0.00,2.47,,45.055452,-93.238093
+380,Minnesota,2017-18,Lindbergh Elementary,Morrison,81,96.30,,0.00,3.70,,45.975072,-94.349641
+381,Minnesota,2017-18,Maple River East Elementary,Blue Earth,27,96.30,,0.00,3.70,,43.8375518,-93.8317905
+382,Minnesota,2017-18,Richfield Dual Language,Hennepin,81,96.30,,0.00,2.47,,44.875461,-93.260933
+383,Minnesota,2017-18,Riverside Central,Olmsted,81,96.30,,0.00,3.70,,44.0177206,-92.4555359
+384,Minnesota,2017-18,Lincoln Elementary,Steele,80,96.25,,1.25,1.25,,44.072099,-93.209313
+385,Minnesota,2017-18,Meadow Lake Elementary,Hennepin,80,96.25,,0.00,2.50,,45.065164,-93.388977
+386,Minnesota,2017-18,Greenleaf Elementary,Dakota,133,96.24,,0.00,1.50,,44.755318,-93.208831
+387,Minnesota,2017-18,Bonner Elementary,Olmsted,159,96.23,,0.00,3.77,,43.849013,-92.479172
+388,Minnesota,2017-18,Woodland Elementary,Hennepin,132,96.21,,0.00,3.03,,45.12813,-93.337442
+389,Minnesota,2017-18,Battle Creek Elementary,Ramsey,79,96.20,,0.00,2.53,,44.939679,-93.013861
+390,Minnesota,2017-18,Edgewood,Scott,79,96.20,,0.00,2.53,,44.7190974,-93.4129435
+391,Minnesota,2017-18,Prairie Woods Elementary,Kandiyohi,105,96.19,,0.00,3.81,,45.290642,-94.952263
+392,Minnesota,2017-18,Pike Lake Kindergarten Center,Ramsey,523,96.18,,0.00,2.29,,45.07083,-93.214871
+393,Minnesota,2017-18,Schumann Elementary,Hennepin,183,96.17,,0.00,0.00,,44.992429,-93.595887
+394,Minnesota,2017-18,C.E. Jacobson Elementary,Chisago,52,96.15,,0.00,1.92,,45.688787,-92.972246
+395,Minnesota,2017-18,Carlos Elementary,Douglas,26,96.15,,0.00,3.85,,45.975789,-95.291309
+396,Minnesota,2017-18,Mabel-Canton,Fillmore,26,96.15,,0.00,3.85,,43.5198735,-91.7732805
+397,Minnesota,2017-18,Spring Grove Public Schools,Houston,26,96.15,,0.00,3.85,,43.5607407,-91.6413871
+398,Minnesota,2017-18,Woodbury Leadership Academy,Washington,52,96.15,,0.00,0.00,,44.93771,-92.971531
+399,Minnesota,2017-18,Albertville Primary Elementary,Wright,412,96.12,,0.24,2.91,,45.2298417,-93.6526917
+400,Minnesota,2017-18,Morris Area Elementary,Stevens,77,96.10,,0.00,2.60,,45.583854,-95.900538
+401,Minnesota,2017-18,Roosevelt Elementary,Rice,77,96.10,,0.00,2.60,,44.299442,-93.252783
+402,Minnesota,2017-18,Gibbs Elementary,Olmsted,153,96.08,,0.65,1.96,,44.081765,-92.549605
+403,Minnesota,2017-18,Shannon Park Elementary,Dakota,102,96.08,,0.00,3.92,,44.756025,-93.142855
+404,Minnesota,2017-18,Battle Lake Elementary,Otter Tail,25,96.00,,0.00,4.00,,46.283659,-95.721702
+405,Minnesota,2017-18,Hermantown Elementary,St. Louis,150,96.00,,0.00,4.00,,46.822769,-92.245479
+406,Minnesota,2017-18,Madison Elementary,Anoka,75,96.00,,0.00,1.33,,45.160119,-93.253965
+407,Minnesota,2017-18,St Joseph,Itasca,25,96.00,,0.00,4.00,,47.2106872,-93.5384847
+408,Minnesota,2017-18,Viking Elementary,Marshall,25,96.00,,0.00,4.00,,48.220752,-96.407983
+409,Minnesota,2017-18,Albany Elementary,Stearns,99,95.96,,0.00,4.04,,45.631601,-94.556748
+410,Minnesota,2017-18,Falls Elementary,Koochiching,74,95.95,,0.00,2.70,,48.591697,-93.425504
+411,Minnesota,2017-18,Indian Mounds Elementary,Hennepin,49,95.92,,0.00,4.08,,44.825582,-93.258351
+412,Minnesota,2017-18,Lakeview Public Schools,Lyon,49,95.92,,0.00,0.00,,44.6220252,-95.6672877
+413,Minnesota,2017-18,Chanhassen Elementary,Carver,73,95.89,,0.00,4.11,,44.864881,-93.537411
+414,Minnesota,2017-18,Fair--Pilgrim Lane Elementary,Hennepin,73,95.89,,0.00,4.11,,45.0270625,-93.3570285
+415,Minnesota,2017-18,Sibley East-Gaylord Elementary,Sibley,73,95.89,,0.00,1.37,,44.559944,-94.205167
+416,Minnesota,2017-18,Washington Elementary,Steele,73,95.89,,0.00,1.37,,44.09837,-93.218761
+417,Minnesota,2017-18,Folwell Performing Arts Magnet,Hennepin,97,95.88,,0.00,2.06,,44.9371453,-93.2429222
+418,Minnesota,2017-18,Avon Elementary,Stearns,48,95.83,,0.00,4.17,,45.614596,-94.447787
+419,Minnesota,2017-18,Hayes Elementary,Anoka,96,95.83,,1.04,2.08,,45.086884,-93.254094
+420,Minnesota,2017-18,Marquette,St. Louis,24,95.83,,0.00,4.17,,47.5207305,-92.5355997
+421,Minnesota,2017-18,Montgomery K-8,Le Sueur,48,95.83,,0.00,4.17,,44.4405499,-93.5794899
+422,Minnesota,2017-18,Washburn Elementary,Hennepin,72,95.83,,0.00,4.17,,44.850966,-93.317869
+423,Minnesota,2017-18,William Byrne Elementary,Dakota,72,95.83,,0.00,0.00,,44.793727,-93.236233
+424,Minnesota,2017-18,Forest Elementary,Hennepin,95,95.79,,0.00,3.16,,45.040949,-93.36758
+425,Minnesota,2017-18,Eastview Education Center,Wright,332,95.78,,0.00,2.11,,45.286821,-93.772115
+426,Minnesota,2017-18,Falcon Heights Elementary,Ramsey,71,95.77,,0.00,2.82,,44.995907,-93.158938
+427,Minnesota,2017-18,Franklin Elementary,Anoka,71,95.77,,0.00,1.41,,45.201228,-93.394685
+428,Minnesota,2017-18,Congdon Park Elementary,St. Louis,94,95.74,,0.00,1.06,,46.816986,-92.057604
+429,Minnesota,2017-18,Merritt Elementary,St. Louis,47,95.74,,0.00,4.26,,47.518636,-92.594906
+430,Minnesota,2017-18,St. Paul Music Academy,Ramsey,94,95.74,,0.00,1.06,,44.9760299,-93.1002978
+431,Minnesota,2017-18,Baxter Elementary,Crow Wing,93,95.70,,0.00,4.30,,46.344418,-94.285955
+432,Minnesota,2017-18,Garlough Elementary,Dakota,93,95.70,,0.00,0.00,,44.8936749,-93.0944911
+433,Minnesota,2017-18,Bert Raney Elementary,Yellow Medicine,46,95.65,,0.00,0.00,,44.811638,-95.546227
+434,Minnesota,2017-18,Columbus Elementary,Washington,46,95.65,,0.00,2.17,,45.2839112,-93.0489586
+435,Minnesota,2017-18,Floodwood Elementary,St. Louis,23,95.65,,0.00,0.00,,46.930252,-92.915717
+436,Minnesota,2017-18,Liberty Classical,Ramsey,23,95.65,,0.00,4.35,,45.05842,-93.019389
+437,Minnesota,2017-18,Northpoint Elementary,Anoka,161,95.65,,0.00,4.35,,45.194622,-93.210844
+438,Minnesota,2017-18,Northwinds Elementary,Wright,92,95.65,,0.00,4.35,,45.184169,-93.891593
+439,Minnesota,2017-18,Pine Meadow Elementary,Stearns,115,95.65,,0.00,4.35,,45.627733,-94.225549
+440,Minnesota,2017-18,St Pius X,Olmsted,23,95.65,,0.00,4.35,,44.0353442,-92.4809034
+441,Minnesota,2017-18,Susan Lindgren Elementary,Hennepin,92,95.65,,0.00,3.26,,44.928699,-93.3407
+442,Minnesota,2017-18,Bryon Primary,Olmsted,160,95.63,,0.63,3.13,,44.033548,-92.630079
+443,Minnesota,2017-18,Falcon Ridge Elementary,Scott,91,95.60,,0.00,2.20,,44.556143,-93.574712
+444,Minnesota,2017-18,Jefferson Elementary,Rice,68,95.59,,0.00,4.41,,44.280413,-93.28573
+445,Minnesota,2017-18,Basswood Elementary,Hennepin,181,95.58,,0.55,2.76,,45.078304,-93.477899
+446,Minnesota,2017-18,Goodhue Public,Goodhue,45,95.56,,0.00,2.22,,44.401807,-92.6284819
+447,Minnesota,2017-18,Middleton Elementary,Washington,90,95.56,,0.00,4.44,,44.903945,-92.921287
+448,Minnesota,2017-18,Centennial Elementary,Hennepin,67,95.52,,0.00,0.00,,44.870467,-93.252475
+449,Minnesota,2017-18,Birchview Elementary,Hennepin,89,95.51,,2.25,2.25,,44.983689,-93.477683
+450,Minnesota,2017-18,East Bethel Community Elementary,Anoka,89,95.51,,0.00,4.49,,45.3551596,-93.2485343
+451,Minnesota,2017-18,Sunnyside Elementary,Goodhue,222,95.50,,0.00,3.60,,44.550819,-92.540556
+452,Minnesota,2017-18,All Saints Catholic,Dakota,44,95.45,,0.00,4.55,,44.6619295,-93.2459294
+453,Minnesota,2017-18,Eastern Heights,Ramsey,66,95.45,,0.00,0.00,,44.9617331,-93.0165238
+454,Minnesota,2017-18,Eden Valley Elementary,Meeker,22,95.45,,0.00,4.55,,45.3253888,-94.5446263
+455,Minnesota,2017-18,Fisher Public,Polk,22,95.45,,0.00,0.00,,47.7975395,-96.7970774
+456,Minnesota,2017-18,Miltona Elementary,Douglas,22,95.45,,0.00,4.55,,46.04326,-95.288549
+457,Minnesota,2017-18,Minneota Public Schools,Lyon,44,95.45,,0.00,0.00,,44.5632484,-95.9808379
+458,Minnesota,2017-18,Rochester Montessori,Olmsted,22,95.45,,0.00,0.00,,44.035338,-92.539696
+459,Minnesota,2017-18,Stevenson Elementary,Anoka,110,95.45,,0.00,4.55,,45.078234,-93.274721
+460,Minnesota,2017-18,Waite Park Elementary,Hennepin,66,95.45,,0.00,0.00,,45.02986,-93.234604
+461,Minnesota,2017-18,Winsted Elementary,Wright,44,95.45,,0.00,4.55,,44.968368,-94.0501118
+462,Minnesota,2017-18,Lk Crystal Welcome Memorial Elementary,Blue Earth,87,95.40,,0.00,1.15,,44.0573251,-94.19234
+463,Minnesota,2017-18,Ben Mays,Ramsey,86,95.35,,2.33,1.16,,44.9504518,-93.1223968
+464,Minnesota,2017-18,Blue Heron Elementary,Anoka,129,95.35,,0.00,3.88,,45.171868,-93.123862
+465,Minnesota,2017-18,Highland Catholic,Ramsey,43,95.35,,0.00,0.00,,44.91663,-93.185331
+466,Minnesota,2017-18,Stowe Elementary,St. Louis,43,95.35,,0.00,2.33,,46.664402,-92.229453
+467,Minnesota,2017-18,Kennedy Elementary,Dakota,107,95.33,,0.00,4.67,,44.734634,-92.848015
+468,Minnesota,2017-18,Edgerton Elementary,Ramsey,64,95.31,,0.00,1.56,,44.999965,-93.077477
+469,Minnesota,2017-18,Hillcrest Elementary,Hennepin,64,95.31,,0.00,3.13,,44.834689,-93.315011
+470,Minnesota,2017-18,Mississippi Elementary,Anoka,64,95.31,,0.00,0.00,,45.165191,-93.340723
+471,Minnesota,2017-18,Warroad Elementary,Roseau,64,95.31,,0.00,3.13,,48.910843,-95.329776
+472,Minnesota,2017-18,Sanford Education Center,Chippewa,106,95.28,,0.00,2.83,,44.94214,-95.710115
+473,Minnesota,2017-18,Goodview Elementary,Winona,42,95.24,,0.00,2.38,,44.065831,-91.708541
+474,Minnesota,2017-18,Mahnomen Elementary,Mahnomen,63,95.24,,0.00,4.76,,47.313936,-95.971428
+475,Minnesota,2017-18,Pelican Rapids Elementary,Otter Tail,63,95.24,,0.00,0.00,,46.5633234,-96.0820988
+476,Minnesota,2017-18,Rush Creek Elementary,Hennepin,126,95.24,,0.79,3.97,,45.114768,-93.514473
+477,Minnesota,2017-18,Vista View Elementary,Dakota,63,95.24,,0.00,4.76,,44.765338,-93.303259
+478,Minnesota,2017-18,Humphrey Elementary,Wright,62,95.16,,0.00,4.84,,45.066475,-93.973636
+479,Minnesota,2017-18,Oxbow Creek Elementary,Hennepin,186,95.16,,0.00,1.08,,45.151178,-93.364714
+480,Minnesota,2017-18,Birch Lake Elementary,Ramsey,41,95.12,,2.44,2.44,,45.082032,-93.033467
+481,Minnesota,2017-18,Reede Gray Elementary,Redwood,82,95.12,,0.00,2.44,,44.536005,-95.103505
+482,Minnesota,2017-18,Watertown-Mayer Primary,Carver,102,95.10,,0.98,0.98,,44.966842,-93.847823
+483,Minnesota,2017-18,Lincoln Elementary,Morrison,61,95.08,,0.00,4.92,,45.97459,-94.378427
+484,Minnesota,2017-18,Pleasant View Elementary,Benton,122,95.08,,0.00,4.10,,45.600979,-94.170939
+485,Minnesota,2017-18,Saint Ambrose Of Woodbury,Washington,61,95.08,,0.00,4.92,,44.8887332,-92.9014779
+486,Minnesota,2017-18,Wadena-Deer Creek Elementary,Wadena,81,95.06,,0.00,4.94,,46.440489,-95.142576
+487,Minnesota,2017-18,Hutchinson West Elementary,McLeod,182,95.05,,0.00,4.95,,44.879891,-94.394665
+488,Minnesota,2017-18,Rogers Elementary,Sherburne,101,95.05,,0.00,3.96,,45.320952,-93.559618
+489,Minnesota,2017-18,Andersen Elementary,Washington,60,95.00,,0.00,3.33,,45.019055,-92.780566
+490,Minnesota,2017-18,Fond Du Lac Ojibwe,Carlton,20,95.00,,0.00,0.00,,46.710936,-92.513234
+491,Minnesota,2017-18,Minnewaska Elementary K-3,Pope,100,95.00,,0.00,1.00,,45.6462101,-95.3838027
+492,Minnesota,2017-18,Neill Elementary,Hennepin,60,95.00,,1.67,3.33,,45.008239,-93.363889
+493,Minnesota,2017-18,Park Brook Elementary,Hennepin,40,95.00,,0.00,5.00,,45.088903,-93.367817
+494,Minnesota,2017-18,Parkview Center Elementary,Ramsey,80,95.00,,0.00,2.50,,45.006366,-93.1302271
+495,Minnesota,2017-18,Shirley Hills Primary,Hennepin,80,95.00,,0.00,3.75,,44.933723,-93.657011
+496,Minnesota,2017-18,St. Francis Elementary,Anoka,100,95.00,,1.00,3.00,,45.385377,-93.366259
+497,Minnesota,2017-18,Sun Path Elementary,Scott,100,95.00,,0.00,5.00,,44.773001,-93.49324
+498,Minnesota,2017-18,West Side Summit Charter,Ramsey,20,95.00,,0.00,0.00,,44.931261,-93.086272
+499,Minnesota,2017-18,Isanti Primary,Isanti,139,94.96,,0.00,2.16,,45.494083,-93.252
+500,Minnesota,2017-18,Clearview Elementary,Stearns,79,94.94,,0.00,5.06,,45.4376428,-94.010926
+501,Minnesota,2017-18,Orchard Lake Elementary,Dakota,78,94.87,,0.00,3.85,,44.7097978,-93.3058466
+502,Minnesota,2017-18,Southland Elementary,Mower,39,94.87,,0.00,0.00,,43.605415,-92.829355
+503,Minnesota,2017-18,Hilltop Primary,Hennepin,97,94.85,,0.00,5.15,,44.953126,-93.669676
+504,Minnesota,2017-18,Groveland Elementary,Hennepin,155,94.84,,0.65,4.52,,44.942486,-93.49852
+505,Minnesota,2017-18,M.W. Savage Elementary,Dakota,58,94.83,,0.00,5.17,,44.7748693,-93.3408075
+506,Minnesota,2017-18,Homecroft Elementary,St. Louis,58,94.83,,0.00,1.72,,46.857413,-92.110411
+507,Minnesota,2017-18,Aurora Charter,Hennepin,38,94.74,,0.00,0.00,,44.956274,-93.240414
+508,Minnesota,2017-18,Eagle View Elementary,Scott,76,94.74,,0.00,5.26,,44.547078,-93.577591
+509,Minnesota,2017-18,Jie Ming Mandarin Immersion Academy,Ramsey,76,94.74,,0.00,2.63,,44.9647,-93.1684
+510,Minnesota,2017-18,Medford Elementary,Steele,57,94.74,,0.00,1.75,,44.173469,-93.233244
+511,Minnesota,2017-18,Ridgeview Elementary,Hennepin,57,94.74,,0.00,5.26,,44.832169,-93.359515
+512,Minnesota,2017-18,Thomas Lake Elementary,Dakota,76,94.74,,0.00,5.26,,44.79812,-93.174128
+513,Minnesota,2017-18,Hidden Valley Elementary,Dakota,75,94.67,,0.00,5.33,,44.7530136,-93.3324784
+514,Minnesota,2017-18,Sheridan Hills Elementary,Hennepin,75,94.67,,0.00,1.33,,44.886772,-93.312928
+515,Minnesota,2017-18,Hassan Elementary,Sherburne,112,94.64,,0.00,3.57,,45.2094972,-93.5769983
+516,Minnesota,2017-18,Sweeney Elementary,Scott,112,94.64,,0.00,4.46,,44.787413,-93.53988
+517,Minnesota,2017-18,Annunciation,Hennepin,37,94.59,,0.00,5.41,,44.904678,-93.286968
+518,Minnesota,2017-18,Bayview Elementary,Carver,91,94.51,,0.00,5.49,,44.85081,-93.79419
+519,Minnesota,2017-18,North Star,St. Louis,91,94.51,,0.00,1.10,,46.8275554,-92.1340942
+520,Minnesota,2017-18,Echo Park Elementary,Dakota,127,94.49,,0.00,3.94,,44.7495957,-93.2613584
+521,Minnesota,2017-18,Adrian Elementary,Nobles,36,94.44,,0.00,2.78,,43.631434,-95.931415
+522,Minnesota,2017-18,Halverson Elementary,Freeborn,54,94.44,,0.00,0.00,,43.631363,-93.356094
+523,Minnesota,2017-18,St Andrews Catholic,Sherburne,18,94.44,,0.00,5.56,,45.3062092,-93.5647623
+524,Minnesota,2017-18,St John Lutheran,Redwood,18,94.44,,0.00,5.56,,44.5302,-95.094921
+525,Minnesota,2017-18,St Mary,Stearns,18,94.44,,0.00,0.00,,45.6725124,-94.8079529
+526,Minnesota,2017-18,St Michaels Catholic,Scott,18,94.44,,0.00,5.56,,44.713466,-93.429745
+527,Minnesota,2017-18,Westwood Elementary,Hennepin,72,94.44,,0.00,5.56,,44.80768,-93.32687
+528,Minnesota,2017-18,Oak Point Elementary,Hennepin,89,94.38,,3.37,0.00,,44.844248,-93.446454
+529,Minnesota,2017-18,Waterville Elementary,Le Sueur,53,94.34,,0.00,3.77,,44.217256,-93.562809
+530,Minnesota,2017-18,St Charles Borromeo,Hennepin,35,94.29,,0.00,0.00,,45.017628,-93.225895
+531,Minnesota,2017-18,Zanewood Community,Hennepin,70,94.29,,0.00,0.00,,45.082783,-93.354905
+532,Minnesota,2017-18,Skyview Community Elementary,Ramsey,87,94.25,,1.15,4.60,,44.9655559,-92.9449565
+533,Minnesota,2017-18,Barnum Elementary,Carlton,52,94.23,,0.00,3.85,,46.505617,-92.69045
+534,Minnesota,2017-18,Clear Springs Elementary,Hennepin,172,94.19,,1.16,2.33,,44.900526,-93.51041
+535,Minnesota,2017-18,Poplar Bridge Elementary,Hennepin,86,94.19,,0.00,4.65,,44.850788,-93.341277
+536,Minnesota,2017-18,Vento,Ramsey,86,94.19,,0.00,1.16,,44.9708968,-93.0829014
+537,Minnesota,2017-18,Rossman Elementary,Becker,103,94.17,,0.00,3.88,,46.810309,-95.852185
+538,Minnesota,2017-18,Fillmore Central Elementary,Fillmore,34,94.12,,0.00,2.94,,43.676272,-92.091181
+539,Minnesota,2017-18,First Lutheran Magneson,Ramsey,17,94.12,,0.00,5.88,,45.0628966,-93.0243214
+540,Minnesota,2017-18,Golden Lake Elementary,Anoka,68,94.12,,0.00,4.41,,45.132662,-93.150155
+541,Minnesota,2017-18,Roosevelt Elementary,Blue Earth,68,94.12,,0.00,5.88,,44.157679,-94.021369
+542,Minnesota,2017-18,St Johns Lutheran,Hennepin,17,94.12,,0.00,5.88,,"45.3296539,-93.5040832",-92.272394
+543,Minnesota,2017-18,Trinity First Lutheran,Hennepin,17,94.12,,0.00,5.88,,44.9633,-93.257481
+544,Minnesota,2017-18,Valley Crossing Elementary,Washington,102,94.12,,0.98,4.90,,44.9174,-92.905801
+545,Minnesota,2017-18,Rice Lake Elementary,Hennepin,118,94.07,,0.00,5.08,,45.115535,-93.453887
+546,Minnesota,2017-18,Eastview Elementary,Dakota,101,94.06,,0.00,5.94,,44.68267,-93.256495
+547,Minnesota,2017-18,Wildwood Elementary,Washington,184,94.02,,0.00,4.89,,45.059272,-92.928802
+548,Minnesota,2017-18,Canby Elementary,Yellow Medicine,50,94.00,,0.00,6.00,,44.710871,-96.278754
+549,Minnesota,2017-18,Forest View Elementary,Washington,100,94.00,,0.00,2.00,,45.272273,-92.989366
+550,Minnesota,2017-18,Lincoln At Mann Elementary,Olmsted,50,94.00,,0.00,6.00,,44.0083812,-92.4516212
+551,Minnesota,2017-18,St Hubert Catholic,Carver,50,94.00,,0.00,6.00,,44.8543513,-93.5321179
+552,Minnesota,2017-18,Bluff View Elementary,Wabasha,83,93.98,,0.00,6.02,,44.436298,-92.272637
+553,Minnesota,2017-18,Banaadir Academy K-8,Hennepin,33,93.94,,0.00,0.00,,44.956388,-93.233587
+554,Minnesota,2017-18,Eagle Heights Spanish Immersion,Hennepin,132,93.94,,0.76,5.30,,44.844837,-93.446808
+555,Minnesota,2017-18,Hale Elementary,Hennepin,132,93.94,,0.00,1.52,,44.905719,-93.256832
+556,Minnesota,2017-18,School For All Seasons,Isanti,33,93.94,,0.00,3.03,,45.493536,-93.25132
+557,Minnesota,2017-18,Eden Lake Elementary,Hennepin,115,93.91,,1.74,4.35,,44.843136,-93.428526
+558,Minnesota,2017-18,Lyndale Elementary,Hennepin,82,93.90,,0.00,4.88,,44.941837,-93.283708
+559,Minnesota,2017-18,Lonsdale K-4,Le Sueur,49,93.88,,0.00,6.12,,44.473501,-93.446553
+560,Minnesota,2017-18,University Elementary,Anoka,98,93.88,,0.00,5.10,,45.150902,-93.265474
+561,Minnesota,2017-18,Oak Grove Elementary,Hennepin,65,93.85,,0.00,3.08,,44.814582,-93.296613
+562,Minnesota,2017-18,Westwood Elementary,Scott,65,93.85,,3.08,1.54,,44.8077072,-93.3270085
+563,Minnesota,2017-18,Willow Lane Elementary,Ramsey,81,93.83,,1.23,3.70,,45.044781,-93.026527
+564,Minnesota,2017-18,Roosevelt Elementary,Becker,113,93.81,,0.00,3.54,,46.822065,-95.835891
+565,Minnesota,2017-18,Castle Elementary,Ramsey,80,93.75,,1.25,2.50,,45.0207996,-92.9707684
+566,Minnesota,2017-18,Montrose Elementary,Wright,64,93.75,,0.00,3.13,,45.067972,-93.908721
+567,Minnesota,2017-18,Prince Of Peace Lutheran,Stearns,16,93.75,,0.00,0.00,,45.58441,-94.220571
+568,Minnesota,2017-18,Robbinsdale Steam,Hennepin,64,93.75,,0.00,6.25,,45.0233344,-93.3461049
+569,Minnesota,2017-18,Sioux Trail Elementary,Dakota,48,93.75,,0.00,4.17,,44.802068,-93.233208
+570,Minnesota,2017-18,St Annes,Le Sueur,16,93.75,,0.00,6.25,,44.4647824,-93.908075
+571,Minnesota,2017-18,Win-E-Mac,Polk,32,93.75,,0.00,6.25,,47.667566,-95.981539
+572,Minnesota,2017-18,Lakes International Language Academy,Washington,127,93.70,,0.00,5.51,,45.267722,-92.9806593
+573,Minnesota,2017-18,Kenny Elementary,Hennepin,79,93.67,,0.00,0.00,,44.899027,-93.295414
+574,Minnesota,2017-18,Park Terrace Elementary,Anoka,142,93.66,,0.00,4.93,,45.118205,-93.257275
+575,Minnesota,2017-18,Cottage Grove Elementary,Washington,63,93.65,,0.00,6.35,,44.853751,-92.95567
+576,Minnesota,2017-18,Oakwood Elementary,Hennepin,94,93.62,,0.00,2.13,,44.996828,-93.50001
+577,Minnesota,2017-18,Pine Island Elementary,Goodhue,141,93.62,,0.00,5.67,,44.20127,-92.644606
+578,Minnesota,2017-18,Beacon Academy,Hennepin,78,93.59,,0.00,5.13,,45.019021,-93.371227
+579,Minnesota,2017-18,Ascension,Hennepin,31,93.55,,0.00,0.00,,44.9971947,-93.2915388
+580,Minnesota,2017-18,Lake Country,Hennepin,31,93.55,,0.00,6.45,,44.934362,-93.282645
+581,Minnesota,2017-18,Victoria Elementary,Carver,124,93.55,,0.00,4.84,,44.836173,-93.658728
+582,Minnesota,2017-18,Matoska International,Ramsey,92,93.48,,0.00,6.52,,45.051739,-92.993371
+583,Minnesota,2017-18,Newport Elementary,Washington,46,93.48,,0.00,2.17,,44.863281,-93.001625
+584,Minnesota,2017-18,Lincoln Elementary,Beltrami,76,93.42,,0.00,2.63,,47.465509,-94.844759
+585,Minnesota,2017-18,Princeton Primary School K-2,Mille Lacs,241,93.36,,0.00,3.73,,#N/A,-93.5931187
+586,Minnesota,2017-18,Ellsworth Elementary,Nobles,15,93.33,,0.00,6.67,,43.515782,-96.019112
+587,Minnesota,2017-18,Jordan Elementary,Scott,120,93.33,,0.83,5.83,,44.660834,-93.640028
+588,Minnesota,2017-18,La Academia,Carver,75,93.33,,0.00,6.67,,44.80992,-93.599916
+589,Minnesota,2017-18,Lincoln Elementary,Douglas,75,93.33,,0.00,4.00,,45.878752,-95.389016
+590,Minnesota,2017-18,Meadowvale Elementary,Sherburne,90,93.33,,0.00,6.67,,45.322275,-93.58814
+591,Minnesota,2017-18,Pope John Paul Ii,Hennepin,15,93.33,,0.00,0.00,,45.004761,-93.261722
+592,Minnesota,2017-18,St Croix Preparatory Academy,Washington,90,93.33,,0.00,5.56,,45.012025,-92.7966639
+593,Minnesota,2017-18,St. Mary Catholic,Stevens,15,93.33,,0.00,6.67,,45.5867485,-95.9092946
+594,Minnesota,2017-18,Washington Elementary,Olmsted,60,93.33,,0.00,1.67,,44.034497,-92.478496
+595,Minnesota,2017-18,Fernbrook Elementary,Hennepin,119,93.28,,0.00,6.72,,45.132188,-93.469645
+596,Minnesota,2017-18,Mendota Elementary,Dakota,88,93.18,,0.00,4.55,,44.886836,-93.143031
+597,Minnesota,2017-18,Becker Primary,Sherburne,204,93.14,,0.00,6.37,,45.396746,-93.875774
+598,Minnesota,2017-18,Annandale Elementary,Wright,145,93.10,,0.00,6.90,,45.267653,-94.115257
+599,Minnesota,2017-18,Blessed Trinity-Penn Campus,Hennepin,29,93.10,,3.45,0.00,,44.86645,-93.310381
+600,Minnesota,2017-18,Northview Elementary,Dakota,87,93.10,,0.00,5.75,,44.805546,-93.137784
+601,Minnesota,2017-18,Oak View Elementary,Hennepin,87,93.10,,0.00,4.60,,45.078009,-93.43686
+602,Minnesota,2017-18,Richardson Elementary,Ramsey,87,93.10,,0.00,4.60,,45.019978,-92.99831
+603,Minnesota,2017-18,Chatfield Elementary,Scott,144,93.06,,0.69,6.25,,44.618351,-93.771798
+604,Minnesota,2017-18,Creek Valley Elementary,Hennepin,86,93.02,,0.00,6.98,,44.886622,-93.383184
+605,Minnesota,2017-18,Lake Park Elementary,Becker,43,93.02,,0.00,6.98,,46.864676,-95.980917
+606,Minnesota,2017-18,Magelssen Elementary,Polk,43,93.02,,0.00,4.65,,47.573676,-95.743039
+607,Minnesota,2017-18,Whittier Park International Elementary,Hennepin,86,93.02,,0.00,0.00,,44.9547488,-93.2839143
+608,Minnesota,2017-18,Aquila Elementary,Hennepin,100,93.00,,0.00,2.00,,44.947703,-93.386899
+609,Minnesota,2017-18,Greenvale Park Elementary,Rice,85,92.94,,0.00,5.88,,44.469006,-93.16998
+610,Minnesota,2017-18,Piedmont Elementary,St. Louis,99,92.93,,0.00,6.06,,46.783169,-92.159033
+611,Minnesota,2017-18,Lincoln Elementary,Sherburne,113,92.92,,0.00,7.08,,45.312662,-93.565531
+612,Minnesota,2017-18,Forest Hills Elementary,Hennepin,98,92.86,,1.02,6.12,,44.881095,-93.45079
+613,Minnesota,2017-18,Hendricks Public,Lincoln,14,92.86,,0.00,0.00,,44.5064328,-96.4221292
+614,Minnesota,2017-18,Houston Elementary,Houston,28,92.86,,0.00,0.00,,43.760678,-91.566896
+615,Minnesota,2017-18,Lincoln Elementary,McLeod,98,92.86,,0.00,5.10,,44.775747,-94.156356
+616,Minnesota,2017-18,Moose Lake Elementary,Carlton,56,92.86,,0.00,1.79,,46.429774,-92.760027
+617,Minnesota,2017-18,Parkview Elementary,Dakota,154,92.86,,0.00,2.60,,44.712909,-93.203136
+618,Minnesota,2017-18,Rochester Arts And Science Academy,Olmsted,14,92.86,,0.00,0.00,,44.0120855,-92.48581
+619,Minnesota,2017-18,St John The Baptist-Vermillion,Dakota,14,92.86,,0.00,7.14,,44.6735597,-92.9660704
+620,Minnesota,2017-18,Taylors Falls Elementary,Chisago,56,92.86,,0.00,7.14,,45.407196,-92.65581
+621,Minnesota,2017-18,West Central Area North Elementary,Grant,28,92.86,,0.00,3.57,,45.9094913,-95.8954883
+622,Minnesota,2017-18,Five Hawks Elementary,Scott,97,92.78,,1.03,2.06,,44.708087,-93.436822
+623,Minnesota,2017-18,Cohasset Elementary,Itasca,69,92.75,,0.00,4.35,,47.265664,-93.618388
+624,Minnesota,2017-18,Crestview Elementary,Washington,55,92.73,,0.00,3.64,,44.834527,-92.947861
+625,Minnesota,2017-18,Noble Academy,Hennepin,110,92.73,,0.00,0.00,,45.126681,-93.400663
+626,Minnesota,2017-18,Lowell Elementary,St. Louis,96,92.71,,0.00,0.00,,46.813984,-92.121866
+627,Minnesota,2017-18,Delano Elementary,Wright,150,92.67,,0.00,5.33,,45.049137,-93.774522
+628,Minnesota,2017-18,Cuyuna Range Elementary,Crow Wing,68,92.65,,0.00,7.35,,46.487143,-93.939908
+629,Minnesota,2017-18,Pacelli Catholic Schools,Mower,27,92.59,,0.00,3.70,,43.670086,-92.980156
+630,Minnesota,2017-18,Sauk Centre Elementary,Stearns,81,92.59,,0.00,4.94,,45.730181,-94.942403
+631,Minnesota,2017-18,Woodcrest Elementary,Anoka,108,92.59,,3.70,3.70,,45.107169,-93.248951
+632,Minnesota,2017-18,Mckinley Elementary,Otter Tail,202,92.57,,0.00,5.94,,46.288334,-96.088037
+633,Minnesota,2017-18,Zimmerman Elementary,Sherburne,188,92.55,,0.00,6.91,,45.440755,-93.591878
+634,Minnesota,2017-18,Pioneer Elementary,Morrison,67,92.54,,0.00,4.48,,45.980667,-94.095962
+635,Minnesota,2017-18,Countryside Elementary,Hennepin,80,92.50,,1.25,5.00,,44.896417,-93.369113
+636,Minnesota,2017-18,Global Academy,Anoka,53,92.45,,0.00,0.00,,45.042266,-93.246031
+637,Minnesota,2017-18,Lowell Elementary,Crow Wing,66,92.42,,0.00,4.55,,46.366405,-94.185074
+638,Minnesota,2017-18,Bancroft Elementary,Hennepin,92,92.39,,0.00,1.09,,44.933831,-93.255809
+639,Minnesota,2017-18,All Saints Academy - St Cloud Campus,Stearns,26,92.31,,0.00,0.00,,45.569508,-94.175475
+640,Minnesota,2017-18,Assumption,St. Louis,13,92.31,,0.00,7.69,,47.4236615,-92.9326521
+641,Minnesota,2017-18,Dorothy Dodds Elementary,Clay,143,92.31,,0.00,0.70,,46.85623,-96.706624
+642,Minnesota,2017-18,King Of Kings Lutheran,Ramsey,13,92.31,,0.00,0.00,,45.01095,-93.125161
+643,Minnesota,2017-18,Oak Hills Elementary,Dakota,91,92.31,,0.00,6.59,,44.709492,-93.240628
+644,Minnesota,2017-18,Our Lady Of Peace,Hennepin,13,92.31,,0.00,0.00,,44.90434,-93.258241
+645,Minnesota,2017-18,Randolph Heights,Ramsey,78,92.31,,0.00,6.41,,44.9310863,-93.1559271
+646,Minnesota,2017-18,Rollingstone Community Elementary,Winona,13,92.31,,0.00,0.00,,44.097913,-91.821906
+647,Minnesota,2017-18,Sacred Heart,Todd,13,92.31,,0.00,0.00,,44.0778977,-93.5123756
+648,Minnesota,2017-18,St. Helena,Hennepin,13,92.31,,0.00,0.00,,44.924656,-93.2252315
+649,Minnesota,2017-18,True Light Christian,Lyon,13,92.31,,0.00,7.69,,44.450874,-95.781326
+650,Minnesota,2017-18,Willow River Elementary,Pine,26,92.31,,0.00,0.00,,46.320303,-92.836526
+651,Minnesota,2017-18,Cambridge Primary,Isanti,168,92.26,,0.00,4.17,,45.575258,-93.230848
+652,Minnesota,2017-18,Farmington Elementary,Dakota,90,92.22,,0.00,4.44,,44.633833,-93.141372
+653,Minnesota,2017-18,Otsego Elementary,Sherburne,90,92.22,,0.00,7.78,,45.2687011,-93.5679165
+654,Minnesota,2017-18,Parkview El,St. Louis,128,92.19,,0.00,4.69,,47.5272503,-92.548987
+655,Minnesota,2017-18,Redtail Ridge Elemenatary,Scott,127,92.13,,0.00,6.30,,44.7271271,-93.3639583
+656,Minnesota,2017-18,Cherry Elementary,St. Louis,38,92.11,,0.00,7.89,,47.404234,-92.708364
+657,Minnesota,2017-18,Rutherford Elementary,Washington,76,92.11,,0.00,5.26,,45.05651,-92.856058
+658,Minnesota,2017-18,South Terrace Elementary,Carlton,38,92.11,,2.63,5.26,,46.652475,-92.427173
+659,Minnesota,2017-18,Davinci Academy,Anoka,100,92.00,,1.00,5.00,,45.21787,-93.257801
+660,Minnesota,2017-18,Fertile-Beltrami Elementary,Polk,25,92.00,,0.00,4.00,,47.528165,-96.27609
+661,Minnesota,2017-18,Frazee Elementary,Becker,50,92.00,,0.00,8.00,,46.733313,-95.700126
+662,Minnesota,2017-18,Horace Mann,Ramsey,75,92.00,,0.00,0.00,,44.921109,-93.185293
+663,Minnesota,2017-18,Lecenter K-8,Le Sueur,50,92.00,,2.00,2.00,,44.3915469,-93.7343243
+664,Minnesota,2017-18,Pequot Lakes Elementary,Crow Wing,112,91.96,,0.00,4.46,,46.6004649,-94.2652047
+665,Minnesota,2017-18,Mckinley Elementary,Steele,87,91.95,,0.00,5.75,,44.10796,-93.203971
+666,Minnesota,2017-18,Kennedy Elementary,Blue Earth,62,91.94,,0.00,6.45,,44.160983,-93.961021
+667,Minnesota,2017-18,East Central Elementary,Pine,37,91.89,,0.00,0.00,,46.180664,-92.841678
+668,Minnesota,2017-18,Hiawatha Leadership Academy-Northrop,Hennepin,74,91.89,,0.00,0.00,,44.9193741,-93.2504046
+669,Minnesota,2017-18,Holdingford Elementary,Stearns,74,91.89,,0.00,6.76,,45.734432,-94.465111
+670,Minnesota,2017-18,Adams,Ramsey,110,91.82,,0.00,4.55,,44.9237876,-93.1429909
+671,Minnesota,2017-18,Scenic Heights Elementary,Hennepin,122,91.80,,1.64,3.28,,44.901224,-93.493996
+672,Minnesota,2017-18,Evergreen Park Elementary,Hennepin,73,91.78,,0.00,0.00,,45.083026,-93.294472
+673,Minnesota,2017-18,Long Prairie Elementary,Todd,73,91.78,,0.00,5.48,,45.9711668,-94.8634184
+674,Minnesota,2017-18,Nuevas Fronteras Spanish Immersion,Washington,73,91.78,,1.37,6.85,,44.8393849,-92.9963905
+675,Minnesota,2017-18,Holy Rosary,St. Louis,36,91.67,,5.56,0.00,,46.8160574,-92.0693506
+676,Minnesota,2017-18,Lakeview Christian Academy,St. Louis,12,91.67,,0.00,8.33,,46.80104,-92.138451
+677,Minnesota,2017-18,Maple Lake Elementary,Wright,48,91.67,,0.00,2.08,,45.233176,-93.998139
+678,Minnesota,2017-18,Minnehaha Intermediate Elementary,Lake,60,91.67,,1.67,5.00,,47.023322,-91.6736584
+679,Minnesota,2017-18,Oak Hill Montessori,Ramsey,12,91.67,,0.00,0.00,,45.08225,-93.119661
+680,Minnesota,2017-18,Osakis Sec.,Douglas,48,91.67,,0.00,8.33,,45.8642958,-95.1518475
+681,Minnesota,2017-18,Our Lady Of The Lake,Hennepin,12,91.67,,0.00,8.33,,44.93526,-93.667671
+682,Minnesota,2017-18,Prairie Seeds Academy,Hennepin,60,91.67,,0.00,0.00,,45.0659688,-93.3742564
+683,Minnesota,2017-18,Riverside Christian,Polk,12,91.67,,0.00,8.33,,47.93065,-97.015751
+684,Minnesota,2017-18,Saints Peter & Paul,Stearns,12,91.67,,0.00,0.00,,45.4552435,-94.5180594
+685,Minnesota,2017-18,Spero Academy,,12,91.67,,0.00,8.33,,45.0174812,-93.2685753
+686,Minnesota,2017-18,St Mary Help Of Christians,Stearns,12,91.67,,0.00,8.33,,45.478927,-94.153106
+687,Minnesota,2017-18,Team Academy,Kandiyohi,12,91.67,,0.00,0.00,,45.143191,-95.0181689
+688,Minnesota,2017-18,Twin Cities German Immersion Chrtr,Ramsey,72,91.67,,0.00,1.39,,44.975874,-93.144072
+689,Minnesota,2017-18,St. Anthony Park,Ramsey,95,91.58,,0.00,3.16,,44.982302,-93.195277
+690,Minnesota,2017-18,Valley View Elementary,Hennepin,71,91.55,,0.00,4.23,,44.843654,-93.271447
+691,Minnesota,2017-18,Jefferson Elementary,Hennepin,47,91.49,,0.00,0.00,,44.955867,-93.295063
+692,Minnesota,2017-18,S. G. Reinertsen Elementary,Clay,129,91.47,,0.00,2.33,,46.831897,-96.760737
+693,Minnesota,2017-18,Hawthorne Elementary,Freeborn,70,91.43,,0.00,1.43,,43.65749,-93.35585
+694,Minnesota,2017-18,Northside Elementary,Swift,70,91.43,,0.00,2.86,,45.319471,-95.606488
+695,Minnesota,2017-18,St Joseph,Clay,35,91.43,,0.00,8.57,,39.7593484,-94.8912236
+696,Minnesota,2017-18,Wyoming Elementary,Washington,81,91.36,,0.00,8.64,,45.3226642,-92.9897009
+697,Minnesota,2017-18,Deephaven Elementary,Hennepin,104,91.35,,0.00,5.77,,44.92319,-93.523674
+698,Minnesota,2017-18,Southview Elementary,Dakota,104,91.35,,0.00,3.85,,44.725768,-93.239745
+699,Minnesota,2017-18,Bluffview Montessori,Winona,23,91.30,,0.00,4.35,,44.048166,-91.671777
+700,Minnesota,2017-18,Sawtooth Mountain Elementary,Cook,23,91.30,,0.00,0.00,,47.756848,-90.333652
+701,Minnesota,2017-18,St Francis Xavier Elementary,Wright,23,91.30,,0.00,8.70,,45.20363,-93.876321
+702,Minnesota,2017-18,St Mary Of Mt Carmel,Todd,23,91.30,,0.00,8.70,,45.97381,-94.857721
+703,Minnesota,2017-18,W.H.A. Elementary,Cass,69,91.30,,0.00,7.25,,47.098048,-94.578465
+704,Minnesota,2017-18,Brimhall Elementary,Ramsey,103,91.26,,0.00,4.85,,45.005314,-93.173492
+705,Minnesota,2017-18,Park Christian,Clay,34,91.18,,0.00,8.82,,46.87793,-96.752071
+706,Minnesota,2017-18,Riverview,Ramsey,68,91.18,,0.00,0.00,,44.936166,-93.10472
+707,Minnesota,2017-18,Dover-Eyota Elementary,Olmsted,79,91.14,,0.00,2.53,,43.978895,-92.230424
+708,Minnesota,2017-18,Rahn Elementary,Dakota,45,91.11,,0.00,6.67,,44.796246,-93.21006
+709,Minnesota,2017-18,Round Lake-Brewster Public Schools,Nobles,45,91.11,,0.00,0.00,,43.6978008,-95.4657645
+710,Minnesota,2017-18,Tracy Elementary,Lyon,45,91.11,,0.00,0.00,,44.224745,-95.622402
+711,Minnesota,2017-18,Alice Smith Elementary,Hennepin,67,91.04,,0.00,8.96,,44.932244,-93.41032
+712,Minnesota,2017-18,Dassel Elementary,Wright,67,91.04,,0.00,8.96,,45.0829673,-94.3065658
+713,Minnesota,2017-18,Crooked Lake Elementary,Anoka,78,91.03,,0.00,3.85,,45.220571,-93.340969
+714,Minnesota,2017-18,Kennedy Elementary,Stearns,78,91.03,,2.56,3.85,,44.734884,-92.8479833
+715,Minnesota,2017-18,Lakeview Elementary,Dakota,89,91.01,,3.37,5.62,,44.653662,-93.266299
+716,Minnesota,2017-18,Southview Elementary,Carver,111,90.99,,0.00,9.01,,44.844799,-93.789731
+717,Minnesota,2017-18,College Prep Elementary,Ramsey,44,90.91,,0.00,0.00,,44.929092,-93.1153787
+718,Minnesota,2017-18,Immanuel Lutheran,Blue Earth,11,90.91,,0.00,0.00,,44.17023,-93.997701
+719,Minnesota,2017-18,J.A. Hughes Elementary,Red Lake,33,90.91,,3.03,3.03,,47.882696,-96.266093
+720,Minnesota,2017-18,Lincoln Elementary,Stearns,66,90.91,,0.00,0.00,,45.562371,-94.1489522
+721,Minnesota,2017-18,Nerstrand Charter,Rice,22,90.91,,0.00,4.55,,44.339406,-93.068755
+722,Minnesota,2017-18,Owatonna Christian,Steele,11,90.91,,9.09,0.00,,44.10883,-93.221171
+723,Minnesota,2017-18,Pioneers Academy,Hennepin,11,90.91,,0.00,9.09,,45.09491,-93.302791
+724,Minnesota,2017-18,Richmond Elementary,Stearns,22,90.91,,0.00,4.55,,45.45661,-94.517938
+725,Minnesota,2017-18,St Jerome,Ramsey,11,90.91,,0.00,9.09,,44.998107,-93.084377
+726,Minnesota,2017-18,St Johns Lutheran-Goodhue,Goodhue,11,90.91,,0.00,0.00,,44.4171842,-92.584458
+727,Minnesota,2017-18,St Marys Elementary,Brown,22,90.91,,0.00,9.09,,44.3042912,-94.7253909
+728,Minnesota,2017-18,St Philip,Meeker,11,90.91,,0.00,9.09,,47.4746448,-94.8799669
+729,Minnesota,2017-18,St. Peter Claver Catholic,Ramsey,11,90.91,,0.00,0.00,,44.9523785,-93.1444397
+730,Minnesota,2017-18,Moreland Elementary,Dakota,76,90.79,,5.26,1.32,,44.909544,-93.094314
+731,Minnesota,2017-18,Edward Neill Elementary,Dakota,65,90.77,,0.00,7.69,,44.759994,-93.312905
+732,Minnesota,2017-18,Hope Academy,Hennepin,43,90.70,,0.00,0.00,,44.95999,-93.263181
+733,Minnesota,2017-18,Kimball Elementary,Stearns,43,90.70,,9.30,0.00,,45.31302,-94.295427
+734,Minnesota,2017-18,Paynesville Elementary,Stearns,43,90.70,,0.00,4.65,,45.37837,-94.716237
+735,Minnesota,2017-18,Bagley Elementary,Clearwater,75,90.67,,0.00,2.67,,47.523776,-95.40129
+736,Minnesota,2017-18,Hanover Elementary,Wright,75,90.67,,0.00,9.33,,45.156434,-93.667406
+737,Minnesota,2017-18,Webster,Hennepin,75,90.67,,0.00,4.00,,44.9943171,-93.2562822
+738,Minnesota,2017-18,Mesabi East Elementary,St. Louis,64,90.63,,1.56,3.13,,47.531975,-92.240046
+739,Minnesota,2017-18,Academia Cesar Chavez Chtr,Ramsey,53,90.57,,0.00,0.00,,44.971869,-93.0244
+740,Minnesota,2017-18,Franklin Elementary,St. Louis,53,90.57,,0.00,9.43,,47.465789,-92.532164
+741,Minnesota,2017-18,Epiphany,Anoka,42,90.48,,0.00,9.52,,45.170561,-93.315509
+742,Minnesota,2017-18,Holy Spirit,Olmsted,21,90.48,,0.00,9.52,,44.076834,-92.540483
+743,Minnesota,2017-18,Lake Elmo Elementary,Washington,105,90.48,,0.00,5.71,,45.002124,-92.882237
+744,Minnesota,2017-18,Leroy - Ostrander Public Schools,Mower,21,90.48,,0.00,9.52,,43.5132496,-92.5097966
+745,Minnesota,2017-18,New York Mills Public Schools,Otter Tail,63,90.48,,0.00,6.35,,46.5223071,-95.3786304
+746,Minnesota,2017-18,Sebeka Elementary,Wadena,42,90.48,,0.00,9.52,,46.632027,-95.091032
+747,Minnesota,2017-18,St Michael Catholic,Wright,42,90.48,,0.00,9.52,,45.210519,-93.664196
+748,Minnesota,2017-18,Sunny Hollow Montessori,Ramsey,21,90.48,,0.00,4.76,,44.92221,-93.196431
+749,Minnesota,2017-18,Good Shepherd Catholic,Hennepin,31,90.32,,0.00,9.68,,44.9772414,-93.3666558
+750,Minnesota,2017-18,Wellstone,Ramsey,93,90.32,,0.00,0.00,,44.9727725,-93.1107431
+751,Minnesota,2017-18,Green Central Park,Hennepin,41,90.24,,0.00,0.00,,44.940284,-93.270494
+752,Minnesota,2017-18,St. Paul Academy - Summit (Lower),Ramsey,41,90.24,,2.44,2.44,,44.93734,-93.148521
+753,Minnesota,2017-18,Rockford Elementary,Wright,133,90.23,,0.00,7.52,,45.0887364,-93.7232333
+754,Minnesota,2017-18,Blackduck Elementary,Beltrami,51,90.20,,0.00,9.80,,47.731806,-94.545681
+755,Minnesota,2017-18,Galtier,Ramsey,51,90.20,,0.00,1.96,,44.9693146,-93.1110339
+756,Minnesota,2017-18,Cedar Island Elementary,Hennepin,71,90.14,,0.00,9.86,,45.078293,-93.432522
+757,Minnesota,2017-18,Madison Elementary,Stearns,121,90.08,,0.00,1.65,,45.568987,-94.19185
+758,Minnesota,2017-18,Bridges Elementary,Blue Earth,40,90.00,,0.00,10.00,,44.1741421,-94.0100794
+759,Minnesota,2017-18,Gatewood Elementary,Hennepin,70,90.00,,0.00,5.71,,44.897317,-93.469376
+760,Minnesota,2017-18,Henning,Otter Tail,30,90.00,,0.00,3.33,,46.3195419,-95.4474993
+761,Minnesota,2017-18,Hill Montessori,Ramsey,90,90.00,,0.00,4.44,,44.9461163,-93.1423588
+762,Minnesota,2017-18,New Life Academy,Washington,30,90.00,,3.33,6.67,,44.89274,-92.970011
+763,Minnesota,2017-18,Noble Elementary,Hennepin,50,90.00,,0.00,8.00,,45.005925,-93.339921
+764,Minnesota,2017-18,Norman Cty. W. Elementary,Norman,10,90.00,,0.00,0.00,,47.2646906,-96.8077869
+765,Minnesota,2017-18,Rockville Elementary,Stearns,20,90.00,,0.00,0.00,,45.469467,-94.343659
+766,Minnesota,2017-18,Schoolcraft Learning Community,Beltrami,20,90.00,,0.00,5.00,,47.6547065,-95.0089805
+767,Minnesota,2017-18,Seven Hills Prepatory Academy - Lower,Hennepin,100,90.00,,0.00,8.00,,44.8459645,-93.2541196
+768,Minnesota,2017-18,Sibley Elementary,Freeborn,70,90.00,,0.00,1.43,,43.642519,-93.389196
+769,Minnesota,2017-18,Sojourner Truth Academy,Hennepin,30,90.00,,0.00,0.00,,45.024541,-93.294018
+770,Minnesota,2017-18,St Croix Catholic,Washington,30,90.00,,0.00,10.00,,45.050981,-92.806629
+771,Minnesota,2017-18,St Raphael,Brown,10,90.00,,0.00,10.00,,44.241332,-94.978836
+772,Minnesota,2017-18,St. Pascal Baylon,Ramsey,10,90.00,,0.00,0.00,,44.95632,-93.026531
+773,Minnesota,2017-18,Churchill Elementary,Olmsted,79,89.87,,0.00,10.13,,44.046065,-92.449372
+774,Minnesota,2017-18,Little Canada Elementary,Ramsey,79,89.87,,0.00,0.00,,45.024647,-93.083054
+775,Minnesota,2017-18,Northrop Elementary,Hennepin,79,89.87,,0.00,1.27,,44.924584,-93.22653
+776,Minnesota,2017-18,Parkside Elementary,Wright,59,89.83,,0.00,8.47,,45.175563,-93.872803
+777,Minnesota,2017-18,Paul Bunyan Center,Beltrami,226,89.82,,0.00,3.98,,47.50317,-94.930021
+778,Minnesota,2017-18,Winona Area Catholic,Winona,49,89.80,,2.04,0.00,,44.0464632,-91.6221419
+779,Minnesota,2017-18,Eagle Creek,Scott,127,89.76,,0.00,4.72,,44.7654975,-93.4330176
+780,Minnesota,2017-18,Carondelet Catholic,Hennepin,39,89.74,,0.00,7.69,,44.91132,-93.321021
+781,Minnesota,2017-18,E.D. Williams Elementary,Ramsey,78,89.74,,0.00,2.56,,45.036663,-93.140369
+782,Minnesota,2017-18,Urban Academy Charter,Ramsey,39,89.74,,0.00,0.00,,44.911921,-93.170597
+783,Minnesota,2017-18,Westwood Elementary,Stearns,78,89.74,,0.00,2.56,,45.569489,-94.230764
+784,Minnesota,2017-18,Pine City Elem2,Pine,107,89.72,,0.93,5.61,,45.8270524,-92.9704774
+785,Minnesota,2017-18,A.C.G.C. Elementary,Kandiyohi,58,89.66,,0.00,5.17,,45.133112,-94.779599
+786,Minnesota,2017-18,Breckenridge Elementary,Wilkin,48,89.58,,0.00,0.00,,46.268784,-96.582034
+787,Minnesota,2017-18,Fairmont Elementary,Martin,105,89.52,,0.00,1.90,,43.646269,-94.452707
+788,Minnesota,2017-18,Community Christian,Kandiyohi,19,89.47,,0.00,0.00,,45.10419,-95.058151
+789,Minnesota,2017-18,St Peter,Ramsey,19,89.47,,0.00,10.53,,44.7133531,-96.275284
+790,Minnesota,2017-18,Swanville Elementary,Morrison,19,89.47,,0.00,10.53,,45.910575,-94.641137
+791,Minnesota,2017-18,John A. Johnson,Ramsey,66,89.39,,0.00,0.00,,44.9682899,-93.0691963
+792,Minnesota,2017-18,Randolph Elementary,Dakota,47,89.36,,0.00,10.64,,44.526898,-93.022375
+793,Minnesota,2017-18,Athlos Leadership Academy,Hennepin,103,89.32,,0.00,0.97,,45.138473,-93.336113
+794,Minnesota,2017-18,Scandia Elementary,Washington,56,89.29,,1.79,8.93,,45.255282,-92.813279
+795,Minnesota,2017-18,Hall Elementary,Hennepin,37,89.19,,0.00,0.00,,44.9959185,-93.2899125
+796,Minnesota,2017-18,Loring Elementary,Hennepin,74,89.19,,0.00,2.70,,45.036023,-93.313485
+797,Minnesota,2017-18,Crossroads Science,Ramsey,46,89.13,,0.00,2.17,,44.970808,-93.122882
+798,Minnesota,2017-18,Hiawatha Leadership Academy-Morris Park,Hennepin,55,89.09,,0.00,0.00,,44.9021465,-93.2171866
+799,Minnesota,2017-18,Monroe Elementary,Hennepin,82,89.02,,0.00,2.44,,45.093735,-93.293069
+800,Minnesota,2017-18,All Saints Academy - St. Joseph,Stearns,18,88.89,,0.00,0.00,,45.5640605,-94.3193988
+801,Minnesota,2017-18,Dayton Elementary,Hennepin,72,88.89,,0.00,0.00,,45.199723,-93.433641
+802,Minnesota,2017-18,Golden Years Montessori,Hennepin,27,88.89,,0.00,0.00,,44.92716,-93.333201
+803,Minnesota,2017-18,Grygla Elementary,Marshall,9,88.89,,0.00,11.11,,48.302413,-95.621005
+804,Minnesota,2017-18,Jean Lyle Childrens Center,Ramsey,9,88.89,,0.00,11.11,,44.9455055,-93.1803297
+805,Minnesota,2017-18,Mary Queen Of Peace Catholic,Sherburne,9,88.89,,0.00,11.11,,45.1885249,-93.5502791
+806,Minnesota,2017-18,Minneapolis Jewish Day,Hennepin,18,88.89,,0.00,11.11,,44.9653457,-93.333912
+807,Minnesota,2017-18,Montessori Program,Washington,18,88.89,,0.00,11.11,,45.287774,-92.98013
+808,Minnesota,2017-18,Pillsbury Elementary,Hennepin,63,88.89,,0.00,6.35,,45.010798,-93.233939
+809,Minnesota,2017-18,Rochester Central Lutheran,Olmsted,27,88.89,,0.00,0.00,,44.05168,-92.477791
+810,Minnesota,2017-18,St Boniface,Stearns,27,88.89,,0.00,11.11,,45.456116,-94.430848
+811,Minnesota,2017-18,St James Lutheran,Wright,9,88.89,,0.00,0.00,,45.056418,-94.067102
+812,Minnesota,2017-18,St Theodores El,Freeborn,9,88.89,,0.00,0.00,,43.6500909,-93.365558
+813,Minnesota,2017-18,St Wenceslaus,Scott,18,88.89,,0.00,11.11,,44.544316,-93.573825
+814,Minnesota,2017-18,Talahi Community Elementary,Stearns,90,88.89,,0.00,0.00,,45.550015,-94.133869
+815,Minnesota,2017-18,Nisswa Elementary,Crow Wing,44,88.64,,0.00,9.09,,46.52072,-94.286238
+816,Minnesota,2017-18,Lake Ripley Elementary,Meeker,123,88.62,,0.00,5.69,,45.114336,-94.529652
+817,Minnesota,2017-18,Lucy Craft Laney,Hennepin,70,88.57,,0.00,0.00,,45.0157691,-93.3090753
+818,Minnesota,2017-18,Torah Academy,Hennepin,26,88.46,,0.00,11.54,,44.95096,-93.335041
+819,Minnesota,2017-18,Ulen-Hitterdal Elementary,Clay,26,88.46,,0.00,0.00,,47.080327,-96.261639
+820,Minnesota,2017-18,Rippleside Elementary,Aitkin,95,88.42,,0.00,3.16,,46.527404,-93.710767
+821,Minnesota,2017-18,Forest Lake Elementary,Itasca,69,88.41,,0.00,11.59,,47.239463,-93.539656
+822,Minnesota,2017-18,Ellen Hopkins Elementary,Clay,155,88.39,,0.00,2.58,,46.854441,-96.761622
+823,Minnesota,2017-18,Vaughan Elementary,St. Louis,43,88.37,,0.00,2.33,,47.498935,-92.873968
+824,Minnesota,2017-18,Calvin Christian - Edina,Hennepin,17,88.24,,0.00,5.88,,44.92952,-93.332481
+825,Minnesota,2017-18,Christ Lutheran,Ramsey,17,88.24,,0.00,0.00,,45.02185,-92.996461
+826,Minnesota,2017-18,Holy Trinity,Morrison,17,88.24,,0.00,5.88,,44.9657432,-94.0497619
+827,Minnesota,2017-18,Wrenshall Elementary,Carlton,34,88.24,,0.00,8.82,,46.617349,-92.382182
+828,Minnesota,2017-18,Chelsea Heights,Ramsey,76,88.16,,0.00,5.26,,44.987333,-93.155972
+829,Minnesota,2017-18,Eisenhower Elementary,Hennepin,59,88.14,,1.69,6.78,,44.934148,-93.412879
+830,Minnesota,2017-18,Discovery Elementary,Wright,42,88.10,,4.76,7.14,,45.175285,-93.873861
+831,Minnesota,2017-18,Nevis Elementary,Hubbard,42,88.10,,0.00,11.90,,46.966323,-94.844853
+832,Minnesota,2017-18,International Spanish Language Academy,Hennepin,50,88.00,,2.00,8.00,,44.8961334,-93.4198272
+833,Minnesota,2017-18,Raleigh Edison Charter,St. Louis,50,88.00,,0.00,4.00,,46.7316197,-92.1724488
+834,Minnesota,2017-18,Gideon Pond Elementary,Dakota,91,87.91,,0.00,8.79,,44.76696,-93.265943
+835,Minnesota,2017-18,Mississippi,Ramsey,91,87.91,,0.00,2.20,,44.9537029,-93.0899578
+836,Minnesota,2017-18,Ada Elementary,Norman,41,87.80,,0.00,0.00,,47.297264,-96.527145
+837,Minnesota,2017-18,Washington Elementary,St. Louis,49,87.76,,2.04,0.00,,47.900399,-91.85803
+838,Minnesota,2017-18,Minnewashta Elementary,Hennepin,161,87.58,,1.24,11.18,,44.899276,-93.615082
+839,Minnesota,2017-18,Armatage Elementary,Hennepin,104,87.50,,0.00,4.81,,44.900839,-93.311231
+840,Minnesota,2017-18,Edgerton Elementary,Pipestone,40,87.50,,0.00,2.50,,43.877088,-96.129019
+841,Minnesota,2017-18,First Ev Lutheran,McLeod,16,87.50,,0.00,12.50,,44.7727849,-94.1498569
+842,Minnesota,2017-18,Holy Redeemer,Lyon,24,87.50,,0.00,0.00,,44.44483,-95.779781
+843,Minnesota,2017-18,Holy Redeemer,Le Sueur,8,87.50,,0.00,0.00,,44.4501828,-95.7919805
+844,Minnesota,2017-18,Lafayette Public Charter,Nicollet,16,87.50,,0.00,0.00,,44.44395,-94.395705
+845,Minnesota,2017-18,Maternity Of Mary/St Andrew,Ramsey,24,87.50,,0.00,4.17,,44.983635,-93.124959
+846,Minnesota,2017-18,Montessori School Of St Cloud I,Stearns,8,87.50,,0.00,12.50,,45.5545718,-94.1873242
+847,Minnesota,2017-18,Mountain Lake Christian,Cottonwood,8,87.50,,0.00,12.50,,43.943859,-94.928726
+848,Minnesota,2017-18,Murdock Elementary,Swift,56,87.50,,0.00,5.36,,45.226225,-95.392369
+849,Minnesota,2017-18,Nicollet Elementary,Nicollet,24,87.50,,0.00,0.00,,44.272612,-94.18654
+850,Minnesota,2017-18,Our Lady Of Victory,Otter Tail,16,87.50,,0.00,12.50,,46.2847241,-96.0799704
+851,Minnesota,2017-18,Sacred Heart,Mower,16,87.50,,0.00,12.50,,43.566647,-92.727601
+852,Minnesota,2017-18,St Johns Lutheran,Sherburne,8,87.50,,0.00,0.00,,45.3296539,-93.5040832
+853,Minnesota,2017-18,St Maximilian Kolbe,Wright,8,87.50,,0.00,0.00,,45.03824,-93.788501
+854,Minnesota,2017-18,St. Cloud Math & Science Academy,,40,87.50,,0.00,0.00,,45.5826373,-94.1755692
+855,Minnesota,2017-18,Trimont Elementary,Martin,16,87.50,,0.00,12.50,,43.76516,-94.716395
+856,Minnesota,2017-18,Trinity Lutheran,Scott,8,87.50,,0.00,12.50,,44.1191807,-93.707962
+857,Minnesota,2017-18,Central Park Elementary,Ramsey,71,87.32,,0.00,0.00,,45.013995,-93.122379
+858,Minnesota,2017-18,Dilworth Elementary,Clay,102,87.25,,0.00,0.00,,46.878285,-96.703747
+859,Minnesota,2017-18,Barton Open Elementary,Hennepin,78,87.18,,0.00,1.28,,44.925493,-93.291563
+860,Minnesota,2017-18,Belgrade-Brooten-Elrosa Elementary,Stearns,39,87.18,,0.00,2.56,,45.502179,-95.130071
+861,Minnesota,2017-18,Grand Meadow Elementary,Mower,39,87.18,,0.00,2.56,,43.709193,-92.561305
+862,Minnesota,2017-18,Partnership Academy Inc,Hennepin,39,87.18,,0.00,0.00,,44.863055,-93.273274
+863,Minnesota,2017-18,St Marys - Marian,Steele,31,87.10,,0.00,3.23,,44.0776335,-93.2270414
+864,Minnesota,2017-18,Yinghua Academy,Hennepin,85,87.06,,0.00,10.59,,45.004533,-93.240359
+865,Minnesota,2017-18,Bryn Mawr Elementary,Hennepin,54,87.04,,0.00,0.00,,44.974213,-93.316603
+866,Minnesota,2017-18,Brandon-Evansville Elem K-3,Douglas,46,86.96,,0.00,6.52,,45.9672306,-95.5997152
+867,Minnesota,2017-18,Cleveland Public,Le Sueur,38,86.84,,0.00,10.53,,44.3229976,-93.8354016
+868,Minnesota,2017-18,Heart Of The Lake Elementary,Otter Tail,106,86.79,,0.00,1.89,,46.588047,-95.581561
+869,Minnesota,2017-18,Heights,Ramsey,75,86.67,,0.00,0.00,,44.9593909,-93.099402
+870,Minnesota,2017-18,Jefferson Elementary,Anoka,120,86.67,,0.00,2.50,,45.176841,-93.254263
+871,Minnesota,2017-18,Lake Nokomis Community School - Wenonah Campus,Hennepin,105,86.67,,0.00,0.95,,44.9009304,-93.2383296
+872,Minnesota,2017-18,Lancaster Elementary,Kittson,15,86.67,,0.00,0.00,,48.855612,-96.803372
+873,Minnesota,2017-18,St Marys Elementary,Houston,15,86.67,,0.00,6.67,,43.631947,-91.4969774
+874,Minnesota,2017-18,Victory Christian Academy,St. Louis,15,86.67,,0.00,13.33,,47.40354,-92.939301
+875,Minnesota,2017-18,Nova Classical Academy - Lower,Ramsey,82,86.59,,0.00,2.44,,44.917956,-93.137291
+876,Minnesota,2017-18,Lakeview Elementary,Freeborn,52,86.54,,0.00,1.92,,43.654565,-93.38019
+877,Minnesota,2017-18,Highland Park Elementary,Ramsey,59,86.44,,0.00,1.69,,44.913993,-93.17044
+878,Minnesota,2017-18,Waubun/Ogema,Mahnomen,59,86.44,,0.00,0.00,,47.1810021,-95.9420299
+879,Minnesota,2017-18,Holy Spirit,Ramsey,22,86.36,,0.00,13.64,,44.926049,-93.160048
+880,Minnesota,2017-18,Cokato Elementary,Wright,92,85.87,,0.00,13.04,,45.074267,-94.192572
+881,Minnesota,2017-18,Babbitt Elementary,St. Louis,14,85.71,,0.00,14.29,,47.707721,-91.939446
+882,Minnesota,2017-18,Karner Blue Elementary,,7,85.71,,0.00,0.00,,45.141193,-93.1759907
+883,Minnesota,2017-18,Lakewood Elementary,St. Louis,35,85.71,,0.00,0.00,,46.888714,-92.007519
+884,Minnesota,2017-18,Mounds Park Academy,Ramsey,14,85.71,,0.00,0.00,,44.99513,-93.013801
+885,Minnesota,2017-18,Southview Christian,Dakota,7,85.71,,0.00,14.29,,44.726217,-93.298964
+886,Minnesota,2017-18,St Agnes,Douglas,7,85.71,,0.00,14.29,,45.8663861,-95.1590309
+887,Minnesota,2017-18,St Johns Ev Lutheran,Houston,7,85.71,,0.00,0.00,,43.6395987,-91.4963791
+888,Minnesota,2017-18,Woodcrest Baptist Academy,Anoka,7,85.71,,0.00,14.29,,45.0924,-93.262531
+889,Minnesota,2017-18,Farnsworth Lower,Ramsey,97,85.57,,0.00,0.00,,44.9806528,-93.0641998
+890,Minnesota,2017-18,Milaca Elementary,Mille Lacs,124,85.48,,0.81,3.23,,45.752042,-93.656166
+891,Minnesota,2017-18,Grainwood Elementary,Scott,75,85.33,,0.00,12.00,,44.7146409,-93.4174607
+892,Minnesota,2017-18,Cannon River Stem,Rice,40,85.00,,0.00,2.50,,44.311084,-93.264446
+893,Minnesota,2017-18,Providence Academy,Hennepin,40,85.00,,0.00,12.50,,45.0448809,-93.471901
+894,Minnesota,2017-18,St. Agnes El,Ramsey,40,85.00,,0.00,12.50,,44.9599536,-93.1222796
+895,Minnesota,2017-18,Oak Hill Community Elementary,Stearns,113,84.96,,0.00,1.77,,45.53182,-94.19205
+896,Minnesota,2017-18,Andersen United Community,Hennepin,93,84.95,,0.00,0.00,,44.9533496,-93.2586769
+897,Minnesota,2017-18,Palmer Lake Elementary,Hennepin,79,84.81,,0.00,6.33,,45.088226,-93.324667
+898,Minnesota,2017-18,Athlos Academy Of Saint Cloud,Stearns,85,84.71,,0.00,2.35,,45.516565,-94.203727
+899,Minnesota,2017-18,Christian Life Academy,Dakota,13,84.62,,0.00,0.00,,44.63978,-93.193491
+900,Minnesota,2017-18,Crossroads Montessori,Ramsey,65,84.62,,0.00,0.00,,44.970967,-93.122704
+901,Minnesota,2017-18,Hollandale Christian,Freeborn,13,84.62,,0.00,15.38,,43.75803,-93.203634
+902,Minnesota,2017-18,Natural Science Academy,,13,84.62,,0.00,0.00,,44.8411661,-92.9881035
+903,Minnesota,2017-18,St Alphonsus,Hennepin,13,84.62,,0.00,0.00,,45.0825192,-93.3343398
+904,Minnesota,2017-18,Bold-Bird Island Elementary,Renville,58,84.48,,0.00,15.52,,44.767038,-94.898682
+905,Minnesota,2017-18,Excell Academy Charter,Hennepin,58,84.48,,0.00,1.72,,45.07362,-93.353101
+906,Minnesota,2017-18,Sheridan Elementary,Hennepin,58,84.48,,0.00,5.17,,44.999884,-93.262569
+907,Minnesota,2017-18,St Elizabeth Ann Seton,Dakota,32,84.38,,0.00,15.63,,44.74005,-92.849161
+908,Minnesota,2017-18,Community Of Saints,Dakota,19,84.21,,0.00,15.79,,44.9183813,-93.0708464
+909,Minnesota,2017-18,Groveland,Ramsey,76,84.21,,0.00,1.32,,44.9327298,-93.1729455
+910,Minnesota,2017-18,Marcy Open Elementary,Hennepin,76,84.21,,0.00,0.00,,44.986608,-93.250008
+911,Minnesota,2017-18,Kipp Minnesota Charter,Hennepin,56,83.93,,0.00,8.93,,45.046765,-93.307626
+912,Minnesota,2017-18,Excelsior Elementary,Hennepin,124,83.87,,0.00,8.06,,44.8995,-93.568261
+913,Minnesota,2017-18,Jenny Lind Elementary,Hennepin,68,83.82,,0.00,0.00,,45.046901,-93.301272
+914,Minnesota,2017-18,Agamim Classical Academy,Hennepin,61,83.61,,0.00,4.92,,44.924684,-93.381709
+915,Minnesota,2017-18,Community School Of Excellence,Ramsey,140,83.57,,0.00,0.00,,44.96088,-93.156424
+916,Minnesota,2017-18,Como Park Elementary,Ramsey,91,83.52,,0.00,0.00,,44.978371,-93.13258
+917,Minnesota,2017-18,Bridge View,Ramsey,6,83.33,,0.00,16.67,,44.9310579,-93.1188747
+918,Minnesota,2017-18,Discovery Community Elementary,Stearns,84,83.33,,0.00,0.00,,45.539606,-94.22567
+919,Minnesota,2017-18,Garfield Elementary,Crow Wing,54,83.33,,0.00,5.56,,46.37042,-94.17395
+920,Minnesota,2017-18,Immanuel Lutheran,Sibley,6,83.33,,0.00,0.00,,44.5541,-94.221561
+921,Minnesota,2017-18,Nokomis South,Ramsey,48,83.33,,0.00,0.00,,44.957188,-93.0260498
+922,Minnesota,2017-18,Northome Elementary,Koochiching,12,83.33,,0.00,16.67,,47.87706,-94.245168
+923,Minnesota,2017-18,Onamia Elementary,Mille Lacs,24,83.33,,0.00,0.00,,46.0602029,-93.67383
+924,Minnesota,2017-18,Salem Lutheran,Washington,12,83.33,,0.00,16.67,,45.03966,-92.803851
+925,Minnesota,2017-18,St John The Baptist,Ramsey,30,83.33,,0.00,10.00,,45.0635556,-93.1910876
+926,Minnesota,2017-18,St. Mark,Ramsey,6,83.33,,0.00,0.00,,44.9475722,-93.1844499
+927,Minnesota,2017-18,Cologne Academy,Carver,65,83.08,,0.00,3.08,,44.762434,-93.785691
+928,Minnesota,2017-18,Al-Amal,Anoka,35,82.86,,0.00,14.29,,45.07583,-93.234861
+929,Minnesota,2017-18,American Indian,Ramsey,70,82.86,,0.00,0.00,,44.967782,-93.0756706
+930,Minnesota,2017-18,Marine Area Community,Washington,23,82.61,,0.00,4.35,,45.165611,-92.81522
+931,Minnesota,2017-18,Robert Asp Elementary,Clay,126,82.54,,0.00,1.59,,46.8849,-96.761732
+932,Minnesota,2017-18,Buffalo Lake-Hector Elementary,Renville,40,82.50,,0.00,17.50,,44.737108,-94.613571
+933,Minnesota,2017-18,Bethune Elementary,Hennepin,57,82.46,,0.00,0.00,,44.987605,-93.294774
+934,Minnesota,2017-18,Calvin Christian Grades K-8,Anoka,17,82.35,,0.00,17.65,,#N/A,"-93.2442887,"
+935,Minnesota,2017-18,Ridgeway Community,Winona,17,82.35,,0.00,17.65,,43.913999,-91.569139
+936,Minnesota,2017-18,St James,St. Louis,17,82.35,,0.00,5.88,,46.7434993,-92.1696395
+937,Minnesota,2017-18,Pilot Knob Stem Magnet,Dakota,90,82.22,,0.00,0.00,,44.847127,-93.171038
+938,Minnesota,2017-18,Jackson,Ramsey,73,82.19,,0.00,0.00,,44.9691744,-93.0963535
+939,Minnesota,2017-18,Earle Brown Elementary,Hennepin,174,82.18,,0.00,0.00,,45.063049,-93.30013
+940,Minnesota,2017-18,Parnassus Preparatory,Hennepin,128,82.03,,0.00,5.47,,45.1282308,-93.4255946
+941,Minnesota,2017-18,Normandale Hills Elementary,Hennepin,72,81.94,,0.00,15.28,,44.830955,-93.346577
+942,Minnesota,2017-18,Heron Lake-Okabena Elementary,Jackson,11,81.82,,0.00,0.00,,43.792952,-95.313171
+943,Minnesota,2017-18,Immanuel Lutheran,,11,81.82,,0.00,0.00,,44.1640047,-92.166455
+944,Minnesota,2017-18,Pine Point Elementary,Becker,11,81.82,,0.00,0.00,,46.978204,-95.395118
+945,Minnesota,2017-18,Trinity Lutheran,Carver,22,81.82,,0.00,18.18,,44.8476,-93.776931
+946,Minnesota,2017-18,Glyndon-Felton Elementary,Clay,49,81.63,,0.00,0.00,,46.871471,-96.58115
+947,Minnesota,2017-18,Heritage Christian Academy,Hennepin,27,81.48,,0.00,18.52,,45.0817119,-93.4797888
+948,Minnesota,2017-18,Hennepin Elementary,Hennepin,70,81.43,,0.00,4.29,,44.9613,-93.271198
+949,Minnesota,2017-18,Badger Elementary,Roseau,16,81.25,,0.00,12.50,,48.781126,-96.016019
+950,Minnesota,2017-18,Kelliher Elementary,Beltrami,16,81.25,,0.00,0.00,,47.944681,-94.45218
+951,Minnesota,2017-18,Lake Benton Elementary,Lincoln,16,81.25,,0.00,6.25,,44.260392,-96.283687
+952,Minnesota,2017-18,Sacred Heart,Stearns,16,81.25,,0.00,12.50,,45.663307,-94.686154
+953,Minnesota,2017-18,Trinity Lutheran,Anoka,16,81.25,,0.00,0.00,,45.38433,-93.363391
+954,Minnesota,2017-18,Zion Lutheran-Mayer,Carver,16,81.25,,0.00,0.00,,44.8866157,-93.8897426
+955,Minnesota,2017-18,H.O.P.E. Academy,Ramsey,53,81.13,,0.00,0.00,,44.9600547,-93.2632654
+956,Minnesota,2017-18,Hazel Park Preparatory Academy,Ramsey,47,80.85,,0.00,2.13,,44.975626,-93.023856
+957,Minnesota,2017-18,Bigfork Elementary,Itasca,26,80.77,,0.00,19.23,,47.745403,-93.650948
+958,Minnesota,2017-18,G.F.W. Elementary,Sibley,52,80.77,,0.00,1.92,,44.534488,-94.52184
+959,Minnesota,2017-18,New Millennium Academy Charter Sch,Hennepin,98,80.61,,0.00,0.00,,45.0480124,-93.3217257
+960,Minnesota,2017-18,Legacy Christian Academy,Anoka,36,80.56,,0.00,16.67,,45.220657,-93.343169
+961,Minnesota,2017-18,Dowling Urban Environmental Learning Center,Hennepin,77,80.52,,0.00,1.30,,44.9323315,-93.2039654
+962,Minnesota,2017-18,Anishinabe Academy,Hennepin,41,80.49,,0.00,0.00,,44.947704,-93.239299
+963,Minnesota,2017-18,Nokomis North,Ramsey,82,80.49,,0.00,1.22,,44.9711039,-93.01577
+964,Minnesota,2017-18,Central Elementary,,66,80.30,,0.00,1.52,,44.7742436,-93.9266494
+965,Minnesota,2017-18,Central Lutheran,Ramsey,15,80.00,,0.00,0.00,,44.96435,-93.147971
+966,Minnesota,2017-18,Crosslake Community Charter,Crow Wing,15,80.00,,0.00,13.33,,46.688938,-94.113119
+967,Minnesota,2017-18,Faith Christian,Becker,5,80.00,,0.00,0.00,,46.79698,-95.886771
+968,Minnesota,2017-18,Friends School Of Minnesota,Ramsey,15,80.00,,0.00,6.67,,44.96479,-93.158401
+969,Minnesota,2017-18,Great Expectations,Cook,15,80.00,,0.00,6.67,,47.756097,-90.325777
+970,Minnesota,2017-18,Hope Christian Academy,Washington,5,80.00,,0.00,0.00,,44.84131,-92.987051
+971,Minnesota,2017-18,Life Academy,Hennepin,5,80.00,,0.00,0.00,,44.80737,-93.305541
+972,Minnesota,2017-18,Loveworks Academy For Arts,Hennepin,40,80.00,,0.00,0.00,,45.001291,-93.322024
+973,Minnesota,2017-18,Minnesota New Country,Sibley,15,80.00,,0.00,6.67,,44.529027,-93.903494
+974,Minnesota,2017-18,Morning Son Christian,Otter Tail,10,80.00,,0.00,20.00,,46.29715,-96.071701
+975,Minnesota,2017-18,New Heights School Inc.,Washington,5,80.00,,0.00,0.00,,45.057855,-92.81616
+976,Minnesota,2017-18,New Testament Christian,Douglas,5,80.00,,0.00,20.00,,45.91063,-95.335861
+977,Minnesota,2017-18,Prairie Creek Community,Dakota,30,80.00,,0.00,16.67,,44.54875,-93.157601
+978,Minnesota,2017-18,Worthington Christian,Nobles,10,80.00,,0.00,20.00,,43.63691,-95.584225
+979,Minnesota,2017-18,Four Seasons,Ramsey,83,79.52,,0.00,2.41,,44.9521319,-93.1831383
+980,Minnesota,2017-18,Minnesota Early Learning Academy,,39,79.49,,0.00,0.00,,45.118665,-93.485302
+981,Minnesota,2017-18,Discovery Charter Elementary,Dakota,34,79.41,,0.00,0.00,,44.853034,-93.02183
+982,Minnesota,2017-18,Prodeo Academy Pk-8,Hennepin,87,79.31,,0.00,0.00,,#N/A,-93.2891064
+983,Minnesota,2017-18,Northeast College Prep,Hennepin,43,79.07,,0.00,0.00,,44.9923051,-93.211522
+984,Minnesota,2017-18,Goodridge Elementary,Pennington,19,78.95,,0.00,0.00,,48.146101,-95.808577
+985,Minnesota,2017-18,St Bartholomew,Hennepin,14,78.57,,0.00,21.43,,44.9717708,-93.5112386
+986,Minnesota,2017-18,St Elizabeth Ann Seton,Stearns,14,78.57,,0.00,14.29,,45.5423,-94.164511
+987,Minnesota,2017-18,Cambridge Christian,Isanti,9,77.78,,0.00,0.00,,45.550479,-93.226437
+988,Minnesota,2017-18,Discovery Woods Montessori,Crow Wing,18,77.78,,0.00,11.11,,46.362335,-94.1990873
+989,Minnesota,2017-18,Green Isle Community,Sibley,9,77.78,,0.00,0.00,,44.677526,-94.008896
+990,Minnesota,2017-18,St Henry,Otter Tail,18,77.78,,0.00,0.00,,46.5939932,-95.575886
+991,Minnesota,2017-18,St Martins Lutheran,Winona,9,77.78,,0.00,0.00,,44.04806,-91.630031
+992,Minnesota,2017-18,St Matthews Lutheran,Winona,9,77.78,,0.00,11.11,,44.052499,-91.657494
+993,Minnesota,2017-18,Stride Academy Charter,Stearns,36,77.78,,0.00,2.78,,45.516756,-94.216691
+994,Minnesota,2017-18,Ponemah Elementary,Beltrami,22,77.27,,0.00,0.00,,48.018054,-94.913188
+995,Minnesota,2017-18,Maxfield,Ramsey,35,77.14,,0.00,0.00,,44.9526173,-93.1355354
+996,Minnesota,2017-18,Living Hope Lutheran,Scott,13,76.92,,0.00,23.08,,44.75696,-93.407891
+997,Minnesota,2017-18,Minnesota Math And Science Academy,Ramsey,52,76.92,,0.00,0.00,,44.97149,-93.093621
+998,Minnesota,2017-18,Rushford-Peterson Elementary,Fillmore,39,76.92,,0.00,0.00,,43.818832,-91.745742
+999,Minnesota,2017-18,Clearbrook-Gonvick,Clearwater,30,76.67,,0.00,0.00,,47.7055237,-95.4341876
+1000,Minnesota,2017-18,Laporte Elementary,Hubbard,30,76.67,,0.00,6.67,,47.212191,-94.756139
+1001,Minnesota,2017-18,Clinton-Graceville-Beardsley Elementary,Big Stone,17,76.47,,0.00,0.00,,45.46217,-96.440649
+1002,Minnesota,2017-18,Ramalynn Montessori Academy,Hennepin,17,76.47,,0.00,0.00,,44.8443,-93.310126
+1003,Minnesota,2017-18,Sullivan,Hennepin,59,76.27,,0.00,1.69,,44.9523365,-93.2257845
+1004,Minnesota,2017-18,Christian Heritage Academy,Dakota,20,75.00,,0.00,25.00,,44.695235,-93.213401
+1005,Minnesota,2017-18,Community Christian,Mille Lacs,8,75.00,,0.00,25.00,,45.699929,-93.64477
+1006,Minnesota,2017-18,Greenbush Elementary,Roseau,12,75.00,,0.00,8.33,,48.695981,-96.183615
+1007,Minnesota,2017-18,Highwood Hills,Ramsey,44,75.00,,0.00,4.55,,44.9291629,-93.0080332
+1008,Minnesota,2017-18,Minnehaha Academy Lower,Hennepin,32,75.00,,0.00,3.13,,44.926344,-93.2045946
+1009,Minnesota,2017-18,North Metero Flex Academy,Ramsey,36,75.00,,0.00,0.00,,45.013564,-92.993567
+1010,Minnesota,2017-18,Northside Christian,Anoka,12,75.00,,0.00,16.67,,45.20697,-93.247001
+1011,Minnesota,2017-18,Northwoods Elementary,McLeod,8,75.00,,0.00,0.00,,44.9027702,-94.3728453
+1012,Minnesota,2017-18,St John,Winona,12,75.00,,0.00,8.33,,43.9863758,-91.8670563
+1013,Minnesota,2017-18,St John The Baptist,Scott,12,75.00,,0.00,25.00,,44.6680329,-93.6273132
+1014,Minnesota,2017-18,St Mary's,Wilkin,8,75.00,,0.00,0.00,,46.265104,-96.589019
+1015,Minnesota,2017-18,St Therese,Hennepin,12,75.00,,0.00,8.33,,44.940541,-93.511369
+1016,Minnesota,2017-18,Maranatha Christian Academy-Brookly,Hennepin,39,74.36,,0.00,25.64,,45.0893491,-93.3971705
+1017,Minnesota,2017-18,Aspen Academy,Scott,88,73.86,,0.00,25.00,,44.73465,-93.384221
+1018,Minnesota,2017-18,Level Up Academy,Ramsey,19,73.68,,0.00,26.32,,45.049546,-92.990739
+1019,Minnesota,2017-18,Brown Elementary,Pipestone,98,73.47,,0.00,2.04,,43.993064,-96.308691
+1020,Minnesota,2017-18,Pratt,Hennepin,49,73.47,,0.00,8.16,,44.9690294,-93.2139975
+1021,Minnesota,2017-18,Menahga Elementary,Wadena,79,73.42,,0.00,26.58,,46.75201,-95.095086
+1022,Minnesota,2017-18,Cromwell-Wright Elementary,Carlton,15,73.33,,0.00,0.00,,46.678991,-92.885277
+1023,Minnesota,2017-18,Holy Trinity,Dakota,15,73.33,,0.00,0.00,,44.9458329,-93.2322744
+1024,Minnesota,2017-18,Swan River Montessori Charter Sch,Wright,26,73.08,,0.00,23.08,,45.304238,-93.801877
+1025,Minnesota,2017-18,Climax Elementary,Polk,11,72.73,,0.00,0.00,,47.607695,-96.813018
+1026,Minnesota,2017-18,Crown Christian,Anoka,11,72.73,,0.00,27.27,,45.4570922,-93.457961
+1027,Minnesota,2017-18,Good Shepherd Lutheran,Dakota,11,72.73,,9.09,18.18,,44.742164,-93.274409
+1028,Minnesota,2017-18,New Discoveries Montessori Elementary,,22,72.73,,0.00,4.55,,44.8862622,-94.3528861
+1029,Minnesota,2017-18,Remer Elementary,Cass,33,72.73,,0.00,3.03,,47.057761,-93.911623
+1030,Minnesota,2017-18,Kaleidoscope Charter Secondary,Wright,69,72.46,,0.00,23.19,,45.2600271,-93.6710997
+1031,Minnesota,2017-18,St Mary's,Renville,18,72.22,,0.00,27.78,,44.766704,-94.899794
+1032,Minnesota,2017-18,Rochester Math And Science Academy,Olmsted,32,71.88,,0.00,0.00,,44.000502,-92.469271
+1033,Minnesota,2017-18,Bdote Learning Center,Hennepin,14,71.43,,0.00,0.00,,44.950418,-93.224829
+1034,Minnesota,2017-18,Glacial Hills Elementary,Pope,14,71.43,,0.00,0.00,,45.61261,-95.539678
+1035,Minnesota,2017-18,Heritage Lutheran,Dakota,7,71.43,,0.00,14.29,,44.75548,-93.187611
+1036,Minnesota,2017-18,Montessori Sch Of Duluth,St. Louis,14,71.43,,0.00,0.00,,46.8331841,-92.0668632
+1037,Minnesota,2017-18,St Cloud Christian,Stearns,14,71.43,,0.00,28.57,,45.5697048,-94.1575875
+1038,Minnesota,2017-18,Achieve Language Academy,Ramsey,45,71.11,,0.00,0.00,,44.969699,-93.009095
+1039,Minnesota,2017-18,Cityview Community Elementary,Hennepin,62,70.97,,0.00,0.00,,45.0160545,-93.2842587
+1040,Minnesota,2017-18,Bright Water Elementary,Hennepin,24,70.83,,0.00,0.00,,45.04842,-93.295981
+1041,Minnesota,2017-18,Cornerstone Montessori Elementary,Ramsey,24,70.83,,0.00,0.00,,44.975062,-93.032467
+1042,Minnesota,2017-18,Hmong International Academy,Hennepin,57,70.18,,0.00,0.00,,45.01595,-93.308913
+1043,Minnesota,2017-18,Chisago Lakes Baptist,Chisago,10,70.00,,0.00,10.00,,45.35087,-92.912651
+1044,Minnesota,2017-18,Hand In Hand Christian Montessori,Ramsey,30,70.00,,0.00,26.67,,45.004837,-93.176985
+1045,Minnesota,2017-18,Pact Charter,Anoka,40,70.00,,0.00,30.00,,45.233848,-93.45128
+1046,Minnesota,2017-18,Redeemer Christian Academy,Hennepin,10,70.00,,0.00,30.00,,44.976476,-93.523578
+1047,Minnesota,2017-18,Littlefork-Big Falls Elementary,Koochiching,26,69.23,,0.00,3.85,,48.398933,-93.554861
+1048,Minnesota,2017-18,North Heights Christian Academy,Ramsey,26,69.23,,0.00,11.54,,45.02169,-93.107381
+1049,Minnesota,2017-18,Granada-Huntley East Chain,Martin,25,68.00,,0.00,16.00,,43.5426449,-94.3089396
+1050,Minnesota,2017-18,Minnesota Connections Academy,Hennepin,53,67.92,,0.00,28.30,,44.9695848,-93.1583217
+1051,Minnesota,2017-18,Pine River-Backus Elementary K-6,Cass,65,67.69,,0.00,7.69,,#N/A,-94.409298
+1052,Minnesota,2017-18,Stonebridge World,Hennepin,34,67.65,,0.00,2.94,,44.920559,-93.288735
+1053,Minnesota,2017-18,Chapel Hill Academy,Carver,21,66.67,,0.00,33.33,,44.86285,-93.530171
+1054,Minnesota,2017-18,Christ Community,Carver,12,66.67,,0.00,16.67,,44.9548755,-93.8376617
+1055,Minnesota,2017-18,St Edward,Lyon,6,66.67,,0.00,0.00,,44.564336,-95.987336
+1056,Minnesota,2017-18,St James Lutheran,Martin,6,66.67,,0.00,0.00,,43.735816,-94.434978
+1057,Minnesota,2017-18,White Bear Montessori,Ramsey,9,66.67,,0.00,11.11,,45.0508609,-93.0508776
+1058,Minnesota,2017-18,Eagle Ridge Academy Charter,Hennepin,136,66.18,,0.00,0.74,,44.871804,-93.411314
+1059,Minnesota,2017-18,North Shore Community,St. Louis,50,66.00,,0.00,6.00,,46.940616,-91.898702
+1060,Minnesota,2017-18,Bloomington Lutheran,Hennepin,11,63.64,,0.00,36.36,,44.81071,-93.384761
+1061,Minnesota,2017-18,Heartland Christian Academy,Beltrami,11,63.64,,0.00,27.27,,47.56599,-94.913281
+1062,Minnesota,2017-18,Mn Academy For The Deaf,Rice,11,63.64,,0.00,18.18,,44.297424,-93.259646
+1063,Minnesota,2017-18,Central Minnesota Christian,Kandiyohi,30,63.33,,0.00,10.00,,44.936472,-95.185099
+1064,Minnesota,2017-18,Cyprus Classical Montessori & Academy,Dakota,8,62.50,,0.00,37.50,,44.7581447,-93.303893
+1065,Minnesota,2017-18,Pine Harbor Christian Academy,Dakota,8,62.50,,0.00,37.50,,44.7875168,-92.8818055
+1066,Minnesota,2017-18,Riverway Learning Community Chtr,Winona,8,62.50,,0.00,0.00,,44.052706,-91.688458
+1067,Minnesota,2017-18,St Pauls Lutheran,Otter Tail,16,62.50,,0.00,6.25,,46.59506,-95.584701
+1068,Minnesota,2017-18,St Timothy,Wright,8,62.50,,0.00,12.50,,45.2297599,-94.0018632
+1069,Minnesota,2017-18,Tesfa International,Ramsey,32,62.50,,0.00,0.00,,44.9564,-93.174141
+1070,Minnesota,2017-18,Nellie Stone Johnson Elementary,Hennepin,71,61.97,,0.00,1.41,,45.007165,-93.290025
+1071,Minnesota,2017-18,Cherokee Heights,Ramsey,42,61.90,,0.00,2.38,,44.9252482,-93.0957091
+1072,Minnesota,2017-18,Campbell-Tintah Public,Wilkin,13,61.54,,0.00,0.00,,46.0966524,-96.4052444
+1073,Minnesota,2017-18,New City School - Main Campus,Hennepin,36,61.11,,0.00,19.44,,45.0039952,-93.2594579
+1074,Minnesota,2017-18,Minnesota Virtual Academy,Houston,38,60.53,,0.00,0.00,,43.759541,-91.571677
+1075,Minnesota,2017-18,Holy Cross Catholic,Scott,10,60.00,,0.00,20.00,,44.531523,-93.384266
+1076,Minnesota,2017-18,Immanuel Lutheran,Nicollet,5,60.00,,0.00,0.00,,43.6808292,-95.1700691
+1077,Minnesota,2017-18,St Mark's Lutheran,Beltrami,5,60.00,,0.00,20.00,,47.50496,-94.913401
+1078,Minnesota,2017-18,Trinity Lutheran,Nicollet,5,60.00,,0.00,20.00,,44.272698,-94.191655
+1079,Minnesota,2017-18,Twin Cities International Elem Sch,Hennepin,112,58.93,,0.00,0.00,,44.9904933,-93.2826257
+1080,Minnesota,2017-18,First Baptist,Dakota,19,57.89,,0.00,42.11,,44.740579,-93.155199
+1081,Minnesota,2017-18,Fourth Baptist,Hennepin,25,56.00,,0.00,40.00,,44.988231,-93.426784
+1082,Minnesota,2017-18,Upsala Area Schools,Morrison,20,55.00,,0.00,5.00,,45.8035247,-94.5693881
+1083,Minnesota,2017-18,The Way Of The Shepherd Montessori,Anoka,13,53.85,,0.00,38.46,,45.21037,-93.235311
+1084,Minnesota,2017-18,Holy Family Academy,Hennepin,15,53.33,,0.00,33.33,,44.94477,-93.355031
+1085,Minnesota,2017-18,Dugsi Academy,Ramsey,17,52.94,,0.00,0.00,,44.957089,-93.176143
+1086,Minnesota,2017-18,Kingsland Elementary,Fillmore,47,51.06,,0.00,2.13,,43.697151,-92.388287
+1087,Minnesota,2017-18,Minnetonka Christian Academy,Hennepin,6,50.00,,0.00,16.67,,44.940409,-93.46818
+1088,Minnesota,2017-18,St John - St Andrew,Stearns,6,50.00,,0.00,33.33,,45.6755524,-94.807719
+1089,Minnesota,2017-18,St John Lutheran,Pennington,6,50.00,,0.00,16.67,,48.103938,-96.13991
+1090,Minnesota,2017-18,Success Academy,Hennepin,12,50.00,,0.00,8.33,,44.854714,-93.264428
+1091,Minnesota,2017-18,Worthington 518 (Virtual Instruction By Excellence),Nobles,60,50.00,,0.00,38.33,,43.6291573,-95.6009004
+1092,Minnesota,2017-18,Higher Ground Academy,Ramsey,72,48.61,,0.00,0.00,,44.948033,-93.157853
+1093,Minnesota,2017-18,Nasha Shkola,Hennepin,23,47.83,,0.00,13.04,,45.108377,-93.367655
+1094,Minnesota,2017-18,Hill City Elementary,Aitkin,19,47.37,,0.00,0.00,,46.992284,-93.604765
+1095,Minnesota,2017-18,City Of Lakes Waldorf,Hennepin,49,46.94,,0.00,36.73,,44.95946,-93.278371
+1096,Minnesota,2017-18,Cedar Riverside Community,Hennepin,20,45.00,,0.00,0.00,,44.968515,-93.248848
+1097,Minnesota,2017-18,Prior Lake Christian Academy,Scott,9,44.44,,0.00,11.11,,44.70587,-93.405301
+1098,Minnesota,2017-18,Lacrescent Montessori Academy,Houston,7,42.86,,0.00,14.29,,43.8177561,-91.3064532
+1099,Minnesota,2017-18,Harvest Prep School/Seed Academy,Hennepin,47,42.55,,0.00,0.00,,#N/A,-93.29896
+1100,Minnesota,2017-18,Many Rivers Montessori,St. Louis,12,41.67,,0.00,25.00,,46.79787,-92.089271
+1101,Minnesota,2017-18,Universal Academy Charter,Ramsey,47,40.43,,0.00,0.00,,44.9564,-93.174141
+1102,Minnesota,2017-18,Faith Christian,Mille Lacs,5,40.00,,0.00,0.00,,45.71964,-93.739641
+1103,Minnesota,2017-18,Genesis Classical Academy,Faribault,10,40.00,,0.00,10.00,,43.770267,-94.179419
+1104,Minnesota,2017-18,Rivertree,Hennepin,10,40.00,,0.00,60.00,,45.0238,-93.350181
+1105,Minnesota,2017-18,Mastery,Hennepin,38,39.47,,0.00,0.00,,45.0282,-93.314161
+1106,Minnesota,2017-18,Fit Academy,Dakota,33,39.39,,0.00,12.12,,44.734512,-93.211843
+1107,Minnesota,2017-18,Truman Public,Martin,18,38.89,,0.00,0.00,,43.8260958,-94.4312167
+1108,Minnesota,2017-18,Minnesota Waldorf,Ramsey,16,37.50,,0.00,31.25,,45.0050071,-93.0985171
+1109,Minnesota,2017-18,Spirit Of The Lake Community,St. Louis,8,37.50,,0.00,25.00,,46.8097634,-92.0856437
+1110,Minnesota,2017-18,Art And Science Academy,Isanti,45,35.56,,0.00,4.44,,45.502922,-93.234055
+1111,Minnesota,2017-18,Best Academy East,Hennepin,45,35.56,,0.00,0.00,,44.9847478,-93.2967538
+1112,Minnesota,2017-18,Iq Academy,Otter Tail,10,20.00,,0.00,0.00,,46.2891173,-96.0679927
+1113,Minnesota,2017-18,Mt Olive Lutheran,Wright,5,0.00,,0.00,0.00,,45.041452,-93.782476
+1114,Minnesota,2017-18,St Croix Montessori,Washington,9,0.00,,0.00,0.00,,44.95069,-92.841911
+1115,Minnesota,2017-18,917 Crista Mcauliffe El,Dakota,,,,,,,44.7373009,-93.0775479
+1116,Minnesota,2017-18,Abc International Montessori Academy,Hennepin,,,,,,,44.80745,-93.349851
+1117,Minnesota,2017-18,Academy Of Whole Learning,Hennepin,,,,,,,44.9408,-93.469401
+1118,Minnesota,2017-18,Adventist Christian,Becker,,,,,,,46.82867,-95.838841
+1119,Minnesota,2017-18,Alexander Learning Academy,Rice,,,,,,,44.29164,-93.281691
+1120,Minnesota,2017-18,Angle Inlet Elementary,Roseau,,,,,,,48.909994,-95.322898
+1121,Minnesota,2017-18,Berea Lutheran,Dakota,,,,,,,44.8147049,-93.089499
+1122,Minnesota,2017-18,Bethany Crisis Shelter,St. Louis,,,,,,,46.684919,-92.21643
+1123,Minnesota,2017-18,Birch Grove Community,Cook,,,,,,,47.567164,-90.853561
+1124,Minnesota,2017-18,Bluesky Charter,Dakota,,,,,,,44.898475,-93.083513
+1125,Minnesota,2017-18,Capital City Advent Christian,Ramsey,,,,,,,44.904319,-93.003112
+1126,Minnesota,2017-18,Cathedral Hill Montessori,Ramsey,,,,,,,44.94773,-93.113811
+1127,Minnesota,2017-18,Centennial Elementary,Anoka,,,,,,,45.154053,-93.15059
+1128,Minnesota,2017-18,Central Elementary,Beltrami,,,,,,,47.476153,-94.8816
+1129,Minnesota,2017-18,Childrens Center Montessori I,Ramsey,,,,,,,44.9623512,-93.1656541
+1130,Minnesota,2017-18,Childrens Discovery Academy,Ramsey,,,,,,,45.0213685,-93.0823567
+1131,Minnesota,2017-18,Christs Household Of Faith,Ramsey,,,,,,,44.94939,-93.115301
+1132,Minnesota,2017-18,Clover Ridge,Carver,,,,,,,44.8162437,-93.631166
+1133,Minnesota,2017-18,Coon Rapids Christian,Anoka,,,,,,,45.173544,-93.318717
+1134,Minnesota,2017-18,Cvsec Step,Rice,,,,,,,44.320864,-93.271402
+1135,Minnesota,2017-18,Cyber Village Academy,Ramsey,,,,,,,44.918378,-93.156223
+1136,Minnesota,2017-18,Deaf / Hard Of Hearing,Dakota,,,,,,,44.767375,-93.267035
+1137,Minnesota,2017-18,Destiny Academy,Grant,,,,,,,46.01901,-95.853051
+1138,Minnesota,2017-18,Discovery Montessori Academy,Mille Lacs,,,,,,,45.56102,-93.583279
+1139,Minnesota,2017-18,Discovery Public School Faribault,Rice,,,,,,,44.299514,-93.271131
+1140,Minnesota,2017-18,E.C.H.O. Charter,Yellow Medicine,,,,,,,44.617924,-95.410092
+1141,Minnesota,2017-18,East Middle Alternative,Hennepin,,,,,,,44.9796715,-93.4339368
+1142,Minnesota,2017-18,Elmendorf,Cottonwood,,,,,,,43.867352,-94.8793902
+1143,Minnesota,2017-18,Emanuel Lutheran,,,,,,,,44.7315893,-93.9834003
+1144,Minnesota,2017-18,Enrich Kingsland,,,,,,,,43.6971918,-92.386916
+1145,Minnesota,2017-18,Faith Christian,Olmsted,,,,,,,43.98122,-92.396231
+1146,Minnesota,2017-18,Faribault Area Learning Ctr.,Rice,,,,,,,44.320537,-93.269554
+1147,Minnesota,2017-18,Fhl Academy,Clearwater,,,,,,,47.5198193,-95.3982107
+1148,Minnesota,2017-18,Free Christian,Pipestone,,,,,,,43.87315,-96.135251
+1149,Minnesota,2017-18,Friendship Acdmy Of Fine Arts Chtr,Hennepin,,,,,,,44.934345,-93.234276
+1150,Minnesota,2017-18,Garfield Elementary,Douglas,,,,,,,45.94118,-95.488024
+1151,Minnesota,2017-18,Glenville Emmons E.,Freeborn,,,,,,,43.5539714,-93.2181477
+1152,Minnesota,2017-18,Glenville-Emmons Sec.,Freeborn,,,,,,,43.5672547,-93.2756102
+1153,Minnesota,2017-18,Glory Academy,Dakota,,,,,,,44.58432,-93.270411
+1154,Minnesota,2017-18,Good Shepherd,Blue Earth,,,,,,,44.1915218,-94.0389099
+1155,Minnesota,2017-18,Grace Lutheran,Dodge,,,,,,,44.03202,-92.854361
+1156,Minnesota,2017-18,Granite City Baptist Academy,Stearns,,,,,,,45.5792753,-94.218588
+1157,Minnesota,2017-18,Guadalupe Alternative Programs,Ramsey,,,,,,,44.928322,-93.069199
+1158,Minnesota,2017-18,Harbon Montessori,Ramsey,,,,,,,45.0729925,-93.2244161
+1159,Minnesota,2017-18,Harmony Learning Center,Ramsey,,,,,,,44.973338,-92.994447
+1160,Minnesota,2017-18,Harvest Christian,Pine,,,,,,,46.12512,-92.871311
+1161,Minnesota,2017-18,Hennepin Gateway To College,Hennepin,,,,,,,45.096549,-93.397841
+1162,Minnesota,2017-18,Heritage Christian,Kittson,,,,,,,48.5791536,-96.513282
+1163,Minnesota,2017-18,Hmong College Prep Academy,Ramsey,,,,,,,44.975191,-93.164069
+1164,Minnesota,2017-18,Holy Family-Sauk Centre,Stearns,,,,,,,45.7371876,-94.9477513
+1165,Minnesota,2017-18,Holy Trinity Lutheran,Hennepin,,,,,,,45.03439,-93.394821
+1166,Minnesota,2017-18,Huddleston Elementary,Dakota,,,,,,,44.696803,-93.259988
+1167,Minnesota,2017-18,Immaculate Conception,Stearns,,,,,,,45.041868,-93.250545
+1168,Minnesota,2017-18,Immanuel Lutheran,McLeod,,,,,,,44.92032,-94.461171
+1169,Minnesota,2017-18,Imprints Program,Brown,,,,,,,44.299839,-94.447882
+1170,Minnesota,2017-18,Indus Elementary,Koochiching,,,,,,,48.629564,-93.901209
+1171,Minnesota,2017-18,Isd 728 Focus/Journey,Sherburne,,,,,,,45.312498,-93.576608
+1172,Minnesota,2017-18,Isle Alc,Mille Lacs,,,,,,,46.1372521,-93.4749717
+1173,Minnesota,2017-18,Isle Elementary,Mille Lacs,,,,,,,46.133545,-93.472419
+1174,Minnesota,2017-18,Isle Sec.,Mille Lacs,,,,,,,46.1376908,-93.4746456
+1175,Minnesota,2017-18,Jennings Community Learning Center,Ramsey,,,,,,,44.9649267,-93.1995535
+1176,Minnesota,2017-18,Jonathan Montessori,Carver,,,,,,,44.819401,-93.612072
+1177,Minnesota,2017-18,King Of Grace Lutheran,Hennepin,,,,,,,45.000896,-93.356711
+1178,Minnesota,2017-18,Kipp North Star Primary,Hennepin,,,,,,,45.046839,-93.307674
+1179,Minnesota,2017-18,Kokesh Alc,Mille Lacs,,,,,,,46.0601436,-93.6739968
+1180,Minnesota,2017-18,Lake Region Christian,Crow Wing,,,,,,,46.35266,-94.246671
+1181,Minnesota,2017-18,Laura Baker Sun Program,Rice,,,,,,,44.457413,-93.147281
+1182,Minnesota,2017-18,Laura Macarthur Elementary,St. Louis,,,,,,,46.743801,-92.16723
+1183,Minnesota,2017-18,Learning For Leadership,Hennepin,,,,,,,45.0290001,-93.2610884
+1184,Minnesota,2017-18,Lester Park Elementary,St. Louis,,,,,,,46.840009,-92.016387
+1185,Minnesota,2017-18,Letoile Du Nord Lower,Ramsey,,,,,,,44.9807038,-93.0387093
+1186,Minnesota,2017-18,Level 4 Program Pathways To Change,Chisago,,,,,,,45.38195,-92.868279
+1187,Minnesota,2017-18,Link12 Lakeville,Dakota,,,,,,,44.64478,-93.240675
+1188,Minnesota,2017-18,Lismore Colony Elementary,Big Stone,,,,,,,45.4211113,-96.5825427
+1189,Minnesota,2017-18,Little Voyageurs Montessori,Anoka,,,,,,,45.06182,-93.249201
+1190,Minnesota,2017-18,Lubavitch Chedar Day,Ramsey,,,,,,,44.9176896,-93.1745219
+1191,Minnesota,2017-18,M.A.C.C.R.A.Y. East Elementary,Chippewa,,,,,,,45.017897,-95.2387958
+1192,Minnesota,2017-18,M.A.C.C.R.A.Y. Sr.,Chippewa,,,,,,,44.9568946,-95.3748002
+1193,Minnesota,2017-18,M.A.C.C.R.A.Y. West Elementary,Chippewa,,,,,,,44.91094,-95.467401
+1194,Minnesota,2017-18,Maple Lake Sec.,Wright,,,,,,,45.2298134,-94.0039178
+1195,Minnesota,2017-18,Maranatha Seventh Day Adventist,Dodge,,,,,,,44.9354405,-93.382193
+1196,Minnesota,2017-18,Mcgregor Elementary,Aitkin,,,,,,,46.605395,-93.304631
+1197,Minnesota,2017-18,Mcgregor Sec.,Aitkin,,,,,,,46.6058696,-93.3054662
+1198,Minnesota,2017-18,Meadowview,Dakota,,,,,,,44.6655812,-93.1903229
+1199,Minnesota,2017-18,Meeker And Wright Special Education,Wright,,,,,,,45.0589047,-94.0717978
+1200,Minnesota,2017-18,Metro Deaf,Ramsey,,,,,,,44.975102,-93.162188
+1201,Minnesota,2017-18,Mille Lacs Academy - Nexus,Mille Lacs,,,,,,,46.06717,-93.68688
+1202,Minnesota,2017-18,Milroy Area Charter,Redwood,,,,,,,44.415535,-95.555502
+1203,Minnesota,2017-18,Milroy Jr.,Redwood,,,,,,,44.4159154,-95.5556508
+1204,Minnesota,2017-18,Minisinaakwaang Leadership Academy,Aitkin,,,,,,,46.544455,-93.282284
+1205,Minnesota,2017-18,Mn Academy For The Blind,Rice,,,,,,,44.285978,-93.259141
+1206,Minnesota,2017-18,Montessori Renaissance Academy,Anoka,,,,,,,45.189481,-93.383646
+1207,Minnesota,2017-18,Montessori,Benton,,,,,,,45.611417,-94.176672
+1208,Minnesota,2017-18,Morrison County Learning Center,Morrison,,,,,,,45.980757,-94.351417
+1209,Minnesota,2017-18,Mps Metro C,Hennepin,,,,,,,44.969304,-93.281535
+1210,Minnesota,2017-18,Mps Metro Ha,Hennepin,,,,,,,44.99379,-93.256591
+1211,Minnesota,2017-18,Mps Sj,Hennepin,,,,,,,44.94773,-93.2429646
+1212,Minnesota,2017-18,Myers-Wilkins Elementary,St. Louis,,,,,,,46.79232,-92.102538
+1213,Minnesota,2017-18,Nett Lake Elementary,St. Louis,,,,,,,48.109661,-93.095592
+1214,Minnesota,2017-18,Neuhof,Cottonwood,,,,,,,43.8962315,-94.9397176
+1215,Minnesota,2017-18,Nicollet Jr.,Dakota,,,,,,,44.7626965,-93.2726657
+1216,Minnesota,2017-18,Ordean-East,St. Louis,,,,,,,46.817314,-92.064639
+1217,Minnesota,2017-18,Oshki Ogimaag Charter,Cook,,,,,,,47.967951,-89.680389
+1218,Minnesota,2017-18,Otter Lake Elementary,Ramsey,,,,,,,45.105961,-93.039519
+1219,Minnesota,2017-18,Our Lady Of The Prairie,Scott,,,,,,,44.62469,-93.766391
+1220,Minnesota,2017-18,Pankalo Education Center,,,,,,,,44.954908,-92.9290363
+1221,Minnesota,2017-18,Pearson Elementary,Traverse,,,,,,,45.808722,-96.492803
+1222,Minnesota,2017-18,Pillager Area Charter,Cass,,,,,,,46.341813,-94.485886
+1223,Minnesota,2017-18,Pillager Elementary,Cass,,,,,,,46.327197,-94.469886
+1224,Minnesota,2017-18,Pillager Sec.,Cass,,,,,,,46.341751,-94.485683
+1225,Minnesota,2017-18,Pioneer Amish Parochial,Todd,,,,,,,46.26762,-94.990811
+1226,Minnesota,2017-18,Pls Elem,Sibley,,,,,,,44.5345223,-94.5220787
+1227,Minnesota,2017-18,Prairie Care Edina - Php,Hennepin,,,,,,,44.8845,-93.327731
+1228,Minnesota,2017-18,Prairie Care Mankato,Blue Earth,,,,,,,44.16739,-93.998351
+1229,Minnesota,2017-18,R.I.S.E. Program,Brown,,,,,,,44.299795,-94.446617
+1230,Minnesota,2017-18,Red Rock Central,Redwood,,,,,,,44.2269356,-95.2631306
+1231,Minnesota,2017-18,Rice Lake Elementary,Anoka,,,,,,,45.143554,-93.11294
+1232,Minnesota,2017-18,Richfield Stem,Hennepin,,,,,,,44.875693,-93.258675
+1233,Minnesota,2017-18,River Bend Area Learning Center,Brown,,,,,,,44.29978,-94.446688
+1234,Minnesota,2017-18,River Bend Education Center,Hennepin,,,,,,,44.9811873,-93.2993604
+1235,Minnesota,2017-18,River Valley Academy,,,,,,,,44.3096729,-92.001665
+1236,Minnesota,2017-18,Robbinsdale Tasc Alc,Hennepin,,,,,,,45.004269,-93.365464
+1237,Minnesota,2017-18,Rochester Pentecostal,Olmsted,,,,,,,44.01669,-92.407481
+1238,Minnesota,2017-18,Rochester Phoenix Academy,Olmsted,,,,,,,43.999287,-92.456978
+1239,Minnesota,2017-18,Rothsay Public Schools,Wilkin,,,,,,,46.482401,-96.284116
+1240,Minnesota,2017-18,Safe,Hennepin,,,,,,,45.053694,-93.386604
+1241,Minnesota,2017-18,Salem Lutheran,Wright,,,,,,,45.039685,-92.8037389
+1242,Minnesota,2017-18,Schaeffer Academy,Olmsted,,,,,,,44.05181,-92.414861
+1243,Minnesota,2017-18,Seeds Of Wisdom,Olmsted,,,,,,,44.0190167,-92.4461997
+1244,Minnesota,2017-18,Sejong Academy Of Minnesota,Ramsey,,,,,,,44.960966,-93.156486
+1245,Minnesota,2017-18,Seward Elementary,Hennepin,,,,,,,44.960225,-93.230785
+1246,Minnesota,2017-18,Soar,Chisago,,,,,,,45.38274,-92.868681
+1247,Minnesota,2017-18,Sonnesyn Elementary,Hennepin,,,,,,,45.018684,-93.391083
+1248,Minnesota,2017-18,Southside Family Charter,Hennepin,,,,,,,44.920534,-93.272105
+1249,Minnesota,2017-18,Spring Prairie Elementary,Clay,,,,,,,46.94144,-96.452721
+1250,Minnesota,2017-18,St Bernard,Pennington,,,,,,,48.1177911,-96.1837618
+1251,Minnesota,2017-18,St Casimir,Faribault,,,,,,,43.7412592,-93.7284477
+1252,Minnesota,2017-18,St Francis Christian,Anoka,,,,,,,45.3862237,-93.3693028
+1253,Minnesota,2017-18,St Francis Of Assisi Elementary,Crow Wing,,,,,,,46.3604901,-94.1990986
+1254,Minnesota,2017-18,St Johns Les,Brown,,,,,,,44.296056,-94.720173
+1255,Minnesota,2017-18,St Johns Lutheran,Fillmore,,,,,,,43.703809,-92.269998
+1256,Minnesota,2017-18,St Johns Lutheran,Jackson,,,,,,,43.74068,-95.316901
+1257,Minnesota,2017-18,St Johns Lutheran-Young America,,,,,,,,44.7833593,-93.9180226
+1258,Minnesota,2017-18,St Michael,Redwood,,,,,,,44.4179133,-94.9267333
+1259,Minnesota,2017-18,St Pauls Lutheran,Goodhue,,,,,,,44.314057,-94.46454
+1260,Minnesota,2017-18,St Pauls Lutheran,Murray,,,,,,,43.87191,-95.598591
+1261,Minnesota,2017-18,St Peter,Houston,,,,,,,44.7133531,-96.275284
+1262,Minnesota,2017-18,St Peter Evangelical Lutheran,Nicollet,,,,,,,43.6735574,-92.9102587
+1263,Minnesota,2017-18,St Raphael,Hennepin,,,,,,,45.05331,-93.374141
+1264,Minnesota,2017-18,St Robert Bellarmine Academy,Stearns,,,,,,,45.5550021,-94.1582662
+1265,Minnesota,2017-18,St Scholastic Parochial,Isanti,,,,,,,45.4914398,-93.2586922
+1266,Minnesota,2017-18,St Thomas Aquinas Catholic,Koochiching,,,,,,,48.60143,-93.412191
+1267,Minnesota,2017-18,St Wendelin,Stearns,,,,,,,45.452418,-94.246082
+1268,Minnesota,2017-18,St. Paul City,,,,,,,,44.960709,-93.115431
+1269,Minnesota,2017-18,St. Peter,Washington,,,,,,,45.2660039,-92.9741956
+1270,Minnesota,2017-18,Star Of The North Academy Charter,Anoka,,,,,,,45.3191249,-93.2310641
+1271,Minnesota,2017-18,Starland Elementary,Nicollet,,,,,,,44.4448654,-94.3978731
+1272,Minnesota,2017-18,Step By Step Montessori-Plymouth,Hennepin,,,,,,,45.0347972,-93.4038992
+1273,Minnesota,2017-18,Step By Step Montessori-Wayzata,Hennepin,,,,,,,44.9717879,-93.473401
+1274,Minnesota,2017-18,Success,Morrison,,,,,,,45.9760104,-94.3297368
+1275,Minnesota,2017-18,Superior Academy,St. Louis,,,,,,,46.789053,-92.100288
+1276,Minnesota,2017-18,Sw Metro Level 4 Programs,Scott,,,,,,,44.792658,-93.471997
+1277,Minnesota,2017-18,Talmud Torah,Ramsey,,,,,,,44.918362,-93.156171
+1278,Minnesota,2017-18,Tatanka Elementary,Wright,,,,,,,45.181287,-93.864837
+1279,Minnesota,2017-18,The French Academy Of Minnesota,Hennepin,,,,,,,44.962686,-93.366583
+1280,Minnesota,2017-18,Trinity Lutheran,Le Sueur,,,,,,,45.3840873,-93.3631723
+1281,Minnesota,2017-18,Twin Bluff Mid.,Goodhue,,,,,,,44.5444376,-92.5441335
+1282,Minnesota,2017-18,Underwood Elementary,Otter Tail,,,,,,,46.281852,-95.870809
+1283,Minnesota,2017-18,Underwood Sec.,Otter Tail,,,,,,,46.2818652,-95.87179
+1284,Minnesota,2017-18,Veritas Academy,Chisago,,,,,,,45.45309,-92.910371
+1285,Minnesota,2017-18,Wabasso Public,Redwood,,,,,,,44.40542,-95.2556092
+1286,Minnesota,2017-18,Wheaton Sec.,Traverse,,,,,,,45.8005424,-96.5068561
+1287,Minnesota,2017-18,Zachary Lane Elementary,Hennepin,,,,,,,45.034479,-93.41948
+1288,Minnesota,2017-18,Zion Lutheran-Cologne,,,,,,,,44.7368019,-93.8280821
+1289,Minnesota,2017-18,Zumbro Ed Dist Futures/Choices,Olmsted,,,,,,,44.0275768,-92.6493934

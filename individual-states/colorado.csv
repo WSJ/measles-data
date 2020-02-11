@@ -1,0 +1,1320 @@
+index,state,year,name,type,county,district,enroll,mmr,overall,xmed,xper,xrel,lat,lng
+1,Colorado,2017-18,A New Generation,Kindergarten,Adams,Harrison 2,3,100,100,0,0,0,39.8398269,-104.1930918
+2,Colorado,2017-18,Abiding Hope Preschool Inc,Kindergarten,Jefferson,Denver County 1,4,100,100,0,0,0,39.6018278,-105.1279378
+3,Colorado,2017-18,Academy Charter,Kindergarten,Douglas,Academy 20,66,100,93.94,0,4.55,1.52,39.383804,-104.87132
+4,Colorado,2017-18,Adventure Elementary,Kindergarten,Adams,Colorado Springs 11,32,100,100,0,0,0,39.836734,-104.991794
+5,Colorado,2017-18,Aguilar K-12 Schools,Kindergarten,Las Animas,Greeley 6,11,100,81.82,0,9.09,0,38.07159,-103.230159
+6,Colorado,2017-18,All Souls Catholic,Kindergarten,Arapahoe,Poudre R-1,34,100,97.06,0,2.94,0,39.626777,-104.98266
+7,Colorado,2017-18,Alsup Elementary,Kindergarten,Adams,Academy 20,66,100,96.97,0,0,0,39.825601,-104.937414
+8,Colorado,2017-18,Alta Vista Charter,Kindergarten,Prowers,Jefferson County R-1,20,100,90,0,5,5,38.129068,-102.600614
+9,Colorado,2017-18,Ambleside,Kindergarten,Arapahoe,Adams-Arapahoe 28J,16,100,93.75,0,6.25,0,39.56723,-104.970461
+10,Colorado,2017-18,Amesse Elementary,Kindergarten,Denver,Greeley 6,63,100,100,0,0,0,39.793348,-104.841935
+11,Colorado,2017-18,Anastasis Academy,Kindergarten,Arapahoe,Mapleton 1,3,100,100,0,0,0,39.597882,-104.941443
+12,Colorado,2017-18,Antelope Ridge Elementary,Kindergarten,Arapahoe,Aguilar Reorganized 6,115,100,95.65,0,2.61,1.74,39.618427,-104.725491
+13,Colorado,2017-18,Apple Tree Christian Preschool & Kindergarten,Kindergarten,Broomfield,Boulder County,10,100,100,0,0,0,39.92963,-105.077391
+14,Colorado,2017-18,Appleton Elementary,Kindergarten,Mesa,Denver County 1,69,100,97.1,0,2.9,0,39.121765,-108.615531
+15,Colorado,2017-18,Arickaree Elementary,Kindergarten,Washington,Charter School Institute,2,100,0,0,50,0,39.745258,-103.029787
+16,Colorado,2017-18,Arkansas Elementary,Kindergarten,Arapahoe,St Vrain Valley Re 1J,57,100,98.25,0,1.75,0,39.692308,-104.785332
+17,Colorado,2017-18,Arma Dei Academy,Kindergarten,Douglas,Fountain 8,22,100,77.27,0,22.73,0,39.52835,-104.984321
+18,Colorado,2017-18,Arrowhead Elementary,Kindergarten,Arapahoe,Mesa County Valley 51,72,100,100,0,0,0,39.664185,-104.765986
+19,Colorado,2017-18,Ashley Elementary,Kindergarten,Denver,Denver County 1,49,100,97.96,0,2.04,0,39.746178,-104.898303
+20,Colorado,2017-18,Aspen Community Charter,Kindergarten,Pitkin,Douglas County RE 1,15,100,93.33,0,6.67,0,39.27703,-106.871052
+21,Colorado,2017-18,Aspen Country Day,Kindergarten,Pitkin,Denver County 1,23,100,86.96,0,13.04,0,39.1777993,-106.8396007
+22,Colorado,2017-18,Aspen Crossing Elementary,Kindergarten,Arapahoe,Jefferson County R-1,81,100,97.53,0,2.47,0,39.632516,-104.752068
+23,Colorado,2017-18,Aspen Elementary,Kindergarten,Pitkin,Douglas County RE 1,94,100,89.36,0,10.64,0,39.191594,-106.847946
+24,Colorado,2017-18,Aspen View Academy,Kindergarten,Douglas,Douglas County RE 1,106,100,95.28,0,4.72,0,39.395015,-104.885108
+25,Colorado,2017-18,Augustana Early Learning Center,Kindergarten,Denver,Brighton School District,8,100,100,0,0,0,39.7103119,-104.9285276
+26,Colorado,2017-18,Auraria Early Learning Center,Kindergarten,Denver,Greeley 6,23,100,86.96,0,0,0,39.74058,-105.003849
+27,Colorado,2017-18,Ave Maria Catholic,Kindergarten,Douglas,Jefferson County R-1,33,100,100,0,0,0,39.51989,-104.716241
+28,Colorado,2017-18,Avondale Elementary,Kindergarten,Pueblo,Adams-Arapahoe 28J,25,100,96,0,0,0,38.237663,-104.347575
+29,Colorado,2017-18,Bacon Elementary,Kindergarten,Larimer,Strasburg 31J,79,100,96.2,0,3.8,0,40.50368,-105.037559
+30,Colorado,2017-18,Banning Lewis Ranch Academy,Kindergarten,El Paso,Arickareer-R2,116,100,93.97,0,6.03,0,38.933236,-104.676008
+31,Colorado,2017-18,Battle Rock Charter,Kindergarten,Montezuma,Adams-Arapahoe 28J,3,100,100,0,0,0,37.336771,-108.840317
+32,Colorado,2017-18,Bauder Elementary,Kindergarten,Larimer,Cherry Creek 5,95,100,96.84,0,3.16,0,40.566858,-105.121598
+33,Colorado,2017-18,Beach Court Elementary,Kindergarten,Denver,Thompson R2-J,45,100,97.78,0,2.22,0,39.786285,-105.017776
+34,Colorado,2017-18,Bear Canyon Elementary,Kindergarten,Douglas,Colorado Springs 11,60,100,95,1.67,1.67,1.67,39.540563,-104.981511
+35,Colorado,2017-18,Beattie Elementary,Kindergarten,Larimer,Valley RE-1,50,100,90,0,10,0,40.547143,-105.085026
+36,Colorado,2017-18,Belle Creek Charter,Kindergarten,Adams,Jefferson County R-1,83,100,96.39,0,3.61,0,39.891586,-104.879906
+37,Colorado,2017-18,Belles And Beaus Academy At The Farms,Kindergarten,Arapahoe,Westminster Public Schools,18,100,100,0,0,0,39.6050802,-104.7736986
+38,Colorado,2017-18,Belleview Christian,Kindergarten,Adams,Jefferson County R-1,12,100,83.33,0,0,0,39.8483575,-105.0327928
+39,Colorado,2017-18,Bennett Elementary,Kindergarten,Larimer,Montezuma-Cortez RE-1,64,100,95.31,0,1.56,0,40.568888,-105.097691
+40,Colorado,2017-18,Bennett Elementary,Kindergarten,Adams,Eagle County RE 50,68,100,95.59,0,2.94,0,39.759097,-104.422577
+41,Colorado,2017-18,Bergen Meadow Primary,Kindergarten,Jefferson,Lewis-Palmer 38,77,100,89.61,0,7.79,2.6,39.680867,-105.362083
+42,Colorado,2017-18,Berthoud Elementary,Kindergarten,Larimer,Boulder Valley RE 2,68,100,88.24,1.47,8.82,1.47,40.313174,-105.081757
+43,Colorado,2017-18,Bethke Elementary,Kindergarten,Larimer,Jefferson County R-1,94,100,94.68,0,5.32,0,40.51449,-104.950967
+44,Colorado,2017-18,Bethlehem Lutheran,Kindergarten,Jefferson,Colorado Springs 11,22,100,81.82,0,13.64,0,39.748742,-105.081382
+45,Colorado,2017-18,Bethune Public Schools,Kindergarten,Kit Carson,Pueblo City 60,5,100,100,0,0,0,39.30622,-102.425853
+46,Colorado,2017-18,Big Thompson Elementary,Kindergarten,Larimer,Greeley 6,35,100,94.29,0,5.71,0,40.418695,-105.189286
+47,Colorado,2017-18,Bixby,Kindergarten,Boulder,Pueblo City 60,14,100,85.71,0,14.29,0,39.98409,-105.237751
+48,Colorado,2017-18,Black Forest Hills Elementary,Kindergarten,Arapahoe,Poudre R-1,89,100,98.88,0,0,0,39.585217,-104.6946
+49,Colorado,2017-18,Blue Mountain Montessori,Kindergarten,Weld,Thompson R2-J,6,100,100,0,0,0,40.040892,-105.046131
+50,Colorado,2017-18,Born To The Golden Mtn/Montessori Ctr,Kindergarten,El Paso,Karval RE-23,3,100,100,0,0,0,38.812844,-104.833686
+51,Colorado,2017-18,Boulder Valley Waldorf,Private,Boulder,Denver County 1,81,100,50.62,0,49.38,0,40.091933,-105.1803754
+52,Colorado,2017-18,Boulder Waldorf Kindergarten,Kindergarten,Boulder,Yuma 1,5,100,60,0,20,0,40.0493883,-105.2722746
+53,Colorado,2017-18,Bradford Primary,Kindergarten,Jefferson,Jefferson County R-1,96,100,94.79,0,5.21,0,39.5702793,-105.1614407
+54,Colorado,2017-18,Brantner Elementary,Kindergarten,Adams,Thompson R2-J,99,100,94.95,0,4.04,1.01,39.937502,-104.897042
+55,Colorado,2017-18,Briggsdale Elementary,Kindergarten,Weld,Boulder Valley RE 2,13,100,92.31,0,7.69,0,40.633542,-104.324432
+56,Colorado,2017-18,Bright Horizons Children's Centers Inc.,Kindergarten,Larimer,Colorado Springs 11,3,100,100,0,0,0,40.5494493,-105.0357919
+57,Colorado,2017-18,Bright Horizons/Montessori @ The Marina,Kindergarten,Denver,Larimer County,8,100,100,0,0,0,39.626063,-104.8935691
+58,Colorado,2017-18,Brighton Adventist Academy,Kindergarten,Adams,Brighton School District,2,100,100,0,0,0,39.97375,-104.816001
+59,Colorado,2017-18,Bristlecone Montessori,Kindergarten,Park,Boulder Valley RE 2,6,100,33.33,0,66.67,0,39.2869,-106.064341
+60,Colorado,2017-18,Broadmoor Elementary,Kindergarten,El Paso,Denver County 1,46,100,93.48,0,6.52,0,38.789707,-104.8359
+61,Colorado,2017-18,Broadway Elementary,Kindergarten,Mesa,Boulder Valley RE 2,39,100,89.74,0,7.69,0,39.080973,-108.6366
+62,Colorado,2017-18,Bromley East Charter,Kindergarten,Adams,Academy 20,127,100,96.85,0,2.36,0.79,39.98234,-104.746031
+63,Colorado,2017-18,Broomfield Academy,Kindergarten,Broomfield,Plainview RE-2,1,100,100,0,0,0,39.914636,-105.076672
+64,Colorado,2017-18,Buena Vista Elementary,Kindergarten,El Paso,Cheyenne Mountain 12,39,100,92.31,0,7.69,0,38.835748,-104.839894
+65,Colorado,2017-18,Buffalo Ridge Elementary,Kindergarten,Douglas,Cherry Creek 5,65,100,95.38,0,4.62,0,39.465899,-104.89419
+66,Colorado,2017-18,Burlington Elementary,Kindergarten,Kit Carson,Denver County 1,40,100,95,0,2.5,0,39.305354,-102.263299
+67,Colorado,2017-18,Cache La Poudre Elementary,Kindergarten,Larimer,Denver County 1,50,100,94,0,6,0,40.626623,-105.143038
+68,Colorado,2017-18,Campo Elementary,Kindergarten,Baca,Colorado Springs 11,4,100,100,0,0,0,37.104544,-102.576293
+69,Colorado,2017-18,Canon Exploratory,Kindergarten,Fremont,Harrison 2,48,100,93.75,0,6.25,0,38.467789,-105.239978
+70,Colorado,2017-18,Caprock Academy,Kindergarten,Mesa,Edison 54 JT,77,100,90.91,0,6.49,2.6,39.108769,-108.597811
+71,Colorado,2017-18,Carbondale Community Charter,Kindergarten,Garfield,Roaring Fork RE-1,14,100,100,0,0,0,39.410623,-107.223208
+72,Colorado,2017-18,Cardinal Community Academy Charter,Kindergarten,Weld,Woodland Park RE-2,21,100,85.71,4.76,9.52,0,40.0455,-104.45219
+73,Colorado,2017-18,Carlson Elementary,Kindergarten,Clear Creek,Colorado Springs 11,22,100,81.82,0,18.18,0,39.742262,-105.519129
+74,Colorado,2017-18,Cedar Ridge Elementary,Kindergarten,Pueblo,Cherry Creek 5,62,100,95.16,0,1.61,0,38.308772,-104.803219
+75,Colorado,2017-18,Centennial Montessori,Kindergarten,Arapahoe,Weld County,9,100,100,0,0,0,39.589674,-104.920934
+76,Colorado,2017-18,Central Elementary,Kindergarten,adams,St Vrain Valley Re 1J,80,100,98.75,0,0,0,39.813771,-104.921307
+77,Colorado,2017-18,Challenge,Kindergarten,Arapahoe,Westminster Public Schools,22,100,95.45,0,4.55,0,39.697682,-104.876572
+78,Colorado,2017-18,Challenge To Excellence Charter,Kindergarten,Douglas,Thompson R2-J,47,100,93.62,0,4.26,2.13,39.546404,-104.790449
+79,Colorado,2017-18,Charles M. Schenck (Cms) Community,Kindergarten,Denver,Cherry Creek 5,46,100,97.83,0,2.17,0,39.692748,-105.034079
+80,Colorado,2017-18,Cheraw,Kindergarten,Otero,St Vrain Valley Re 1J,13,100,100,0,0,0,38.109629,-103.509764
+81,Colorado,2017-18,Cherrelyn Elementary,Kindergarten,Arapahoe,Centennial R-1,38,100,92.11,0,2.63,2.63,39.633992,-104.986112
+82,Colorado,2017-18,Cherry Creek Charter Academy,Kindergarten,Arapahoe,Mesa County Valley 51,52,100,94.23,0,3.85,1.92,39.602819,-104.875343
+83,Colorado,2017-18,Cheyenne Mountain Elementary,Kindergarten,El Paso,Harrison 2,39,100,100,0,0,0,38.7599645,-104.8238535
+84,Colorado,2017-18,Cheyenne Wells K-12 Schools,Kindergarten,Cheyenne,Adams 12 Five Star Schools,22,100,86.36,0,13.64,0,38.8251656,-102.3530093
+85,Colorado,2017-18,Children's House Montessori,Kindergarten,Larimer,Jefferson County R-1,11,100,54.55,0,45.45,0,40.5878301,-105.0961105
+86,Colorado,2017-18,Children's House Of Durango Llc,Kindergarten,La Plata,Park County,10,100,100,0,0,0,37.2826733,-107.880899
+87,Colorado,2017-18,Children's Kiva,Kindergarten,Montezuma,Mapleton 1,17,100,94.12,0,5.88,0,37.3552133,-108.5736815
+88,Colorado,2017-18,Childrens Garden Montessori School Denver,Kindergarten,Denver,Douglas County RE 1,2,100,100,0,0,0,39.7233418,-104.9543435
+89,Colorado,2017-18,Chipeta Elementary,Kindergarten,El Paso,Cherry Creek 5,71,100,97.18,0,1.41,1.41,38.907101,-104.871227
+90,Colorado,2017-18,Christ Our Redeemer Lutheran,Kindergarten,Arapahoe,Thompson R2-J,6,100,100,0,0,0,39.673836,-104.778204
+91,Colorado,2017-18,Cimarron Elementary,Kindergarten,Arapahoe,Ellicott 22,76,100,97.37,1.32,1.32,0,39.648878,-104.78456
+92,Colorado,2017-18,Clifton Elementary,Kindergarten,Mesa,Colorado Springs 11,64,100,89.06,0,9.38,0,39.093165,-108.445208
+93,Colorado,2017-18,Coal Creek Canyon K-8 Elementary,Kindergarten,Jefferson,Mesa County Valley 51,14,100,64.29,0,35.71,0,39.902612,-105.355866
+94,Colorado,2017-18,Colfax Elementary,Kindergarten,Denver,Falcon 49,33,100,96.97,0,0,0,39.741025,-105.04367
+95,Colorado,2017-18,Colorado Christian Montessori,Kindergarten,Jefferson,Denver County,8,100,100,0,0,0,39.788636,-105.1054989
+96,Colorado,2017-18,Colorado School For The Deaf And Blind,Kindergarten,El Paso,Denver County 1,8,100,75,0,0,0,38.834818,-104.806624
+97,Colorado,2017-18,Colorado West Christian,Kindergarten,Montrose,Cherry Creek 5,25,100,60,8,28,4,38.474899,-107.844323
+98,Colorado,2017-18,Colorow Elementary,Kindergarten,Jefferson,Cheraw 31,24,100,91.67,0,8.33,0,39.601941,-105.097635
+99,Colorado,2017-18,Columbine Christian,Kindergarten,La Plata,Cheyenne Mountain 12,5,100,80,0,20,0,37.301765,-107.840855
+100,Colorado,2017-18,Columbine Elementary,Kindergarten,Denver,Denver County 1,33,100,100,0,0,0,39.757665,-104.956496
+101,Colorado,2017-18,Compass Montessori - Wheat Ridge Charter,Kindergarten,Jefferson,Englewood 1,30,100,93.33,0,3.33,3.33,39.778894,-105.113903
+102,Colorado,2017-18,Concordia Lutheran Preschool,Kindergarten,Jefferson,Durango 9-R,15,100,100,0,0,0,39.69365,-105.150281
+103,Colorado,2017-18,Cornerstone Montessori Sch,Kindergarten,Jefferson,Littleton 6,15,100,100,0,0,0,39.7863907,-105.1778453
+104,Colorado,2017-18,Coronado Hills Elementary,Kindergarten,Adams,Jefferson County R-1,76,100,94.74,0,3.95,1.32,39.848325,-104.969615
+105,Colorado,2017-18,Corpus Christi Catholic,Kindergarten,El Paso,Charter School Institute,34,100,94.12,0,2.94,0,38.867432,-104.8241191
+106,Colorado,2017-18,Cotopaxi Elementary,Kindergarten,Fremont,Garfield RE-2,12,100,75,0,25,0,38.375447,-105.689808
+107,Colorado,2017-18,Countryside Montessori Preschool,Kindergarten,Boulder,Lewis-Palmer 38,14,100,71.43,0,28.57,0,39.9996901,-105.224554
+108,Colorado,2017-18,Cowell Elementary,Kindergarten,Denver,Boulder Valley RE 2,47,100,95.74,0,0,0,39.732506,-105.045504
+109,Colorado,2017-18,Coyote Ridge Elementary,Kindergarten,Larimer,Adams 12 Five Star Schools,68,100,92.65,1.47,4.41,1.47,40.486645,-105.08557
+110,Colorado,2017-18,Creative Kids Corner,Kindergarten,Larimer,Poudre R-1,3,100,100,0,0,0,40.706377,-105.000013
+111,Colorado,2017-18,Creme De La Creme Colorado Inc,Kindergarten,Douglas,Montrose County RE-1j,6,100,100,0,0,0,39.5605754,-104.9007742
+112,Colorado,2017-18,Crestone Charter,Kindergarten,Saguache,Montrose County RE-1j,7,100,42.86,0,42.86,14.29,37.991222,-105.696302
+113,Colorado,2017-18,Cripple Creek-Victor K-12 Schools,Kindergarten,Teller,Calhan RJ-1,20,100,85,0,5,5,38.7507839,-105.1841208
+114,Colorado,2017-18,Crowley County Primary,Kindergarten,Crowley,Littleton 6,39,100,94.87,0,2.56,0,38.222902,-103.757149
+115,Colorado,2017-18,Custer County Elementary,Kindergarten,Custer,Jefferson County R-1,29,100,86.21,0,10.34,0,38.136494,-105.461557
+116,Colorado,2017-18,Dakota Valley Elementary,Kindergarten,Arapahoe,Adams 12 Five Star Schools,89,100,97.75,0,1.12,1.12,39.646316,-104.744705
+117,Colorado,2017-18,Darren Patterson Christian,Kindergarten,Chaffee,Douglas County RE 1,13,100,53.85,0,7.69,0,38.8359551,-106.1332873
+118,Colorado,2017-18,Dartmouth Elementary,Kindergarten,Arapahoe,Adams-Arapahoe 28J,47,100,89.36,0,10.64,0,39.66282,-104.799461
+119,Colorado,2017-18,Dayspring Christian,Kindergarten,Weld,Denver County 1,55,100,85.45,0,14.55,0,40.4058582,-104.7389557
+120,Colorado,2017-18,Dc Montessori Charter,Kindergarten,Douglas,Campo RE-6,62,100,88.71,0,8.06,3.23,39.472306,-104.880115
+121,Colorado,2017-18,Denver Christian,Kindergarten,Jefferson,Gunnison Watershed RE1J,30,100,93.33,3.33,0,0,39.64597,-105.074511
+122,Colorado,2017-18,Denver Jewish Day,Kindergarten,Arapahoe,Adams-Arapahoe 28J,26,100,88.46,0,0,0,39.67116,-104.887541
+123,Colorado,2017-18,Divine Redeemer Catholic Sch,Kindergarten,El Paso,Denver County 1,15,100,93.33,0,6.67,0,38.8461632,-104.7981327
+124,Colorado,2017-18,Doral Academy Of Colorado,Kindergarten,Jefferson,Denver County 1,24,100,79.17,0,12.5,8.33,39.82616,-105.080201
+125,Colorado,2017-18,Dos Rios Elementary,Kindergarten,Mesa,Denver County 1,51,100,94.12,0,0,0,39.042329,-108.558142
+126,Colorado,2017-18,Dps Discovery Link @ Sandra Todd Williams,Kindergarten,Denver,Pueblo County,2,100,100,0,0,0,39.7871638,-104.7650449
+127,Colorado,2017-18,Dunn Elementary,Kindergarten,Larimer,Cherry Creek 5,68,100,95.59,0,4.41,0,40.580846,-105.092288
+128,Colorado,2017-18,Dupont Elementary,Kindergarten,Adams,Holyoke RE-1J,79,100,91.14,0,0,0,39.841286,-104.917396
+129,Colorado,2017-18,Durango Montessori,Private,La Plata,Boulder Valley RE 2,34,100,82.35,0,14.71,2.94,37.277664,-107.877235
+130,Colorado,2017-18,Eads Elementary,Kindergarten,Kiowa,Pueblo City 60,7,100,100,0,0,0,38.483964,-102.781973
+131,Colorado,2017-18,Eagle Valley Elementary,Kindergarten,Eagle,Colorado Springs 11,66,100,86.36,0,12.12,0,39.655177,-106.821475
+132,Colorado,2017-18,Eagleview Elementary,Kindergarten,Adams,Jefferson County R-1,92,100,97.83,0,1.09,1.09,39.937002,-104.932203
+133,Colorado,2017-18,Early Connections @ Day Nursery,Kindergarten,El Paso,Denver County,23,100,100,0,0,0,38.8248139,-104.8235418
+134,Colorado,2017-18,Early Connections @ Sand Creek,Kindergarten,El Paso,Arapahoe County,10,100,100,0,0,0,38.8113227,-104.7653576
+135,Colorado,2017-18,Eastern Hills Community Church Preschool,Kindergarten,Arapahoe,San Miguel County,18,100,100,0,0,0,39.5908895,-104.6898235
+136,Colorado,2017-18,Eaton Elementary,Kindergarten,Weld,Denver County 1,131,100,99.24,0,0,0.76,40.525173,-104.715119
+137,Colorado,2017-18,Eckhart Elementary,Kindergarten,Las Animas,Douglas County RE 1,77,100,98.7,0,0,0,37.162617,-104.50846
+138,Colorado,2017-18,Edcsd: Colorado Cyber,Kindergarten,Douglas,Denver County 1,2,100,100,0,0,0,39.3731053,-104.8555782
+139,Colorado,2017-18,Edison Elementary,Kindergarten,El Paso,Eagle County RE 50,7,100,71.43,0,28.57,0,38.6191779,-104.1675499
+140,Colorado,2017-18,Edith Teter Elementary,Kindergarten,Park,Greeley 6,43,100,93.02,2.33,4.65,0,39.223791,-105.999021
+141,Colorado,2017-18,Elbert Elementary,Kindergarten,Elbert,Denver County 1,11,100,90.91,0,9.09,0,39.223879,-104.537772
+142,Colorado,2017-18,Elk Creek Elementary,Kindergarten,Garfield,St Vrain Valley Re 1J,45,100,95.56,0,4.44,0,39.573468,-107.541017
+143,Colorado,2017-18,Elk Creek Elementary,Kindergarten,Jefferson,Thompson R2-J,46,100,91.3,0,8.7,0,39.472812,-105.372838
+144,Colorado,2017-18,Elkhart Elementary,Kindergarten,Arapahoe,Poudre R-1,83,100,97.59,0,0,2.41,39.731556,-104.815261
+145,Colorado,2017-18,Ellicott Baptist,Kindergarten,El Paso,Douglas County,15,100,60,0,40,0,38.83822,-104.381511
+146,Colorado,2017-18,Escuela De Guadalupe,Kindergarten,Denver,Adams County 14,24,100,91.67,0,0,0,39.727,-105.030981
+147,Colorado,2017-18,Espree Child Learning Center,Kindergarten,Douglas,Denver County,10,100,100,0,0,0,39.553556,-104.921714
+148,Colorado,2017-18,Estes Park Options,Kindergarten,Larimer,Denver County 1,3,100,66.67,0,33.33,0,40.368437,-105.497507
+149,Colorado,2017-18,Evergreen Country Day,Kindergarten,Jefferson,Idalia RJ-3,15,100,100,0,0,0,39.697463,-105.327075
+150,Colorado,2017-18,Excel Academy Charter,Kindergarten,Jefferson,Jefferson County R-1,47,100,91.49,0,6.38,2.13,39.850881,-105.128458
+151,Colorado,2017-18,Eyestone Elementary,Kindergarten,Larimer,Denver County 1,92,100,84.78,0,15.22,0,40.710474,-105.001691
+152,Colorado,2017-18,Fairmount Elementary,Kindergarten,Jefferson,Denver County 1,112,100,98.21,0,1.79,0,39.788264,-105.178298
+153,Colorado,2017-18,Fairview Elementary,Kindergarten,Adams,Denver County 1,40,100,92.5,7.5,0,0,39.83892,-105.019937
+154,Colorado,2017-18,Fairview Elementary,Kindergarten,Denver,Eads RE-1,35,100,100,0,0,0,39.734211,-105.020892
+155,Colorado,2017-18,Fairview Montessori,Kindergarten,Boulder,Adams County,5,100,80,20,0,0,39.9847703,-105.13479
+156,Colorado,2017-18,Falcon Home School Program,Kindergarten,El Paso,Douglas County RE 1,15,100,66.67,0,33.33,0,38.9383017,-104.6009415
+157,Colorado,2017-18,Fireside Elementary,Kindergarten,Boulder,Eagle County RE 50,68,100,86.76,0,8.82,1.47,39.969263,-105.157636
+158,Colorado,2017-18,Flagler Public,Kindergarten,Kit Carson,Fountain 8,15,100,100,0,0,0,39.293525,-103.071632
+159,Colorado,2017-18,Flagstone Elementary,Kindergarten,Douglas,Westminster Public Schools,48,100,97.92,0,2.08,0,39.368636,-104.790085
+160,Colorado,2017-18,Flatirons Elementary,Kindergarten,Boulder,Boulder Valley RE 2,38,100,94.74,0,5.26,0,40.008297,-105.285109
+161,Colorado,2017-18,Fleming School K-12,Kindergarten,Logan,Falcon 49,15,100,93.33,6.67,0,0,40.686191,-102.841641
+162,Colorado,2017-18,Fletcher Community,Kindergarten,Arapahoe,Littleton 6,5,100,100,0,0,0,39.7532924,-104.8664388
+163,Colorado,2017-18,Footprints-Daycare,Kindergarten,Adams,Jefferson County,2,100,100,0,0,0,39.8782353,-104.9488583
+164,Colorado,2017-18,Forest Park Montessori,Kindergarten,Boulder,Denver County,8,100,100,0,0,0,40.0131024,-105.1296661
+165,Colorado,2017-18,Fort Collins Montessori,Kindergarten,Larimer,St Vrain Valley Re 1J,20,100,60,0,5,0,40.56289,-105.114221
+166,Colorado,2017-18,Fowler Elementary,Kindergarten,Otero,Douglas County RE 1,24,100,95.83,0,0,0,38.126523,-104.030499
+167,Colorado,2017-18,Fox Hollow Elementary,Kindergarten,Arapahoe,Julesburg RE-1,101,100,98.02,0,1.98,0,39.601501,-104.782843
+168,Colorado,2017-18,Franklin Elementary,Kindergarten,Arapahoe,Denver County 1,93,100,89.25,0,10.75,0,39.600212,-104.969267
+169,Colorado,2017-18,Fraser Valley Elementary,Kindergarten,Grand,Roaring Fork RE-1,39,100,92.31,0,5.13,0,39.949355,-105.819644
+170,Colorado,2017-18,Frassati Catholic Academy,Kindergarten,Adams,Jefferson County R-1,22,100,72.73,0,27.27,0,39.934897,-104.9412883
+171,Colorado,2017-18,Friends',Kindergarten,Boulder,Denver County 1,18,100,61.11,0,38.89,0,40.006962,-105.2258684
+172,Colorado,2017-18,Front Range Christian Preschool,Kindergarten,Jefferson,Arapahoe County,21,100,90.48,0,9.52,0,39.5928322,-105.0702292
+173,Colorado,2017-18,Frontier Charter Academy,Kindergarten,El Paso,Adams-Arapahoe 28J,9,100,77.78,0,22.22,0,39.036797,-104.291845
+174,Colorado,2017-18,Fruitvale Elementary,Kindergarten,Mesa,Kiowa C-2,69,100,97.1,0,2.9,0,39.089536,-108.4974
+175,Colorado,2017-18,Galeton Elementary,Kindergarten,Weld,Jefferson County R-1,19,100,100,0,0,0,40.519546,-104.587121
+176,Colorado,2017-18,Gardner Elementary,Kindergarten,Huerfano,Adams-Arapahoe 28J,5,100,100,0,0,0,37.78355,-105.168002
+177,Colorado,2017-18,Garfield Elementary,Kindergarten,Larimer,Jefferson County R-1,34,100,94.12,0,2.94,2.94,40.399448,-105.087221
+178,Colorado,2017-18,Garfield Montessori,Kindergarten,Denver,Denver County,1,100,100,0,0,0,39.762925,-104.943915
+179,Colorado,2017-18,Garnet Mesa Elementary,Kindergarten,Delta,Boulder Valley RE 2,89,100,95.51,0,4.49,0,38.738285,-108.058937
+180,Colorado,2017-18,Gateway Montessori,Kindergarten,Boulder,Denver County,8,100,87.5,0,12.5,0,40.17447,-105.117211
+181,Colorado,2017-18,Genoa-Hugo,Kindergarten,Lincoln,Douglas County RE 1,13,100,100,0,0,0,39.138785,-103.4773
+182,Colorado,2017-18,Gethsemane Lutheran Church And,Kindergarten,Adams,Widefield 3,7,100,100,0,0,0,39.8903091,-104.9783523
+183,Colorado,2017-18,Gilpin County Schools,Kindergarten,Gilpin,East Grand 2,30,100,76.67,0,16.67,6.67,39.832947,-105.520567
+184,Colorado,2017-18,Giving Tree Montessori,Kindergarten,El Paso,Arapahoe County,18,100,94.44,0,5.56,0,38.82618,-104.846441
+185,Colorado,2017-18,Global Village Academy - Aurora,Kindergarten,Arapahoe,Pueblo County,116,100,97.41,0,2.59,0,39.710409,-104.793535
+186,Colorado,2017-18,Globe Charter,Kindergarten,El Paso,Mesa County Valley 51,25,100,88,0,8,0,38.864491,-104.767886
+187,Colorado,2017-18,Godsman Elementary,Kindergarten,Denver,Cherry Creek 5,51,100,98.04,0,1.96,0,39.690362,-105.01327
+188,Colorado,2017-18,Gold Hill Elementary,Kindergarten,Boulder,Windsor RE-4,4,100,75,0,25,0,40.063052,-105.412503
+189,Colorado,2017-18,Graham Mesa Elementary,Kindergarten,Garfield,El Paso County,60,100,80,0,1.67,6.67,39.546344,-107.761359
+190,Colorado,2017-18,Granada Elementary,Kindergarten,Prowers,Westminster Public Schools,17,100,100,0,0,0,38.059774,-102.305601
+191,Colorado,2017-18,Granby Elementary,Kindergarten,Grand,Mesa County Valley 51,45,100,80,0,6.67,0,40.087218,-105.945178
+192,Colorado,2017-18,Grande River Academy,Kindergarten,Mesa,Denver County 1,4,100,100,0,0,0,39.0729078,-108.5485242
+193,Colorado,2017-18,Grandview Elementary,Kindergarten,Weld,Denver County 1,66,100,95.45,0,4.55,0,40.484474,-104.930426
+194,Colorado,2017-18,Green Gables Elementary,Kindergarten,Jefferson,Douglas County,35,100,97.14,0,2.86,0,39.679591,-105.094602
+195,Colorado,2017-18,Greenlee Elementary,Kindergarten,Denver,Mesa County Valley 51,39,100,100,0,0,0,39.73467,-105.001178
+196,Colorado,2017-18,Greenwood Elementary,Kindergarten,Arapahoe,Jefferson County,61,100,98.36,0,1.64,0,39.616062,-104.921258
+197,Colorado,2017-18,Guardian Angels,Kindergarten,Adams,Huerfano RE-1,16,100,81.25,0,0,0,39.7913073,-105.0087823
+198,Colorado,2017-18,Gypsum Elementary,Kindergarten,Eagle,Adams 12 Five Star Schools,51,100,96.08,0,1.96,0,39.643197,-106.944745
+199,Colorado,2017-18,H&H Childhood Education Dba The Goddard Sch,Kindergarten,Boulder,Arapahoe County,13,100,84.62,0,0,0,39.9645064,-105.1669463
+200,Colorado,2017-18,Hackberry Hill Elementary,Kindergarten,Jefferson,Woodland Park RE-2,52,100,96.15,0,3.85,0,39.834235,-105.078518
+201,Colorado,2017-18,Hanson Elementary,Kindergarten,Adams,Arapahoe County,49,100,93.88,0,2.04,0,39.829656,-104.90576
+202,Colorado,2017-18,Happy Hearts Development Center Inc.,Kindergarten,Boulder,Weld County,15,100,100,0,0,0,40.0019379,-105.1090894
+203,Colorado,2017-18,Happyland,Kindergarten,Pueblo,Larimer County,17,100,82.35,0,17.65,0,38.2402639,-104.6632357
+204,Colorado,2017-18,Harris Bilingual Elementary,Kindergarten,Larimer,Harrison 2,49,100,95.92,0,4.08,0,40.573914,-105.0698
+205,Colorado,2017-18,Harrison,Kindergarten,Fremont,Genoa-hugo C113,65,100,84.62,0,15.38,0,38.453704,-105.215178
+206,Colorado,2017-18,Haskin Elementary,Kindergarten,Saguache,Denver County 1,57,100,100,0,0,0,37.751375,-106.113352
+207,Colorado,2017-18,Haxtun Elementary,Kindergarten,Phillips,Denver County 1,31,100,87.1,0,3.23,0,40.647676,-102.629186
+208,Colorado,2017-18,Hayden Valley Elementary,Kindergarten,Routt,Jefferson County R-1,35,100,94.29,0,2.86,0,40.488104,-107.263897
+209,Colorado,2017-18,Henderson Elementary,Kindergarten,Adams,Boulder Valley RE 2,41,100,95.12,0,2.44,2.44,39.922654,-104.844377
+210,Colorado,2017-18,Heritage Christian Academy,Kindergarten,Larimer,Jefferson County R-1,13,100,23.08,0,23.08,0,40.59007,-105.032821
+211,Colorado,2017-18,Heritage Elementary,Kindergarten,Douglas,Denver County 1,65,100,100,0,0,0,39.530646,-104.949978
+212,Colorado,2017-18,Hi-Plains School District R-23,Kindergarten,Kit Carson,Pueblo County 70,8,100,87.5,0,12.5,0,39.299641,-102.866108
+213,Colorado,2017-18,High Plains Elementary,Kindergarten,Arapahoe,Denver County 1,81,100,100,0,0,0,39.605942,-104.870447
+214,Colorado,2017-18,High Plains,Kindergarten,Larimer,Park County RE-2,55,100,90.91,1.82,5.45,1.82,40.41559,-105.019817
+215,Colorado,2017-18,Highland Elementary,Kindergarten,Weld,Mesa County Valley 51,64,100,96.88,0,3.13,0,40.638936,-104.755874
+216,Colorado,2017-18,Highland Elementary,Kindergarten,Garfield,Windsor RE-4,76,100,97.37,0,0,0,39.537665,-107.764937
+217,Colorado,2017-18,Highline Academy Northeast,Kindergarten,Denver,Westminster Public Schools,72,100,87.5,0,0,0,39.7958475,-104.7634936
+218,Colorado,2017-18,Hms Richards Adventist Preschool,Kindergarten,Larimer,Larimer County,6,100,83.33,0,16.67,0,40.3487679,-105.0840206
+219,Colorado,2017-18,Hoff Elementary,Kindergarten,Weld,Eagle County RE 50,36,100,97.22,0,2.78,0,40.110388,-104.507972
+220,Colorado,2017-18,Holly School District,Kindergarten,Prowers,Garfield RE-2,16,100,75,0,0,0,38.055214,-102.1212955
+221,Colorado,2017-18,Holy Family Catholic,Kindergarten,Mesa,Poudre R-1,50,100,96,0,0,0,39.119362,-108.559808
+222,Colorado,2017-18,Holy Love Preschool,Kindergarten,Arapahoe,Boulder County,20,100,100,0,0,0,39.6405075,-104.8091615
+223,Colorado,2017-18,Holy Trinity Academy,Private,Las Animas,St Vrain Valley Re 1J,39,100,82.05,0,15.38,0,37.1733179,-104.5147456
+224,Colorado,2017-18,Holy Trinity Catholic,Kindergarten,Adams,Douglas County RE 1,12,100,100,0,0,0,39.833942,-105.026505
+225,Colorado,2017-18,Home School Enrichment Academy,Kindergarten,El Paso,Durango 9-R,7,100,42.86,0,42.86,14.29,39.0891069,-104.8710878
+226,Colorado,2017-18,Home School Enrichment Academy,Private,El Paso,Douglas County RE 1,86,100,70.93,0,26.74,2.33,39.0891069,-104.8710878
+227,Colorado,2017-18,Homestake Peak,Kindergarten,Eagle,Haxtun RE-2J,39,100,92.31,0,5.13,0,39.618809,-106.473552
+228,Colorado,2017-18,Homestead Elementary,Kindergarten,Arapahoe,Mesa County Valley 51,85,100,97.65,0,2.35,0,39.581968,-104.910081
+229,Colorado,2017-18,Hope Academy,Kindergarten,Jefferson,St Vrain Valley Re 1J,7,100,71.43,0,28.57,0,39.6246854,-105.1265285
+230,Colorado,2017-18,Hope Montessori Academy - 12121 Pennsylvania,Kindergarten,Adams,Larimer County,3,100,100,0,0,0,39.9169443,-104.9821031
+231,Colorado,2017-18,Hope Montessori Academy - 13785 Huron St,Kindergarten,Broomfield,Denver County,9,100,100,0,0,0,39.945864,-104.997472
+232,Colorado,2017-18,Hope Montessori Academy - 2041 Chuckwagon Rd,Kindergarten,El Paso,Garfield County,17,100,100,0,0,0,38.9152658,-104.8650643
+233,Colorado,2017-18,Hope Montessori Academy - 4401 Main St,Kindergarten,Adams,Douglas County,25,100,100,0,0,0,39.9133977,-105.0437781
+234,Colorado,2017-18,Hope Montessori Academy - 7312 Mclaughlin,Kindergarten,El Paso,Jefferson County,25,100,100,0,0,0,38.9385008,-104.6082948
+235,Colorado,2017-18,Horizons K-8,Kindergarten,Boulder,Boulder Valley RE 2,35,100,77.14,0,22.86,0,39.993499,-105.237276
+236,Colorado,2017-18,Hotchkiss K-8,Kindergarten,Delta,Westminster Public Schools,24,100,83.33,0,16.67,0,38.8014061,-107.7146853
+237,Colorado,2017-18,Humanex Academy,Kindergarten,Arapahoe,Denver County 1,54,100,96.3,1.85,1.85,0,39.66742,-105.015111
+238,Colorado,2017-18,Hunters Glen Elementary,Kindergarten,Adams,Cherry Creek 5,67,100,95.52,0,4.48,0,39.936523,-104.972238
+239,Colorado,2017-18,Hutchinson Elementary,Kindergarten,Jefferson,Thompson R2-J,40,100,92.5,0,7.5,0,39.681566,-105.145641
+240,Colorado,2017-18,Idalia Elementary,Kindergarten,Yuma,Cherry Creek 5,11,100,100,0,0,0,39.705357,-102.294378
+241,Colorado,2017-18,Iliff Preschool,Kindergarten,Denver,La Plata County,10,100,100,0,0,0,39.6746363,-104.9387179
+242,Colorado,2017-18,Imagine Classical Academy,Kindergarten,El Paso,Arriba-Flagler C-20,113,100,82.3,0.88,15.04,1.77,38.925589,-104.69349
+243,Colorado,2017-18,Independence Academy,Kindergarten,Mesa,Mesa County Valley 51,44,100,88.64,0,2.27,0,39.10194,-108.517581
+244,Colorado,2017-18,Independence Academy,Private,Adams,Douglas County RE 1,33,100,100,0,0,0,39.9207923,-104.9821031
+245,Colorado,2017-18,Indian Ridge Elementary,Kindergarten,Arapahoe,Jefferson County R-1,70,100,97.14,0,2.86,0,39.621489,-104.796792
+246,Colorado,2017-18,Inspire Elementary,Kindergarten,Denver,Adams County,51,100,98.04,0,1.96,0,39.797226,-104.8832
+247,Colorado,2017-18,Instructional Services Center,Kindergarten,Adams,Boulder County,1,100,100,0,0,0,39.843191,-105.017126
+248,Colorado,2017-18,International School Of Denver,Kindergarten,Denver,Denver County 1,83,100,92.77,0,7.23,0,39.7225081,-104.8965484
+249,Colorado,2017-18,Irish Elementary,Kindergarten,Larimer,Denver County 1,59,100,93.22,0,6.78,0,40.594419,-105.121966
+250,Colorado,2017-18,James Irwin Charter Elementary,Kindergarten,El Paso,Fowler R-4J,97,100,90.72,0,9.28,0,38.79728,-104.728431
+251,Colorado,2017-18,Jamestown Elementary,Kindergarten,Boulder,Larimer County,2,100,50,0,50,0,40.114639,-105.38806
+252,Colorado,2017-18,Jarrow Montessori,Kindergarten,Boulder,Douglas County RE 1,14,100,85.71,0,14.29,0,40.0456056,-105.284034
+253,Colorado,2017-18,Jay & Rose Phillips Ecc @ The Boulder Jcc,Kindergarten,Boulder,Denver County,7,100,100,0,0,0,40.0140263,-105.2107577
+254,Colorado,2017-18,Jefferson County Open Elementary,Kindergarten,Jefferson,Westminster Public Schools,29,100,82.76,0,17.24,0,39.733452,-105.084082
+255,Colorado,2017-18,Johnson Elementary,Kindergarten,Larimer,Colorado Springs 11,62,100,88.71,0,11.29,0,40.530281,-105.103535
+256,Colorado,2017-18,Johnson Elementary,Kindergarten,Montrose,Douglas County RE 1,82,100,91.46,0,4.88,0,38.491956,-107.836061
+257,Colorado,2017-18,Jordan Alexander Preschool,Kindergarten,Jefferson,Larimer County,8,100,0,0,0,100,39.5683659,-105.1186791
+258,Colorado,2017-18,Julesburg Elementary,Kindergarten,Sedgwick,Boulder Valley RE 2,20,100,100,0,0,0,40.987747,-102.270778
+259,Colorado,2017-18,June Creek Elementary,Kindergarten,Eagle,Widefield 3,27,100,100,0,0,0,39.64119,-106.571771
+260,Colorado,2017-18,Karval Elementary,Kindergarten,Lincoln,Delta County 50(J),4,100,100,0,0,0,38.738233,-103.535048
+261,Colorado,2017-18,Kathryn Senor Elementary,Kindergarten,Garfield,Durango 9-R,36,100,100,0,0,0,39.581426,-107.530173
+262,Colorado,2017-18,Kemp Elementary,Kindergarten,Adams,Falcon 49,79,100,100,0,0,0,39.819586,-104.908502
+263,Colorado,2017-18,Kemper Elementary,Kindergarten,Montezuma,Adams-Arapahoe 28J,63,100,98.41,0,0,1.59,37.351585,-108.576596
+264,Colorado,2017-18,Kendrick Lakes Elementary,Kindergarten,Jefferson,Pueblo City 60,52,100,100,0,0,0,39.692003,-105.104298
+265,Colorado,2017-18,Kenneth P Morris Elementary,Kindergarten,Yuma,Ignacio 11 JT,63,100,95.24,3.17,0,0,40.130664,-102.721763
+266,Colorado,2017-18,Kent Denver,Private,Arapahoe,Archuleta County 50 JT,703,100,98.86,0,1.14,0,39.63669,-104.940031
+267,Colorado,2017-18,Kiddie Academy Of Parker,Kindergarten,Douglas,Kiowa County,12,100,100,0,0,0,39.5462388,-104.7919174
+268,Colorado,2017-18,Kim K-12 Schools,Kindergarten,Las Animas,Cherry Creek 5,2,100,100,0,0,0,37.2465175,-103.3533962
+269,Colorado,2017-18,Kindercare Learning Centers Llc - 4755 Royal Vista Cir,Kindergarten,Larimer,Montezuma County,2,100,100,0,0,0,40.4776537,-104.9873064
+270,Colorado,2017-18,Kindercare Learning Centers Llc - 9290 Ridgeline Blvd,Kindergarten,Douglas,Denver County,5,100,100,0,0,0,39.547623,-104.995668
+271,Colorado,2017-18,Kindercare Learning Centers Llc - 975 S Kipling Pkwy,Kindergarten,Jefferson,El Paso County,1,100,100,0,0,0,39.6994636,-105.1129806
+272,Colorado,2017-18,Kindercare Learning Centers Llc #1650,Kindergarten,Larimer,Jefferson County,10,100,100,0,0,0,40.5222247,-105.0493355
+273,Colorado,2017-18,Kinderkirk Preschool,Kindergarten,Pueblo,Denver County,1,100,100,0,0,0,38.3272728,-104.7707809
+274,Colorado,2017-18,King-Murphy Elementary,Kindergarten,Clear Creek,Durango 9-R,14,100,85.71,0,14.29,0,39.64731,-105.416078
+275,Colorado,2017-18,Kiowa Elementary,Kindergarten,Elbert,Douglas County RE 1,15,100,86.67,0,0,0,39.347868,-104.458983
+276,Colorado,2017-18,Kit Carson K-12 Schools,Kindergarten,Cheyenne,Colorado Springs 11,9,100,100,0,0,0,38.7670013,-102.7923684
+277,Colorado,2017-18,Knowledge Quest Academy,Kindergarten,Weld,Denver County 1,47,100,100,0,0,0,40.329534,-104.833567
+278,Colorado,2017-18,Kohl Street Kids Preschool And Base Program,Kindergarten,Broomfield,El Paso County,4,100,100,0,0,0,39.9260109,-105.083022
+279,Colorado,2017-18,Kruse Elementary,Kindergarten,Larimer,Jefferson County R-1,83,100,95.18,0,4.82,0,40.526342,-105.047545
+280,Colorado,2017-18,Kyffin Elementary,Kindergarten,Jefferson,Jefferson County R-1,70,100,97.14,0,2.86,0,39.719118,-105.159255
+281,Colorado,2017-18,La Veta Elementary,Kindergarten,Huerfano,Delta County 50(J),12,100,58.33,0,41.67,0,37.505038,-105.008538
+282,Colorado,2017-18,Landmark Academy At Reunion,Kindergarten,Adams,Jefferson County R-1,72,100,91.67,0,6.94,1.39,39.889243,-104.794582
+283,Colorado,2017-18,Larkspur Elementary,Kindergarten,Douglas,Adams 12 Five Star Schools,30,100,96.67,0,3.33,0,39.232129,-104.904265
+284,Colorado,2017-18,Las Animas Elementary,Kindergarten,Bent,Thompson R2-J,32,100,100,0,0,0,38.067085,-103.231218
+285,Colorado,2017-18,Laurel Elementary,Kindergarten,Larimer,Adams-Arapahoe 28J,89,100,91.01,0,5.62,0,40.575901,-105.062463
+286,Colorado,2017-18,Leap,Kindergarten,Larimer,Las Animas RE-1,12,100,58.33,0,33.33,0,40.40418,-105.098731
+287,Colorado,2017-18,Letford Elementary,Kindergarten,Weld,St Vrain Valley Re 1J,62,100,98.39,0,1.61,0,40.336287,-104.919976
+288,Colorado,2017-18,Lewis-Arriola Elementary,Kindergarten,Montezuma,Douglas County RE 1,19,100,94.74,0,5.26,0,37.471157,-108.656589
+289,Colorado,2017-18,Liberty,Kindergarten,Yuma,Lewis-Palmer 38,5,100,100,0,0,0,39.655288,-102.624135
+290,Colorado,2017-18,Life Christian Academy,Kindergarten,Adams,Adams-Arapahoe 28J,14,100,85.71,0,7.14,0,39.90528,-105.050401
+291,Colorado,2017-18,Lighthouse Sda Christian,Kindergarten,Morgan,San Miguel County,26,100,57.69,0,19.23,0,40.25558,-103.803971
+292,Colorado,2017-18,Lincoln Elementary,Kindergarten,Larimer,Delta County 50(J),46,100,82.61,0,17.39,0,40.42563,-105.089073
+293,Colorado,2017-18,Lincoln Orchard Mesa Elementary,Kindergarten,Mesa,Adams 12 Five Star Schools,50,100,96,0,4,0,39.041941,-108.517769
+294,Colorado,2017-18,Lincoln School Of Science And Technology,Kindergarten,Fremont,Thompson R2-J,47,100,93.62,0,6.38,0,38.432468,-105.238486
+295,Colorado,2017-18,Linton Elementary,Kindergarten,Larimer,Jefferson County R-1,58,100,98.28,0,1.72,0,40.532542,-105.031504
+296,Colorado,2017-18,Little Angel's Daycare,Kindergarten,Arapahoe,Boulder County,27,100,100,0,0,0,39.7047324,-104.8263911
+297,Colorado,2017-18,Little Lyceum,Kindergarten,Denver,Denver County,1,100,100,0,0,0,39.7023514,-105.0528359
+298,Colorado,2017-18,Littleton Academy,Kindergarten,Arapahoe,Littleton 6,52,100,94.23,0,5.77,0,39.573053,-105.002636
+299,Colorado,2017-18,Livermore Elementary,Kindergarten,Larimer,Archuleta County 50 JT,4,100,100,0,0,0,40.794429,-105.222316
+300,Colorado,2017-18,Loma Elementary,Kindergarten,Mesa,Weld County School District RE-3J,34,100,97.06,0,0,0,39.203714,-108.812074
+301,Colorado,2017-18,Lone Star K-12,Kindergarten,Washington,Douglas County RE 1,6,100,83.33,0,0,0,40.3512474,-102.8522243
+302,Colorado,2017-18,Longmont Christian,Kindergarten,Boulder,Salida R-32,13,100,100,0,0,0,40.184202,-105.097215
+303,Colorado,2017-18,Lopez Elementary,Kindergarten,Larimer,Littleton 6,49,100,87.76,2.04,8.16,0,40.531819,-105.088736
+304,Colorado,2017-18,Louisville Montessori School Inc,Kindergarten,Boulder,Boulder County,11,100,100,0,0,0,39.9740157,-105.1495023
+305,Colorado,2017-18,Loveland Classical,Kindergarten,Larimer,Littleton 6,82,100,74.39,0,24.39,1.22,40.379291,-105.13
+306,Colorado,2017-18,Manaugh Elementary,Kindergarten,Montezuma,Thompson R2-J,43,100,97.67,0,0,2.33,37.3439,-108.580699
+307,Colorado,2017-18,Manzanola Elementary,Kindergarten,Otero,Jefferson County R-1,9,100,100,0,0,0,38.106633,-103.869491
+308,Colorado,2017-18,Marble Charter,Kindergarten,Gunnison,Denver County 1,9,100,55.56,0,44.44,0,39.07156,-107.192167
+309,Colorado,2017-18,Martinez Elementary,Kindergarten,Weld,Colorado Springs 11,90,100,100,0,0,0,40.429726,-104.702374
+310,Colorado,2017-18,Mary E Pennock Elementary,Kindergarten,Adams,Jefferson County R-1,84,100,92.86,0,7.14,0,39.98307,-104.776504
+311,Colorado,2017-18,Mcgraw Elementary,Kindergarten,Larimer,Denver County 1,61,100,90.16,0,9.84,0,40.520908,-105.086644
+312,Colorado,2017-18,Mckinley Elementary,Kindergarten,Fremont,Elizabeth C-1,23,100,86.96,0,13.04,0,38.431159,-105.214013
+313,Colorado,2017-18,Meadow Lark Montessori,Kindergarten,Adams,Arapahoe County,4,100,100,0,0,0,39.97066,-104.614331
+314,Colorado,2017-18,Meadow Point Elementary,Kindergarten,Arapahoe,Widefield 3,78,100,89.74,0,6.41,2.56,39.626477,-104.779629
+315,Colorado,2017-18,Meeker Elementary,Kindergarten,Rio Blanco,Douglas County RE 1,46,100,93.48,2.17,4.35,0,40.045575,-107.905079
+316,Colorado,2017-18,Meiklejohn Elementary,Kindergarten,Jefferson,Canon City RE-1,88,100,100,0,0,0,39.847919,-105.150461
+317,Colorado,2017-18,Merino Elementary,Kindergarten,Logan,Colorado Springs 11,23,100,100,0,0,0,40.485883,-103.355589
+318,Colorado,2017-18,Mesa Elementary,Kindergarten,Montezuma,Fountain 8,55,100,98.18,0,0,1.82,37.340819,-108.595166
+319,Colorado,2017-18,Miami/Yoder Elementary,Kindergarten,El Paso,Adams 12 Five Star Schools,17,100,88.24,0,11.76,0,38.827797,-104.092596
+320,Colorado,2017-18,Miller Special Education,Kindergarten,Jefferson,Colorado Springs 11,4,100,75,0,25,0,39.719702,-105.108113
+321,Colorado,2017-18,Mission Viejo Elementary,Kindergarten,Arapahoe,Douglas County RE 1,83,100,97.59,0,1.2,0,39.646762,-104.805029
+322,Colorado,2017-18,Moffat Prek-12,Kindergarten,Saguache,Falcon 49,10,100,80,0,10,10,37.998078,-105.910005
+323,Colorado,2017-18,Monaco Elementary,Kindergarten,Adams,Mapleton 1,60,100,98.33,0,0,0,39.834935,-104.913104
+324,Colorado,2017-18,Monarch K-8,Kindergarten,Boulder,Jefferson County R-1,46,100,89.13,0,10.87,0,39.951745,-105.143713
+325,Colorado,2017-18,Montessori Academy Of Colorado,Kindergarten,Denver,Adams County,13,100,100,0,0,0,39.7555679,-104.9836773
+326,Colorado,2017-18,Montessori At Mountain,Kindergarten,San Miguel,El Paso County,5,100,60,0,40,0,37.946842,-107.8789046
+327,Colorado,2017-18,Montessori Casa International,Kindergarten,Denver,El Paso County,3,100,100,0,0,0,39.7202245,-104.8977959
+328,Colorado,2017-18,Montessori Children's House Of Denver,Kindergarten,Denver,Larimer County,12,100,91.67,0,8.33,0,39.7395609,-104.9364578
+329,Colorado,2017-18,Montessori Childrens House Of Denver Park Hil,Kindergarten,Denver,Denver County,2,100,100,0,0,0,39.7554171,-104.9148061
+330,Colorado,2017-18,Montessori Peaks Charter Academy,Kindergarten,Jefferson,Mesa County Valley 51,68,100,86.76,0,13.24,0,39.605187,-105.108965
+331,Colorado,2017-18,Montessori School At Lone Tree,Kindergarten,Douglas,El Paso County,10,100,100,0,0,0,39.5461216,-104.9030025
+332,Colorado,2017-18,Montessori School Of Castle Rock,Kindergarten,Douglas,Denver County,2,100,50,0,50,0,39.368623,-104.853342
+333,Colorado,2017-18,Montessori School Of Denver,Kindergarten,Denver,Johnstown-milliken RE-5J,38,100,92.11,2.63,0,0,39.6900713,-104.9220253
+334,Colorado,2017-18,Montessori School Of Denver Child Care,Kindergarten,Denver,Douglas County,38,100,92.11,2.63,0,0,39.7107591,-104.984891
+335,Colorado,2017-18,Montessori School Of Evergreen,Kindergarten,Jefferson,Douglas County RE 1,17,100,88.24,0,0,0,39.645168,-105.337985
+336,Colorado,2017-18,Montview Community Preschool,Kindergarten,Denver,Broomfield County,17,100,94.12,0,5.88,0,39.7470716,-104.9314053
+337,Colorado,2017-18,Monument View Montessori Charter,Kindergarten,Mesa,Brighton School District,10,100,50,0,50,0,39.15915,-108.729271
+338,Colorado,2017-18,Morgridge Academy At National Jewish Health,Kindergarten,Denver,Adams-Arapahoe 28J,6,100,100,0,0,0,39.7390736,-104.9411212
+339,Colorado,2017-18,Most Precious Blood Catholic,Kindergarten,Denver,Sanford 6J,35,100,100,0,0,0,39.6762784,-104.941897
+340,Colorado,2017-18,Mountain Peak Private,Kindergarten,Boulder,Hayden RE-1,6,100,66.67,0,33.33,0,40.14529,-105.123611
+341,Colorado,2017-18,Mountain Shadows Montessori,Kindergarten,Boulder,Denver County,8,100,75,0,25,0,40.04963,-105.205221
+342,Colorado,2017-18,Mountain Song Community,Kindergarten,El Paso,Colorado Springs 11,35,100,45.71,2.86,45.71,5.71,38.852733,-104.867272
+343,Colorado,2017-18,Mountain View Core Knowledge,Kindergarten,Fremont,Mesa County Valley 51,27,100,100,0,0,0,38.4644179,-105.2071917
+344,Colorado,2017-18,Mountain Village Montessori Charter,Kindergarten,Routt,Boulder County,28,100,78.57,0,10.71,0,40.5038,-106.909121
+345,Colorado,2017-18,Mountain Vista Elementary,Kindergarten,Arapahoe,Harrison 2,101,100,98.02,0,1.98,0,39.632522,-104.728706
+346,Colorado,2017-18,Namaqua Elementary,Kindergarten,Larimer,Jefferson County R-1,40,100,90,0,10,0,40.395069,-105.127737
+347,Colorado,2017-18,Nativity Of Our Lord Catholic,Kindergarten,Broomfield,Fountain 8,37,100,94.59,0,2.7,0,39.923072,-105.079105
+348,Colorado,2017-18,Naturita Elementary & Middle,Kindergarten,Montrose,Boulder Valley RE 2,11,100,90.91,0,9.09,0,38.216665,-108.5691989
+349,Colorado,2017-18,New Emerson School At Columbus,Kindergarten,Mesa,Boulder Valley RE 2,24,100,91.67,0,8.33,0,39.049033,-108.557793
+350,Colorado,2017-18,Noah's Ark Christian Preschool,Kindergarten,Mesa,Boulder Valley RE 2,15,100,100,0,0,0,39.106673,-108.367818
+351,Colorado,2017-18,Normandy Elementary,Kindergarten,Jefferson,Adams-Arapahoe 28J,60,100,98.33,0,1.67,0,39.593332,-105.064677
+352,Colorado,2017-18,North Elementary,Kindergarten,Adams,Thompson R2-J,46,100,100,0,0,0,39.988302,-104.816478
+353,Colorado,2017-18,North Fork Montessori @ Crawford,Kindergarten,Delta,Mountain Valley RE 1,15,100,86.67,0,13.33,0,38.705818,-107.60376
+354,Colorado,2017-18,North Fork School Of Integrated Studies (Nfsis),Kindergarten,Delta,Mesa County Valley 51,6,100,16.67,0,83.33,0,38.8693138,-107.5930528
+355,Colorado,2017-18,North Routt Charter,Kindergarten,Routt,St Vrain Valley Re 1J,10,100,90,0,10,0,40.712751,-106.918287
+356,Colorado,2017-18,North Star Academy,Kindergarten,Douglas,Pueblo County 70,76,100,94.74,0,5.26,0,39.53709,-104.795506
+357,Colorado,2017-18,Northeast Elementary,Kindergarten,Adams,Denver County 1,94,100,94.68,0,5.32,0,39.993129,-104.802042
+358,Colorado,2017-18,Northside Christian Day Care Center,Kindergarten,Adams,Mesa County,2,100,100,0,0,0,39.9062802,-104.979107
+359,Colorado,2017-18,Notre Dame Catholic,Kindergarten,Denver,Jefferson County R-1,18,100,88.89,0,0,0,39.6773497,-105.0524631
+360,Colorado,2017-18,Notre Dame Early Learning Center,Kindergarten,Denver,Adams County,17,100,82.35,0,0,0,39.6769709,-105.0520879
+361,Colorado,2017-18,O'Dea Elementary,Kindergarten,Larimer,Brighton School District,91,100,89.01,0,10.99,0,40.55489,-105.072166
+362,Colorado,2017-18,Olander Elementary,Kindergarten,Larimer,Adams 12 Five Star Schools,53,100,86.79,0,13.21,0,40.539551,-105.120588
+363,Colorado,2017-18,Olathe Elementary,Kindergarten,Montrose,Montrose County RE-1j,92,100,90.22,0,2.17,2.17,38.610362,-107.982587
+364,Colorado,2017-18,Omar D Blair Charter,Kindergarten,Denver,Adams 12 Five Star Schools,69,100,72.46,0,0,0,39.786684,-104.76607
+365,Colorado,2017-18,Our Lady Help Of Christians Academy,Kindergarten,Adams,Denver County 1,10,100,60,0,30,10,39.7376188,-104.6120123
+366,Colorado,2017-18,Our Lady Of Fatima Catholic,Kindergarten,Jefferson,Denver County 1,25,100,100,0,0,0,39.747089,-105.1157542
+367,Colorado,2017-18,Our Lady Of Loreto Catholic,Kindergarten,Arapahoe,Denver County 1,24,100,100,0,0,0,39.5940734,-104.7795618
+368,Colorado,2017-18,Our Savior Lutheran,Kindergarten,Archuleta,Jefferson County R-1,4,100,100,0,0,0,37.2483,-107.086247
+369,Colorado,2017-18,Paddington Station Inc,Kindergarten,Denver,Delta County,15,100,100,0,0,0,39.7375439,-104.9041184
+370,Colorado,2017-18,Paonia Elementary,Kindergarten,Delta,Adams-Arapahoe 28J,24,100,83.33,0,16.67,0,38.870619,-107.594937
+371,Colorado,2017-18,Paradox Valley Charter,Kindergarten,Montrose,Mesa County Valley 51,9,100,77.78,0,22.22,0,38.370277,-108.962669
+372,Colorado,2017-18,Park Elementary,Kindergarten,La Plata,Denver County 1,55,100,92.73,0,7.27,0,37.267465,-107.874447
+373,Colorado,2017-18,Parker Core Knowledge Charter,Kindergarten,Douglas,Jefferson County R-1,80,100,98.75,0,1.25,0,39.532058,-104.756976
+374,Colorado,2017-18,Parker Montessori Educational Institute,Kindergarten,Douglas,Summit County,5,100,100,0,0,0,39.51924,-104.762181
+375,Colorado,2017-18,Parker United Methodist Church Preschool,Kindergarten,Douglas,El Paso County,13,100,100,0,0,0,39.5017042,-104.7607939
+376,Colorado,2017-18,Parzival Shield Preschool/Kindergarten,Kindergarten,Denver,Denver County,2,100,100,0,0,0,39.6770302,-104.946458
+377,Colorado,2017-18,Patterson International,Kindergarten,Jefferson,Cherry Creek 5,37,100,97.3,0,2.7,0,39.693984,-105.095835
+378,Colorado,2017-18,Pawnee School Pk-12,Kindergarten,Weld,Jefferson County R-1,1,100,100,0,0,0,40.868188,-104.23083
+379,Colorado,2017-18,Peace With Christ Christian,Kindergarten,Arapahoe,St Vrain Valley Re 1J,18,100,94.44,0,5.56,0,39.657609,-104.77163
+380,Colorado,2017-18,Peak Center Of Excellence,Kindergarten,Jefferson,Jefferson County,2,100,100,0,0,0,39.6092037,-105.1013618
+381,Colorado,2017-18,Peak To Peak Charter,Kindergarten,Boulder,Jefferson County R-1,71,100,98.59,0,1.41,0,39.991451,-105.078237
+382,Colorado,2017-18,Peak Virtual Academy,Kindergarten,Montrose,Littleton 6,3,100,100,0,0,0,38.48497,-107.879881
+383,Colorado,2017-18,Peetz Elementary,Kindergarten,Logan,Boulder Valley RE 2,14,100,78.57,0,14.29,0,40.961721,-103.117334
+384,Colorado,2017-18,Peiffer Elementary,Kindergarten,Jefferson,Fountain 8,37,100,100,0,0,0,39.627388,-105.114421
+385,Colorado,2017-18,Pete Mirich Elementary,Kindergarten,Weld,Vilas RE-5,58,100,100,0,0,0,40.351012,-104.706094
+386,Colorado,2017-18,Pine Grove Elementary,Kindergarten,Douglas,Falcon 49,78,100,94.87,0,5.13,0,39.52775,-104.806824
+387,Colorado,2017-18,Pine Lane Elementary,Kindergarten,Douglas,Jefferson County R-1,97,100,96.91,0,2.06,1.03,39.54194,-104.765423
+388,Colorado,2017-18,Pioneer Ridge Elementary,Kindergarten,Weld,Adams-Arapahoe 28J,92,100,97.83,0,2.17,0,40.300369,-104.909062
+389,Colorado,2017-18,Plainview Elementary,Kindergarten,Kiowa,Weld County RE-1,3,100,100,0,0,0,38.469672,-102.217379
+390,Colorado,2017-18,Plainview Preschool,Kindergarten,Kiowa,Boulder County,3,100,100,0,0,0,38.4706799,-102.2165014
+391,Colorado,2017-18,Platte River Charter Academy,Kindergarten,Douglas,Douglas County RE 1,52,100,94.23,0,5.77,0,39.55193,-104.941383
+392,Colorado,2017-18,Platte Valley Elementary,Kindergarten,Weld,Colorado Springs 11,93,100,92.47,0,1.08,2.15,40.390989,-104.558408
+393,Colorado,2017-18,Platteville Elementary,Kindergarten,Weld,Douglas County RE 1,55,100,100,0,0,0,40.207124,-104.823881
+394,Colorado,2017-18,Pleasant View Elementary,Kindergarten,Montezuma,Plateau Valley 50,6,100,66.67,0,33.33,0,37.587879,-108.769612
+395,Colorado,2017-18,Polaris Expeditionary Learning,Kindergarten,Larimer,Cherry Creek 5,18,100,83.33,0,11.11,5.56,40.578129,-105.111343
+396,Colorado,2017-18,Polton Community Elementary,Kindergarten,Arapahoe,Johnstown-milliken RE-5J,78,100,94.87,1.28,2.56,0,39.663877,-104.851621
+397,Colorado,2017-18,Pomona Elementary,Kindergarten,Mesa,Weld County RE-1,51,100,90.2,0,9.8,0,39.090663,-108.57947
+398,Colorado,2017-18,Pomona Elementary,Kindergarten,Montrose,Widefield 3,65,100,98.46,0,0,1.54,38.471849,-107.867556
+399,Colorado,2017-18,Ponderosa Elementary,Kindergarten,Larimer,Montezuma-Cortez RE-1,64,100,92.19,1.56,6.25,0,40.43937,-105.123561
+400,Colorado,2017-18,Prairie Crossing Elementary,Kindergarten,Douglas,Cherry Creek 5,94,100,97.87,0,2.13,0,39.510231,-104.79871
+401,Colorado,2017-18,Prairie Elementary,Kindergarten,Weld,Thompson R2-J,16,100,100,0,0,0,40.616368,-103.80291
+402,Colorado,2017-18,Prairie Heights Elementary,Kindergarten,El Paso,Douglas County RE 1,14,100,85.71,0,14.29,0,38.53631,-104.680591
+403,Colorado,2017-18,Prairie Hills Elementary,Kindergarten,Adams,Montrose County RE-1j,70,100,94.29,0,5.71,0,39.9465485,-104.9444715
+404,Colorado,2017-18,Prairie Winds Elementary,Kindergarten,El Paso,Plainview RE-2,37,100,89.19,0,10.81,0,39.109743,-104.803598
+405,Colorado,2017-18,Prestige Preschool Academy - 25850 E Arapahoe Rd,Kindergarten,Arapahoe,Larimer County,3,100,100,0,0,0,39.5892671,-104.6866148
+406,Colorado,2017-18,Primrose School At Lowry,Kindergarten,Denver,Denver County,14,100,100,0,0,0,39.723399,-104.895235
+407,Colorado,2017-18,Primrose School At Reunion,Kindergarten,Adams,Boulder County,12,100,100,0,0,0,39.88411,-104.788781
+408,Colorado,2017-18,Primrose School At Standley Lake,Kindergarten,Jefferson,Denver County,14,100,100,0,0,0,39.87901,-105.091451
+409,Colorado,2017-18,Primrose School At Stapleton,Kindergarten,Denver,Denver County,18,100,61.11,0,0,0,39.753638,-104.899709
+410,Colorado,2017-18,Primrose School At The Flatirons,Kindergarten,Broomfield,Broomfield County,24,100,95.83,0,0,0,39.92827,-105.145621
+411,Colorado,2017-18,Primrose School Of Castle Rock,Kindergarten,Douglas,El Paso County,9,100,100,0,0,0,39.418543,-104.881234
+412,Colorado,2017-18,Primrose School Of Cottonwood Creek,Kindergarten,El Paso,Jefferson County,15,100,100,0,0,0,38.92889,-104.750341
+413,Colorado,2017-18,Primrose School Of Erie At Vista Ridge,Kindergarten,Weld,Jefferson County,21,100,100,0,0,0,40.00347,-105.015661
+414,Colorado,2017-18,Primrose School Of Lone Tree,Kindergarten,Douglas,Douglas County,6,100,100,0,0,0,39.551116,-104.882491
+415,Colorado,2017-18,Primrose School Of Longmont,Kindergarten,Boulder,Jefferson County,27,100,96.3,0,0,0,40.14249,-105.135921
+416,Colorado,2017-18,Primrose School Of Parker,Kindergarten,Douglas,Colorado Springs 11,15,100,93.33,0,0,0,39.520777,-104.771487
+417,Colorado,2017-18,Primrose School Of Tallgrass,Kindergarten,Arapahoe,Denver County 1,9,100,100,0,0,0,39.63859,-104.737058
+418,Colorado,2017-18,Primrose School Of Torrey Peaks,Kindergarten,Jefferson,Jefferson County,11,100,100,0,0,0,39.912097,-105.05608
+419,Colorado,2017-18,Primrose School Of West Woods,Kindergarten,Jefferson,Boulder County,14,100,100,0,0,0,39.81384,-105.183301
+420,Colorado,2017-18,Pritchett Schools,Kindergarten,Baca,Platte Valley RE-7,3,100,100,0,0,0,37.3723505,-102.8621885
+421,Colorado,2017-18,Prospect Valley Elementary,Kindergarten,Jefferson,Adams 12 Five Star Schools,52,100,96.15,0,3.85,0,39.764443,-105.122493
+422,Colorado,2017-18,Psas Fulton,Kindergarten,Pueblo,Pueblo City 60,24,100,95.83,0,0,4.17,38.2387125,-104.5846724
+423,Colorado,2017-18,Psas Jones,Kindergarten,Pueblo,Arapahoe County,50,100,100,0,0,0,38.237346,-104.639778
+424,Colorado,2017-18,Psd Global Academy,Kindergarten,Larimer,Aspen 1,10,100,50,0,50,0,40.566564,-105.066913
+425,Colorado,2017-18,Psd Options,Kindergarten,Larimer,Jefferson County R-1,13,100,61.54,0,38.46,0,40.566501,-105.066814
+426,Colorado,2017-18,Rabbi Steven Foster Elc @ Temple Emanuel,Kindergarten,Denver,Denver County,7,100,42.86,0,0,0,39.7170579,-104.926586
+427,Colorado,2017-18,Ralston Elementary,Kindergarten,Jefferson,Weld County S/d RE-8,45,100,95.56,0,4.44,0,39.716841,-105.292531
+428,Colorado,2017-18,Range View Elementary,Kindergarten,Weld,Academy 20,101,100,92.08,0,7.92,0,40.51785,-104.864354
+429,Colorado,2017-18,Ray E Kilmer Elementary,Kindergarten,El Paso,Academy 20,42,100,80.95,2.38,16.67,0,39.090722,-104.74844
+430,Colorado,2017-18,Reach Charter,Kindergarten,Denver,St Vrain Valley Re 1J,30,100,86.67,0,3.33,0,39.73157,-104.952261
+431,Colorado,2017-18,Red Feather Lakes Elementary,Kindergarten,Larimer,Windsor RE-4,6,100,66.67,0,33.33,0,40.800076,-105.610564
+432,Colorado,2017-18,Red Hill Elementary,Kindergarten,Eagle,Cherry Creek 5,57,100,96.49,0,0,0,39.623499,-106.950873
+433,Colorado,2017-18,Red Rocks Elementary,Kindergarten,Jefferson,Primero Reorganized 2,40,100,95,0,2.5,2.5,39.656835,-105.197058
+434,Colorado,2017-18,Red Sandstone Elementary,Kindergarten,Eagle,Cherry Creek 5,41,100,90.24,0,9.76,0,39.646426,-106.389679
+435,Colorado,2017-18,Remington Elementary,Kindergarten,El Paso,Eagle County RE 50,102,100,94.12,0,5.88,0,38.878255,-104.699968
+436,Colorado,2017-18,Renaissance Montessori Academy,Kindergarten,Douglas,Jefferson County,2,100,50,0,0,0,39.53812,-104.795491
+437,Colorado,2017-18,Resurrection Christian,Kindergarten,Larimer,Denver County 1,89,100,77.53,0,12.36,0,40.433774,-104.979746
+438,Colorado,2017-18,Reunion Elementary,Kindergarten,Adams,Morgan County,114,100,95.61,0.88,2.63,0.88,39.8968717,-104.786049
+439,Colorado,2017-18,Revere Elementary,Kindergarten,Sedgwick,Adams 12 Five Star Schools,10,100,100,0,0,0,40.964335,-102.387173
+440,Colorado,2017-18,Rice Elementary,Kindergarten,Larimer,Douglas County RE 1,70,100,95.71,0,4.29,0,40.68741,-105.0042
+441,Colorado,2017-18,Ridgway Elementary,Kindergarten,Ouray,Jefferson County R-1,30,100,86.67,0,13.33,0,38.153396,-107.764799
+442,Colorado,2017-18,Riffenburgh Elementary,Kindergarten,Larimer,Poudre R-1,94,100,92.55,0,5.32,0,40.563506,-105.052595
+443,Colorado,2017-18,Rivendell,Kindergarten,Larimer,Englewood 1,33,100,93.94,0,6.06,0,40.5679789,-105.0444925
+444,Colorado,2017-18,Riverdale Elementary,Kindergarten,Adams,Douglas County RE 1,67,100,95.52,0,4.48,0,39.891824,-104.927861
+445,Colorado,2017-18,Rocky Mountain Academy Of Evergreen,Kindergarten,Jefferson,Poudre R-1,21,100,85.71,0,14.29,0,39.660369,-105.357212
+446,Colorado,2017-18,Rocky Mountain Christian Academy,Kindergarten,Boulder,Mesa County Valley 51,20,100,70,0,15,0,40.10352,-105.132561
+447,Colorado,2017-18,Rocky Mountain Classical Academy,Kindergarten,El Paso,St Vrain Valley Re 1J,131,100,87.02,0,12.98,0,38.898412,-104.688844
+448,Colorado,2017-18,Rocky Mountain Elementary,Kindergarten,Adams,Aspen 1,59,100,100,0,0,0,39.87523,-105.031385
+449,Colorado,2017-18,Rocky Mountain Montessori Academy,Kindergarten,El Paso,Roaring Fork RE-1,3,100,100,0,0,0,38.94267,-104.762741
+450,Colorado,2017-18,Rocky Mountain Montessori Inc.,Kindergarten,Summit,Adams County,2,100,100,0,0,0,39.6307857,-106.0431178
+451,Colorado,2017-18,Rocky Mountain School Of Expeditionary Learning,Kindergarten,Colorado BOCS,Revere School District,25,100,96,0,0,4,39.685653,-104.9216707
+452,Colorado,2017-18,Rose Hill Elementary,Kindergarten,Adams,Falcon 49,72,100,98.61,0,0,1.39,39.800875,-104.908588
+453,Colorado,2017-18,Ross Montessori,Kindergarten,Garfield,Denver County 1,36,100,88.89,0,11.11,0,39.39574,-107.212822
+454,Colorado,2017-18,Roxborough Elementary,Kindergarten,Douglas,Adams-Arapahoe 28J,112,100,92.86,0.89,5.36,0,39.477395,-105.07651
+455,Colorado,2017-18,Ryan Elementary,Kindergarten,Jefferson,Jefferson County R-1,61,100,98.36,0,0,1.64,39.90528,-105.0612286
+456,Colorado,2017-18,Rye Elementary,Kindergarten,Pueblo,Denver County 1,48,100,91.67,0,2.08,0,37.924892,-104.932194
+457,Colorado,2017-18,Salida Montessori Charter,Kindergarten,Chaffee,Adams County 14,10,100,50,10,20,0,38.530188,-106.00332
+458,Colorado,2017-18,Sandrock Elementary,Kindergarten,Moffat,Pueblo County 70,31,100,93.55,0,3.23,3.23,40.522135,-107.545055
+459,Colorado,2017-18,Sanford Elementary,Kindergarten,Conejos,Jefferson County R-1,31,100,90.32,0,6.45,0,37.256905,-105.908006
+460,Colorado,2017-18,Sargent Elementary,Kindergarten,Rio Grande,Thompson R2-J,18,100,88.89,0,11.11,0,37.676527,-106.111553
+461,Colorado,2017-18,Scenic Elementary,Kindergarten,Mesa,Boulder Valley RE 2,30,100,90,0,10,0,39.072707,-108.611816
+462,Colorado,2017-18,School Of Excellence,Kindergarten,El Paso,Boulder Valley RE 2,2,100,100,0,0,0,38.7956547,-104.7952642
+463,Colorado,2017-18,Second Creek Elementary,Kindergarten,Adams,Sargent RE-33J,97,100,94.85,0,5.15,0,39.877495,-104.801256
+464,Colorado,2017-18,Shawsheen Elementary,Kindergarten,Weld,Jefferson County R-1,69,100,97.1,0,2.9,0,40.42603,-104.746621
+465,Colorado,2017-18,Shepardson Elementary,Kindergarten,Larimer,Denver County 1,75,100,94.67,1.33,4,0,40.54194,-105.050776
+466,Colorado,2017-18,Shepherd Of The Valley Lutheran,Kindergarten,Jefferson,Academy 20,10,100,80,0,0,0,39.856954,-105.097348
+467,Colorado,2017-18,Shining Mountain Waldorf,Kindergarten,Boulder,Durango 9-R,9,100,55.56,0,44.44,0,40.0544075,-105.2849486
+468,Colorado,2017-18,Shrine Of St Anne,Kindergarten,Jefferson,Durango 9-R,17,100,94.12,0,5.88,0,39.8015091,-105.0804595
+469,Colorado,2017-18,Side Creek Elementary,Kindergarten,Arapahoe,Sangre De Cristo RE-22J,70,100,98.57,0,0,1.43,39.678216,-104.764608
+470,Colorado,2017-18,Sidewalk's End Montessori,Kindergarten,El Paso,Denver County,11,100,100,0,0,0,38.9312824,-104.7668186
+471,Colorado,2017-18,Sierra Elementary,Kindergarten,Jefferson,Jefferson County R-1,83,100,97.59,0,2.41,0,39.837627,-105.120273
+472,Colorado,2017-18,Sierra Vista Elementary,Kindergarten,Pueblo,Westminster Public Schools,79,100,92.41,0,2.53,0,38.322915,-104.770004
+473,Colorado,2017-18,Silver Creek Elementary,Kindergarten,Adams,Jefferson County R-1,104,100,95.19,0,4.81,0,39.971385,-104.953945
+474,Colorado,2017-18,Silverton,Kindergarten,San Juan,Jefferson County R-1,5,100,80,0,20,0,37.8123197,-107.6664022
+475,Colorado,2017-18,Simla Elementary,Kindergarten,Elbert,Adams 12 Five Star Schools,18,100,100,0,0,0,39.137917,-104.084254
+476,Colorado,2017-18,Skyline Vista Elementary,Kindergarten,Adams,Big Sandy 100J,43,100,93.02,0,6.98,0,39.830096,-105.015971
+477,Colorado,2017-18,Skyview Elementary,Kindergarten,Weld,Jefferson County R-1,65,100,93.85,0,6.15,0,40.471155,-104.913668
+478,Colorado,2017-18,Skyview Elementary,Kindergarten,Adams,Adams-Arapahoe 28J,67,100,92.54,1.49,5.97,0,39.919479,-104.928837
+479,Colorado,2017-18,Slavens K-8,Kindergarten,Denver,Pueblo County 70,76,100,100,0,0,0,39.661868,-104.956031
+480,Colorado,2017-18,Soda Creek Elementary,Kindergarten,Routt,Douglas County RE 1,81,100,87.65,0,12.35,0,40.491043,-106.829522
+481,Colorado,2017-18,South Elementary,Kindergarten,Adams,Jefferson County R-1,81,100,95.06,1.23,3.7,0,39.981758,-104.817495
+482,Colorado,2017-18,South Routt Elementary,Kindergarten,Routt,Pueblo County 70,21,100,76.19,0,0,0,40.154852,-106.909417
+483,Colorado,2017-18,Southeast Elementary,Kindergarten,Adams,Jefferson County R-1,73,100,97.26,0,2.74,0,39.981124,-104.802011
+484,Colorado,2017-18,Southside Childrens Center,Kindergarten,Pueblo,Pueblo County,8,100,100,0,0,0,38.2410786,-104.641034
+485,Colorado,2017-18,Spring Creek Country Day,Kindergarten,Larimer,Douglas County,10,100,80,0,20,0,40.561405,-105.074951
+486,Colorado,2017-18,Springfield Elementary,Kindergarten,Baca,Brighton School District,30,100,96.67,0,0,0,37.405115,-102.630961
+487,Colorado,2017-18,Springs Of Life - Academy,Kindergarten,El Paso,Denver County,13,100,100,0,0,0,38.867142,-104.7551971
+488,Colorado,2017-18,Springs Ranch Elementary,Kindergarten,El Paso,Adams 12 Five Star Schools,76,100,92.11,0,7.89,0,38.894909,-104.697421
+489,Colorado,2017-18,St Anne's Episcopal,Kindergarten,Denver,Adams County 14,44,100,95.45,0,4.55,0,39.666774,-104.961182
+490,Colorado,2017-18,St Joan Of Arc Early Learning Center,Kindergarten,Jefferson,Boulder County,14,100,100,0,0,0,39.80266,-105.141921
+491,Colorado,2017-18,St John The Evangelist Catholic,Kindergarten,Larimer,Jefferson County R-1,21,100,95.24,0,4.76,0,40.40444,-105.100311
+492,Colorado,2017-18,St John's Lutheran,Kindergarten,Denver,Wiggins RE-50(J),22,100,90.91,0,0,0,39.703174,-104.968569
+493,Colorado,2017-18,St Louis Catholic,Kindergarten,Boulder,Denver County 1,14,100,92.86,0,7.14,0,39.978936,-105.136077
+494,Colorado,2017-18,St Mary Catholic,Kindergarten,Arapahoe,Pueblo City 60,46,100,95.65,0,0,0,39.5952064,-105.0169978
+495,Colorado,2017-18,St Rose Of Lima Catholic Acad,Kindergarten,Denver,Denver County,212,100,96.23,0,0,1.42,39.7095045,-105.0052434
+496,Colorado,2017-18,St Vincent De Paul,Kindergarten,Denver,Springfield RE-4,46,100,86.96,4.35,2.17,0,39.695118,-104.957577
+497,Colorado,2017-18,St. Elizabeth's,Kindergarten,Denver,Littleton 6,17,100,100,0,0,0,39.7516283,-104.9606677
+498,Colorado,2017-18,St. Mary Catholic School Greeley Co,Kindergarten,Weld,Denver County 1,15,100,100,0,0,0,40.4009166,-104.7152871
+499,Colorado,2017-18,St. Mary Catholic School Greeley Co,Kindergarten,Weld,Douglas County,160,100,100,0,0,0,40.4009921,-104.7153989
+500,Colorado,2017-18,St. Peter Catholic,Kindergarten,El Paso,Colorado Springs 11,14,100,71.43,0,28.57,0,39.08943,-104.871411
+501,Colorado,2017-18,St. Therese Catholic,Kindergarten,Arapahoe,Denver County 1,19,100,100,0,0,0,39.735023,-104.859681
+502,Colorado,2017-18,Stanley British Primary,Kindergarten,Denver,Falcon 49,45,100,95.56,0,4.44,0,39.722512,-104.902003
+503,Colorado,2017-18,Stansberry Elementary,Kindergarten,Larimer,Littleton 6,24,100,91.67,0,8.33,0,40.435765,-105.071642
+504,Colorado,2017-18,Stellar Elementary,Kindergarten,Adams,Denver County 1,75,100,92,0,5.33,2.67,39.922538,-104.942264
+505,Colorado,2017-18,Stem Lab,Kindergarten,Adams,Cherry Creek 5,52,100,94.23,0,1.92,3.85,39.908422,-104.967159
+506,Colorado,2017-18,Stem Launch,Kindergarten,Adams,Denver County 1,47,100,97.87,0,2.13,0,39.868785,-105.004708
+507,Colorado,2017-18,Stepping Stones Day School Inc.,Kindergarten,Pueblo,Adams 12 Five Star Schools,9,100,100,0,0,0,38.2991999,-104.6368112
+508,Colorado,2017-18,Stone Creek,Kindergarten,Eagle,Douglas County RE 1,26,100,88.46,0,3.85,0,39.645554,-106.886184
+509,Colorado,2017-18,Stove Prairie Elementary,Kindergarten,Larimer,Cherry Creek 5,4,100,75,0,25,0,40.61968,-105.357734
+510,Colorado,2017-18,Strasburg Elementary,Kindergarten,Adams,Denver County 1,66,100,96.97,0,0,0,39.744516,-104.322356
+511,Colorado,2017-18,Stratton Elementary,Kindergarten,Kit Carson,Jefferson County R-1,12,100,100,0,0,0,39.304275,-102.597665
+512,Colorado,2017-18,Strawberry Park Elementary,Kindergarten,Routt,Falcon 49,63,100,88.89,1.59,9.52,0,40.49677,-106.819411
+513,Colorado,2017-18,Sts Peter And Paul,Kindergarten,Jefferson,Harrison 2,17,100,100,0,0,0,39.7715778,-105.0718721
+514,Colorado,2017-18,Summit Elementary,Kindergarten,Arapahoe,Jefferson County R-1,47,100,95.74,2.13,2.13,0,39.640142,-104.776296
+515,Colorado,2017-18,Sunnyside Elementary,Kindergarten,La Plata,Adams 12 Five Star Schools,18,100,88.89,0,11.11,0,37.122742,-107.862574
+516,Colorado,2017-18,Sunrise United Methodist Church Preschool,Kindergarten,El Paso,Denver County 1,13,100,100,0,0,0,38.9415282,-104.7778482
+517,Colorado,2017-18,Sunset Academy,Kindergarten,Boulder,Boulder Valley RE 2,8,100,100,0,0,0,40.150289,-105.122291
+518,Colorado,2017-18,Sunshine Christian,Kindergarten,Alamosa,Westminster Public Schools,3,100,33.33,0,66.67,0,37.4794507,-105.893827
+519,Colorado,2017-18,Superior Elementary,Kindergarten,Boulder,Pueblo City 60,56,100,94.64,0,5.36,0,39.937835,-105.156423
+520,Colorado,2017-18,Swallows Charter Academy,Kindergarten,Pueblo,Eagle County RE 50,47,100,85.11,0,0,0,38.322991,-104.74379
+521,Colorado,2017-18,Swink Elementary,Kindergarten,Otero,Boulder Valley RE 2,31,100,100,0,0,0,38.011176,-103.627612
+522,Colorado,2017-18,Take A Break,Kindergarten,Boulder,Brighton School District,8,100,62.5,0,0,0,40.007581,-105.2659417
+523,Colorado,2017-18,Tarver Elementary,Kindergarten,Adams,Steamboat Springs RE-2,61,100,96.72,0,1.64,1.64,39.937447,-104.947469
+524,Colorado,2017-18,Tavelli Elementary,Kindergarten,Larimer,Poudre R-1,112,100,97.32,0,2.68,0,40.615355,-105.05645
+525,Colorado,2017-18,Telluride Early Childhood Center,Kindergarten,San Miguel,Jefferson County,64,100,85.94,0,12.5,0,37.9365656,-107.8095066
+526,Colorado,2017-18,Temple Grandin,Kindergarten,Boulder,Weld County,19,100,100,0,0,0,40.04979,-105.202981
+527,Colorado,2017-18,Tenderfoot Child & Family Dvlpmnt Ctr,Kindergarten,Gunnison,Greeley 6,31,100,90.32,0,3.23,0,38.551401,-106.922492
+528,Colorado,2017-18,The Academy Ece Of Westminster,Kindergarten,Adams,Denver County,11,100,100,0,0,0,39.9009519,-105.0514199
+529,Colorado,2017-18,The Children's Courtyard,Kindergarten,Weld,Arapahoe County,6,100,100,0,0,0,40.0967689,-104.9299735
+530,Colorado,2017-18,The Colorado Springs,Kindergarten,El Paso,Widefield 3,16,100,100,0,0,0,38.79017,-104.840801
+531,Colorado,2017-18,The Cottage School - 1941 N Terry St,Kindergarten,Boulder,El Paso County,3,100,100,0,0,0,40.1935938,-105.1051126
+532,Colorado,2017-18,The Denver Waldorf,Kindergarten,Denver,Denver County 1,21,100,76.19,0,19.05,4.76,39.6778808,-104.9810001
+533,Colorado,2017-18,The Goddard School - 1101 Sgt John Stiles Dr,Kindergarten,Douglas,Colorado Springs 11,5,100,100,0,0,0,39.5495399,-105.0020423
+534,Colorado,2017-18,The Goddard School - 21805 E Quincy Ave,Kindergarten,Arapahoe,Denver County 1,6,100,100,0,0,0,39.640489,-104.734517
+535,Colorado,2017-18,The Goddard School Annex,Kindergarten,Douglas,Poudre R-1,16,100,100,0,0,0,38.956004,-104.731258
+536,Colorado,2017-18,The Joshua School - Boulder,Private,Boulder,Durango 9-R,14,100,64.29,0,35.71,0,40.0723241,-105.188555
+537,Colorado,2017-18,The Joshua School Denver,Kindergarten,Arapahoe,Pueblo City 60,31,100,80.65,3.23,16.13,0,39.661094,-104.960913
+538,Colorado,2017-18,The Lawton-Taylor Academy,Kindergarten,Arapahoe,Douglas County RE 1,11,100,100,0,0,0,39.5905678,-104.922086
+539,Colorado,2017-18,The Learning House Foundation For Early Lrng,Kindergarten,Larimer,Academy 20,6,100,100,0,0,0,40.538424,-105.0854126
+540,Colorado,2017-18,The Logan School For Creative Learning,Kindergarten,Denver,Jefferson County R-1,24,100,100,0,0,0,39.731684,-104.886722
+541,Colorado,2017-18,The Peak,Private,Summit,Colorado Springs 11,61,100,80.33,1.64,3.28,1.64,39.57475,-106.103231
+542,Colorado,2017-18,The Sunshine House Of Colorado State Univ,Kindergarten,Larimer,Jefferson County R-1,1,100,100,0,0,0,40.5600457,-105.0863728
+543,Colorado,2017-18,The Village Child Development Ctr,Kindergarten,Arapahoe,Adams County,13,100,100,0,0,0,39.6236411,-104.8791027
+544,Colorado,2017-18,Thorncreek Christian,Kindergarten,Adams,Weld County School District RE-3J,6,100,100,0,0,0,39.923492,-104.940305
+545,Colorado,2017-18,Thundermountain Pto Kids Activities,Kindergarten,Mesa,Wray RD-2,13,100,92.31,0,7.69,0,39.0390093,-107.9742175
+546,Colorado,2017-18,Timber Trail Elementary,Kindergarten,Douglas,Douglas County RE 1,48,100,100,0,0,0,39.473073,-104.898971
+547,Colorado,2017-18,Timnath Elementary,Kindergarten,Larimer,St Vrain Valley Re 1J,52,100,98.08,0,1.92,0,40.53256,-104.98308
+548,Colorado,2017-18,Trailblazer Elementary,Kindergarten,Douglas,Academy 20,46,100,95.65,0,4.35,0,39.539614,-105.021594
+549,Colorado,2017-18,Trails West Elementary,Kindergarten,Arapahoe,Jefferson County R-1,67,100,98.51,0,1.49,0,39.618573,-104.77959
+550,Colorado,2017-18,Traut Core Elementary,Kindergarten,Larimer,Mesa County Valley 51,76,100,93.42,0,6.58,0,40.518828,-105.028992
+551,Colorado,2017-18,Treehouse Learning,Kindergarten,Boulder,Ault-Highland RE-9,13,100,92.31,0,7.69,0,39.997715,-105.1283213
+552,Colorado,2017-18,Trinity Lutheran Preschool - 732 Clark St,Kindergarten,Logan,Jefferson County R-1,10,100,100,0,0,0,40.629816,-103.221745
+553,Colorado,2017-18,Trinity Lutheran School - Franktown,Kindergarten,Douglas,Pueblo County,8,100,87.5,0,0,12.5,39.4309576,-104.7592297
+554,Colorado,2017-18,Truth Christian Academy,Private,Jefferson,Adams 12 Five Star Schools,23,100,69.57,0,21.74,8.7,39.59412,-105.106881
+555,Colorado,2017-18,Turnberry Elementary,Kindergarten,Adams,Brush RE-2(J),89,100,96.63,0,2.25,1.12,39.89096,-104.83406
+556,Colorado,2017-18,Two Roads Charter,Kindergarten,Jefferson,Cherry Creek 5,19,100,57.89,0,36.84,5.26,39.823055,-105.071685
+557,Colorado,2017-18,Underwood Elementary,Kindergarten,Rio Grande,Douglas County RE 1,40,100,100,0,0,0,37.673068,-106.352959
+558,Colorado,2017-18,University Hill Elementary,Kindergarten,Boulder,Denver County 1,76,100,96.05,0,3.95,0,40.005101,-105.27183
+559,Colorado,2017-18,University Prep - Steele,Kindergarten,Denver,Colorado Springs 11,43,100,95.35,0,2.33,0,39.7689119,-104.9492663
+560,Colorado,2017-18,University Schools,Kindergarten,Weld,Douglas County RE 1,109,100,99.08,0,0.92,0,40.411465,-104.788127
+561,Colorado,2017-18,Valley View K-8,Kindergarten,Adams,Harrison 2,28,100,92.86,0,3.57,3.57,39.823141,-104.995394
+562,Colorado,2017-18,Valor Christian,Kindergarten,Douglas,Douglas County,1108,100,96.12,0.27,3.25,0,39.540515,-104.9448572
+563,Colorado,2017-18,Van Arsdale Elementary,Kindergarten,Jefferson,Charter School Institute,57,100,94.74,0,5.26,0,39.833243,-105.148663
+564,Colorado,2017-18,Van Buren Elementary,Kindergarten,Larimer,Denver County 1,16,100,87.5,0,12.5,0,40.408671,-105.102681
+565,Colorado,2017-18,Vanderhoof Elementary,Kindergarten,Jefferson,Thompson R2-J,61,100,95.08,1.64,3.28,0,39.803202,-105.127005
+566,Colorado,2017-18,Vertical Skills Academy,Kindergarten,Jefferson,Denver County,23,100,100,0,0,0,39.6816123,-105.3635666
+567,Colorado,2017-18,Victory Montessori And Childcare,Kindergarten,Jefferson,Denver County,5,100,100,0,0,0,39.9101476,-105.0552848
+568,Colorado,2017-18,Vilas K-12 Schools,Kindergarten,Baca,Weld County S/d RE-8,3,100,66.67,0,33.33,0,37.3747383,-102.4485116
+569,Colorado,2017-18,Vineland Elementary,Kindergarten,Pueblo,Adams-Arapahoe 28J,25,100,96,0,0,0,38.240662,-104.462095
+570,Colorado,2017-18,Vivian Elementary,Kindergarten,Jefferson,Cherry Creek 5,25,100,96,0,4,0,39.752255,-105.115995
+571,Colorado,2017-18,Waldorf School On Roaring Fork,Kindergarten,Garfield,Adams-Arapahoe 28J,24,100,37.5,0,62.5,0,39.4052829,-107.1394836
+572,Colorado,2017-18,Walsh Elementary,Kindergarten,Baca,Mapleton 1,20,100,100,0,0,0,37.386488,-102.281643
+573,Colorado,2017-18,Wamsley Elementary,Kindergarten,Garfield,Pueblo County 70,48,100,97.92,0,0,0,39.555517,-107.773563
+574,Colorado,2017-18,Warder Elementary,Kindergarten,Jefferson,Poudre R-1,47,100,100,0,0,0,39.837196,-105.092033
+575,Colorado,2017-18,Washington Elementary,Kindergarten,Prowers,Cherry Creek 5,112,100,99.11,0,0,0,38.084382,-102.625657
+576,Colorado,2017-18,Washington Elementary,Kindergarten,Fremont,Jefferson County R-1,59,100,94.92,0,5.08,0,38.448199,-105.23838
+577,Colorado,2017-18,Washington Primary,Kindergarten,Otero,Adams-Arapahoe 28J,77,100,97.4,0,1.3,0,38.046761,-103.720688
+578,Colorado,2017-18,Welchester Elementary,Kindergarten,Jefferson,Garfield RE-2,40,100,92.5,0,7.5,0,39.73208,-105.144384
+579,Colorado,2017-18,Weldon Valley K-12 Schools,Kindergarten,Morgan,Widefield 3,19,100,100,0,0,0,40.3500589,-103.9678287
+580,Colorado,2017-18,Werner Elementary,Kindergarten,Larimer,Adams-Arapahoe 28J,79,100,96.2,0,3.8,0,40.512595,-105.066546
+581,Colorado,2017-18,West Grand K-12 Schools,Kindergarten,Grand,Jefferson County R-1,33,100,100,0,0,0,40.062111,-106.386194
+582,Colorado,2017-18,West Jefferson Elementary,Kindergarten,Jefferson,Pritchett RE-3,47,100,91.49,0,8.51,0,39.539465,-105.303583
+583,Colorado,2017-18,West Ridge Academy,Kindergarten,Weld,Jefferson County R-1,55,100,90.91,0,9.09,0,40.424381,-104.790529
+584,Colorado,2017-18,West Ridge Elementary,Kindergarten,Adams,Lamar RE-2,106,100,96.23,0.94,1.89,0,39.93471,-104.911381
+585,Colorado,2017-18,West Woods Elementary,Kindergarten,Jefferson,Cherry Creek 5,77,100,96.1,0,3.9,0,39.826088,-105.18685
+586,Colorado,2017-18,Westgate Charter,Kindergarten,Adams,Weldon Valley RE-20(J),49,100,83.67,0,14.29,2.04,39.908398,-104.967809
+587,Colorado,2017-18,Westpark Elementary,Kindergarten,Lake,Denver County 1,58,100,89.66,0,5.17,0,39.253515,-106.295882
+588,Colorado,2017-18,Westridge Elementary,Kindergarten,Jefferson,Adams 12 Five Star Schools,60,100,98.33,0,1.67,0,39.61338,-105.118128
+589,Colorado,2017-18,Westview Elementary,Kindergarten,Adams,Jefferson County R-1,71,100,97.18,0,2.82,0,39.890518,-105.004267
+590,Colorado,2017-18,Whittier K-8,Kindergarten,Denver,Mesa County Valley 51,26,100,96.15,0,3.85,0,39.75283,-104.973027
+591,Colorado,2017-18,Wiggins K-12 Schools,Kindergarten,Morgan,Colorado Springs 11,34,100,100,0,0,0,40.2265348,-104.0749398
+592,Colorado,2017-18,Wiley K-12 Schools,Kindergarten,Prowers,Greeley 6,17,100,100,0,0,0,38.1557457,-102.7221679
+593,Colorado,2017-18,Willow Creek Elementary,Kindergarten,Arapahoe,Widefield 3,79,100,97.47,0,2.53,0,39.574016,-104.888665
+594,Colorado,2017-18,Willows Child Learning Center,Kindergarten,Arapahoe,El Paso County,9,100,100,0,0,0,39.59244,-104.904751
+595,Colorado,2017-18,Wilmot Elementary,Kindergarten,Jefferson,Harrison 2,42,100,97.62,0,2.38,0,39.62079,-105.337712
+596,Colorado,2017-18,Windsor Charter Academy - Elementary,Kindergarten,Weld,Jefferson County R-1,119,100,89.92,0.84,9.24,0,40.4691025,-104.8876075
+597,Colorado,2017-18,Wingate Elementary,Kindergarten,Mesa,Boulder Valley RE 2,73,100,89.04,0,10.96,0,39.057239,-108.645948
+598,Colorado,2017-18,Witt Elementary,Kindergarten,Jefferson,Poudre R-1,42,100,92.86,0,7.14,0,39.885559,-105.112242
+599,Colorado,2017-18,Woodglen Elementary,Kindergarten,Adams,Boulder Valley RE 2,65,100,92.31,1.54,3.08,3.08,39.907874,-104.946453
+600,Colorado,2017-18,Woodlin Elementary,Kindergarten,Washington,Denver County 1,6,100,83.33,0,0,0,39.78914,-103.516796
+601,Colorado,2017-18,World Compass Academy,Kindergarten,Douglas,Denver County 1,95,100,90.53,1.05,8.42,0,39.34903,-104.870244
+602,Colorado,2017-18,Wray School District,Kindergarten,Yuma,Garfield 16,50,100,100,0,0,0,40.0739666,-102.2420569
+603,Colorado,2017-18,Zach Elementary,Kindergarten,Larimer,Montezuma-Cortez RE-1,84,100,94.05,0,5.95,0,40.50817,-105.007204
+604,Colorado,2017-18,Zion Lutheran,Kindergarten,Adams,Jefferson County R-1,30,100,86.67,0,13.33,0,39.98074,-104.804781
+605,Colorado,2017-18,Tozer Elementary,Kindergarten,Weld,Adams-Arapahoe 28J,130,99.23,92.31,0,6.92,0,40.474217,-104.904352
+606,Colorado,2017-18,Meridian Ranch Elementary,Kindergarten,El Paso,Mesa County Valley 51,115,99.13,98.26,0,0,0,38.98188,-104.589604
+607,Colorado,2017-18,Holly Ridge Primary Elementary,Kindergarten,Arapahoe,Pueblo City 60,110,99.09,97.27,0,1.82,0,39.6571055,-104.9139885
+608,Colorado,2017-18,Bear Creek K-8,Kindergarten,Jefferson,Denver County 1,105,99.05,92.38,0,5.71,0.95,39.660303,-105.104684
+609,Colorado,2017-18,Coyote Hills Elementary,Kindergarten,Arapahoe,Adams 12 Five Star Schools,101,99.01,97.03,0,1.98,0,39.591561,-104.702541
+610,Colorado,2017-18,Evans International Elementary,Kindergarten,El Paso,Littleton 6,98,98.98,90.82,0,8.16,0,38.856131,-104.694736
+611,Colorado,2017-18,Malley Drive Elementary,Kindergarten,Adams,Adams-Arapahoe 28J,93,98.92,93.55,0,5.38,0,39.903483,-104.971806
+612,Colorado,2017-18,Brown International Academy,Kindergarten,Denver,Pueblo City 60,92,98.91,92.39,0,6.52,0,39.754478,-105.034216
+613,Colorado,2017-18,Crystal River Elementary,Kindergarten,Garfield,Denver County 1,92,98.91,91.3,0,7.61,0,39.394415,-107.205244
+614,Colorado,2017-18,Cactus Valley Elementary,Kindergarten,Garfield,Pueblo City 60,91,98.9,92.31,0,4.4,0,39.550769,-107.653676
+615,Colorado,2017-18,Cottonwood Creek Elementary,Kindergarten,Arapahoe,Colorado Springs 11,87,98.85,94.25,0,2.3,2.3,39.608818,-104.859061
+616,Colorado,2017-18,Wilder Elementary,Kindergarten,Arapahoe,Charter School Institute,86,98.84,96.51,0,1.16,0,39.602114,-105.043566
+617,Colorado,2017-18,Lincoln Charter Academy,Kindergarten,Jefferson,Canon City RE-1,85,98.82,88.24,0,10.59,0,39.825882,-105.117094
+618,Colorado,2017-18,Rolling Hills Elementary,Kindergarten,Arapahoe,Denver County 1,85,98.82,98.82,0,0,0,39.610675,-104.765167
+619,Colorado,2017-18,Shaffer Elementary,Kindergarten,Jefferson,Moffat County RE-1,83,98.8,90.36,0,7.23,1.2,39.571924,-105.113636
+620,Colorado,2017-18,Canyon Creek Elementary,Kindergarten,Arapahoe,Calhan RJ-1,81,98.77,95.06,0,1.23,2.47,39.605839,-104.71962
+621,Colorado,2017-18,Community Leadership Academy,Kindergarten,Adams,Pueblo City 60,81,98.77,97.53,0,1.23,0,39.821277,-104.92129
+622,Colorado,2017-18,Winograd K-8 Elementary,Kindergarten,Weld,Adams-Arapahoe 28J,80,98.75,95,0,2.5,0,40.436239,-104.790889
+623,Colorado,2017-18,Federal Heights Elementary,Kindergarten,Adams,Colorado Springs 11,79,98.73,97.47,0,0,1.27,39.870325,-105.016939
+624,Colorado,2017-18,Thornton Elementary,Kindergarten,Adams,Pueblo City 60,78,98.72,98.72,0,0,0,39.864737,-104.974576
+625,Colorado,2017-18,Ayres Elementary,Kindergarten,Logan,Douglas County RE 1,155,98.71,93.55,0,4.52,0.65,40.608064,-103.223136
+626,Colorado,2017-18,Glacier Peak Elementary,Kindergarten,Adams,Denver County 1,77,98.7,92.21,0,6.49,0,39.915304,-104.916938
+627,Colorado,2017-18,Fountain Valley School Of Colorado,Kindergarten,El Paso,Arapahoe County,228,98.68,98.25,0,0,0,38.74352,-104.710298
+628,Colorado,2017-18,Gap,Private,Weld,Boulder Valley RE 2,147,98.64,97.96,0,0.68,0,39.730932,-105.161597
+629,Colorado,2017-18,Campion Academy,Private,Larimer,Boulder Valley RE 2,144,98.61,77.78,0.69,9.03,3.47,40.3484,-105.082
+630,Colorado,2017-18,Cherry Hills Village Elementary,Kindergarten,Arapahoe,Adams-Arapahoe 28J,72,98.61,97.22,0,1.39,0,39.639161,-104.958883
+631,Colorado,2017-18,Global Village Academy Parker,Kindergarten,Douglas,El Paso County,71,98.59,91.55,1.41,4.23,1.41,39.5405693,-104.7773701
+632,Colorado,2017-18,Lochbuie Elementary,Kindergarten,Weld,Poudre R-1,71,98.59,90.14,0,5.63,2.82,40.004795,-104.722869
+633,Colorado,2017-18,Stukey Elementary,Kindergarten,Adams,Mesa County Valley 51,71,98.59,95.77,0,2.82,0,39.897762,-104.980532
+634,Colorado,2017-18,Bear Creek Elementary,Kindergarten,Boulder,Buena Vista R-31,70,98.57,90,0,8.57,0,39.980394,-105.263213
+635,Colorado,2017-18,Centennial Elementary,Kindergarten,Adams,Moffat County RE-1,69,98.55,91.3,0,7.25,0,39.9346579,-105.0228805
+636,Colorado,2017-18,Coyote Ridge Elementary,Kindergarten,Adams,Jefferson County R-1,69,98.55,98.55,0,0,0,39.946304,-105.044866
+637,Colorado,2017-18,Westgate Elementary,Kindergarten,Jefferson,West Grand 1-JT,68,98.53,95.59,0,2.94,0,39.668881,-105.092506
+638,Colorado,2017-18,Lafayette Elementary,Kindergarten,Boulder,North Conejos RE-1J,67,98.51,83.58,0,14.93,0,39.998243,-105.096264
+639,Colorado,2017-18,Frontier Charter Academy,Kindergarten,Weld,Clear Creek RE-1,130,98.46,91.54,0,5.38,1.54,40.390145,-104.723312
+640,Colorado,2017-18,Centennial Elementary,Kindergarten,Larimer,Denver County 1,63,98.41,96.83,1.59,0,0,40.429928,-105.099836
+641,Colorado,2017-18,Ute Meadows Elementary,Kindergarten,Jefferson,Thompson R2-J,62,98.39,96.77,0,1.61,0,39.585047,-105.121271
+642,Colorado,2017-18,Heritage Elementary,Kindergarten,Arapahoe,Granada RE-1,61,98.36,93.44,0,4.92,0,39.597109,-104.910617
+643,Colorado,2017-18,Adams Elementary,Kindergarten,Jefferson,Denver County 1,60,98.33,96.67,1.67,0,0,39.869833,-105.065511
+644,Colorado,2017-18,Vanguard Classical School - West,Kindergarten,Arapahoe,Jefferson County R-1,60,98.33,98.33,0,0,0,39.7295056,-104.8884381
+645,Colorado,2017-18,Coyote Creek Elementary,Kindergarten,Douglas,St Vrain Valley Re 1J,58,98.28,94.83,0,3.45,0,39.527706,-105.02177
+646,Colorado,2017-18,Sarah Milner Elementary,Kindergarten,Larimer,St Vrain Valley Re 1J,58,98.28,98.28,0,0,0,40.384915,-105.108215
+647,Colorado,2017-18,York International,Kindergarten,Adams,Denver County 1,58,98.28,98.28,0,0,0,39.865259,-104.95846
+648,Colorado,2017-18,Douglass Elementary,Kindergarten,Boulder,Jefferson County R-1,57,98.25,94.74,0,3.51,0,40.002636,-105.177651
+649,Colorado,2017-18,Clear Sky Elementary,Kindergarten,Douglas,Greeley 6,113,98.23,93.81,0.88,2.65,0.88,39.38264,-104.90439
+650,Colorado,2017-18,Sunset Ridge Elementary,Kindergarten,Adams,Durango 9-R,56,98.21,98.21,0,0,0,39.869059,-105.02894
+651,Colorado,2017-18,Asbury Elementary,Kindergarten,Denver,Cherry Creek 5,55,98.18,98.18,0,0,0,39.680075,-104.971676
+652,Colorado,2017-18,Montclair Elementary,Kindergarten,Denver,Buffalo RE-4J,55,98.18,96.36,0,1.82,0,39.733598,-104.909797
+653,Colorado,2017-18,North Mesa Elementary,Kindergarten,Pueblo,Delta County 50(J),55,98.18,92.73,0,5.45,0,38.2496146,-104.5163279
+654,Colorado,2017-18,Stott Elementary,Kindergarten,Jefferson,Charter School Institute,55,98.18,92.73,0,5.45,0,39.816045,-105.142345
+655,Colorado,2017-18,Explore Elementary,Kindergarten,Adams,Jefferson County R-1,54,98.15,98.15,0,0,0,39.862753,-104.957806
+656,Colorado,2017-18,Palmer Lake Elementary,Kindergarten,El Paso,St Vrain Valley Re 1J,54,98.15,85.19,0,12.96,0,39.121625,-104.918577
+657,Colorado,2017-18,Aurora Academy Charter,Kindergarten,Arapahoe,Jefferson County R-1,53,98.11,98.11,0,0,0,39.718567,-104.868957
+658,Colorado,2017-18,Flynn Elementary,Kindergarten,Adams,Douglas County RE 1,53,98.11,98.11,0,0,0,39.854977,-105.034908
+659,Colorado,2017-18,Ivy Stockwell Elementary,Kindergarten,Larimer,Douglas County,53,98.11,92.45,0,3.77,0,40.301825,-105.082295
+660,Colorado,2017-18,Northside Elementary,Kindergarten,Montrose,Thompson R2-J,53,98.11,94.34,0,0,0,38.4844,-107.880798
+661,Colorado,2017-18,Saddle Ranch Elementary,Kindergarten,Douglas,Expeditionary Boces,53,98.11,94.34,0,3.77,0,39.532222,-104.996462
+662,Colorado,2017-18,Meridian Elementary,Kindergarten,Adams,Greeley 6,105,98.1,94.29,0,3.81,0,39.954589,-105.021836
+663,Colorado,2017-18,Summit View Elementary,Kindergarten,Douglas,Summit RE-1,52,98.08,96.15,0,1.92,0,39.53126,-104.961811
+664,Colorado,2017-18,Woodmen Hills Elementary,Kindergarten,El Paso,Eagle County RE 50,103,98.06,91.26,0,6.8,0,38.951896,-104.598786
+665,Colorado,2017-18,Downtown Denver Expeditionary,Kindergarten,Denver,Denver County 1,51,98.04,94.12,0,3.92,0,39.74575,-104.985751
+666,Colorado,2017-18,Aurora Quest K-8,Kindergarten,Arapahoe,Colorado Springs 11,50,98,94,0,4,0,39.703649,-104.833258
+667,Colorado,2017-18,Pagosa Springs Elementary,Kindergarten,Archuleta,Poudre R-1,100,98,81,0,10,4,37.266231,-107.021107
+668,Colorado,2017-18,Westerly Creek Elementary,Kindergarten,Denver,Douglas County RE 1,100,98,96,0,2,0,39.755896,-104.885241
+669,Colorado,2017-18,Avon Elementary,Kindergarten,Eagle,Academy 20,49,97.96,89.8,0,0,0,39.638407,-106.533827
+670,Colorado,2017-18,Clyde Miller K-8,Kindergarten,Adams,Mesa County Valley 51,49,97.96,97.96,0,0,0,39.74598,-104.757799
+671,Colorado,2017-18,Longmont Estates Elementary,Kindergarten,Boulder,Bennett 29J,49,97.96,81.63,0,14.29,2.04,40.185567,-105.148256
+672,Colorado,2017-18,Belmar Elementary,Kindergarten,Jefferson,Jefferson County R-1,48,97.92,93.75,2.08,2.08,0,39.701212,-105.101356
+673,Colorado,2017-18,Dual Immersion Academy,Kindergarten,Mesa,Adams 12 Five Star Schools,48,97.92,93.75,0,4.17,0,39.067737,-108.57842
+674,Colorado,2017-18,Maple Grove Elementary,Kindergarten,Jefferson,Greeley 6,48,97.92,91.67,2.08,4.17,0,39.759222,-105.14829
+675,Colorado,2017-18,New Vision Charter,Kindergarten,Larimer,Charter School Institute,48,97.92,93.75,0,4.17,0,40.392449,-105.042268
+676,Colorado,2017-18,Pinon Valley Elementary,Kindergarten,El Paso,Colorado Springs 11,48,97.92,91.67,0,6.25,0,38.757003,-104.814235
+677,Colorado,2017-18,Lewis-Palmer Elementary,Kindergarten,El Paso,Poudre R-1,47,97.87,89.36,0,8.51,0,39.098222,-104.850278
+678,Colorado,2017-18,Madison Elementary,Kindergarten,El Paso,Jefferson County R-1,47,97.87,93.62,0,4.26,0,38.862466,-104.749336
+679,Colorado,2017-18,Columbine Hills Elementary,Kindergarten,Jefferson,Douglas County RE 1,46,97.83,93.48,0,2.17,2.17,39.576168,-105.062039
+680,Colorado,2017-18,Edwards Elementary,Kindergarten,Eagle,Lewis-Palmer 38,46,97.83,97.83,0,0,0,39.643426,-106.605266
+681,Colorado,2017-18,Glennon Heights Elementary,Kindergarten,Jefferson,Jefferson County R-1,46,97.83,95.65,0,2.17,0,39.706835,-105.122081
+682,Colorado,2017-18,Liberty Point Elementary,Kindergarten,Pueblo,Montezuma-Cortez RE-1,46,97.83,86.96,0,4.35,0,38.318698,-104.727158
+683,Colorado,2017-18,Meadow Community,Kindergarten,Adams,Cherry Creek 5,46,97.83,97.83,0,0,0,39.860795,-104.943584
+684,Colorado,2017-18,Bear Creek Elementary,Kindergarten,El Paso,Douglas County RE 1,91,97.8,95.6,0,2.2,0,39.067079,-104.841562
+685,Colorado,2017-18,Mountain View Elementary,Kindergarten,Broomfield,Academy 20,91,97.8,96.7,0,1.1,0,39.923155,-105.040268
+686,Colorado,2017-18,Lincoln Elementary,Kindergarten,Delta,Pueblo County 70,90,97.78,91.11,0,6.67,0,38.73228,-108.060724
+687,Colorado,2017-18,T.R. Paul Academy Of Arts & Knowledge,Kindergarten,Larimer,Alamosa Re-11J,45,97.78,88.89,0,8.89,0,40.51986,-105.052841
+688,Colorado,2017-18,Scott Elementary,Kindergarten,Weld,Canon City RE-1,89,97.75,95.51,0,2.25,0,40.417676,-104.729102
+689,Colorado,2017-18,Cotton Creek Elementary,Kindergarten,Adams,Jefferson County R-1,88,97.73,97.73,0,0,0,39.897909,-105.045312
+690,Colorado,2017-18,John W Thimmig Elementary,Kindergarten,Adams,Logan County,88,97.73,93.18,0,4.55,0,39.904876,-104.850445
+691,Colorado,2017-18,Sherrelwood Elementary,Kindergarten,Adams,Adams 12 Five Star Schools,43,97.67,97.67,0,0,0,39.843745,-105.001274
+692,Colorado,2017-18,Carbon Valley Academy,Kindergarten,Boulder,Academy 20,42,97.62,92.86,0,4.76,0,40.1132102,-104.9778313
+693,Colorado,2017-18,Harris Park Elementary,Kindergarten,Adams,Adams-Arapahoe 28J,42,97.62,95.24,0,2.38,0,39.832047,-105.04627
+694,Colorado,2017-18,Vassar Elementary,Kindergarten,Arapahoe,Denver County 1,84,97.62,94.05,0,2.38,1.19,39.669507,-104.777131
+695,Colorado,2017-18,Walnut Hills Community Elementary,Kindergarten,Arapahoe,Jefferson County R-1,42,97.62,92.86,0,2.38,2.38,39.590129,-104.896204
+696,Colorado,2017-18,Steele Elementary,Kindergarten,Denver,Brighton School District,83,97.59,95.18,0,2.41,0,39.710214,-104.971678
+697,Colorado,2017-18,Knapp Elementary,Kindergarten,Denver,Kit Carson R-1,81,97.53,95.06,0,2.47,0,39.708097,-105.045723
+698,Colorado,2017-18,Ridgeview Elementary,Kindergarten,El Paso,Jefferson County R-1,121,97.52,93.39,0,4.13,0,38.921574,-104.699605
+699,Colorado,2017-18,Community Montessori,Kindergarten,Boulder,Westminster Public Schools,40,97.5,62.5,0,35,0,39.98132,-105.251699
+700,Colorado,2017-18,Plum Creek Academy,Kindergarten,Douglas,Douglas County RE 1,40,97.5,95,0,0,2.5,39.546727,-105.0336662
+701,Colorado,2017-18,Stober Elementary,Kindergarten,Jefferson,Adams 12 Five Star Schools,40,97.5,90,0,7.5,0,39.751615,-105.13232
+702,Colorado,2017-18,High Tech Elementary,Kindergarten,Denver,Westminster Public Schools,79,97.47,97.47,0,0,0,39.789362,-104.889005
+703,Colorado,2017-18,North Mor Elementary,Kindergarten,Adams,Douglas County RE 1,79,97.47,94.94,0,2.53,0,39.870538,-104.990729
+704,Colorado,2017-18,Carson Elementary,Kindergarten,Denver,Valley RE-1,78,97.44,97.44,0,0,0,39.717377,-104.924159
+705,Colorado,2017-18,Powderhorn Elementary,Kindergarten,Jefferson,Denver County 1,78,97.44,93.59,0,3.85,0,39.603406,-105.134644
+706,Colorado,2017-18,St. Vrain Community Montessori,Kindergarten,Boulder,Denver County 1,39,97.44,56.41,0,41.03,0,40.147549,-105.132714
+707,Colorado,2017-18,Dalton Elementary,Kindergarten,Arapahoe,Douglas County RE 1,76,97.37,94.74,0,2.63,0,39.65956,-104.7855
+708,Colorado,2017-18,Kullerstrand Elementary,Kindergarten,Jefferson,Johnstown-milliken RE-5J,38,97.37,81.58,0,13.16,2.63,39.768678,-105.136166
+709,Colorado,2017-18,Milliken Elementary,Kindergarten,Weld,Meeker RE1,75,97.33,97.33,0,0,0,40.329585,-104.866015
+710,Colorado,2017-18,Bella Romero Academy Of Applied Technology,Kindergarten,Weld,Poudre R-1,112,97.32,94.64,0,2.68,0,40.405648,-104.656318
+711,Colorado,2017-18,Columbian Elementary,Kindergarten,Denver,Englewood 1,37,97.3,97.3,0,0,0,39.772622,-105.023595
+712,Colorado,2017-18,Welby Communityi,Kindergarten,Adams,Boulder Valley RE 2,37,97.3,97.3,0,0,0,39.8375206,-104.974585
+713,Colorado,2017-18,Clara E. Metz Elementary,Kindergarten,Adams,Denver County 1,36,97.22,97.22,0,0,0,39.844653,-105.014597
+714,Colorado,2017-18,Louisville Elementary,Kindergarten,Boulder,St Vrain Valley Re 1J,72,97.22,91.67,0,5.56,0,39.975056,-105.138334
+715,Colorado,2017-18,Penrose Elementary,Kindergarten,Fremont,Summit RE-1,36,97.22,88.89,0,8.33,0,38.421076,-105.018967
+716,Colorado,2017-18,Putnam Elementary,Kindergarten,Larimer,Poudre R-1,72,97.22,94.44,0,2.78,0,40.591835,-105.101892
+717,Colorado,2017-18,Bradley International,Kindergarten,Denver,St Vrain Valley Re 1J,71,97.18,97.18,0,0,0,39.663362,-104.929823
+718,Colorado,2017-18,Dillon Valley Elementary,Kindergarten,Summit,Denver County 1,71,97.18,88.73,0,4.23,0,39.639423,-106.039473
+719,Colorado,2017-18,Akron K-12 Schools,Kindergarten,Washington,Brighton School District,35,97.14,94.29,0,2.86,0,40.1645421,-103.2044978
+720,Colorado,2017-18,Alamosa Elementary,Kindergarten,Alamosa,Mapleton 1,175,97.14,82.29,0,0,0,37.463035,-105.885503
+721,Colorado,2017-18,Ben Franklin Academy,Kindergarten,Douglas,Cherry Creek 5,104,97.12,91.35,0,5.77,0,39.559125,-105.016445
+722,Colorado,2017-18,Sabin World,Kindergarten,Denver,Colorado Springs 11,104,97.12,94.23,0,2.88,0,39.659477,-105.045967
+723,Colorado,2017-18,Birch Elementary,Kindergarten,Boulder,Pueblo County 70,69,97.1,94.2,0,2.9,0,39.93037,-105.059395
+724,Colorado,2017-18,King Elementary,Kindergarten,El Paso,St Vrain Valley Re 1J,69,97.1,95.65,0,1.45,0,38.920368,-104.769959
+725,Colorado,2017-18,Farrell B. Howell Ece-8,Kindergarten,Denver,Colorado School For The Deaf And Blind,68,97.06,95.59,0,1.47,0,39.776524,-104.832618
+726,Colorado,2017-18,Lois Lenski Elementary,Kindergarten,Arapahoe,Poudre R-1,101,97.03,92.08,0,3.96,0.99,39.601693,-104.930654
+727,Colorado,2017-18,Belleview Elementary,Kindergarten,Arapahoe,Poudre R-1,67,97.01,97.01,0,0,0,39.628417,-104.877141
+728,Colorado,2017-18,Cottonwood Plains Elementary,Kindergarten,Larimer,Canon City RE-1,67,97.01,94.03,0,2.99,0,40.473337,-105.069138
+729,Colorado,2017-18,Lansing Elementary Community,Kindergarten,Arapahoe,Hinsdale County RE 1,66,96.97,93.94,0,3.03,0,39.72393,-104.859862
+730,Colorado,2017-18,Brush Creek Elementary,Kindergarten,Eagle,Boulder Valley RE 2,64,96.88,93.75,0,3.13,0,39.638282,-106.830893
+731,Colorado,2017-18,Chappelow K-8 Magnet,Kindergarten,Weld,Englewood 1,63,96.83,93.65,0,3.17,0,40.381947,-104.709318
+732,Colorado,2017-18,Gold Camp Elementary,Kindergarten,El Paso,Adams County,62,96.77,91.94,0,4.84,0,38.807918,-104.859724
+733,Colorado,2017-18,Ridgeview Classical Charter Schools,Kindergarten,Larimer,Charter School Institute,62,96.77,87.1,0,9.68,0,40.562824,-105.057344
+734,Colorado,2017-18,Newlon Elementary,Kindergarten,Denver,Greeley 6,61,96.72,95.08,0,1.64,0,39.721658,-105.04626
+735,Colorado,2017-18,Whittier Elementary,Kindergarten,Boulder,Thompson R2-J,61,96.72,81.97,0,13.11,0,40.021697,-105.269548
+736,Colorado,2017-18,Molholm Elementary,Kindergarten,Jefferson,Pueblo City 60,60,96.67,95,0,0,1.67,39.731038,-105.063572
+737,Colorado,2017-18,Pear Park Elementary,Kindergarten,Mesa,Pueblo City 60,60,96.67,91.67,0,3.33,0,39.067713,-108.490538
+738,Colorado,2017-18,American Academy,Kindergarten,Douglas,Douglas County RE 1,298,96.64,94.97,0.34,1.01,0.34,39.46365,-104.88762
+739,Colorado,2017-18,Salida Del Sol Academy,Kindergarten,Weld,Denver County 1,89,96.63,95.51,0,1.12,0,40.395926,-104.676906
+740,Colorado,2017-18,Marshdale Elementary,Kindergarten,Jefferson,Manzanola 3J,59,96.61,93.22,0,3.39,0,39.588623,-105.303253
+741,Colorado,2017-18,Munroe Elementary,Kindergarten,Denver,Jefferson County R-1,59,96.61,96.61,0,0,0,39.70742,-105.03162
+742,Colorado,2017-18,Union Colony Elementary,Kindergarten,Weld,Littleton 6,59,96.61,91.53,0,3.39,0,40.389721,-104.696101
+743,Colorado,2017-18,Alice Terry Elementary,Kindergarten,Arapahoe,Alamosa Re-11J,88,96.59,93.18,0,1.14,0,39.645138,-105.033714
+744,Colorado,2017-18,Chipeta Elementary,Kindergarten,Mesa,Cheyenne County RE-5,58,96.55,94.83,0,1.72,0,39.072733,-108.556713
+745,Colorado,2017-18,Hopkins Elementary,Kindergarten,Arapahoe,Trinidad 1,58,96.55,94.83,0,0,0,39.588016,-104.981374
+746,Colorado,2017-18,Littleton Prep Charter,Kindergarten,Arapahoe,Mesa County Valley 51,58,96.55,94.83,0,1.72,0,39.619336,-104.991618
+747,Colorado,2017-18,Needham Elementary,Kindergarten,La Plata,Denver County 1,58,96.55,91.38,0,5.17,0,37.290702,-107.878509
+748,Colorado,2017-18,Pioneer Elementary,Kindergarten,Douglas,Jefferson County R-1,58,96.55,93.1,1.72,0,1.72,39.515443,-104.740467
+749,Colorado,2017-18,Steck Elementary,Kindergarten,Denver,St Vrain Valley Re 1J,58,96.55,93.1,0,1.72,1.72,39.72401,-104.939001
+750,Colorado,2017-18,Pine Ridge Elementary,Kindergarten,Arapahoe,Fremont RE-2,143,96.5,91.61,0,2.1,0,39.598972,-104.692827
+751,Colorado,2017-18,Josephine Hodgkins Elementary,Kindergarten,Adams,Littleton 6,114,96.49,95.61,0,0.88,0,39.82432,-105.0421
+752,Colorado,2017-18,Mount Carbon Elementary,Kindergarten,Jefferson,Thompson R2-J,57,96.49,92.98,1.75,1.75,0,39.614064,-105.142005
+753,Colorado,2017-18,Deer Creek Elementary,Kindergarten,Park,Cotopaxi RE-3,56,96.43,91.07,0,5.36,0,39.455389,-105.472917
+754,Colorado,2017-18,Rooney Ranch Elementary,Kindergarten,Jefferson,Adams 12 Five Star Schools,84,96.43,90.48,0,5.95,0,39.677319,-105.151709
+755,Colorado,2017-18,North Star Elementary,Kindergarten,Adams,Steamboat Springs RE-2,55,96.36,90.91,0,5.45,0,39.85522,-104.992496
+756,Colorado,2017-18,University Prep - Arapaho,Kindergarten,Denver,Brighton School District,55,96.36,96.36,0,0,0,39.7559997,-104.9856983
+757,Colorado,2017-18,Mead Elementary,Kindergarten,Boulder,Greeley 6,82,96.34,93.9,0,2.44,0,40.2324986,-105.0021415
+758,Colorado,2017-18,Parker Performing Arts,Kindergarten,Douglas,Cherry Creek 5,82,96.34,90.24,0,6.1,0,39.5598939,-104.8136623
+759,Colorado,2017-18,Sable Elementary,Kindergarten,Arapahoe,St Vrain Valley Re 1J,82,96.34,95.12,0,1.22,0,39.7538947,-104.820036
+760,Colorado,2017-18,Eastridge Community Elementary,Kindergarten,Arapahoe,Denver County 1,109,96.33,94.5,0,0,0.92,39.673168,-104.851344
+761,Colorado,2017-18,Chatfield Elementary,Kindergarten,Mesa,Brighton School District,54,96.3,92.59,0,3.7,0,39.070967,-108.461524
+762,Colorado,2017-18,Christa Mcauliffe Stem Academy,Kindergarten,Weld,St Vrain Valley Re 1J,108,96.3,92.59,0,2.78,0,40.4282548,-104.7654334
+763,Colorado,2017-18,Free Horizon Montessori Charter,Kindergarten,Jefferson,Garfield RE-2,54,96.3,85.19,0,11.11,0,39.720048,-105.190523
+764,Colorado,2017-18,Mc Kinley-Thatcher Elementary,Kindergarten,Denver,Denver County 1,27,96.3,85.19,3.7,7.41,0,39.693817,-104.983631
+765,Colorado,2017-18,Odyssey School Of Denver,Kindergarten,Denver,Delta County 50(J),27,96.3,88.89,0,7.41,0,39.748172,-104.911752
+766,Colorado,2017-18,Stony Creek Elementary,Kindergarten,Jefferson,Douglas County RE 1,54,96.3,94.44,0,1.85,0,39.585776,-105.097623
+767,Colorado,2017-18,Kohl Elementary,Kindergarten,Boulder,Douglas County RE 1,53,96.23,92.45,0,3.77,0,39.9278407,-105.0821525
+768,Colorado,2017-18,Dos Rios Elementary,Kindergarten,Weld,Littleton 6,79,96.2,96.2,0,0,0,40.382048,-104.71269
+769,Colorado,2017-18,Foundations Academy,Kindergarten,Adams,Frenchman RE-3,79,96.2,84.81,0,10.13,1.27,39.982704,-104.760175
+770,Colorado,2017-18,Renaissance Secondary,Kindergarten,Douglas,Brighton School District,341,96.19,92.38,0.29,3.52,0,39.401102,-104.856405
+771,Colorado,2017-18,Stetson Elementary,Kindergarten,El Paso,Poudre R-1,105,96.19,89.52,0,6.67,0,38.9059,-104.700978
+772,Colorado,2017-18,Johnson Elementary,Kindergarten,Denver,Adams 12 Five Star Schools,52,96.15,96.15,0,0,0,39.683652,-105.029259
+773,Colorado,2017-18,Mc Elwain Elementary,Kindergarten,Adams,St Vrain Valley Re 1J,78,96.15,93.59,0,1.28,1.28,39.851231,-104.973428
+774,Colorado,2017-18,Sand Creek Elementary,Kindergarten,El Paso,Greeley 6,77,96.1,92.21,0,3.9,0,38.824377,-104.74037
+775,Colorado,2017-18,William (Bill) Roberts K-8,Kindergarten,Denver,St Vrain Valley Re 1J,128,96.09,94.53,0,1.56,0,39.748099,-104.882834
+776,Colorado,2017-18,Mesa Elementary,Kindergarten,Adams,Boulder Valley RE 2,51,96.08,90.2,0,5.88,0,39.861067,-105.033795
+777,Colorado,2017-18,Taylor Elementary,Kindergarten,Mesa,Cherry Creek 5,51,96.08,90.2,0,5.88,0,39.104545,-108.353212
+778,Colorado,2017-18,Stem,Kindergarten,Douglas,Montrose County RE-1j,76,96.05,89.47,1.32,3.95,1.32,39.5558326,-104.9979225
+779,Colorado,2017-18,Deane Elementary,Kindergarten,Jefferson,Creede School District,50,96,92,0,2,2,39.706683,-105.061828
+780,Colorado,2017-18,Peakview Elementary,Kindergarten,Arapahoe,West End RE-2,75,96,89.33,0,2.67,1.33,39.622981,-104.762565
+781,Colorado,2017-18,Sunrise Elementary,Kindergarten,Arapahoe,Denver County 1,75,96,92,0,1.33,0,39.643705,-104.757309
+782,Colorado,2017-18,Thomson Elementary,Kindergarten,Jefferson,Douglas County RE 1,50,96,94,0,0,2,39.837413,-105.061514
+783,Colorado,2017-18,Basalt Elementary,Kindergarten,Garfield,Adams-Arapahoe 28J,99,95.96,92.93,0,2.02,1.01,39.3656572,-107.0304775
+784,Colorado,2017-18,Creativity Challenge Community,Kindergarten,Denver,Colorado Springs 11,49,95.92,87.76,0,8.16,0,39.68873,-104.945851
+785,Colorado,2017-18,The Classical Academy Charter K-12 Schools,Kindergarten,El Paso,Denver County 1,368,95.92,82.07,0.54,11.96,1.36,38.9685361,-104.7958334
+786,Colorado,2017-18,Prairie Ridge Elementary,Kindergarten,Boulder,Jefferson County R-1,73,95.89,89.04,0,6.85,0,40.1519335,-104.9309104
+787,Colorado,2017-18,Southmoor Elementary,Kindergarten,Denver,Douglas County RE 1,73,95.89,94.52,0,1.37,0,39.648121,-104.911953
+788,Colorado,2017-18,Eldorado K-8,Kindergarten,Boulder,Cherry Creek 5,48,95.83,91.67,0,2.08,0,39.921417,-105.161301
+789,Colorado,2017-18,Haaff Elementary,Kindergarten,Pueblo,Broomfield County,48,95.83,89.58,0,6.25,0,38.297454,-104.599546
+790,Colorado,2017-18,Jackson Elementary,Kindergarten,Weld,Adams 12 Five Star Schools,72,95.83,94.44,0,0,0,40.395701,-104.711266
+791,Colorado,2017-18,Laurene Edmondson Elementary,Kindergarten,Larimer,La Veta RE-2,48,95.83,95.83,0,0,0,40.442893,-105.080178
+792,Colorado,2017-18,Monterey Elementary,Kindergarten,El Paso,Denver County 1,72,95.83,94.44,0,1.39,0,38.799772,-104.767615
+793,Colorado,2017-18,Stein Elementary,Kindergarten,Jefferson,Boulder Valley RE 2,48,95.83,91.67,0,4.17,0,39.71532,-105.0761233
+794,Colorado,2017-18,Truscott Elementary,Kindergarten,Larimer,Adams 12 Five Star Schools,48,95.83,87.5,0,6.25,2.08,40.398064,-105.07894
+795,Colorado,2017-18,Lincoln Elementary,Kindergarten,Denver,Jefferson County R-1,47,95.74,91.49,0,4.26,0,39.703577,-104.980723
+796,Colorado,2017-18,Rim Rock Elementary,Kindergarten,Mesa,Poudre R-1,94,95.74,93.62,0,0,0,39.15992,-108.712137
+797,Colorado,2017-18,Arapahoe Ridge Elementary,Kindergarten,Adams,Akron R-1,70,95.71,90,0,4.29,1.43,39.935259,-105.007164
+798,Colorado,2017-18,Florida Pitt Waller Ece-8,Kindergarten,Denver,St Vrain Valley Re 1J,70,95.71,92.86,0,2.86,0,39.789911,-104.73657
+799,Colorado,2017-18,Antelope Trails Elementary,Kindergarten,El Paso,Douglas County RE 1,69,95.65,68.12,0,5.8,0,39.054609,-104.826465
+800,Colorado,2017-18,East Elementary,Kindergarten,Moffat,Summit RE-1,23,95.65,91.3,0,0,4.35,40.51689,-107.536919
+801,Colorado,2017-18,Gilcrest Elementary,Kindergarten,Weld,Academy 20,23,95.65,95.65,0,0,0,40.287226,-104.778714
+802,Colorado,2017-18,Ignacio Elementary,Kindergarten,La Plata,Cherry Creek 5,46,95.65,89.13,2.17,4.35,0,37.117593,-107.637854
+803,Colorado,2017-18,Renaissance Expedition Learn Outward Bound,Kindergarten,Douglas,Falcon 49,46,95.65,93.48,0,2.17,0,39.402856,-104.857408
+804,Colorado,2017-18,Semper Elementary,Kindergarten,Jefferson,Denver County 1,46,95.65,93.48,0,0,2.17,39.871999,-105.080116
+805,Colorado,2017-18,Stargate Charter,Kindergarten,Adams,Thompson R2-J,92,95.65,94.57,0,1.09,0,39.95981,-104.977555
+806,Colorado,2017-18,Twain Elementary,Kindergarten,El Paso,Poudre R-1,69,95.65,95.65,0,0,0,38.851125,-104.766774
+807,Colorado,2017-18,Creekside Elementary,Kindergarten,Arapahoe,Academy 20,91,95.6,91.21,1.1,1.1,0,39.579041,-104.75696
+808,Colorado,2017-18,Independence Elementary,Kindergarten,Arapahoe,Adams-Arapahoe 28J,91,95.6,86.81,0,7.69,0,39.631866,-104.797891
+809,Colorado,2017-18,Cougar Run Elementary,Kindergarten,Douglas,Clear Creek RE-1,68,95.59,95.59,0,0,0,39.555743,-104.94781
+810,Colorado,2017-18,Cenpatico,Kindergarten,Denver,Arapahoe County,22,95.45,95.45,0,0,0,39.7736464,-105.0034461
+811,Colorado,2017-18,Journey Program(Expelled),Private,Larimer,Boulder Valley RE 2,22,95.45,95.45,0,0,0,40.6955572,-105.5943388
+812,Colorado,2017-18,Lone Tree Elementary,Kindergarten,Douglas,Jefferson County R-1,66,95.45,92.42,0,3.03,0,39.538394,-104.879956
+813,Colorado,2017-18,Mitchell Elementary,Kindergarten,Jefferson,Cherry Creek 5,88,95.45,93.18,0,2.27,0,39.761879,-105.231972
+814,Colorado,2017-18,Monterey Community,Kindergarten,Adams,Greeley 6,44,95.45,95.45,0,0,0,39.852159,-104.960995
+815,Colorado,2017-18,Goldrick Elementary,Kindergarten,Denver,Falcon 49,65,95.38,95.38,0,0,0,39.697605,-105.015321
+816,Colorado,2017-18,Grand Valley Center For Family Learning,Kindergarten,Garfield,Jefferson County R-1,65,95.38,87.69,0,4.62,3.08,39.453424,-108.053514
+817,Colorado,2017-18,Howbert Elementary,Kindergarten,El Paso,Boulder Valley RE 2,43,95.35,90.7,0,2.33,2.33,38.86556,-104.86742
+818,Colorado,2017-18,Lukas Elementary,Kindergarten,Jefferson,Mesa County Valley 51,64,95.31,92.19,0,3.13,0,39.8732013,-105.1023248
+819,Colorado,2017-18,Sandburg Elementary,Kindergarten,Arapahoe,Boulder Valley RE 2,85,95.29,91.76,0,2.35,1.18,39.590669,-104.954519
+820,Colorado,2017-18,Cesar Chavez Academy Denver,Kindergarten,Denver,Greeley 6,21,95.24,95.24,0,0,0,39.768702,-105.043716
+821,Colorado,2017-18,Pikes Peak School Expeditionary Learning,Kindergarten,El Paso,Charter School Institute,42,95.24,85.71,0,9.52,0,38.999458,-104.60506
+822,Colorado,2017-18,Swansea Elementary,Kindergarten,Denver,Falcon 49,63,95.24,95.24,0,0,0,39.781344,-104.956703
+823,Colorado,2017-18,Timberline Elementary,Kindergarten,Arapahoe,Jefferson County R-1,84,95.24,89.29,0,1.19,1.19,39.616737,-104.747939
+824,Colorado,2017-18,Maplewood Elementary,Kindergarten,Weld,Manitou Springs 14,104,95.19,95.19,0,0,0,40.419818,-104.711937
+825,Colorado,2017-18,Florida Mesa Elementary,Kindergarten,La Plata,St Vrain Valley Re 1J,62,95.16,91.94,0,3.23,0,37.225979,-107.794885
+826,Colorado,2017-18,Foothills Elementary,Kindergarten,El Paso,Colorado Springs 11,62,95.16,70.97,0,6.45,0,38.930927,-104.843435
+827,Colorado,2017-18,Tennyson Knolls Elementary,Kindergarten,Adams,Cherry Creek 5,62,95.16,95.16,0,0,0,39.811674,-105.043269
+828,Colorado,2017-18,Cherry Drive Elementary,Kindergarten,Adams,Lamar RE-2,41,95.12,92.68,0,0,2.44,39.901947,-104.928873
+829,Colorado,2017-18,Colorado Academy,Kindergarten,Jefferson,Douglas County RE 1,41,95.12,95.12,0,0,0,39.64781,-105.067551
+830,Colorado,2017-18,Parr Elementary,Kindergarten,Jefferson,Denver County 1,41,95.12,90.24,0,4.88,0,39.849007,-105.061138
+831,Colorado,2017-18,Silverthorne Elementary,Kindergarten,Summit,Denver County 1,41,95.12,75.61,0,4.88,0,39.660434,-106.082981
+832,Colorado,2017-18,Centennial Academy Of Fine Arts Education,Kindergarten,Arapahoe,Denver County 1,102,95.1,93.14,0,1.96,0,39.616374,-105.030094
+833,Colorado,2017-18,Denver Academy,Kindergarten,Denver,Douglas County,387,95.09,94.32,0.26,0.52,0,39.6736228,-104.9343983
+834,Colorado,2017-18,Chavez/Huerta K-12 Preparatory Academy,Kindergarten,Pueblo,Pueblo City 60,61,95.08,91.8,0,3.28,0,38.282939,-104.649962
+835,Colorado,2017-18,Meeker Elementary,Kindergarten,Weld,Poudre R-1,81,95.06,95.06,0,0,0,40.401281,-104.728722
+836,Colorado,2017-18,University Park Elementary,Kindergarten,Denver,Colorado Springs 11,81,95.06,92.59,0,2.47,0,39.674424,-104.950522
+837,Colorado,2017-18,Castle Rock Elementary,Kindergarten,Douglas,Pueblo County 70,60,95,85,0,8.33,0,39.382568,-104.848111
+838,Colorado,2017-18,Hallett Fundamental Academy,Kindergarten,Denver,Mapleton 1,40,95,95,0,0,0,39.7595149,-104.9182016
+839,Colorado,2017-18,Seventh Street Elementary,Kindergarten,Dolores,Littleton 6,20,95,80,0,15,0,37.769396,-108.903502
+840,Colorado,2017-18,Bayfield Elementary,Kindergarten,La Plata,St Vrain Valley Re 1J,99,94.95,87.88,0,7.07,0,37.226209,-107.593728
+841,Colorado,2017-18,Tollgate Elementary School Of Expeditionary Learning,Kindergarten,Arapahoe,Poudre R-1,79,94.94,92.41,0,2.53,0,39.702564,-104.8026443
+842,Colorado,2017-18,Heiman Elementary,Kindergarten,Weld,Colorado Springs 11,117,94.87,93.16,0.85,0.85,0,40.381794,-104.747852
+843,Colorado,2017-18,Mary Blair Elementary,Kindergarten,Larimer,Monte Vista C-8,39,94.87,89.74,0,5.13,0,40.421136,-105.065209
+844,Colorado,2017-18,Red Hawk Ridge Elementary,Kindergarten,Arapahoe,Jefferson County R-1,78,94.87,92.31,0,2.56,0,39.583185,-104.799608
+845,Colorado,2017-18,Skyway Park Elementary,Kindergarten,El Paso,Westminster Public Schools,39,94.87,84.62,0,7.69,2.56,38.806259,-104.849676
+846,Colorado,2017-18,Gust Elementary,Kindergarten,Denver,Boulder County,97,94.85,93.81,0,1.03,0,39.667054,-105.03155
+847,Colorado,2017-18,Cedaredge Elementary,Kindergarten,Delta,Jefferson County R-1,58,94.83,86.21,0,8.62,0,38.90409,-107.924071
+848,Colorado,2017-18,Leroy Drive Elementary,Kindergarten,Adams,Weld County S/d RE-8,58,94.83,89.66,0,5.17,0,39.889534,-104.968826
+849,Colorado,2017-18,Animas Valley Elementary,Kindergarten,La Plata,Cherry Creek 5,38,94.74,81.58,0,13.16,0,37.40198,-107.835187
+850,Colorado,2017-18,Denison Montessori,Kindergarten,Denver,Cherry Creek 5,57,94.74,87.72,1.75,3.51,1.75,39.683271,-105.051301
+851,Colorado,2017-18,Indian Peaks Elementary,Kindergarten,Boulder,Eagle County RE 50,38,94.74,94.74,0,0,0,40.14313,-105.118346
+852,Colorado,2017-18,Isabella Bird Community,Kindergarten,Denver,Falcon 49,76,94.74,90.79,1.32,2.63,0,39.755392,-104.857408
+853,Colorado,2017-18,Runyon Elementary,Kindergarten,Arapahoe,Academy 20,75,94.67,93.33,0,1.33,0,39.585572,-104.998866
+854,Colorado,2017-18,Moody Elementary,Kindergarten,Arapahoe,Miami/Yoder 60 JT,56,94.64,94.64,0,0,0,39.601434,-105.00654
+855,Colorado,2017-18,Pioneer Elementary,Kindergarten,El Paso,Douglas County RE 1,56,94.64,92.86,0,1.79,0,38.931543,-104.757713
+856,Colorado,2017-18,South Mesa Elementary,Kindergarten,Pueblo,Denver County 1,56,94.64,92.86,0,1.79,0,38.232305,-104.548587
+857,Colorado,2017-18,South Park Elementary,Kindergarten,Pueblo,Sierra Grande R-30,56,94.64,94.64,0,0,0,38.215146,-104.65323
+858,Colorado,2017-18,Columbine Elementary,Kindergarten,Teller,Greeley 6,37,94.59,91.89,0,2.7,0,39.006246,-105.054563
+859,Colorado,2017-18,Green Mountain Elementary,Kindergarten,Jefferson,Greeley 6,37,94.59,94.59,0,0,0,39.698943,-105.131513
+860,Colorado,2017-18,Hillcrest Elementary,Kindergarten,Adams,Center 26 JT,74,94.59,93.24,0,1.35,0,39.883251,-105.000679
+861,Colorado,2017-18,Parmalee Elementary,Kindergarten,Jefferson,Rangely RE-4,37,94.59,91.89,2.7,0,0,39.638211,-105.269992
+862,Colorado,2017-18,Peakview,Kindergarten,Huerfano,Denver County 1,37,94.59,94.59,0,0,0,37.632181,-104.791478
+863,Colorado,2017-18,Sunset Elementary,Kindergarten,Moffat,Summit RE-1,37,94.59,83.78,0,8.11,2.7,40.517663,-107.556524
+864,Colorado,2017-18,Colo Springs Christian Schools,Kindergarten,El Paso,Jefferson County R-1,55,94.55,63.64,0,14.55,3.64,38.8973901,-104.8120808
+865,Colorado,2017-18,Dps Ece Escalante Biggs Academy,Kindergarten,Denver,Arapahoe County,165,94.55,93.33,0.61,0.61,0,39.7911817,-104.8234826
+866,Colorado,2017-18,Minnequa Elementary,Kindergarten,Pueblo,Jefferson County R-1,55,94.55,90.91,0,3.64,0,38.236088,-104.620131
+867,Colorado,2017-18,Bricker Elementary,Kindergarten,El Paso,Bennett 29J,72,94.44,90.28,1.39,2.78,0,38.800918,-104.736846
+868,Colorado,2017-18,Frisco Elementary,Kindergarten,Summit,Colorado Springs 11,36,94.44,80.56,2.78,11.11,0,39.570931,-106.090358
+869,Colorado,2017-18,Pennington Elementary,Kindergarten,Jefferson,Plateau RE-5,18,94.44,94.44,0,0,0,39.780705,-105.106864
+870,Colorado,2017-18,Sangre De Cristo K-12 Schools,Kindergarten,Alamosa,Douglas County RE 1,18,94.44,88.89,0,5.56,0,37.4836316,-105.8948945
+871,Colorado,2017-18,The Studio,Kindergarten,Adams,Westminster Public Schools,36,94.44,83.33,0,8.33,2.78,39.888906,-104.98191
+872,Colorado,2017-18,Winona Elementary,Kindergarten,Larimer,Montrose County RE-1j,54,94.44,88.89,0,5.56,0,40.39075,-105.055118
+873,Colorado,2017-18,Dennison Elementary,Kindergarten,Jefferson,Cherry Creek 5,89,94.38,93.26,0,0,1.12,39.721585,-105.106179
+874,Colorado,2017-18,Leawood Elementary,Kindergarten,Jefferson,Jefferson County R-1,70,94.29,92.86,0,1.43,0,39.607171,-105.06579
+875,Colorado,2017-18,Morton Elementary,Kindergarten,Pueblo,Mapleton 1,70,94.29,94.29,0,0,0,38.300374,-104.632407
+876,Colorado,2017-18,Green Valley Elementary,Kindergarten,Denver,Weld County RE-1,87,94.25,93.1,0,1.15,0,39.772915,-104.748222
+877,Colorado,2017-18,James Irwin Charter Academy,Kindergarten,El Paso,Denver County 1,52,94.23,92.31,0,1.92,0,38.857844,-104.781927
+878,Colorado,2017-18,District 9-R Shared,Kindergarten,La Plata,Garfield RE-2,17,94.12,52.94,0,41.18,0,37.27646,-107.878261
+879,Colorado,2017-18,Limon Elementary,Kindergarten,Lincoln,Adams-Arapahoe 28J,34,94.12,91.18,0,2.94,0,39.269163,-103.68886
+880,Colorado,2017-18,Lumberg Elementary,Kindergarten,Jefferson,Denver County 1,51,94.12,92.16,0,0,1.96,39.75022,-105.070902
+881,Colorado,2017-18,Monroe Elementary,Kindergarten,Larimer,Douglas County RE 1,34,94.12,94.12,0,0,0,40.4082213,-105.0674593
+882,Colorado,2017-18,Sagebrush Elementary,Kindergarten,Arapahoe,Charter School Institute,51,94.12,86.27,0,0,1.96,39.632039,-104.818247
+883,Colorado,2017-18,Rock Ridge Elementary,Kindergarten,Douglas,Thompson R2-J,67,94.03,91.04,0,2.99,0,39.372076,-104.813934
+884,Colorado,2017-18,Clayton Partnership,Kindergarten,Adams,Adams-Arapahoe 28J,50,94,94,0,0,0,39.862774,-104.95752
+885,Colorado,2017-18,Columbine Elementary,Kindergarten,Boulder,Denver County 1,50,94,90,0,2,2,40.1701602,-105.0958828
+886,Colorado,2017-18,Palmer Elementary,Kindergarten,Denver,Ouray R-1,50,94,92,0,2,0,39.732306,-104.924979
+887,Colorado,2017-18,Monfort Elementary,Kindergarten,Weld,Jefferson County R-1,83,93.98,90.36,0,2.41,1.2,40.405547,-104.757426
+888,Colorado,2017-18,Vanguard Classical School - East,Kindergarten,Arapahoe,Del Norte C-7,83,93.98,93.98,0,0,0,39.702564,-104.786701
+889,Colorado,2017-18,Yale Elementary,Kindergarten,Arapahoe,Colorado Springs 11,83,93.98,90.36,0,2.41,1.2,39.66815,-104.803299
+890,Colorado,2017-18,Ponderosa Elementary,Kindergarten,Arapahoe,Mesa County Valley 51,116,93.97,91.38,0,0.86,0,39.683107,-104.857752
+891,Colorado,2017-18,Blue Mountain Elementary,Kindergarten,Boulder,Bethune R-5,66,93.94,90.91,0,3.03,0,40.144206,-105.1733
+892,Colorado,2017-18,Highline Academy Southeast,Kindergarten,Denver,Denver County 1,49,93.88,87.76,0,6.12,0,39.677063,-104.93091
+893,Colorado,2017-18,Blue Heron Elementary,Kindergarten,Jefferson,Douglas County RE 1,48,93.75,83.33,0,10.42,0,39.613166,-105.062445
+894,Colorado,2017-18,Coal Creek Elementary,Kindergarten,Boulder,Estes Park R-3,48,93.75,89.58,0,2.08,0,39.982798,-105.157703
+895,Colorado,2017-18,Flagstaff Charter Academy,Kindergarten,Boulder,Poudre R-1,80,93.75,91.25,0,2.5,0,40.14195,-105.124175
+896,Colorado,2017-18,Governor's Ranch Elementary,Kindergarten,Jefferson,Denver County 1,48,93.75,93.75,0,0,0,39.620099,-105.099029
+897,Colorado,2017-18,Holyoke School K-12,Kindergarten,Phillips,Cherry Creek 5,48,93.75,83.33,0,2.08,0,40.5817726,-102.2960993
+898,Colorado,2017-18,Madison Elementary,Kindergarten,Weld,Colorado Springs 11,80,93.75,90,0,2.5,1.25,40.428047,-104.718316
+899,Colorado,2017-18,Steele Elementary,Kindergarten,El Paso,St Vrain Valley Re 1J,48,93.75,83.33,2.08,4.17,2.08,38.858605,-104.819197
+900,Colorado,2017-18,Twain Elementary,Kindergarten,Arapahoe,Denver County 1,48,93.75,89.58,0,2.08,2.08,39.590427,-104.970483
+901,Colorado,2017-18,Sixth Avenue Elementary,Kindergarten,Arapahoe,Poudre R-1,79,93.67,93.67,0,0,0,39.72458,-104.83007
+902,Colorado,2017-18,Soaring Eagles Elementary,Kindergarten,El Paso,Denver County 1,110,93.64,90,0,3.64,0,38.785226,-104.737634
+903,Colorado,2017-18,Boston K-8,Kindergarten,Arapahoe,Douglas County RE 1,47,93.62,93.62,0,0,0,39.737957,-104.88063
+904,Colorado,2017-18,Eiber Elementary,Kindergarten,Jefferson,Trinidad 1,47,93.62,91.49,0,2.13,0,39.737548,-105.105666
+905,Colorado,2017-18,Lyons Elementary,Kindergarten,Boulder,St Vrain Valley Re 1J,47,93.62,85.11,0,8.51,0,40.226081,-105.269256
+906,Colorado,2017-18,Academy Acl Charter,Kindergarten,El Paso,Mesa County Valley 51,31,93.55,70.97,0,9.68,6.45,38.868398,-104.8370294
+907,Colorado,2017-18,Mortensen Elementary,Kindergarten,Jefferson,Adams County 14,62,93.55,93.55,0,0,0,39.571669,-105.107482
+908,Colorado,2017-18,Weber Elementary,Kindergarten,Jefferson,Roaring Fork RE-1,62,93.55,87.1,1.61,4.84,0,39.846314,-105.093593
+909,Colorado,2017-18,South Ridge Elementary An Ib World,Kindergarten,Douglas,Adams-Arapahoe 28J,77,93.51,88.31,0,3.9,1.3,39.369432,-104.84467
+910,Colorado,2017-18,Campbell Elementary,Kindergarten,Jefferson,Denver County 1,46,93.48,93.48,0,0,0,39.815785,-105.118148
+911,Colorado,2017-18,Heatherwood Elementary,Kindergarten,Boulder,Charter School Institute,46,93.48,82.61,0,10.87,0,40.057539,-105.172473
+912,Colorado,2017-18,Foster Elementary,Kindergarten,Jefferson,Elbert 200,76,93.42,93.42,0,0,0,39.793118,-105.07644
+913,Colorado,2017-18,Peoria Elementary,Kindergarten,Arapahoe,Adams-Arapahoe 28J,75,93.33,90.67,0,1.33,0,39.7291491,-104.8482507
+914,Colorado,2017-18,Ridgeview Elementary,Kindergarten,Moffat,St Vrain Valley Re 1J,30,93.33,76.67,0,6.67,3.33,40.516871,-107.592206
+915,Colorado,2017-18,St. John Neumann Catholic,Kindergarten,Pueblo,Colorado Springs 11,15,93.33,93.33,0,0,0,38.22654,-104.621151
+916,Colorado,2017-18,Aspen Ridge Preparatory,Kindergarten,Boulder,Jefferson County R-1,89,93.26,83.15,0,10.11,0,40.0335848,-105.053687
+917,Colorado,2017-18,Hulstrom Options K-8,Kindergarten,Adams,Gunnison County,74,93.24,90.54,0,2.7,0,39.905737,-104.96563
+918,Colorado,2017-18,Dry Creek Elementary,Kindergarten,Arapahoe,Denver County 1,59,93.22,86.44,0,3.39,0,39.581546,-104.899835
+919,Colorado,2017-18,Manitou Springs Elementary,Kindergarten,El Paso,Adams-Arapahoe 28J,59,93.22,77.97,0,15.25,0,38.855882,-104.914639
+920,Colorado,2017-18,Woodmen-Roberts Elementary,Kindergarten,El Paso,Fountain 8,59,93.22,89.83,0,3.39,0,38.945825,-104.869833
+921,Colorado,2017-18,Legacy Elementary,Kindergarten,Boulder,Poudre R-1,88,93.18,90.91,0,2.27,0,40.1136463,-104.9670709
+922,Colorado,2017-18,Thomson Primary,Kindergarten,Morgan,Douglas County RE 1,88,93.18,87.5,0,5.68,0,40.25846,-103.632768
+923,Colorado,2017-18,Foothill Elementary,Kindergarten,Boulder,Estes Park R-3,73,93.15,90.41,0,2.74,0,40.035604,-105.284228
+924,Colorado,2017-18,Byers Elementary,Kindergarten,Arapahoe,Burlington RE-6J,29,93.1,89.66,0,3.45,0,39.707413,-104.217525
+925,Colorado,2017-18,Francis M. Day Elementary,Kindergarten,Adams,Denver County 1,58,93.1,93.1,0,0,0,39.823569,-105.008127
+926,Colorado,2017-18,Meadowlark,Kindergarten,Boulder,Boulder Valley RE 2,58,93.1,91.38,0,1.72,0,40.033415,-105.083388
+927,Colorado,2017-18,Pikes Peak Academy,Kindergarten,El Paso,Arapahoe County,29,93.1,75.86,0,17.24,0,38.909762,-104.817898
+928,Colorado,2017-18,La Junta Primary,Kindergarten,Otero,Thompson R2-J,115,93.04,90.43,0,0.87,0.87,37.981772,-103.556858
+929,Colorado,2017-18,Westminster Academy For International Studies,Kindergarten,Adams,Walsh RE-1,43,93.02,93.02,0,0,0,39.8323,-105.029101
+930,Colorado,2017-18,Highline Community Elementary,Kindergarten,Arapahoe,Jefferson County R-1,100,93,92,0,0,0,39.702819,-104.85894
+931,Colorado,2017-18,Edgewater Elementary,Kindergarten,Jefferson,Eads RE-1,57,92.98,92.98,0,0,0,39.750482,-105.057454
+932,Colorado,2017-18,Lasley Elementary,Kindergarten,Jefferson,East Otero R-1,57,92.98,91.23,0,0,1.75,39.691044,-105.066422
+933,Colorado,2017-18,Pinello Elementary,Kindergarten,El Paso,Jefferson County R-1,57,92.98,91.23,0,1.75,0,38.768585,-104.756541
+934,Colorado,2017-18,Academy Endeavour Elementary,Kindergarten,El Paso,Adams 12 Five Star Schools,71,92.96,88.73,0,1.41,1.41,38.951619,-104.762134
+935,Colorado,2017-18,Centennial A School For Expeditionary Learning,Kindergarten,Denver,Denver County 1,85,92.94,87.06,0,5.88,0,39.781252,-105.042187
+936,Colorado,2017-18,Centennial,Kindergarten,Costilla,Westminster Public Schools,14,92.86,92.86,0,0,0,37.207924,-105.423172
+937,Colorado,2017-18,Copper Mesa Elementary,Kindergarten,Douglas,St Vrain Valley Re 1J,56,92.86,89.29,0,1.79,1.79,39.518637,-104.947936
+938,Colorado,2017-18,Dps Ece Swigert International,Kindergarten,Denver,Adams County,84,92.86,92.86,0,0,0,39.7645728,-104.8982656
+939,Colorado,2017-18,Fort Lewis Mesa Elementary,Kindergarten,La Plata,Jefferson County R-1,14,92.86,85.71,0,7.14,0,37.145227,-108.120484
+940,Colorado,2017-18,Global Campus K-12 Schools,Kindergarten,Adams,Douglas County RE 1,42,92.86,92.86,0,0,0,39.8314126,-104.9850467
+941,Colorado,2017-18,Iron Horse Elementary,Kindergarten,Douglas,Jefferson County R-1,70,92.86,92.86,0,0,0,39.506793,-104.755045
+942,Colorado,2017-18,Lotus School For Excellence,Kindergarten,Arapahoe,St Vrain Valley Re 1J,42,92.86,90.48,0,2.38,0,39.712281,-104.86008
+943,Colorado,2017-18,Martinez Elementary,Kindergarten,El Paso,Denver County 1,70,92.86,87.14,1.43,2.86,1.43,38.923438,-104.749695
+944,Colorado,2017-18,Peyton Elementary,Kindergarten,El Paso,Montrose County RE-1j,28,92.86,82.14,0,10.71,0,39.030118,-104.498585
+945,Colorado,2017-18,Springs Baptist Academy,Kindergarten,El Paso,Windsor RE-4,14,92.86,42.86,7.14,21.43,14.29,38.88217,-104.819931
+946,Colorado,2017-18,Stone Mountain Elementary,Kindergarten,Douglas,Jefferson County R-1,70,92.86,91.43,0,1.43,0,39.524052,-105.002917
+947,Colorado,2017-18,Cherokee Trail Elementary,Kindergarten,Douglas,Eaton RE-2,69,92.75,92.75,0,0,0,39.525198,-104.786614
+948,Colorado,2017-18,Jewell Elementary,Kindergarten,Arapahoe,Jefferson County R-1,69,92.75,89.86,0,1.45,0,39.682669,-104.818505
+949,Colorado,2017-18,Creekside Elementary School At Martin Park,Kindergarten,Boulder,Cherry Creek 5,55,92.73,80,0,12.73,0,39.99057,-105.248894
+950,Colorado,2017-18,Erie Elementary,Kindergarten,Boulder,Colorado Springs 11,82,92.68,90.24,0,2.44,0,40.050264,-105.056472
+951,Colorado,2017-18,Kendallvue Elementary,Kindergarten,Jefferson,Cherry Creek 5,41,92.68,90.24,0,2.44,0,39.63049,-105.151523
+952,Colorado,2017-18,Nederland Elementary,Kindergarten,Boulder,Adams 12 Five Star Schools,41,92.68,60.98,2.44,24.39,2.44,39.969441,-105.51782
+953,Colorado,2017-18,Sheridan Green Elementary,Kindergarten,Jefferson,Greeley 6,41,92.68,87.8,2.44,2.44,0,39.8959324,-105.0635958
+954,Colorado,2017-18,Wheeling Elementary,Kindergarten,Arapahoe,Denver County 1,82,92.68,92.68,0,0,0,39.703877,-104.833249
+955,Colorado,2017-18,Carver Elementary,Kindergarten,El Paso,Denver County 1,54,92.59,90.74,0,0,0,38.888804,-104.742215
+956,Colorado,2017-18,Shelledy Elementary,Kindergarten,Mesa,Douglas County RE 1,67,92.54,92.54,0,0,0,39.163537,-108.73429
+957,Colorado,2017-18,Centennial Elementary,Kindergarten,Weld,Denver County 1,107,92.52,92.52,0,0,0,40.378193,-104.702805
+958,Colorado,2017-18,Castro Elementary,Kindergarten,Denver,Cherry Creek 5,40,92.5,92.5,0,0,0,39.701593,-105.035219
+959,Colorado,2017-18,Shelton Elementary,Kindergarten,Jefferson,Mesa County Valley 51,80,92.5,90,0,2.5,0,39.722748,-105.214447
+960,Colorado,2017-18,Summit Cove Elementary,Kindergarten,Summit,Jefferson County R-1,40,92.5,87.5,0,0,2.5,39.590404,-106.005354
+961,Colorado,2017-18,Falcon Elementary,Kindergarten,El Paso,Jefferson County R-1,53,92.45,88.68,0,3.77,0,38.9266062,-104.6030295
+962,Colorado,2017-18,Highland Elementary,Kindergarten,Arapahoe,Gunnison Watershed RE1J,53,92.45,86.79,0,5.66,0,39.597792,-104.979977
+963,Colorado,2017-18,Heritage Heights Academy,Kindergarten,Arapahoe,Denver County 1,66,92.42,83.33,0,3.03,0,39.61048,-104.755071
+964,Colorado,2017-18,Nisley Elementary,Kindergarten,Mesa,West End RE-2,66,92.42,87.88,0,4.55,0,39.083095,-108.520415
+965,Colorado,2017-18,South Lakewood Elementary,Kindergarten,Jefferson,Steamboat Springs RE-2,66,92.42,89.39,0,3.03,0,39.71896,-105.092594
+966,Colorado,2017-18,B F Kitchen Elementary,Kindergarten,Larimer,Adams-Arapahoe 28J,39,92.31,89.74,2.56,0,0,40.374606,-105.091801
+967,Colorado,2017-18,Breckenridge Elementary,Kindergarten,Summit,Thompson R2-J,26,92.31,88.46,0,3.85,0,39.478808,-106.041895
+968,Colorado,2017-18,Eagle Crest Elementary,Kindergarten,Boulder,Delta County 50(J),78,92.31,85.9,0,6.41,0,40.144145,-105.160514
+969,Colorado,2017-18,Primero,Kindergarten,Las Animas,Adams 12 Five Star Schools,13,92.31,92.31,0,0,0,37.1281312,-104.7931179
+970,Colorado,2017-18,Primrose School At Centennial,Kindergarten,Arapahoe,Boulder County,13,92.31,92.31,0,0,0,39.5966485,-104.8332438
+971,Colorado,2017-18,Small World Learning Center,Kindergarten,Arapahoe,Arapahoe County,13,92.31,53.85,0,0,0,39.5727446,-105.0080518
+972,Colorado,2017-18,The Mcclelland,Kindergarten,Pueblo,Cheyenne Mountain 12,13,92.31,92.31,0,0,0,38.25589,-104.617511
+973,Colorado,2017-18,Fox Creek Elementary,Kindergarten,Douglas,Jefferson County R-1,64,92.19,92.19,0,0,0,39.547668,-104.912184
+974,Colorado,2017-18,Gold Rush Elementary,Kindergarten,Douglas,Cherry Creek 5,114,92.11,91.23,0,0.88,0,39.49832,-104.80285
+975,Colorado,2017-18,Lowry Elementary,Kindergarten,Denver,Poudre R-1,76,92.11,90.79,0,1.32,0,39.712838,-104.896495
+976,Colorado,2017-18,Columbia Elementary,Kindergarten,El Paso,Boulder Valley RE 2,50,92,92,0,0,0,38.84012,-104.808679
+977,Colorado,2017-18,Odyssey Elementary,Kindergarten,El Paso,North Park R-1,75,92,84,0,8,0,38.906015,-104.712372
+978,Colorado,2017-18,Options,Kindergarten,Arapahoe,Mesa County Valley 51,87,91.95,47.13,0,43.68,1.15,39.626881,-104.797706
+979,Colorado,2017-18,Cherry Hills Christian,Kindergarten,Douglas,Canon City RE-1,62,91.94,87.1,0,3.23,0,39.53764,-104.944751
+980,Colorado,2017-18,Mountain Phoenix Community,Kindergarten,Jefferson,Denver County 1,99,91.92,53.54,0,38.38,0,39.783418,-105.114877
+981,Colorado,2017-18,St. Thomas More Catholic,Kindergarten,Arapahoe,Jefferson County R-1,37,91.89,91.89,0,0,0,39.5709381,-104.9072128
+982,Colorado,2017-18,Woodrow Wilson Charter Academy,Kindergarten,Jefferson,Granada RE-1,123,91.87,71.54,0,20.33,0,39.86723,-105.092286
+983,Colorado,2017-18,Denver Green,Kindergarten,Denver,Custer County School District C-1,49,91.84,83.67,0,2.04,4.08,39.707222,-104.90934
+984,Colorado,2017-18,Swanson Elementary,Kindergarten,Jefferson,Douglas County RE 1,49,91.84,91.84,0,0,0,39.820723,-105.064024
+985,Colorado,2017-18,Village East Community Elementary,Kindergarten,Arapahoe,Denver County 1,147,91.84,88.44,0,1.36,0.68,39.690757,-104.852466
+986,Colorado,2017-18,Global Village Academy-Northglenn,Kindergarten,Adams,Jefferson County R-1,122,91.8,87.7,0,4.1,0,39.901,-104.994221
+987,Colorado,2017-18,Sherman Early Childhood Center,Kindergarten,Morgan,Douglas County,241,91.7,90.46,0,1.24,0,40.250469,-103.791491
+988,Colorado,2017-18,Allendale Elementary,Kindergarten,Jefferson,Colorado Springs 11,36,91.67,83.33,0,5.56,2.78,39.80482,-105.118214
+989,Colorado,2017-18,Cherry Valley Elementary,Kindergarten,Douglas,Denver County 1,12,91.67,91.67,0,0,0,39.227722,-104.698999
+990,Colorado,2017-18,Colorado Stem Academy,Kindergarten,Adams,Westminster Public Schools,24,91.67,87.5,0,4.17,0,39.828386,-105.0319
+991,Colorado,2017-18,Denver Center For International Studies At Fairmont,Kindergarten,Denver,Douglas County RE 1,60,91.67,88.33,0,3.33,0,39.7255497,-104.9946453
+992,Colorado,2017-18,Force Elementary,Kindergarten,Denver,Boulder Valley RE 2,60,91.67,91.67,0,0,0,39.689046,-105.04764
+993,Colorado,2017-18,Heritage Elementary,Kindergarten,Pueblo,Pueblo City 60,60,91.67,86.67,0,5,0,38.25607,-104.63758
+994,Colorado,2017-18,Irving Elementary,Kindergarten,Pueblo,Boulder County,60,91.67,91.67,0,0,0,38.286637,-104.635282
+995,Colorado,2017-18,Slater Elementary,Kindergarten,Jefferson,Summit RE-1,36,91.67,88.89,0,2.78,0,39.751741,-105.093932
+996,Colorado,2017-18,St Catherine Of Siena,Kindergarten,Denver,South Routt RE 3,12,91.67,91.67,0,0,0,39.774774,-105.024542
+997,Colorado,2017-18,Wildcat Mountain Elementary,Kindergarten,Douglas,Poudre R-1,71,91.55,90.14,0,1.41,0,39.528395,-104.912448
+998,Colorado,2017-18,Dutch Creek Elementary,Kindergarten,Jefferson,Boulder Valley RE 2,47,91.49,91.49,0,0,0,39.587332,-105.078172
+999,Colorado,2017-18,Teller Elementary,Kindergarten,Denver,Charter School Institute,82,91.46,89.02,0,2.44,0,39.734396,-104.943584
+1000,Colorado,2017-18,Fremont Elementary,Kindergarten,Jefferson,Deer Trail 26J,35,91.43,88.57,0,2.86,0,39.813424,-105.132207
+1001,Colorado,2017-18,Giberson Elementary,Kindergarten,El Paso,Wiley RE-13 JT,70,91.43,84.29,0,5.71,1.43,38.792691,-104.750057
+1002,Colorado,2017-18,Leo William Butler Elementary,Kindergarten,Weld,Boulder Valley RE 2,70,91.43,88.57,1.43,1.43,0,40.075679,-104.813891
+1003,Colorado,2017-18,Redstone Elementary,Kindergarten,Douglas,Lewis-Palmer 38,70,91.43,90,0,1.43,0,39.534099,-104.919853
+1004,Colorado,2017-18,Kaiser Elementary,Kindergarten,Denver,Boulder Valley RE 2,58,91.38,89.66,0,0,0,39.634226,-105.04136
+1005,Colorado,2017-18,Kipp Northeast Elementary,Kindergarten,Denver,Park County RE-2,81,91.36,90.12,0,1.23,0,39.7839154,-104.7822596
+1006,Colorado,2017-18,Hudson Academy Of Arts And Sciences,Kindergarten,Weld,Academy 20,46,91.3,91.3,0,0,0,40.070158,-104.639291
+1007,Colorado,2017-18,Prairie Winds Elementary,Kindergarten,Pueblo,Hanover 28,69,91.3,88.41,0,1.45,0,38.346327,-104.713378
+1008,Colorado,2017-18,The Liberty,Private,La Plata,Cherry Creek 5,23,91.3,91.3,0,0,0,37.24441,-107.876751
+1009,Colorado,2017-18,Ranch Creek Elementary,Kindergarten,El Paso,Poudre R-1,103,91.26,86.41,0,3.88,0,38.96459,-104.723851
+1010,Colorado,2017-18,Henry Elementary,Kindergarten,El Paso,Douglas County RE 1,57,91.23,85.96,0,5.26,0,38.851618,-104.733419
+1011,Colorado,2017-18,Red Hawk Elementary,Kindergarten,Boulder,Pueblo County 70,114,91.23,88.6,0,2.63,0,40.043513,-105.066144
+1012,Colorado,2017-18,Abrams Elementary,Kindergarten,El Paso,Fountain 8,148,91.22,87.84,0.68,2.7,0,38.75321,-104.801191
+1013,Colorado,2017-18,Edison Elementary,Kindergarten,Denver,Eagle County RE 50,102,91.18,91.18,0,0,0,39.764902,-105.040075
+1014,Colorado,2017-18,Parkview Elementary,Kindergarten,Rio Blanco,Adams-Arapahoe 28J,34,91.18,85.29,0,5.88,0,40.082516,-108.815701
+1015,Colorado,2017-18,Rocky Mountain Prep - Southwest,Kindergarten,Denver,Eagle County RE 50,79,91.14,89.87,0,0,1.27,39.70002,-105.027741
+1016,Colorado,2017-18,Edna And John W. Mosley P-8,Kindergarten,Arapahoe,Academy 20,90,91.11,91.11,0,0,0,39.717729,-104.787118
+1017,Colorado,2017-18,Cheltenham Elementary,Kindergarten,Denver,Cherry Creek 5,56,91.07,89.29,0,0,0,39.74217,-105.030662
+1018,Colorado,2017-18,Eagleton Elementary,Kindergarten,Denver,Denver County 1,56,91.07,91.07,0,0,0,39.730734,-105.028161
+1019,Colorado,2017-18,Murphy Creek K-8,Kindergarten,Arapahoe,Lewis-Palmer 38,78,91.03,85.9,0,2.56,0,39.690818,-104.710248
+1020,Colorado,2017-18,Carrie Martin Elementary,Kindergarten,Larimer,Jefferson County R-1,33,90.91,72.73,0,15.15,0,40.350601,-105.099464
+1021,Colorado,2017-18,New Opportunity Program (D20),Kindergarten,El Paso,Roaring Fork RE-1,11,90.91,90.91,0,0,0,38.9917755,-104.798771
+1022,Colorado,2017-18,Pope John Paul Academy,Kindergarten,Montrose,Cheyenne Mountain 12,11,90.91,90.91,0,0,0,38.4747583,-107.8375912
+1023,Colorado,2017-18,Taylor Elementary,Kindergarten,El Paso,Widefield 3,33,90.91,90.91,0,0,0,38.854555,-104.808019
+1024,Colorado,2017-18,Valverde Elementary,Kindergarten,Denver,Greeley 6,44,90.91,90.91,0,0,0,39.710554,-105.011314
+1025,Colorado,2017-18,Mesa View Elementary,Kindergarten,Mesa,Colorado Springs 11,65,90.77,87.69,0,3.08,0,39.033167,-108.502559
+1026,Colorado,2017-18,Centennial Elementary,Kindergarten,Boulder,Jefferson County R-1,108,90.74,85.19,0,5.56,0,40.044883,-105.268177
+1027,Colorado,2017-18,Century Elementary,Kindergarten,Arapahoe,Mapleton 1,43,90.7,86.05,0,4.65,0,39.670893,-104.813055
+1028,Colorado,2017-18,James Madison Charter Academy,Kindergarten,El Paso,Littleton 6,32,90.63,90.63,0,0,0,38.724022,-104.715488
+1029,Colorado,2017-18,Central Elementary,Kindergarten,Boulder,Academy 20,53,90.57,77.36,0,13.21,0,40.166727,-105.10897
+1030,Colorado,2017-18,Colorado Springs Charter Academy,Kindergarten,El Paso,Englewood 1,53,90.57,84.91,0,5.66,0,38.8696,-104.772307
+1031,Colorado,2017-18,Valdez Elementary,Kindergarten,Denver,Denver County 1,53,90.57,90.57,0,0,0,39.758904,-105.018399
+1032,Colorado,2017-18,Good Shepherd Catholic,Kindergarten,Denver,Adams-Arapahoe 28J,42,90.48,90.48,0,0,0,39.72604,-104.956381
+1033,Colorado,2017-18,Eagleside Elementary,Kindergarten,El Paso,Adams 12 Five Star Schools,94,90.43,90.43,0,0,0,38.69002,-104.680028
+1034,Colorado,2017-18,Home School Academy,Private,El Paso,Academy 20,506,90.32,62.06,0.2,27.08,0.99,38.9581561,-104.707403
+1035,Colorado,2017-18,The Pinnacle Charter School Elementary,Kindergarten,Denver,Denver County 1,155,90.32,90.32,0,0,0,39.8497801,-104.9984699
+1036,Colorado,2017-18,Traylor Academy,Kindergarten,Denver,Mesa County Valley 51,62,90.32,90.32,0,0,0,39.660907,-105.062619
+1037,Colorado,2017-18,Wyatt Academy,Kindergarten,Denver,Mesa County Valley 51,41,90.24,90.24,0,0,0,39.767338,-104.967865
+1038,Colorado,2017-18,Doull Elementary,Kindergarten,Denver,Buena Vista R-31,51,90.2,90.2,0,0,0,39.673159,-105.044337
+1039,Colorado,2017-18,Joe Shoemaker,Kindergarten,Denver,Mesa County,81,90.12,90.12,0,0,0,39.65884,-104.867683
+1040,Colorado,2017-18,Place Bridge Academy,Kindergarten,Denver,Harrison 2,91,90.11,90.11,0,0,0,39.688185,-104.905693
+1041,Colorado,2017-18,Dora Moore Ece-8,Kindergarten,Denver,Boulder Valley RE 2,50,90,88,0,2,0,39.729998,-104.973359
+1042,Colorado,2017-18,Front Range Baptist Academy,Kindergarten,Larimer,Adams-Arapahoe 28J,10,90,90,0,0,0,40.5226923,-105.0666424
+1043,Colorado,2017-18,Glenwood Springs Elementary,Kindergarten,Garfield,Charter School Institute,70,90,88.57,0,1.43,0,39.544922,-107.327882
+1044,Colorado,2017-18,Mathematics And Science Leadership Academy,Kindergarten,Denver,Brighton School District,20,90,85,0,5,0,39.708689,-105.011404
+1045,Colorado,2017-18,St. Bernadette Catholic,Kindergarten,Jefferson,Denver County 1,10,90,90,0,0,0,39.73399,-105.077255
+1046,Colorado,2017-18,Vaughn Elementary,Kindergarten,Arapahoe,Manitou Springs 14,60,90,90,0,0,0,39.73499,-104.836615
+1047,Colorado,2017-18,Eagle Ridge Elementary,Kindergarten,Douglas,Denver County 1,79,89.87,87.34,1.27,1.27,0,39.547435,-104.900475
+1048,Colorado,2017-18,Charles Hay World,Kindergarten,Arapahoe,Jefferson County R-1,59,89.83,88.14,0,1.69,0,39.658685,-104.971648
+1049,Colorado,2017-18,Arrowwood Elementary,Kindergarten,Douglas,Adams-Arapahoe 28J,49,89.8,83.67,2.04,4.08,0,39.527521,-104.934715
+1050,Colorado,2017-18,Home School Academy,Kindergarten,El Paso,Jefferson County R-1,49,89.8,57.14,0,32.65,0,38.9581561,-104.707403
+1051,Colorado,2017-18,Wildflower Elementary,Kindergarten,El Paso,Jefferson County R-1,88,89.77,88.64,0,1.14,0,38.816521,-104.740138
+1052,Colorado,2017-18,Bryant Webster Dual Language Ece-8,Kindergarten,Denver,Brighton School District,29,89.66,89.66,0,0,0,39.76744,-105.00842
+1053,Colorado,2017-18,College View Elementary,Kindergarten,Denver,Adams-Arapahoe 28J,58,89.66,89.66,0,0,0,39.668019,-105.023523
+1054,Colorado,2017-18,Edison Elementary,Kindergarten,El Paso,Hi-plains R-23,58,89.66,87.93,0,1.72,0,38.8774722,-104.805005
+1055,Colorado,2017-18,Buffalo Trail Elementary,Kindergarten,Arapahoe,St Vrain Valley Re 1J,96,89.58,88.54,0,1.04,0,39.621184,-104.704615
+1056,Colorado,2017-18,Twombly Elementary,Kindergarten,Weld,Fort Morgan RE-3,86,89.53,88.37,0,1.16,0,40.086388,-104.798665
+1057,Colorado,2017-18,Dps Ece Cee @ Knight Academy,Kindergarten,Denver,Brighton School District,95,89.47,85.26,1.05,3.16,0,39.7043306,-104.9491764
+1058,Colorado,2017-18,Hope Montessori Academy - 6353 Stetson Hills Blvd,Kindergarten,El Paso,Broomfield County,19,89.47,89.47,0,0,0,38.9099782,-104.7094692
+1059,Colorado,2017-18,Park Hill,Kindergarten,Denver,Durango 9-R,114,89.47,89.47,0,0,0,39.745329,-104.929335
+1060,Colorado,2017-18,Coronado Elementary,Kindergarten,Jefferson,Woodland Park RE-2,75,89.33,84,0,5.33,0,39.572918,-105.090308
+1061,Colorado,2017-18,Eldorado Elementary,Kindergarten,Douglas,Mesa County Valley 51,56,89.29,83.93,1.79,3.57,0,39.540527,-105.002631
+1062,Colorado,2017-18,Fulton Academy Of Excellence,Kindergarten,Arapahoe,Jefferson County R-1,56,89.29,89.29,0,0,0,39.728529,-104.871133
+1063,Colorado,2017-18,Pikes Peak Christian,Kindergarten,El Paso,Huerfano RE-1,28,89.29,85.71,0,3.57,0,38.918,-104.762821
+1064,Colorado,2017-18,Chinook Trail Elementary,Kindergarten,El Paso,Pueblo City 60,93,89.25,81.72,0,7.53,0,38.97377,-104.734161
+1065,Colorado,2017-18,Patriot Elementary,Kindergarten,El Paso,Denver County 1,109,88.99,86.24,0,2.75,0,38.74539,-104.804077
+1066,Colorado,2017-18,Beautiful Savior Lutheran,Kindergarten,Broomfield,Prairie RE-11,9,88.89,88.89,0,0,0,39.91508,-105.073491
+1067,Colorado,2017-18,Bristol Elementary,Kindergarten,El Paso,Pueblo City 60,45,88.89,84.44,0,4.44,0,38.846051,-104.834292
+1068,Colorado,2017-18,Calhan Elementary,Kindergarten,El Paso,Byers 32J,18,88.89,88.89,0,0,0,39.033069,-104.295305
+1069,Colorado,2017-18,Laredo Elementary,Kindergarten,Arapahoe,Brighton School District,63,88.89,88.89,0,0,0,39.737216,-104.799485
+1070,Colorado,2017-18,Rocky Mountain Prep - Creekside,Kindergarten,Denver,Cherry Creek 5,90,88.89,88.89,0,0,0,39.67953,-104.898381
+1071,Colorado,2017-18,Trevista At Horace Mann,Kindergarten,Denver,Windsor RE-4,45,88.89,86.67,0,2.22,0,39.773647,-105.003329
+1072,Colorado,2017-18,Wilson Elementary,Kindergarten,El Paso,Westminster Public Schools,63,88.89,85.71,0,0,0,38.853204,-104.746008
+1073,Colorado,2017-18,Clayton Elementary,Kindergarten,Arapahoe,Cherry Creek 5,80,88.75,87.5,0,1.25,0,39.632576,-104.994407
+1074,Colorado,2017-18,Columbine Elementary,Kindergarten,Boulder,Jefferson County R-1,80,88.75,83.75,0,5,0,40.0322021,-105.2690057
+1075,Colorado,2017-18,Rogers Elementary,Kindergarten,El Paso,Ridgway R-2,62,88.71,87.1,0,1.61,0,38.829734,-104.77649
+1076,Colorado,2017-18,Rudy Elementary,Kindergarten,El Paso,Colorado Springs 11,53,88.68,88.68,0,0,0,38.891197,-104.726375
+1077,Colorado,2017-18,The Vanguard School K-12,Kindergarten,El Paso,Delta County 50(J),141,88.65,79.43,0,9.22,0,38.8111751,-104.8156627
+1078,Colorado,2017-18,Achieve Academy,Kindergarten,Adams,Rocky Ford R-2,44,88.64,88.64,0,0,0,39.862183,-104.960953
+1079,Colorado,2017-18,Hygiene Elementary,Kindergarten,Boulder,Douglas County,44,88.64,84.09,0,4.55,0,40.191778,-105.177323
+1080,Colorado,2017-18,Monroe Elementary,Kindergarten,El Paso,Mesa County Valley 51,79,88.61,88.61,0,0,0,38.831941,-104.765837
+1081,Colorado,2017-18,Explorer Elementary,Kindergarten,El Paso,Eads RE-1,70,88.57,85.71,0,2.86,0,38.959898,-104.749134
+1082,Colorado,2017-18,Oak Creek Elementary,Kindergarten,El Paso,Douglas County RE 1,35,88.57,85.71,0,2.86,0,38.783515,-104.817642
+1083,Colorado,2017-18,Virginia Court Elementary,Kindergarten,Arapahoe,Widefield 3,70,88.57,88.57,0,0,0,39.707345,-104.840537
+1084,Colorado,2017-18,Desert Sage Elementary,Kindergarten,Pueblo,Douglas County RE 1,52,88.46,84.62,0,3.85,0,38.302796,-104.754206
+1085,Colorado,2017-18,Peck Elementary,Kindergarten,Jefferson,Douglas County RE 1,52,88.46,88.46,0,0,0,39.814794,-105.091505
+1086,Colorado,2017-18,Grant Ranch Ece-8,Kindergarten,Denver,Douglas County,43,88.37,88.37,0,0,0,39.617578,-105.064531
+1087,Colorado,2017-18,Keller Elementary,Kindergarten,El Paso,Charter School Institute,86,88.37,84.88,0,3.49,0,38.905968,-104.757805
+1088,Colorado,2017-18,Queen Palmer Elementary,Kindergarten,El Paso,Poudre R-1,43,88.37,86.05,0,2.33,0,38.845854,-104.791872
+1089,Colorado,2017-18,Frontier Valley Elementary,Kindergarten,Douglas,Adams-Arapahoe 28J,60,88.33,86.67,1.67,0,0,39.502109,-104.714467
+1090,Colorado,2017-18,Crawford Elementary,Kindergarten,Arapahoe,Denver County 1,77,88.31,88.31,0,0,0,39.7428642,-104.8710584
+1091,Colorado,2017-18,Annunciation Catholic,Kindergarten,Denver,Sheridan 2,17,88.24,88.24,0,0,0,39.7661893,-104.9706342
+1092,Colorado,2017-18,Mackintosh Academy - Boulder,Kindergarten,Boulder,Adams 12 Five Star Schools,17,88.24,88.24,0,0,0,39.9872811,-105.1966613
+1093,Colorado,2017-18,Singing Hills Elementary,Kindergarten,Elbert,Dolores County RE No.2,59,88.14,83.05,0,5.08,0,39.464323,-104.64906
+1094,Colorado,2017-18,Trailblazer Elementary,Kindergarten,El Paso,Delta County 50(J),59,88.14,83.05,0,5.08,0,38.91942,-104.86516
+1095,Colorado,2017-18,Mc Meen Elementary,Kindergarten,Denver,Denver County 1,101,88.12,86.14,0,1.98,0,39.69832,-104.9213
+1096,Colorado,2017-18,Monarch Montessori,Kindergarten,Denver,Boulder Valley RE 2,42,88.1,88.1,0,0,0,39.78538,-104.847901
+1097,Colorado,2017-18,Stedman Elementary,Kindergarten,Denver,Denver County 1,42,88.1,83.33,0,4.76,0,39.759586,-104.932387
+1098,Colorado,2017-18,Audubon Elementary,Kindergarten,El Paso,Denver County 1,67,88.06,71.64,0,16.42,0,38.867271,-104.784052
+1099,Colorado,2017-18,East Elementary,Kindergarten,Arapahoe,Jefferson County R-1,50,88,88,0,0,0,39.609187,-104.990659
+1100,Colorado,2017-18,Sand Creek Elementary,Kindergarten,Douglas,Harrison 2,50,88,84,0,4,0,39.560117,-104.96658
+1101,Colorado,2017-18,The Da Vinci Academy,Kindergarten,El Paso,Poudre R-1,75,88,81.33,0,6.67,0,39.012266,-104.803454
+1102,Colorado,2017-18,Mesa Elementary,Kindergarten,Boulder,Jefferson County R-1,33,87.88,78.79,0,3.03,0,39.972158,-105.260782
+1103,Colorado,2017-18,Fitzmorris Elementary,Kindergarten,Jefferson,Montrose County RE-1j,41,87.8,87.8,0,0,0,39.810052,-105.103593
+1104,Colorado,2017-18,La Jara Elementary,Kindergarten,Conejos,Denver County 1,41,87.8,82.93,0,2.44,2.44,37.274849,-105.9574
+1105,Colorado,2017-18,Altura Elementary,Kindergarten,Arapahoe,Adams County 14,65,87.69,87.69,0,0,0,39.7429644,-104.8137123
+1106,Colorado,2017-18,Barnum Elementary,Kindergarten,Denver,Harrison 2,65,87.69,86.15,1.54,0,0,39.717683,-105.029474
+1107,Colorado,2017-18,Sunset Park Elementary,Kindergarten,Pueblo,Douglas County RE 1,65,87.69,87.69,0,0,0,38.246063,-104.656532
+1108,Colorado,2017-18,Pioneer Bilingual Elementary,Kindergarten,Boulder,Jefferson County R-1,81,87.65,87.65,0,0,0,40.000918,-105.091029
+1109,Colorado,2017-18,Colorado Military Academy,Kindergarten,El Paso,Routt County,56,87.5,85.71,0,1.79,0,38.83746,-104.698381
+1110,Colorado,2017-18,Creede,Kindergarten,Mineral,Jefferson County R-1,8,87.5,75,0,12.5,0,37.850889,-106.924624
+1111,Colorado,2017-18,Manassa Elementary,Kindergarten,Conejos,Montezuma-Cortez RE-1,40,87.5,87.5,0,0,0,37.172176,-105.937715
+1112,Colorado,2017-18,Maslow Academy,Kindergarten,Montrose,Poudre R-1,8,87.5,87.5,0,0,0,38.4900825,-107.8566178
+1113,Colorado,2017-18,Primrose School Of Highlands Ranch,Kindergarten,Douglas,Douglas County,16,87.5,87.5,0,0,0,39.551944,-104.997099
+1114,Colorado,2017-18,Widefield Elementary,Kindergarten,El Paso,Denver County 1,63,87.3,84.13,0,3.17,0,38.753084,-104.734146
+1115,Colorado,2017-18,Running Creek Elementary,Kindergarten,Elbert,Douglas County RE 1,47,87.23,85.11,0,2.13,0,39.354263,-104.597583
+1116,Colorado,2017-18,Kenton Elementary,Kindergarten,Arapahoe,Boulder Valley RE 2,78,87.18,87.18,0,0,0,39.735514,-104.86039
+1117,Colorado,2017-18,Rocky Mountain Elementary,Kindergarten,Mesa,Moffat County RE-1,78,87.18,83.33,0,3.85,0,39.070949,-108.448952
+1118,Colorado,2017-18,Centennial Elementary,Kindergarten,El Paso,Charter School Institute,92,86.96,82.61,0,1.09,3.26,38.804264,-104.762202
+1119,Colorado,2017-18,Field Elementary,Kindergarten,Arapahoe,Adams-Arapahoe 28J,53,86.79,86.79,0,0,0,39.618813,-104.98253
+1120,Colorado,2017-18,Peabody Elementary,Kindergarten,Arapahoe,Pawnee RE-12,53,86.79,75.47,0,11.32,0,39.603131,-104.952308
+1121,Colorado,2017-18,Acres Green Elementary,Kindergarten,Douglas,Jefferson County R-1,68,86.76,85.29,0,0,1.47,39.5574,-104.894862
+1122,Colorado,2017-18,Academia Ana Marie Sandoval,Kindergarten,Denver,Mapleton 1,60,86.67,86.67,0,0,0,39.767521,-105.015518
+1123,Colorado,2017-18,Caliche Elementary,Kindergarten,Logan,Calhan RJ-1,15,86.67,80,0,6.67,0,40.824221,-102.959303
+1124,Colorado,2017-18,Golden View Classical Academy,Kindergarten,Jefferson,Jefferson County R-1,60,86.67,73.33,0,11.67,0,39.71926,-105.190601
+1125,Colorado,2017-18,St James,Kindergarten,Denver,Brighton School District,15,86.67,86.67,0,0,0,39.736706,-104.9091613
+1126,Colorado,2017-18,Ute Pass Elementary,Kindergarten,El Paso,Boulder Valley RE 2,15,86.67,86.67,0,0,0,38.920969,-104.991837
+1127,Colorado,2017-18,Fremont Elementary,Kindergarten,Fremont,Cherry Creek 5,67,86.57,80.6,0,5.97,0,38.395897,-105.123111
+1128,Colorado,2017-18,Jackson Elementary,Kindergarten,El Paso,Holly RE-3,67,86.57,86.57,0,0,0,38.892301,-104.839496
+1129,Colorado,2017-18,International Academy Of Denver At Harrington,Kindergarten,Denver,Pueblo City 60,37,86.49,86.49,0,0,0,39.768746,-104.958583
+1130,Colorado,2017-18,Lyn Knoll Elementary,Kindergarten,Arapahoe,Lone Star 101,37,86.49,86.49,0,0,0,39.719053,-104.841039
+1131,Colorado,2017-18,Wm E Bishop Elementary,Kindergarten,Arapahoe,Thompson R2-J,37,86.49,81.08,0,5.41,0,39.65959,-104.993
+1132,Colorado,2017-18,Monument Charter Academy,Kindergarten,El Paso,Cherry Creek 5,81,86.42,82.72,0,3.7,0,39.093642,-104.846705
+1133,Colorado,2017-18,Estes Park K-5,Kindergarten,Larimer,Weld County School District RE-3J,66,86.36,83.33,0,1.52,0,40.368479,-105.49746
+1134,Colorado,2017-18,Bromwell Elementary,Kindergarten,Denver,Briggsdale RE-10,51,86.27,80.39,0,3.92,0,39.722154,-104.956974
+1135,Colorado,2017-18,Iowa Elementary,Kindergarten,Arapahoe,Larimer County,80,86.25,86.25,0,0,0,39.687927,-104.793505
+1136,Colorado,2017-18,French Elementary,Kindergarten,El Paso,Mapleton 1,94,86.17,85.11,0,0,1.06,38.768458,-104.727249
+1137,Colorado,2017-18,Marsh Elementary,Kindergarten,Rio Grande,Denver County 1,65,86.15,86.15,0,0,0,37.579512,-106.138689
+1138,Colorado,2017-18,Little Elementary,Kindergarten,Jefferson,Liberty J-4,36,86.11,83.33,0,2.78,0,39.853538,-105.068568
+1139,Colorado,2017-18,Rocky Mountain Prep - Fletcher,Kindergarten,Arapahoe,Falcon 49,79,86.08,86.08,0,0,0,39.753049,-104.866413
+1140,Colorado,2017-18,Soaring Hawk Elementary,Kindergarten,Douglas,Harrison 2,79,86.08,84.81,0,1.27,0,39.393453,-104.912555
+1141,Colorado,2017-18,Roots Elementary,Kindergarten,Denver,Moffat 2,43,86.05,83.72,0,2.33,0,39.76522,-104.923181
+1142,Colorado,2017-18,Montview Math & Health Sciences,Kindergarten,Arapahoe,Harrison 2,50,86,86,0,0,0,39.7483042,-104.8545829
+1143,Colorado,2017-18,Bradford Elementary,Kindergarten,Pueblo,Brighton School District,64,85.94,84.38,0,1.56,0,38.267698,-104.589518
+1144,Colorado,2017-18,Aragon Elementary,Kindergarten,El Paso,Durango 9-R,78,85.9,83.33,0,2.56,0,38.681757,-104.701258
+1145,Colorado,2017-18,Burlington Elementary,Kindergarten,Boulder,Adams-Arapahoe 28J,85,85.88,63.53,0,22.35,0,40.146367,-105.108088
+1146,Colorado,2017-18,Fall River Elementary,Kindergarten,Boulder,Jefferson County R-1,92,85.87,82.61,0,3.26,0,40.184028,-105.063289
+1147,Colorado,2017-18,High Peaks Elementary,Kindergarten,Boulder,East Grand 2,42,85.71,80.95,0,4.76,0,40.004245,-105.243619
+1148,Colorado,2017-18,Holm Elementary,Kindergarten,Denver,Cherry Creek 5,84,85.71,83.33,0,0,1.19,39.657536,-104.892094
+1149,Colorado,2017-18,Mountain Sage Community,Kindergarten,Larimer,Pueblo City 60,21,85.71,19.05,0,42.86,0,40.567843,-105.035307
+1150,Colorado,2017-18,Northridge Elementary,Kindergarten,Boulder,Thompson R2-J,49,85.71,85.71,0,0,0,40.193811,-105.109327
+1151,Colorado,2017-18,Springs Baptist Academy,Private,El Paso,Adams 12 Five Star Schools,42,85.71,54.76,2.38,21.43,7.14,38.88217,-104.819931
+1152,Colorado,2017-18,St. John The Baptist Catholic,Kindergarten,Boulder,Douglas County RE 1,14,85.71,85.71,0,0,0,40.16543,-105.099421
+1153,Colorado,2017-18,Stratton Elementary,Kindergarten,El Paso,Jefferson County R-1,42,85.71,83.33,0,2.38,0,38.867124,-104.801994
+1154,Colorado,2017-18,Fountain International Magnet,Kindergarten,Pueblo,Denver County 1,104,85.58,81.73,0,2.88,0.96,38.27608,-104.597643
+1155,Colorado,2017-18,Marrama Elementary,Kindergarten,Denver,Gunnison Watershed RE1J,62,85.48,85.48,0,0,0,39.77244,-104.764383
+1156,Colorado,2017-18,Axl Academy,Kindergarten,Arapahoe,Pueblo County 70,55,85.45,83.64,0,1.82,0,39.681429,-104.823987
+1157,Colorado,2017-18,Cottonwood Elementary,Kindergarten,Montrose,Boulder Valley RE 2,55,85.45,80,0,5.45,0,38.444288,-107.858901
+1158,Colorado,2017-18,Sanborn Elementary,Kindergarten,Boulder,Adams-Arapahoe 28J,55,85.45,78.18,1.82,3.64,1.82,40.199481,-105.120239
+1159,Colorado,2017-18,Hope Online Learning Academy Elementary,Kindergarten,Douglas,Boulder County,144,85.42,84.72,0,0.69,0,39.5607,-104.8666
+1160,Colorado,2017-18,Upper Blue Elementary,Kindergarten,Summit,St Vrain Valley Re 1J,48,85.42,81.25,2.08,2.08,0,39.50047,-106.048847
+1161,Colorado,2017-18,Mountain View Elementary,Kindergarten,Douglas,Jefferson County R-1,95,85.26,83.16,0,1.05,1.05,39.453941,-104.728186
+1162,Colorado,2017-18,Talbott Steam Innovation,Kindergarten,El Paso,Swink 33,95,85.26,85.26,0,0,0,38.734341,-104.720087
+1163,Colorado,2017-18,Maxwell Elementary,Kindergarten,Denver,Thompson R2-J,74,85.14,85.14,0,0,0,39.7834,-104.823822
+1164,Colorado,2017-18,Centennial Christian Learning Center,Kindergarten,Arapahoe,Douglas County RE 1,20,85,85,0,0,0,39.6377027,-104.7599526
+1165,Colorado,2017-18,Mammoth Heights Elementary,Kindergarten,Douglas,Adams 12 Five Star Schools,80,85,82.5,0,1.25,1.25,39.543869,-104.803592
+1166,Colorado,2017-18,Sage Canyon Elementary,Kindergarten,Douglas,Denver County 1,80,85,80,0,5,0,39.389191,-104.822131
+1167,Colorado,2017-18,Sierra Grande K-12,Kindergarten,Costilla,Greeley 6,20,85,85,0,0,0,37.431201,-105.456399
+1168,Colorado,2017-18,Denver Language,Kindergarten,Denver,Douglas County RE 1,99,84.85,83.84,0,1.01,0,39.722848,-104.910079
+1169,Colorado,2017-18,Douglass Valley Elementary,Kindergarten,El Paso,Cherry Creek 5,66,84.85,84.85,0,0,0,38.992427,-104.866276
+1170,Colorado,2017-18,Heroes Academy Prek-5,Kindergarten,Pueblo,Pueblo City 60,33,84.85,84.85,0,0,0,38.295803,-104.616925
+1171,Colorado,2017-18,Roosevelt Edison Charter,Kindergarten,El Paso,Cherry Creek 5,99,84.85,79.8,0,5.05,0,38.8329302,-104.7494505
+1172,Colorado,2017-18,Columbian Elementary,Kindergarten,Pueblo,Colorado Springs 11,52,84.62,76.92,0,3.85,3.85,38.245459,-104.630796
+1173,Colorado,2017-18,Meadow View Elementary,Kindergarten,Douglas,Greeley 6,52,84.62,84.62,0,0,0,39.410425,-104.903376
+1174,Colorado,2017-18,Northridge Elementary,Kindergarten,Douglas,Douglas County RE 1,84,84.52,83.33,0,1.19,0,39.551489,-104.98283
+1175,Colorado,2017-18,Mountainside Elementary,Kindergarten,El Paso,Cherry Creek 5,103,84.47,84.47,0,0,0,38.747946,-104.808179
+1176,Colorado,2017-18,Mcglone Academy,Kindergarten,Denver,North Conejos RE-1J,90,84.44,83.33,0,1.11,0,39.780259,-104.837582
+1177,Colorado,2017-18,Eagle County Charter Academy,Kindergarten,Eagle,Platte Canyon 1,38,84.21,84.21,0,0,0,39.641351,-106.569172
+1178,Colorado,2017-18,Georgetown Community,Kindergarten,Clear Creek,Summit RE-1,19,84.21,84.21,0,0,0,39.71334,-105.6958
+1179,Colorado,2017-18,Sedalia Elementary,Kindergarten,Douglas,Colorado Springs 11,38,84.21,84.21,0,0,0,39.436832,-104.969621
+1180,Colorado,2017-18,The Summit Academy,Kindergarten,Jefferson,Archuleta County 50 JT,38,84.21,55.26,0,28.95,0,39.883846,-105.078584
+1181,Colorado,2017-18,Cole Arts And Science Academy,Kindergarten,Denver,Pueblo City 60,63,84.13,84.13,0,0,0,39.762652,-104.969033
+1182,Colorado,2017-18,Mountain Vista Community,Kindergarten,El Paso,Jefferson County R-1,44,84.09,84.09,0,0,0,38.812436,-104.781643
+1183,Colorado,2017-18,Stevens Elementary,Kindergarten,Jefferson,Pueblo City 60,44,84.09,81.82,0,0,2.27,39.771082,-105.076337
+1184,Colorado,2017-18,Alpine Elementary,Kindergarten,Boulder,Denver County 1,75,84,82.67,0,1.33,0,40.193703,-105.086642
+1185,Colorado,2017-18,Aurora Frontier K-8,Kindergarten,Arapahoe,Aspen 1,75,84,81.33,0,1.33,1.33,39.658518,-104.746307
+1186,Colorado,2017-18,Belmont Elementary,Kindergarten,Pueblo,Academy 20,75,84,84,0,0,0,38.298777,-104.590213
+1187,Colorado,2017-18,St. Mary's Academy,Kindergarten,Arapahoe,Colorado Springs 11,25,84,84,0,0,0,39.634062,-104.961009
+1188,Colorado,2017-18,Orchard Avenue Elementary,Kindergarten,Mesa,St Vrain Valley Re 1J,56,83.93,83.93,0,0,0,39.085026,-108.544234
+1189,Colorado,2017-18,Vista Peak Exploratory,Kindergarten,Arapahoe,Greeley 6,105,83.81,82.86,0,0,0.95,39.7191713,-104.7011188
+1190,Colorado,2017-18,Ellicott Elementary,Kindergarten,El Paso,Jefferson County R-1,74,83.78,82.43,0,1.35,0,38.824814,-104.385823
+1191,Colorado,2017-18,Crest View Elementary,Kindergarten,Boulder,Pueblo County 70,80,83.75,78.75,0,3.75,0,40.051633,-105.274023
+1192,Colorado,2017-18,Midland Elementary,Kindergarten,El Paso,Montezuma-Cortez RE-1,43,83.72,81.4,0,0,0,38.838205,-104.862928
+1193,Colorado,2017-18,Paris Elementary,Kindergarten,Adams,Lewis-Palmer 38,43,83.72,83.72,0,0,0,39.742799,-104.848627
+1194,Colorado,2017-18,Skyview Academy,Kindergarten,Douglas,Cherry Creek 5,86,83.72,81.4,0,2.33,0,39.56294,-104.917321
+1195,Colorado,2017-18,Tope Elementary,Kindergarten,Mesa,Jefferson County R-1,43,83.72,83.72,0,0,0,39.086948,-108.560075
+1196,Colorado,2017-18,Bessemer Elementary,Kindergarten,Pueblo,Falcon 49,49,83.67,81.63,0,2.04,0,38.246788,-104.616564
+1197,Colorado,2017-18,Mountain View Elementary,Kindergarten,El Paso,Jefferson County R-1,91,83.52,82.42,0,0,0,38.977605,-104.776167
+1198,Colorado,2017-18,Academy 360,Kindergarten,Denver,Jefferson County R-1,42,83.33,83.33,0,0,0,39.78198,-104.850361
+1199,Colorado,2017-18,Gateway Elementary,Kindergarten,Teller,Kim Reorganized 88,54,83.33,75.93,0,3.7,0,38.994075,-105.045849
+1200,Colorado,2017-18,Lawrence Elementary,Kindergarten,Jefferson,Denver County 1,54,83.33,81.48,0,1.85,0,39.798651,-105.085943
+1201,Colorado,2017-18,Ouray K-12,Kindergarten,Ouray,Harrison 2,6,83.33,83.33,0,0,0,38.0242286,-107.6690907
+1202,Colorado,2017-18,Primrose School Of Springs Ranch,Kindergarten,El Paso,Denver County,6,83.33,83.33,0,0,0,38.88818,-104.713571
+1203,Colorado,2017-18,St Francis De Sales,Kindergarten,Denver,Denver County 1,12,83.33,75,0,8.33,0,39.7109422,-104.9850777
+1204,Colorado,2017-18,Mcauliffe Elementary,Kindergarten,El Paso,Douglas County RE 1,107,83.18,79.44,0,2.8,0.93,38.843608,-104.70929
+1205,Colorado,2017-18,West Elementary,Kindergarten,El Paso,Adams-Arapahoe 28J,53,83.02,77.36,0,3.77,0,38.843442,-104.853399
+1206,Colorado,2017-18,Gilliam,Private,Denver,Douglas County RE 1,41,82.93,82.93,0,0,0,39.757631,-104.972747
+1207,Colorado,2017-18,Adams Elementary,Kindergarten,El Paso,Douglas County RE 1,70,82.86,71.43,0,8.57,2.86,38.820683,-104.788113
+1208,Colorado,2017-18,Otero Elementary,Kindergarten,El Paso,Denver County 1,70,82.86,80,0,2.86,0,38.770497,-104.806286
+1209,Colorado,2017-18,Jordahl Elementary,Kindergarten,El Paso,St Vrain Valley Re 1J,81,82.72,77.78,0,4.94,0,38.671968,-104.67827
+1210,Colorado,2017-18,Longfellow Elementary,Kindergarten,Chaffee,Limon RE-4J,75,82.67,77.33,0,5.33,0,38.533056,-106.000699
+1211,Colorado,2017-18,Eisenhower Elementary,Kindergarten,Boulder,Dolores County RE No.2,46,82.61,80.43,0,2.17,0,40.008173,-105.233914
+1212,Colorado,2017-18,Garden Place Elementary,Kindergarten,Denver,Fremont RE-2,46,82.61,82.61,0,0,0,39.776823,-104.98645
+1213,Colorado,2017-18,Stratmoor Hills Elementary,Kindergarten,El Paso,Adams 12 Five Star Schools,46,82.61,82.61,0,0,0,38.772657,-104.798015
+1214,Colorado,2017-18,Wilmore Davis Elementary,Kindergarten,Jefferson,Douglas County RE 1,40,82.5,82.5,0,0,0,39.773499,-105.08603
+1215,Colorado,2017-18,Goodnight Elementary,Kindergarten,Pueblo,Eaton RE-2,74,82.43,81.08,0,1.35,0,38.255172,-104.670616
+1216,Colorado,2017-18,Timberline Pk-8,Kindergarten,Boulder,Boulder Valley RE 2,74,82.43,81.08,0,1.35,0,40.180134,-105.086677
+1217,Colorado,2017-18,Rockrimmon Elementary,Kindergarten,El Paso,Boulder Valley RE 2,45,82.22,73.33,0,8.89,0,38.932706,-104.830498
+1218,Colorado,2017-18,Juniper Ridge Community,Kindergarten,Mesa,Academy 20,56,82.14,57.14,0,25,0,39.097884,-108.597858
+1219,Colorado,2017-18,Kunsmiller Creative Arts Academy,Kindergarten,Denver,Adams 12 Five Star Schools,39,82.05,82.05,0,0,0,39.676015,-105.040162
+1220,Colorado,2017-18,Aspen Creek K-8,Kindergarten,Boulder,St Vrain Valley Re 1J,66,81.82,80.3,0,1.52,0,39.9469654,-105.0565742
+1221,Colorado,2017-18,Mesa Valley Community,Kindergarten,Mesa,Jefferson County R-1,22,81.82,68.18,0,13.64,0,39.093614,-108.61145
+1222,Colorado,2017-18,Southeast Christian,Kindergarten,Douglas,Woodlin R-104,33,81.82,81.82,0,0,0,39.54118,-104.792301
+1223,Colorado,2017-18,Vision Charter Academy,Kindergarten,Delta,Thompson R2-J,33,81.82,54.55,0,27.27,0,38.73308,-108.050381
+1224,Colorado,2017-18,Christ The King Roman Catholic,Kindergarten,Denver,Douglas County RE 1,27,81.48,81.48,0,0,0,39.7293786,-104.9285466
+1225,Colorado,2017-18,Weikel Elementary,Kindergarten,El Paso,Lewis-Palmer 38,123,81.3,78.05,0,3.25,0,38.737254,-104.799994
+1226,Colorado,2017-18,Beulah Elementary,Kindergarten,Pueblo,Poudre R-1,16,81.25,68.75,0,12.5,0,38.07563,-104.978441
+1227,Colorado,2017-18,Deer Trail,Kindergarten,Arapahoe,Thompson R2-J,16,81.25,81.25,0,0,0,39.6107721,-104.042045
+1228,Colorado,2017-18,Summit Elementary,Kindergarten,Teller,Brighton School District,48,81.25,70.83,0,10.42,0,38.952398,-105.144462
+1229,Colorado,2017-18,Pikes Peak Elementary,Kindergarten,El Paso,Mesa County Valley 51,69,81.16,76.81,0,4.35,0,38.810737,-104.770826
+1230,Colorado,2017-18,Carlile Elementary,Kindergarten,Pueblo,Moffat County RE-1,37,81.08,78.38,0,2.7,0,38.264703,-104.630945
+1231,Colorado,2017-18,Academy International Elementary,Kindergarten,El Paso,Canon City RE-1,88,80.68,77.27,0,3.41,0,38.962663,-104.765557
+1232,Colorado,2017-18,Niwot Elementary,Kindergarten,Boulder,Mesa County Valley 51,62,80.65,79.03,0,1.61,0,40.099667,-105.147933
+1233,Colorado,2017-18,Riverview,Kindergarten,Garfield,Douglas County,36,80.56,77.78,0,0,0,39.484158,-107.298206
+1234,Colorado,2017-18,Park Lane Elementary,Kindergarten,Adams,Adams-Arapahoe 28J,41,80.49,80.49,0,0,0,39.759105,-104.836904
+1235,Colorado,2017-18,Black Rock Elementary,Kindergarten,Boulder,Bayfield 10 JT-R,128,80.47,78.91,0,1.56,0,40.0061015,-105.0157238
+1236,Colorado,2017-18,Ellis Elementary,Kindergarten,Denver,Harrison 2,51,80.39,80.39,0,0,0,39.686991,-104.932366
+1237,Colorado,2017-18,Dcis At Ford,Kindergarten,Denver,Cripple Creek-Victor RE-1,76,80.26,78.95,0,1.32,0,39.792728,-104.815943
+1238,Colorado,2017-18,Dps Ece Dcis @ Ford Elementary,Kindergarten,Denver,El Paso County,76,80.26,78.95,0,1.32,0,39.7923985,-104.8157553
+1239,Colorado,2017-18,Boulder Community School/Integrated Studies,Kindergarten,Boulder,Jefferson County R-1,45,80,64.44,0,13.33,2.22,40.004278,-105.246135
+1240,Colorado,2017-18,Immanuel Lutheran,Kindergarten,Larimer,Weld County School District RE-3J,10,80,80,0,0,0,40.4410495,-105.0752866
+1241,Colorado,2017-18,Lake City Community,Kindergarten,Hinsdale,Boulder Valley RE 2,10,80,40,0,30,0,38.024392,-107.317468
+1242,Colorado,2017-18,Mile High Aventist Academy,Kindergarten,Douglas,Westminster Public Schools,10,80,80,0,0,0,39.5625531,-104.9676311
+1243,Colorado,2017-18,Mountain Valley,Kindergarten,Saguache,Littleton 6,5,80,60,0,20,0,38.084038,-106.136765
+1244,Colorado,2017-18,Our Lady Of Lourdes Catholic Classical,Kindergarten,Denver,Denver County 1,25,80,64,0,16,0,39.6756125,-104.9820337
+1245,Colorado,2017-18,Plateau Valley Elementary,Kindergarten,Mesa,Academy 20,15,80,73.33,0,6.67,0,39.233384,-107.996616
+1246,Colorado,2017-18,Rocky Mountain Deaf,Kindergarten,Jefferson,Jefferson County R-1,5,80,80,0,0,0,39.642935,-105.111183
+1247,Colorado,2017-18,Trinity Lutheran,Kindergarten,Morgan,Cheyenne Mountain 12,10,80,70,0,10,0,40.2571,-103.816541
+1248,Colorado,2017-18,Discovery Canyon Campus Elementary,Kindergarten,El Paso,Crowley County RE-1-J,74,79.73,75.68,0,4.05,0,39.03062,-104.794791
+1249,Colorado,2017-18,Rocky Mountain Elementary,Kindergarten,Boulder,Jefferson County R-1,64,79.69,76.56,0,0,3.13,40.168069,-105.078068
+1250,Colorado,2017-18,Penrose Elementary,Kindergarten,El Paso,Cherry Creek 5,71,78.87,76.06,0,2.82,0,38.878525,-104.746845
+1251,Colorado,2017-18,Faith Christian Academy,Kindergarten,Jefferson,Adams 12 Five Star Schools,47,78.72,74.47,0,4.26,0,39.8131481,-105.1342791
+1252,Colorado,2017-18,Waverly Facility School Turning Point,Private,Larimer,Jefferson County R-1,14,78.57,78.57,0,0,0,40.5654698,-105.0765842
+1253,Colorado,2017-18,Samuels Elementary,Kindergarten,Denver,Littleton 6,79,78.48,78.48,0,0,0,39.642675,-104.89177
+1254,Colorado,2017-18,Alicia Sanchez International,Kindergarten,Boulder,Fountain 8,72,77.78,72.22,0,5.56,0,39.989275,-105.084108
+1255,Colorado,2017-18,Turman Elementary,Kindergarten,El Paso,Adams 12 Five Star Schools,54,77.78,77.78,0,0,0,38.785433,-104.750599
+1256,Colorado,2017-18,Legacy Academy,Kindergarten,Elbert,Johnstown-milliken RE-5J,53,77.36,73.58,0,3.77,0,39.359473,-104.628453
+1257,Colorado,2017-18,Benjamin Franklin Elementary,Kindergarten,Pueblo,Denver County 1,66,77.27,77.27,0,0,0,38.290497,-104.58734
+1258,Colorado,2017-18,Prospect Ridge Academy,Kindergarten,Adams,Boulder Valley RE 2,88,77.27,71.59,0,5.68,0,39.9943091,-105.0176361
+1259,Colorado,2017-18,Thunder Mountain Elementary,Kindergarten,Mesa,Charter School Institute,69,76.81,76.81,0,0,0,39.098244,-108.48408
+1260,Colorado,2017-18,Ryan Elementary,Kindergarten,Boulder,Adams 12 Five Star Schools,77,76.62,75.32,0,1.3,0,39.980874,-105.110242
+1261,Colorado,2017-18,Collegiate Academy Of Colorado,Kindergarten,Jefferson,Jefferson County R-1,47,76.6,68.09,0,6.38,2.13,39.566834,-105.113354
+1262,Colorado,2017-18,Foothills Elementary,Kindergarten,Jefferson,Park County RE-2,47,76.6,74.47,0,2.13,0,39.703074,-105.146616
+1263,Colorado,2017-18,Soar At Green Valley Ranch,Kindergarten,Denver,Silverton 1,72,76.39,76.39,0,0,0,39.785129,-104.778432
+1264,Colorado,2017-18,Sunrise Elementary,Kindergarten,El Paso,Adams 12 Five Star Schools,117,76.07,75.21,0,0.85,0,38.728964,-104.686185
+1265,Colorado,2017-18,Freedom Elementary,Kindergarten,El Paso,Moffat 2,83,75.9,75.9,0,0,0,38.935441,-104.732023
+1266,Colorado,2017-18,Crested Butte Elementary,Kindergarten,Gunnison,Poudre R-1,62,75.81,67.74,0,8.06,0,38.865104,-106.975755
+1267,Colorado,2017-18,Augustine Classical Academy,Kindergarten,Jefferson,Littleton 6,12,75,66.67,0,8.33,0,39.70761,-105.108878
+1268,Colorado,2017-18,Indian Peaks Charter,Kindergarten,Grand,Arapahoe County,8,75,37.5,0,37.5,0,40.090594,-105.942963
+1269,Colorado,2017-18,Martin Luther King Jr Elementary,Kindergarten,El Paso,Boulder Valley RE 2,124,75,73.39,0,0,1.61,38.734685,-104.699323
+1270,Colorado,2017-18,Options,Kindergarten,Adams,Colorado Springs 11,44,75,45.45,0,27.27,2.27,39.748328,-104.854662
+1271,Colorado,2017-18,Park View Elementary,Kindergarten,Pueblo,Otis R-3,67,74.63,71.64,0,2.99,0,38.276064,-104.587458
+1272,Colorado,2017-18,Mountain View Elementary,Kindergarten,Boulder,Poudre R-1,58,74.14,68.97,0,5.17,0,40.183069,-105.115556
+1273,Colorado,2017-18,Fremont Elementary,Kindergarten,El Paso,Boulder Valley RE 2,61,73.77,73.77,0,0,0,38.906921,-104.770847
+1274,Colorado,2017-18,Beulah Heights Elementary,Kindergarten,Pueblo,Poudre R-1,38,73.68,73.68,0,0,0,38.222742,-104.648827
+1275,Colorado,2017-18,Lake George Charter,Kindergarten,Park,Clear Creek RE-1,19,73.68,47.37,0,26.32,0,38.973878,-105.354048
+1276,Colorado,2017-18,Oakland Elementary,Kindergarten,Denver,Harrison 2,38,73.68,73.68,0,0,0,39.778283,-104.818845
+1277,Colorado,2017-18,Scott Elementary,Kindergarten,El Paso,Douglas County RE 1,95,73.68,73.68,0,0,0,38.922844,-104.735126
+1278,Colorado,2017-18,Two Rivers Community,Kindergarten,Garfield,Adams 12 Five Star Schools,38,73.68,71.05,0,2.63,0,39.565278,-107.366886
+1279,Colorado,2017-18,Grant Elementary,Kindergarten,El Paso,Poudre R-1,72,73.61,63.89,0,8.33,1.39,38.895991,-104.76748
+1280,Colorado,2017-18,Twin Peaks Charter Academy,Kindergarten,Boulder,Cherry Creek 5,56,73.21,67.86,0,5.36,0,40.15467,-105.118601
+1281,Colorado,2017-18,Highland Park Elementary,Kindergarten,Pueblo,Adams County 14,82,73.17,73.17,0,0,0,38.220801,-104.661107
+1282,Colorado,2017-18,High Plains Elementary,Kindergarten,El Paso,Jefferson County R-1,48,72.92,68.75,0,2.08,0,38.947094,-104.783662
+1283,Colorado,2017-18,Eva R Baca Elementary,Kindergarten,Pueblo,Garfield RE-2,33,72.73,72.73,0,0,0,38.28348,-104.560243
+1284,Colorado,2017-18,Firstart Christian Academy,Kindergarten,Adams,Jefferson County,11,72.73,72.73,0,0,0,39.9768466,-104.8126703
+1285,Colorado,2017-18,Smith Elementary,Kindergarten,Denver,Cheyenne Mountain 12,44,72.73,72.73,0,0,0,39.7671417,-104.918353
+1286,Colorado,2017-18,Gunnison Elementary,Kindergarten,Gunnison,Roaring Fork RE-1,83,72.29,68.67,0,3.61,0,38.55369,-106.937459
+1287,Colorado,2017-18,Prairie Hills Elementary,Kindergarten,El Paso,Montrose County RE-1j,60,71.67,70,0,1.67,0,38.949852,-104.733281
+1288,Colorado,2017-18,Ricardo Flores Magon Academy,Kindergarten,Adams,Poudre R-1,21,71.43,71.43,0,0,0,39.79321,-105.035231
+1289,Colorado,2017-18,Legacy Point Elementary,Kindergarten,Douglas,Elizabeth C-1,55,70.91,69.09,0,1.82,0,39.486121,-104.783392
+1290,Colorado,2017-18,Quest Academy At Dacono,Kindergarten,Weld,Colorado Springs 11,24,70.83,70.83,0,0,0,40.0453,-104.963694
+1291,Colorado,2017-18,Devinny Elementary,Kindergarten,Jefferson,Cheyenne Mountain 12,65,70.77,70.77,0,0,0,39.685932,-105.139737
+1292,Colorado,2017-18,Schmitt Elementary,Kindergarten,Denver,Charter School Institute,34,70.59,70.59,0,0,0,39.68363,-105.012558
+1293,Colorado,2017-18,Avery/Parsons Elementary,Kindergarten,Chaffee,Poudre R-1,69,69.57,62.32,0,5.8,1.45,38.844413,-106.126921
+1294,Colorado,2017-18,Venetucci Elementary,Kindergarten,El Paso,Jefferson County R-1,88,69.32,67.05,0,2.27,0,38.741411,-104.728016
+1295,Colorado,2017-18,Sacred Heart Of Jesus,Kindergarten,Boulder,Denver County 1,13,69.23,69.23,0,0,0,40.02124,-105.278723
+1296,Colorado,2017-18,Thunder Valley Pk-8,Kindergarten,Boulder,Pueblo City 60,77,68.83,68.83,0,0,0,40.097607,-104.9322786
+1297,Colorado,2017-18,Oak Grove Elementary,Kindergarten,Montrose,Adams 12 Five Star Schools,65,67.69,60,1.54,6.15,0,38.459684,-107.928776
+1298,Colorado,2017-18,Webster Elementary,Kindergarten,El Paso,Jefferson County R-1,105,67.62,66.67,0,0.95,0,38.725849,-104.714174
+1299,Colorado,2017-18,Stratton Meadows Elementary,Kindergarten,El Paso,Stratton R-4,55,67.27,65.45,0,1.82,0,38.805993,-104.813026
+1300,Colorado,2017-18,Academy Calvert K-8 Online,Kindergarten,El Paso,Lake County R-1,6,66.67,66.67,0,0,0,38.9201587,-104.7907929
+1301,Colorado,2017-18,Guffey Charter,Kindergarten,Park,Gilpin County RE-1,3,66.67,33.33,0,33.33,0,38.750993,-105.521051
+1302,Colorado,2017-18,Crescent View Academy,Kindergarten,Arapahoe,Cotopaxi RE-3,29,65.52,65.52,0,0,0,39.66281,-104.860971
+1303,Colorado,2017-18,Cloverleaf Home Education,Kindergarten,Douglas,Academy 20,30,63.33,43.33,0,20,0,39.373083,-104.855755
+1304,Colorado,2017-18,Mesa Elementary,Kindergarten,El Paso,Adams 12 Five Star Schools,95,60,60,0,0,0,38.703651,-104.700299
+1305,Colorado,2017-18,Otis K-12,Kindergarten,Washington,Montrose County RE-1j,15,60,60,0,0,0,40.153895,-102.967962
+1306,Colorado,2017-18,Frontier Elementary,Kindergarten,El Paso,Academy 20,62,59.68,58.06,0,1.61,0,38.946833,-104.755905
+1307,Colorado,2017-18,Imagine Charter,Kindergarten,Boulder,Denver County 1,69,57.97,50.72,0,7.25,0,40.1628507,-104.94672
+1308,Colorado,2017-18,Emerald Elementary,Kindergarten,Boulder,Adams County 14,64,57.81,53.13,0,4.69,0,39.9208733,-105.0773552
+1309,Colorado,2017-18,Edith Wolford Elementary,Kindergarten,El Paso,Adams 12 Five Star Schools,47,57.45,55.32,0,2.13,0,39.030349,-104.701674
+1310,Colorado,2017-18,Springs Adventist Academy,Kindergarten,El Paso,Elizabeth C-1,7,57.14,28.57,0,28.57,0,38.85665,-104.727321
+1311,Colorado,2017-18,Franktown Elementary,Kindergarten,Douglas,Adams-Arapahoe 28J,47,55.32,53.19,0,2.13,0,39.382118,-104.748424
+1312,Colorado,2017-18,Secrest Elementary,Kindergarten,Jefferson,Brighton School District,46,43.48,43.48,0,0,0,39.813767,-105.073314
+1313,Colorado,2017-18,Pikes Peak Prep,Kindergarten,El Paso,Peyton 23 JT,27,40.74,40.74,0,0,0,38.827498,-104.8153
+1314,Colorado,2017-18,Arvada K-8,Kindergarten,Jefferson,Boulder Valley RE 2,47,40.43,40.43,0,0,0,39.800987,-105.089204
+1315,Colorado,2017-18,Compass Montessori - Golden Charter,Kindergarten,Jefferson,Denver County 1,20,25,20,0,5,0,39.775029,-105.189557
+1316,Colorado,2017-18,North Park,Kindergarten,Jackson,Colorado Springs 11,10,20,20,0,0,0,40.732413,-106.276787
+1317,Colorado,2017-18,Apex Home School Enrichment Program,Kindergarten,Boulder,Boulder Valley RE 2,68,16.18,7.35,0,8.82,0,40.073303,-105.17094
+1318,Colorado,2017-18,Gateway,Kindergarten,Mesa,Jefferson County R-1,4,0,0,0,0,0,38.682865,-108.971643
+1319,Colorado,2017-18,Redeemer Lutheran Tiny Treasures,Kindergarten,Delta,Boulder County,1,0,0,0,0,0,38.73474,-108.049991

@@ -1,0 +1,482 @@
+index,state,year,name,city,enroll,mmr,lat,lng
+1,Arkansas,2018-19,Maumelle Charter Elementary,Maumelle,717,96.09484,34.8652757,-92.4049127
+2,Arkansas,2018-19,Thomas C Brunson Elementary,Warren,279,95.69892,33.6271712,-92.0686244
+3,Arkansas,2018-19,Parkway Elementary,Alexander,508,94.88189,34.6423602,-92.4732573
+4,Arkansas,2018-19,Sunnymede Elementary,Fort Smith,656,94.05488,35.39385,-94.384082
+5,Arkansas,2018-19,Don Roberts Elementary,Little Rock,992,93.75,34.8010895,-92.4543794
+6,Arkansas,2018-19,Rena Elementary,Van Buren,485,93.60825,35.4678181,-94.37317
+7,Arkansas,2018-19,Jefferson Elementary,Little Rock,412,93.4466,34.7762618,-92.3460157
+8,Arkansas,2018-19,John P. Woods Elementary,Fort Smith,631,93.3439,35.3513739,-94.3387746
+9,Arkansas,2018-19,Perrin Elementary,Benton,689,93.17852,34.5761842,-92.5689507
+10,Arkansas,2018-19,Springhill Elementary,Bryant,524,92.74809,34.6528596,-92.516921
+11,Arkansas,2018-19,Forest Park Elementary,Little Rock,480,92.70833,34.766944,-92.334232
+12,Arkansas,2018-19,Hugh Goodwin Elementary,El Dorado,536,92.53731,33.2209679,-92.6614337
+13,Arkansas,2018-19,Janie Darr Elementary,Rogers,818,92.42054,36.2668104,-94.1939405
+14,Arkansas,2018-19,Greenbrier Springhill Elementary,Greenbrier,483,92.33955,35.1806896,-92.4103757
+15,Arkansas,2018-19,Ark. School For The Blind Elem,Little Rock,50,92,34.7527841,-92.3031316
+16,Arkansas,2018-19,Bernice Young Elementary,Springdale,686,91.54519,36.1850592,-94.2048274
+17,Arkansas,2018-19,Richland Elementary,West Memphis,648,91.51235,35.1544231,-90.2093354
+18,Arkansas,2018-19,Maddux Elementary,West Memphis,506,91.50198,35.1538503,-90.157305
+19,Arkansas,2018-19,Taylor Elementary,Taylor,292,91.43836,33.0987665,-93.4602889
+20,Arkansas,2018-19,Moody Elementary,White Hall,477,91.40461,34.2842897,-92.1072736
+21,Arkansas,2018-19,Caldwell Elementary,Benton,570,91.40351,34.5664244,-92.606798
+22,Arkansas,2018-19,Gibbs Magnet Elementary,Little Rock,302,91.39073,34.7346331,-92.285823
+23,Arkansas,2018-19,Sutton Elementary,Fort Smith,585,91.11111,35.404477,-94.374577
+24,Arkansas,2018-19,Northwest Elementary,El Dorado,550,91.09091,33.2281805,-92.6746215
+25,Arkansas,2018-19,Spring Hill Elementary,Hope,364,90.93407,33.5848428,-93.6512741
+26,Arkansas,2018-19,Perryville Elementary,Perryville,506,90.90909,35.0086389,-92.8056408
+27,Arkansas,2018-19,Salem Elementary,Salem,511,90.80235,36.3555716,-91.81847
+28,Arkansas,2018-19,Bayyari Elementary,Springdale,687,90.53857,36.203333,-94.109792
+29,Arkansas,2018-19,Central Elementary,Magnolia,766,90.46997,33.2695782,-93.2362137
+30,Arkansas,2018-19,Rural Special Elem.,Fox,113,90.26549,35.753864,-92.2876021
+31,Arkansas,2018-19,Scranton Elementary,Scranton,266,90.22557,35.3609587,-93.539155
+32,Arkansas,2018-19,Southside Elementary,Cabot,532,90.22557,34.9391825,-92.0124447
+33,Arkansas,2018-19,Centerton Gamble Elementary,Centerton,713,89.90182,36.3814623,-94.2919214
+34,Arkansas,2018-19,Otter Creek Elementary,Little Rock,455,89.89011,34.6637221,-92.4336728
+35,Arkansas,2018-19,Genoa Central Elem.,Texarkana,495,89.69697,33.3766186,-93.8800743
+36,Arkansas,2018-19,Trusty Elementary,Fort Smith,378,89.68254,35.4122107,-94.3948637
+37,Arkansas,2018-19,Linda Childers Knapp Elementary,Springdale,1081,89.63922,36.1609773,-94.1104663
+38,Arkansas,2018-19,Sheridan Elementary,Sheridan,665,89.62406,34.3139353,-92.4125269
+39,Arkansas,2018-19,Sulphur Rock Magnet Elementary,Sulphur Rock,318,89.62264,35.7560832,-91.4999288
+40,Arkansas,2018-19,Bradley Elementary,Bradley,153,89.54248,33.1014353,-93.6605769
+41,Arkansas,2018-19,Bragg Elementary,West Memphis,646,89.47368,35.1556191,-90.1908871
+42,Arkansas,2018-19,Prairie Grove Elementary,Prairie Grove,918,89.43355,35.9849637,-94.3260808
+43,Arkansas,2018-19,Willis Shaw Elementary Sch,Springdale,819,89.37729,36.2256,-94.2171219
+44,Arkansas,2018-19,Fair Park Early Childhood Ctr,Little Rock,213,89.20188,34.7569679,-92.3326905
+45,Arkansas,2018-19,Root Elementary,Fayetteville,472,89.19492,36.0811634,-94.1403133
+46,Arkansas,2018-19,Julia Lee Moore Elem.,Conway,467,89.07923,35.0975941,-92.4817284
+47,Arkansas,2018-19,Carver Magnet Elem.,Little Rock,446,89.01345,34.7429082,-92.2453044
+48,Arkansas,2018-19,Eastside Elementary,Cabot,562,88.96797,34.9684909,-92.0072464
+49,Arkansas,2018-19,Nashville Elementary,Nashville,549,88.88889,33.9561393,-93.8493432
+50,Arkansas,2018-19,Elkins Elementary,Elkins,295,88.81356,36.0055514,-94.0078318
+51,Arkansas,2018-19,Stagecoach Elementary,Cabot,550,88.72727,34.956587,-91.985106
+52,Arkansas,2018-19,Northside Elementary,Siloam Springs,501,88.62275,36.1901885,-94.5480899
+53,Arkansas,2018-19,"Jerry ""Pop"" Williams Elem Sch",Farmington,437,88.55835,36.0542105,-94.2345626
+54,Arkansas,2018-19,Dequeen Elementary,De Queen,654,88.53211,34.0287039,-94.3628516
+55,Arkansas,2018-19,Walker Elementary,Springdale,653,88.51455,36.1704978,-94.173826
+56,Arkansas,2018-19,London Elementary,London,200,88.5,35.333781,-93.249986
+57,Arkansas,2018-19,Delight Elementary,Delight,104,88.46154,34.029381,-93.5001538
+58,Arkansas,2018-19,Mountain Springs Elem,Cabot,596,88.42282,35.0097694,-92.065529
+59,Arkansas,2018-19,Mabelvale Elementary,Mabelvale,575,88.34783,34.6510362,-92.382742
+60,Arkansas,2018-19,Harmony Grove Elem.,Camden,540,88.33333,34.5090494,-92.6434672
+61,Arkansas,2018-19,Jones Elementary,Springdale,617,88.33063,36.1749393,-94.1267346
+62,Arkansas,2018-19,East End Elementary,Little Rock,504,88.29365,34.5520567,-92.3399345
+63,Arkansas,2018-19,Magness Creek Elementary,Cabot,408,88.23529,35.0337573,-92.0696959
+64,Arkansas,2018-19,Chicot Elementary,Mabelvale,891,88.21549,34.6491779,-92.3656813
+65,Arkansas,2018-19,Crestwood Elementary,North Little Rock,530,88.11321,34.8037337,-92.2441375
+66,Arkansas,2018-19,Woodrow Cummins Elementary Sch,Conway,570,88.07018,35.0977191,-92.5232748
+67,Arkansas,2018-19,Elm Tree Elementary,Bentonville,825,88,36.3721548,-94.2499267
+68,Arkansas,2018-19,Harp Elementary,Springdale,596,87.91946,36.1603408,-94.0967016
+69,Arkansas,2018-19,Pangburn Elementary,Pangburn,443,87.81039,35.4292926,-91.8352622
+70,Arkansas,2018-19,Jim Stone Elementary,Conway,451,87.80488,35.084736,-92.499894
+71,Arkansas,2018-19,Lakeside Primary,Hot Springs,671,87.77943,34.4717978,-92.999018
+72,Arkansas,2018-19,Bellview Elementary,Rogers,466,87.76824,36.2853618,-94.173774
+73,Arkansas,2018-19,Thurman G. Smith Elem.,Springdale,751,87.74967,36.2012532,-94.1726543
+74,Arkansas,2018-19,Eastside Elementary,Warren,555,87.74775,34.2930355,-92.591719
+75,Arkansas,2018-19,Southside Elementary,Siloam Springs,734,87.73842,36.1764313,-94.5459364
+76,Arkansas,2018-19,Romine Interdist. Elem.,Little Rock,363,87.60331,34.7235242,-92.3831918
+77,Arkansas,2018-19,Howard Elementary,Fort Smith,435,87.58621,35.39633,-94.4137551
+78,Arkansas,2018-19,Oscar Hamilton Elementary Sch,Foreman,313,87.53994,33.7306416,-94.4076083
+79,Arkansas,2018-19,Wonderview Elementary,Hattieville,345,87.53623,35.3266663,-92.7302825
+80,Arkansas,2018-19,East Side Elementary,Magnolia,935,87.48663,33.2717396,-93.2255185
+81,Arkansas,2018-19,Joann Walters Elementary Sch,Dierks,359,87.46518,34.1183525,-94.026444
+82,Arkansas,2018-19,Hardin Elementary,Redfield,279,87.4552,34.4515687,-92.1762212
+83,Arkansas,2018-19,Pea Ridge Primary,Pea Ridge,621,87.43961,36.453286,-94.125156
+84,Arkansas,2018-19,Wickes Elementary,Wickes,342,87.4269,34.2981913,-94.3325815
+85,Arkansas,2018-19,West Magnet Elementary,Batesville,647,87.32612,35.777911,-91.6548576
+86,Arkansas,2018-19,Westside Elementary,Cabot,481,87.31809,34.962211,-92.0334747
+87,Arkansas,2018-19,Woodlawn Elementary,Rison,323,87.3065,33.966655,-92.0419148
+88,Arkansas,2018-19,Des Arc Elementary,Des Arc,370,87.2973,34.9723606,-91.517628
+89,Arkansas,2018-19,Bearden Elementary,Bearden,291,87.28522,33.7281349,-92.6206659
+90,Arkansas,2018-19,Viola Elementary,Viola,228,87.2807,36.3954055,-91.9859453
+91,Arkansas,2018-19,S.C. Tucker Elementary,Danville,396,87.12121,35.0530184,-93.3908965
+92,Arkansas,2018-19,Robert L. Davis Elem.,Alexander,635,87.08661,34.626298,-92.4148979
+93,Arkansas,2018-19,Harrisburg Elementary,Harrisburg,440,87.04545,35.5533901,-90.7215608
+94,Arkansas,2018-19,Barling Elementary,Barling,447,87.02461,35.3293919,-94.3113427
+95,Arkansas,2018-19,Western Grove K-12,Western Grove,307,86.97069,36.0989774,-92.9554781
+96,Arkansas,2018-19,Osage Creek Elementary,Bentonville,611,86.90671,36.342113,-94.2433803
+97,Arkansas,2018-19,Euper Lane Elementary,Fort Smith,579,86.87392,35.3640179,-94.3579965
+98,Arkansas,2018-19,Dardanelle Primary,Dardanelle,782,86.82864,35.2343601,-93.1897542
+99,Arkansas,2018-19,David O.Dodd Elementary,Little Rock,326,86.80981,34.6898484,-92.3933579
+100,Arkansas,2018-19,Spradling Elementary,Fort Smith,469,86.78038,35.415087,-94.3762775
+101,Arkansas,2018-19,Pyron Elementary,Clarksville,711,86.77918,35.4610949,-93.4910268
+102,Arkansas,2018-19,Buffalo Island Central Elementary,Monette,484,86.77686,35.926122,-90.2562046
+103,Arkansas,2018-19,Magnet Cove Elementary,Malvern,461,86.76789,34.4492662,-92.8365458
+104,Arkansas,2018-19,Tilles Elementary,Fort Smith,468,86.75213,35.3880955,-94.4102519
+105,Arkansas,2018-19,Watson Primary,Huntsville,596,86.74496,36.0884789,-93.7437013
+106,Arkansas,2018-19,Booker Arts Magnet Elem. Sch.,Little Rock,502,86.65339,34.7288368,-92.2618465
+107,Arkansas,2018-19,Pine Haven Elementary,Bauxite,893,86.56215,34.5645393,-92.5045547
+108,Arkansas,2018-19,Pike View Early Childhood Center,North Little Rock,253,86.56126,34.8016235,-92.2607826
+109,Arkansas,2018-19,Robert E. Lee Elem.,Springdale,549,86.52095,36.179522,-94.1340921
+110,Arkansas,2018-19,Greene Cty Tech Elementary,Paragould,623,86.51685,36.0473929,-90.5497892
+111,Arkansas,2018-19,Cavanaugh Elementary,Fort Smith,430,86.51163,35.3113366,-94.424175
+112,Arkansas,2018-19,George Elementary,Springdale,673,86.47845,36.1592678,-94.1280287
+113,Arkansas,2018-19,Northside Elementary,Cabot,458,86.46288,34.9808412,-92.025137
+114,Arkansas,2018-19,Peake Elementary,Arkadelphia,338,86.39053,34.1227327,-93.0689679
+115,Arkansas,2018-19,East Pointe Elementary,Greenwood,803,86.30137,35.2022702,-94.2380619
+116,Arkansas,2018-19,Apple Glen Elementary,Bentonville,693,86.29149,36.3751267,-94.1893787
+117,Arkansas,2018-19,Reed Elementary,Dumas,444,86.26126,33.8808667,-91.4983688
+118,Arkansas,2018-19,Center Valley Elem.,Russellville,443,86.23025,35.3302604,-93.0860531
+119,Arkansas,2018-19,Cooper Elementary,Bella Vista,668,86.22754,36.4371738,-94.2303336
+120,Arkansas,2018-19,Central Primary,Arkadelphia,310,86.12903,34.1232054,-93.0604371
+121,Arkansas,2018-19,Dequeen Primary,De Queen,677,86.11521,34.0273138,-94.3627762
+122,Arkansas,2018-19,Glen Rose Elementary,Malvern,468,86.11111,34.456096,-92.730477
+123,Arkansas,2018-19,Holly Harshman Elem.,Mena,453,86.09272,34.5824283,-94.2196727
+124,Arkansas,2018-19,Alma Primary,Alma,826,86.07748,35.4894978,-94.2007763
+125,Arkansas,2018-19,Lisa Academy North Elementary Charter,Sherwood,488,86.06557,34.800355,-92.2129806
+126,Arkansas,2018-19,Joe Mathias Elementary,Rogers,652,86.04295,36.3500827,-94.1506972
+127,Arkansas,2018-19,Fulbright Elementary,Little Rock,659,86.03945,34.7803974,-92.3945537
+128,Arkansas,2018-19,Arkansas Arts Academy Elementary,Rogers,616,86.03896,36.331095,-94.122102
+129,Arkansas,2018-19,Hurricane Creek Elementary,Benton,623,86.03531,34.5897203,-92.5328698
+130,Arkansas,2018-19,Monitor Elementary,Springdale,862,85.96288,36.2018885,-94.0859225
+131,Arkansas,2018-19,John Tyson Elementary,Springdale,648,85.95679,36.16304,-94.152394
+132,Arkansas,2018-19,Northside Elementary,Rogers,547,85.92322,36.342596,-94.1241017
+133,Arkansas,2018-19,Nelson Wilks Herron Elementary,Mountain Home,609,85.87849,36.3474629,-92.3809009
+134,Arkansas,2018-19,Oak Grove Elementary,Paragould,275,85.81818,36.1193502,-90.5145339
+135,Arkansas,2018-19,Hector Elementary,Hector,366,85.79235,35.4699454,-92.9728714
+136,Arkansas,2018-19,Bay Elementary,Bay,394,85.7868,35.7478397,-90.5661674
+137,Arkansas,2018-19,Clarksville Primary,Clarksville,422,85.78199,35.4611836,-93.5049853
+138,Arkansas,2018-19,Rivercrest Elementary,Wilson,731,85.77291,35.5959177,-90.0771032
+139,Arkansas,2018-19,Sugar Creek Elementary,Bentonville,527,85.7685,36.3838183,-94.2161919
+140,Arkansas,2018-19,Happy Hollow Elementary,Fayetteville,562,85.76512,36.0603887,-94.1303522
+141,Arkansas,2018-19,Collegeville Elementary,Bryant,576,85.76389,34.6200538,-92.5048493
+142,Arkansas,2018-19,Salem Elementary,Benton,618,85.76052,34.6223319,-92.5515154
+143,Arkansas,2018-19,Hill Farm Elementary,Bryant,653,85.75804,34.5826682,-92.4903734
+144,Arkansas,2018-19,Gandy Elementary,White Hall,385,85.71429,34.2556034,-92.0944453
+145,Arkansas,2018-19,Woodrow Wilson Elem.,Paragould,322,85.71429,36.0546695,-90.4983214
+146,Arkansas,2018-19,Louise Durham Elem.,Mena,496,85.68549,34.5884502,-94.2500621
+147,Arkansas,2018-19,Faulk Elementary,West Memphis,649,85.67026,35.1361445,-90.2052453
+148,Arkansas,2018-19,Ward Central Elementary,Ward,643,85.53655,35.011181,-91.9600449
+149,Arkansas,2018-19,Glenn Duffy Elementary,Gravette,559,85.50984,36.4172304,-94.4468102
+150,Arkansas,2018-19,Pocahontas Upper Elem.,Pocahontas,766,85.50914,36.2792586,-90.9867115
+151,Arkansas,2018-19,Westwood Elementary,Greenwood,807,85.50186,35.2174616,-94.2947638
+152,Arkansas,2018-19,Albert Pike Elementary,Fort Smith,606,85.47855,35.379449,-94.3870479
+153,Arkansas,2018-19,Emerson Elementary,Emerson,179,85.47486,33.0978392,-93.1996513
+154,Arkansas,2018-19,Bismarck Elementary,Bismarck,460,85.43478,34.3153879,-93.1767143
+155,Arkansas,2018-19,Timbo Elementary,Timbo,151,85.43046,35.8743453,-92.3177396
+156,Arkansas,2018-19,Sonora Elementary,Springdale,732,85.38252,36.1632218,-94.0473483
+157,Arkansas,2018-19,Wynne Primary,Wynne,711,85.37272,35.2342363,-90.7793661
+158,Arkansas,2018-19,Sequoyah Elementary,Russellville,622,85.36978,35.2675475,-93.1493625
+159,Arkansas,2018-19,Frank Tillery Elem.,Rogers,697,85.36586,36.3319431,-94.123734
+160,Arkansas,2018-19,Blevins Elementary,Blevins,348,85.34483,33.8756133,-93.5720426
+161,Arkansas,2018-19,Ellen Smith Elementary,Conway,463,85.31318,35.0548562,-92.4562956
+162,Arkansas,2018-19,Thomas Jefferson Elem.,Bentonville,638,85.26646,36.3824961,-94.216271
+163,Arkansas,2018-19,Beryl Henry Upper Elem.,Hope,285,85.26316,33.6475038,-93.5881877
+164,Arkansas,2018-19,Jones Elementary,Rogers,603,85.24047,36.2997621,-94.1211876
+165,Arkansas,2018-19,Ida Burns Elementary,Conway,453,85.20972,35.0957004,-92.4543664
+166,Arkansas,2018-19,Sylvan Hills Elementary,Sherwood,507,85.2071,34.8473212,-92.2355041
+167,Arkansas,2018-19,Dwight Elementary,Russellville,256,85.15625,35.2801088,-93.1460038
+168,Arkansas,2018-19,Vilonia Primary,Conway,458,85.15284,35.0806632,-92.2912712
+169,Arkansas,2018-19,Nevada Elementary,Rosston,241,85.06224,33.591873,-93.2954399
+170,Arkansas,2018-19,Westside Elementary,Searcy,541,85.02772,35.2440146,-91.7752887
+171,Arkansas,2018-19,Beard Elementary,Fort Smith,459,84.96732,35.3112644,-94.4174051
+172,Arkansas,2018-19,Concord Elementary,Concord,286,84.96503,35.6633763,-91.8477224
+173,Arkansas,2018-19,Greenbrier Wooster Elementary,Greenbrier,445,84.94382,35.2102933,-92.4548099
+174,Arkansas,2018-19,Turnbow Elementary,Springdale,749,84.91322,36.1533439,-94.0794937
+175,Arkansas,2018-19,Westwood Elementary,Springdale,700,84.85714,36.1823029,-94.1525638
+176,Arkansas,2018-19,Morrilton Elementary,Morrilton,402,84.82587,35.1623892,-92.7386641
+177,Arkansas,2018-19,Central Elementary,Corning,303,84.81848,36.4072255,-90.5880534
+178,Arkansas,2018-19,Melbourne Elementary,Melbourne,533,84.803,36.0682107,-91.8350225
+179,Arkansas,2018-19,Dewitt Elementary,Dewitt,582,84.7079,34.2756005,-91.349311
+180,Arkansas,2018-19,Horatio Elementary,Horatio,558,84.58781,33.9380128,-94.3516373
+181,Arkansas,2018-19,Willowbrook Elementary,Bentonville,895,84.58101,36.3227885,-94.2336559
+182,Arkansas,2018-19,Lowell Elementary,Lowell,538,84.57249,36.2586023,-94.1344243
+183,Arkansas,2018-19,Charleston Elementary,Charleston,598,84.44816,35.2958247,-94.0460865
+184,Arkansas,2018-19,Oakland Heights Elem.,Russellville,591,84.43316,35.2648244,-93.1287258
+185,Arkansas,2018-19,Ashdown Elementary,Ashdown,378,84.39153,33.6712638,-94.145811
+186,Arkansas,2018-19,Armorel Elementary,Armorel,275,84.36363,35.9171821,-89.79941
+187,Arkansas,2018-19,Vandergriff Elementary,Fayetteville,741,84.34548,36.0912319,-94.1162389
+188,Arkansas,2018-19,Elmer H. Cook Elementary,Fort Smith,693,84.27128,35.2950593,-94.3959859
+189,Arkansas,2018-19,Greenland Elementary,Greenland,311,84.24437,35.9963989,-94.1714542
+190,Arkansas,2018-19,Central Elementary,Cabot,475,84.21053,34.9620846,-92.0135699
+191,Arkansas,2018-19,Theodore Jones Elem.,Conway,525,84.19048,35.1029965,-92.4140459
+192,Arkansas,2018-19,Cedarville Elementary,Cedarville,297,84.17509,35.573713,-94.366152
+193,Arkansas,2018-19,Gosnell Elementary,Blytheville,808,84.15841,35.963773,-89.966343
+194,Arkansas,2018-19,Caddo Hills Elementary,Norman,383,84.07311,34.4198507,-93.6312389
+195,Arkansas,2018-19,Bob Folsom Elementary,Farmington,408,84.06863,36.034678,-94.255487
+196,Arkansas,2018-19,Parkview Elementary,Van Buren,502,84.06374,35.4499807,-94.353703
+197,Arkansas,2018-19,Lonoke Primary,Lonoke,550,84,34.7758477,-91.9080157
+198,Arkansas,2018-19,Edgewood Elementary,Pine Bluff,412,83.98058,34.1977559,-92.0452408
+199,Arkansas,2018-19,Estem East Village Elementary Public Charter,Little Rock,923,83.96533,34.7465187,-92.2717518
+200,Arkansas,2018-19,Taylor Elementary,White Hall,436,83.94495,34.2666729,-92.0943653
+201,Arkansas,2018-19,Carolyn Lewis Elementary Schoo,Conway,635,83.93701,35.046484,-92.492806
+202,Arkansas,2018-19,Lepanto Elementary,Lepanto,249,83.93574,35.6099649,-90.3407535
+203,Arkansas,2018-19,Reagan Elementary,Rogers,589,83.87097,36.3411812,-94.173831
+204,Arkansas,2018-19,Ballman Elementary,Fort Smith,414,83.81643,35.367137,-94.404972
+205,Arkansas,2018-19,Beebe Elementary,Beebe,1005,83.78109,35.0642874,-91.8927412
+206,Arkansas,2018-19,Forest Heights Elem.,Harrison,460,83.69565,34.760947,-92.3387274
+207,Arkansas,2018-19,Greenbrier Westside Elementary,Greenbrier,489,83.64008,35.2242964,-92.4005531
+208,Arkansas,2018-19,Mcrae Elementary,Searcy,543,83.60958,35.2553269,-91.7436397
+209,Arkansas,2018-19,Bonneville Elementary,Fort Smith,430,83.48837,35.3596534,-94.3737774
+210,Arkansas,2018-19,Lakewood Elementary,North Little Rock,545,83.48624,34.7945769,-92.246443
+211,Arkansas,2018-19,Cherokee Elementary,Hardy,750,83.46667,36.2621825,-91.5414226
+212,Arkansas,2018-19,Marvell-Elaine Elementary Sch,Marvell,253,83.39921,34.56134,-90.9171365
+213,Arkansas,2018-19,Palestine-Wheatley Elem. Sch.,Palestine,517,83.36557,34.9716395,-90.9027455
+214,Arkansas,2018-19,Gravette Upper Elementary,Gravette,534,83.33333,36.4174173,-94.4440055
+215,Arkansas,2018-19,Newport Elementary,Newport,856,83.29439,35.620879,-91.2329488
+216,Arkansas,2018-19,Cedar Ridge Elementary,Newark,383,83.28982,35.7167821,-91.4401702
+217,Arkansas,2018-19,Murfreesboro Elementary,Murfreesboro,353,83.28612,34.0579228,-93.6861262
+218,Arkansas,2018-19,King Elementary,Van Buren,646,83.28173,35.4405412,-94.3388351
+219,Arkansas,2018-19,Tyronza Elementary,Tyronza,233,83.2618,35.483502,-90.3583689
+220,Arkansas,2018-19,Hampton Elementary,Hampton,394,83.24873,33.5373166,-92.461894
+221,Arkansas,2018-19,Parson Hills Elem.,Springdale,632,83.22785,36.1727899,-94.1066891
+222,Arkansas,2018-19,Angie Grant Elementary,Benton,582,83.16151,34.5614034,-92.573736
+223,Arkansas,2018-19,Elgin B. Milton Elem.,Ozark,822,83.09003,35.4921648,-93.841596
+224,Arkansas,2018-19,Shirley Elementary,Shirley,212,83.01887,35.6595673,-92.3130305
+225,Arkansas,2018-19,Grace Hill Elementary,Rogers,512,82.8125,36.3431867,-94.1419878
+226,Arkansas,2018-19,Quitman Elementary,Quitman,383,82.76762,35.3789006,-92.2221555
+227,Arkansas,2018-19,Umpire K-12,Umpire,145,82.75862,34.2779886,-94.0528897
+228,Arkansas,2018-19,Washington Elementary,Fayetteville,399,82.70677,36.069292,-94.159467
+229,Arkansas,2018-19,Heber Springs Elem.,Heber Springs,907,82.69019,35.499145,-92.0382659
+230,Arkansas,2018-19,Eastside Elementary,Rogers,531,82.6742,36.3122258,-94.1110479
+231,Arkansas,2018-19,Terry Elementary,Little Rock,539,82.56029,34.7585422,-92.3953377
+232,Arkansas,2018-19,Butterfield Elementary,Fayetteville,629,82.51193,36.106778,-94.1324314
+233,Arkansas,2018-19,Westbrook Elementary,Benton,423,82.50591,34.5091291,-92.6434227
+234,Arkansas,2018-19,Ivory Primary,Camden,455,82.41758,33.5911607,-92.849646
+235,Arkansas,2018-19,Carnall Elementary,Fort Smith,352,82.38636,35.3341381,-94.4073587
+236,Arkansas,2018-19,Gentry Primary,Gentry,385,82.33766,36.2548944,-94.4962055
+237,Arkansas,2018-19,Geyer Springs Early Childhood Center,Little Rock,328,82.31707,34.7024037,-92.3406403
+238,Arkansas,2018-19,Lavaca Elementary,Lavaca,418,82.29665,35.3306105,-94.1709637
+239,Arkansas,2018-19,Alma Spikes Elementary,Pocahontas,672,82.29167,36.2717885,-90.98321
+240,Arkansas,2018-19,Chenal Elementary,Little Rock,580,82.24138,34.7758333,-92.4977242
+241,Arkansas,2018-19,Indian Hills Elementary,North Little Rock,635,82.20472,34.818418,-92.240431
+242,Arkansas,2018-19,Barton Elementary,Lexa,449,82.18263,34.552318,-90.7669222
+243,Arkansas,2018-19,H.L. Lubker Elementary,Bald Knob,622,82.15434,35.3128504,-91.5713597
+244,Arkansas,2018-19,Westside Elementary,Rogers,543,82.13628,36.3277652,-94.1521534
+245,Arkansas,2018-19,Prescott Elementary,Prescott,430,82.09302,33.7913217,-93.3775516
+246,Arkansas,2018-19,Skyline Heights Elem.,Harrison,536,82.08955,36.2385331,-93.1212814
+247,Arkansas,2018-19,Raymond F. Orr Elem.,Fort Smith,474,82.06751,35.339134,-94.395619
+248,Arkansas,2018-19,Bobby Barrett Elementary,Mount Ida,289,82.00692,34.550893,-93.6141899
+249,Arkansas,2018-19,Park Avenue Elementary,Stuttgart,778,82.00514,34.492767,-91.541154
+250,Arkansas,2018-19,Kensett Elementary,Kensett,443,81.94131,35.2351814,-91.6736602
+251,Arkansas,2018-19,James R. Tate Elem.,Van Buren,514,81.90662,35.4288939,-94.2775547
+252,Arkansas,2018-19,Florence Mattison Elem.,Conway,583,81.81818,35.0880345,-92.3987203
+253,Arkansas,2018-19,Elza R. Tucker Elem.,Lowell,767,81.74707,36.2712475,-94.1388487
+254,Arkansas,2018-19,Bonnie Grimes Elem.,Rogers,586,81.74061,36.3135833,-94.1348552
+255,Arkansas,2018-19,Norfork Elementary,Norfork,262,81.67939,36.1966845,-92.2693303
+256,Arkansas,2018-19,Mayflower Elementary,Mayflower,479,81.62839,34.9576572,-92.424191
+257,Arkansas,2018-19,Yocum Elementary,El Dorado,631,81.61648,33.2094247,-92.6747524
+258,Arkansas,2018-19,Western Hills Elem.,Little Rock,346,81.50289,34.7085697,-92.3584195
+259,Arkansas,2018-19,Edward D. Trice Elementary,Texarkana,766,81.46214,33.4661547,-94.021338
+260,Arkansas,2018-19,Lawson Elementary,Little Rock,280,81.42857,34.7162927,-92.4935737
+261,Arkansas,2018-19,Leverett Elementary,Fayetteville,371,81.40162,36.0744046,-94.1761367
+262,Arkansas,2018-19,Fountain Lake Elementary,Hot Springs,664,81.3253,34.5715537,-92.9884281
+263,Arkansas,2018-19,Clinton Elementary,Clinton,777,81.20978,35.1644035,-92.8903498
+264,Arkansas,2018-19,Calico Rock Elementary,Calico Rock,266,81.20301,36.1175139,-92.1351272
+265,Arkansas,2018-19,Weiner Elementary,Weiner,133,81.20301,35.6235504,-90.9056147
+266,Arkansas,2018-19,Acorn Elementary,Mena,382,81.15183,34.6376023,-94.2080228
+267,Arkansas,2018-19,Holcomb Elementary,Fayetteville,704,81.10796,36.1057457,-94.2064585
+268,Arkansas,2018-19,Westside Elementary,Hartman,449,81.06904,35.433741,-93.6186016
+269,Arkansas,2018-19,Central Elementary,Van Buren,642,80.99688,35.4468146,-94.3369925
+270,Arkansas,2018-19,Blytheville Primary,Blytheville,709,80.9591,35.9061096,-89.9141348
+271,Arkansas,2018-19,Garfield Elementary,Garfield,162,80.8642,36.448701,-93.971552
+272,Arkansas,2018-19,Van Cove Elementary,Vandervoort,219,80.82192,34.3833014,-94.3671075
+273,Arkansas,2018-19,Nashville Primary,Nashville,667,80.80959,33.9566746,-93.8551994
+274,Arkansas,2018-19,South Side Elementary,Bee Branch,352,80.68182,35.4293087,-92.3905993
+275,Arkansas,2018-19,Pottsville Elementary,Pottsville,624,80.60898,35.246905,-93.0513775
+276,Arkansas,2018-19,Hunt Elementary,Springdale,954,80.60797,36.2169837,-94.1588754
+277,Arkansas,2018-19,St. Joe K-12,"St. Joe, Ar",169,80.47338,36.0281475,-92.7985042
+278,Arkansas,2018-19,Brown Elementary,Star City,828,80.43478,33.945819,-91.8401799
+279,Arkansas,2018-19,Portland Elementary,Portland,153,80.39216,33.2366494,-91.5033372
+280,Arkansas,2018-19,Pulaski Heights Elem.,Little Rock,317,80.12618,34.7547697,-92.315945
+281,Arkansas,2018-19,Dover Elementary,Dover,603,80.09951,35.4073927,-93.1097854
+282,Arkansas,2018-19,Old Wire Elementary,Rogers,652,80.06135,36.2958239,-94.1096458
+283,Arkansas,2018-19,Rose Bud Elementary,Rose Bud,490,80,35.3341094,-92.0726871
+284,Arkansas,2018-19,Mccrory Elementary,Mccrory,419,79.95227,35.2601336,-91.192689
+285,Arkansas,2018-19,Thirty-Fourth Street Elementary,Pine Bluff,503,79.92048,34.1952121,-91.9945978
+286,Arkansas,2018-19,R.E. Baker Elementary,Bentonville,642,79.90654,36.3745141,-94.2116598
+287,Arkansas,2018-19,Vera Kilpatrick Elem.,Texarkana,609,79.80295,33.4556863,-94.0320322
+288,Arkansas,2018-19,Williams Magnet Elem.,Little Rock,544,79.77941,34.7618278,-92.3542469
+289,Arkansas,2018-19,Jackson/Wonder Elementary,West Memphis,672,79.7619,35.136824,-90.1653656
+290,Arkansas,2018-19,Eagle Heights Elem.,Harrison,247,79.75708,36.2352827,-93.1025606
+291,Arkansas,2018-19,Parkers Chapel Elem.,El Dorado,584,79.62329,33.1673564,-92.7227279
+292,Arkansas,2018-19,Berryville Elementary,Berryville,553,79.566,36.3737703,-93.5845566
+293,Arkansas,2018-19,Ridgeroad Elementary,North Little Rock,721,79.47295,34.7964897,-92.2652704
+294,Arkansas,2018-19,Fox Meadow Elementary,Jonesboro,505,79.40594,35.7875549,-90.6769985
+295,Arkansas,2018-19,England Elementary,England,504,79.36508,34.5403963,-91.9640034
+296,Arkansas,2018-19,Ouachita Elementary,Donaldson,329,79.33131,34.2423033,-92.9645872
+297,Arkansas,2018-19,Wakefield Elementary,Little Rock,585,79.31624,34.6858449,-92.3335916
+298,Arkansas,2018-19,Mountainburg Elementary,Mountainburg,303,79.20792,35.6506283,-94.1574366
+299,Arkansas,2018-19,Crossett Elementary,Crossett,872,79.12844,33.121335,-91.950277
+300,Arkansas,2018-19,Amanda Gist Elementary,Cotter,502,79.08366,36.2789751,-92.5200463
+301,Arkansas,2018-19,Mcgehee Elementary,Mcgehee,814,78.99263,33.6278542,-91.3992366
+302,Arkansas,2018-19,Fairview Elementary,Camden,528,78.97727,33.5312966,-92.8425144
+303,Arkansas,2018-19,Retta Brown Elementary,El Dorado,147,78.91157,33.2156899,-92.6447005
+304,Arkansas,2018-19,Manila Elementary,Manila,532,78.7594,35.8789186,-90.1586424
+305,Arkansas,2018-19,Harry C. Morrison Elementary,Fort Smith,433,78.75289,35.4305673,-94.3928823
+306,Arkansas,2018-19,Poyen Elementary,Poyen,348,78.73563,34.3265718,-92.6443253
+307,Arkansas,2018-19,Lakeside Elementary,Lake Village,521,78.69482,33.3251612,-91.3105514
+308,Arkansas,2018-19,Centerpoint Elementary,Amity,567,78.65961,34.2938518,-93.516245
+309,Arkansas,2018-19,Marguerite Vann Elem.,Conway,444,78.6036,35.0769697,-92.4708254
+310,Arkansas,2018-19,Bale Elementary,Little Rock,490,78.57143,34.7222876,-92.3476673
+311,Arkansas,2018-19,Jessieville Elementary,Jessieville,490,78.57143,34.7004341,-93.0627642
+312,Arkansas,2018-19,Watson Elementary,Little Rock,601,78.53577,34.6627118,-92.3589032
+313,Arkansas,2018-19,Fordyce Elementary Schools,Fordyce,593,78.41484,33.8207348,-92.4355708
+314,Arkansas,2018-19,Mineral Springs Elem.,Mineral Springs,287,78.39721,33.8782324,-93.9179431
+315,Arkansas,2018-19,J.F. Wahl Elementary,Helena,887,78.354,34.5337475,-90.6193186
+316,Arkansas,2018-19,Hazen Elementary,Hazen,508,78.34646,34.7843835,-91.580752
+317,Arkansas,2018-19,City Heights Elementary,Van Buren,434,78.34101,35.4468895,-94.3576771
+318,Arkansas,2018-19,Glenview Elementary,North Little Rock,540,78.33334,34.7710084,-92.2100571
+319,Arkansas,2018-19,Junction City Elem.,Junction City,401,78.30424,33.0215091,-92.7261708
+320,Arkansas,2018-19,Mcdermott Elementary,Little Rock,465,78.27957,34.7630604,-92.3769879
+321,Arkansas,2018-19,Hermitage Elementary,Hermitage,303,78.21782,33.453474,-92.1759622
+322,Arkansas,2018-19,Asbell Elementary,Fayetteville,426,78.16901,36.0824536,-94.1879046
+323,Arkansas,2018-19,Mary Mae Jones Elem.,Bentonville,838,78.16229,36.3559625,-94.2042571
+324,Arkansas,2018-19,Cross County Ele Tech Academy,Cherry Valley,402,78.10946,35.4032291,-90.8088696
+325,Arkansas,2018-19,Mountain View Elem.,Mountain View,602,78.07309,35.8602013,-92.0872059
+326,Arkansas,2018-19,M.L. King Magnet Elem.,Little Rock,499,77.95591,34.7418792,-92.2884953
+327,Arkansas,2018-19,Meadow Park Elementary,North Little Rock,661,77.91225,34.7743555,-92.1889022
+328,Arkansas,2018-19,Riverside East Elem.,Caraway,212,77.83019,35.7582459,-90.3444132
+329,Arkansas,2018-19,Carroll Smith Elementary Schoo,Osceola,431,77.72622,35.6989231,-89.977391
+330,Arkansas,2018-19,Brady Elementary,Little Rock,493,77.68763,34.7523873,-92.3631656
+331,Arkansas,2018-19,Westside Elementary,Jonesboro,847,77.68595,35.8557496,-90.8096107
+332,Arkansas,2018-19,University Hgts. Elem.,Jonesboro,552,77.53623,35.847203,-90.653592
+333,Arkansas,2018-19,Greenbrier Eastside Elementary,Greenbrier,501,77.44511,35.2231603,-92.3798309
+334,Arkansas,2018-19,White Co. Central Elem.,Judsonia,549,77.41348,35.3575912,-91.6769171
+335,Arkansas,2018-19,Bobby G Lester Elementary,Jacksonville,668,77.39521,34.8804685,-92.1563921
+336,Arkansas,2018-19,Yellville-Summit Elem.,Yellville,535,77.38318,36.2392747,-92.6901966
+337,Arkansas,2018-19,Baker Interdistrict Elem. Sch.,Little Rock,472,77.33051,34.7502123,-92.4387556
+338,Arkansas,2018-19,Ringgold Elementary,Benton,665,77.29324,34.559634,-92.592642
+339,Arkansas,2018-19,W. T. Cheney Elementary,Pine Bluff,426,77.23005,34.1644322,-92.0255423
+340,Arkansas,2018-19,Sidney Deener Elem.,Searcy,452,77.21239,35.2474065,-91.7131376
+341,Arkansas,2018-19,Eudora Elementary,Eudora,136,77.20588,33.1053995,-91.2659457
+342,Arkansas,2018-19,Russellville Upper Elem. Sch.,Russellville,478,77.19665,35.2751422,-93.1453747
+343,Arkansas,2018-19,West Side Elementary,Greers Ferry,320,77.1875,36.3277652,-94.1499647
+344,Arkansas,2018-19,L. L. Owen Elementary,Pine Bluff,401,77.05736,34.1927689,-92.0640791
+345,Arkansas,2018-19,Piggott Elementary,Piggott,561,77.00534,36.3811556,-90.1802296
+346,Arkansas,2018-19,Lamar Elementary,Lamar,516,76.93799,35.4351404,-93.3961443
+347,Arkansas,2018-19,Green Forest Elementary,Green Forest,555,76.93694,36.3306795,-93.4321546
+348,Arkansas,2018-19,Valley View Elementary,Jonesboro,802,76.93267,35.7718658,-90.737556
+349,Arkansas,2018-19,Washington Magnet Elem.,Little Rock,506,76.87747,34.7223462,-92.2741815
+350,Arkansas,2018-19,Crystal Hill Elementary,North Little Rock,748,76.87166,34.8035481,-92.3526776
+351,Arkansas,2018-19,Whitten Elementary,Marianna,582,76.80413,34.7767533,-90.7633537
+352,Arkansas,2018-19,Bradford Elementary,Bradford,356,76.68539,35.4249444,-91.4608402
+353,Arkansas,2018-19,Alpena Elementary,Alpena,372,76.6129,36.2916191,-93.2950719
+354,Arkansas,2018-19,Booneville Elementary,Booneville,867,76.58593,35.1438943,-93.925431
+355,Arkansas,2018-19,Rockefeller Incentive Elem.,Little Rock,478,76.56904,34.732256,-92.2652219
+356,Arkansas,2018-19,Kipp Delta Elem Literacy Acad,West Helena,656,76.52439,34.52422,-90.5865425
+357,Arkansas,2018-19,Anne Watson Elementary,Bigelow,451,76.49667,35.0281897,-92.6433504
+358,Arkansas,2018-19,Kirby Elementary,Kirby,238,76.47059,34.248488,-93.6402831
+359,Arkansas,2018-19,Sloan-Hendrix Elem.,Imboden,484,76.44628,36.2014797,-91.1869122
+360,Arkansas,2018-19,Mansfield Elementary,Mansfield,348,76.43678,35.0595927,-94.2459127
+361,Arkansas,2018-19,Pine Forest Elementary,Maumelle,619,76.41357,34.8656732,-92.4014572
+362,Arkansas,2018-19,Lake Hamilton Elementary Sch,Pearcy,753,76.36122,34.4424682,-93.2119496
+363,Arkansas,2018-19,Dermott Elementary,Dermott,256,76.17188,33.5245565,-91.4290091
+364,Arkansas,2018-19,Elkins Primary,Elkins,415,76.14458,36.0066136,-94.0077365
+365,Arkansas,2018-19,Blytheville Elementary,Blytheville,612,76.14379,35.9369315,-89.8990266
+366,Arkansas,2018-19,Oakbrooke Elementary,Sherwood,542,75.83026,34.8352603,-92.2082573
+367,Arkansas,2018-19,Atkins Elementary,Atkins,455,75.82418,35.2458911,-92.9441762
+368,Arkansas,2018-19,Valley Springs Elem.,Valley Springs,404,75.74257,36.157745,-92.9935783
+369,Arkansas,2018-19,Mammoth Spring Elem.,Mammoth Spring,336,75.59524,36.4909557,-91.5401887
+370,Arkansas,2018-19,Coleman Elementary,Pine Bluff,732,75.54645,34.2161319,-92.0540744
+371,Arkansas,2018-19,Bayou Meto Elementary,Jacksonville,613,75.53018,34.9509628,-92.1571531
+372,Arkansas,2018-19,Noble/Allbritton Elementary Sc,Hamburg,884,75.45249,33.2256835,-91.7931419
+373,Arkansas,2018-19,Hackett Elementary,Hackett,509,75.44205,35.1869897,-94.4096048
+374,Arkansas,2018-19,Norphlet Elementary,Norphlet,235,75.31915,33.3095284,-92.6614589
+375,Arkansas,2018-19,Kingston Elementary,Kingston,158,75.31645,34.9428126,-91.9804689
+376,Arkansas,2018-19,Sparkman Elementary,Sparkman,93,75.26882,33.9153823,-92.8537753
+377,Arkansas,2018-19,Malvern Elementary,Malvern,1051,75.26166,34.3750842,-92.8332727
+378,Arkansas,2018-19,Gillett Elementary,Dewitt,97,75.25773,34.1141982,-91.3832233
+379,Arkansas,2018-19,Jasper Elementary,Jasper,270,75.18519,36.0050684,-93.1899639
+380,Arkansas,2018-19,Walnut Ridge Elementary,Walnut Ridge,649,75.03852,36.0623854,-90.9572707
+381,Arkansas,2018-19,Sherwood Elementary,Sherwood,419,74.94034,34.8161745,-92.2188264
+382,Arkansas,2018-19,Clinton Elementary,Sherwood,758,74.93404,34.8238816,-92.203032
+383,Arkansas,2018-19,Amboy Elementary,North Little Rock,618,74.91909,34.8083957,-92.2920842
+384,Arkansas,2018-19,Mountain Home Kindergarten,Mountain Home,362,74.86188,36.3243402,-92.3773076
+385,Arkansas,2018-19,Carlisle Elementary,Carlisle,448,74.77679,34.7795149,-91.7328599
+386,Arkansas,2018-19,Murrell Taylor Elementary,Jacksonville,641,74.72699,34.8550609,-92.087134
+387,Arkansas,2018-19,Cave City Elementary,Cave City,686,74.63557,35.9524416,-91.5497482
+388,Arkansas,2018-19,Riverside West Elem.,Lake City,331,74.62236,35.81901,-90.4525785
+389,Arkansas,2018-19,St. Paul Elementary,Saint Paul,156,74.35898,35.8228252,-93.7648612
+390,Arkansas,2018-19,Stewart Elementary,Forrest City,648,74.07407,35.011368,-90.7987316
+391,Arkansas,2018-19,Matthews Elementary,Pine Bluff,640,74.0625,34.2403243,-92.048859
+392,Arkansas,2018-19,Marshall Elementary,Marshall,343,74.05248,35.9064319,-92.6336362
+393,Arkansas,2018-19,Union Elementary,Texarkana,368,73.91304,33.4049161,-94.0328271
+394,Arkansas,2018-19,Warren Dupree Elementary,Jacksonville,483,73.91304,34.8825788,-92.1158698
+395,Arkansas,2018-19,Stephens Elementary,Little Rock,652,73.61963,34.7353009,-92.3146689
+396,Arkansas,2018-19,Joe T. Robinson Elem.,Little Rock,303,73.59736,34.8168458,-92.5066597
+397,Arkansas,2018-19,Gurdon Primary,Gurdon,355,73.52113,33.920033,-93.1422346
+398,Arkansas,2018-19,Lafayette County Elementary,Lewisville,404,73.51485,33.3626413,-93.5801633
+399,Arkansas,2018-19,Pinewood Elementary,Jacksonville,471,73.46072,34.8848981,-92.0928984
+400,Arkansas,2018-19,Mt. Vernon/Enola Elem.,Enola,346,73.4104,35.1960517,-92.1999437
+401,Arkansas,2018-19,Augusta Elementary,Augusta,281,73.30961,35.2842351,-91.3550094
+402,Arkansas,2018-19,Cato Elementary,North Little Rock,396,73.23232,34.8830957,-92.2198201
+403,Arkansas,2018-19,Paris Elementary,Paris,493,73.22515,35.2949734,-93.7186005
+404,Arkansas,2018-19,Monticello Elementary,Monticello,584,72.94521,33.6069621,-91.8139025
+405,Arkansas,2018-19,Baldwin Elementary,Paragould,325,72.92308,36.0470833,-90.4939663
+406,Arkansas,2018-19,Maynard Elementary,Maynard,351,72.64957,36.4198641,-90.9005936
+407,Arkansas,2018-19,Hoxie Elementary,Hoxie,581,72.63339,36.0514087,-90.9814708
+408,Arkansas,2018-19,Fairview Elementary,Texarkana,394,72.58883,33.4390964,-94.0362686
+409,Arkansas,2018-19,Bryant Elementary,Bryant,1049,72.54528,34.6051613,-92.4972742
+410,Arkansas,2018-19,Eureka Springs Elem.,Eureka Springs,326,72.39264,36.3817045,-93.7323472
+411,Arkansas,2018-19,Mt. Judea K-12,Mt. Judea,184,72.28261,35.9213474,-93.0593806
+412,Arkansas,2018-19,Meadowcliff Elementary,Little Rock,360,72.22222,34.6933282,-92.3507308
+413,Arkansas,2018-19,Cutter-Morning Star Elem. Sch.,Hot Springs,450,72,34.5035993,-92.9895781
+414,Arkansas,2018-19,Lake Hamilton Primary,Pearcy,870,71.95402,34.4425616,-93.216656
+415,Arkansas,2018-19,Elmdale Elementary,Springdale,848,71.93396,36.1908951,-94.1479339
+416,Arkansas,2018-19,Nemo Vista Elementary,Center Ridge,315,71.74603,35.369588,-92.5622392
+417,Arkansas,2018-19,Broadmoor Elementary,Pine Bluff,516,71.70542,34.2183986,-91.9829747
+418,Arkansas,2018-19,Judsonia Elementary,Judsonia,447,71.58837,35.2769229,-91.6389638
+419,Arkansas,2018-19,Fouke Elementary,Fouke,693,71.57287,33.2642702,-93.8803966
+420,Arkansas,2018-19,Crawford Elementary,Russellville,484,71.48761,35.2893465,-93.1216782
+421,Arkansas,2018-19,Bergman Elementary,Bergman,597,71.35679,36.3143527,-93.017083
+422,Arkansas,2018-19,Central Elementary,Dumas,358,71.22905,33.8884223,-91.4914458
+423,Arkansas,2018-19,Jacksonville Lighthouse Elementary,Jacksonville,528,71.21212,34.8687927,-92.1085985
+424,Arkansas,2018-19,Brookland Elementary,Brookland,925,71.02703,35.9120019,-90.5848284
+425,Arkansas,2018-19,Deer K-12,Deer,293,70.98976,35.8258079,-93.2080206
+426,Arkansas,2018-19,Smackover Elementary,Smackover,442,70.81448,33.365143,-92.7290033
+427,Arkansas,2018-19,Oak Grove Elementary,North Little Rock,291,70.79038,34.8411977,-92.3348066
+428,Arkansas,2018-19,Baseline Elementary,Little Rock,506,70.75099,34.6674124,-92.3194619
+429,Arkansas,2018-19,Park Elementary,Corning,258,70.54263,36.4090956,-90.5927423
+430,Arkansas,2018-19,Clarendon Elementary,Clarendon,352,70.45454,34.6915614,-91.3015053
+431,Arkansas,2018-19,Earle Elementary,Earle,358,70.39106,35.2719808,-90.4692914
+432,Arkansas,2018-19,Morrilton Primary,Morrilton,516,70.34883,35.1477283,-92.7327112
+433,Arkansas,2018-19,Lonoke Elementary,Lonoke,435,70.34483,34.7771772,-91.9091428
+434,Arkansas,2018-19,County Line Elementary,Branch,327,70.33639,35.3078324,-93.9189401
+435,Arkansas,2018-19,Bates Elementary,Little Rock,582,69.93127,34.6197483,-92.2662239
+436,Arkansas,2018-19,Bruno-Pyatt K-12,Everton,269,69.88848,36.1808937,-92.8497887
+437,Arkansas,2018-19,Drew Central Elem.,Monticello,581,69.87952,33.5922222,-91.8084866
+438,Arkansas,2018-19,Rison Elementary,Rison,381,69.5538,33.9544386,-92.1869397
+439,Arkansas,2018-19,Decatur Northside Elementary,Decatur,327,69.41896,36.3529025,-94.465493
+440,Arkansas,2018-19,Vilonia Elementary,Vilonia,683,69.39971,35.081479,-92.1941816
+441,Arkansas,2018-19,Weaver Elementary,West Memphis,441,69.161,35.1542178,-90.1691418
+442,Arkansas,2018-19,Rector Elementary,Rector,431,69.14153,36.2632607,-90.3000557
+443,Arkansas,2018-19,Pine Bluff Lighthouse Elementary,Pine Bluff,333,69.06907,34.2284128,-92.0095992
+444,Arkansas,2018-19,Trumann Elementary,Trumann,808,69.05941,35.6750213,-90.5265735
+445,Arkansas,2018-19,Boone Park Elementary,North Little Rock,521,68.90595,34.7675866,-92.2877007
+446,Arkansas,2018-19,Seventh Street Elem.,North Little Rock,528,68.75,34.758803,-92.254255
+447,Arkansas,2018-19,Tuckerman Elementary,Tuckerman,540,68.51852,35.7356256,-91.2021537
+448,Arkansas,2018-19,Izard Co. Cons. Elem.,Brockwell,247,68.42105,36.1564941,-91.8401644
+449,Arkansas,2018-19,College Station Elem.,Little Rock,183,68.30601,34.7072178,-92.2222541
+450,Arkansas,2018-19,Landmark Elementary,Little Rock,361,67.86703,34.600695,-92.324065
+451,Arkansas,2018-19,Fairview Elementary,Fort Smith,808,67.82178,35.3526307,-94.4102653
+452,Arkansas,2018-19,Hillcrest Elementary,Lynn,326,67.79141,35.9647845,-91.3231241
+453,Arkansas,2018-19,Omaha Elementary,Omaha,306,67.64706,36.4483609,-93.1961531
+454,Arkansas,2018-19,Flippin Elementary,Flippin,486,67.48971,36.2796671,-92.5978018
+455,Arkansas,2018-19,Marmaduke Elementary,Marmaduke,532,67.29323,36.193337,-90.3945367
+456,Arkansas,2018-19,Lead Hill Elementary,Lead Hill,257,66.53696,36.4225656,-92.9175955
+457,Arkansas,2018-19,West Fork Elementary,West Fork,484,66.32231,35.9248916,-94.1931231
+458,Arkansas,2018-19,College Hill Elementary,Texarkana,693,66.23377,33.4180284,-94.0168707
+459,Arkansas,2018-19,Midland Elementary,Floral,390,66.15385,35.5883154,-91.7589443
+460,Arkansas,2018-19,Marked Tree Elementary,Marked Tree,312,66.02564,35.5241351,-90.417013
+461,Arkansas,2018-19,Lincoln Elementary,Lincoln,464,65.51724,35.9556707,-94.4181285
+462,Arkansas,2018-19,Western Yell Co. Elem.,Belleville,253,65.21739,35.0942514,-93.4457328
+463,Arkansas,2018-19,Magazine Elementary,Magazine,410,65.12195,35.1502356,-93.8014489
+464,Arkansas,2018-19,Two Rivers Elementary,Ola,460,64.56522,35.0108421,-93.272928
+465,Arkansas,2018-19,Oark Elementary,Oark,137,64.23358,35.6884581,-93.577997
+466,Arkansas,2018-19,Estem Elementary,Little Rock,1121,64.04995,34.7426369,-92.2580912
+467,Arkansas,2018-19,Mountain Pine Elem.,Mountain Pine,417,64.02878,34.5765082,-93.1770431
+468,Arkansas,2018-19,Paragould Primary,Paragould,833,63.5054,36.0692037,-90.5060952
+469,Arkansas,2018-19,Waldron Elementary,Waldron,849,63.48646,34.9019875,-94.1123367
+470,Arkansas,2018-19,Guy-Perkins Elementary,Guy,280,63.21428,35.3240635,-92.3250547
+471,Arkansas,2018-19,Marvin Primary,Mulberry,282,60.99291,35.5153623,-94.0522769
+472,Arkansas,2018-19,Southside Elementary,Batesville,999,60.06006,35.6858418,-91.6208804
+473,Arkansas,2018-19,Harris Elementary,North Little Rock,301,59.80067,34.794429,-92.196704
+474,Arkansas,2018-19,Eagle Mountain Magnet Elementary,Batesville,943,59.70308,35.7593253,-91.6096265
+475,Arkansas,2018-19,Kingsland Elementary,Kingsland,121,58.67769,33.8621735,-92.300774
+476,Arkansas,2018-19,Southwood Elementary,Pine Bluff,450,54,34.1863984,-92.0294694
+477,Arkansas,2018-19,Ark Virtual Academy Elementary,Little Rock,1328,53.91566,34.7501945,-92.2872614
+478,Arkansas,2018-19,North Elementary,Osceola,228,50.43859,35.7061029,-89.9896681
+479,Arkansas,2018-19,Central Elementary,Forrest City,1057,46.45222,35.0291794,-90.8012026
+480,Arkansas,2018-19,C.B. Partee Elementary,Brinkley,437,38.2151,34.8767799,-91.1982232
+481,Arkansas,2018-19,Ivy Primary Academy,Little Rock,302,17.21854,34.7296302,-92.2947609

@@ -1,0 +1,294 @@
+index,state,year,name,city,county,district,enroll,mmr,overall,xmed,xper,xrel,lat,lng
+1,North Dakota,2017-18,Anamoose Elementary,Anamoose,McHenry,,7.00,100.00,,0,0,0,47.883107,-100.245202
+2,North Dakota,2017-18,Ashley Elementary,Ashley,McIntosh,,11.00,100.00,,0,0,0,46.0337709,-99.380671
+3,North Dakota,2017-18,Ashley Elementary,Fargo,McIntosh,,9.00,100.00,,0,0,0,46.871482,-96.8098692
+4,North Dakota,2017-18,Barnes County North Elementary,Wimbledon,Barnes,,14.00,100.00,,0,0,0,47.097517,-98.360598
+5,North Dakota,2017-18,Bel Air Elementary,Minot,Ward,,39.00,100.00,,0,5.128205128,0,48.242329,-101.330774
+6,North Dakota,2017-18,Belfield Elementary,Belfield,Stark,,20.00,100.00,,0,0,0,46.88824,-103.195466
+7,North Dakota,2017-18,Berthold Elementary,Berthold,Ward,,20.00,100.00,,0,0,0,48.317194,-101.732107
+8,North Dakota,2017-18,Bottineau Elementary,Bottineau,Bottineau,,50.00,100.00,,2,0,0,48.829412,-100.442655
+9,North Dakota,2017-18,Bowbells Elementary,Bowbells,Burke,,8.00,100.00,,0,0,0,48.80587,-102.247188
+10,North Dakota,2017-18,Burke Central Elementary,Lignite,Burke,,5.00,100.00,,0,0,0,48.875032,-102.564759
+11,North Dakota,2017-18,Cannon Ball Elementary,Cannon Ball,Sioux,,20.00,100.00,,0,0,0,46.390888,-100.587288
+12,North Dakota,2017-18,Central Valley Elementary,Buxton,Traill,,14.00,100.00,,0,0,0,47.635976,-97.067768
+13,North Dakota,2017-18,Dakota Prairie Elementary,McVille,Nelson,,16.00,100.00,,0,0,0,47.769225,-98.178658
+14,North Dakota,2017-18,Divide County Elementary,Crosby,Divide,,31.00,100.00,,0,0,0,48.914033,-103.292498
+15,North Dakota,2017-18,Drayton Elementary,Drayton,Pembina,,11.00,100.00,,0,0,0,48.561108,-97.184248
+16,North Dakota,2017-18,Dunseith Elementary,Dunseith,Rolette,,38.00,100.00,,0,0,0,48.811765,-100.063483
+17,North Dakota,2017-18,Edison Elementary,Minot,Ward,,71.00,100.00,,0,2.816901408,0,48.215892,-101.303389
+18,North Dakota,2017-18,Eight Mile Elementary,Trenton,Williams ,,30.00,100.00,,0,0,0,48.072197,-103.834152
+19,North Dakota,2017-18,Emerado Elementary,Emerado,Grand Forks,,16.00,100.00,,0,0,0,47.914402,-97.370785
+20,North Dakota,2017-18,Fairmount Elementary,Fairmount,Richland,,5.00,100.00,,0,0,0,46.05545,-96.599923
+21,North Dakota,2017-18,Glen Ullin Elementary,Glen Ullin,Morton,,8.00,100.00,,0,0,0,46.81061,-101.825214
+22,North Dakota,2017-18,Hankinson Elementary,Hankinson,Richland,,21.00,100.00,,0,0,0,46.069177,-96.900133
+23,North Dakota,2017-18,Harwood Elementary,Harwood,Cass,,24.00,100.00,,0,4.166666667,0,46.976517,-96.879363
+24,North Dakota,2017-18,Hatton Eielson Elementary,Hatton,Traill,,12.00,100.00,,0,0,0,47.641499,-97.459967
+25,North Dakota,2017-18,Hillsboro Elementary,Hillsboro,Traill,,31.00,100.00,,0,0,0,47.402199,-97.054291
+26,North Dakota,2017-18,Holy Spirit Elementary,Fargo,Cass,,15.00,100.00,,0,0,0,46.896361,-96.790257
+27,North Dakota,2017-18,Horace Elementary,Horace,Cass,,38.00,100.00,,0,0,0,46.763715,-96.905112
+28,North Dakota,2017-18,J Nelson Kelly Elementary,Grand Forks,Grand Forks,,75.00,100.00,,0,0,0,47.891352,-97.036591
+29,North Dakota,2017-18,Jeannette Myhre Elementary,Bismarck,Burleigh,,43.00,100.00,,0,2.325581395,0,46.795881,-100.77207
+30,North Dakota,2017-18,Kensal Elementary,Kensal,Stutsman,,10.00,100.00,,0,0,0,47.304839,-98.73452
+31,North Dakota,2017-18,Langdon Area Elementary,Langdon,Cavalier,,27.00,100.00,,0,0,0,48.763748,-98.375584
+32,North Dakota,2017-18,Larimore Elementary,Larimore,Grand Forks,,25.00,100.00,,0,8,0,47.910307,-97.630427
+33,North Dakota,2017-18,Leeds Elementary,Leeds,Benson,,8.00,100.00,,0,0,0,48.288217,-99.434173
+34,North Dakota,2017-18,Litchville-Marion Elementary,Litchville,Barnes,,11.00,100.00,,0,0,0,46.655205,-98.189166
+35,North Dakota,2017-18,Little Flower Elementary,Rugby,Pierce,,5.00,100.00,,0,0,0,48.367429,-99.992733
+36,North Dakota,2017-18,Maddock Elementary,Maddock,Benson,,9.00,100.00,,0,0,0,47.964868,-99.521426
+37,North Dakota,2017-18,Mapleton Elementary,Mapleton,Cass,,30.00,100.00,,0,0,0,46.888435,-97.046064
+38,North Dakota,2017-18,Martin Luther,Bismarck,Burleigh,,11.00,100.00,,0,0,0,46.81227,-100.785141
+39,North Dakota,2017-18,Max Elementary,Max,McLean,,15.00,100.00,,0,0,0,47.82747,-101.295561
+40,North Dakota,2017-18,Mcclusky Elementary,McClusky,Sheridan,,8.00,100.00,,0,0,0,47.480206,-100.443836
+41,North Dakota,2017-18,Mckinley Elementary,Minot,Ward,,18.00,100.00,,0,0,0,48.241405,-101.292178
+42,North Dakota,2017-18,Medina Elementary,Medina,Stutsman,,10.00,100.00,,0,0,0,46.891456,-99.296873
+43,North Dakota,2017-18,Menoken Elementary,Menoken,Burleigh,,6.00,100.00,,0,0,0,46.822603,-100.533085
+44,North Dakota,2017-18,Milnor Elementary,Milnor,Sargent,,18.00,100.00,,0,0,0,46.260904,-97.455377
+45,North Dakota,2017-18,Minto Elementary,Minto,Walsh,,19.00,100.00,,0,0,0,48.294267,-97.375146
+46,North Dakota,2017-18,Mls-Mohall Elementary,Mohall,Renville,,21.00,100.00,,0,0,0,48.766985,-101.511238
+47,North Dakota,2017-18,Montpelier Elementary,Montpelier,Stutsman,,7.00,100.00,,0,0,0,46.697122,-98.58734
+48,North Dakota,2017-18,Mt Pleasant Elementary,Rolla,Rolette,,20.00,100.00,,0,0,0,48.862921,-99.611679
+49,North Dakota,2017-18,Munich Elementary,Munich,Cavalier,,7.00,100.00,,0,0,0,48.666449,-98.835183
+50,North Dakota,2017-18,New Rockford-Sheyenne Elementary,New Rockford,Eddy,,19.00,100.00,,0,0,0,47.680701,-99.132009
+51,North Dakota,2017-18,North Border-Walhalla Elementary,Walhalla,Pembina,,8.00,100.00,,0,0,0,48.924215,-97.918244
+52,North Dakota,2017-18,North Plains Elementary,Minot AFB,Ward,,44.00,100.00,,0,0,0,48.427163,-101.322399
+53,North Dakota,2017-18,North Star Elementary,Cando,Towner,,25.00,100.00,,0,0,0,48.489913,-99.208795
+54,North Dakota,2017-18,Ojibwa Indian,Belcourt,Rolette,,44.00,100.00,,0,0,0,48.807059,-99.785888
+55,North Dakota,2017-18,Page Elementary,Page,Cass,,10.00,100.00,,0,0,0,47.161103,-97.570322
+56,North Dakota,2017-18,Parshall Elementary,Parshall,Mountrail,,30.00,100.00,,0,0,0,47.955286,-102.138005
+57,North Dakota,2017-18,Perkett Elementary,Minot,Ward,,61.00,100.00,,0,1.639344262,0,48.230669,-101.321999
+58,North Dakota,2017-18,Pingree-Buchanan Elementary,Buchanan,Stutsman,,9.00,100.00,,0,0,0,47.062072,-98.830095
+59,North Dakota,2017-18,Rhame Elementary,Rhame,Bowman,,9.00,100.00,,0,0,0,46.233617,-103.647613
+60,North Dakota,2017-18,Rolette Elementary,Rolette,Rolette,,10.00,100.00,,0,0,0,48.662401,-99.838689
+61,North Dakota,2017-18,Round Prairie Elementary,Williston,Williams ,,9.00,100.00,,0,0,0,48.154012,-103.948542
+62,North Dakota,2017-18,Scranton Elementary,Scranton,Bowman,,10.00,100.00,,0,0,0,46.153298,-103.142582
+63,North Dakota,2017-18,South Heart Elementary,South Heart,Stark,,36.00,100.00,,0,0,0,46.866892,-102.991281
+64,North Dakota,2017-18,St Alphonsus,Langdon,Cavalier,,9.00,100.00,,0,0,0,48.76231,-98.367231
+65,North Dakota,2017-18,St Johns Elementary,Wahpeton,Richland,,15.00,100.00,,0,0,0,46.2643868,-96.6038102
+66,North Dakota,2017-18,St Joseph Elementary,Mandan,Morton,,10.00,100.00,,0,0,0,46.8304224,-100.8924628
+67,North Dakota,2017-18,St Joseph,Devils Lake,Ramsey,,24.00,100.00,,0,0,0,48.1166129,-98.8530798
+68,North Dakota,2017-18,Standing Rock Community,Fort Yates,Sioux,,56.00,100.00,,0,0,0,46.093572,-100.679179
+69,North Dakota,2017-18,Sunnyside Elementary,Minot,Ward,,49.00,100.00,,0,2.040816327,0,48.231186,-101.277623
+70,North Dakota,2017-18,Sweet Briar,Mandan,Morton,,6.00,100.00,,0,0,0,46.825387,-101.154584
+71,North Dakota,2017-18,Tappen Elementary,Tappen,Kidder,,6.00,100.00,,0,0,0,46.876877,-99.633438
+72,North Dakota,2017-18,Tate Topa Tribal,Fort Totten,Benson,,72.00,100.00,,0,0,0,47.97479,-99.025272
+73,North Dakota,2017-18,Tgu Granville Elementary,Granville,McHenry,,12.00,100.00,,0,0,0,48.263359,-100.844249
+74,North Dakota,2017-18,Trinity Elementary East,Dickinson,Stark,,12.00,100.00,,0,0,0,46.88223,-102.778021
+75,North Dakota,2017-18,Turtle Mountain Community Elementary,Belcourt,Rolette,,107.00,100.00,,0,0,0,48.841004,-99.742964
+76,North Dakota,2017-18,Underwood Elementary,Underwood,McLean,,14.00,100.00,,0,0,0,47.456701,-101.143081
+77,North Dakota,2017-18,Washington Elementary,Jamestown,Stutsman,,20.00,100.00,,0,0,0,46.915332,-98.71323
+78,North Dakota,2017-18,Winship Elementary,Grand Forks,Grand Forks,,30.00,100.00,,0,0,0,47.92474,-97.047373
+79,North Dakota,2017-18,Wishek Elementary,Wishek,McIntosh,,20.00,100.00,,0,0,0,46.256449,-99.549879
+80,North Dakota,2017-18,Wyndmere Elementary,Wyndmere,Richland,,23.00,100.00,,0,0,0,46.263271,-97.127622
+81,North Dakota,2017-18,Minnie H Kindergarten Center,Devils Lake,Ramsey,,140.00,99.29,,0,0.7142857143,0,48.107628,-98.864589
+82,North Dakota,2017-18,Independence Elementary,Fargo,Cass,,99.00,98.99,,0,0,1.01010101,46.820956,-96.874089
+83,North Dakota,2017-18,Centennial Elementary,Fargo,Cass,,92.00,98.91,,0,2.173913043,0,46.816129,-96.821414
+84,North Dakota,2017-18,Watford City Elementary,Watford City,McKenzie,,156.00,98.72,,0,2.564102564,3.846153846,47.798338,-103.27842
+85,North Dakota,2017-18,Discovery Elementary,Grand Forks,Grand Forks,,77.00,98.70,,0,1.298701299,0,47.880039,-97.074811
+86,North Dakota,2017-18,Brooks Harborelementary,West Fargo,Cass,,65.00,98.46,,0,1.538461538,0,46.844779,-96.913469
+87,North Dakota,2017-18,South Elementary,West Fargo,Cass,,63.00,98.41,,0,1.587301587,0,46.87022,-96.900802
+88,North Dakota,2017-18,L E Berger Elementary,West Fargo,Cass,,59.00,98.31,,1.694915254,0,0,46.871625,-96.88756
+89,North Dakota,2017-18,Washington Elementary,Fargo,Cass,,58.00,98.28,,0,1.724137931,0,46.902122,-96.786727
+90,North Dakota,2017-18,Beulah Elementary,Beulah,Mercer,,54.00,98.15,,0,3.703703704,0,47.270967,-101.780266
+91,North Dakota,2017-18,Northern Cass Elementary,Hunter,Cass,,47.00,97.87,,0,0,0,47.153693,-97.109165
+92,North Dakota,2017-18,Ben Franklin Elementary,Grand Forks,Grand Forks,,46.00,97.83,,0,0,2.173913043,47.912035,-97.056294
+93,North Dakota,2017-18,Mary Stark Elementary,Mandan,Morton,,45.00,97.78,,0,0,0,46.820645,-100.902306
+94,North Dakota,2017-18,Aurora Elementary,West Fargo,Cass,,88.00,97.73,,0,4.545454545,0,46.828877,-96.915973
+95,North Dakota,2017-18,Central Cass Elementary,Casselton,Cass,,87.00,97.70,,0,2.298850575,0,46.905918,-97.208646
+96,North Dakota,2017-18,St Johns,Saint John,Rolette,,43.00,97.67,,2.325581395,0,0,48.9404457,-99.7111299
+97,North Dakota,2017-18,Bennett Elementary,Fargo,Cass,,85.00,97.65,,0,1.176470588,0,46.794647,-96.811224
+98,North Dakota,2017-18,Lincoln Elementary,Jamestown,Stutsman,,42.00,97.62,,0,0,2.380952381,46.913236,-98.704721
+99,North Dakota,2017-18,Carrington Elementary,Carrington,Foster,,40.00,97.50,,0,2.5,0,47.452067,-99.124425
+100,North Dakota,2017-18,Nathan Twining Elementary,Grand Forks AFB,Grand Forks,,40.00,97.50,,0,0,2.5,47.965035,-97.367762
+101,North Dakota,2017-18,Osgood Kindergarten Center,Fargo,Cass,,116.00,97.41,,0,2.586206897,0.8620689655,46.813127,-96.880742
+102,North Dakota,2017-18,Washington Elementary,Minot,Ward,,74.00,97.30,,0,2.702702703,0,48.215924,-101.284416
+103,North Dakota,2017-18,William S Gussner Elementary,Jamestown,Stutsman,,37.00,97.30,,0,0,0,46.913004,-98.686872
+104,North Dakota,2017-18,Surrey Elementary,Surrey,Ward,,36.00,97.22,,0,2.777777778,0,48.237158,-101.130343
+105,North Dakota,2017-18,Trinity Elementary West,Dickinson,Stark,,35.00,97.14,,0,0,0,46.88068,-102.790261
+106,North Dakota,2017-18,Dakota Elementary,Minot AFB,Ward,,66.00,96.97,,0,1.515151515,1.515151515,48.424966,-101.307349
+107,North Dakota,2017-18,Roosevelt Elementary,Jamestown,Stutsman,,33.00,96.97,,0,0,0,46.90257,-98.69986
+108,North Dakota,2017-18,Hettinger Elementary,Hettinger,Adams,,32.00,96.88,,0,3.125,0,45.999433,-102.632908
+109,North Dakota,2017-18,Lewis And Clark Elementary,Grand Forks,Grand Forks,,32.00,96.88,,0,3.125,0,47.909124,-97.042382
+110,North Dakota,2017-18,Longfellow Elementary,Fargo,Cass,,62.00,96.77,,0,3.225806452,0,46.915633,-96.775309
+111,North Dakota,2017-18,Oak Grove Lutheran Elementary,Fargo,Cass,,62.00,96.77,,0,1.612903226,1.612903226,46.83142,-96.824231
+112,North Dakota,2017-18,Bowman Co Elementary,Bowman,Bowman,,29.00,96.55,,3.448275862,0,0,46.181133,-103.407637
+113,North Dakota,2017-18,Zimmerman Elementary,Wahpeton,Richland,,83.00,96.39,,0,3.614457831,0,46.268881,-96.612313
+114,North Dakota,2017-18,Centennial Elementary,Bismarck,Burleigh,,82.00,96.34,,0,3.658536585,1.219512195,46.836476,-100.804239
+115,North Dakota,2017-18,Legacy Elementary,West Fargo,Cass,,109.00,96.33,,0.9174311927,2.752293578,0,46.805411,-96.91697
+116,North Dakota,2017-18,Wilder Elementary,Grand Forks,Grand Forks,,27.00,96.30,,0,0,3.703703704,47.932409,-97.044606
+117,North Dakota,2017-18,Manvel Elementary,Manvel,Grand Forks,,26.00,96.15,,0,0,3.846153846,48.072391,-97.176304
+118,North Dakota,2017-18,St John's Academy,Jamestown,Stutsman,,26.00,96.15,,0,3.846153846,0,46.9043,-98.706581
+119,North Dakota,2017-18,Taylor-Richardton Elementary,Taylor,Stark,,26.00,96.15,,0,3.846153846,0,46.904236,-102.42464
+120,North Dakota,2017-18,Kenmare Elementary,Kenmare,Ward,,25.00,96.00,,0,0,0,48.677678,-102.083365
+121,North Dakota,2017-18,Lake Agassiz Elementary,Grand Forks,Grand Forks,,75.00,96.00,,0,0,0,47.926409,-97.081734
+122,North Dakota,2017-18,Minnewaukan Elementary,Minnewaukan,Benson,,25.00,96.00,,0,0,0,48.087171,-99.28304
+123,North Dakota,2017-18,Westside Elementary,West Fargo,Cass,,74.00,95.95,,0,2.702702703,0,46.868531,-96.915072
+124,North Dakota,2017-18,Ellendale Elementary,Ellendale,Dickey,,24.00,95.83,,0,4.166666667,0,46.003004,-98.522838
+125,North Dakota,2017-18,Kennedy Elementary,Fargo,Cass,,72.00,95.83,,1.388888889,1.388888889,1.388888889,46.813992,-96.852573
+126,North Dakota,2017-18,Rugby Ely Elementary,Rugby,Pierce,,47.00,95.74,,0,0,0,48.368043,-99.998252
+127,North Dakota,2017-18,Sunrise Elementary,Bismarck,Burleigh,,93.00,95.70,,0,2.150537634,1.075268817,46.847922,-100.719609
+128,North Dakota,2017-18,Grimsrud Elementary,Bismarck,Burleigh,,46.00,95.65,,0,6.52173913,2.173913043,46.827719,-100.800912
+129,North Dakota,2017-18,Holy Family St. Marys,Grand Forks,Grand Forks,,22.00,95.45,,0,0,0,47.903537,-97.04101
+130,North Dakota,2017-18,Kidder County,Steele,,,22.00,95.45,,0,4.545454545,0,46.8499206,-99.9176524
+131,North Dakota,2017-18,Robert Place Miller Elementary,Bismarck,Burleigh,,66.00,95.45,,0,3.03030303,1.515151515,46.82882,-100.756676
+132,North Dakota,2017-18,St Joseph's Elementary,Williston,Williams ,,22.00,95.45,,4.545454545,9.090909091,0,48.1494453,-103.6276419
+133,North Dakota,2017-18,John Hoeven Elementary,Minot,Ward,,87.00,95.40,,0,2.298850575,1.149425287,48.199074,-101.275498
+134,North Dakota,2017-18,Dorothy Moses Elementary,Bismarck,Burleigh,,65.00,95.38,,0,1.538461538,1.538461538,46.790565,-100.786001
+135,North Dakota,2017-18,Custer Elementary,Mandan,Morton,,21.00,95.24,,0,0,0,46.829483,-100.880909
+136,North Dakota,2017-18,Prairie Rose Elementary,Dickinson,Stark,,84.00,95.24,,0,4.761904762,0,46.910908,-102.801592
+137,North Dakota,2017-18,Century Elementary,Grafton,Walsh,,83.00,95.18,,0,6.024096386,0,48.407154,-97.425122
+138,North Dakota,2017-18,Lisbon Elementary,Lisbon,Ransom,,39.00,94.87,,0,5.128205128,0,46.44105,-97.68731
+139,North Dakota,2017-18,St Marys Elementary,Bismarck,Burleigh,,39.00,94.87,,2.564102564,2.564102564,0,46.807125,-100.7817777
+140,North Dakota,2017-18,Eagles Elementary,Fargo,Cass,,57.00,94.74,,0,1.754385965,0,46.82642,-96.800906
+141,North Dakota,2017-18,Fessenden-Bowdon Elementary,Fessenden,Wells,,19.00,94.74,,0,5.263157895,0,47.652028,-99.627076
+142,North Dakota,2017-18,Highland Acres Elementary,Bismarck,Burleigh,,38.00,94.74,,0,2.631578947,2.631578947,46.816456,-100.811575
+143,North Dakota,2017-18,Warwick Elementary,Warwick,Benson,,19.00,94.74,,0,0,0,47.857662,-98.710555
+144,North Dakota,2017-18,Victor Solheim Elementary,Bismarck,Burleigh,,93.00,94.62,,0,7.52688172,3.225806452,46.781495,-100.79786
+145,North Dakota,2017-18,Century Elementary,Grand Forks,Grand Forks,,73.00,94.52,,0,1.369863014,2.739726027,47.902923,-97.076402
+146,North Dakota,2017-18,Turtle Lake-Mercer Elementary,Turtle Lake,McLean,,18.00,94.44,,0,0,0,47.520573,-100.895397
+147,North Dakota,2017-18,Viking Elementary,Grand Forks,Grand Forks,,72.00,94.44,,0,4.166666667,1.388888889,47.898301,-97.03784
+148,North Dakota,2017-18,Wilton Elementary,Wilton,McLean,,18.00,94.44,,0,5.555555556,0,47.158304,-100.79001
+149,North Dakota,2017-18,Freedom Elementary,West Fargo,Cass,,107.00,94.39,,0,2.803738318,0.9345794393,46.839176,-96.892031
+150,North Dakota,2017-18,Oakes Elementary,Oakes,Dickey,,35.00,94.29,,0,5.714285714,0,46.138455,-98.089041
+151,North Dakota,2017-18,Lewis And Clark Elementary,Minot,Ward,,104.00,94.23,,0,1.923076923,2.884615385,48.26094,-101.308092
+152,North Dakota,2017-18,Lincoln Elementary,Lincoln,Burleigh,,104.00,94.23,,0.9615384615,4.807692308,1.923076923,46.768262,-100.692206
+153,North Dakota,2017-18,Roosevelt Elementary,Mandan,Morton,,52.00,94.23,,0,5.769230769,0,46.827566,-100.905748
+154,North Dakota,2017-18,Glenburn Elementary,Glenburn,Renville,,17.00,94.12,,0,0,0,48.515855,-101.223427
+155,North Dakota,2017-18,Lincoln Elementary,Beach,Golden Valley,,17.00,94.12,,0,17.64705882,0,46.912561,-104.005392
+156,North Dakota,2017-18,Lincoln Elementary,Fargo,Cass,,81.00,93.83,,0,0,0,46.84641,-96.7926
+157,North Dakota,2017-18,Rita Murphy Elementary,Bismarck,Burleigh,,97.00,93.81,,1.030927835,3.092783505,0,46.810142,-100.745439
+158,North Dakota,2017-18,Edgeley Elementary,Edgeley,LaMoure,,16.00,93.75,,0,0,0,46.358893,-98.717662
+159,North Dakota,2017-18,Trinity Elementary,West Fargo,Cass,,48.00,93.75,,0,4.166666667,0,46.839098,-96.88755
+160,North Dakota,2017-18,Ed Clapp Elementary,Fargo,Cass,,79.00,93.67,,0,0,0,46.834063,-96.826651
+161,North Dakota,2017-18,Jefferson Elementary,Valley City,Barnes,,79.00,93.67,,0,5.063291139,0,46.934433,-98.002546
+162,North Dakota,2017-18,Park River Elementary,Park River,Walsh,,31.00,93.55,,0,3.225806452,0,48.393283,-97.75119
+163,North Dakota,2017-18,Phoenix Elementary,Grand Forks,Grand Forks,,31.00,93.55,,0,6.451612903,0,47.917961,-97.029355
+164,North Dakota,2017-18,Kindred Elementary,Kindred,Cass,,45.00,93.33,,0,2.222222222,0,46.648893,-97.010125
+165,North Dakota,2017-18,Lamoure Elementary,LaMoure,LaMoure,,15.00,93.33,,0,0,0,46.352346,-98.291892
+166,North Dakota,2017-18,Lewis And Clark Elementary,Fargo,Cass,,75.00,93.33,,0,1.333333333,1.333333333,46.853102,-96.806742
+167,North Dakota,2017-18,St Anne Elementary,Bismarck,Burleigh,,30.00,93.33,,0,13.33333333,0,46.8194903,-100.7741168
+168,North Dakota,2017-18,Willow Park Elementary,West Fargo,Cass,,105.00,93.33,,0,1.904761905,0,46.860107,-96.869423
+169,North Dakota,2017-18,Bell Elementary,Minot,Ward,,14.00,92.86,,0,7.142857143,0,48.178045,-101.204969
+170,North Dakota,2017-18,Napoleon Elementary,Napoleon,Logan,,14.00,92.86,,0,7.142857143,0,46.506942,-99.765602
+171,North Dakota,2017-18,Thompson Elementary,Thompson,Grand Forks,,42.00,92.86,,0,4.761904762,0,47.775185,-97.105851
+172,North Dakota,2017-18,Westhope Elementary,Westhope,Bottineau,,14.00,92.86,,0,7.142857143,0,48.912396,-101.021572
+173,North Dakota,2017-18,Eastwood Elementary,West Fargo,Cass,,69.00,92.75,,0,1.449275362,0,46.866963,-96.891309
+174,North Dakota,2017-18,Nedrose Elementary,Nedrose,Ward,,55.00,92.73,,0,0,0,48.226934,-101.194492
+175,North Dakota,2017-18,Stanley Elementary,Stanley,Mountrail,,68.00,92.65,,0,0,0,48.315886,-102.393146
+176,North Dakota,2017-18,Bob Callies Elementary,Garrison,McLean,,27.00,92.59,,3.703703704,0,0,47.654047,-101.413971
+177,North Dakota,2017-18,Flasher Elementary,Flasher,Morton,,27.00,92.59,,0,3.703703704,0,46.455672,-101.228523
+178,North Dakota,2017-18,Northwood Elementary,Northwood,Grand Forks,,27.00,92.59,,0,0,7.407407407,47.735008,-97.578149
+179,North Dakota,2017-18,Clara Barton Hawthorne Elementary,Fargo,Cass,,53.00,92.45,,0,3.773584906,0,46.858835,-96.789407
+180,North Dakota,2017-18,Bishop Ryan Catholic,Minot,Ward,,26.00,92.31,,0,7.692307692,0,48.24776,-101.298011
+181,North Dakota,2017-18,Midway Elementary,Inkster,Grand Forks,,13.00,92.31,,0,7.692307692,0,48.152298,-97.515712
+182,North Dakota,2017-18,Sargent Central Elementary,Forman,Sargent,,13.00,92.31,,0,7.692307692,0,46.103803,-97.640376
+183,North Dakota,2017-18,Tgu Towner Elementary,Towner,McHenry,,26.00,92.31,,0,3.846153846,0,48.344255,-100.401312
+184,North Dakota,2017-18,Ps Berg Elementary,Dickinson,Stark,,50.00,92.00,,0,2,0,46.882697,-102.790227
+185,North Dakota,2017-18,Burlington-Des Lacs Elementary,Burlington,Ward,,48.00,91.67,,2.083333333,4.166666667,2.083333333,48.272651,-101.428154
+186,North Dakota,2017-18,Children's Montessori Center,Fargo,Cass,,12.00,91.67,,0,8.333333333,0,46.8312161,-96.8079366
+187,North Dakota,2017-18,Heart River Elementary,Dickinson,Stark,,48.00,91.67,,0,8.333333333,0,46.864827,-102.799225
+188,North Dakota,2017-18,Kulm Elementary,Kulm,LaMoure,,12.00,91.67,,0,0,0,46.298298,-98.946996
+189,North Dakota,2017-18,Shiloh Christian,Bismarck,Burleigh,,36.00,91.67,,0,2.777777778,0,46.83361,-100.760861
+190,North Dakota,2017-18,Ft Lincoln Elementary,Mandan,Morton,,94.00,91.49,,0,4.255319149,3.191489362,46.806223,-100.881635
+191,North Dakota,2017-18,Pioneer Elementary,Bismarck,Burleigh,,47.00,91.49,,0,8.510638298,2.127659574,46.820653,-100.770383
+192,North Dakota,2017-18,B M Hanson Elementary,Harvey,Wells,,35.00,91.43,,0,5.714285714,0,47.768706,-99.931974
+193,North Dakota,2017-18,Nativity Elementary,Fargo,Cass,,35.00,91.43,,0,8.571428571,0,46.8508,-96.797361
+194,North Dakota,2017-18,Liberty Elementary,Bismarck,Burleigh,,92.00,91.30,,1.086956522,3.260869565,4.347826087,46.862982,-100.792129
+195,North Dakota,2017-18,Longfellow Elementary,Minot,Ward,,69.00,91.30,,0,4.347826087,1.449275362,48.243396,-101.316772
+196,North Dakota,2017-18,Our Redeemers Christian,Minot,Ward,,23.00,91.30,,4.347826087,4.347826087,0,48.21745,-101.284071
+197,North Dakota,2017-18,Edwin Loe Elementary,New Town,Mountrail,,125.00,91.20,,0,0,0,47.982162,-102.479845
+198,North Dakota,2017-18,Horace Mann Roosevelt Elementary,Fargo,Cass,,68.00,91.18,,0,1.470588235,1.470588235,46.887547,-96.782541
+199,North Dakota,2017-18,Lincoln Elementary,Dickinson,Stark,,68.00,91.18,,0,2.941176471,1.470588235,46.891115,-102.785831
+200,North Dakota,2017-18,Lewis And Clark Elementary,Williston,Williams ,,56.00,91.07,,0,7.142857143,1.785714286,48.150673,-103.647341
+201,North Dakota,2017-18,Grenora Elementary,Grenora,Williams ,,11.00,90.91,,0,9.090909091,0,48.620659,-103.933261
+202,North Dakota,2017-18,Griggs County Central Elementary,Cooperstown,Griggs,,22.00,90.91,,0,0,4.545454545,47.44824,-98.117959
+203,North Dakota,2017-18,Roosevelt Elementary,Carson,Grant,,11.00,90.91,,0,9.090909091,0,46.421805,-101.56676
+204,North Dakota,2017-18,Wilkinson Elementary,Williston,Williams ,,66.00,90.91,,0,6.060606061,3.03030303,48.159125,-103.640564
+205,North Dakota,2017-18,Red Trail Elementary,Mandan,Morton,,75.00,90.67,,1.333333333,8,1.333333333,46.868535,-100.940135
+206,North Dakota,2017-18,Madison Elementary,Fargo,Cass,,21.00,90.48,,0,0,0,46.887807,-96.826123
+207,North Dakota,2017-18,Rickard Elementary,Williston,Williams ,,63.00,90.48,,0,0,4.761904762,48.156759,-103.621126
+208,North Dakota,2017-18,Roosevelt Elementary,Dickinson,Stark,,52.00,90.38,,0,9.615384615,0,46.881224,-102.780193
+209,North Dakota,2017-18,Northridge Elementary,Bismarck,Burleigh,,83.00,90.36,,0,2.409638554,2.409638554,46.825084,-100.786999
+210,North Dakota,2017-18,Lewis And Clark Elementary,Mandan,Morton,,72.00,90.28,,0,4.166666667,1.388888889,46.839634,-100.901527
+211,North Dakota,2017-18,Hazen Elementary,Hazen,Mercer,,50.00,90.00,,0,8,0,47.298061,-101.622336
+212,North Dakota,2017-18,Oberon Elementary,Oberon,Benson,,10.00,90.00,,0,0,0,47.925589,-99.204807
+213,North Dakota,2017-18,Hagan Elementary,Williston,Williams ,,99.00,89.90,,2.02020202,3.03030303,3.03030303,48.171325,-103.65907
+214,North Dakota,2017-18,Mott-Regent Elementary,Mott,Hettinger,,19.00,89.47,,0,5.263157895,0,46.372185,-102.318612
+215,North Dakota,2017-18,Velva Elementary,Velva,McHenry,,38.00,89.47,,0,7.894736842,2.631578947,48.058472,-100.93542
+216,North Dakota,2017-18,Alexander Elementary,Alexander,McKenzie,,28.00,89.29,,0,7.142857143,3.571428571,47.842463,-103.638291
+217,North Dakota,2017-18,Louis L'Amour Elementary,Jamestown,Stutsman,,18.00,88.89,,0,0,0,46.894878,-98.724315
+218,North Dakota,2017-18,Roosevelt Elementary,Bismarck,Burleigh,,18.00,88.89,,0,5.555555556,5.555555556,46.810504,-100.799699
+219,North Dakota,2017-18,Washburn Elementary,Washburn,McLean,,27.00,88.89,,0,0,0,47.292416,-101.02679
+220,North Dakota,2017-18,Mckinley Elementary,Fargo,Cass,,35.00,88.57,,0,2.857142857,0,46.914668,-96.790434
+221,North Dakota,2017-18,Garden Valley Elementary,Williston,Williams ,,78.00,88.46,,0,0,2.564102564,48.285662,-103.619272
+222,North Dakota,2017-18,North Sargent Elementary,Gwinner,Sargent,,17.00,88.24,,0,11.76470588,0,46.224766,-97.664653
+223,North Dakota,2017-18,Ray Elementary,Ray,Williams ,,33.00,87.88,,0,0,0,48.344671,-103.169312
+224,North Dakota,2017-18,Fargo School District-Home,Fargo,,,8.00,87.50,,0,0,12.5,46.8422971,-96.9186434
+225,North Dakota,2017-18,North Border-Pembina Elementary,Pembina,Pembina,,16.00,87.50,,0,12.5,0,48.967561,-97.248721
+226,North Dakota,2017-18,Prairie View Elementary,New Salem,Morton,,24.00,87.50,,4.166666667,4.166666667,4.166666667,46.846879,-101.411914
+227,North Dakota,2017-18,Mcvay Elementary,Williston,Williams ,,94.00,87.23,,0,5.319148936,2.127659574,48.148735,-103.614499
+228,North Dakota,2017-18,Hope Christian Academy,Dickinson,Stark,,15.00,86.67,,0,0,0,46.91222,-102.792571
+229,North Dakota,2017-18,East Fairview Elementary,Fairview,McKenzie,,7.00,85.71,,0,0,14.28571429,47.8557443,-104.040597
+230,North Dakota,2017-18,Cathedral Of The Holy Spirit,Bismarck,Burleigh,,34.00,85.29,,5.882352941,14.70588235,0,46.81045,-100.796421
+231,North Dakota,2017-18,Jefferson Elementary,Fargo,Cass,,54.00,85.19,,0,1.851851852,0,46.871355,-96.80965
+232,North Dakota,2017-18,Prairie Rose Elementary,Bismarck,Burleigh,,20.00,85.00,,0,15,0,46.737271,-100.758923
+233,North Dakota,2017-18,Center-Stanton Elementary,Center,Oliver,,13.00,84.62,,0,15.38461538,0,47.117758,-101.297618
+234,North Dakota,2017-18,Lakota Elementary,Lakota,Nelson,,13.00,84.62,,0,0,0,48.044726,-98.339593
+235,North Dakota,2017-18,Cavalier Elementary,Cavalier,Pembina,,32.00,84.38,,0,12.5,3.125,48.794704,-97.61854
+236,North Dakota,2017-18,Hebron Elementary,Hebron,Morton,,19.00,84.21,,0,15.78947368,0,46.903936,-102.049593
+237,North Dakota,2017-18,North Shore Plaza Elementary,Plaza,Ward,,19.00,84.21,,0,0,0,47.9619274,-101.8050289
+238,North Dakota,2017-18,Elgin-New Leipzig Elementary,Elgin,Grant,,12.00,83.33,,0,8.333333333,0,46.403099,-101.848876
+239,North Dakota,2017-18,Linton Elementary,Linton,Emmons,,12.00,83.33,,0,0,0,46.267062,-100.227194
+240,North Dakota,2017-18,Roosevelt Elementary,Minot,Ward,,24.00,83.33,,0,8.333333333,4.166666667,48.243924,-101.28209
+241,North Dakota,2017-18,Jefferson Elementary,Dickinson,Stark,,64.00,82.81,,6.25,9.375,1.5625,46.885165,-102.8021
+242,North Dakota,2017-18,Powers Lake Elementary,Powers Lake,Burke,,23.00,82.61,,0,0,4.347826087,48.560178,-102.637614
+243,North Dakota,2017-18,Gackle-Streeter Elementary,Gackle,Logan,,11.00,81.82,,81.81818182,0,0,46.627397,-99.138061
+244,North Dakota,2017-18,St Catherine Elementary,Valley City,Barnes,,11.00,81.82,,0,0,0,46.928272,-97.999686
+245,North Dakota,2017-18,Will-Moore Elementary,Bismarck,Burleigh,,27.00,81.48,,0,14.81481481,0,46.814295,-100.785277
+246,North Dakota,2017-18,South Prairie Elementary,Minot,Ward,,31.00,80.65,,0,6.451612903,0,48.053181,-101.297903
+247,North Dakota,2017-18,Apple Creek Elementary,Bismarck,Burleigh,,10.00,80.00,,0,10,0,46.784122,-100.647709
+248,North Dakota,2017-18,New England Elementary,New England,Hettinger,,15.00,80.00,,0,0,6.666666667,46.543817,-102.868016
+249,North Dakota,2017-18,Wing Elementary,Wing,Burleigh,,5.00,80.00,,0,20,0,47.139137,-100.279726
+250,North Dakota,2017-18,Central Elementary,Tioga,Williams ,,43.00,76.74,,0,4.651162791,4.651162791,48.398743,-102.93889
+251,North Dakota,2017-18,Enderlin Area Elementary,Enderlin,Ransom,,17.00,76.47,,0,0,0,46.621569,-97.603
+252,North Dakota,2017-18,Twin Buttes Elementary,Halliday,Dunn,,8.00,75.00,,0,12.5,0,47.517551,-102.247442
+253,North Dakota,2017-18,Christ The King Elementary,Mandan,Morton,,23.00,73.91,,0,17.39130435,4.347826087,46.82959,-100.907041
+254,North Dakota,2017-18,Finley-Sharon Elementary,Finley,Steele,,7.00,71.43,,0,28.57142857,0,47.513868,-97.83447
+255,North Dakota,2017-18,Sawyer Elementary,Sawyer,Ward,,7.00,71.43,,0,14.28571429,14.28571429,48.088603,-101.054903
+256,North Dakota,2017-18,Lidgerwood Elementary,Lidgerwood,Richland,,10.00,70.00,,0,30,0,46.074419,-97.14801
+257,North Dakota,2017-18,Newburg-United Elementary,Newburg,Bottineau,,10.00,70.00,,10,10,0,48.712432,-100.914904
+258,North Dakota,2017-18,Killdeer Elementary,Killdeer,Dunn,,44.00,68.18,,0,15.90909091,2.272727273,47.372673,-102.756261
+259,North Dakota,2017-18,Johnson Corners Christian Academy,Watford City,McKenzie,,9.00,66.67,,0,22.22222222,11.11111111,47.80371,-102.943571
+260,North Dakota,2017-18,Midkota Elementary,Binford,Griggs,,18.00,66.67,,0,5.555555556,0,47.562885,-98.346921
+261,North Dakota,2017-18,St Michael's,Grand Forks,Grand Forks,,30.00,66.67,,0,3.333333333,3.333333333,47.927055,-97.039106
+262,North Dakota,2017-18,Mandaree Elementary,,McKenzie,,17.00,58.82,,0,0,0,47.727721,-102.675756
+263,North Dakota,2017-18,Williston Trinity Christian,Williston,Williams ,,25.00,48.00,,0,12,0,48.167,-103.636841
+264,North Dakota,2017-18,West Fargo Home,West Fargo,,,7.00,42.86,,0,42.85714286,0,46.8760349,-96.9022909
+265,North Dakota,2017-18,Valley-Edinburg Elementary School-Crystal,Hoople,Pembina,,14.00,35.71,,0,14.28571429,0,48.59492,-97.673931
+266,North Dakota,2017-18,Theodore Jamerson Elementary,Bismarck,Burleigh,,32.00,28.13,,0,0,0,46.768017,-100.754314
+267,North Dakota,2017-18,Anne Carlsen Center,Jamestown,Stutsman,,,,,,,,46.910878,-98.718106
+268,North Dakota,2017-18,Bakker Elementary,Hague,Emmons,,,,,,,,46.028951,-100.192185
+269,North Dakota,2017-18,Demores Elementary,Medora,Billings,,,,,,,,46.913538,-103.523501
+270,North Dakota,2017-18,Edmore Elementary,Edmore,Ramsey,,,,,,,,48.41498,-98.453891
+271,North Dakota,2017-18,Fordville-Lankin Elementary,Fordville,Walsh,,,,,,,,48.220111,-97.791335
+272,North Dakota,2017-18,Fort Ransom Elementary,Lisbon,Ransom,,,,,,,,46.523182,-97.934377
+273,North Dakota,2017-18,Golva Elementary,Golva,Golden Valley,,,,,,,,46.735076,-103.9858
+274,North Dakota,2017-18,Goodrich Elementary,Goodrich,Sheridan,,,,,,,,47.473686,-100.127723
+275,North Dakota,2017-18,Grant Colony,Enderlin,Ransom,,,,,,,,46.609607,-97.72305
+276,North Dakota,2017-18,Halliday Elementary,Halliday,Dunn,,,,,,,,47.349406,-102.337413
+277,North Dakota,2017-18,Invitation Hill Adventist,Dickinson,Stark,,,,,,,,46.88649,-102.783501
+278,North Dakota,2017-18,Little Heart Elementary,Saint Anthony,Morton,,,,,,,,46.617338,-100.911392
+279,North Dakota,2017-18,Maple River Elementary,Ellendale,Dickey,,,,,,,,46.071525,-98.440177
+280,North Dakota,2017-18,Maple Valley Elementary,Tower City,Cass,,,,,,,,46.921089,-97.674975
+281,North Dakota,2017-18,Prairie Elementary,Medora,Billings,,,,,,,,47.125893,-103.19952
+282,North Dakota,2017-18,Saint Thomas Elementary,Saint Thomas,Pembina,,,,,,,,48.618978,-97.451387
+283,North Dakota,2017-18,Selfridge Elementary,Selfridge,Sioux,,,,,,,,46.038895,-100.921838
+284,North Dakota,2017-18,Spruce Lane Colony,Blanchard,Traill,,,,,,,,47.32168,-97.188965
+285,North Dakota,2017-18,St Ann's Catholic,Belcourt,Rolette,,,,,,,,48.839942,-99.755095
+286,North Dakota,2017-18,Starkweather Elementary,Starkweather,Ramsey,,,,,,,,48.452207,-98.874933
+287,North Dakota,2017-18,Sterling Elementary,Sterling,Burleigh,,,,,,,,46.81354,-100.294011
+288,North Dakota,2017-18,Sundale Colony,Milnor,Ransom,,,,,,,,46.323771,-97.441927
+289,North Dakota,2017-18,Victory Christian,Jamestown,Stutsman,,,,,,,,46.90305,-98.721981
+290,North Dakota,2017-18,Wheatland Colony,Tower City,Cass,,,,,,,,46.925838,-97.653977
+291,North Dakota,2017-18,Willow Bank Colony,Edgeley,LaMoure,,,,,,,,46.31452,-98.570727
+292,North Dakota,2017-18,Wolford Elementary,Wolford,Pierce,,,,,,,,48.4945,-99.705442
+293,North Dakota,2017-18,Zeeland Elementary,Zeeland,McIntosh,,,,,,,,45.968603,-99.830978

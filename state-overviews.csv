@@ -1,0 +1,2653 @@
+index,state,year,county/district,enroll,mmr,overall,xmed,xper,xrel
+1,Kentucky,2017-18,Adair,199,83.4,83.4,0,,0
+2,Kentucky,2017-18,Allen,195,99,99,0.5,,0
+3,Kentucky,2017-18,Anderson,212,92.9,92,0.5,,1.4
+4,Kentucky,2017-18,Ballard,88,100,100,0,,0
+5,Kentucky,2017-18,Barren,561,97.3,98.8,0,,0.4
+6,Kentucky,2017-18,Bath,120,80.8,83.3,0,,0.8
+7,Kentucky,2017-18,Bell,305,87.2,86.9,0.7,,0.7
+8,Kentucky,2017-18,Boone,1791,96.1,97.5,0.4,,2.6
+9,Kentucky,2017-18,Bourbon,641,97.3,98.6,0.3,,0.9
+10,Kentucky,2017-18,Boyd,928,94.3,96.9,0.4,,0.9
+11,Kentucky,2017-18,Boyle,310,96.8,98.4,0.6,,1
+12,Kentucky,2017-18,Bracken,110,91.8,96.4,1.8,,0.9
+13,Kentucky,2017-18,Breathitt,153,91.5,96.1,0,,0
+14,Kentucky,2017-18,Breckinridge,226,94.7,97.8,0,,0.9
+15,Kentucky,2017-18,Bullitt,763,94.1,95.3,0.3,,0.4
+16,Kentucky,2017-18,Butler,152,91.4,96.1,0,,0.7
+17,Kentucky,2017-18,Caldwell,140,96.4,97.9,0,,1.4
+18,Kentucky,2017-18,Calloway,309,97.4,97.1,0.3,,2.6
+19,Kentucky,2017-18,Campbell,1180,97.7,98.2,2.5,,2.7
+20,Kentucky,2017-18,Carlisle,59,96.6,98.3,0,,0
+21,Kentucky,2017-18,Carroll,171,80.7,81.3,0,,1.2
+22,Kentucky,2017-18,Carter,308,97.4,99,0,,0.6
+23,Kentucky,2017-18,Casey,161,91.9,95.7,0,,0.6
+24,Kentucky,2017-18,Christian,637,91.4,93.7,0.3,,1.3
+25,Kentucky,2017-18,Clark,122,95.1,94.3,0,,0.8
+26,Kentucky,2017-18,Clay,268,89.9,92.5,0,,0.4
+27,Kentucky,2017-18,Clinton,125,91.2,97.6,0,,0.8
+28,Kentucky,2017-18,Crittenden,77,79.2,84.4,0,,0
+29,Kentucky,2017-18,Cumberland,63,90.5,93.7,0,,1.6
+30,Kentucky,2017-18,Daviess,1706,75.8,92.6,0,,0.5
+31,Kentucky,2017-18,Edmonson,0,0,0,0,,0
+32,Kentucky,2017-18,Elliott,78,98.7,100,0,,0
+33,Kentucky,2017-18,Estill,144,86.1,88.9,0,,0
+34,Kentucky,2017-18,Fayette,3376,96.6,96.7,0.2,,1.1
+35,Kentucky,2017-18,Fleming,156,98.1,98.7,0.6,,0.6
+36,Kentucky,2017-18,Floyd,587,97.1,95.9,0.2,,0.2
+37,Kentucky,2017-18,Franklin,433,96.8,99.1,0.2,,0.2
+38,Kentucky,2017-18,Fulton,69,100,98.6,0,,1.4
+39,Kentucky,2017-18,Gallatin,108,96.3,100,0,,0
+40,Kentucky,2017-18,Garrard,190,70,76.3,0.5,,0
+41,Kentucky,2017-18,Grant,283,97.9,98.9,0,,0.4
+42,Kentucky,2017-18,Graves,417,96.2,97.1,0.7,,1.4
+43,Kentucky,2017-18,Grayson,284,97.2,97.2,0.4,,0
+44,Kentucky,2017-18,Green,103,95.1,99,0,,1
+45,Kentucky,2017-18,Greenup,266,95.9,98.1,0,,0.8
+46,Kentucky,2017-18,Hancock,102,0,0,0,,0
+47,Kentucky,2017-18,Hardin,908,84,89.2,0.3,,1
+48,Kentucky,2017-18,Harlan,381,84,87.9,0,,0
+49,Kentucky,2017-18,Harrison,210,96.2,97.6,0,,1
+50,Kentucky,2017-18,Hart,167,93.4,97,0,,1.2
+51,Kentucky,2017-18,Henderson,629,92.4,94.4,0,,0.6
+52,Kentucky,2017-18,Henry,252,98.8,99.6,0,,0.4
+53,Kentucky,2017-18,Hickman,45,97.8,97.8,0,,2.2
+54,Kentucky,2017-18,Hopkins,706,94.1,96.2,0.1,,3.1
+55,Kentucky,2017-18,Jackson,254,96.5,97.2,0.8,,0
+56,Kentucky,2017-18,Jefferson,7784,90.2,92.4,0.2,,0.7
+57,Kentucky,2017-18,Jessamine,554,94.9,100,0,,3.1
+58,Kentucky,2017-18,Johnson,322,95.3,97.5,0.3,,0.6
+59,Kentucky,2017-18,Kenton,1858,96.6,97,0.2,,0.9
+60,Kentucky,2017-18,Knott,177,85.3,88.1,0,,0
+61,Kentucky,2017-18,Knox,368,86.1,89.4,0,,0
+62,Kentucky,2017-18,LaRue,158,97.5,98.7,0,,0.6
+63,Kentucky,2017-18,Laurel,872,92.2,96.6,0.1,,0.7
+64,Kentucky,2017-18,Lawrence,177,83.1,94.9,0,,0
+65,Kentucky,2017-18,Lee,63,92.1,87.3,0,,0
+66,Kentucky,2017-18,Leslie,154,96.1,67.5,0,,0.6
+67,Kentucky,2017-18,Letcher,254,95.7,98,0,,1.6
+68,Kentucky,2017-18,Lewis,156,93.6,95.5,0.6,,0
+69,Kentucky,2017-18,Lincoln,283,95.4,92.9,5.7,,0.7
+70,Kentucky,2017-18,Livingston,68,97.1,98.5,0,,1.5
+71,Kentucky,2017-18,Logan,346,82.7,92.8,0,,0
+72,Kentucky,2017-18,Lyon,48,97.9,100,0,,0
+73,Kentucky,2017-18,Madison,966,93.8,96.4,0.2,,1.3
+74,Kentucky,2017-18,Magoffin,162,77.8,77.8,0,,0
+75,Kentucky,2017-18,Marion,218,97.2,98.2,0,,0.9
+76,Kentucky,2017-18,Marshall,368,90.2,94.3,0.3,,1.6
+77,Kentucky,2017-18,Martin,117,99.1,100,0,,0
+78,Kentucky,2017-18,Mason,188,90.4,96.8,0.5,,0.5
+79,Kentucky,2017-18,McCracken,927,93,94.6,0.9,,2.7
+80,Kentucky,2017-18,McCreary,225,90.7,95.6,0,,0
+81,Kentucky,2017-18,McLean,118,0,0,0,,0
+82,Kentucky,2017-18,Meade,291,99,99,0,,1
+83,Kentucky,2017-18,Menifee,64,98.4,98.4,0,,0
+84,Kentucky,2017-18,Mercer,225,97.3,98.7,0.4,,0.9
+85,Kentucky,2017-18,Metcalfe,96,78.1,96.9,0,,1
+86,Kentucky,2017-18,Monroe,135,95.6,97.8,0,,0
+87,Kentucky,2017-18,Montgomery,322,95,95,1.9,,0
+88,Kentucky,2017-18,Morgan,141,97.9,99.3,0.7,,0
+89,Kentucky,2017-18,Muhlenberg,333,86.8,95.5,0,,1.8
+90,Kentucky,2017-18,Nelson,536,87.7,91,0.2,,0.7
+91,Kentucky,2017-18,Nicholas,0,0,0,0,,0
+92,Kentucky,2017-18,Ohio,360,83.9,85.3,0,,1.1
+93,Kentucky,2017-18,Oldham,837,97.6,98.1,0.1,,1.8
+94,Kentucky,2017-18,Owen,125,99.2,100,0,,0
+95,Kentucky,2017-18,Owsley,86,97.7,97.7,2.3,,0
+96,Kentucky,2017-18,Pendleton,141,97.2,97.9,0.7,,1.4
+97,Kentucky,2017-18,Perry,338,85.8,80.5,0,,0
+98,Kentucky,2017-18,Pike,671,96.3,97.5,0.1,,0.1
+99,Kentucky,2017-18,Powell,156,89.1,96.2,0,,1.3
+100,Kentucky,2017-18,Pulaski,724,97.1,98.2,0.3,,1.5
+101,Kentucky,2017-18,Robertson,28,100,100,0,,0
+102,Kentucky,2017-18,Rockcastle,209,94.3,99.5,0,,0
+103,Kentucky,2017-18,Rowan,366,91,93.2,0,,0.3
+104,Kentucky,2017-18,Russell,337,97.9,98.8,0.6,,0
+105,Kentucky,2017-18,Scott,557,89.4,95,0.5,,0.7
+106,Kentucky,2017-18,Shelby,494,96.2,98.2,0,,0.6
+107,Kentucky,2017-18,Simpson,217,96.8,97.2,0.5,,2.3
+108,Kentucky,2017-18,Spencer,177,99.4,99.4,0,,0.6
+109,Kentucky,2017-18,Taylor,272,96.3,97.8,0.4,,0.7
+110,Kentucky,2017-18,Todd,136,92.6,95.6,0,,1.5
+111,Kentucky,2017-18,Trigg,142,91.5,96.5,0,,1.4
+112,Kentucky,2017-18,Trimble,68,94.1,94.1,0,,2.9
+113,Kentucky,2017-18,Union,208,92.8,95.2,0,,2.4
+114,Kentucky,2017-18,Warren,1082,89.3,91.4,0.3,,0.5
+115,Kentucky,2017-18,Washington,136,89,94.9,0.7,,0.7
+116,Kentucky,2017-18,Wayne,238,98.3,99.2,0,,0.4
+117,Kentucky,2017-18,Webster,181,84.5,86.2,1.1,,0
+118,Kentucky,2017-18,Whitley,508,96.7,98,0.6,,0.2
+119,Kentucky,2017-18,Wolfe,138,81.9,87,0,,0
+120,Kentucky,2017-18,Woodford,287,97.2,97.2,0.7,,2.1
+1,Pennsylvania,2017-18,Adams,884,96.83,,0.9,1.24,1.13
+2,Pennsylvania,2017-18,Allegheny,10942,97.72,,0.46,1.14,1
+3,Pennsylvania,2017-18,Armstrong,578,95.85,,0.35,2.77,1.56
+4,Pennsylvania,2017-18,Beaver,1924,95.32,,0.36,1.35,3.79
+5,Pennsylvania,2017-18,Bedford,333,97.3,,0.3,1.2,1.5
+6,Pennsylvania,2017-18,Berks,4527,97.44,,0.44,1.39,0.82
+7,Pennsylvania,2017-18,Blair,1304,97.62,,0.38,1.38,0.77
+8,Pennsylvania,2017-18,Bradford,749,95.99,,0.8,2.14,1.74
+9,Pennsylvania,2017-18,Bucks,5826,96.86,,0.7,1.39,1.24
+10,Pennsylvania,2017-18,Butler,1804,95.07,,0.61,3.82,1.44
+11,Pennsylvania,2017-18,Cambria,1268,97.24,,0.55,1.42,0.79
+12,Pennsylvania,2017-18,Cameron,53,100,,0,0,0
+13,Pennsylvania,2017-18,Carbon,450,96.89,,0.67,2.44,0.67
+14,Pennsylvania,2017-18,Centre,1145,96.86,,0.26,2.36,0.87
+15,Pennsylvania,2017-18,Chester,5525,96.69,,0.34,1.25,1.1
+16,Pennsylvania,2017-18,Clarion,437,96.57,,0.23,2.29,0.92
+17,Pennsylvania,2017-18,Clearfield,887,97.41,,0.34,2.25,0.56
+18,Pennsylvania,2017-18,Clinton,345,96.52,,0.29,2.32,0.58
+19,Pennsylvania,2017-18,Columbia,681,97.65,,0.44,0.88,0.73
+20,Pennsylvania,2017-18,Crawford,637,96.86,,0.31,1.57,1.57
+21,Pennsylvania,2017-18,Cumberland,2553,97.57,,0.47,1.14,0.82
+22,Pennsylvania,2017-18,Dauphin,2869,94.39,,0.42,0.98,2.06
+23,Pennsylvania,2017-18,Delaware,6009,97.42,,0.18,0.82,0.43
+24,Pennsylvania,2017-18,Elk,298,99.33,,0,0.34,0.34
+25,Pennsylvania,2017-18,Erie,2955,97.33,,0.24,1.76,0.88
+26,Pennsylvania,2017-18,Fayette,1141,97.02,,0.35,1.67,1.05
+27,Pennsylvania,2017-18,Forest,18,100,,0,0,0
+28,Pennsylvania,2017-18,Franklin,1571,97.52,,0.7,1.4,1.53
+29,Pennsylvania,2017-18,Fulton,168,97.62,,1.19,1.19,1.19
+30,Pennsylvania,2017-18,Greene,430,97.21,,0.23,1.4,1.16
+31,Pennsylvania,2017-18,Huntingdon,197,96.95,,0,1.52,1.52
+32,Pennsylvania,2017-18,Indiana,654,96.48,,0.61,2.75,0.61
+33,Pennsylvania,2017-18,Jefferson,397,97.73,,0.25,2.02,0.25
+34,Pennsylvania,2017-18,Juniata,196,96.43,,0.51,3.06,1.53
+35,Pennsylvania,2017-18,Lackawanna,2155,97.96,,0.19,0.51,0.56
+36,Pennsylvania,2017-18,Lancaster,5292,95.52,,1,1.81,2.06
+37,Pennsylvania,2017-18,Lawrence,852,95.89,,0.59,2.93,0.94
+38,Pennsylvania,2017-18,Lebanon,1476,97.22,,0.47,1.96,1.15
+39,Pennsylvania,2017-18,Lehigh,3749,97.15,,0.43,0.83,1.01
+40,Pennsylvania,2017-18,Luzerne,3321,97.02,,0.3,0.24,0.66
+41,Pennsylvania,2017-18,Lycoming,1023,98.14,,0.49,0.59,0.98
+42,Pennsylvania,2017-18,McKean,423,97.64,,0.24,1.42,1.18
+43,Pennsylvania,2017-18,Mercer,1101,97.37,,0.27,0.45,1.73
+44,Pennsylvania,2017-18,Mifflin,397,96.73,,1.26,1.26,1.51
+45,Pennsylvania,2017-18,Monroe,1470,95.1,,0.34,2.79,1.9
+46,Pennsylvania,2017-18,Montgomery,9078,96.87,,0.48,1.23,1.21
+47,Pennsylvania,2017-18,Montour,210,100,,0,0,0
+48,Pennsylvania,2017-18,Northampton,3789,97.65,,0.48,1.19,1.29
+49,Pennsylvania,2017-18,Northumberland,993,96.27,,0.3,1.11,0.91
+50,Pennsylvania,2017-18,Perry,451,98.23,,0.22,0.89,0.89
+51,Pennsylvania,2017-18,Philadelphia,12715,95.92,,0.38,0.25,0.41
+52,Pennsylvania,2017-18,Pike,453,96.03,,0,1.77,1.99
+53,Pennsylvania,2017-18,Potter,2,100,,0,0,0
+54,Pennsylvania,2017-18,Schuylkill,906,98.68,,0.11,0.44,0.66
+55,Pennsylvania,2017-18,Snyder,367,95.91,,1.09,0.54,1.63
+56,Pennsylvania,2017-18,Somerset,606,97.85,,0.5,0.83,1.65
+57,Pennsylvania,2017-18,Sullivan,51,98.04,,0,0,1.96
+58,Pennsylvania,2017-18,Susquehanna,441,93.88,,0.91,2.27,2.04
+59,Pennsylvania,2017-18,Tioga,363,95.87,,0.55,1.1,2.2
+60,Pennsylvania,2017-18,Union,306,97.71,,0.65,0.65,1.31
+61,Pennsylvania,2017-18,Venango,607,97.86,,0.33,1.81,0.16
+62,Pennsylvania,2017-18,Warren,346,97.98,,0,0.58,1.16
+63,Pennsylvania,2017-18,Washington,2134,98.03,,0.52,0.84,0.89
+64,Pennsylvania,2017-18,Wayne,334,95.81,,0.6,1.5,2.1
+65,Pennsylvania,2017-18,Westmoreland,3155,95.59,,0.35,2.38,2
+66,Pennsylvania,2017-18,Wyoming,158,95.57,,0,0.63,3.8
+67,Pennsylvania,2017-18,York,4898,97.22,,0.61,1.25,1.2
+1,Kansas,2017-18,ALLEN,,93,,0,,0.7
+2,Kansas,2017-18,ANDERSON,,86,,0,,7.6
+3,Kansas,2017-18,ATCHISON,,62,,0,,0
+4,Kansas,2017-18,BARBER,,78,,1.9,,3.8
+5,Kansas,2017-18,BARTON,,93,,0.3,,2.4
+6,Kansas,2017-18,BOURBON,,86,,1.7,,4
+7,Kansas,2017-18,BROWN,,95,,0,,1.6
+8,Kansas,2017-18,BUTLER,,88,,0.1,,2.5
+9,Kansas,2017-18,CHASE,,76,,0,,2.9
+10,Kansas,2017-18,CHAUTAUQUA,,71,,2.7,,0
+11,Kansas,2017-18,CHEROKEE,,86,,0,,0.4
+12,Kansas,2017-18,CHEYENNE,,96,,0,,2.9
+13,Kansas,2017-18,CLARK,,94,,0,,0
+14,Kansas,2017-18,CLAY,,78,,0,,1
+15,Kansas,2017-18,CLOUD,,88,,0,,5.9
+16,Kansas,2017-18,COFFEY,,82,,1.1,,2.2
+17,Kansas,2017-18,COMANCHE,,100,,0,,0
+18,Kansas,2017-18,COWLEY,,86,,0.2,,1
+19,Kansas,2017-18,CRAWFORD,,93,,0.4,,0.6
+20,Kansas,2017-18,DECATUR,,93,,0,,3.6
+21,Kansas,2017-18,DICKINSON,,95,,0,,0.9
+22,Kansas,2017-18,DONIPHAN,,95,,0,,1
+23,Kansas,2017-18,DOUGLAS,,91,,0.2,,1.6
+24,Kansas,2017-18,EDWARDS,,94,,3,,0
+25,Kansas,2017-18,ELK,,100,,0,,0
+26,Kansas,2017-18,ELLIS,,96,,0,,1.2
+27,Kansas,2017-18,ELLSWORTH,,97,,0,,0
+28,Kansas,2017-18,FINNEY,,92,,0,,0.8
+29,Kansas,2017-18,FORD,,85,,0.3,,0.3
+30,Kansas,2017-18,FRANKLIN,,87,,0.3,,1.8
+31,Kansas,2017-18,GEARY,,93,,0.5,,1.1
+32,Kansas,2017-18,GOVE,,97,,0,,2.9
+33,Kansas,2017-18,GRAHAM,,100,,0,,0
+34,Kansas,2017-18,GRANT,,93,,0,,0
+35,Kansas,2017-18,GRAY,,86,,0,,1.2
+36,Kansas,2017-18,GREELEY,,100,,0,,0
+37,Kansas,2017-18,GREENWOOD,,86,,1.5,,4.4
+38,Kansas,2017-18,HAMILTON,,87,,0,,1.3
+39,Kansas,2017-18,HARPER,,69,,1.6,,0
+40,Kansas,2017-18,HARVEY,,90,,0.3,,2.6
+41,Kansas,2017-18,HASKELL,,98,,2.1,,0
+42,Kansas,2017-18,HODGEMAN,,100,,0,,0
+43,Kansas,2017-18,JACKSON,,86,,0,,1.8
+44,Kansas,2017-18,JEFFERSON,,90,,0,,1.5
+45,Kansas,2017-18,JEWELL,,95,,0,,0
+46,Kansas,2017-18,JOHNSON,,88,,0.4,,2.2
+47,Kansas,2017-18,KEARNY,,95,,0,,1.3
+48,Kansas,2017-18,KINGMAN,,76,,1.8,,0
+49,Kansas,2017-18,KIOWA,,92,,0,,0
+50,Kansas,2017-18,LABETTE,,89,,0,,1.6
+51,Kansas,2017-18,LANE,,100,,0,,0
+52,Kansas,2017-18,LEAVENWORTH,,87,,0.3,,0.9
+53,Kansas,2017-18,LINCOLN,,100,,0,,4
+54,Kansas,2017-18,LINN,,86,,0,,1.9
+55,Kansas,2017-18,LOGAN,,98,,0,,0
+56,Kansas,2017-18,LYON,,83,,0.3,,0.3
+57,Kansas,2017-18,MARION,,84,,0.8,,0
+58,Kansas,2017-18,MARSHALL,,98,,0.6,,0
+59,Kansas,2017-18,MCPHERSON,,88,,0.9,,2.8
+60,Kansas,2017-18,MEADE,,90,,0,,2
+61,Kansas,2017-18,MIAMI,,90,,0,,1.3
+62,Kansas,2017-18,MITCHELL,,93,,1.2,,2.4
+63,Kansas,2017-18,MONTGOMERY,,96,,0,,0.4
+64,Kansas,2017-18,MORRIS,,90,,0,,1.9
+65,Kansas,2017-18,MORTON,,72,,0,,9.1
+66,Kansas,2017-18,NEMAHA,,95,,0,,0.9
+67,Kansas,2017-18,NEOSHO,,90,,0.6,,0.6
+68,Kansas,2017-18,NESS,,82,,0,,0
+69,Kansas,2017-18,NORTON,,97,,0,,0
+70,Kansas,2017-18,OSAGE,,82,,0,,0
+71,Kansas,2017-18,OSBORNE,,81,,0,,0
+72,Kansas,2017-18,OTTAWA,,95,,0,,1.3
+73,Kansas,2017-18,PAWNEE,,80,,0,,7.1
+74,Kansas,2017-18,PHILLIPS,,83,,0,,13.7
+75,Kansas,2017-18,POTTAWATOMIE,,90,,0.4,,4.2
+76,Kansas,2017-18,PRATT,,93,,1.6,,1.6
+77,Kansas,2017-18,RAWLINS,,100,,0,,5.3
+78,Kansas,2017-18,RENO,,89,,0.5,,2.4
+79,Kansas,2017-18,REPUBLIC,,73,,2.4,,0
+80,Kansas,2017-18,RICE,,98,,0,,4.2
+81,Kansas,2017-18,RILEY,,92,,0.2,,0.9
+82,Kansas,2017-18,ROOKS,,96,,0,,0
+83,Kansas,2017-18,RUSH,,92,,0,,0
+84,Kansas,2017-18,RUSSELL,,98,,0,,1
+85,Kansas,2017-18,SALINE,,93,,0.5,,0.9
+86,Kansas,2017-18,SCOTT,,93,,0,,0
+87,Kansas,2017-18,SEDGWICK,,90,,0.5,,1.3
+88,Kansas,2017-18,SEWARD,,94,,0,,0.3
+89,Kansas,2017-18,SHAWNEE,,84,,0.4,,0.9
+90,Kansas,2017-18,SHERIDAN,,93,,0,,0
+91,Kansas,2017-18,SHERMAN,,93,,0,,4.1
+92,Kansas,2017-18,SMITH,,98,,0,,0
+93,Kansas,2017-18,STAFFORD,,91,,1.8,,1.8
+94,Kansas,2017-18,STANTON,,72,,,,
+95,Kansas,2017-18,STEVENS,,92,,0,,2
+96,Kansas,2017-18,SUMNER,,87,,0.7,,1.9
+97,Kansas,2017-18,THOMAS,,97,,0,,2.2
+98,Kansas,2017-18,TREGO,,97,,0,,0
+99,Kansas,2017-18,WABAUNSEE,,88,,0,,2.7
+100,Kansas,2017-18,WALLACE,,67,,0,,13.3
+101,Kansas,2017-18,WASHINGTON,,93,,0,,1.1
+102,Kansas,2017-18,WICHITA,,96,,1,,1
+103,Kansas,2017-18,WILSON,,96,,0,,0
+104,Kansas,2017-18,WOODSON,,100,,0,,0
+105,Kansas,2017-18,WYANDOTTE,,89,,0.1,,0.7
+1,Nevada,2018,Nevada,,70.5,,,,
+2,Nevada,2018,Clark,,70.5,,,,
+3,Nevada,2018,Washoe,,75.7,,,,
+4,Nevada,2018,Carson City,,62.6,,,,
+5,Nevada,2018,Elko,,77.8,,,,
+6,Nevada,2018,Lyon,,68.1,,,,
+7,Nevada,2018,Douglas,,65.9,,,,
+8,Nevada,2018,Nye,,62,,,,
+9,Nevada,2018,Churchill,,62.8,,,,
+10,Nevada,2018,Humboldt,,80,,,,
+11,Nevada,2018,White Pine,,67.8,,,,
+12,Nevada,2018,Pershing,,78.5,,,,
+13,Nevada,2018,Lander,,80.4,,,,
+14,Nevada,2018,Lincoln,,68.8,,,,
+15,Nevada,2018,Mineral,,73.3,,,,
+16,Nevada,2018,Storey,,68.4,,,,
+17,Nevada,2018,Eureka,,74.4,,,,
+18,Nevada,2018,Esmerelda,,63.2,,,,
+1,Montana,2017-18,BEAVERHEAD,,,,0.09,,2.3
+2,Montana,2017-18,BIG HORN,,,,0.03,,0.16
+3,Montana,2017-18,BLAINE,,,,0.16,,1.48
+4,Montana,2017-18,BROADWATER,,,,0.14,,1.28
+5,Montana,2017-18,CARBON,,,,0,,6.41
+6,Montana,2017-18,CARTER,,,,1.56,,1.56
+7,Montana,2017-18,CASCADE,,,,0.34,,1.6
+8,Montana,2017-18,CHOUTEAU,,,,0.3,,4.59
+9,Montana,2017-18,CUSTER,,,,0.3,,1.44
+10,Montana,2017-18,DANIELS,,,,0,,1.41
+11,Montana,2017-18,DAWSON,,,,0.22,,5.07
+12,Montana,2017-18,DEER LODGE,,,,0,,0.59
+13,Montana,2017-18,FALLON,,,,0.18,,0.18
+14,Montana,2017-18,FERGUS,,,,1.03,,1.81
+15,Montana,2017-18,FLATHEAD,,,,0.8,,7.12
+16,Montana,2017-18,GALLATIN,,,,0.49,,3.96
+17,Montana,2017-18,GARFIELD,,,,0,,1.28
+18,Montana,2017-18,GLACIER,,,,0,,0.35
+19,Montana,2017-18,GOLDEN VALLEY,,,,0.74,,2.96
+20,Montana,2017-18,GRANITE,,,,0.3,,6.36
+21,Montana,2017-18,HILL,,,,0.96,,1.18
+22,Montana,2017-18,JEFFERSON,,,,0.17,,5.44
+23,Montana,2017-18,JUDITH BASIN,,,,0,,2.23
+24,Montana,2017-18,LAKE,,,,0.3,,2.53
+25,Montana,2017-18,LEWIS & CLARK,,,,0.25,,2.7
+26,Montana,2017-18,LIBERTY,,,,0,,4.94
+27,Montana,2017-18,LINCOLN,,,,1.2,,10.77
+28,Montana,2017-18,MADISON,,,,0.34,,4.25
+29,Montana,2017-18,MCCONE,,,,0,,7.51
+30,Montana,2017-18,MEAGHER,,,,0,,4.05
+31,Montana,2017-18,MINERAL,,,,0.18,,4.73
+32,Montana,2017-18,MISSOULA,,,,0.38,,2.56
+33,Montana,2017-18,MUSSELSHELL,,,,0,,3.62
+34,Montana,2017-18,PARK,,,,0.89,,4.77
+35,Montana,2017-18,PETROLEUM,,,,0,,2.63
+36,Montana,2017-18,PHILLIPS,,,,1.03,,0.44
+37,Montana,2017-18,PONDERA,,,,0.82,,2.45
+38,Montana,2017-18,POWDER RIVER,,,,0,,2.69
+39,Montana,2017-18,POWELL,,,,0.14,,2.87
+40,Montana,2017-18,PRAIRIE,,,,0,,2.8
+41,Montana,2017-18,RAVALLI,,,,0.85,,11.74
+42,Montana,2017-18,RICHLAND,,,,0.1,,2.37
+43,Montana,2017-18,ROOSEVELT,,,,0.07,,1.04
+44,Montana,2017-18,ROSEBUD,,,,0.15,,0.41
+45,Montana,2017-18,SANDERS,,,,0.22,,7.83
+46,Montana,2017-18,SHERIDAN,,,,0,,1.59
+47,Montana,2017-18,SILVER BOW,,,,0.47,,0.95
+48,Montana,2017-18,STILLWATER,,,,0.63,,2.03
+49,Montana,2017-18,SWEET GRASS,,,,0,,1.86
+50,Montana,2017-18,TETON,,,,0.09,,3.13
+51,Montana,2017-18,TOOLE,,,,0,,0.91
+52,Montana,2017-18,TREASURE,,,,0,,0
+53,Montana,2017-18,VALLEY,,,,0.29,,2.32
+54,Montana,2017-18,WHEATLAND,,,,0.69,,3.1
+55,Montana,2017-18,WIBAUX,,,,0,,2.82
+56,Montana,2017-18,YELLOWSTONE,,,,0.26,,1.59
+57,Montana,2017-18,MONTANA,,,,0.4,,3.3
+1,Connecticut,2017-18,Fairfield,,98.5,,0.36,,2.17
+2,Connecticut,2017-18,Hartford,,98.4,,0.2,,1.49
+3,Connecticut,2017-18,Litchfield,,99.4,,0.54,,2.41
+4,Connecticut,2017-18,Middlesex,,99.6,,0.57,,2.56
+5,Connecticut,2017-18,New Haven,,98.8,,0.22,,1.42
+6,Connecticut,2017-18,New London,,99,,0.43,,2.11
+7,Connecticut,2017-18,Tolland,,99.7,,0.16,,3.49
+8,Connecticut,2017-18,Windham,,98.8,,0.98,,4.24
+1,Alabama,2017-18,Autauga,1817,64.17,96.39,0.04,,0.57
+2,Alabama,2017-18,Baldwin,5479,70.89,96.53,0.09,,1.15
+3,Alabama,2017-18,Barbour,733,72.17,88.27,0.05,,0.13
+4,Alabama,2017-18,Bibb,538,66.54,94.54,0,,0.54
+5,Alabama,2017-18,Blount,1450,70.69,97.3,0,,0.46
+6,Alabama,2017-18,Bullock,278,72.66,,,,
+7,Alabama,2017-18,Butler,592,73.99,91,0.18,,0
+8,Alabama,2017-18,Calhoun,3319,73.82,76.58,0.03,,0.43
+9,Alabama,2017-18,Chambers,803,65.01,92.94,0,,0.13
+10,Alabama,2017-18,Cherokee,563,74.78,97.67,0,,0.34
+11,Alabama,2017-18,Chilton,1207,73.32,97.4,0.1,,0.44
+12,Alabama,2017-18,Choctaw,460,68.04,94.2,1.61,,0
+13,Alabama,2017-18,Clarke,662,77.34,94.85,0.02,,0.05
+14,Alabama,2017-18,Clay,317,77.6,78.98,0.1,,0.24
+15,Alabama,2017-18,Cleburne,496,69.96,59.84,0,,0
+16,Alabama,2017-18,Coffee,2091,65.28,91.75,0.02,,0.41
+17,Alabama,2017-18,Colbert,1610,72.05,89.39,0,,0.29
+18,Alabama,2017-18,Conecuh,388,69.59,90.4,0,,0
+19,Alabama,2017-18,Coosa,256,62.5,94.86,0,,0
+20,Alabama,2017-18,Covington,1107,76.96,98.06,0,,0.24
+21,Alabama,2017-18,Crenshaw,414,64.73,94.19,0.08,,0.08
+22,Alabama,2017-18,Cullman,1992,71.64,90.47,0.06,,1.28
+23,Alabama,2017-18,Dale,1844,63.67,93.64,0.07,,0.27
+24,Alabama,2017-18,Dallas,1222,73.08,89.13,0,,0.1
+25,Alabama,2017-18,DeKalb,1838,73.56,96.19,0,,0.71
+26,Alabama,2017-18,Elmore,2623,68.97,94.47,0.03,,0.48
+27,Alabama,2017-18,Escambia,1077,74.37,98.57,0.09,,0.2
+28,Alabama,2017-18,Etowah,2679,72.86,93.87,0.03,,0.56
+29,Alabama,2017-18,Fayette,413,67.8,86.48,0.14,,0.05
+30,Alabama,2017-18,Franklin,1135,72.33,97.75,0,,0.26
+31,Alabama,2017-18,Geneva,922,65.29,97.36,0,,0.26
+32,Alabama,2017-18,Greene,234,72.65,87.54,0,,0
+33,Alabama,2017-18,Hale,547,71.3,95.29,0,,0
+34,Alabama,2017-18,Henry,545,64.95,95.07,0.11,,0.63
+35,Alabama,2017-18,Houston,3385,71.11,91.5,0.03,,0.47
+36,Alabama,2017-18,Jackson,1450,72.14,87.88,0.05,,0.97
+37,Alabama,2017-18,Jefferson,21189,70.6,93.17,0.02,,0.38
+38,Alabama,2017-18,Lamar,356,77.81,83.85,0.08,,0.17
+39,Alabama,2017-18,Lauderdale,2323,73.65,93.54,0,,0.56
+40,Alabama,2017-18,Lawrence,1039,75.94,96.8,0.04,,0.17
+41,Alabama,2017-18,Lee,3777,71.11,93.03,0.02,,0.28
+42,Alabama,2017-18,Limestone,1987,74.38,98.37,0.17,,0.44
+43,Alabama,2017-18,Lowndes,313,63.58,88.94,0.24,,4
+44,Alabama,2017-18,Macon,500,57.4,,,,
+45,Alabama,2017-18,Madison,9639,72,95.83,0.08,,0.72
+46,Alabama,2017-18,Marengo,492,71.54,94.45,0.15,,0.07
+47,Alabama,2017-18,Marion,706,73.94,87.42,0,,0.42
+48,Alabama,2017-18,Marshall,3213,72.08,94.19,0,,0.44
+49,Alabama,2017-18,Mobile,12220,77.35,91.92,0.06,,0.33
+50,Alabama,2017-18,Monroe,542,76.57,97.84,0,,0.36
+51,Alabama,2017-18,Montgomery,7224,71.22,86.49,0.01,,0.22
+52,Alabama,2017-18,Morgan,3079,76.29,90.99,0.02,,0.36
+53,Alabama,2017-18,Perry,259,65.64,87.73,0,,0
+54,Alabama,2017-18,Pickens,463,69.33,76.52,0,,0.04
+55,Alabama,2017-18,Pike,947,69.48,91.54,0,,0.2
+56,Alabama,2017-18,Randolph,672,79.02,92.84,0.03,,0.46
+57,Alabama,2017-18,Russell,2647,70.91,85.2,0,,0.13
+58,Alabama,2017-18,Shelby,4138,69.41,97.3,0.04,,0.86
+59,Alabama,2017-18,St Clair,2498,72.42,94.81,0.01,,0.46
+60,Alabama,2017-18,Sumter,278,66.55,89.32,0,,0.07
+61,Alabama,2017-18,Talladega,1965,72.16,94.69,0.03,,0.22
+62,Alabama,2017-18,Tallapoosa,948,67.62,96.52,0.03,,0.39
+63,Alabama,2017-18,Tuscaloosa,5504,74.11,90.81,0.03,,0.43
+64,Alabama,2017-18,Walker,1902,78.39,95.97,0.01,,0.18
+65,Alabama,2017-18,Washington,400,62.5,92.09,0,,0.04
+66,Alabama,2017-18,Wilcox,301,76.74,95.94,0,,0.05
+67,Alabama,2017-18,Winston,310,60,92.69,0.02,,0.47
+1,New Mexico,2017-18,Bernalillo,7390,95.7,,0.22,,1.08
+2,New Mexico,2017-18,Catron,21,90.5,,0,,4.76
+3,New Mexico,2017-18,Chaves,888,93.8,,0.11,,1.58
+4,New Mexico,2017-18,Cibola,288,95.5,,0.35,,1.39
+5,New Mexico,2017-18,Colfax,119,92.4,,0,,3.36
+6,New Mexico,2017-18,Curry,735,93.9,,0.27,,1.77
+7,New Mexico,2017-18,De Baca,24,83.3,,0,,0
+8,New Mexico,2017-18,Doña Ana,2881,99,,0.21,,0.24
+9,New Mexico,2017-18,Eddy,973,98.9,,0.1,,0.72
+10,New Mexico,2017-18,Grant,272,97.4,,0.37,,1.1
+11,New Mexico,2017-18,Guadalupe,55,100,,0,,0
+12,New Mexico,2017-18,Harding,1,100,,0,,0
+13,New Mexico,2017-18,Hidalgo,50,98,,0,,0
+14,New Mexico,2017-18,Lea,1237,97.7,,0.16,,1.78
+15,New Mexico,2017-18,Lincoln,45,91.1,,0,,8.89
+16,New Mexico,2017-18,Los Alamos,252,96.8,,0,,2.38
+17,New Mexico,2017-18,Luna,347,98,,0,,0.29
+18,New Mexico,2017-18,McKinley,1169,92,,1.37,,0.17
+19,New Mexico,2017-18,Mora,35,100,,0,,0
+20,New Mexico,2017-18,Otero,646,95.8,,0,,0.93
+21,New Mexico,2017-18,Quay,94,96.8,,0,,0
+22,New Mexico,2017-18,Rio Arriba,430,95.1,,0,,0.7
+23,New Mexico,2017-18,Roosevelt,265,96.2,,0,,2.64
+24,New Mexico,2017-18,San Juan,1711,95.7,,0.23,,0.47
+25,New Mexico,2017-18,San Miguel,303,92.7,,0,,1.32
+26,New Mexico,2017-18,Sandoval,1595,98.4,,0.82,,1.07
+27,New Mexico,2017-18,Santa Fe,1268,92,,0.71,,4.81
+28,New Mexico,2017-18,Sierra,100,96,,0,,0
+29,New Mexico,2017-18,Socorro,180,93.9,,0,,1.11
+30,New Mexico,2017-18,Taos,255,85.1,,1.57,,4.71
+31,New Mexico,2017-18,Torrance,221,96.4,,0.45,,1.81
+32,New Mexico,2017-18,Union,38,100,,2.63,,2.63
+33,New Mexico,2017-18,Valencia,895,97.7,,0.34,,0.78
+1,South Carolina,2018-19,Abbeville,251,,96.81,0,1.59,1.2
+2,South Carolina,2018-19,Aiken,1837,,89.49,0.05,6.7,1.2
+3,South Carolina,2018-19,Allendale,83,,97.59,0,1.2,1.2
+4,South Carolina,2018-19,Anderson,2535,,94.24,0.04,0.67,1.85
+5,South Carolina,2018-19,Bamberg,152,,100,0,0,0
+6,South Carolina,2018-19,Barnwell,305,,91.8,0.33,7.21,0
+7,South Carolina,2018-19,Beaufort,1855,,95.15,0.49,0.65,2.32
+8,South Carolina,2018-19,Berkeley,2692,,95.06,0.07,1.04,2.53
+9,South Carolina,2018-19,Calhoun,133,,90.23,0,6.02,0
+10,South Carolina,2018-19,Charleston,4439,,94.91,0.23,1.44,2.48
+11,South Carolina,2018-19,Cherokee,601,,95.67,0.33,0.17,2.5
+12,South Carolina,2018-19,Chester,390,,94.1,0,3.85,1.28
+13,South Carolina,2018-19,Chesterfield,536,,97.2,0,0,0.75
+14,South Carolina,2018-19,Clarendon,400,,99.5,0.25,0,0
+15,South Carolina,2018-19,Colleton,415,,96.87,0,0,0.72
+16,South Carolina,2018-19,Darlington,775,,97.29,0,0.39,0.9
+17,South Carolina,2018-19,Dillon,489,,97.34,0,0,1.02
+18,South Carolina,2018-19,Dorchester,2096,,94.13,0.24,1.96,2.48
+19,South Carolina,2018-19,Edgefield,269,,97.77,0,0.37,0.37
+20,South Carolina,2018-19,Fairfield,201,,93.53,0,5.47,0.5
+21,South Carolina,2018-19,Florence,1787,,95.3,0.11,2.29,0.95
+22,South Carolina,2018-19,Georgetown,671,,97.32,0.15,0.75,1.64
+23,South Carolina,2018-19,Greenville,6541,,93.85,0.26,0.93,3.68
+24,South Carolina,2018-19,Greenwood,828,,96.74,0,0.36,1.33
+25,South Carolina,2018-19,Hampton,211,,95.73,0,4.27,0
+26,South Carolina,2018-19,Horry,3212,,86.67,0.19,9.59,2.3
+27,South Carolina,2018-19,Jasper,316,,92.41,0,3.8,0.63
+28,South Carolina,2018-19,Kershaw,763,,95.02,0.13,1.31,1.97
+29,South Carolina,2018-19,Lancaster,1107,,95.39,0.27,0.99,2.44
+30,South Carolina,2018-19,Laurens,640,,94.84,0,1.41,3.13
+31,South Carolina,2018-19,Lee,136,,96.32,0,2.21,0.74
+32,South Carolina,2018-19,Lexington,3951,,94.86,0.15,1.82,1.95
+33,South Carolina,2018-19,Marion,346,,99.42,0,0,0
+34,South Carolina,2018-19,Marlboro,291,,98.63,0,0.69,0
+35,South Carolina,2018-19,Mccormick,42,,100,0,0,0
+36,South Carolina,2018-19,Newberry,525,,98.48,0,0.38,0.57
+37,South Carolina,2018-19,Oconee,794,,93.83,0.13,1.89,2.14
+38,South Carolina,2018-19,Orangeburg,976,,98.26,0.1,0.51,0.31
+39,South Carolina,2018-19,Pickens,1192,,94.71,0.08,1.93,2.6
+40,South Carolina,2018-19,Richland,4123,,87.99,0.07,7.64,1.89
+41,South Carolina,2018-19,Saluda,202,,99.5,0,0,0.5
+42,South Carolina,2018-19,Spartanburg,3830,,90.81,0.16,2.11,5.25
+43,South Carolina,2018-19,Sumter,1434,,96.44,0.14,1.67,0.91
+44,South Carolina,2018-19,Union,288,,98.96,0,0.69,0.35
+45,South Carolina,2018-19,Williamsburg,268,,94.78,0,1.87,0.37
+46,South Carolina,2018-19,York,3546,,96.28,0.14,0.65,2.34
+1,Florida,2018-19,Alachua,2584,,94.2,0,,2.9
+2,Florida,2018-19,Baker,370,,95.9,0.3,,1.1
+3,Florida,2018-19,Bay,2338,,95.9,0.2,,1.7
+4,Florida,2018-19,Bradford,305,,95.1,0.3,,2
+5,Florida,2018-19,Brevard,5860,,95.1,0.2,,3.6
+6,Florida,2018-19,Broward,21044,,94.2,0.1,,3.2
+7,Florida,2018-19,Calhoun,167,,95.8,0,,1.2
+8,Florida,2018-19,Charlotte,1186,,94.4,0,,3.2
+9,Florida,2018-19,Citrus,1198,,94.7,0,,3.3
+10,Florida,2018-19,Clay,2687,,96.3,0.1,,2.5
+11,Florida,2018-19,Collier,3404,,92.8,0.2,,4
+12,Florida,2018-19,Columbia,996,,94.3,0,,3.6
+13,Florida,2018-19,Dade,28438,,93.3,1.5,,1.7
+14,Florida,2018-19,DeSoto,378,,94.7,2.4,,0.8
+15,Florida,2018-19,Dixie,197,,98,0,,1
+16,Florida,2018-19,Duval,12131,,94.7,0.1,,2.6
+17,Florida,2018-19,Escambia,3731,,93,0,,2.6
+18,Florida,2018-19,Flagler,881,,93,0.3,,4.8
+19,Florida,2018-19,Franklin,103,,100,0,,0
+20,Florida,2018-19,Gadsden,409,,99.8,0,,0.2
+21,Florida,2018-19,Gilchrist,236,,94.5,0,,4.2
+22,Florida,2018-19,Glades,154,,94.8,0,,3.9
+23,Florida,2018-19,Gulf,143,,95.8,0,,2.1
+24,Florida,2018-19,Hamilton,123,,98.4,0,,0
+25,Florida,2018-19,Hardee,400,,97.3,0,,1.3
+26,Florida,2018-19,Hendry,513,,97.1,0,,0.6
+27,Florida,2018-19,Hernando,1873,,93.9,0.2,,3.5
+28,Florida,2018-19,Highlands,1050,,94.5,0.1,,2.3
+29,Florida,2018-19,Hillsborough,17246,,94.2,0.1,,2
+30,Florida,2018-19,Holmes,255,,98.4,0,,1.6
+31,Florida,2018-19,Indian River,1298,,94.2,0.2,,3.7
+32,Florida,2018-19,Jackson,552,,94.2,0,,1.3
+33,Florida,2018-19,Jefferson,98,,93.9,0,,0
+34,Florida,2018-19,Lafayette,96,,100,0,,0
+35,Florida,2018-19,Lake,3912,,94.1,0.4,,3
+36,Florida,2018-19,Lee,7236,,93,0.3,,2.9
+37,Florida,2018-19,Leon,2843,,94.4,0.5,,2.2
+38,Florida,2018-19,Levy,471,,97.2,0,,2.1
+39,Florida,2018-19,Liberty,94,,96.8,0,,0
+40,Florida,2018-19,Madison,220,,91.4,0,,0.9
+41,Florida,2018-19,Manatee,3640,,95.4,0.2,,2.1
+42,Florida,2018-19,Marion,3377,,94.9,0.1,,3.1
+43,Florida,2018-19,Martin,1357,,91.6,0.7,,5.4
+44,Florida,2018-19,Monroe,668,,90.1,0,,4.5
+45,Florida,2018-19,Nassau,1030,,94.2,0,,2.7
+46,Florida,2018-19,Okaloosa,2544,,94.5,0,,3.7
+47,Florida,2018-19,Okeechobee,522,,95,0,,2.3
+48,Florida,2018-19,Orange,16456,,91.5,0.4,,2.4
+49,Florida,2018-19,Osceola,4955,,93.1,0.6,,3.3
+50,Florida,2018-19,Palm Beach,15140,,93.5,0.1,,3.5
+51,Florida,2018-19,Pasco,5532,,94.6,0.2,,3.1
+52,Florida,2018-19,Pinellas,8319,,91.8,0.3,,4.9
+53,Florida,2018-19,Polk,8205,,95.9,0.2,,2.1
+54,Florida,2018-19,Putnam,883,,95.4,0.1,,1.1
+55,Florida,2018-19,Santa Rosa,2083,,94.4,0,,2.7
+56,Florida,2018-19,Sarasota,3090,,89.9,0.3,,8.1
+57,Florida,2018-19,Seminole,5391,,93,0.3,,4.2
+58,Florida,2018-19,St Johns,3017,,92.7,0.1,,3.6
+59,Florida,2018-19,St Lucie,3076,,94.4,0.2,,3
+60,Florida,2018-19,Sumter,687,,96.1,0,,1.7
+61,Florida,2018-19,Suwannee,489,,95.7,0.2,,1.8
+62,Florida,2018-19,Taylor,225,,95.6,0.9,,0.4
+63,Florida,2018-19,Union,220,,96.4,0,,0.9
+64,Florida,2018-19,Volusia,5033,,92.8,0.7,,3.9
+65,Florida,2018-19,Wakulla,378,,94.7,1.1,,2.1
+66,Florida,2018-19,Walton,833,,92.7,0,,4.8
+67,Florida,2018-19,Washington,271,,94.5,0,,2.6
+1,Maine,2017-18,Androscoggin,,95.3,,4.8,,
+2,Maine,2017-18,Aroostook,,93.7,,4.2,,
+3,Maine,2017-18,Cumberland,,94.4,,4.8,,
+4,Maine,2017-18,Franklin,,95.4,,5.1,,
+5,Maine,2017-18,Hancock,,92.4,,8.7,,
+6,Maine,2017-18,Kennebec,,94.1,,5.2,,
+7,Maine,2017-18,Knox,,91.2,,8.6,,
+8,Maine,2017-18,Lincoln,,92.1,,3.7,,
+9,Maine,2017-18,Oxford,,94.4,,5.4,,
+10,Maine,2017-18,Penobscot,,95.8,,4.1,,
+11,Maine,2017-18,Piscataquis,,95.1,,3,,
+12,Maine,2017-18,Sagadahoc,,91.6,,8.4,,
+13,Maine,2017-18,Somerset,,91.3,,9.1,,
+14,Maine,2017-18,Waldo,,93.5,,6.5,,
+15,Maine,2017-18,Washington,,96.1,,1.8,,
+16,Maine,2017-18,York,,95.4,,5,,
+1,Maryland,2017-18,Allegany,,100,,,,
+2,Maryland,2017-18,Anne Arundel,,99.3,,,,
+3,Maryland,2017-18,Baltimore City,,99.5,,,,
+4,Maryland,2017-18,Baltimore County,,99.3,,,,
+5,Maryland,2017-18,Calvert,,99.8,,,,
+6,Maryland,2017-18,Caroline,,99.5,,,,
+7,Maryland,2017-18,Carroll,,99.7,,,,
+8,Maryland,2017-18,Cecil,,99.6,,,,
+9,Maryland,2017-18,Charles,,99.7,,,,
+10,Maryland,2017-18,Dorchester,,98,,,,
+11,Maryland,2017-18,Frederick,,99.3,,,,
+12,Maryland,2017-18,Garrett,,99.4,,,,
+13,Maryland,2017-18,Harford,,99.4,,,,
+14,Maryland,2017-18,Howard,,99.4,,,,
+15,Maryland,2017-18,Kent,,97.1,,,,
+16,Maryland,2017-18,Montgomery,,99.2,,,,
+17,Maryland,2017-18,Prince George's,,94.1,,,,
+18,Maryland,2017-18,Queen Anne's,,100,,,,
+19,Maryland,2017-18,Somerset,,100,,,,
+20,Maryland,2017-18,St. Mary's,,99.4,,,,
+21,Maryland,2017-18,Talbot,,100,,,,
+22,Maryland,2017-18,Washington,,99.3,,,,
+23,Maryland,2017-18,Wicomico,,98.6,,,,
+24,Maryland,2017-18,Worcester,,99.2,,,,
+1,North Dakota,2018-19,Adams,32,96.88,,,,
+2,North Dakota,2018-19,Barnes,115,93.91,,,,
+3,North Dakota,2018-19,Benson,143,97.9,,,,
+4,North Dakota,2018-19,Billings,7,71.43,,,,
+5,North Dakota,2018-19,Bottineau,75,93.33,,,,
+6,North Dakota,2018-19,Bowman,48,97.92,,,,
+7,North Dakota,2018-19,Burke,36,88.89,,,,
+8,North Dakota,2018-19,Burleigh,1232,90.99,,,,
+9,North Dakota,2018-19,Cass,2348,95.53,,,,
+10,North Dakota,2018-19,Cavalier,43,100,,,,
+11,North Dakota,2018-19,Dickey,61,95.08,,,,
+12,North Dakota,2018-19,Divide,31,100,,,,
+13,North Dakota,2018-19,Dunn,56,71.43,,,,
+14,North Dakota,2018-19,Eddy,19,100,,,,
+15,North Dakota,2018-19,Emmons,17,88.24,,,,
+16,North Dakota,2018-19,Foster,40,97.5,,,,
+17,North Dakota,2018-19,Golden Valley,19,94.74,,,,
+18,North Dakota,2018-19,Grand Forks,792,94.07,,,,
+19,North Dakota,2018-19,Grant,23,86.96,,,,
+20,North Dakota,2018-19,Griggs,40,80,,,,
+21,North Dakota,2018-19,Hettinger,34,85.29,,,,
+22,North Dakota,2018-19,Kidder,28,96.43,,,,
+23,North Dakota,2018-19,LaMoure,49,91.84,,,,
+24,North Dakota,2018-19,Logan,25,88,,,,
+25,North Dakota,2018-19,McHenry,83,92.77,,,,
+26,North Dakota,2018-19,McIntosh,32,100,,,,
+27,North Dakota,2018-19,McKenzie,217,92.63,,,,
+28,North Dakota,2018-19,McLean,119,94.12,,,,
+29,North Dakota,2018-19,Mercer,107,93.46,,,,
+30,North Dakota,2018-19,Morton,482,91.49,,,,
+31,North Dakota,2018-19,Mountrail,223,92.83,,,,
+32,North Dakota,2018-19,Nelson,29,93.1,,,,
+33,North Dakota,2018-19,Oliver,13,84.62,,,,
+34,North Dakota,2018-19,Pembina,83,80.72,,,,
+35,North Dakota,2018-19,Pierce,53,96.23,,,,
+36,North Dakota,2018-19,Ramsey,171,99.42,,,,
+37,North Dakota,2018-19,Ransom,61,90.16,,,,
+38,North Dakota,2018-19,Renville,38,97.37,,,,
+39,North Dakota,2018-19,Richland,157,96.18,,,,
+40,North Dakota,2018-19,Rolette,303,99.67,,,,
+41,North Dakota,2018-19,Sargent,52,94.23,,,,
+42,North Dakota,2018-19,Sheridan,9,100,,,,
+43,North Dakota,2018-19,Sioux,80,98.75,,,,
+44,North Dakota,2018-19,Slope,,,,,,
+45,North Dakota,2018-19,Stark,512,92.58,,,,
+46,North Dakota,2018-19,Steele,7,71.43,,,,
+47,North Dakota,2018-19,Stutsman,219,95.89,,,,
+48,North Dakota,2018-19,Towner,25,100,,,,
+49,North Dakota,2018-19,Traill,96,96.88,,,,
+50,North Dakota,2018-19,Walsh,137,95.62,,,,
+51,North Dakota,2018-19,Ward,1010,95.05,,,,
+52,North Dakota,2018-19,Wells,54,92.59,,,,
+53,North Dakota,2018-19,Williams,630,87.62,,,,
+1,Oklahoma,2017-18,Adair,,,95.1,0.1,,
+2,Oklahoma,2017-18,Alfalfa,,,84.8,0,,
+3,Oklahoma,2017-18,Atoka,,,86.6,2.9,,
+4,Oklahoma,2017-18,Beaver,,,93.1,0,,
+5,Oklahoma,2017-18,Beckham,,,94.3,0.8,,
+6,Oklahoma,2017-18,Blaine,,,93.9,0,,
+7,Oklahoma,2017-18,Bryan,,,93.4,1.1,,
+8,Oklahoma,2017-18,Caddo,,,82.3,0,,
+9,Oklahoma,2017-18,Canadian,,,92,1.7,,
+10,Oklahoma,2017-18,Carter,,,94.5,1.8,,
+11,Oklahoma,2017-18,Cherokee,,,95.2,0.5,,
+12,Oklahoma,2017-18,Choctaw,,,97.1,1,,
+13,Oklahoma,2017-18,Cimarron,,,93.3,0,,
+14,Oklahoma,2017-18,Cleveland,,,90.2,3.1,,
+15,Oklahoma,2017-18,Coal,,,92.4,3.8,,
+16,Oklahoma,2017-18,Comanche,,,82,1.3,,
+17,Oklahoma,2017-18,Cotton,,,54.6,0,,
+18,Oklahoma,2017-18,Craig,,,93.8,2.7,,
+19,Oklahoma,2017-18,Creek,,,93,2.7,,
+20,Oklahoma,2017-18,Custer,,,89,1.8,,
+21,Oklahoma,2017-18,Delaware,,,95,2.1,,
+22,Oklahoma,2017-18,Dewey,,,87.5,4.7,,
+23,Oklahoma,2017-18,Ellis,,,88,0,,
+24,Oklahoma,2017-18,Garfield,,,95.3,0.9,,
+25,Oklahoma,2017-18,Garvin,,,90,2.7,,
+26,Oklahoma,2017-18,Grady,,,88.3,3.3,,
+27,Oklahoma,2017-18,Grant,,,94.6,0,,
+28,Oklahoma,2017-18,Greer,,,90.3,1.6,,
+29,Oklahoma,2017-18,Harmon,,,93.8,0,,
+30,Oklahoma,2017-18,Harper,,,91.4,0,,
+31,Oklahoma,2017-18,Haskell,,,94.3,1.1,,
+32,Oklahoma,2017-18,Hughes,,,93,2.9,,
+33,Oklahoma,2017-18,Jackson,,,93.6,0,,
+34,Oklahoma,2017-18,Jefferson,,,86.1,0,,
+35,Oklahoma,2017-18,Johnston,,,91.8,1,,
+36,Oklahoma,2017-18,Kay,,,95.3,1.4,,
+37,Oklahoma,2017-18,Kingfisher,,,86.7,2.2,,
+38,Oklahoma,2017-18,Kiowa,,,96.2,0.8,,
+39,Oklahoma,2017-18,Latimer,,,95.4,0,,
+40,Oklahoma,2017-18,Le,,,96.3,0.6,,
+41,Oklahoma,2017-18,Lincoln,,,93.4,0.4,,
+42,Oklahoma,2017-18,Logan,,,81.5,1.8,,
+43,Oklahoma,2017-18,Love,,,92.8,0,,
+44,Oklahoma,2017-18,Major,,,93.7,2.1,,
+45,Oklahoma,2017-18,Marshall,,,96.2,1.3,,
+46,Oklahoma,2017-18,Mayes,,,93.8,1.1,,
+47,Oklahoma,2017-18,McClain,,,90.1,2.6,,
+48,Oklahoma,2017-18,McCurtain,,,94.6,0.5,,
+49,Oklahoma,2017-18,McIntosh,,,93.8,2.5,,
+50,Oklahoma,2017-18,Murray,,,88.7,1.1,,
+51,Oklahoma,2017-18,Muskogee,,,92.8,1.1,,
+52,Oklahoma,2017-18,Noble,,,94,0,,
+53,Oklahoma,2017-18,Nowata,,,90.8,1.5,,
+54,Oklahoma,2017-18,Okfuskee,,,97.7,2.3,,
+55,Oklahoma,2017-18,Oklahoma,,,88.2,2.3,,
+56,Oklahoma,2017-18,Okmulgee,,,95.1,0.8,,
+57,Oklahoma,2017-18,Osage,,,89.4,2.4,,
+58,Oklahoma,2017-18,Ottawa,,,88.9,2.4,,
+59,Oklahoma,2017-18,Pawnee,,,94.5,1.1,,
+60,Oklahoma,2017-18,Payne,,,77.5,2.8,,
+61,Oklahoma,2017-18,Pittsburg,,,93.7,1.4,,
+62,Oklahoma,2017-18,Pontotoc,,,96.9,0.9,,
+63,Oklahoma,2017-18,Pottawatomie,,,94.6,2.4,,
+64,Oklahoma,2017-18,Pushmataha,,,92.9,0,,
+65,Oklahoma,2017-18,Roger Mills,,,89.8,3.4,,
+66,Oklahoma,2017-18,Rogers,,,91.2,2.7,,
+67,Oklahoma,2017-18,Seminole,,,92.4,1.2,,
+68,Oklahoma,2017-18,Sequoyah,,,90.9,0.9,,
+69,Oklahoma,2017-18,Stephens,,,95.3,2.1,,
+70,Oklahoma,2017-18,Texas,,,96.1,0.3,,
+71,Oklahoma,2017-18,Tillman,,,100,0,,
+72,Oklahoma,2017-18,Tulsa,,,91.5,2.8,,
+73,Oklahoma,2017-18,Wagoner,,,90.1,3.5,,
+74,Oklahoma,2017-18,Washington,,,91.7,1.3,,
+75,Oklahoma,2017-18,Washita,,,99.2,0,,
+76,Oklahoma,2017-18,Woods,,,91.4,1.9,,
+77,Oklahoma,2017-18,Woodward,,,84,3.9,,
+1,Rhode Island,2018-19,Barrington,227,96.6,94.7,,,
+2,Rhode Island,2018-19,Bristol,145,95.6,86.9,,,
+3,Rhode Island,2018-19,Burrillville,164,98.6,97.6,,,
+4,Rhode Island,2018-19,Central Falls,296,100,94.9,,,
+5,Rhode Island,2018-19,Charlestown,43,95.3,93,,,
+6,Rhode Island,2018-19,Coventry,334,98.2,96.4,,,
+7,Rhode Island,2018-19,Cranston,813,98.1,97.7,,,
+8,Rhode Island,2018-19,Cumberland,527,100,99.6,,,
+9,Rhode Island,2018-19,East Greenwich,186,96.8,93.5,,,
+10,Rhode Island,2018-19,East Providence,431,98.6,97.4,,,
+11,Rhode Island,2018-19,Exeter,107,98.1,96.3,,,
+12,Rhode Island,2018-19,Foster,32,87.5,87.5,,,
+13,Rhode Island,2018-19,Glocester,83,91.6,90.4,,,
+14,Rhode Island,2018-19,Hopkinton,77,97.4,96.1,,,
+15,Rhode Island,2018-19,Jamestown,54,98.1,98.1,,,
+16,Rhode Island,2018-19,Johnston,300,94.3,88.7,,,
+17,Rhode Island,2018-19,Lincoln,205,97.6,95.1,,,
+18,Rhode Island,2018-19,Little Compton,19,100,100,,,
+19,Rhode Island,2018-19,Middletown,151,97.1,90.1,,,
+20,Rhode Island,2018-19,Narragansett,77,96.9,93.5,,,
+21,Rhode Island,2018-19,New Shoreham,12,100,100,,,
+22,Rhode Island,2018-19,Newport,173,98.7,94.2,,,
+23,Rhode Island,2018-19,North Kingstown,306,97.1,96.7,,,
+24,Rhode Island,2018-19,North Providence,188,99.5,98.9,,,
+25,Rhode Island,2018-19,North Smithfield,112,99.1,99.1,,,
+26,Rhode Island,2018-19,Pawtucket,772,97.7,96.2,,,
+27,Rhode Island,2018-19,Portsmouth,198,97.3,96,,,
+28,Rhode Island,2018-19,Providence,2365,98.8,94.6,,,
+29,Rhode Island,2018-19,Richmond,82,93.9,92.7,,,
+30,Rhode Island,2018-19,Scituate,72,100,98.6,,,
+31,Rhode Island,2018-19,Smithfield,187,97.6,97.3,,,
+32,Rhode Island,2018-19,South Kingstown,273,97.5,95.2,,,
+33,Rhode Island,2018-19,Tiverton,118,95.8,94.9,,,
+34,Rhode Island,2018-19,Warren,86,97.7,97.7,,,
+35,Rhode Island,2018-19,Warwick,728,98.9,98.8,,,
+36,Rhode Island,2018-19,West Greenwich,177,,no,,,
+37,Rhode Island,2018-19,West Warwick,304,99.6,98.7,,,
+38,Rhode Island,2018-19,Westerly,173,94.2,93.1,,,
+39,Rhode Island,2018-19,Woonsocket,544,98.1,96.5,,,
+1,South Dakota,2017-18,Aurora,,96.08,,,,
+2,South Dakota,2017-18,Beadle,,98.11,,,,
+3,South Dakota,2017-18,Bennett,,100,,,,
+4,South Dakota,2017-18,Bon Homme,,94.87,,,,
+5,South Dakota,2017-18,Brookings,,96.26,,,,
+6,South Dakota,2017-18,Brown,,97.42,,,,
+7,South Dakota,2017-18,Brule,,99.07,,,,
+8,South Dakota,2017-18,Butte,,94.74,,,,
+9,South Dakota,2017-18,Campbell,,100,,,,
+10,South Dakota,2017-18,Charles Mix,,96.53,,,,
+11,South Dakota,2017-18,Clark,,87.34,,,,
+12,South Dakota,2017-18,Clay,,96.43,,,,
+13,South Dakota,2017-18,Codington,,98.9,,,,
+14,South Dakota,2017-18,Corson,,94.87,,,,
+15,South Dakota,2017-18,Custer,,93.06,,,,
+16,South Dakota,2017-18,Davison,,98.96,,,,
+17,South Dakota,2017-18,Day,,98.53,,,,
+18,South Dakota,2017-18,Deuel,,100,,,,
+19,South Dakota,2017-18,Dewey,,95.95,,,,
+20,South Dakota,2017-18,Douglas,,82.76,,,,
+21,South Dakota,2017-18,Edmunds,,94,,,,
+22,South Dakota,2017-18,Fall River,,93.1,,,,
+23,South Dakota,2017-18,Faulk,,91.67,,,,
+24,South Dakota,2017-18,Grant,,97.47,,,,
+25,South Dakota,2017-18,Gregory,,93.65,,,,
+26,South Dakota,2017-18,Haakon,,91.3,,,,
+27,South Dakota,2017-18,Hamlin,,99.14,,,,
+28,South Dakota,2017-18,Hand,,100,,,,
+29,South Dakota,2017-18,Hanson,,100,,,,
+30,South Dakota,2017-18,Harding,,91.67,,,,
+31,South Dakota,2017-18,Hughes,,98.07,,,,
+32,South Dakota,2017-18,Hutchinson,,95.96,,,,
+33,South Dakota,2017-18,Hyde,,100,,,,
+34,South Dakota,2017-18,Jackson,,100,,,,
+35,South Dakota,2017-18,Jerauld,,95.45,,,,
+36,South Dakota,2017-18,Jones,,92.31,,,,
+37,South Dakota,2017-18,Kingsbury,,97.3,,,,
+38,South Dakota,2017-18,Lake,,95.91,,,,
+39,South Dakota,2017-18,Lawrence,,94.14,,,,
+40,South Dakota,2017-18,Lincoln,,98.05,,,,
+41,South Dakota,2017-18,Lyman,,101.52,,,,
+42,South Dakota,2017-18,Marshall,,96.15,,,,
+43,South Dakota,2017-18,McCook,,94.5,,,,
+44,South Dakota,2017-18,McPherson,,86.36,,,,
+45,South Dakota,2017-18,Meade,,84.41,,,,
+46,South Dakota,2017-18,Mellette,,97.14,,,,
+47,South Dakota,2017-18,Miner,,100,,,,
+48,South Dakota,2017-18,Minnehaha,,96.88,,,,
+49,South Dakota,2017-18,Moody,,100,,,,
+50,South Dakota,2017-18,Oglala Lakota,,95.75,,,,
+51,South Dakota,2017-18,Pennington,,97.4,,,,
+52,South Dakota,2017-18,Perkins,,96.88,,,,
+53,South Dakota,2017-18,Potter,,95.83,,,,
+54,South Dakota,2017-18,Roberts,,96.95,,,,
+55,South Dakota,2017-18,Sanborn,,87.1,,,,
+56,South Dakota,2017-18,Spink,,94.51,,,,
+57,South Dakota,2017-18,Stanley,,94.12,,,,
+58,South Dakota,2017-18,Sully,,92.86,,,,
+59,South Dakota,2017-18,Todd,,97.12,,,,
+60,South Dakota,2017-18,Tripp,,85.29,,,,
+61,South Dakota,2017-18,Turner,,98.95,,,,
+62,South Dakota,2017-18,Union,,99.53,,,,
+63,South Dakota,2017-18,Walworth,,95.45,,,,
+64,South Dakota,2017-18,Yankton,,99.12,,,,
+65,South Dakota,2017-18,Ziebach,,89.13,,,,
+1,Texas,2018-19,Anderson,,97.36,,,,
+2,Texas,2018-19,Andrews,,97.8,,,,
+3,Texas,2018-19,Angelina,,97.54,,,,
+4,Texas,2018-19,Aransas,,98.4,,,,
+5,Texas,2018-19,Archer,,99.22,,,,
+6,Texas,2018-19,Armstrong,,96.77,,,,
+7,Texas,2018-19,Atascosa,,97.34,,,,
+8,Texas,2018-19,Austin,,96.61,,,,
+9,Texas,2018-19,Bailey,,96.7,,,,
+10,Texas,2018-19,Bandera,,98.93,,,,
+11,Texas,2018-19,Bastrop,,97.73,,,,
+12,Texas,2018-19,Baylor,,92.86,,,,
+13,Texas,2018-19,Bee,,99.48,,,,
+14,Texas,2018-19,Bell,,97.1,,,,
+15,Texas,2018-19,Bexar,,97.57,,,,
+16,Texas,2018-19,Blanco,,96.08,,,,
+17,Texas,2018-19,Borden,,87.5,,,,
+18,Texas,2018-19,Bosque,,95.71,,,,
+19,Texas,2018-19,Bowie,,97.15,,,,
+20,Texas,2018-19,Brazoria,,97.91,,,,
+21,Texas,2018-19,Brazos,,97.33,,,,
+22,Texas,2018-19,Brewster,,85.88,,,,
+23,Texas,2018-19,Briscoe,,100,,,,
+24,Texas,2018-19,Brooks,,99.07,,,,
+25,Texas,2018-19,Brown,,96.83,,,,
+26,Texas,2018-19,Burleson,,98.64,,,,
+27,Texas,2018-19,Burnet,,96.07,,,,
+28,Texas,2018-19,Caldwell,,97.02,,,,
+29,Texas,2018-19,Calhoun,,99.3,,,,
+30,Texas,2018-19,Callahan,,94.61,,,,
+31,Texas,2018-19,Cameron,,99.53,,,,
+32,Texas,2018-19,Camp,,98.92,,,,
+33,Texas,2018-19,Carson,,96.67,,,,
+34,Texas,2018-19,Cass,,97.21,,,,
+35,Texas,2018-19,Castro,,99.11,,,,
+36,Texas,2018-19,Chambers,,97.39,,,,
+37,Texas,2018-19,Cherokee,,98.97,,,,
+38,Texas,2018-19,Childress,,96.92,,,,
+39,Texas,2018-19,Clay,,98.51,,,,
+40,Texas,2018-19,Cochran,,100,,,,
+41,Texas,2018-19,Coke,,95,,,,
+42,Texas,2018-19,Coleman,,96.34,,,,
+43,Texas,2018-19,Collin,,95.76,,,,
+44,Texas,2018-19,Collingsworth,,94.44,,,,
+45,Texas,2018-19,Colorado,,97.62,,,,
+46,Texas,2018-19,Comal,,96.68,,,,
+47,Texas,2018-19,Comanche,,97.01,,,,
+48,Texas,2018-19,Concho,,100,,,,
+49,Texas,2018-19,Cooke,,96.51,,,,
+50,Texas,2018-19,Coryell,,97.03,,,,
+51,Texas,2018-19,Cottle,,92.31,,,,
+52,Texas,2018-19,Crane,,100,,,,
+53,Texas,2018-19,Crockett,,98.21,,,,
+54,Texas,2018-19,Crosby,,97.14,,,,
+55,Texas,2018-19,Culberson,,100,,,,
+56,Texas,2018-19,Dallam,,97.08,,,,
+57,Texas,2018-19,Dallas,,96.97,,,,
+58,Texas,2018-19,Dawson,,94.09,,,,
+59,Texas,2018-19,Deaf Smith,,97.87,,,,
+60,Texas,2018-19,Delta,,98.15,,,,
+61,Texas,2018-19,Denton,,94.14,,,,
+62,Texas,2018-19,DeWitt,,98.99,,,,
+63,Texas,2018-19,Dickens,,100,,,,
+64,Texas,2018-19,Dimmit,,99.41,,,,
+65,Texas,2018-19,Donley,,100,,,,
+66,Texas,2018-19,Duval,,100,,,,
+67,Texas,2018-19,Eastland,,90.64,,,,
+68,Texas,2018-19,Ector,,97.54,,,,
+69,Texas,2018-19,Edwards,,93.75,,,,
+70,Texas,2018-19,El Paso,,97.76,,,,
+71,Texas,2018-19,Ellis,,96.65,,,,
+72,Texas,2018-19,Erath,,98,,,,
+73,Texas,2018-19,Falls,,99.35,,,,
+74,Texas,2018-19,Fannin,,93.87,,,,
+75,Texas,2018-19,Fayette,,98.54,,,,
+76,Texas,2018-19,Fisher,,93.02,,,,
+77,Texas,2018-19,Floyd,,97.5,,,,
+78,Texas,2018-19,Foard,,100,,,,
+79,Texas,2018-19,Fort Bend,,98.79,,,,
+80,Texas,2018-19,Franklin,,97.85,,,,
+81,Texas,2018-19,Freestone,,97.4,,,,
+82,Texas,2018-19,Frio,,99.53,,,,
+83,Texas,2018-19,Gaines,,82.63,,,,
+84,Texas,2018-19,Galveston,,96.16,,,,
+85,Texas,2018-19,Garza,,97.87,,,,
+86,Texas,2018-19,Gillespie,,92.62,,,,
+87,Texas,2018-19,Glasscock,,95,,,,
+88,Texas,2018-19,Goliad,,97.92,,,,
+89,Texas,2018-19,Gonzales,,98.36,,,,
+90,Texas,2018-19,Gray,,96.67,,,,
+91,Texas,2018-19,Grayson,,96.78,,,,
+92,Texas,2018-19,Gregg,,95.99,,,,
+93,Texas,2018-19,Grimes,,97.48,,,,
+94,Texas,2018-19,Guadalupe,,97.95,,,,
+95,Texas,2018-19,Hale,,98.14,,,,
+96,Texas,2018-19,Hall,,84.09,,,,
+97,Texas,2018-19,Hamilton,,95.45,,,,
+98,Texas,2018-19,Hansford,,100,,,,
+99,Texas,2018-19,Hardeman,,97.87,,,,
+100,Texas,2018-19,Hardin,,95.28,,,,
+101,Texas,2018-19,Harris,,96.7,,,,
+102,Texas,2018-19,Harrison,,98.68,,,,
+103,Texas,2018-19,Hartley,,100,,,,
+104,Texas,2018-19,Haskell,,98.21,,,,
+105,Texas,2018-19,Hays,,96.9,,,,
+106,Texas,2018-19,Hemphill,,98.18,,,,
+107,Texas,2018-19,Henderson,,97.01,,,,
+108,Texas,2018-19,Hidalgo,,98.96,,,,
+109,Texas,2018-19,Hill,,94.86,,,,
+110,Texas,2018-19,Hockley,,98.26,,,,
+111,Texas,2018-19,Hood,,94.71,,,,
+112,Texas,2018-19,Hopkins,,97.54,,,,
+113,Texas,2018-19,Houston,,97.06,,,,
+114,Texas,2018-19,Howard,,97.46,,,,
+115,Texas,2018-19,Hudspeth,,100,,,,
+116,Texas,2018-19,Hunt,,97.57,,,,
+117,Texas,2018-19,Hutchinson,,97.59,,,,
+118,Texas,2018-19,Irion,,95.45,,,,
+119,Texas,2018-19,Jack,,93.33,,,,
+120,Texas,2018-19,Jackson,,98.47,,,,
+121,Texas,2018-19,Jasper,,96.57,,,,
+122,Texas,2018-19,Jeff Davis,,87.5,,,,
+123,Texas,2018-19,Jefferson,,97.93,,,,
+124,Texas,2018-19,Jim Hogg,,97.78,,,,
+125,Texas,2018-19,Jim Wells,,99.5,,,,
+126,Texas,2018-19,Johnson,,96.09,,,,
+127,Texas,2018-19,Jones,,98.49,,,,
+128,Texas,2018-19,Karnes,,98.08,,,,
+129,Texas,2018-19,Kaufman,,97.51,,,,
+130,Texas,2018-19,Kendall,,94.29,,,,
+131,Texas,2018-19,Kenedy,,100,,,,
+132,Texas,2018-19,Kent,,,,,,
+133,Texas,2018-19,Kerr,,94.04,,,,
+134,Texas,2018-19,Kimble,,93.75,,,,
+135,Texas,2018-19,King,,33.33,,,,
+136,Texas,2018-19,Kinney,,97.37,,,,
+137,Texas,2018-19,Kleberg,,98.97,,,,
+138,Texas,2018-19,Knox,,98.04,,,,
+139,Texas,2018-19,Lamar,,98.95,,,,
+140,Texas,2018-19,Lamb,,97.38,,,,
+141,Texas,2018-19,Lampasas,,99.49,,,,
+142,Texas,2018-19,Lasalle,,95.1,,,,
+143,Texas,2018-19,Lavaca,,96.84,,,,
+144,Texas,2018-19,Lee,,97.37,,,,
+145,Texas,2018-19,Leon,,99.5,,,,
+146,Texas,2018-19,Liberty,,98.38,,,,
+147,Texas,2018-19,Limestone,,97.4,,,,
+148,Texas,2018-19,Lipscomb,,91.23,,,,
+149,Texas,2018-19,Live Oak,,99.19,,,,
+150,Texas,2018-19,Llano,,97.39,,,,
+151,Texas,2018-19,Loving,,,,,,
+152,Texas,2018-19,Lubbock,,95.88,,,,
+153,Texas,2018-19,Lynn,,95.6,,,,
+154,Texas,2018-19,Madison,,98.94,,,,
+155,Texas,2018-19,Marion,,96.81,,,,
+156,Texas,2018-19,Martin,,95.92,,,,
+157,Texas,2018-19,Mason,,97.96,,,,
+158,Texas,2018-19,Matagorda,,97.64,,,,
+159,Texas,2018-19,Maverick,,99.25,,,,
+160,Texas,2018-19,Mcculloch,,97.03,,,,
+161,Texas,2018-19,Mclennan,,97.32,,,,
+162,Texas,2018-19,Mcmullen,,100,,,,
+163,Texas,2018-19,Medina,,98.64,,,,
+164,Texas,2018-19,Menard,,100,,,,
+165,Texas,2018-19,Midland,,97.91,,,,
+166,Texas,2018-19,Milam,,97.29,,,,
+167,Texas,2018-19,Mills,,95.35,,,,
+168,Texas,2018-19,Mitchell,,82.73,,,,
+169,Texas,2018-19,Montague,,90,,,,
+170,Texas,2018-19,Montgomery,,96.62,,,,
+171,Texas,2018-19,Moore,,98.67,,,,
+172,Texas,2018-19,Morris,,97.2,,,,
+173,Texas,2018-19,Motley,,88.89,,,,
+174,Texas,2018-19,Nacogdoches,,94.6,,,,
+175,Texas,2018-19,Navarro,,98.22,,,,
+176,Texas,2018-19,Newton,,96.38,,,,
+177,Texas,2018-19,Nolan,,98.2,,,,
+178,Texas,2018-19,Nueces,,98.37,,,,
+179,Texas,2018-19,Ochiltree,,96.6,,,,
+180,Texas,2018-19,Oldham,,97.73,,,,
+181,Texas,2018-19,Orange,,95.77,,,,
+182,Texas,2018-19,Palo Pinto,,94.86,,,,
+183,Texas,2018-19,Panola,,90.51,,,,
+184,Texas,2018-19,Parker,,94.6,,,,
+185,Texas,2018-19,Parmer,,96.61,,,,
+186,Texas,2018-19,Pecos,,95.07,,,,
+187,Texas,2018-19,Polk,,97.19,,,,
+188,Texas,2018-19,Potter,,97.69,,,,
+189,Texas,2018-19,Presidio,,98.86,,,,
+190,Texas,2018-19,Rains,,94.62,,,,
+191,Texas,2018-19,Randall,,96.75,,,,
+192,Texas,2018-19,Reagan,,98.89,,,,
+193,Texas,2018-19,Real,,92.86,,,,
+194,Texas,2018-19,Red River,,93.66,,,,
+195,Texas,2018-19,Reeves,,99.53,,,,
+196,Texas,2018-19,Refugio,,96.3,,,,
+197,Texas,2018-19,Roberts,,100,,,,
+198,Texas,2018-19,Robertson,,96.15,,,,
+199,Texas,2018-19,Rockwall,,95.52,,,,
+200,Texas,2018-19,Runnels,,98.41,,,,
+201,Texas,2018-19,Rusk,,98.26,,,,
+202,Texas,2018-19,Sabine,,95.73,,,,
+203,Texas,2018-19,San Augustine,,95.71,,,,
+204,Texas,2018-19,San Jacinto,,95.09,,,,
+205,Texas,2018-19,San Patricio,,96.63,,,,
+206,Texas,2018-19,San Saba,,94.67,,,,
+207,Texas,2018-19,Schleicher,,100,,,,
+208,Texas,2018-19,Scurry,,97.32,,,,
+209,Texas,2018-19,Shackelford,,85.71,,,,
+210,Texas,2018-19,Shelby,,96.09,,,,
+211,Texas,2018-19,Sherman,,90.57,,,,
+212,Texas,2018-19,Smith,,97.22,,,,
+213,Texas,2018-19,Somervell,,94.12,,,,
+214,Texas,2018-19,Starr,,99.71,,,,
+215,Texas,2018-19,Stephens,,96.19,,,,
+216,Texas,2018-19,Sterling,,100,,,,
+217,Texas,2018-19,Stonewall,,80,,,,
+218,Texas,2018-19,Sutton,,96.36,,,,
+219,Texas,2018-19,Swisher,,99.12,,,,
+220,Texas,2018-19,Tarrant,,96.04,,,,
+221,Texas,2018-19,Taylor,,98.23,,,,
+222,Texas,2018-19,Terrell,,100,,,,
+223,Texas,2018-19,Terry,,87.04,,,,
+224,Texas,2018-19,Throckmorton,,94.44,,,,
+225,Texas,2018-19,Titus,,99.1,,,,
+226,Texas,2018-19,Tom Green,,97.62,,,,
+227,Texas,2018-19,Travis,,95.44,,,,
+228,Texas,2018-19,Trinity,,97.67,,,,
+229,Texas,2018-19,Tyler,,95.79,,,,
+230,Texas,2018-19,Upshur,,96.26,,,,
+231,Texas,2018-19,Upton,,95.31,,,,
+232,Texas,2018-19,Uvalde,,98.47,,,,
+233,Texas,2018-19,Val Verde,,97.88,,,,
+234,Texas,2018-19,Van Zandt,,96.7,,,,
+235,Texas,2018-19,Victoria,,99.14,,,,
+236,Texas,2018-19,Walker,,96.27,,,,
+237,Texas,2018-19,Waller,,98.45,,,,
+238,Texas,2018-19,Ward,,99.08,,,,
+239,Texas,2018-19,Washington,,97.17,,,,
+240,Texas,2018-19,Webb,,99.72,,,,
+241,Texas,2018-19,Wharton,,97.56,,,,
+242,Texas,2018-19,Wheeler,,98.72,,,,
+243,Texas,2018-19,Wichita,,98.09,,,,
+244,Texas,2018-19,Wilbarger,,98.04,,,,
+245,Texas,2018-19,Willacy,,99.61,,,,
+246,Texas,2018-19,Williamson,,95.2,,,,
+247,Texas,2018-19,Wilson,,96.62,,,,
+248,Texas,2018-19,Winkler,,98.03,,,,
+249,Texas,2018-19,Wise,,95.46,,,,
+250,Texas,2018-19,Wood,,93.56,,,,
+251,Texas,2018-19,Yoakum,,98.82,,,,
+252,Texas,2018-19,Young,,91.09,,,,
+253,Texas,2018-19,Zapata,,99.58,,,,
+254,Texas,2018-19,Zavala,,99.49,,,,
+1,Vermont,2018-19,Addison,326,91.72,89.26,0.31,,5.83
+2,Vermont,2018-19,Bennington,371,92.72,88.68,1.08,,2.7
+3,Vermont,2018-19,Caledonia,269,92.57,91.82,0.37,,4.09
+4,Vermont,2018-19,Chittenden,1575,94.1,91.75,0.06,,4.38
+5,Vermont,2018-19,Essex,44,100,100,0,,0
+6,Vermont,2018-19,Franklin,582,94.85,92.61,0.86,,3.61
+7,Vermont,2018-19,Grand Isle,56,87.5,80.36,0,,0
+8,Vermont,2018-19,Lamoille,280,85.36,82.86,0,,3.93
+9,Vermont,2018-19,Orange,298,93.96,92.28,0,,4.36
+10,Vermont,2018-19,Orleans,267,92.88,89.89,0,,5.62
+11,Vermont,2018-19,Rutland,534,95.13,92.88,0.19,,3.56
+12,Vermont,2018-19,Washington,576,93.23,89.58,0.17,,5.38
+13,Vermont,2018-19,Windham,428,89.49,84.35,0.23,,7.24
+14,Vermont,2018-19,Windsor,520,92.88,91.92,0.77,,3.65
+1,Washington,2017-18,ADAMS,384,96.35,94.01,0.78,0.78,0
+2,Washington,2017-18,ASOTIN,245,88.16,82.86,0.82,2.45,0
+3,Washington,2017-18,BENTON,2842,95.53,93.46,0.32,2.25,0.11
+4,Washington,2017-18,CHELAN,706,96.32,93.91,0.42,4.39,0
+5,Washington,2017-18,CLALLAM,378,91.27,85.98,3.17,4.76,0.26
+6,Washington,2017-18,CLARK,5680,84.45,76.51,1.23,6.3,0.32
+7,Washington,2017-18,COLUMBIA,28,89.29,78.57,0,0,0
+8,Washington,2017-18,COWLITZ,1232,92.69,90.18,1.22,3.73,0.08
+9,Washington,2017-18,DOUGLAS,507,98.03,96.84,0,0.79,0
+10,Washington,2017-18,FERRY,79,65.82,64.56,0,5.06,0
+11,Washington,2017-18,FRANKLIN,1515,96.44,94.65,0,1.58,0.07
+12,Washington,2017-18,GARFIELD,24,91.67,87.5,0,8.33,0
+13,Washington,2017-18,GRANT,1171,91.12,88.9,0.6,2.56,0.26
+14,Washington,2017-18,GRAYS HARBOR,770,85.97,81.56,0.65,1.56,0.13
+15,Washington,2017-18,ISLAND,834,90.65,87.29,2.4,2.64,0.12
+16,Washington,2017-18,JEFFERSON,171,77.78,67.25,1.17,10.53,0.58
+17,Washington,2017-18,KING,24957,90.96,85.58,0.59,2.95,0.16
+18,Washington,2017-18,KITSAP,2620,92.63,88.74,1.07,3.44,0.15
+19,Washington,2017-18,KITTITAS,431,86.31,81.67,0.7,3.48,0
+20,Washington,2017-18,KLICKITAT,257,78.21,66.54,5.84,6.23,0.78
+21,Washington,2017-18,LEWIS,730,91.37,87.12,0.82,3.15,0.14
+22,Washington,2017-18,LINCOLN,164,91.46,84.76,0.61,3.66,2.44
+23,Washington,2017-18,MASON,645,86.36,79.22,1.4,1.71,0.31
+24,Washington,2017-18,OKANOGAN,551,93.28,86.57,0.36,2.54,0.18
+25,Washington,2017-18,PACIFIC,195,85.13,78.46,0.51,5.13,0
+26,Washington,2017-18,PEND OREILLE,103,84.47,78.64,0,4.85,0
+27,Washington,2017-18,PIERCE,10378,92.05,87.57,0.93,3.34,0.25
+28,Washington,2017-18,SAN JUAN,117,59.83,47.01,1.71,2.56,0
+29,Washington,2017-18,SKAGIT,1484,87.87,83.02,0.88,3.84,0.34
+30,Washington,2017-18,SKAMANIA,61,90.16,86.89,1.64,3.28,0
+31,Washington,2017-18,SNOHOMISH,8009,90.21,85.44,0.71,4.63,0.12
+32,Washington,2017-18,SPOKANE,5860,88.65,83.52,1.21,6.59,0.34
+33,Washington,2017-18,STEVENS,359,74.09,67.69,2.51,10.58,0.28
+34,Washington,2017-18,THURSTON,3415,90.4,83.98,0.97,4.04,0.2
+35,Washington,2017-18,WAHKIAKUM,29,79.31,79.31,3.45,0,3.45
+36,Washington,2017-18,WALLA WALLA,655,93.28,90.08,1.07,3.21,0.31
+37,Washington,2017-18,WHATCOM,1280,85.31,78.98,0.7,9.3,0.31
+38,Washington,2017-18,WHITMAN,452,94.25,90.71,0.44,2.88,0
+39,Washington,2017-18,YAKIMA,3918,95.53,92.93,0.46,0.64,0.05
+1,Louisiana,2018-19,ACADIA,,,95.91,,,
+2,Louisiana,2018-19,ALLEN,,,98.86,,,
+3,Louisiana,2018-19,ASCENSION,,,97.88,,,
+4,Louisiana,2018-19,ASSUMPTION,,,99.52,,,
+5,Louisiana,2018-19,AVOYELLES,,,97.29,,,
+6,Louisiana,2018-19,BEAUREGARD,,,95.63,,,
+7,Louisiana,2018-19,BIENVILLE,,,97.96,,,
+8,Louisiana,2018-19,BOSSIER,,,96.91,,,
+9,Louisiana,2018-19,CADDO,,,94.64,,,
+10,Louisiana,2018-19,CALCASIEU,,,96.8,,,
+11,Louisiana,2018-19,CALDWELL,,,100,,,
+12,Louisiana,2018-19,CAMERON,,,90.91,,,
+13,Louisiana,2018-19,CATAHOULA,,,95.88,,,
+14,Louisiana,2018-19,CLAIBORNE,,,96.35,,,
+15,Louisiana,2018-19,CONCORDIA,,,85.14,,,
+16,Louisiana,2018-19,DE SOTO,,,97.63,,,
+17,Louisiana,2018-19,EAST BATON ROUGE,,,90.78,,,
+18,Louisiana,2018-19,EAST CARROLL,,,100,,,
+19,Louisiana,2018-19,EAST FELICIANA,,,95.45,,,
+20,Louisiana,2018-19,EVANGELINE,,,95.57,,,
+21,Louisiana,2018-19,FRANKLIN,,,100,,,
+22,Louisiana,2018-19,GRANT,,,95.75,,,
+23,Louisiana,2018-19,IBERIA,,,97.2,,,
+24,Louisiana,2018-19,IBERVILLE,,,98.76,,,
+25,Louisiana,2018-19,JACKSON,,,96.86,,,
+26,Louisiana,2018-19,JEFFERSON,,,96.19,,,
+27,Louisiana,2018-19,JEFFERSON DAVIS,,,96.34,,,
+28,Louisiana,2018-19,LA SALLE,,,95.98,,,
+29,Louisiana,2018-19,LAFAYETTE,,,94.57,,,
+30,Louisiana,2018-19,LAFOURCHE,,,97.33,,,
+31,Louisiana,2018-19,LINCOLN,,,98.29,,,
+32,Louisiana,2018-19,LIVINGSTON,,,96.16,,,
+33,Louisiana,2018-19,MADISON,,,89.62,,,
+34,Louisiana,2018-19,MOREHOUSE,,,95.39,,,
+35,Louisiana,2018-19,NATCHITOCHES,,,97.68,,,
+36,Louisiana,2018-19,ORLEANS,,,93.27,,,
+37,Louisiana,2018-19,OUACHITA,,,90.23,,,
+38,Louisiana,2018-19,PLAQUEMINES,,,96.48,,,
+39,Louisiana,2018-19,POINTE COUPEE,,,96.7,,,
+40,Louisiana,2018-19,RAPIDES,,,96.08,,,
+41,Louisiana,2018-19,RED RIVER,,,100,,,
+42,Louisiana,2018-19,RICHLAND,,,92.89,,,
+43,Louisiana,2018-19,SABINE,,,93.57,,,
+44,Louisiana,2018-19,ST. BERNARD,,,97.84,,,
+45,Louisiana,2018-19,ST. CHARLES,,,97.54,,,
+46,Louisiana,2018-19,ST. HELENA,,,85.71,,,
+47,Louisiana,2018-19,ST. JAMES,,,98.68,,,
+48,Louisiana,2018-19,ST. JOHN THE BAPTIST,,,98.18,,,
+49,Louisiana,2018-19,ST. LANDRY,,,96.17,,,
+50,Louisiana,2018-19,ST. MARTIN,,,95.51,,,
+51,Louisiana,2018-19,ST. MARY,,,97.77,,,
+52,Louisiana,2018-19,ST. TAMMANY,,,93.65,,,
+53,Louisiana,2018-19,TANGIPAHOA,,,97.04,,,
+54,Louisiana,2018-19,TENSAS,,,64.12,,,
+55,Louisiana,2018-19,TERREBONNE,,,96.66,,,
+56,Louisiana,2018-19,UNION,,,93.26,,,
+57,Louisiana,2018-19,VERMILION,,,97.47,,,
+58,Louisiana,2018-19,VERNON,,,97.33,,,
+59,Louisiana,2018-19,WASHINGTON,,,96.99,,,
+60,Louisiana,2018-19,WEBSTER,,,97.82,,,
+61,Louisiana,2018-19,WEST BATON ROUGE,,,95.05,,,
+62,Louisiana,2018-19,WEST CARROLL,,,92.44,,,
+63,Louisiana,2018-19,WEST FELICIANA,,,98.43,,,
+64,Louisiana,2018-19,WINN,,,92.03,,,
+1,Arizona,2018-19,Apache,544,93.4,,0,6.1,
+2,Arizona,2018-19,Cochise,"1,301",95.5,,0.5,2.8,
+3,Arizona,2018-19,Coconino,"1,102",91,,0.1,5.9,
+4,Arizona,2018-19,Gila,591,91.4,,0.2,5.9,
+5,Arizona,2018-19,Graham,534,92.9,,0.2,5.8,
+6,Arizona,2018-19,Greenlee,159,95,,0,1.3,
+7,Arizona,2018-19,La Paz,154,96.8,,0,1.9,
+8,Arizona,2018-19,Maricopa,"52,867",92.7,,0.3,6.5,
+9,Arizona,2018-19,Mohave,"1,856",88.4,,0.4,10.3,
+10,Arizona,2018-19,Navajo,"1,013",88.4,,0.1,7.8,
+11,Arizona,2018-19,Pima,"10,727",95.9,,0.3,3.2,
+12,Arizona,2018-19,Pinal,"3,986",92.2,,0.3,5.5,
+13,Arizona,2018-19,Santa Cruz,582,97.1,,0.9,1.7,
+14,Arizona,2018-19,Yavapai,"1,737",83.3,,0.3,12.5,
+15,Arizona,2018-19,Yuma,"2,828",97.3,,0,1.3,
+1,Massachusetts,2018-19,Barnstable,1544,95,,0.5,,2.9
+2,Massachusetts,2018-19,Berkshire,961,93.4,,0.2,,5.2
+3,Massachusetts,2018-19,Bristol,5671,97.8,,0.3,,1.2
+4,Massachusetts,2018-19,Dukes,159,93.1,,1.9,,6.3
+5,Massachusetts,2018-19,Essex,7940,97.6,,0.2,,1
+6,Massachusetts,2018-19,Franklin,420,95.7,,0.5,,4
+7,Massachusetts,2018-19,Hampden,4826,95.6,,0.2,,1.7
+8,Massachusetts,2018-19,Hampshire,1056,97.7,,0.3,,1.4
+9,Massachusetts,2018-19,Middlesex,16313,98.3,,0.3,,0.9
+10,Massachusetts,2018-19,Nantucket,121,97.5,,0,,1.7
+11,Massachusetts,2018-19,Norfolk,7165,98.4,,0.3,,0.9
+12,Massachusetts,2018-19,Plymouth,5074,97.3,,0.2,,1.2
+13,Massachusetts,2018-19,Suffolk,5496,90.2,,0.1,,0.3
+14,Massachusetts,2018-19,Worcester,8533,97.4,,0.2,,1.2
+1,Minnesota,2017-18,AITKIN,114,81.58,,0,,2.63
+2,Minnesota,2017-18,ANOKA,4059,95.15,,0.2,,3.13
+3,Minnesota,2017-18,BECKER,343,93,,0,,4.66
+4,Minnesota,2017-18,BELTRAMI,664,91.87,,0,,3.16
+5,Minnesota,2017-18,BENTON,572,96.5,,0,,2.27
+6,Minnesota,2017-18,BIG STONE,60,93.33,,0,,0
+7,Minnesota,2017-18,BLUE EARTH,722,96.68,,0,,2.35
+8,Minnesota,2017-18,BROWN,343,98.83,,0,,1.17
+9,Minnesota,2017-18,CARLTON,513,94.74,,0.19,,1.95
+10,Minnesota,2017-18,CARVER,1377,92.96,,0.15,,4.36
+11,Minnesota,2017-18,CASS,279,86.74,,0.36,,3.94
+12,Minnesota,2017-18,CHIPPEWA,106,95.28,,0,,2.83
+13,Minnesota,2017-18,CHISAGO,547,95.06,,0,,4.39
+14,Minnesota,2017-18,CLAY,941,89.8,,0,,2.02
+15,Minnesota,2017-18,CLEARWATER,108,86.11,,0,,2.78
+16,Minnesota,2017-18,COOK,71,92.96,,0,,1.41
+17,Minnesota,2017-18,COTTONWOOD,136,97.06,,0,,1.47
+18,Minnesota,2017-18,CROW WING,606,92.24,,0,,4.79
+19,Minnesota,2017-18,DAKOTA,5405,94.54,,0.19,,3.4
+20,Minnesota,2017-18,DODGE,372,98.39,,0,,0.81
+21,Minnesota,2017-18,DOUGLAS,434,95.16,,0,,3.69
+22,Minnesota,2017-18,FARIBAULT,161,95.03,,0,,1.24
+23,Minnesota,2017-18,FILLMORE,243,84.77,,0,,1.65
+24,Minnesota,2017-18,FREEBORN,300,91,,0,,2
+25,Minnesota,2017-18,GOODHUE,504,97.02,,0.2,,1.98
+26,Minnesota,2017-18,GRANT,86,96.51,,0,,2.33
+27,Minnesota,2017-18,HENNEPIN,14448,90.45,,0.19,,3.23
+28,Minnesota,2017-18,HOUSTON,278,89.21,,0,,2.16
+29,Minnesota,2017-18,HUBBARD,199,92.96,,0,,3.52
+30,Minnesota,2017-18,ISANTI,461,87.42,,0,,3.9
+31,Minnesota,2017-18,ITASCA,529,95.09,,0.19,,4.16
+32,Minnesota,2017-18,JACKSON,101,95.05,,0,,1.98
+33,Minnesota,2017-18,KANABEC,136,97.06,,0.74,,1.47
+34,Minnesota,2017-18,KANDIYOHI,506,94.47,,0,,2.77
+35,Minnesota,2017-18,KITTSON,52,96.15,,0,,0
+36,Minnesota,2017-18,KOOCHICHING,119,87.39,,0,,5.04
+37,Minnesota,2017-18,LAC QUI PARLE,66,100,,0,,0
+38,Minnesota,2017-18,LAKE,90,94.44,,1.11,,3.33
+39,Minnesota,2017-18,LAKE OF THE WOODS,30,100,,0,,0
+40,Minnesota,2017-18,LE SUEUR,279,93.55,,0.36,,3.58
+41,Minnesota,2017-18,LINCOLN,42,90.48,,0,,2.38
+42,Minnesota,2017-18,LYON,400,94.75,,0,,0.5
+43,Minnesota,2017-18,MAHNOMEN,150,92.67,,0,,2
+44,Minnesota,2017-18,MARSHALL,98,97.96,,0,,2.04
+45,Minnesota,2017-18,MARTIN,232,84.91,,0,,3.88
+46,Minnesota,2017-18,MCLEOD,418,93.3,,0,,4.55
+47,Minnesota,2017-18,MEEKER,266,91.73,,0,,5.64
+48,Minnesota,2017-18,MILLE LACS,435,90.11,,0.23,,3.45
+49,Minnesota,2017-18,MORRISON,367,93.19,,0,,3.81
+50,Minnesota,2017-18,MOWER,559,95.17,,0.72,,2.15
+51,Minnesota,2017-18,MURRAY,83,98.8,,0,,1.2
+52,Minnesota,2017-18,NICOLLET,399,95.74,,0,,1.25
+53,Minnesota,2017-18,NOBLES,428,89.95,,0.23,,6.54
+54,Minnesota,2017-18,NORMAN,66,90.91,,0,,0
+55,Minnesota,2017-18,OLMSTED,2149,95.91,,0.09,,2.61
+56,Minnesota,2017-18,OTTER TAIL,595,89.08,,0,,4.37
+57,Minnesota,2017-18,PENNINGTON,191,95.81,,0,,1.05
+58,Minnesota,2017-18,PINE,241,92.95,,0.41,,2.9
+59,Minnesota,2017-18,PIPESTONE,201,84.08,,0,,1.99
+60,Minnesota,2017-18,POLK,432,95.37,,0.23,,2.31
+61,Minnesota,2017-18,POPE,114,92.11,,0,,0.88
+62,Minnesota,2017-18,RAMSEY,6813,90.15,,0.09,,2.38
+63,Minnesota,2017-18,RED LAKE,62,93.55,,1.61,,1.61
+64,Minnesota,2017-18,REDWOOD,152,96.05,,0,,1.97
+65,Minnesota,2017-18,RENVILLE,188,88.3,,0,,11.7
+66,Minnesota,2017-18,RICE,682,94.43,,0,,3.23
+67,Minnesota,2017-18,ROCK,116,99.14,,0,,0.86
+68,Minnesota,2017-18,ROSEAU,178,94.38,,0,,2.81
+69,Minnesota,2017-18,SCOTT,2231,93.68,,0.27,,4.88
+70,Minnesota,2017-18,SHERBURNE,1191,94.21,,0.08,,4.7
+71,Minnesota,2017-18,SIBLEY,166,87.95,,0,,1.81
+72,Minnesota,2017-18,ST. LOUIS,1735,92.1,,0.29,,3.4
+73,Minnesota,2017-18,STEARNS,1804,90.74,,0.33,,3.82
+74,Minnesota,2017-18,STEELE,547,95.25,,0.73,,1.83
+75,Minnesota,2017-18,STEVENS,124,96.77,,0,,2.42
+76,Minnesota,2017-18,SWIFT,167,92.22,,0,,2.99
+77,Minnesota,2017-18,TODD,194,95.36,,0,,3.09
+78,Minnesota,2017-18,TRAVERSE,22,100,,0,,0
+79,Minnesota,2017-18,WABASHA,238,96.64,,0,,2.52
+80,Minnesota,2017-18,WADENA,232,87.07,,0,,12.93
+81,Minnesota,2017-18,WASECA,199,96.98,,0,,0.5
+82,Minnesota,2017-18,WASHINGTON,3232,95.14,,0.28,,3.22
+83,Minnesota,2017-18,WATONWAN,160,99.38,,0,,0
+84,Minnesota,2017-18,WILKIN,69,82.61,,0,,0
+85,Minnesota,2017-18,WINONA,423,94.33,,0.24,,1.42
+86,Minnesota,2017-18,WRIGHT,2095,92.32,,0.14,,5.78
+87,Minnesota,2017-18,YELLOW MEDICINE,126,96.03,,0,,2.38
+1,Oregon,2018-19,Baker,,94.45,,,,
+2,Oregon,2018-19,Benton,,95.46,,,,
+3,Oregon,2018-19,Clackamas,,94.93,,,,
+4,Oregon,2018-19,Clatsop,,95.66,,,,
+5,Oregon,2018-19,Columbia,,96.02,,,,
+6,Oregon,2018-19,Coos,,96.79,,,,
+7,Oregon,2018-19,Crook,,96.49,,,,
+8,Oregon,2018-19,Curry,,93.07,,,,
+9,Oregon,2018-19,Deschutes,,93.92,,,,
+10,Oregon,2018-19,Douglas,,95.29,,,,
+11,Oregon,2018-19,Grant,,93.24,,,,
+12,Oregon,2018-19,Harney,,97.46,,,,
+13,Oregon,2018-19,Hood River,,95.71,,,,
+14,Oregon,2018-19,Jackson,,92.67,,,,
+15,Oregon,2018-19,Jefferson,,97.88,,,,
+16,Oregon,2018-19,Josephine,,90.93,,,,
+17,Oregon,2018-19,Klamath,,96.99,,,,
+18,Oregon,2018-19,Lake,,97.82,,,,
+19,Oregon,2018-19,Lane,,95.47,,,,
+20,Oregon,2018-19,Lincoln,,97.08,,,,
+21,Oregon,2018-19,Linn,,96.83,,,,
+22,Oregon,2018-19,Malheur,,98.1,,,,
+23,Oregon,2018-19,Marion,,96.53,,,,
+24,Oregon,2018-19,Morrow,,98.94,,,,
+25,Oregon,2018-19,Multnomah,,95,,,,
+26,Oregon,2018-19,North Central Public Health District,,96.92,,,,
+27,Oregon,2018-19,Polk,,95.93,,,,
+28,Oregon,2018-19,Tillamook,,96.34,,,,
+29,Oregon,2018-19,Umatilla,,98.3,,,,
+30,Oregon,2018-19,Union,,95.2,,,,
+31,Oregon,2018-19,Wallowa,,95.52,,,,
+32,Oregon,2018-19,Washington,,97.31,,,,
+33,Oregon,2018-19,Wheeler,,96.81,,,,
+34,Oregon,2018-19,Yamhill,,95.16,,,,
+1,Michigan,2018-19,Alcona,,,,1.7,,
+2,Michigan,2018-19,Alger,,,,1.7,,
+3,Michigan,2018-19,Allegan,,,,3.9,,
+4,Michigan,2018-19,Alpena,,,,5,,
+5,Michigan,2018-19,Antrim,,,,9.4,,
+6,Michigan,2018-19,Arenac,,,,5,,
+7,Michigan,2018-19,Baraga,,,,9.4,,
+8,Michigan,2018-19,Barry,,,,3.9,,
+9,Michigan,2018-19,Bay,,,,1.7,,
+10,Michigan,2018-19,Benzie,,,,1.7,,
+11,Michigan,2018-19,Berrien,,,,1.7,,
+12,Michigan,2018-19,Branch,,,,3.9,,
+13,Michigan,2018-19,Calhoun,,,,1.7,,
+14,Michigan,2018-19,Cass,,,,1.7,,
+15,Michigan,2018-19,Charlevoix,,,,5,,
+16,Michigan,2018-19,Cheboygan,,,,3.9,,
+17,Michigan,2018-19,Chippewa,,,,3.9,,
+18,Michigan,2018-19,Clare,,,,9.4,,
+19,Michigan,2018-19,Clinton,,,,5,,
+20,Michigan,2018-19,Crawford,,,,5,,
+21,Michigan,2018-19,Delta,,,,1.7,,
+22,Michigan,2018-19,Dickinson,,,,3.9,,
+23,Michigan,2018-19,Eaton,,,,3.9,,
+24,Michigan,2018-19,Emmet,,,,9.4,,
+25,Michigan,2018-19,Genesee,,,,5,,
+26,Michigan,2018-19,Gladwin,,,,3.9,,
+27,Michigan,2018-19,Gogebic,,,,1.7,,
+28,Michigan,2018-19,Grand Traverse,,,,9.4,,
+29,Michigan,2018-19,Gratiot,,,,1.7,,
+30,Michigan,2018-19,Hillsdale,,,,9.4,,
+31,Michigan,2018-19,Houghton,,,,9.4,,
+32,Michigan,2018-19,Huron,,,,9.4,,
+33,Michigan,2018-19,Ingham,,,,3.9,,
+34,Michigan,2018-19,Ionia,,,,3.9,,
+35,Michigan,2018-19,Iosco,,,,3.9,,
+36,Michigan,2018-19,Iron,,,,5,,
+37,Michigan,2018-19,Isabella,,,,3.9,,
+38,Michigan,2018-19,Jackson,,,,3.9,,
+39,Michigan,2018-19,Kalamazoo,,,,1.7,,
+40,Michigan,2018-19,Kalkaska,,,,5,,
+41,Michigan,2018-19,Kent,,,,1.7,,
+42,Michigan,2018-19,Keweenaw,,,,,,
+43,Michigan,2018-19,Lake,,,,5,,
+44,Michigan,2018-19,Lapeer,,,,9.4,,
+45,Michigan,2018-19,Leelanau,,,,9.4,,
+46,Michigan,2018-19,Lenawee,,,,9.4,,
+47,Michigan,2018-19,Livingston,,,,9.4,,
+48,Michigan,2018-19,Luce,,,,1.7,,
+49,Michigan,2018-19,Mackinac,,,,3.9,,
+50,Michigan,2018-19,Macomb,,,,5,,
+51,Michigan,2018-19,Manistee,,,,9.4,,
+52,Michigan,2018-19,Marquette,,,,5,,
+53,Michigan,2018-19,Mason,,,,1.7,,
+54,Michigan,2018-19,Mecosta,,,,3.9,,
+55,Michigan,2018-19,Menominee,,,,9.4,,
+56,Michigan,2018-19,Midland,,,,5,,
+57,Michigan,2018-19,Missaukee,,,,5,,
+58,Michigan,2018-19,Monroe,,,,5,,
+59,Michigan,2018-19,Montcalm,,,,1.7,,
+60,Michigan,2018-19,Montmorency,,,,1.7,,
+61,Michigan,2018-19,Muskegon,,,,1.7,,
+62,Michigan,2018-19,Newaygo,,,,3.9,,
+63,Michigan,2018-19,Oakland,,,,9.4,,
+64,Michigan,2018-19,Oceana,,,,3.9,,
+65,Michigan,2018-19,Ogemaw,,,,5,,
+66,Michigan,2018-19,Ontonagon,,,,,,
+67,Michigan,2018-19,Osceola,,,,3.9,,
+68,Michigan,2018-19,Oscoda,,,,1.7,,
+69,Michigan,2018-19,Otsego,,,,5,,
+70,Michigan,2018-19,Ottawa,,,,3.9,,
+71,Michigan,2018-19,Presque Isle,,,,9.4,,
+72,Michigan,2018-19,Roscommon,,,,9.4,,
+73,Michigan,2018-19,Saginaw,,,,1.7,,
+74,Michigan,2018-19,Sanilac,,,,5,,
+75,Michigan,2018-19,Schoolcraft,,,,9.4,,
+76,Michigan,2018-19,Shiawassee,,,,5,,
+77,Michigan,2018-19,St. Clair,,,,9.4,,
+78,Michigan,2018-19,St. Joseph,,,,3.9,,
+79,Michigan,2018-19,Tuscola,,,,3.9,,
+80,Michigan,2018-19,Van Buren,,,,1.7,,
+81,Michigan,2018-19,Washtenaw,,,,5,,
+82,Michigan,2018-19,Wayne,,,,5,,
+83,Michigan,2018-19,Wexford,,,,9.4,,
+1,Ohio,2018-19,ADAMS,,,96.26,0.34,,1.7
+2,Ohio,2018-19,ALLEN,,,91.53,0.14,,4.24
+3,Ohio,2018-19,ASHLAND,,,92.46,0,,2.46
+4,Ohio,2018-19,ASHTABULA,,,95.06,0.31,,1.65
+5,Ohio,2018-19,ATHENS,,,91.08,0,,3.42
+6,Ohio,2018-19,AUGLAIZE,,,85.77,0.21,,10.88
+7,Ohio,2018-19,BELMONT,,,96.25,0.3,,2.85
+8,Ohio,2018-19,BROWN,,,97.51,0.19,,0.96
+9,Ohio,2018-19,BUTLER,,,92.76,0.31,,1.86
+10,Ohio,2018-19,CARROLL,,,92.7,0.56,,2.25
+11,Ohio,2018-19,CHAMPAIGN,,,89.08,0.22,,3.93
+12,Ohio,2018-19,CLARK,,,92.16,0.25,,2.39
+13,Ohio,2018-19,CLERMONT,,,95.51,0.24,,2.19
+14,Ohio,2018-19,CLINTON,,,88.63,0.36,,2.89
+15,Ohio,2018-19,COLUMBIANA,,,92.54,0.72,,2.07
+16,Ohio,2018-19,COSHOCTON,,,91.65,0,,3.19
+17,Ohio,2018-19,CRAWFORD,,,93.83,0,,3.62
+18,Ohio,2018-19,CUYAHOGA,,,83.4,0.15,,2.52
+19,Ohio,2018-19,DARKE,,,93.72,0.18,,4.67
+20,Ohio,2018-19,DEFIANCE,,,93.95,0.33,,2.61
+21,Ohio,2018-19,DELAWARE,,,93.04,0.11,,3.27
+22,Ohio,2018-19,ERIE,,,83.52,0.11,,2.34
+23,Ohio,2018-19,FAIRFIELD,,,91.82,0.05,,2.93
+24,Ohio,2018-19,FAYETTE,,,88.48,0.49,,3.43
+25,Ohio,2018-19,FRANKLIN,,,89.04,0.3,,1.93
+26,Ohio,2018-19,FULTON,,,93.97,0.19,,4.28
+27,Ohio,2018-19,GALLIA,,,97.4,0.32,,0.97
+28,Ohio,2018-19,GEAUGA,,,91.85,0.35,,5.47
+29,Ohio,2018-19,GREENE,,,92.46,0.3,,3.05
+30,Ohio,2018-19,GUERNSEY,,,95.59,0,,2.2
+31,Ohio,2018-19,HAMILTON,,,78.67,0.28,,1.88
+32,Ohio,2018-19,HANCOCK,,,93.6,0.66,,2.87
+33,Ohio,2018-19,HARDIN,,,94.41,0,,2.65
+34,Ohio,2018-19,HARRISON,,,84.42,0.65,,1.3
+35,Ohio,2018-19,HENRY,,,93.78,0,,2.59
+36,Ohio,2018-19,HIGHLAND,,,93.58,0,,2.33
+37,Ohio,2018-19,HOCKING,,,93.29,0,,2.24
+38,Ohio,2018-19,HOLMES,,,68.48,1.43,,18.05
+39,Ohio,2018-19,HURON,,,85.88,0.26,,1.81
+40,Ohio,2018-19,JACKSON,,,96.45,0.24,,0.71
+41,Ohio,2018-19,JEFFERSON,,,95.63,0,,2.11
+42,Ohio,2018-19,KNOX,,,87.27,0.37,,1.29
+43,Ohio,2018-19,LAKE,,,90.54,0.72,,2.64
+44,Ohio,2018-19,LAWRENCE,,,97.89,0,,0.42
+45,Ohio,2018-19,LICKING,,,92.98,0.27,,2.77
+46,Ohio,2018-19,LOGAN,,,90.36,0,,3.81
+47,Ohio,2018-19,LORAIN,,,92.69,0.12,,1.85
+48,Ohio,2018-19,LUCAS,,,92.36,0.21,,2.32
+49,Ohio,2018-19,MADISON,,,90.14,0,,2.01
+50,Ohio,2018-19,MAHONING,,,85.14,0.23,,1.42
+51,Ohio,2018-19,MARION,,,93.26,0.24,,4.21
+52,Ohio,2018-19,MEDINA,,,91.17,0.36,,3.06
+53,Ohio,2018-19,MEIGS,,,95.29,0,,0.39
+54,Ohio,2018-19,MERCER,,,87.29,0.83,,7.1
+55,Ohio,2018-19,MIAMI,,,91.67,0.4,,5.71
+56,Ohio,2018-19,MONROE,,,97.28,0,,0.68
+57,Ohio,2018-19,MONTGOMERY,,,88.14,0.15,,2.81
+58,Ohio,2018-19,MORGAN,,,96.99,0,,1.5
+59,Ohio,2018-19,MORROW,,,86.7,0.27,,1.06
+60,Ohio,2018-19,MUSKINGUM,,,97.76,0.1,,0.97
+61,Ohio,2018-19,NOBLE,,,94.12,0,,3.68
+62,Ohio,2018-19,OTTAWA,,,83.33,0,,5.45
+63,Ohio,2018-19,PAULDING,,,96.71,0,,1.23
+64,Ohio,2018-19,PERRY,,,95.81,0,,2.2
+65,Ohio,2018-19,PICKAWAY,,,93.46,0,,2.99
+66,Ohio,2018-19,PIKE,,,95.82,0,,1.67
+67,Ohio,2018-19,PORTAGE,,,91.96,0,,2.37
+68,Ohio,2018-19,PREBLE,,,93.75,0,,4.02
+69,Ohio,2018-19,PUTNAM,,,94.03,0.37,,3.92
+70,Ohio,2018-19,RICHLAND,,,89.55,0.23,,4.09
+71,Ohio,2018-19,ROSS,,,87.64,0,,1.63
+72,Ohio,2018-19,SANDUSKY,,,93.76,0.17,,2.25
+73,Ohio,2018-19,SCIOTO,,,97.74,0.45,,0.45
+74,Ohio,2018-19,SENECA,,,91.09,0,,1.67
+75,Ohio,2018-19,SHELBY,,,88.17,0,,7.57
+76,Ohio,2018-19,STARK,,,89.01,0.19,,3.62
+77,Ohio,2018-19,SUMMIT,,,84.21,0.21,,1.6
+78,Ohio,2018-19,TRUMBULL,,,91.64,0.33,,2.2
+79,Ohio,2018-19,TUSCARAWAS,,,92.08,0.29,,5.51
+80,Ohio,2018-19,UNION,,,91.06,1.04,,2.07
+81,Ohio,2018-19,VAN WERT,,,88.93,0,,3.69
+82,Ohio,2018-19,VINTON,,,88.07,0,,0
+83,Ohio,2018-19,WARREN,,,92.18,0.44,,3.75
+84,Ohio,2018-19,WASHINGTON,,,94.88,0.17,,0.83
+85,Ohio,2018-19,WAYNE,,,88.81,0.17,,5.47
+86,Ohio,2018-19,WILLIAMS,,,90.93,0,,6.8
+87,Ohio,2018-19,WOOD,,,91.33,0.13,,2.53
+88,Ohio,2018-19,WYANDOT,,,88.33,0,,4
+1,Tennessee,2018-19,Anderson,854,,96.6,0.1,,1.8
+2,Tennessee,2018-19,Bedford,637,,95.1,0.2,,1.1
+3,Tennessee,2018-19,Benton,187,,96.3,0,,2.1
+4,Tennessee,2018-19,Bledsoe,120,,98.3,0,,0.8
+5,Tennessee,2018-19,Blount,1374,,94.6,0,,1.7
+6,Tennessee,2018-19,Bradley,1141,,93.7,0,,3.2
+7,Tennessee,2018-19,Campbell,384,,96.1,0.3,,0.8
+8,Tennessee,2018-19,Cannon,152,,97.4,0,,2
+9,Tennessee,2018-19,Carroll,344,,96.8,0,,1.2
+10,Tennessee,2018-19,Carter,514,,96.5,0.6,,1.2
+11,Tennessee,2018-19,Cheatham,390,,97.9,0.3,,1.5
+12,Tennessee,2018-19,Chester,253,,96.4,0.4,,0.8
+13,Tennessee,2018-19,Claiborne,291,,97.3,0.3,,0.7
+14,Tennessee,2018-19,Clay,79,,98.7,0,,1.3
+15,Tennessee,2018-19,Cocke,398,,97,0.3,,1.3
+16,Tennessee,2018-19,Coffee,664,,95.9,0,,2.4
+17,Tennessee,2018-19,Crockett,221,,98.6,0,,0.5
+18,Tennessee,2018-19,Cumberland,552,,94.9,0,,2.5
+19,Tennessee,2018-19,Davidson,7155,,94.3,0.1,,1.8
+20,Tennessee,2018-19,Decatur,117,,98.3,0,,0
+21,Tennessee,2018-19,Dekalb,212,,93.9,0,,2.8
+22,Tennessee,2018-19,Dickson,643,,96.3,0.6,,1.6
+23,Tennessee,2018-19,Dyer,491,,98.6,0.4,,0.4
+24,Tennessee,2018-19,Fayette,283,,96.1,0,,0.4
+25,Tennessee,2018-19,Fentress,211,,90,0,,0
+26,Tennessee,2018-19,Franklin,416,,97.8,0.2,,0.5
+27,Tennessee,2018-19,Gibson,684,,96.2,0.3,,1.9
+28,Tennessee,2018-19,Giles,244,,97.1,0,,2.9
+29,Tennessee,2018-19,Grainger,225,,98.2,0.4,,0.4
+30,Tennessee,2018-19,Greene,672,,96.7,0,,1.6
+31,Tennessee,2018-19,Grundy,135,,91.1,0,,6.7
+32,Tennessee,2018-19,Hamblen,775,,94.5,0,,1.2
+33,Tennessee,2018-19,Hamilton,3611,,93.2,0.2,,1.4
+34,Tennessee,2018-19,Hancock,77,,92.2,1.3,,1.3
+35,Tennessee,2018-19,Hardeman,248,,98.4,0,,1.2
+36,Tennessee,2018-19,Hardin,256,,96.5,0,,2.3
+37,Tennessee,2018-19,Hawkins,537,,95.5,0,,2
+38,Tennessee,2018-19,Haywood,204,,95.1,0,,0
+39,Tennessee,2018-19,Henderson,347,,95.7,0.6,,2.9
+40,Tennessee,2018-19,Henry,365,,98.1,0,,1.4
+41,Tennessee,2018-19,Hickman,241,,95.4,0.4,,2.1
+42,Tennessee,2018-19,Houston,94,,93.6,0,,5.3
+43,Tennessee,2018-19,Humphreys,221,,95.5,0,,0.5
+44,Tennessee,2018-19,Jackson,113,,90.3,0.9,,0.9
+45,Tennessee,2018-19,Jefferson,511,,94.7,0.2,,2
+46,Tennessee,2018-19,Johnson,140,,97.9,0.7,,0.7
+47,Tennessee,2018-19,Knox,4389,,94.7,0.3,,2.6
+48,Tennessee,2018-19,Lake,57,,98.2,0,,0
+49,Tennessee,2018-19,Lauderdale,251,,98.8,0,,1.2
+50,Tennessee,2018-19,Lawrence,540,,94.6,0.4,,2.4
+51,Tennessee,2018-19,Lewis,147,,98,0,,1.4
+52,Tennessee,2018-19,Lincoln,376,,96.8,0,,0.8
+53,Tennessee,2018-19,Loudon,509,,96.9,0.2,,2
+54,Tennessee,2018-19,Macon,348,,98.9,0,,0
+55,Tennessee,2018-19,Madison,1034,,95.2,0.1,,2.4
+56,Tennessee,2018-19,Marion,324,,95.4,0.3,,3.4
+57,Tennessee,2018-19,Marshall,402,,97.5,0,,1.2
+58,Tennessee,2018-19,Maury,1046,,93.8,0.2,,2.4
+59,Tennessee,2018-19,Mcminn,558,,96.6,0.2,,0.7
+60,Tennessee,2018-19,McNairy,325,,96.6,0.3,,0.6
+61,Tennessee,2018-19,Meigs,150,,97.3,0,,2
+62,Tennessee,2018-19,Monroe,503,,93.6,0.2,,2.4
+63,Tennessee,2018-19,Montgomery,2842,,94.6,0.2,,3
+64,Tennessee,2018-19,Moore,59,,100,0,,0
+65,Tennessee,2018-19,Morgan,231,,96.5,0.9,,1.7
+66,Tennessee,2018-19,Obion,375,,98.7,0,,0.5
+67,Tennessee,2018-19,Overton,226,,96.5,0,,2.7
+68,Tennessee,2018-19,Perry,88,,95.5,0,,3.4
+69,Tennessee,2018-19,Pickett,42,,92.9,0,,0
+70,Tennessee,2018-19,Polk,158,,96.8,0,,1.9
+71,Tennessee,2018-19,Putnam,868,,93.7,0.5,,2.5
+72,Tennessee,2018-19,Rhea,411,,96.8,0,,1.5
+73,Tennessee,2018-19,Roane,491,,95.5,0.2,,1
+74,Tennessee,2018-19,Robertson,788,,95.6,0.3,,1.5
+75,Tennessee,2018-19,Rutherford,4263,,95.6,0.2,,2.2
+76,Tennessee,2018-19,Scott,324,,97.8,0.3,,0.6
+77,Tennessee,2018-19,Sequatchie,165,,95.8,0.6,,1.2
+78,Tennessee,2018-19,Sevier,1111,,93.9,0.3,,2.4
+79,Tennessee,2018-19,Shelby,12197,,92.3,0.1,,0.7
+80,Tennessee,2018-19,Smith,205,,98,0,,0.5
+81,Tennessee,2018-19,Stewart,140,,90.7,0,,1.4
+82,Tennessee,2018-19,Sullivan,1536,,95.7,0.2,,1.4
+83,Tennessee,2018-19,Sumner,2132,,96.8,0,,1.8
+84,Tennessee,2018-19,Tipton,725,,96.3,0,,1
+85,Tennessee,2018-19,Trousdale,89,,97.8,0,,0
+86,Tennessee,2018-19,Unicoi,162,,98.8,0,,1.2
+87,Tennessee,2018-19,Union,318,,88.1,0.3,,4.7
+88,Tennessee,2018-19,Van Buren,60,,98.3,0,,0
+89,Tennessee,2018-19,Warren,493,,95.7,0.6,,0.2
+90,Tennessee,2018-19,Washington,1199,,95.2,0.1,,2.4
+91,Tennessee,2018-19,Wayne,151,,98.7,0.7,,0.7
+92,Tennessee,2018-19,Weakley,307,,97.7,0,,0.7
+93,Tennessee,2018-19,White,287,,96.5,0.3,,1.7
+94,Tennessee,2018-19,Williamson,3026,,94.5,0.2,,3.9
+95,Tennessee,2018-19,Wilson,1669,,96.5,0.1,,1.7
+1,Indiana,2015,Adams,565,65,51,,,
+2,Indiana,2015,Allen,5336,79,55,,,
+3,Indiana,2015,Bartholomew,1197,81,50,,,
+4,Indiana,2015,Benton,102,84,69,,,
+5,Indiana,2015,Blackford,153,93,72,,,
+6,Indiana,2015,Boone,966,78,53,,,
+7,Indiana,2015,Brown,188,91,57,,,
+8,Indiana,2015,Carroll,190,83,68,,,
+9,Indiana,2015,Cass,534,93,61,,,
+10,Indiana,2015,Clark,1477,94,69,,,
+11,Indiana,2015,Clay,405,96,64,,,
+12,Indiana,2015,Clinton,511,94,67,,,
+13,Indiana,2015,Crawford,89,93,76,,,
+14,Indiana,2015,Daviess,385,89,70,,,
+15,Indiana,2015,De Kalb,599,90,75,,,
+16,Indiana,2015,Dearborn,680,89,69,,,
+17,Indiana,2015,Decatur,341,93,71,,,
+18,Indiana,2015,Delaware,1406,84,60,,,
+19,Indiana,2015,Dubois,551,95,76,,,
+20,Indiana,2015,Elkhart,3609,70,48,,,
+21,Indiana,2015,Fayette,282,92,68,,,
+22,Indiana,2015,Floyd,970,90,58,,,
+23,Indiana,2015,Fountain,247,96,69,,,
+24,Indiana,2015,Franklin,199,87,75,,,
+25,Indiana,2015,Fulton,249,87,69,,,
+26,Indiana,2015,Gibson,447,93,79,,,
+27,Indiana,2015,Grant,844,84,64,,,
+28,Indiana,2015,Greene,283,94,80,,,
+29,Indiana,2015,Hamilton,4842,60,39,,,
+30,Indiana,2015,Hancock,1077,78,55,,,
+31,Indiana,2015,Harrison,511,87,75,,,
+32,Indiana,2015,Hendricks,2547,82,54,,,
+33,Indiana,2015,Henry,574,95,75,,,
+34,Indiana,2015,Howard,1124,78,49,,,
+35,Indiana,2015,Huntington,484,88,63,,,
+36,Indiana,2015,Jackson,677,89,58,,,
+37,Indiana,2015,Jasper,459,90,68,,,
+38,Indiana,2015,Jay,296,86,70,,,
+39,Indiana,2015,Jefferson,445,84,65,,,
+40,Indiana,2015,Jennings,375,93,69,,,
+41,Indiana,2015,Johnson,2210,83,47,,,
+42,Indiana,2015,Knox,520,90,69,,,
+43,Indiana,2015,Kosciusko,932,81,63,,,
+44,Indiana,2015,La Porte,1439,87,56,,,
+45,Indiana,2015,Lagrange,692,67,51,,,
+46,Indiana,2015,Lake,6885,76,54,,,
+47,Indiana,2015,Lawrence,536,92,69,,,
+48,Indiana,2015,Madison,1761,83,64,,,
+49,Indiana,2015,Marion,16221,72,43,,,
+50,Indiana,2015,Marshall,682,79,61,,,
+51,Indiana,2015,Martin,155,90,72,,,
+52,Indiana,2015,Miami,415,88,65,,,
+53,Indiana,2015,Monroe,1307,87,71,,,
+54,Indiana,2015,Montgomery,442,87,67,,,
+55,Indiana,2015,Morgan,1016,89,62,,,
+56,Indiana,2015,Newton,132,88,71,,,
+57,Indiana,2015,Noble,725,84,66,,,
+58,Indiana,2015,Ohio,61,72,54,,,
+59,Indiana,2015,Orange,259,90,59,,,
+60,Indiana,2015,Owen,252,92,77,,,
+61,Indiana,2015,Parke,215,79,65,,,
+62,Indiana,2015,Perry,206,84,74,,,
+63,Indiana,2015,Pike,192,96,72,,,
+64,Indiana,2015,Porter,2079,81,53,,,
+65,Indiana,2015,Posey,289,90,72,,,
+66,Indiana,2015,Pulaski,170,94,77,,,
+67,Indiana,2015,Putnam,426,85,61,,,
+68,Indiana,2015,Randolph,344,88,74,,,
+69,Indiana,2015,Ripley,489,94,78,,,
+70,Indiana,2015,Rush,206,91,81,,,
+71,Indiana,2015,Scott,285,94,70,,,
+72,Indiana,2015,Shelby,702,87,66,,,
+73,Indiana,2015,Spencer,217,92,79,,,
+74,Indiana,2015,St. Joseph,3888,63,47,,,
+75,Indiana,2015,Starke,254,78,43,,,
+76,Indiana,2015,Steuben,395,82,68,,,
+77,Indiana,2015,Sullivan,248,87,68,,,
+78,Indiana,2015,Switzerland,134,80,60,,,
+79,Indiana,2015,Tippecanoe,2455,83,50,,,
+80,Indiana,2015,Tipton,189,88,69,,,
+81,Indiana,2015,Union,90,82,68,,,
+82,Indiana,2015,Vanderburgh,2293,80,61,,,
+83,Indiana,2015,Vermillion,151,92,71,,,
+84,Indiana,2015,Vigo,1325,88,63,,,
+85,Indiana,2015,Wabash,402,84,66,,,
+86,Indiana,2015,Warren,112,93,83,,,
+87,Indiana,2015,Warrick,860,89,67,,,
+88,Indiana,2015,Washington,287,94,77,,,
+89,Indiana,2015,Wayne,941,84,55,,,
+90,Indiana,2015,Wells,378,86,71,,,
+91,Indiana,2015,White,318,97,78,,,
+92,Indiana,2015,Whitley,451,92,68,,,
+1,Nebraska,2017-18,Central District,,97.97,,0.09,,0.88
+2,Nebraska,2017-18,Douglas County,,97.25,,0.52,,0.98
+3,Nebraska,2017-18,East Central,,96.77,,0.12,,0.37
+4,Nebraska,2017-18,Elkhorn Logan Valley,,96.84,,0,,0.66
+5,Nebraska,2017-18,Four Corners,,95.44,,0.21,,0.41
+6,Nebraska,2017-18,Lancaster County,,91.14,,0.27,,2.23
+7,Nebraska,2017-18,Loup Basin,,93.08,,1.73,,2.31
+8,Nebraska,2017-18,North Central,,94.52,,0.51,,2.57
+9,Nebraska,2017-18,Northeast,,97.25,,0.13,,0.66
+10,Nebraska,2017-18,Panhandle,,92.09,,0.26,,1.74
+11,Nebraska,2017-18,Public Health Solutions,,98.17,,0.15,,1.07
+12,Nebraska,2017-18,Sarpy Cass,,96.81,,0.27,,1.5
+13,Nebraska,2017-18,South Heartland,,97.21,,0.37,,0.56
+14,Nebraska,2017-18,Southeast,,95.72,,1.22,,0.61
+15,Nebraska,2017-18,Southwest,,94.39,,0,,0.67
+16,Nebraska,2017-18,Three Rivers,,97.59,,0.19,,1.35
+17,Nebraska,2017-18,Two Rivers,,96.93,,0.07,,1.39
+18,Nebraska,2017-18,West Central,,96.41,,0.83,,1.93
+1,New York,2017-18,NIAGARA,,98.96,97.92,0.14,,0.77
+2,New York,2017-18,TOMPKINS,,96.76,96,0.26,,2.98
+3,New York,2017-18,LEWIS,,81.87,79.17,0.09,,16.64
+4,New York,2017-18,ONONDAGA,,98.59,97.63,0.17,,1.26
+5,New York,2017-18,DUTCHESS,,96.62,94.23,0.8,,2.05
+6,New York,2017-18,SCHOHARIE,,97.52,93.63,0.13,,2.41
+7,New York,2017-18,YATES,,62.33,57.85,0.07,,37.34
+8,New York,2017-18,ST. LAWRENCE,,78.91,77.89,0.09,,21.26
+9,New York,2017-18,CATTARAUGUS,,70.45,69.62,0.08,,29.58
+10,New York,2017-18,MONTGOMERY,,58.88,54.07,0.2,,39.64
+11,New York,2017-18,OSWEGO,,98.99,97.57,0.21,,0.72
+12,New York,2017-18,QUEENS,,97.94,95.38,0.15,,1.04
+13,New York,2017-18,WESTCHESTER,,98.3,94.7,0.31,,0.64
+14,New York,2017-18,ULSTER,,94.08,91.34,0.33,,5.05
+15,New York,2017-18,SENECA,,73.43,71.48,0.13,,25.86
+16,New York,2017-18,CAYUGA,,93.02,90.44,0.06,,3.88
+17,New York,2017-18,BROOME,,97.3,96.65,0.27,,2.25
+18,New York,2017-18,SULLIVAN,,95.99,91.34,1.2,,2.01
+19,New York,2017-18,WARREN,,97.8,97.3,0.08,,1.69
+20,New York,2017-18,JEFFERSON,,99.34,98.61,0.17,,0.49
+21,New York,2017-18,SARATOGA,,98.35,96.7,0.17,,1.37
+22,New York,2017-18,SCHENECTADY,,98.58,97.03,0.22,,1.15
+23,New York,2017-18,SUFFOLK,,97.21,95.37,0.4,,2.1
+24,New York,2017-18,WYOMING,,98.46,95.88,0.12,,1.83
+25,New York,2017-18,CHEMUNG,,98.51,97.79,0.1,,1.06
+26,New York,2017-18,LIVINGSTON,,98.72,97.49,0.18,,1.09
+27,New York,2017-18,COLUMBIA,,95.21,92.69,0.19,,3.43
+28,New York,2017-18,ORANGE,,96.4,94.11,0.15,,3.16
+29,New York,2017-18,CLINTON,,99.51,98.87,0.13,,0.38
+30,New York,2017-18,STEUBEN,,98.26,97.55,0.17,,1.32
+31,New York,2017-18,ONTARIO,,92.66,91.13,0.39,,6.66
+32,New York,2017-18,HERKIMER,,98.84,97.93,0.18,,0.99
+33,New York,2017-18,KINGS,,96.33,93.08,0.27,,2.52
+34,New York,2017-18,ONEIDA,,89.47,88.05,0.18,,10.34
+35,New York,2017-18,ESSEX,,97.74,94.64,0.16,,1.71
+36,New York,2017-18,ERIE,,97.96,95.5,0.34,,1.22
+37,New York,2017-18,CHAUTAUQUA,,86.04,83.29,0.24,,10.77
+38,New York,2017-18,NASSAU,,98.55,96.07,0.23,,0.98
+39,New York,2017-18,HAMILTON,,99.62,97.4,0.38,,0
+40,New York,2017-18,WASHINGTON,,98.95,98.2,0.13,,0.92
+41,New York,2017-18,FRANKLIN,,94.59,90.37,0.41,,4.39
+42,New York,2017-18,FULTON,,91,89.39,0.14,,8.58
+43,New York,2017-18,MADISON,,98.73,98.03,0.25,,1.17
+44,New York,2017-18,ROCKLAND,,92.06,85.17,0.32,,3.01
+45,New York,2017-18,ALBANY,,98.09,95.86,0.12,,1.2
+46,New York,2017-18,NEW YORK,,96.35,93.24,0.44,,2.1
+47,New York,2017-18,ORLEANS,,98.24,97.05,0.11,,1.57
+48,New York,2017-18,TIOGA,,97.25,96.91,0.3,,2.49
+49,New York,2017-18,DELAWARE,,99.06,98.05,0.31,,0.96
+50,New York,2017-18,MONROE,,98.79,97.78,0.18,,1.1
+51,New York,2017-18,OTSEGO,,98.25,96.41,0.56,,1.59
+52,New York,2017-18,NYC,,99,96,0.05,,0.43
+53,New York,2017-18,BRONX,,98.49,95.35,0.04,,0.14
+54,New York,2017-18,CORTLAND,,88.63,87.28,0.12,,3.66
+55,New York,2017-18,CHENANGO,,99.42,98.74,0.24,,0.46
+56,New York,2017-18,TOTAL NYS,,99,96,0.14,,0.8
+57,New York,2017-18,RENSSELAER,,97.86,96.69,0.12,,1.96
+58,New York,2017-18,NYS EXCLUDING NYC,,98,97,0.2,,1.06
+59,New York,2017-18,SCHUYLER,,87.36,85.39,0.02,,9.14
+60,New York,2017-18,GENESEE,,98.27,97.35,0.19,,1.64
+61,New York,2017-18,WAYNE,,97.44,96.53,0.16,,2.31
+62,New York,2017-18,ALLEGANY,,67.73,67.14,0.25,,31.95
+63,New York,2017-18,GREENE,,98.1,96.95,0.22,,1.78
+64,New York,2017-18,RICHMOND,,97.57,95.28,0.85,,1.05
+65,New York,2017-18,PUTNAM,,96.31,94.79,0.5,,3.29
+1,Wisconsin,2018-19,Abbotsford School District,,,91,0,9.09,0
+2,Wisconsin,2018-19,Adams-Friendship Area School District,,,81,0,6.38,0
+3,Wisconsin,2018-19,Albany School District,,,95,0,3.85,0
+4,Wisconsin,2018-19,Algoma School District,,,88,0,2.33,0
+5,Wisconsin,2018-19,Alma School District,,,95,0,0,0
+6,Wisconsin,2018-19,Alma Center School District,,,95,0,0,0
+7,Wisconsin,2018-19,Almond-Bancroft School District,,,78,0,11.11,0
+8,Wisconsin,2018-19,Altoona School District,,,94,0,6.09,0
+9,Wisconsin,2018-19,Amery School District,,,83,0,4.49,1.12
+10,Wisconsin,2018-19,Tomorrow River School District,,,80,0,18.52,1.23
+11,Wisconsin,2018-19,Antigo Unified School District,,,87,0,6,0.67
+12,Wisconsin,2018-19,Appleton Area School District,,,91,0.09,5.28,0.98
+13,Wisconsin,2018-19,Arcadia School District,,,95,0,1.02,0
+14,Wisconsin,2018-19,Argyle School District,,,95,0,0,0
+15,Wisconsin,2018-19,Ashland School District,,,92,0,3.42,0
+16,Wisconsin,2018-19,Ashwaubenon School District,,,92,0,2.2,0
+17,Wisconsin,2018-19,Athens School District,,,65,0,34.78,0
+18,Wisconsin,2018-19,Auburndale School District,,,95,0,1.54,0
+19,Wisconsin,2018-19,Augusta School District,,,95,0,0,0
+20,Wisconsin,2018-19,Baldwin-Woodville Area School District,,,93,0,5.3,0.66
+21,Wisconsin,2018-19,Unity School District,,,87,0,5.63,0
+22,Wisconsin,2018-19,Bangor School District,,,91,0,3.03,0
+23,Wisconsin,2018-19,Baraboo School District,,,95,0,3.7,0.62
+24,Wisconsin,2018-19,Barneveld School District,,,95,0,0,0
+25,Wisconsin,2018-19,Barron Area School District,,,85,0,3.23,0
+26,Wisconsin,2018-19,Bayfield School District,,,65,0,2.94,0
+27,Wisconsin,2018-19,Beaver Dam Unified School District,,,93,0,3.75,0.42
+28,Wisconsin,2018-19,Belleville School District,,,92,1.92,3.85,0
+29,Wisconsin,2018-19,Belmont Community School District,,,88,0,11.54,0
+30,Wisconsin,2018-19,Beloit School District,,,91,0.47,3.02,0.47
+31,Wisconsin,2018-19,Beloit Turner School District,,,82,0.9,9.01,2.7
+32,Wisconsin,2018-19,Benton School District,,,75,0,25,0
+33,Wisconsin,2018-19,Berlin Area School District,,,95,0,1.02,0
+34,Wisconsin,2018-19,Birchwood School District,,,85,0,0,0
+35,Wisconsin,2018-19,Wisconsin Heights School District,,,95,0,4.69,0
+36,Wisconsin,2018-19,Black River Falls School District,,,89,0,3.05,1.53
+37,Wisconsin,2018-19,Blair-Taylor School District,,,74,0,0,0
+38,Wisconsin,2018-19,Pecatonica Area School District,,,.,.,.,.
+39,Wisconsin,2018-19,Bloomer School District,,,89,0,3.45,2.3
+40,Wisconsin,2018-19,Bonduel School District,,,88,2.04,6.12,0
+41,Wisconsin,2018-19,Boscobel Area School District,,,92,0,3.39,0
+42,Wisconsin,2018-19,North Lakeland School District,,,95,0,0,0
+43,Wisconsin,2018-19,Bowler School District,,,88,0,0,0
+44,Wisconsin,2018-19,Boyceville Community School District,,,81,1.69,13.56,0
+45,Wisconsin,2018-19,Brighton #1 School District,,,85,0,15,0
+46,Wisconsin,2018-19,Brillion School District,,,88,0,11.86,0
+47,Wisconsin,2018-19,Bristol #1 School District,,,89,0,5.88,1.18
+48,Wisconsin,2018-19,Brodhead School District,,,92,0,8.33,0
+49,Wisconsin,2018-19,Elmbrook School District,,,94,0,2.94,0.42
+50,Wisconsin,2018-19,Brown Deer School District,,,93,0,5.56,0
+51,Wisconsin,2018-19,Bruce School District,,,95,0,0,0
+52,Wisconsin,2018-19,Burlington Area School District,,,89,0.53,10,0.53
+53,Wisconsin,2018-19,Butternut School District,,,91,0,0,0
+54,Wisconsin,2018-19,Cadott Community School District,,,94,2.08,2.08,0
+55,Wisconsin,2018-19,Cambria-Friesland School District,,,,,.,
+56,Wisconsin,2018-19,Cambridge School District,,,91,0,9.09,0
+57,Wisconsin,2018-19,Cameron School District,,,86,1.45,11.59,1.45
+58,Wisconsin,2018-19,Campbellsport School District,,,81,0,17.72,0
+59,Wisconsin,2018-19,Cashton School District,,,95,0,2.78,0
+60,Wisconsin,2018-19,Cassville School District,,,86,0,0,0
+61,Wisconsin,2018-19,Cedarburg School District,,,91,0,8.51,0.53
+62,Wisconsin,2018-19,Cedar Grove-Belgium Area School District,,,81,1.92,5.77,3.85
+63,Wisconsin,2018-19,Chequamegon School District,,,83,2.08,10.42,0
+64,Wisconsin,2018-19,Chetek-Weyerhaeuser Area School District,,,87,11.69,0,0
+65,Wisconsin,2018-19,Chilton School District,,,95,0,3.51,0
+66,Wisconsin,2018-19,Chippewa Falls Area Unified School District,,,91,0,9.03,0.31
+67,Wisconsin,2018-19,Clayton School District,,,50,0,25,0
+68,Wisconsin,2018-19,Clear Lake School District,,,95,0,0,0
+69,Wisconsin,2018-19,Clinton Community School District,,,92,0,3.03,0
+70,Wisconsin,2018-19,Clintonville School District,,,93,0,7.5,0
+71,Wisconsin,2018-19,Cochrane-Fountain City School District,,,91,0,9.09,0
+72,Wisconsin,2018-19,Colby School District,,,87,0,1.89,7.55
+73,Wisconsin,2018-19,Coleman School District,,,88,0,6,0
+74,Wisconsin,2018-19,Colfax School District,,,92,0,8.33,0
+75,Wisconsin,2018-19,Columbus School District,,,93,0,4.04,0
+76,Wisconsin,2018-19,Cornell School District,,,88,0,12.12,0
+77,Wisconsin,2018-19,Crandon School District,,,95,0,4.41,0
+78,Wisconsin,2018-19,Crivitz School District,,,95,0,4.84,0
+79,Wisconsin,2018-19,Cuba City School District,,,95,0,0,3.13
+80,Wisconsin,2018-19,Cudahy School District,,,91,0,3.36,0.67
+81,Wisconsin,2018-19,Cumberland School District,,,89,0,9.23,0
+82,Wisconsin,2018-19,Darlington Community School District,,,84,0,16.39,0
+83,Wisconsin,2018-19,Deerfield Community School District,,,92,1.64,3.28,0
+84,Wisconsin,2018-19,De Forest Area School District,,,93,0.32,1.93,0.64
+85,Wisconsin,2018-19,Kettle Moraine School District,,,86,0.46,4.59,0.46
+86,Wisconsin,2018-19,Delavan-Darien School District,,,95,0,4.17,0
+87,Wisconsin,2018-19,Denmark School District,,,89,0,1.25,0
+88,Wisconsin,2018-19,De Pere School District,,,93,0.31,2.78,0.31
+89,Wisconsin,2018-19,De Soto Area School District,,,95,0,0,0
+90,Wisconsin,2018-19,Dodgeville School District,,,92,0,5.81,0
+91,Wisconsin,2018-19,Dover #1 School District,,,86,0,14.29,0
+92,Wisconsin,2018-19,Drummond Area School District,,,83,0,16.67,0
+93,Wisconsin,2018-19,Durand-Arkansaw School District,,,89,0,11.48,0
+94,Wisconsin,2018-19,Northland Pines School District,,,78,0,17.65,0
+95,Wisconsin,2018-19,East Troy Community School District,,,95,0,5.49,0
+96,Wisconsin,2018-19,Eau Claire Area School District,,,90,0,7.63,0.54
+97,Wisconsin,2018-19,Edgar School District,,,82,0,17.65,0
+98,Wisconsin,2018-19,Edgerton School District,,,93,0,7.32,0
+99,Wisconsin,2018-19,Elcho School District,,,61,0,0,0
+100,Wisconsin,2018-19,Eleva-Strum School District,,,94,0,5.88,0
+101,Wisconsin,2018-19,Elkhart Lake-Glenbeulah School District,,,88,0,12,0
+102,Wisconsin,2018-19,Elkhorn Area School District,,,91,0,6.51,1.86
+103,Wisconsin,2018-19,Elk Mound Area School District,,,93,0,6.25,0
+104,Wisconsin,2018-19,Ellsworth Community School District,,,81,0.98,16.67,0
+105,Wisconsin,2018-19,Elmwood School District,,,81,0,7.69,0
+106,Wisconsin,2018-19,Royall School District,,,95,0,0,0
+107,Wisconsin,2018-19,Erin School District,,,93,0,7.5,0
+108,Wisconsin,2018-19,Evansville Community School District,,,93,0,4.31,0
+109,Wisconsin,2018-19,Fall Creek School District,,,85,0,4.35,2.17
+110,Wisconsin,2018-19,Fall River School District,,,95,0,0,0
+111,Wisconsin,2018-19,Fennimore Community School District,,,95,1.96,1.96,0
+112,Wisconsin,2018-19,Lac du Flambeau #1 School District,,,95,0,0,0
+113,Wisconsin,2018-19,Florence County School District,,,88,0,0,7.69
+114,Wisconsin,2018-19,Fond du Lac School District,,,88,0.41,10.2,0.41
+115,Wisconsin,2018-19,Fontana J8 School District,,,94,0,5.88,0
+116,Wisconsin,2018-19,Fort Atkinson School District,,,92,0.61,3.66,0.61
+117,Wisconsin,2018-19,Fox Point J2 School District,,,93,1.43,5.71,0
+118,Wisconsin,2018-19,Maple Dale-Indian Hill School District,,,93,0,4.55,0
+119,Wisconsin,2018-19,Franklin Public School District,,,94,0.7,4.9,0
+120,Wisconsin,2018-19,Frederic School District,,,84,0,15.79,0
+121,Wisconsin,2018-19,Northern Ozaukee School District,,,78,0,3.17,1.59
+122,Wisconsin,2018-19,Freedom Area School District,,,95,0,2.8,0.93
+123,Wisconsin,2018-19,Galesville-Ettrick-Trempealeau School District,,,95,0,4,0
+124,Wisconsin,2018-19,North Crawford School District,,,76,0,9.09,0
+125,Wisconsin,2018-19,Geneva J4 School District,,,86,0,4.55,4.55
+126,Wisconsin,2018-19,Genoa City J2 School District,,,76,0,19.57,2.17
+127,Wisconsin,2018-19,Germantown School District,,,93,2.01,4.42,0.4
+128,Wisconsin,2018-19,Gibraltar Area School District,,,87,0,12.9,0
+129,Wisconsin,2018-19,Gillett School District,,,95,0,2.78,0
+130,Wisconsin,2018-19,Gilman School District,,,95,0,0,0
+131,Wisconsin,2018-19,Gilmanton School District,,,85,0,0,0
+132,Wisconsin,2018-19,Nicolet UHS School District,,,,,,
+133,Wisconsin,2018-19,Glendale-River Hills School District,,,94,0,4.55,0
+134,Wisconsin,2018-19,Glenwood City School District,,,86,0,1.96,1.96
+135,Wisconsin,2018-19,Goodman-Armstrong Creek School District,,,86,0,0,0
+136,Wisconsin,2018-19,Grafton School District,,,93,0,6.03,0.86
+137,Wisconsin,2018-19,Granton Area School District,,,86,0,0,0
+138,Wisconsin,2018-19,Grantsburg School District,,,85,0,15.38,0
+139,Wisconsin,2018-19,Black Hawk School District,,,94,0,0,0
+140,Wisconsin,2018-19,Green Bay Area Public School District,,,87,0,2.18,0.75
+141,Wisconsin,2018-19,Greendale School District,,,88,3.31,7.28,0
+142,Wisconsin,2018-19,Greenfield School District,,,94,0,4.29,0.43
+143,Wisconsin,2018-19,Green Lake School District,,,80,0,20,0
+144,Wisconsin,2018-19,Greenwood School District,,,95,0,4.76,0
+145,Wisconsin,2018-19,Gresham School District,,,89,0,5.26,0
+146,Wisconsin,2018-19,Hamilton School District,,,95,0.33,4.95,0
+147,Wisconsin,2018-19,Saint Croix Central School District,,,95,1.05,3.16,0
+148,Wisconsin,2018-19,Hartford UHS School District,,,,,,
+149,Wisconsin,2018-19,Hartford J1 School District,,,94,0,5.38,0
+150,Wisconsin,2018-19,Arrowhead UHS School District,,,,,,
+151,Wisconsin,2018-19,Hartland-Lakeside J3 School District,,,85,0,6.56,0
+152,Wisconsin,2018-19,Hayward Community School District,,,83,0,11.49,2.03
+153,Wisconsin,2018-19,Southwestern Wisconsin School District,,,89,0,3.57,0
+154,Wisconsin,2018-19,Herman-Neosho-Rubicon School District,,,82,0,15.15,3.03
+155,Wisconsin,2018-19,Highland School District,,,95,0,0,0
+156,Wisconsin,2018-19,Hilbert School District,,,88,0,0,0
+157,Wisconsin,2018-19,Hillsboro School District,,,89,0,7.41,0
+158,Wisconsin,2018-19,Holmen School District,,,91,0.37,7.09,0.37
+159,Wisconsin,2018-19,Holy Hill Area School District,,,90,0,6.9,1.72
+160,Wisconsin,2018-19,Horicon School District,,,80,0,2.22,0
+161,Wisconsin,2018-19,Hortonville Area School District,,,95,0,1.46,0
+162,Wisconsin,2018-19,Howard-Suamico School District,,,93,0,1.8,0.51
+163,Wisconsin,2018-19,Howards Grove School District,,,94,0,2.9,0
+164,Wisconsin,2018-19,Hudson School District,,,89,0.28,8.38,0.56
+165,Wisconsin,2018-19,Hurley School District,,,91,0,9.09,0
+166,Wisconsin,2018-19,Hustisford School District,,,92,0,7.69,0
+167,Wisconsin,2018-19,Independence School District,,,95,0,0,0
+168,Wisconsin,2018-19,Iola-Scandinavia School District,,,91,0,8.82,0
+169,Wisconsin,2018-19,Iowa-Grant School District,,,95,0,0,0
+170,Wisconsin,2018-19,Ithaca School District,,,85,0,11.54,0
+171,Wisconsin,2018-19,Janesville School District,,,86,0.63,12.18,0.95
+172,Wisconsin,2018-19,Jefferson School District,,,91,0.99,7.92,0
+173,Wisconsin,2018-19,Johnson Creek School District,,,93,0,7.32,0
+174,Wisconsin,2018-19,Juda School District,,,94,0,5.56,0
+175,Wisconsin,2018-19,Dodgeland School District,,,84,0,16.07,0
+176,Wisconsin,2018-19,Kaukauna Area School District,,,93,0,3.36,0.84
+177,Wisconsin,2018-19,Kenosha School District,,,71,0.14,2.7,0.5
+178,Wisconsin,2018-19,Kewaskum School District,,,88,0,6.4,0
+179,Wisconsin,2018-19,Kewaunee School District,,,94,0,4.26,0
+180,Wisconsin,2018-19,Kiel Area School District,,,90,0,8.05,0
+181,Wisconsin,2018-19,Kimberly Area School District,,,91,0.61,4.86,0.3
+182,Wisconsin,2018-19,Kohler School District,,,95,0,5.13,0
+183,Wisconsin,2018-19,La Crosse School District,,,93,0.22,6.7,0
+184,Wisconsin,2018-19,Ladysmith School District,,,93,0,0,0
+185,Wisconsin,2018-19,La Farge School District,,,91,0,9.09,0
+186,Wisconsin,2018-19,Lake Geneva-Genoa City UHS School District,,,,,,
+187,Wisconsin,2018-19,Lake Geneva J1 School District,,,92,0,3.47,1.39
+188,Wisconsin,2018-19,Lake Holcombe School District,,,94,0,5.56,0
+189,Wisconsin,2018-19,Lake Mills Area School District,,,91,0,9.2,0
+190,Wisconsin,2018-19,Lancaster Community School District,,,93,0,2.94,0
+191,Wisconsin,2018-19,Laona School District,,,88,0,11.54,0
+192,Wisconsin,2018-19,Lena School District,,,92,0,0,0
+193,Wisconsin,2018-19,Linn J4 School District,,,94,0,6.25,0
+194,Wisconsin,2018-19,Linn J6 School District,,,93,0,7.14,0
+195,Wisconsin,2018-19,Richmond School District,,,89,0,5.26,0
+196,Wisconsin,2018-19,Little Chute Area School District,,,84,0,10.62,0.88
+197,Wisconsin,2018-19,Lodi School District,,,88,0,10.78,0.98
+198,Wisconsin,2018-19,Lomira School District,,,90,0,2.74,0
+199,Wisconsin,2018-19,Loyal School District,,,94,0,2.78,0
+200,Wisconsin,2018-19,Luck School District,,,70,0,25,0
+201,Wisconsin,2018-19,Luxemburg-Casco School District,,,94,0,0.92,0
+202,Wisconsin,2018-19,Madison Metropolitan School District,,,92,0.19,2.75,0.67
+203,Wisconsin,2018-19,Manawa School District,,,79,0,20.69,0
+204,Wisconsin,2018-19,Manitowoc School District,,,93,0.55,3.27,0
+205,Wisconsin,2018-19,Maple School District,,,87,0,8.97,0
+206,Wisconsin,2018-19,Marathon City School District,,,82,0,15.91,0
+207,Wisconsin,2018-19,Marinette School District,,,82,0.84,6.72,0.84
+208,Wisconsin,2018-19,Marion School District,,,88,0,8,0
+209,Wisconsin,2018-19,Markesan School District,,,85,0,10.26,5.13
+210,Wisconsin,2018-19,Marshall School District,,,91,0,5.66,0
+211,Wisconsin,2018-19,Marshfield Unified School District,,,75,0,5.45,1.45
+212,Wisconsin,2018-19,Mauston School District,,,86,0,3.41,0
+213,Wisconsin,2018-19,Mayville School District,,,79,1.59,4.76,1.59
+214,Wisconsin,2018-19,McFarland School District,,,89,0,2.42,0
+215,Wisconsin,2018-19,Medford Area Public School District,,,91,0,6.57,0
+216,Wisconsin,2018-19,Mellen School District,,,90,0,0,0
+217,Wisconsin,2018-19,Melrose-Mindoro School District,,,95,0,1.96,0
+218,Wisconsin,2018-19,Menasha Joint School District,,,94,0,1.69,0
+219,Wisconsin,2018-19,Menominee Indian School District,,,95,0,1.61,0
+220,Wisconsin,2018-19,Menomonee Falls School District,,,94,1.53,4.58,0
+221,Wisconsin,2018-19,Menomonie Area School District,,,86,0,5.53,1.28
+222,Wisconsin,2018-19,Mequon-Thiensville School District,,,91,0.46,0.91,0.91
+223,Wisconsin,2018-19,Mercer School District,,,71,0,14.29,0
+224,Wisconsin,2018-19,Merrill Area School District,,,71,0.51,12.76,1.02
+225,Wisconsin,2018-19,Swallow School District,,,93,0,6.98,0
+226,Wisconsin,2018-19,North Lake School District,,,95,0,0,0
+227,Wisconsin,2018-19,Merton Community School District,,,90,0,1.37,2.74
+228,Wisconsin,2018-19,Stone Bank School District,,,92,0,3.85,3.85
+229,Wisconsin,2018-19,Middleton-Cross Plains Area School District,,,95,0,3.65,0
+230,Wisconsin,2018-19,Milton School District,,,84,0.49,8.37,0
+231,Wisconsin,2018-19,Milwaukee School District,,,74,0.39,1.59,0.45
+232,Wisconsin,2018-19,Mineral Point Unified School District,,,95,0,2.08,0
+233,Wisconsin,2018-19,Minocqua J1 School District,,,93,0,1.67,0
+234,Wisconsin,2018-19,Lakeland UHS School District,,,,,,
+235,Wisconsin,2018-19,Northwood School District,,,78,0,22.22,0
+236,Wisconsin,2018-19,Mishicot School District,,,94,0,5.56,0
+237,Wisconsin,2018-19,Mondovi School District,,,94,0,5.19,0
+238,Wisconsin,2018-19,Monona Grove School District,,,91,0,4.15,0.41
+239,Wisconsin,2018-19,Monroe School District,,,87,0,9.4,1.34
+240,Wisconsin,2018-19,Montello School District,,,61,0,7.32,0
+241,Wisconsin,2018-19,Monticello School District,,,95,0,5.26,0
+242,Wisconsin,2018-19,Mosinee School District,,,87,0,1.57,0
+243,Wisconsin,2018-19,Mount Horeb Area School District,,,92,0.59,2.96,0
+244,Wisconsin,2018-19,Mukwonago School District,,,89,0.31,7.19,1.25
+245,Wisconsin,2018-19,Riverdale School District,,,,,,
+246,Wisconsin,2018-19,Muskego-Norway School District,,,94,0,3.79,0.63
+247,Wisconsin,2018-19,Lake Country School District,,,80,0,7.32,0
+248,Wisconsin,2018-19,Necedah Area School District,,,83,0,12.2,4.88
+249,Wisconsin,2018-19,Neenah Joint School District,,,86,0.66,7,1.53
+250,Wisconsin,2018-19,Neillsville School District,,,90,0,6.94,0
+251,Wisconsin,2018-19,Nekoosa School District,,,,,,
+252,Wisconsin,2018-19,New Auburn School District,,,95,0,5.26,0
+253,Wisconsin,2018-19,New Berlin School District,,,95,0,4.27,0.71
+254,Wisconsin,2018-19,New Glarus School District,,,80,0,18.18,1.52
+255,Wisconsin,2018-19,New Holstein School District,,,78,0,3.13,1.56
+256,Wisconsin,2018-19,New Lisbon School District,,,89,0,3.64,0
+257,Wisconsin,2018-19,New London School District,,,85,2.16,10.79,0.72
+258,Wisconsin,2018-19,New Richmond School District,,,95,0,4.08,0
+259,Wisconsin,2018-19,Niagara School District,,,89,0,8.11,2.7
+260,Wisconsin,2018-19,Norris School District,,,,,,
+261,Wisconsin,2018-19,North Fond du Lac School District,,,92,0,7.69,0
+262,Wisconsin,2018-19,Norwalk-Ontario-Wilton School District,,,90,0,4.88,0
+263,Wisconsin,2018-19,Norway J7 School District,,,89,0,11.11,0
+264,Wisconsin,2018-19,Oak Creek-Franklin Joint School District,,,94,0.24,4.15,0.49
+265,Wisconsin,2018-19,Oakfield School District,,,91,0,8.7,0
+266,Wisconsin,2018-19,Oconomowoc Area School District,,,93,0.63,6.25,0
+267,Wisconsin,2018-19,Oconto Unified School District,,,89,0,6.94,0
+268,Wisconsin,2018-19,Oconto Falls Public School District,,,88,0,5.98,0
+269,Wisconsin,2018-19,Omro School District,,,95,0,2.78,0
+270,Wisconsin,2018-19,Onalaska School District,,,89,0,7.5,2
+271,Wisconsin,2018-19,Oostburg School District,,,89,0,6.56,0
+272,Wisconsin,2018-19,Oregon School District,,,91,0.35,4.26,0.35
+273,Wisconsin,2018-19,Parkview School District,,,93,0,6.52,0
+274,Wisconsin,2018-19,Osceola School District,,,86,1.01,10.1,0
+275,Wisconsin,2018-19,Oshkosh Area School District,,,93,0,6.43,0.29
+276,Wisconsin,2018-19,Osseo-Fairchild School District,,,95,0,2.38,2.38
+277,Wisconsin,2018-19,Owen-Withee School District,,,82,0,3.03,0
+278,Wisconsin,2018-19,Palmyra-Eagle Area School District,,,90,0,10,0
+279,Wisconsin,2018-19,Pardeeville Area School District,,,90,0,4.23,0
+280,Wisconsin,2018-19,Paris J1 School District,,,81,0,7.69,7.69
+281,Wisconsin,2018-19,Beecher-Dunbar-Pembine School District,,,95,0,0,0
+282,Wisconsin,2018-19,Pepin Area School District,,,70,0,30,0
+283,Wisconsin,2018-19,Peshtigo School District,,,89,3.95,6.58,0
+284,Wisconsin,2018-19,Pewaukee School District,,,93,0.44,5.29,1.32
+285,Wisconsin,2018-19,Phelps School District,,,78,0,0,0
+286,Wisconsin,2018-19,Phillips School District,,,86,0,2,0
+287,Wisconsin,2018-19,Pittsville School District,,,94,0,0,0
+288,Wisconsin,2018-19,Tri-County Area School District,,,78,4.44,2.22,0
+289,Wisconsin,2018-19,Platteville School District,,,87,0,6.32,0
+290,Wisconsin,2018-19,Plum City School District,,,88,0,12,0
+291,Wisconsin,2018-19,Plymouth Joint School District,,,81,0,14.96,0
+292,Wisconsin,2018-19,Portage Community School District,,,91,0,4.32,0
+293,Wisconsin,2018-19,Port Edwards School District,,,95,0,3.45,0
+294,Wisconsin,2018-19,Port Washington-Saukville School District,,,82,0,1.65,1.1
+295,Wisconsin,2018-19,South Shore School District,,,95,0,0,0
+296,Wisconsin,2018-19,Potosi School District,,,73,0,0,0
+297,Wisconsin,2018-19,Poynette School District,,,95,0,1.49,0
+298,Wisconsin,2018-19,Prairie du Chien Area School District,,,91,0,0,0
+299,Wisconsin,2018-19,Prairie Farm Public School District,,,85,0,15.15,0
+300,Wisconsin,2018-19,Prentice School District,,,85,0,15.38,0
+301,Wisconsin,2018-19,Prescott School District,,,91,0,8.97,0
+302,Wisconsin,2018-19,Princeton School District,,,94,0,5.56,0
+303,Wisconsin,2018-19,Pulaski Community School District,,,91,0,3.7,1.48
+304,Wisconsin,2018-19,Racine Unified School District,,,81,0,2.4,0.24
+305,Wisconsin,2018-19,Randall J1 School District,,,85,0,8.33,0
+306,Wisconsin,2018-19,Randolph School District,,,91,0,8.82,0
+307,Wisconsin,2018-19,Random Lake School District,,,86,0,11.9,0
+308,Wisconsin,2018-19,Raymond #14 School District,,,86,0,8,0
+309,Wisconsin,2018-19,North Cape School District,,,72,0,16.67,5.56
+310,Wisconsin,2018-19,Reedsburg School District,,,91,0,8.02,0.62
+311,Wisconsin,2018-19,Reedsville School District,,,93,0,0,3.33
+312,Wisconsin,2018-19,Rhinelander School District,,,85,0,1.35,0.68
+313,Wisconsin,2018-19,Rib Lake School District,,,82,0,18.18,0
+314,Wisconsin,2018-19,Rice Lake Area School District,,,92,0,8,0
+315,Wisconsin,2018-19,Richland School District,,,85,0,12.33,1.37
+316,Wisconsin,2018-19,Rio Community School District,,,95,0,0,0
+317,Wisconsin,2018-19,Ripon Area School District,,,88,0.96,5.77,1.92
+318,Wisconsin,2018-19,River Falls School District,,,83,0,15.61,1.69
+319,Wisconsin,2018-19,River Ridge School District,,,89,0,3.57,0
+320,Wisconsin,2018-19,Rosendale-Brandon School District,,,95,0,1.85,0
+321,Wisconsin,2018-19,Rosholt School District,,,78,0,5.41,2.7
+322,Wisconsin,2018-19,D C Everest Area School District,,,,,,
+323,Wisconsin,2018-19,Saint Croix Falls School District,,,89,1.52,6.06,1.52
+324,Wisconsin,2018-19,Saint Francis School District,,,91,0,4.35,0
+325,Wisconsin,2018-19,Central/Westosha UHS School District,,,,,,
+326,Wisconsin,2018-19,Salem School District,,,90,0,5.83,1.94
+327,Wisconsin,2018-19,Sauk Prairie School District,,,92,0,7.73,0
+328,Wisconsin,2018-19,Seneca Area School District,,,95,0,5.26,0
+329,Wisconsin,2018-19,Sevastopol School District,,,91,0,2.94,0
+330,Wisconsin,2018-19,Seymour Community School District,,,80,0.73,3.65,2.19
+331,Wisconsin,2018-19,Sharon J11 School District,,,95,0,0,0
+332,Wisconsin,2018-19,Shawano School District,,,87,0,7.38,0
+333,Wisconsin,2018-19,Sheboygan Area School District,,,89,0.44,5.75,0.74
+334,Wisconsin,2018-19,Sheboygan Falls School District,,,94,0,4.67,0.93
+335,Wisconsin,2018-19,Shell Lake School District,,,94,0,5.56,0
+336,Wisconsin,2018-19,Shiocton School District,,,95,0,4.88,0
+337,Wisconsin,2018-19,Shorewood School District,,,83,0,15.84,0.99
+338,Wisconsin,2018-19,Shullsburg School District,,,85,0,15,0
+339,Wisconsin,2018-19,Silver Lake J1 School District,,,87,0,13.04,0
+340,Wisconsin,2018-19,Siren School District,,,88,0,2.94,0
+341,Wisconsin,2018-19,Slinger School District,,,87,0.45,11.61,0.89
+342,Wisconsin,2018-19,Solon Springs School District,,,95,0,0,0
+343,Wisconsin,2018-19,Somerset School District,,,90,0,4.55,0
+344,Wisconsin,2018-19,South Milwaukee School District,,,95,0,1.55,0.52
+345,Wisconsin,2018-19,Southern Door County School District,,,83,0,6.15,1.54
+346,Wisconsin,2018-19,Sparta Area School District,,,83,0.47,3.32,0.47
+347,Wisconsin,2018-19,Spencer School District,,,95,0,4.17,0
+348,Wisconsin,2018-19,Spooner Area School District,,,75,1.77,6.19,0.88
+349,Wisconsin,2018-19,River Valley School District,,,89,1.37,6.85,0
+350,Wisconsin,2018-19,Spring Valley School District,,,84,1.72,12.07,0
+351,Wisconsin,2018-19,Stanley-Boyd Area School District,,,85,0,13.43,1.49
+352,Wisconsin,2018-19,Stevens Point Area Public School District,,,94,0.21,5.42,0.42
+353,Wisconsin,2018-19,Stockbridge School District,,,77,0,23.08,0
+354,Wisconsin,2018-19,Stoughton Area School District,,,90,0,4.41,0
+355,Wisconsin,2018-19,Stratford School District,,,94,0,3.7,0
+356,Wisconsin,2018-19,Sturgeon Bay School District,,,95,0,1.69,0
+357,Wisconsin,2018-19,Sun Prairie Area School District,,,93,0.16,2.38,0.32
+358,Wisconsin,2018-19,Superior School District,,,91,0,3.65,0.61
+359,Wisconsin,2018-19,Suring Public School District,,,80,0,16,0
+360,Wisconsin,2018-19,Thorp School District,,,90,0,6.9,0
+361,Wisconsin,2018-19,Three Lakes School District,,,83,2.5,12.5,0
+362,Wisconsin,2018-19,Tigerton School District,,,93,0,0,0
+363,Wisconsin,2018-19,Tomah Area School District,,,86,0.47,3.26,0
+364,Wisconsin,2018-19,Tomahawk School District,,,92,0,4.17,1.39
+365,Wisconsin,2018-19,Flambeau School District,,,90,0,2.38,2.38
+366,Wisconsin,2018-19,Trevor-Wilmot Consolidated School District,,,90,0,6.35,1.59
+367,Wisconsin,2018-19,Turtle Lake School District,,,93,0,7.14,0
+368,Wisconsin,2018-19,Twin Lakes #4 School District,,,78,0,9.38,3.13
+369,Wisconsin,2018-19,Two Rivers Public School District,,,89,0,2.8,1.87
+370,Wisconsin,2018-19,Union Grove UHS School District,,,,,,
+371,Wisconsin,2018-19,Union Grove J1 School District,,,95,0,0,0
+372,Wisconsin,2018-19,Valders Area School District,,,94,0,5.88,0
+373,Wisconsin,2018-19,Verona Area School District,,,91,0.51,3.05,0.25
+374,Wisconsin,2018-19,Kickapoo Area School District,,,94,0,5.88,0
+375,Wisconsin,2018-19,Viroqua Area School District,,,78,0,19.74,0
+376,Wisconsin,2018-19,Wabeno Area School District,,,81,3.85,11.54,0
+377,Wisconsin,2018-19,Big Foot UHS School District,,,,,,
+378,Wisconsin,2018-19,Walworth J1 School District,,,89,0,8.33,0
+379,Wisconsin,2018-19,Washburn School District,,,78,0,21.62,0
+380,Wisconsin,2018-19,Washington School District,,,95,0,0,0
+381,Wisconsin,2018-19,Waterford UHS School District,,,,,,
+382,Wisconsin,2018-19,Washington-Caldwell School District,,,95,0,0,0
+383,Wisconsin,2018-19,Waterford Graded J1 School District,,,89,0,11.2,0
+384,Wisconsin,2018-19,Waterloo School District,,,94,0,5.56,0
+385,Wisconsin,2018-19,Watertown Unified School District,,,95,0,4.19,0.47
+386,Wisconsin,2018-19,Waukesha School District,,,82,0.14,6,0.41
+387,Wisconsin,2018-19,Waunakee Community School District,,,95,0,4.81,0
+388,Wisconsin,2018-19,Waupaca School District,,,85,0,13.19,0.69
+389,Wisconsin,2018-19,Waupun School District,,,91,0,8.18,0
+390,Wisconsin,2018-19,Wausau School District,,,92,0,4.11,0.75
+391,Wisconsin,2018-19,Wausaukee School District,,,82,0,9.09,0
+392,Wisconsin,2018-19,Wautoma Area School District,,,90,0.99,4.95,0
+393,Wisconsin,2018-19,Wauwatosa School District,,,90,0.23,2.25,0.68
+394,Wisconsin,2018-19,Wauzeka-Steuben School District,,,85,0,15,0
+395,Wisconsin,2018-19,Webster School District,,,93,0,4.55,0
+396,Wisconsin,2018-19,West Allis-West Milwaukee School District,,,91,0,5.59,1.68
+397,Wisconsin,2018-19,West Bend School District,,,80,0.5,3.9,0.63
+398,Wisconsin,2018-19,Westby Area School District,,,91,0,5.33,0
+399,Wisconsin,2018-19,West De Pere School District,,,95,0,3.04,1.14
+400,Wisconsin,2018-19,Westfield School District,,,65,0,3.85,3.85
+401,Wisconsin,2018-19,Weston School District,,,80,0,20,0
+402,Wisconsin,2018-19,West Salem School District,,,,,,
+403,Wisconsin,2018-19,Weyauwega-Fremont School District,,,85,0,14.58,0
+404,Wisconsin,2018-19,Wheatland J1 School District,,,90,0,5.77,0
+405,Wisconsin,2018-19,Whitefish Bay School District,,,95,0.55,2.21,0
+406,Wisconsin,2018-19,Whitehall School District,,,92,0,0,0
+407,Wisconsin,2018-19,White Lake School District,,,82,0,0,0
+408,Wisconsin,2018-19,Whitewater Unified School District,,,89,0,3.23,0
+409,Wisconsin,2018-19,Whitnall School District,,,94,0,1.91,1.27
+410,Wisconsin,2018-19,Wild Rose School District,,,88,0,7.32,2.44
+411,Wisconsin,2018-19,Williams Bay School District,,,90,0,9.52,0
+412,Wisconsin,2018-19,Wilmot UHS School District,,,,,,
+413,Wisconsin,2018-19,Winneconne Community School District,,,88,0,6.6,1.89
+414,Wisconsin,2018-19,Winter School District,,,76,0,23.53,0
+415,Wisconsin,2018-19,Wisconsin Dells School District,,,91,0,7.58,0.76
+416,Wisconsin,2018-19,Wisconsin Rapids School District,,,92,0.26,4.75,0.53
+417,Wisconsin,2018-19,Wittenberg-Birnamwood School District,,,94,0,1.28,0
+418,Wisconsin,2018-19,Wonewoc-Union Center School District,,,89,0,0,0
+419,Wisconsin,2018-19,Woodruff J1 School District,,,92,0,8.33,0
+420,Wisconsin,2018-19,Wrightstown Community School District,,,89,0,0,0
+421,Wisconsin,2018-19,Yorkville J2 School District,,,95,0,3.03,0
+422,Wisconsin,2018-19,Wis Dept of Public Instruction,,,95,0,0,0
+1,Utah,2017-18,Alpine,,,87.9,4.8,,
+2,Utah,2017-18,Beaver,,,95,5,,
+3,Utah,2017-18,Box Elder,,,91.1,3.8,,
+4,Utah,2017-18,Cache,,,94.5,3.5,,
+5,Utah,2017-18,Canyons,,,93,4,,
+6,Utah,2017-18,Carbon,,,92.4,2.1,,
+7,Utah,2017-18,Daggett,,,90.9,9.1,,
+8,Utah,2017-18,Davis,,,92.5,4.1,,
+9,Utah,2017-18,Duchesne,,,86.6,8.3,,
+10,Utah,2017-18,Emery,,,84.3,6.9,,
+11,Utah,2017-18,Garfield,,,91.8,4.9,,
+12,Utah,2017-18,Grand,,,96.6,3.4,,
+13,Utah,2017-18,Granite,,,93.7,2.6,,
+14,Utah,2017-18,Iron,,,90.2,7.4,,
+15,Utah,2017-18,Jordan,,,92.5,4.8,,
+16,Utah,2017-18,Juab,,,87.6,7,,
+17,Utah,2017-18,Kane,,,82.5,13.6,,
+18,Utah,2017-18,Logan,,,98.1,1.7,,
+19,Utah,2017-18,Millard,,,87.3,6.4,,
+20,Utah,2017-18,Morgan,,,97.2,1.9,,
+21,Utah,2017-18,Murray,,,87.8,3.9,,
+22,Utah,2017-18,Nebo,,,91.7,4.5,,
+23,Utah,2017-18,North Sanpete,,,84.6,12.6,,
+24,Utah,2017-18,North Summit,,,93.9,4.6,,
+25,Utah,2017-18,Ogden,,,90.6,2.1,,
+26,Utah,2017-18,Park City,,,87.1,10.1,,
+27,Utah,2017-18,Piute,,,84.6,15.4,,
+28,Utah,2017-18,Provo,,,86.9,6.3,,
+29,Utah,2017-18,Rich,,,95.3,4.7,,
+30,Utah,2017-18,Salt Lake City,,,95.6,2.6,,
+31,Utah,2017-18,San Juan,,,89.3,3.4,,
+32,Utah,2017-18,Sevier,,,92.5,4.1,,
+33,Utah,2017-18,South Sanpete,,,84.1,8.7,,
+34,Utah,2017-18,South Summit,,,89.4,2.8,,
+35,Utah,2017-18,Tintic,,,100,0,,
+36,Utah,2017-18,Tooele,,,86.4,12.3,,
+37,Utah,2017-18,Uintah,,,88.6,7.4,,
+38,Utah,2017-18,Wasatch,,,89.5,5.8,,
+39,Utah,2017-18,Washington,,,88.2,9.1,,
+40,Utah,2017-18,Wayne,,,91.4,8.6,,
+41,Utah,2017-18,Weber,,,93.3,3.3,,
+1,Colorado,2018-19,Adams,5933,94.1,,,,
+2,Colorado,2018-19,Alamosa,224,87.05,,,,
+3,Colorado,2018-19,Arapahoe,7828,90.52,,,,
+4,Colorado,2018-19,Archuleta,116,78.45,,,,
+5,Colorado,2018-19,Baca,48,95.83,,,,
+6,Colorado,2018-19,Bent,50,96,,,,
+7,Colorado,2018-19,Boulder,3294,81.36,,,,
+8,Colorado,2018-19,Broomfield,785,87.9,,,,
+9,Colorado,2018-19,Chaffee,157,87.9,,,,
+10,Colorado,2018-19,Cheyenne,26,92.31,,,,
+11,Colorado,2018-19,Clear Creek,55,87.27,,,,
+12,Colorado,2018-19,Conejos,118,88.98,,,,
+13,Colorado,2018-19,Costilla,33,87.88,,,,
+14,Colorado,2018-19,Crowley,35,85.71,,,,
+15,Colorado,2018-19,Custer,22,95.45,,,,
+16,Colorado,2018-19,Delta,347,87.9,,,,
+17,Colorado,2018-19,Denver,7660,84.95,,,,
+18,Colorado,2018-19,Dolores,21,90.48,,,,
+19,Colorado,2018-19,Douglas,4979,86.38,,,,
+20,Colorado,2018-19,Eagle,501,95.01,,,,
+21,Colorado,2018-19,Elbert,206,73.79,,,,
+22,Colorado,2018-19,El Paso,8933,81.53,,,,
+23,Colorado,2018-19,Fremont,362,85.08,,,,
+24,Colorado,2018-19,Garfield,713,88.22,,,,
+25,Colorado,2018-19,Gilpin,34,85.29,,,,
+26,Colorado,2018-19,Grand,125,94.4,,,,
+27,Colorado,2018-19,Gunnison,131,63.36,,,,
+28,Colorado,2018-19,Hinsdale,0,50,,,,
+29,Colorado,2018-19,Huerfano,55,92.73,,,,
+30,Colorado,2018-19,Jackson,160,58.75,,,,
+31,Colorado,2018-19,Jefferson,6144,90.06,,,,
+32,Colorado,2018-19,Kiowa,17,100,,,,
+33,Colorado,2018-19,Kit Carson,141,92.2,,,,
+34,Colorado,2018-19,Lake,77,88.31,,,,
+35,Colorado,2018-19,La Plata,358,85.47,,,,
+36,Colorado,2018-19,Larimer,3594,90.18,,,,
+37,Colorado,2018-19,Las Animas,139,91.37,,,,
+38,Colorado,2018-19,Lincoln,53,81.13,,,,
+39,Colorado,2018-19,Logan,202,93.07,,,,
+40,Colorado,2018-19,Mesa,1652,85.29,,,,
+41,Colorado,2018-19,Mineral,13,76.92,,,,
+42,Colorado,2018-19,Moffat,1982,94.9,,,,
+43,Colorado,2018-19,Montezuma,219,89.95,,,,
+44,Colorado,2018-19,Montrose,454,88.11,,,,
+45,Colorado,2018-19,Morgan,347,93.66,,,,
+46,Colorado,2018-19,Otero,179,92.74,,,,
+47,Colorado,2018-19,Ouray,58,81.03,,,,
+48,Colorado,2018-19,Park,122,85.25,,,,
+49,Colorado,2018-19,Phillips,37,70.27,,,,
+50,Colorado,2018-19,Pitkin,13,84.62,,,,
+51,Colorado,2018-19,Prowers,158,98.1,,,,
+52,Colorado,2018-19,Pueblo,1879,86.8,,,,
+53,Colorado,2018-19,Rio Blanco,77,90.91,,,,
+54,Colorado,2018-19,Rio Grande,148,89.86,,,,
+55,Colorado,2018-19,Routt,224,88.39,,,,
+56,Colorado,2018-19,Saguache,73,76.71,,,,
+57,Colorado,2018-19,San Juan,61,91.8,,,,
+58,Colorado,2018-19,San Miguel,79,84.81,,,,
+59,Colorado,2018-19,Sedgwick,34,91.18,,,,
+60,Colorado,2018-19,Summit,239,83.68,,,,
+61,Colorado,2018-19,Teller,177,85.31,,,,
+62,Colorado,2018-19,Washington,28,50,,,,
+63,Colorado,2018-19,Weld,4313,89.45,,,,
+64,Colorado,2018-19,Yuma,136,91.91,,,,
+1,North Carolina,2018-19,Alamance,"1,879",,98.8,0.1,,0.6
+2,North Carolina,2018-19,Alexander,371,,100,0.3,,2.4
+3,North Carolina,2018-19,Alleghany,108,,93.5,0,,0.9
+4,North Carolina,2018-19,Anson,239,,98.7,0.4,,0
+5,North Carolina,2018-19,Ashe,205,,99.5,0,,2.4
+6,North Carolina,2018-19,Avery,155,,100,0,,0
+7,North Carolina,2018-19,Beaufort,501,,99,0,,0.6
+8,North Carolina,2018-19,Bertie,145,,86.2,0,,4.8
+9,North Carolina,2018-19,Bladen,321,,95,0,,0
+10,North Carolina,2018-19,Brunswick,"1,048",,98.2,0.3,,2
+11,North Carolina,2018-19,Buncombe,"2,352",,97.3,0,,4.9
+12,North Carolina,2018-19,Burke,899,,99.3,0.1,,0.7
+13,North Carolina,2018-19,Cabarrus,"2,978",,99.3,0.1,,2
+14,North Carolina,2018-19,Caldwell,824,,98.8,0.2,,1.2
+15,North Carolina,2018-19,Camden,149,,100,0,,1.3
+16,North Carolina,2018-19,Carteret,584,,97.8,0.2,,1.4
+17,North Carolina,2018-19,Caswell,202,,99,0.5,,1
+18,North Carolina,2018-19,Catawba,"1,660",,99.2,0.2,,1.9
+19,North Carolina,2018-19,Chatham,714,,98.6,0.1,,0.3
+20,North Carolina,2018-19,Cherokee,190,,98.9,0.5,,1.1
+21,North Carolina,2018-19,Chowan,160,,96.2,0,,0.6
+22,North Carolina,2018-19,Clay,115,,99.1,0.9,,5.2
+23,North Carolina,2018-19,Cleveland,"1,141",,97.8,0.4,,1
+24,North Carolina,2018-19,Columbus,633,,98.6,0.2,,0.3
+25,North Carolina,2018-19,Craven,"1,088",,93,0.1,,1.2
+26,North Carolina,2018-19,Cumberland,"4,350",,94.9,0,,1.1
+27,North Carolina,2018-19,Currituck,332,,85.2,0,,1.5
+28,North Carolina,2018-19,Dare,301,,98,0.3,,2.7
+29,North Carolina,2018-19,Davidson,"1,884",,98,0.2,,0.7
+30,North Carolina,2018-19,Davie,459,,99.1,0.2,,2.2
+31,North Carolina,2018-19,Duplin,758,,97.9,0,,0
+32,North Carolina,2018-19,Durham,"3,611",,95,0.1,,1.6
+33,North Carolina,2018-19,Edgecombe,663,,98.9,0,,0.5
+34,North Carolina,2018-19,Forsyth,"2,970",,99.4,0.1,,1.3
+35,North Carolina,2018-19,Franklin,642,,97,0,,0.6
+36,North Carolina,2018-19,Gaston,"2,636",,97.4,0.1,,1.2
+37,North Carolina,2018-19,Gates,119,,99.2,0,,1.7
+38,North Carolina,2018-19,Graham,86,,97.7,0,,1.2
+39,North Carolina,2018-19,Granville,564,,91.7,0.4,,2
+40,North Carolina,2018-19,Greene,172,,100,0,,0
+41,North Carolina,2018-19,Guilford,"6,417",,94.5,0,,1.4
+42,North Carolina,2018-19,Halifax,581,,95.7,0.2,,0
+43,North Carolina,2018-19,Harnett,"1,517",,93.6,0.1,,0.7
+44,North Carolina,2018-19,Haywood,579,,98.6,0.7,,1.4
+45,North Carolina,2018-19,Henderson,"1,037",,94.9,0.1,,3
+46,North Carolina,2018-19,Hertford,241,,98.3,0,,0.4
+47,North Carolina,2018-19,Hoke,659,,98.2,0.2,,0.9
+48,North Carolina,2018-19,Hyde,54,,100,0,,0
+49,North Carolina,2018-19,Iredell,"2,162",,97.1,0.1,,2.4
+50,North Carolina,2018-19,Jackson,278,,97.8,0,,3.2
+51,North Carolina,2018-19,Johnston,"2,524",,98.2,0.1,,1
+52,North Carolina,2018-19,Jones,81,,100,0,,1.2
+53,North Carolina,2018-19,Lee,816,,99.8,0,,1
+54,North Carolina,2018-19,Lenoir,675,,97.8,0,,0.3
+55,North Carolina,2018-19,Lincoln,971,,97.5,0.2,,2.4
+56,North Carolina,2018-19,Macon,382,,99.2,0,,0.5
+57,North Carolina,2018-19,Madison,172,,95.9,0,,5.2
+58,North Carolina,2018-19,Martin,223,,99.6,0.4,,2.2
+59,North Carolina,2018-19,McDowell,433,,97.9,0,,1.4
+60,North Carolina,2018-19,Mecklenburg,"11,551",,94.2,0.2,,2.1
+61,North Carolina,2018-19,Mitchell,133,,97,0.8,,0.8
+62,North Carolina,2018-19,Montgomery,257,,99.2,0,,0
+63,North Carolina,2018-19,Moore,"1,106",,99,0.1,,1.5
+64,North Carolina,2018-19,Nash,"1,128",,96.9,0,,0.4
+65,North Carolina,2018-19,New Hanover,"1,772",,97.3,0.1,,3.2
+66,North Carolina,2018-19,Northampton,294,,98.6,0,,1.4
+67,North Carolina,2018-19,Onslow,"2,531",,94.3,0.1,,1.5
+68,North Carolina,2018-19,Orange,"1,308",,96.1,0.3,,1.4
+69,North Carolina,2018-19,Pamlico,147,,99.3,1.4,,0
+70,North Carolina,2018-19,Pasquotank,453,,98.7,0.4,,0.4
+71,North Carolina,2018-19,Pender,616,,98.2,0,,2.6
+72,North Carolina,2018-19,Perquimans,140,,97.1,0.7,,0.7
+73,North Carolina,2018-19,Person,414,,98.1,0.2,,0.2
+74,North Carolina,2018-19,Pitt,"1,637",,97.8,0.1,,0.4
+75,North Carolina,2018-19,Polk,87,,100,1.1,,10.3
+76,North Carolina,2018-19,Randolph,"1,614",,99.3,0,,1.2
+77,North Carolina,2018-19,Richmond,515,,99.2,0.2,,0.2
+78,North Carolina,2018-19,Robeson,"1,663",,95.4,0.1,,0.3
+79,North Carolina,2018-19,Rockingham,944,,98.6,0,,0.4
+80,North Carolina,2018-19,Rowan,"1,499",,98.1,0.3,,1.3
+81,North Carolina,2018-19,Rutherford,790,,99.1,0.1,,1.5
+82,North Carolina,2018-19,Sampson,894,,90.5,0.1,,0.1
+83,North Carolina,2018-19,Scotland,400,,95.5,0,,0.3
+84,North Carolina,2018-19,Stanly,745,,97.7,0,,0.5
+85,North Carolina,2018-19,Stokes,403,,99.5,0.2,,0.7
+86,North Carolina,2018-19,Surry,796,,99.4,0,,1
+87,North Carolina,2018-19,Swain,304,,98.7,0,,2.6
+88,North Carolina,2018-19,Transylvania,273,,98.2,0.7,,5.1
+89,North Carolina,2018-19,Tyrrell,42,,97.6,0,,0
+90,North Carolina,2018-19,Union,"3,014",,98.6,0,,3
+91,North Carolina,2018-19,Vance,650,,96.6,0,,0.3
+92,North Carolina,2018-19,Wake,"12,740",,95.7,0.2,,1.4
+93,North Carolina,2018-19,Warren,160,,99.4,0,,0.6
+94,North Carolina,2018-19,Washington,114,,97.4,0,,0.9
+95,North Carolina,2018-19,Watauga,376,,96.3,0.3,,2.1
+96,North Carolina,2018-19,Wayne,"1,519",,92.4,0.2,,0.2
+97,North Carolina,2018-19,Wilkes,717,,99.6,0.1,,0.6
+98,North Carolina,2018-19,Wilson,"1,041",,97.9,0.1,,0.5
+99,North Carolina,2018-19,Yadkin,370,,96.2,0,,1.4
+100,North Carolina,2018-19,Yancey,152,,98,0,,3.3
+1,California,2018-19,ALAMEDA,"21,818",98.1,,,,
+2,California,2018-19,ALPINE,10,,,,,
+3,California,2018-19,AMADOR,279,95.7,,,,
+4,California,2018-19,BUTTE,"2,822",96.3,,,,
+5,California,2018-19,CALAVERAS,437,91.8,,,,
+6,California,2018-19,COLUSA,360,98.3,,,,
+7,California,2018-19,CONTRA COSTA,"15,192",97.9,,,,
+8,California,2018-19,DEL NORTE,382,96.3,,,,
+9,California,2018-19,EL DORADO,"2,453",89.8,,,,
+10,California,2018-19,FRESNO,"18,758",98,,,,
+11,California,2018-19,GLENN,540,97.2,,,,
+12,California,2018-19,HUMBOLDT,"1,708",91.9,,,,
+13,California,2018-19,IMPERIAL,"3,134",98.4,,,,
+14,California,2018-19,INYO,231,97.8,,,,
+15,California,2018-19,KERN,"18,110",93.5,,,,
+16,California,2018-19,KINGS,"2,686",99,,,,
+17,California,2018-19,LAKE,848,96.9,,,,
+18,California,2018-19,LASSEN,385,95.3,,,,
+19,California,2018-19,LOS ANGELES,"136,039",96.4,,,,
+20,California,2018-19,MADERA,"2,762",97.2,,,,
+21,California,2018-19,MARIN,"3,170",96.6,,,,
+22,California,2018-19,MARIPOSA,156,94.9,,,,
+23,California,2018-19,MENDOCINO,"1,204",88.1,,,,
+24,California,2018-19,MERCED,"5,240",98.9,,,,
+25,California,2018-19,MODOC,111,99,,,,
+26,California,2018-19,MONO,150,98.7,,,,
+27,California,2018-19,MONTEREY,"6,926",98.4,,,,
+28,California,2018-19,NAPA,"1,429",96.4,,,,
+29,California,2018-19,NEVADA,990,83.4,,,,
+30,California,2018-19,ORANGE,"41,734",97.2,,,,
+31,California,2018-19,PLACER,"6,470",94.4,,,,
+32,California,2018-19,PLUMAS,210,90,,,,
+33,California,2018-19,RIVERSIDE,"35,422",97.8,,,,
+34,California,2018-19,SACRAMENTO,"21,501",95.8,,,,
+35,California,2018-19,SAN BENITO,"1,052",98.2,,,,
+36,California,2018-19,SAN BERNARDINO,"33,920",97.1,,,,
+37,California,2018-19,SAN DIEGO,"46,256",94.3,,,,
+38,California,2018-19,SAN FRANCISCO,"6,840",97.3,,,,
+39,California,2018-19,SAN JOAQUIN,"12,410",98,,,,
+40,California,2018-19,SAN LUIS OBISPO,"3,012",96.3,,,,
+41,California,2018-19,SAN MATEO,"9,275",98,,,,
+42,California,2018-19,SANTA BARBARA,"6,273",97.8,,,,
+43,California,2018-19,SANTA CLARA,"25,505",98.3,,,,
+44,California,2018-19,SANTA CRUZ,"3,579",92.8,,,,
+45,California,2018-19,SHASTA,"2,466",90.9,,,,
+46,California,2018-19,SIERRA,36,95,,,,
+47,California,2018-19,SISKIYOU,561,92.2,,,,
+48,California,2018-19,SOLANO,"5,933",98.7,,,,
+49,California,2018-19,SONOMA,"6,343",93.5,,,,
+50,California,2018-19,STANISLAUS,"9,346",97.3,,,,
+51,California,2018-19,SUTTER,"2,310",74.9,,,,
+52,California,2018-19,TEHAMA,983,95.9,,,,
+53,California,2018-19,TRINITY,124,93.5,,,,
+54,California,2018-19,TULARE,"9,105",99.1,,,,
+55,California,2018-19,TUOLUMNE,614,91,,,,
+56,California,2018-19,VENTURA,"11,814",97.2,,,,
+57,California,2018-19,YOLO,"2,907",96.8,,,,
+58,California,2018-19,YUBA,"1,404",95.1,,,,
+1,Iowa,2018-19,Adair,787,,100,,,
+2,Iowa,2018-19,Adams,367,,100,,,
+3,Iowa,2018-19,Allamakee,2360,,91.3,,,
+4,Iowa,2018-19,Appanoose,1882,,98.5,,,
+5,Iowa,2018-19,Audubon,502,,99.4,,,
+6,Iowa,2018-19,Benton,3920,,99.7,,,
+7,Iowa,2018-19,Black Hawk,19247,,98.4,,,
+8,Iowa,2018-19,Boone,3762,,100,,,
+9,Iowa,2018-19,Bremer,4809,,98.6,,,
+10,Iowa,2018-19,Buchanan,3646,,99.3,,,
+11,Iowa,2018-19,Buena Vista,4265,,98.9,,,
+12,Iowa,2018-19,Butler,2116,,98.1,,,
+13,Iowa,2018-19,Calhoun,1381,,99.9,,,
+14,Iowa,2018-19,Carroll,3924,,99.8,,,
+15,Iowa,2018-19,Cass,2814,,97.6,,,
+16,Iowa,2018-19,Cedar,3104,,100,,,
+17,Iowa,2018-19,Cerro Gordo,6299,,99.7,,,
+18,Iowa,2018-19,Cherokee,1843,,100,,,
+19,Iowa,2018-19,Chickasaw,2061,,100,,,
+20,Iowa,2018-19,Clarke,1612,,99.4,,,
+21,Iowa,2018-19,Clay,2502,,99.8,,,
+22,Iowa,2018-19,Clayton,2187,,100,,,
+23,Iowa,2018-19,Clinton,7535,,99.9,,,
+24,Iowa,2018-19,Crawford,3065,,98.5,,,
+25,Iowa,2018-19,Dallas,19129,,99.4,,,
+26,Iowa,2018-19,Davis,1295,,100,,,
+27,Iowa,2018-19,Decatur,1132,,97,,,
+28,Iowa,2018-19,Delaware,2701,,99.5,,,
+29,Iowa,2018-19,Des Moines,6654,,98.8,,,
+30,Iowa,2018-19,Dickinson,2643,,100,,,
+31,Iowa,2018-19,Dubuque,16413,,99.4,,,
+32,Iowa,2018-19,Emmet,1388,,100,,,
+33,Iowa,2018-19,Fayette,4444,,99.7,,,
+34,Iowa,2018-19,Floyd,2546,,94,,,
+35,Iowa,2018-19,Franklin,1721,,99.2,,,
+36,Iowa,2018-19,Fremont,1089,,98.3,,,
+37,Iowa,2018-19,Greene,1379,,100,,,
+38,Iowa,2018-19,Grundy,2349,,100,,,
+39,Iowa,2018-19,Guthrie,1934,,96,,,
+40,Iowa,2018-19,Hamilton,2469,,100,,,
+41,Iowa,2018-19,Hancock,1217,,100,,,
+42,Iowa,2018-19,Hardin,2936,,99.6,,,
+43,Iowa,2018-19,Harrison,2326,,97.3,,,
+44,Iowa,2018-19,Henry,3232,,97.9,,,
+45,Iowa,2018-19,Howard,1762,,99,,,
+46,Iowa,2018-19,Humboldt,1636,,98.7,,,
+47,Iowa,2018-19,Ida,982,,99.5,,,
+48,Iowa,2018-19,Iowa,2595,,99.5,,,
+49,Iowa,2018-19,Jackson,3221,,99.3,,,
+50,Iowa,2018-19,Jasper,5831,,100,,,
+51,Iowa,2018-19,Jefferson,2457,,100,,,
+52,Iowa,2018-19,Johnson,19827,,98.1,,,
+53,Iowa,2018-19,Jones,2908,,99.2,,,
+54,Iowa,2018-19,Keokuk,1109,,99.5,,,
+55,Iowa,2018-19,Kossuth,2269,,99.9,,,
+56,Iowa,2018-19,Lee,5104,,99.8,,,
+57,Iowa,2018-19,Linn,39766,,98.6,,,
+58,Iowa,2018-19,Louisa,2070,,100,,,
+59,Iowa,2018-19,Lucas,1234,,98.4,,,
+60,Iowa,2018-19,Lyon,2093,,99.7,,,
+61,Iowa,2018-19,Madison,3097,,100,,,
+62,Iowa,2018-19,Mahaska,3011,,99.3,,,
+63,Iowa,2018-19,Marion,6086,,96.9,,,
+64,Iowa,2018-19,Marshall,7159,,99.9,,,
+65,Iowa,2018-19,Mills,2476,,99.6,,,
+66,Iowa,2018-19,Mitchell,1603,,95.8,,,
+67,Iowa,2018-19,Monona,1212,,99.8,,,
+68,Iowa,2018-19,Monroe,1129,,96,,,
+69,Iowa,2018-19,Montgomery,1604,,99.9,,,
+70,Iowa,2018-19,Muscatine,7157,,99.6,,,
+71,Iowa,2018-19,O'Brien,2541,,100,,,
+72,Iowa,2018-19,Osceola,730,,99.6,,,
+73,Iowa,2018-19,Page,2609,,96.1,,,
+74,Iowa,2018-19,Palo Alto,1466,,100,,,
+75,Iowa,2018-19,Plymouth,4715,,99.6,,,
+76,Iowa,2018-19,Pocahontas,1254,,92.5,,,
+77,Iowa,2018-19,Polk,83077,,99.5,,,
+78,Iowa,2018-19,Pottawattamie,15840,,98.4,,,
+79,Iowa,2018-19,Poweshiek,2668,,98.4,,,
+80,Iowa,2018-19,Ringgold,710,,100,,,
+81,Iowa,2018-19,Sac,1533,,98.8,,,
+82,Iowa,2018-19,Scott,29829,,100,,,
+83,Iowa,2018-19,Shelby,2137,,98.8,,,
+84,Iowa,2018-19,Sioux,7374,,96.7,,,
+85,Iowa,2018-19,Story,11646,,98.9,,,
+86,Iowa,2018-19,Tama,2778,,100,,,
+87,Iowa,2018-19,Taylor,951,,100,,,
+88,Iowa,2018-19,Union,3347,,98.3,,,
+89,Iowa,2018-19,Van Buren,1009,,85.8,,,
+90,Iowa,2018-19,Wapello,6230,,93.7,,,
+91,Iowa,2018-19,Warren,9486,,99.5,,,
+92,Iowa,2018-19,Washington,4297,,97.8,,,
+93,Iowa,2018-19,Wayne,982,,99.8,,,
+94,Iowa,2018-19,Webster,5608,,98.9,,,
+95,Iowa,2018-19,Winnebago,2217,,99.9,,,
+96,Iowa,2018-19,Winneshiek,2823,,99.1,,,
+97,Iowa,2018-19,Woodbury,19952,,99.1,,,
+98,Iowa,2018-19,Worth,846,,98.6,,,
+99,Iowa,2018-19,Wright,2475,,100,,,
+1,Wyoming,2018-19,Albany,325,72,69,,,
+2,Wyoming,2018-19,Big Horn,173,83,76,,,
+3,Wyoming,2018-19,Campbell,715,76,69,,,
+4,Wyoming,2018-19,Carbon,182,73,67,,,
+5,Wyoming,2018-19,Converse,202,93,87,,,
+6,Wyoming,2018-19,Crook,99,82,77,,,
+7,Wyoming,2018-19,Fremont,588,84,78,,,
+8,Wyoming,2018-19,Goshen,121,78,73,,,
+9,Wyoming,2018-19,Hot Springs,50,78,78,,,
+10,Wyoming,2018-19,Johnson,99,94,88,,,
+11,Wyoming,2018-19,Laramie,1158,31,19,,,
+12,Wyoming,2018-19,Lincoln,261,70,65,,,
+13,Wyoming,2018-19,Natrona,1102,83,78,,,
+14,Wyoming,2018-19,Niobrara,53,68,63,,,
+15,Wyoming,2018-19,Park,294,77,70,,,
+16,Wyoming,2018-19,Platte,126,88,81,,,
+17,Wyoming,2018-19,Sheridan,388,88,84,,,
+18,Wyoming,2018-19,Sublette,132,77,69,,,
+19,Wyoming,2018-19,Sweetwater,616,80,75,,,
+20,Wyoming,2018-19,Teton,218,72,65,,,
+21,Wyoming,2018-19,Uinta,348,72,64,,,
+22,Wyoming,2018-19,Washakie,117,94,89,,,
+23,Wyoming,2018-19,Weston,78,92,76,,,
+1,New Jersey,2017-18,Atlantic,"3,268",,96.1,0.3,,1.7
+2,New Jersey,2017-18,Bergen,"10,728",,96.4,0.2,,2.4
+3,New Jersey,2017-18,Burlington,"4,899",,97.6,0.1,,1.8
+4,New Jersey,2017-18,Camden,"6,423",,95.4,0.1,,1.4
+5,New Jersey,2017-18,Cape May,935,,95.3,0.2,,2.6
+6,New Jersey,2017-18,Cumberland,"2,058",,98.2,0.1,,1.1
+7,New Jersey,2017-18,Essex,"11,109",,97.2,0.1,,1.3
+8,New Jersey,2017-18,Gloucester,"3,368",,98.1,0.1,,1.5
+9,New Jersey,2017-18,Hudson,"7,141",,97.3,0.1,,1
+10,New Jersey,2017-18,Hunterdon,"1,188",,94.5,0.1,,4.9
+11,New Jersey,2017-18,Mercer,"4,636",,96.5,0.1,,1.2
+12,New Jersey,2017-18,Middlesex,"10,110",,95.4,0.1,,1.4
+13,New Jersey,2017-18,Monmouth,"6,929",,93.9,0.3,,3.5
+14,New Jersey,2017-18,Morris,"5,499",,95.7,0.2,,3.3
+15,New Jersey,2017-18,Ocean,"8,301",,94,0.3,,3.9
+16,New Jersey,2017-18,Passaic,"6,818",,96.1,0.1,,1.6
+17,New Jersey,2017-18,Salem,637,,98.4,0.3,,0.9
+18,New Jersey,2017-18,Somerset,"3,908",,96.4,0.3,,1.8
+19,New Jersey,2017-18,Sussex,"1,387",,96.4,0.1,,2.6
+20,New Jersey,2017-18,Union,"7,242",,96.8,0.2,,1.3
+21,New Jersey,2017-18,Warren,"1,035",,95.3,0.1,,3.3

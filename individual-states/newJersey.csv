@@ -1,0 +1,2150 @@
+index,name,state,county,enroll,overall,xmed,xrel,xper,lat,lng
+1,A. Harry Moore,New Jersey,Hudson,13,100,,,,40.70949,-74.0852622
+2,A. Russell Knight Elementary,New Jersey,Union,63,100,,,,39.9003877,-75.0113284
+3,A.V. Ceres Elementary,New Jersey,Middlesex,139,100,,,,40.5144042,-74.2658612
+4,Aaron Decker,New Jersey,Morris,81,100,,,,41.0065565,-74.3566855
+5,Abington Avenue,New Jersey,Essex,87,100,,,,40.770294,-74.181645
+6,Abraham Lincoln - Wykoff,New Jersey,Bergen,41,100,,,,41.0150946,-74.1612587
+7,Abraham Lincoln 6 - Garfield,New Jersey,Bergen,71,100,,,,40.8677413,-74.1078917
+8,Academy at St. Mary,New Jersey,Bergen,9,100,,,,40.8295921,-74.1044611
+9,Academy of Our Lady of Grace,New Jersey,Bergen,43,100,,,,40.8160105,-73.9980776
+10,Academy Of Our Lady Of Mount Carmel,New Jersey,Bergen,25,100,,,,40.923662,-73.963833
+11,Academy of Saint Paul,New Jersey,Bergen,15,100,,,,41.0522657,-74.1513173
+12,Academy of Saint Therese,New Jersey,Bergen,7,100,,,,40.9426706,-73.969504
+13,Academy of the Most Blessed Sacrament,New Jersey,Bergen,9,100,,,,40.9947104,-74.210303
+14,Academy Street Elementary,New Jersey,Morris,83,100,,,,40.8786637,-74.5599003
+15,Albert E. Burling,New Jersey,Camden,17,100,,,,39.9371592,-75.081472
+16,Alexander Hamilton Academy,New Jersey,Passaic,55,100,,,,40.9163218,-74.1664075
+17,"Alfred E. Zampella, Elementary",New Jersey,Hudson,101,100,,,,40.753718,-74.0501031
+18,All Saints Academy,New Jersey,Morris,20,100,,,,40.866345,-74.3935025
+19,All Saints Episcopal Day,New Jersey,Hudson,18,100,,,,40.744964,-74.0280703
+20,All Saints Regional Catholic,New Jersey,Ocean,14,100,,,,39.699109,-74.278828
+21,Alpine Montessori of Millburn,New Jersey,Essex,8,100,,,,40.715782,-74.3077968
+22,Alpine Public,New Jersey,Bergen,16,100,,,,40.9579189,-73.9183464
+23,Althea Gibson Early Childhood Academy,New Jersey,Essex,78,100,,,,40.7669435,-74.2146527
+24,Amazing Grace Early Education Center,New Jersey,Salem,5,100,,,,39.7562348,-75.4134141
+25,Apple Montessori - Edison - Woodbridge Ave,New Jersey,Middlesex,42,100,,,,40.515445,-74.3590681
+26,Apple Montessori - Mahwah,New Jersey,Bergen,26,100,,,,41.0941913,-74.1516064
+27,Apple Montessoris - Edison - Route 27,New Jersey,Middlesex,6,100,,,,40.5153535,-74.4020647
+28,Apple Montessoris - Metuchen,New Jersey,Middlesex,21,100,,,,40.5414679,-74.3642228
+29,Apples and Books Learning Center,New Jersey,Somerset,7,100,,,,40.5642732,-74.6948355
+30,Apshawa Elementary,New Jersey,Passaic,30,100,,,,41.0195981,-74.3706225
+31,Aquinas Academy,New Jersey,Essex,24,100,,,,40.7815778,-74.3189962
+32,Arc of Essex County Stepping Stones,New Jersey,Essex,8,100,,,,40.8216607,-74.2901153
+33,Archbishop Damiano,New Jersey,Gloucester,6,100,,,,39.847871,-75.1241255
+34,Assumption,New Jersey,Morris,46,100,,,,40.7909168,-74.4804872
+35,Assumption Regional Catholic,New Jersey,Atlantic,37,100,,,,39.474288,-74.488852
+36,Ateres Tzipora,New Jersey,Ocean,12,100,,,,40.0779334,-74.1776667
+37,Atlantic Avenue,New Jersey,Camden,18,100,,,,39.8855133,-75.0610302
+38,Atlantic Community Charter,New Jersey,Atlantic,75,100,,,,39.481662,-74.4584416
+39,Atlantic County Elementary / Middle,New Jersey,Atlantic,11,100,,,,39.4377465,-74.6945051
+40,Aura Elementary,New Jersey,Gloucester,41,100,,,,39.673685,-75.1422534
+41,Avenel Street,New Jersey,Middlesex,54,100,,,,40.5781917,-74.2798771
+42,Avon Elementary,New Jersey,Monmouth,9,100,,,,40.190198,-74.0232572
+43,Bancroft Early Education Program,New Jersey,Camden,5,100,,,,39.9116291,-75.0122665
+44,Bayberry,New Jersey,Somerset,66,100,,,,40.6525222,-74.4236171
+45,Beach Haven Elementary,New Jersey,Ocean,11,100,,,,39.567459,-74.2356141
+46,Beacon Academy,New Jersey,Gloucester,6,100,,,,39.7347019,-75.0624836
+47,Beacon Christian Academy,New Jersey,Hudson,16,100,,,,40.6605908,-74.1161561
+48,Bedminster Township,New Jersey,Somerset,50,100,,,,40.6630327,-74.6751731
+49,Bell Park Elementary,New Jersey,Camden,74,100,,,,39.8703606,-75.0911336
+50,Belleville 10,New Jersey,Essex,23,100,,,,40.7932151,-74.1719632
+51,Belleville 4,New Jersey,Essex,43,100,,,,40.7818425,-74.1800183
+52,Belleville 9,New Jersey,Essex,18,100,,,,40.795535,-74.157431
+53,Bet Yaakov of the Jersey Shore,New Jersey,Monmouth,15,100,,,,40.2851712,-74.0186399
+54,Betsy Ross Elementary,New Jersey,Bergen,48,100,,,,41.092827,-74.1404537
+55,Billingsport Elementary,New Jersey,Gloucester,99,100,,,,39.842642,-75.2433591
+56,Bingham Elementary,New Jersey,Camden,46,100,,,,39.849705,-75.079113
+57,Birchwood,New Jersey,Morris,37,100,,,,40.8994694,-74.5390857
+58,Bishop Schad Regional,New Jersey,Cumberland,10,100,,,,39.486371,-75.015311
+59,Bloomsbury Elementary,New Jersey,Hunterdon,9,100,,,,40.6544525,-75.0865774
+60,Bnos Brocha,New Jersey,Ocean,42,100,,,,40.0567163,-74.1875088
+61,Bradley Beach Elementary,New Jersey,Monmouth,28,100,,,,40.202197,-74.015645
+62,Branch Brook Elementary,New Jersey,Essex,29,100,,,,40.7611166,-74.1762051
+63,Bret Harte Elementary,New Jersey,Camden,43,100,,,,39.8723805,-74.9772319
+64,BRICK Avon Academy,New Jersey,Essex,44,100,,,,40.7261425,-74.2000447
+65,Bright Beginnings Academy and Brighten Academy,New Jersey,Gloucester,9,100,,,,39.722479,-75.050984
+66,Bright Horizons at Mount Olive,New Jersey,Morris,6,100,,,,40.8824606,-74.6968187
+67,Bright Horizons at Spotswood,New Jersey,Middlesex,5,100,,,,40.3945949,-74.3869669
+68,Bright Horizons Family Solutions,New Jersey,Somerset,14,100,,,,40.5279131,-74.5189713
+69,Broad Street,New Jersey,Cumberland,102,100,,,,39.430765,-75.245378
+70,Brookside Place,New Jersey,Union,36,100,,,,40.6637318,-74.3165877
+71,Building Blocks Child Center,New Jersey,Bergen,6,100,,,,41.0102231,-74.1312815
+72,Building Blocks Learning Center,New Jersey,Camden,10,100,,,,39.5948869,-75.1267751
+73,Burch Charter of Excellence,New Jersey,Essex,60,100,,,,40.7298464,-74.2271486
+74,Califon Public,New Jersey,Hunterdon,5,100,,,,40.724734,-74.839383
+75,Calvary Christian Academy/Happy Day Learning Center,New Jersey,Passaic,9,100,,,,40.9285824,-74.2257322
+76,Calvary Nursery and Child Care,New Jersey,Union,18,100,,,,40.657039,-74.306775
+77,Camden Forward,New Jersey,Camden,12,100,,,,39.9483646,-75.0717462
+78,Camden's Pride Charter,New Jersey,Camden,90,100,,,,39.9575369,-75.0857651
+79,Campbell's Family Center,New Jersey,Camden,8,100,,,,39.9391024,-75.1082114
+80,Candyland Child Development Center - Woodbridge - King Georges Rd,New Jersey,Middlesex,11,100,,,,40.5320014,-74.3079904
+81,Candyland Child Learning Center - Woodbridge - Inman Ave,New Jersey,Middlesex,5,100,,,,40.5982024,-74.3363072
+82,Cape May City Elementary,New Jersey,Cape May,25,100,,,,38.9393348,-74.9185656
+83,Cape Trinity Catholic,New Jersey,Cape May,26,100,,,,38.9997075,-74.8029943
+84,Carla's Kids LLC,New Jersey,Passaic,6,100,,,,40.8744293,-74.1349468
+85,Carlstadt Public,New Jersey,Bergen,55,100,,,,40.8441842,-74.0942369
+86,Carteret Elementary,New Jersey,Essex,47,100,,,,40.7781641,-74.1904031
+87,Castle Academy/Kids Castle,New Jersey,Camden,7,100,,,,39.8667,-75.0513495
+88,Cedar Hill Prep,New Jersey,Somerset,24,100,,,,40.5193272,-74.5235919
+89,Center Grove,New Jersey,Morris,62,100,,,,40.844928,-74.570702
+90,Central Elementary,New Jersey,Somerset,57,100,1.8,1.8,,40.4367893,-74.3982553
+91,Centre City,New Jersey,Gloucester,115,100,,,,39.7725233,-75.1810862
+92,Chairville Elementary,New Jersey,Burlington,49,100,,,,39.8964131,-74.8059468
+93,Chancellor Avenue - Irvington,New Jersey,Essex,57,100,,,,40.7180099,-74.2436967
+94,Chancellor Avenue - Newark,New Jersey,Essex,40,100,,,,40.709897,-74.220926
+95,Chaplain Charles J. Waters PS24,New Jersey,Hudson,57,100,,,,40.7160623,-74.084006
+96,Charles A. Selzer,New Jersey,Bergen,39,100,,,,40.9497888,-74.00126
+97,Charles E. Trefurt/PS 8,New Jersey,Hudson,117,100,,,,40.7425138,-74.0488233
+98,Chatham Day,New Jersey,Morris,19,100,,,,40.7499118,-74.4353013
+99,Chatsworth Elementary,New Jersey,Burlington,10,100,,,,39.8160488,-74.5361102
+100,Cheesequake Elementary,New Jersey,Middlesex,47,100,,,,40.4269117,-74.2928861
+101,Cherry Hill Montessori Inc,New Jersey,Camden,16,100,,,,39.9079844,-74.9744145
+102,Chesterbrook Academy,New Jersey,Gloucester,9,100,,,,39.913437,-74.9206488
+103,Chesterfield Township Elementary,New Jersey,Burlington,90,100,,,,40.1375612,-74.6571452
+104,Child Development Center at Bristol-Myers Squibb,New Jersey,Middlesex,9,100,,,,40.4602295,-74.4592946
+105,Child Development Center atBMS,New Jersey,Mercer,13,100,,,,40.3465856,-74.7654167
+106,Children's Center Preschool,New Jersey,Warren,5,100,,,,40.983086,-74.95854
+107,Children's Corner BUMC,New Jersey,Somerset,16,100,,,,40.606192,-74.6436
+108,Children's Home Montessori,New Jersey,Bergen,10,100,,,,40.8317521,-73.9855015
+109,Children's House Montessori,New Jersey,Middlesex,6,100,,,,40.5019875,-74.4268337
+110,Children's House of the Windsors,New Jersey,Mercer,34,100,,,,40.2693143,-74.5904007
+111,Children's World Academy,New Jersey,Middlesex,21,100,,,,40.54514,-74.302067
+112,Christ the Teacher,New Jersey,Bergen,56,100,,,,40.8507942,-73.9751031
+113,Christopher Columbus 15,New Jersey,Union,79,100,,,,40.6526651,-74.2027078
+114,CJR 9,New Jersey,Passaic,89,100,,,,40.8954504,-74.1578876
+115,Clementon Elementary,New Jersey,Camden,57,100,,,,39.801708,-74.9917715
+116,Cleveland Street,New Jersey,Essex,45,100,,,,40.7820323,-74.2254985
+117,Clifton 15,New Jersey,Passaic,46,100,,,,40.8542007,-74.1453285
+118,Clifton 3,New Jersey,Passaic,46,100,,,,40.875364,-74.155912
+119,Clifton 4,New Jersey,Passaic,21,100,,,,40.8877143,-74.1574322
+120,Clifton 8,New Jersey,Passaic,32,100,,,,40.8290175,-74.1323412
+121,Clifton Number 9 Elementary,New Jersey,Passaic,58,100,,,,40.8461879,-74.1588843
+122,Clifton PS #17,New Jersey,Passaic,73,100,,,,40.8734971,-74.1320832
+123,Clinton Elementary,New Jersey,Essex,91,100,,,,40.7345108,-74.2554653
+124,Clockwise Childcare,New Jersey,Camden,7,100,,,,39.8661808,-74.9937872
+125,Collins Elementary,New Jersey,Essex,70,100,,,,40.7785084,-74.3133804
+126,Colonial Road,New Jersey,Bergen,31,100,,,,41.0136654,-74.2230947
+127,Columbus,New Jersey,Middlesex,102,100,,,,40.8826622,-74.0890213
+128,Columbus - Lyndhurst,New Jersey,Bergen,27,100,,,,40.8126897,-74.1132983
+129,Community Charter of Paterson,New Jersey,Passaic,101,100,,,,40.9116552,-74.1777169
+130,Community Kids Care,New Jersey,Atlantic,11,100,,,,39.397567,-74.64673
+131,Compassion House Outreach Ministry and CEC,New Jersey,Passaic,10,100,,,,40.9146214,-74.1765746
+132,Congregation B'nai Jeshurun Rabbi Barry Greene ECC,New Jersey,Essex,17,100,,,,40.7572274,-74.312537
+133,Congregation M'Kor Shalom Nursery,New Jersey,Camden,13,100,,,,39.8733746,-74.9315636
+134,Constable Elementary,New Jersey,Middlesex,67,100,,,,40.4119776,-74.5737904
+135,Countryside Elementary,New Jersey,Burlington,47,100,,,,39.9256182,-74.9734137
+136,County Road and The Valley Program,New Jersey,Bergen,50,100,,,,41.0056293,-74.2953277
+137,CPC Weekday Nursery Kindergarten,New Jersey,Union,25,100,,,,40.7147662,-74.3595466
+138,Cradles to Crayons Childcare and Learning Center,New Jersey,Morris,6,100,,,,40.7953448,-74.4780699
+139,Cream Family,New Jersey,Camden,33,100,,,,39.9203214,-75.1073961
+140,Creative Minds Montessori,New Jersey,Bergen,5,100,,,,41.0105689,-73.9917445
+141,Crest Memorial,New Jersey,Cape May,22,100,,,,38.9634549,-74.8501246
+142,Cresthaven Academy,New Jersey,Union,78,100,,,,40.60998,-74.423993
+143,Darul Arqam,New Jersey,Middlesex,7,100,,,,40.4513306,-74.3828536
+144,Dawn Treader Christian,New Jersey,Passaic,5,100,,,,40.9138027,-74.1792396
+145,Deal,New Jersey,Monmouth,21,100,,,,40.2475294,-74.0058662
+146,Deerfield,New Jersey,Union,64,100,,,,40.750676,-74.313101
+147,Deerfield Terrace 9,New Jersey,Union,54,100,,,,40.6324317,-74.2740515
+148,Deerfield Township,New Jersey,Cumberland,24,100,,,,39.462135,-75.1428632
+149,Delair Elementary,New Jersey,Camden,67,100,,,,39.9754158,-75.0544413
+150,Dewitt D Barlow Elementary,New Jersey,Union,139,100,,,,40.6304257,-74.4150058
+151,Diamond Hill Montessori,New Jersey,Union,7,100,,,,40.677121,-74.409834
+152,Dionne Warwick Institute,New Jersey,Essex,56,100,,,,40.7523143,-74.2068676
+153,Divine Mercy,New Jersey,Morris,16,100,,,,40.903645,-74.510463
+154,Dr. Charles P. DeFuccio #39,New Jersey,Hudson,30,100,,,,40.7300155,-74.0805941
+155,Dr. Hani Awadallah,New Jersey,Passaic,84,100,,,,40.8957324,-74.1671462
+156,Dr. Lena Edwards Academic Charter,New Jersey,Hudson,45,100,,,,40.7136489,-74.0726564
+157,"Dr. Paul Rafalides, PS33",New Jersey,Hudson,83,100,,,,40.7186798,-74.0837393
+158,Dr. William Mennies,New Jersey,Cumberland,105,100,,,,39.450382,-75.021634
+159,Dutch Neck Presbyterian Church Cooperative Nursery,New Jersey,Mercer,25,100,,,,40.28316,-74.613487
+160,E. Roy Bixby,New Jersey,Bergen,40,100,,,,40.8691173,-74.026889
+161,Early Childhood Center at Forest Glen,New Jersey,Essex,5,100,,,,40.8045438,-74.1820399
+162,East Brook Elementary,New Jersey,Bergen,40,100,,,,41.0263109,-74.0290024
+163,East Newark Public,New Jersey,Hudson,15,100,,,,40.7503942,-74.1582214
+164,East Orange Community Charter,New Jersey,Essex,104,100,,,,40.7736515,-74.2210936
+165,Eastampton Community,New Jersey,Burlington,52,100,,,,39.9989191,-74.7545756
+166,ECO Charter,New Jersey,Camden,25,100,,,,39.9453218,-75.1157232
+167,Edison Elementary,New Jersey,Camden,14,100,,,,39.9130547,-75.0452968
+168,Education Station Daycare,New Jersey,Essex,15,100,,,,40.7925618,-74.202668
+169,EJF Jr. Aldene,New Jersey,Union,38,100,,,,40.6634358,-74.2729247
+170,Eldridge Park,New Jersey,Mercer,55,100,,,,40.2625162,-74.7429779
+171,Elementary 1,New Jersey,Union,60,100,,,,40.6449612,-74.3966462
+172,Elementary Campus,New Jersey,Burlington,10,100,,,,39.904893,-74.849062
+173,Elements of Learning 2,New Jersey,Passaic,5,100,,,,41.019747,-74.515188
+174,Elias Boudinot Elementary,New Jersey,Burlington,34,100,,,,40.0786917,-74.8655532
+175,Ellison,New Jersey,Cumberland,11,100,,,,39.4695884,-74.9887028
+176,Elwood Kindle,New Jersey,Gloucester,22,100,,,,39.7269729,-75.1207489
+177,Employees' Center for Young Children,New Jersey,Union,7,100,,,,40.6107894,-74.2695949
+178,Englewood on the Palisades Charter,New Jersey,Bergen,36,100,,,,40.8995344,-73.9749906
+179,Erial Elementary,New Jersey,Camden,94,100,,,,39.770646,-75.009075
+180,Evangelical Gospel Tabernacle Child Care Center,New Jersey,Hudson,6,100,,,,40.6675803,-74.1168227
+181,Evergreen Avenue,New Jersey,Gloucester,48,100,,,,39.8382651,-75.1424857
+182,Evergreen Elementary,New Jersey,Union,91,100,,1.5,,40.6128056,-74.4108645
+183,Every Child Valued,New Jersey,Mercer,6,100,,,,40.265135,-74.753848
+184,Excel Learning Center - Evesham,New Jersey,Burlington,10,100,,,,39.8903695,-74.9156865
+185,Fairton Christian Center Academy,New Jersey,Cumberland,6,100,,,,39.38382,-75.20774
+186,Faith Christian,New Jersey,Mercer,24,100,,,,40.2030407,-74.6840497
+187,Featherbed Lane,New Jersey,Union,12,100,,,,40.6236756,-74.3223299
+188,First Avenue,New Jersey,Essex,111,100,,,,40.7672759,-74.1829785
+189,"First Friends, Inc.",New Jersey,Middlesex,10,100,,,,40.4262076,-74.2786168
+190,Florence M. Burd,New Jersey,Sussex,43,100,,,,41.039448,-74.704828
+191,Ford Avenue 14,New Jersey,Middlesex,25,100,,,,40.5358857,-74.317046
+192,Forest Avenue - Verona,New Jersey,Essex,40,100,,,,40.828023,-74.2554133
+193,Forest Avenue Elementary - Glen Ridge,New Jersey,Essex,71,100,,,,40.82033,-74.195229
+194,Forest Street Elementary,New Jersey,Essex,39,100,,,,40.7667679,-74.2489855
+195,Frances DeMasi Elementary,New Jersey,Burlington,27,100,,,,39.9043,-74.9087
+196,Frank Defino Central Elementary,New Jersey,Monmouth,56,100,,,,40.3402297,-74.2507684
+197,Franklin - Bergenfield,New Jersey,Bergen,41,100,,,,40.928275,-74.0031919
+198,Franklin Township Elementary,New Jersey,Warren,19,100,,,,40.7276968,-75.0492084
+199,Gan Yeladim Early Childhood Center,New Jersey,Monmouth,12,100,,,,40.3518952,-74.0364754
+200,Garden State Academy Preschool of the Arts,New Jersey,Atlantic,5,100,,,,39.4945468,-74.4684113
+201,Genius Kids Academy,New Jersey,Monmouth,8,100,,,,40.3502757,-74.2930185
+202,George Washington Carver - Newark,New Jersey,Essex,47,100,,,,40.7120731,-74.2157476
+203,George Washington Elementary - Mahwah,New Jersey,Bergen,43,100,,,,41.0412059,-74.1760156
+204,Gershom Mott Elementary,New Jersey,Mercer,62,100,,,,40.1996021,-74.7547062
+205,Gibbsboro Elementary,New Jersey,Camden,34,100,,,,39.8371529,-74.9678392
+206,Gill Saint Bernard's,New Jersey,Morris,13,100,,,,40.733323,-74.670241
+207,Gilmore Memorial Christian Academy,New Jersey,Passaic,5,100,,,,40.930493,-74.1738369
+208,Gloria M. Sabater Elementary,New Jersey,Cumberland,126,100,,,,39.4828724,-75.0247046
+209,Gloucester Township Elementary,New Jersey,Camden,28,100,,,,39.7974486,-75.0652874
+210,Good Shepherd Academy - Irvington,New Jersey,Essex,16,100,,,,40.7162632,-74.2466361
+211,Gordon Parks Academy,New Jersey,Essex,42,100,,,,40.759942,-74.2003177
+212,Gottesman RTW Academy,New Jersey,Morris,15,100,,,,40.853952,-74.596395
+213,Grant,New Jersey,Mercer,72,100,,,,40.2248703,-74.7539134
+214,Grant 7,New Jersey,Passaic,97,100,,,,40.8683769,-74.1352179
+215,Greater Brunswick Charter,New Jersey,Middlesex,44,100,,,,40.4799245,-74.4621937
+216,Greenwich Township Elementary,New Jersey,Gloucester,46,100,,,,39.8262308,-75.2847272
+217,Greenwich/Little Stingers,New Jersey,Warren,46,100,,,,40.6815006,-75.1244328
+218,Grove Street Elementary,New Jersey,Essex,59,100,,,,40.7366398,-74.2142533
+219,Growing and Knowing Academy,New Jersey,Sussex,10,100,,,,41.171696,-74.552159
+220,Guardian Angels Regional - Greenwich,New Jersey,Gloucester,18,100,,,,39.8220747,-75.2850358
+221,H. L. Beeler Elementary,New Jersey,Burlington,47,100,,,,39.8900185,-74.9006898
+222,H.B. Brunner Elementary,New Jersey,Union,73,100,,,,40.6503736,-74.3805741
+223,Hainesport Township,New Jersey,Burlington,46,100,,,,39.9867619,-74.8273161
+224,Happy Wake Up Daycare,New Jersey,Hudson,10,100,,,,40.7930207,-74.0061229
+225,Hardyston Elementary,New Jersey,Sussex,65,100,,,,41.1044971,-74.5786767
+226,Harker-Wylie,New Jersey,Burlington,103,100,,,,39.975399,-74.588372
+227,Harrison Elementary,New Jersey,Essex,64,100,,,,40.8042414,-74.3133775
+228,Harrison Preschool for the Disabled,New Jersey,Essex,7,100,,,,40.8497472,-74.2857415
+229,Harry L. Bain Elementary,New Jersey,Hudson,72,100,,,,40.7888366,-74.0085947
+230,HC Sharp Elementary,New Jersey,Camden,39,100,,,,39.9591814,-75.0851417
+231,Here We Grow Child Development Center,New Jersey,Union,8,100,,,,40.648509,-74.3420863
+232,Heywood Avenue,New Jersey,Essex,37,100,,,,40.7577216,-74.246361
+233,Hilldale Elementary,New Jersey,Morris,42,100,,,,40.8816514,-74.3522407
+234,Hillside Avenue,New Jersey,Union,33,100,,,,40.64579,-74.2948706
+235,Hillside Elementary,New Jersey,Essex,55,100,2.6,,,41.0314886,-74.1407632
+236,Hilltop Country Day,New Jersey,Sussex,6,100,,,,41.042256,-74.644741
+237,Ho-Ho-Kus,New Jersey,Bergen,68,100,,,,40.9999966,-74.1031747
+238,Hoboken Charter-Lower,New Jersey,Hudson,22,100,,,,40.7452356,-74.0281998
+239,Hola Hoboken Dual Language Charter,New Jersey,Hudson,48,100,,,,40.739285,-74.0378613
+240,Holland Township Elementary,New Jersey,Hunterdon,51,100,,,,40.5998281,-75.114892
+241,Holly Heights,New Jersey,Cumberland,88,100,,,,39.3853633,-74.9954009
+242,Holy Family,New Jersey,Morris,11,100,,,,40.778961,-74.3921781
+243,Holy Innocents,New Jersey,Monmouth,12,100,,,,40.210554,-74.079213
+244,Holy Name,New Jersey,Camden,12,100,,,,39.9521453,-75.1187141
+245,Holy Savior Academy,New Jersey,Middlesex,10,100,,,,40.5807387,-74.4088999
+246,Holy Trinity,New Jersey,Union,11,100,,,,40.6474941,-74.3507744
+247,Hoover Elementary,New Jersey,Bergen,43,100,,,,40.915152,-73.993958
+248,Hope Academy Charter,New Jersey,Monmouth,32,100,,,,40.2182476,-74.0081438
+249,Hope Community Charter,New Jersey,Camden,30,100,,,,39.9350642,-75.1222344
+250,Hovnanian,New Jersey,Bergen,16,100,,,,40.9276191,-74.0253508
+251,Hudson Montessori,New Jersey,Hudson,35,100,,,,40.7153871,-74.0466017
+252,I Can Kids Childcare and Learning Center,New Jersey,Middlesex,9,100,,,,40.5388752,-74.3698869
+253,ICOB Academy,New Jersey,Monmouth,8,100,,,,40.45062,-74.238629
+254,Immaculate Heart of Mary,New Jersey,Passaic,24,100,,,,40.9483303,-74.2526303
+255,Inclusive Montessori,New Jersey,Mercer,10,100,,,,,
+256,Indian Avenue,New Jersey,Cumberland,70,100,,,,39.441377,-75.217962
+257,Indiana Avenue 18,New Jersey,Middlesex,98,100,,,,40.5697497,-74.3144403
+258,International Academy of Arts and Sciences,New Jersey,Bergen,9,100,,,,40.9737126,-73.9663467
+259,International Academy of Trenton,New Jersey,Mercer,110,100,,,,40.2052167,-74.750118
+260,Intervale Elementary,New Jersey,Morris,46,100,,,,40.8819798,-74.4231054
+261,IPrep Academy (School #8),New Jersey,Union,43,100,,,,40.6527813,-74.1868932
+262,Irene E. Feldkirchner Elementary,New Jersey,Somerset,60,100,,,,40.6008387,-74.4777346
+263,Ironbound Catholic Academy,New Jersey,Essex,25,100,,,,40.7230139,-74.1589776
+264,Islamic Academy of Burlington,New Jersey,Burlington,14,100,,,,40.0475904,-74.8622718
+265,Islamic Academy of South Jersey,New Jersey,Atlantic,7,100,,,,39.425122,-74.6139522
+266,Islamic of Trenton,New Jersey,Mercer,6,100,,,,40.2287437,-74.7584973
+267,J. Spencer Smith Elementary,New Jersey,Bergen,48,100,,,,40.9114562,-73.9579837
+268,Jackson Avenue Elementary,New Jersey,Bergen,74,100,,,,40.8653815,-74.0408487
+269,James A. Garfield,New Jersey,Camden,31,100,,,,39.9181336,-75.0758472
+270,Jefferson,New Jersey,Essex,30,100,,,,40.8170755,-74.1212432
+271,Jefferson - Bergenfield,New Jersey,Bergen,37,100,,,,40.932255,-73.986948
+272,Jefferson Elementary,New Jersey,Morris,79,100,,1.4,,40.932255,-73.986948
+273,Jefferson Elementary - Plainfield,New Jersey,Union,62,100,,,,40.5979812,-74.4551273
+274,Jefferson Number 1,New Jersey,Passaic,98,100,,,,40.8534768,-74.138706
+275,Jersey City P.S. 34,New Jersey,Hudson,51,100,,,,40.702213,-74.0909653
+276,John E. Riley Elementary,New Jersey,Middlesex,53,100,,,,40.5944397,-74.404596
+277,John F. Kennedy,New Jersey,Somerset,73,100,,,,40.5689919,-74.6484923
+278,John Fenwick Academy,New Jersey,Salem,75,100,,,,39.566321,-75.469614
+279,John Kenney Child Care Center/Heller Park,New Jersey,Middlesex,19,100,,,,40.4968727,-74.369703
+280,John M. Bailey Community,New Jersey,Hudson,56,100,,,,40.657285,-74.1290452
+281,John Paul II Regional,New Jersey,Camden,31,100,,,,39.829703,-75.0169384
+282,Jonan Academy,New Jersey,Morris,6,100,,,,40.6783183,-74.4980117
+283,Joseph D. Sharp Elementary,New Jersey,Camden,40,100,,,,39.8888669,-74.9521581
+284,Joseph F. Cappello,New Jersey,Mercer,22,100,,,,40.2528864,-74.6577215
+285,Jump Immersion,New Jersey,Union,17,100,,,,40.628841,-74.380853
+286,Just Children Bishops Gate,New Jersey,Burlington,17,100,,,,39.9651509,-74.9040789
+287,Just Children Child Care Center - Medford,New Jersey,Burlington,9,100,,,,39.9113694,-74.8254449
+288,Kangaroo Kids Child Care and Learning Center,New Jersey,Somerset,14,100,,,,40.6021564,-74.6771658
+289,Kathy Dunn Cultural Center,New Jersey,Bergen,7,100,,,,40.8635119,-74.0772165
+290,Kearny Christian Academy,New Jersey,Hudson,11,100,,,,40.758273,-74.156448
+291,Keith Wold Johnson Childcare Center,New Jersey,Middlesex,10,100,,,,40.5762694,-74.3737728
+292,Kellman Brown Academy,New Jersey,Camden,13,100,,,,39.8429271,-74.9772974
+293,Kiddie Academy,New Jersey,Essex,9,100,,,,40.863896,-74.283508
+294,Kiddie Academy of Freehold,New Jersey,Monmouth,13,100,,,,40.2467367,-74.2989144
+295,Kiddie Academy of Upper Freehold,New Jersey,Monmouth,12,100,,,,40.179832,-74.508946
+296,Kids Count,New Jersey,Middlesex,6,100,,,,40.3891535,-74.3582433
+297,"Kids Kottage Learning Center, Inc",New Jersey,Mercer,17,100,,,,40.2663177,-74.488881
+298,Kidsports Family Fun and Fitness Center,New Jersey,Middlesex,20,100,,,,40.543968,-74.3016637
+299,Kinder Kastle,New Jersey,Somerset,26,100,,,,40.4374091,-74.5369135
+300,Kinder Kastle Childcare/Learning Center - Metuchen,New Jersey,Middlesex,23,100,,,,40.5388533,-74.3698441
+301,KinderCare,New Jersey,Passaic,5,100,,,,40.9628637,-74.2280566
+302,KinderCare - South Brunswick,New Jersey,Middlesex,15,100,,,,40.3848727,-74.5685262
+303,KinderCare Learning Center - Cherry Hill - Springdale Rd,New Jersey,Camden,10,100,,,,39.9042838,-74.9660783
+304,Kings Road,New Jersey,Morris,39,100,,,,40.7491334,-74.4042024
+305,Kingsway Learning Center,New Jersey,Camden,10,100,,,,39.846548,-74.9816653
+306,KIPP Seek Academy,New Jersey,Essex,113,100,,,,40.7123763,-74.2162116
+307,Knollwood Elementary,New Jersey,Morris,122,100,,,,40.5383763,-74.4873951
+308,Knowledge Beginnings,New Jersey,Middlesex,11,100,,,,40.352109,-74.5948912
+309,Lafayette Township,New Jersey,Sussex,20,100,,,,41.1317383,-74.6544071
+310,Lake Hiawatha,New Jersey,Morris,48,100,,,,40.8755391,-74.3853302
+311,Lake Nelson Early Learning Center,New Jersey,Middlesex,18,100,,,,40.5412356,-74.4558578
+312,Lakehurst Elementary,New Jersey,Ocean,39,100,,,,40.0124209,-74.3172781
+313,Lambertville Public,New Jersey,Hunterdon,21,100,,,,40.373598,-74.944541
+314,Larchmont,New Jersey,Burlington,78,100,,,,39.9659218,-74.8766306
+315,Laurel Springs,New Jersey,Camden,15,100,,,,39.8228332,-75.0038661
+316,Lawrenceville Elementary,New Jersey,Mercer,72,100,,,,40.2986666,-74.7333132
+317,LEAP Academy University Charter,New Jersey,Camden,119,100,,,,39.9465815,-75.1174581
+318,Learn and Play Academy,New Jersey,Sussex,7,100,,,,41.1794656,-74.4554223
+319,Lebanon Borough,New Jersey,Hunterdon,18,100,,,,40.640793,-74.835796
+320,Leonardo Elementary,New Jersey,Monmouth,41,100,,,,40.4115119,-74.0589554
+321,Lester C.Noecker Elementary,New Jersey,Essex,55,100,,,,40.8232509,-74.3121879
+322,Life Center Academy,New Jersey,Burlington,11,100,,,,40.0827189,-74.791443
+323,Lillian M. Steen Elementary,New Jersey,Bergen,32,100,,,,40.8782883,-74.032541
+324,Lincoln,New Jersey,Passaic,43,100,,,,40.9515114,-74.1495947
+325,Lincoln - Dumont,New Jersey,Bergen,28,100,,,,40.9414472,-74.0036789
+326,Lincoln Elementary - New Brunswick,New Jersey,Middlesex,144,100,,,,40.5004328,-74.4536951
+327,Linden 5,New Jersey,Union,51,100,,,,40.6286865,-74.2712142
+328,Linden 6,New Jersey,Union,57,100,,,,40.6132261,-74.2383089
+329,Linden Number 4 Elementary,New Jersey,Union,68,100,,,,40.6474445,-74.2395752
+330,Linden Number 8 Elementary,New Jersey,Union,46,100,,,,40.6281976,-74.2580979
+331,Little Footsteps at Wayne PAL,New Jersey,Passaic,5,100,,,,40.9115293,-74.2576361
+332,Little Friends of Jesus Nursery,New Jersey,Somerset,13,100,,,,40.605024,-74.565611
+333,Little Lights Daycare,New Jersey,Camden,12,100,,,,39.774607,-75.0039297
+334,Little PAL's Preschool,New Jersey,Monmouth,5,100,,,,40.2477865,-74.0053965
+335,Little Treasures Learning Center,New Jersey,Middlesex,46,100,,,,40.5767886,-74.3857106
+336,Little Village Country Day,New Jersey,Morris,13,100,,,,40.8278895,-74.5651165
+337,Longfellow Elementary,New Jersey,Camden,43,100,,,,39.9648825,-75.0641324
+338,Looking Glass Children's Center,New Jersey,Essex,8,100,,,,40.8371826,-74.1877214
+339,Lord Stirling Community,New Jersey,Middlesex,99,100,,,,40.4877205,-74.4409943
+340,Lovell J. Honiss,New Jersey,Bergen,39,100,,,,40.9379183,-73.9869514
+341,Lowell,New Jersey,Bergen,18,100,,,,40.8962274,-74.0220614
+342,Lower Alloways Creek Township,New Jersey,Salem,11,100,,,,39.464053,-75.411149
+343,Luis Munoz Marin Elementary,New Jersey,Essex,59,100,,,,40.772424,-74.160445
+344,Lyncrest Elementary,New Jersey,Bergen,39,100,,,,40.9272629,-74.1264587
+345,Lynn Crest Elementary 22,New Jersey,Middlesex,51,100,,,,40.5890038,-74.3312184
+346,M. Scott Carpenter,New Jersey,Middlesex,44,100,,,,40.3986033,-74.3369814
+347,Madison Avenue Baptist Academy,New Jersey,Passaic,13,100,,,,40.9103295,-74.1565342
+348,Magic Kingdom Day Nursery,New Jersey,Morris,8,100,,,,40.757893,-74.384265
+349,Malcolm S. Mackay,New Jersey,Bergen,59,100,,,,40.9290294,-73.9719843
+350,Manasquan Elementary,New Jersey,Monmouth,34,100,,,,40.1275562,-74.0477105
+351,Manito Elementary,New Jersey,Bergen,37,100,,,,41.036009,-74.213376
+352,Mannington Township,New Jersey,Salem,9,100,,,,39.6080921,-75.4111644
+353,Maple Road,New Jersey,Passaic,39,100,,,,41.0635733,-74.3894443
+354,Maria L. Varisco Rogers Charter,New Jersey,Essex,60,100,,,,40.7746431,-74.1647158
+355,Marie D. Durand Elementary,New Jersey,Cumberland,66,100,,,,39.5257752,-75.0291199
+356,Marie V. Duffy Elementary,New Jersey,Morris,66,100,,,,40.8951952,-74.5758963
+357,Marion P. Thomas Elementary,New Jersey,Essex,64,100,,,,40.7357952,-74.1990946
+358,Mark Newbie Elementary,New Jersey,Camden,22,100,,,,39.920751,-75.080465
+359,Marlboro Elementary,New Jersey,Monmouth,48,100,,,,40.3233175,-74.2644245
+360,Martin Luther King Education Complex,New Jersey,Passaic,85,100,,,,40.9077669,-74.1485748
+361,Martin Luther King Jr. 6,New Jersey,Passaic,138,100,,,,40.8643923,-74.1247614
+362,Mary Bray Elementary,New Jersey,Camden,44,100,,,,39.8813042,-75.0907144
+363,Maurice Hawk,New Jersey,Mercer,146,100,,,,40.3066707,-74.6264762
+364,Maurice River Township Elementary,New Jersey,Cumberland,27,100,,,,39.3079836,-74.9801904
+365,Mawbey Street 1,New Jersey,Middlesex,62,100,,,,40.5604549,-74.288789
+366,Max Leuchter,New Jersey,Cumberland,53,100,,,,39.4942835,-75.0343813
+367,McGalliard Elementary,New Jersey,Mercer,45,100,,,,40.1973896,-74.7084667
+368,McKinley,New Jersey,Hudson,40,100,,,,40.7759092,-74.038761
+369,McKinley Community,New Jersey,Middlesex,73,100,,,,40.4828195,-74.4714957
+370,Meadow Flower Nursery,New Jersey,Monmouth,17,100,,,,40.3554942,-74.0347164
+371,Memorial Elementary - Old Bridge,New Jersey,Middlesex,76,100,,,,40.4452255,-74.2482265
+372,Mendham Township Elementary,New Jersey,Morris,51,100,,,,40.792419,-74.5705894
+373,Meoros Bais Yaakov,New Jersey,Ocean,30,100,,,,40.080202,-74.235088
+374,Mercerville Elementary,New Jersey,Mercer,44,100,,,,40.2372922,-74.6894426
+375,Mesivta of Clifton,New Jersey,Passaic,13,100,,,,40.8341748,-74.13553
+376,Metuchen Christian Academy,New Jersey,Middlesex,32,100,,,,40.5300131,-74.3685737
+377,Mildred Barry Garvin,New Jersey,Essex,41,100,,,,40.7598496,-74.201332
+378,Milford Brook,New Jersey,Monmouth,79,100,,,,40.3068282,-74.3492366
+379,Millville Public Charter,New Jersey,Cumberland,41,100,,,,39.4076894,-75.0317078
+380,Milton H. Allen Elementary,New Jersey,Burlington,48,100,,,,39.8979038,-74.8273407
+381,Monmouth Junction Elementary,New Jersey,Middlesex,54,100,,,,40.3789856,-74.5491804
+382,Montclair Kimberley Academy - Primary,New Jersey,Essex,42,100,,,,40.8266949,-74.2166991
+383,Montessori Academy and Learning Center,New Jersey,Middlesex,7,100,,,,40.3810504,-74.5184726
+384,Montessori Corner at Princeton Meadows,New Jersey,Middlesex,15,100,,,,40.3274691,-74.5746643
+385,Montessori Learning Center - Ridgewood,New Jersey,Bergen,7,100,,,,40.9803449,-74.1144637
+386,Montessori Learning House,New Jersey,Middlesex,11,100,,,,40.3781387,-74.4561561
+387,Montessori of Delran,New Jersey,Burlington,5,100,,,,40.0027512,-74.9468836
+388,Moorestown Friends,New Jersey,Burlington,27,100,,,,39.9643486,-74.9420223
+389,Morris Avenue Early Childhood Learning Center,New Jersey,Monmouth,114,100,,,,40.2976564,-73.987516
+390,Morris Goodwin,New Jersey,Cumberland,19,100,,,,39.4005439,-75.345832
+391,Mother Seton Interparochial,New Jersey,Hudson,24,100,,,,40.7615178,-74.0351341
+392,Mount Vernon Avenue,New Jersey,Essex,83,100,,,,40.7173599,-74.2336344
+393,Mozarts and Einsteins - Jamesburg Campus,New Jersey,Middlesex,8,100,,,,40.3489444,-74.4388691
+394,Mud Pies Learning Center of Totowa,New Jersey,Passaic,5,100,,,,40.911292,-74.226599
+395,Mullica Township Primary,New Jersey,Atlantic,53,100,,,,39.5798392,-74.712383
+396,N.E.W. Christian Academy,New Jersey,Bergen,12,100,,,,40.8920761,-74.0425548
+397,Nathan Hale Elementary,New Jersey,Middlesex,76,100,,,,40.5848871,-74.2224264
+398,Nellie K. Parker,New Jersey,Bergen,91,100,,,,40.8934675,-74.0585005
+399,Neve Shalom Nursery,New Jersey,Middlesex,10,100,,,,40.547926,-74.353433
+400,New Bairn,New Jersey,Passaic,7,100,,,,40.8648318,-74.1541293
+401,New Beginnings Preschool,New Jersey,Middlesex,11,100,,,,40.942767,-74.0373803
+402,New Horizons Montessori of Princeton Junction,New Jersey,Mercer,8,100,,,,40.318111,-74.6152763
+403,New Horizons Preschool,New Jersey,Camden,8,100,,,,39.8637717,-74.9608335
+404,Nicholas Oresko,New Jersey,Hudson,25,100,,,,40.6640261,-74.1154821
+405,Nicholas S. LaCorte Peterstown 3,New Jersey,Union,92,100,,,,40.6574738,-74.2044505
+406,Nicolas Copernicus PS 25,New Jersey,Hudson,113,100,,,,40.7483367,-74.0563695
+407,Nixon Elementary,New Jersey,Morris,57,100,,,,40.9166797,-74.6529271
+408,Noah's Ark Day,New Jersey,Ocean,7,100,,,,39.790877,-74.200132
+409,Norman S. Weir,New Jersey,Passaic,21,100,,,,40.9178871,-74.1697147
+410,North Cliff,New Jersey,Bergen,49,100,,,,40.8938366,-73.9473251
+411,North Jersey Elks Development Disabilities Agency,New Jersey,Passaic,5,100,,,,40.8842399,-74.1494212
+412,North Main Street,New Jersey,Atlantic,60,100,,,,39.3965579,-74.5187776
+413,North Star Academy - Fairmount Elementary,New Jersey,Essex,91,100,,,,40.7477724,-74.195721
+414,North Star Academy - Liberty Elementary,New Jersey,Essex,90,100,,,,40.7477724,-74.195721
+415,North Star Academy - Valisburg Elementary,New Jersey,Essex,90,100,,,,40.7477724,-74.195721
+416,North Star Academy - West Side Elementary,New Jersey,Essex,89,100,,,,40.7328742,-74.2097732
+417,Northvail Elementary,New Jersey,Morris,50,100,,,,40.8718104,-74.3994357
+418,Northvale Public,New Jersey,Bergen,56,100,,,,41.0132349,-73.9529709
+419,Notre Dame Interparochial Academy,New Jersey,Bergen,45,100,,,,40.8481211,-73.9960732
+420,Nursery Rhymes Preschool and Kindergarten,New Jersey,Bergen,7,100,,,,40.89593,-74.084888
+421,Oak Knoll of the Holy Child,New Jersey,Union,19,100,,,,40.711023,-74.366855
+422,Oak Tree Elementary,New Jersey,Middlesex,117,100,,,,40.2950271,-74.4741639
+423,Ocean Academy,New Jersey,Ocean,12,100,,,,39.1013555,-74.7990151
+424,Ocean Gate,New Jersey,Ocean,21,100,,,,39.92385,-74.1433882
+425,Ogdensburg Public,New Jersey,Sussex,22,100,,,,41.078532,-74.594352
+426,Oldmans Township,New Jersey,Salem,31,100,,,,39.7548232,-75.4038121
+427,Oliver Street,New Jersey,Essex,112,100,,,,40.726049,-74.1696629
+428,"Ollie E. Culbreth, Jr. Elementary / 14",New Jersey,Hudson,54,100,,,,40.7143714,-74.0770457
+429,Oriental Genius Academy,New Jersey,Union,5,100,,,,40.7090921,-74.3042587
+430,Our Lady of Czestochowa,New Jersey,Hudson,62,100,,,,40.7148472,-74.0388867
+431,Our Lady of Good Counsel,New Jersey,Burlington,41,100,,,,39.9620674,-74.9484388
+432,Our Lady of Hope Regional,New Jersey,Camden,31,100,,,,39.7942623,-75.0639437
+433,Our Lady of Mercy Academy,New Jersey,Morris,30,100,,,,41.0317494,-74.0463004
+434,Our Lady of Mount Carmel,New Jersey,Morris,11,100,,28.6,,40.2229084,-74.0182912
+435,Our Lady of Mt. Carmel,New Jersey,Monmouth,18,100,,,,40.2222892,-74.02096
+436,Our Lady of Perpetual Help,New Jersey,Burlington,26,100,,,,39.95554,-74.9974736
+437,Our Lady of Perpetual Help Day,New Jersey,Essex,22,100,,,,40.7564469,-74.168642
+438,Our Lady of Sorrows,New Jersey,Mercer,18,100,,,,40.237588,-74.692093
+439,Our Lady Of Victories,New Jersey,Middlesex,13,100,,,,40.4583727,-74.3601075
+440,Our Lady Queen of Peace Early Learning Academy,New Jersey,Passaic,6,100,,,,41.155648,-74.356009
+441,Our Lady Star of the Sea Regional,New Jersey,Atlantic,10,100,,,,39.3565092,-74.4447536
+442,Our Redeemer Lutheran,New Jersey,Middlesex,17,100,,,,40.5303494,-74.3159682
+443,PALS Play and Learn,New Jersey,Somerset,7,100,,,,40.497606,-74.6197921
+444,Park Elementary,New Jersey,Essex,95,100,,,,40.7837252,-74.1709534
+445,Passaic Public 5,New Jersey,Passaic,70,100,,,,40.8674748,-74.1207296
+446,Paterson 16,New Jersey,Passaic,67,100,,,,40.9046219,-74.1572686
+447,Paterson P.S. 13,New Jersey,Passaic,62,100,,,,40.9164522,-74.1523139
+448,Paterson P.S. 14,New Jersey,Passaic,39,100,,,,40.9235555,-74.1810806
+449,Paterson P.S. 20,New Jersey,Passaic,41,100,,,,40.9063364,-74.1411018
+450,Paterson P.S. 28,New Jersey,Passaic,88,100,,,,40.9230805,-74.1726082
+451,Paterson P.S. 5,New Jersey,Passaic,108,100,,,,40.9193518,-74.1828636
+452,Paterson PS 25,New Jersey,Passaic,57,100,,,,40.897153,-74.1445762
+453,Paterson PS 26,New Jersey,Passaic,53,100,,,,40.921776,-74.1420915
+454,Paterson PS 27,New Jersey,Passaic,88,100,,,,40.9204102,-74.1995389
+455,Paterson Public 12,New Jersey,Passaic,43,100,,,,40.9184697,-74.1688204
+456,Paterson Public 24,New Jersey,Passaic,75,100,,,,40.9093558,-74.1536405
+457,Paterson Public 8,New Jersey,Passaic,47,100,,,,40.913417,-74.1704027
+458,Pennington Montessori,New Jersey,Mercer,8,100,,,,40.3361268,-74.7994202
+459,Pennsylvania Avenue,New Jersey,Atlantic,77,100,,,,39.3674165,-74.4258157
+460,Peppermint Tree,New Jersey,Middlesex,7,100,,,,40.5115634,-74.3468229
+461,Perth Amboy Catholic Primary Campus,New Jersey,Middlesex,15,100,,,,40.524943,-74.287666
+462,Peter Muschal Elementary,New Jersey,Burlington,136,100,,,,40.1517325,-74.6850521
+463,Petits Enfants,New Jersey,Middlesex,15,100,,,,40.5464519,-74.359724
+464,Phoenix Academy Day Care Center,New Jersey,Union,14,100,,,,40.6330569,-74.396424
+465,"Piece of Heaven Preschool, LLC",New Jersey,Union,14,100,,,,40.6973464,-74.2330393
+466,Pine Acres Early Childhood Center,New Jersey,Gloucester,78,100,,,,39.7965951,-75.1624393
+467,Pingry Lower,New Jersey,Essex,32,100,,,,40.743253,-74.334553
+468,Pioneer Academy,New Jersey,Passaic,13,100,,,,40.9135579,-74.2334349
+469,Plainfield Area YMCA at Queen City Academy,New Jersey,Union,36,100,,,,40.6038182,-74.4293883
+470,Pohatcong,New Jersey,Warren,32,100,,,,40.654858,-75.153032
+471,Politz Day,New Jersey,Camden,17,100,,,,39.932806,-75.012962
+472,Pope John Paul II Regional,New Jersey,Burlington,10,100,,,,40.0426,-74.9004999
+473,Precious Gems Montessori,New Jersey,Middlesex,9,100,,,,40.5435188,-74.3714094
+474,Presbyterian Nursery and Kindergarten,New Jersey,Union,46,100,,,,40.6531901,-74.3473609
+475,Preschool Playhouse,New Jersey,Hudson,8,100,,,,40.6690648,-74.1180701
+476,Primary Prep,New Jersey,Hudson,34,100,,,,40.7267007,-74.0663172
+477,Primoris Academy,New Jersey,Bergen,10,100,,,,40.9926179,-74.0365862
+478,Primrose at Mountainside,New Jersey,Union,20,100,,,,40.6799993,-74.3324085
+479,Primrose of Berkeley Heights,New Jersey,Union,16,100,,,,40.6891053,-74.4330946
+480,Princeton Academy of the Sacred Heart,New Jersey,Mercer,12,100,,,,40.375788,-74.700101
+481,Princeton Charter,New Jersey,Mercer,40,100,,,,40.3695213,-74.6570446
+482,Princeton Child Development Institute,New Jersey,Mercer,5,100,,,,40.331421,-74.728972
+483,Princeton Day,New Jersey,Mercer,31,100,,,,40.3618973,-74.6905843
+484,Princeton Friends,New Jersey,Mercer,6,100,,,,40.3269875,-74.6781104
+485,Princeton Meadow Preschool,New Jersey,Mercer,6,100,,,,40.3015908,-74.6514792
+486,Princeton Montessori,New Jersey,Somerset,23,100,,,,40.3827083,-74.6955457
+487,Puddle Jumpers Academy,New Jersey,Burlington,8,100,,,,39.9509042,-74.9512184
+488,Pulaski 8,New Jersey,Passaic,57,100,,,,40.8653028,-74.1147326
+489,Quality Time Child Care,New Jersey,Morris,19,100,,,,41.0263499,-74.5135372
+490,Quarter Mile Lane,New Jersey,Cumberland,65,100,,,,39.4200864,-75.2494816
+491,Quinton Township,New Jersey,Salem,25,100,,,,39.5436913,-75.4122353
+492,Quitman Street,New Jersey,Essex,47,100,,,,40.7301415,-74.1836319
+493,Radcliffe Elementary,New Jersey,Essex,51,100,,,,40.8212541,-74.1672396
+494,Rafael Hernandez Elementary,New Jersey,Essex,41,100,,,,40.762116,-74.16674
+495,Rainbow Montessori,New Jersey,Passaic,12,100,,,,40.8793757,-74.1262529
+496,Rainbow Montessori and Academy,New Jersey,Essex,5,100,,,,40.834832,-74.1808494
+497,"Ready, Set, Grow Preschool",New Jersey,Passaic,11,100,,,,40.9534282,-74.2327434
+498,Red Bank Elementary,New Jersey,Gloucester,43,100,,,,39.8677244,-75.1659389
+499,Red Bank Primary,New Jersey,Monmouth,134,100,,,,40.3424167,-74.0824777
+500,Richard E. Byrd Elementary,New Jersey,Bergen,38,100,,,,40.9618112,-74.1365522
+501,Richmond Avenue Elementary,New Jersey,Atlantic,76,100,,,,39.3498357,-74.4604395
+502,Rieck Avenue,New Jersey,Cumberland,82,100,,,,39.3890792,-75.0738751
+503,Right Start Learning Center,New Jersey,Bergen,9,100,,,,40.9011095,-74.0067615
+504,Riverton Public,New Jersey,Burlington,26,100,,,,40.0114677,-75.0128761
+505,Robert B. Jaggard,New Jersey,Burlington,55,100,,,,39.8778515,-74.9048919
+506,Robert L. Craig,New Jersey,Bergen,29,100,,,,40.8447718,-74.0481451
+507,Robert Mascenik,New Jersey,Middlesex,38,100,,,,40.5747003,-74.3148627
+508,Robert Treat Academy Charter - Adubato Campus,New Jersey,Essex,54,100,,,,40.7656602,-74.1720609
+509,Robinson Elementary,New Jersey,Mercer,66,100,,,,40.1960245,-74.6942903
+510,Rockaway Meadow Elementary,New Jersey,Morris,32,100,,,,40.8670209,-74.3691024
+511,"Ronald Reagan Academy, 30",New Jersey,Union,80,100,,,,40.681013,-74.2079357
+512,Roosevelt - Lodi,New Jersey,Bergen,37,100,,,,40.8731516,-74.0907721
+513,Roosevelt 10,New Jersey,Passaic,118,100,,,,40.8707613,-74.1223248
+514,Roosevelt Elementary,New Jersey,Union,26,100,,8,,40.7955105,-74.1217195
+515,Roosevelt Public,New Jersey,Monmouth,9,100,,,,40.2189481,-74.4752213
+516,Roseland Child Development Center,New Jersey,Essex,11,100,,,,40.816527,-74.3061295
+517,Rutgers Preparatory,New Jersey,Somerset,13,100,,,,40.5254799,-74.4950559
+518,Ryerson Elementary,New Jersey,Passaic,37,100,,,,40.9291345,-74.270676
+519,Sacred Heart,New Jersey,Hudson,8,100,,3.8,,40.706945,-74.0833039
+520,Sacred Heart,New Jersey,Hudson,12,100,,3.8,,40.706945,-74.0833039
+521,Sacred Heart,New Jersey,Hudson,21,100,,3.8,,40.706945,-74.0833039
+522,Saddle River Day,New Jersey,Bergen,6,100,,,,41.030314,-74.086102
+523,Saint Aloysius Elementary Academy,New Jersey,Hudson,25,100,,,,40.7249839,-74.0783533
+524,Saint Ambrose,New Jersey,Middlesex,15,100,,,,40.3957043,-74.3154501
+525,Saint Andrew's Nursery and Kindergaten,New Jersey,Union,17,100,,,,40.6930342,-74.4003541
+526,Saint Ann's,New Jersey,Mercer,26,100,,,,40.265901,-74.7440655
+527,Saint Anthony of Padua,New Jersey,Camden,14,100,,,,39.9571685,-75.0912026
+528,Saint Anthony's,New Jersey,Passaic,20,100,,,,40.948742,-74.151797
+529,Saint Augustine,New Jersey,Hudson,20,100,,,,40.7756329,-74.0246923
+530,Saint Bartholomew Academy,New Jersey,Union,17,100,,,,40.6522949,-74.3912832
+531,Saint Brendan,New Jersey,Passaic,22,100,,,,40.8917652,-74.1383811
+532,Saint Catherine of Siena,New Jersey,Essex,23,100,,,,40.845436,-74.226229
+533,Saint Cecilias Catholic,New Jersey,Camden,27,100,,,,39.9574809,-75.0651409
+534,Saint Charles Borromeo,New Jersey,Burlington,22,100,,,,39.9886287,-74.9910416
+535,Saint Elizabeth,New Jersey,Bergen,17,100,,,,41.015062,-74.170619
+536,Saint Francis Academy,New Jersey,Hudson,28,100,,,,40.7639017,-74.0386075
+537,Saint Gerard Majella,New Jersey,Passaic,15,100,,,,40.9269786,-74.1889962
+538,Saint Gregory the Great Academy,New Jersey,Mercer,37,100,,,,40.2232767,-74.6385174
+539,Saint Helena's,New Jersey,Middlesex,27,100,,,,40.585376,-74.3594172
+540,Saint James,New Jersey,Somerset,27,100,,,,40.69868,-74.546901
+541,Saint James Elementary,New Jersey,Monmouth,29,100,,,,40.3480224,-74.0665862
+542,Saint Jerome,New Jersey,Monmouth,15,100,,,,40.284269,-74.0233594
+543,Saint Joan of Arc,New Jersey,Burlington,45,100,,,,39.8822055,-74.9066932
+544,Saint John Vianney,New Jersey,Middlesex,42,100,,,,40.5997848,-74.3210072
+545,Saint John's Academy,New Jersey,Bergen,10,100,,,,41.0033593,-74.0444205
+546,Saint Joseph,New Jersey,Morris,20,100,,,,40.7408154,-74.0569694
+547,Saint Joseph Pro-Cathedral,New Jersey,Camden,21,100,,,,39.9470707,-75.0833535
+548,Saint Joseph's Grade,New Jersey,Hudson,20,100,,,,40.730408,-74.057407
+549,Saint Margaret Regional,New Jersey,Gloucester,43,100,,,,39.8142738,-75.1578082
+550,Saint Martin's,New Jersey,Somerset,12,100,,,,40.6279318,-74.6026208
+551,Saint Mary of the Lakes,New Jersey,Burlington,19,100,,,,39.9013655,-74.8271322
+552,Saint Mary's,New Jersey,Passaic,38,100,,4.6,,41.0021024,-74.2893609
+553,Saint Matthew,New Jersey,Middlesex,23,100,,,,40.5107244,-74.3966949
+554,Saint Matthias,New Jersey,Somerset,42,100,,,,40.5005308,-74.5028807
+555,Saint Michael - Union,New Jersey,Union,46,100,,,,40.7013785,-74.2701458
+556,Saint Patrick,New Jersey,Morris,29,100,,,,40.7377624,-74.3885528
+557,Saint Rose Grammar,New Jersey,Monmouth,26,100,,,,40.18282,-74.02297
+558,Saint Rose of Lima Academy,New Jersey,Essex,9,100,,,,40.7208879,-74.3185321
+559,Saint Stephen's Preschool,New Jersey,Essex,9,100,,,,40.7212256,-74.3075588
+560,Saint Teresa of Avilla Early Childhood Center,New Jersey,Union,36,100,,,,40.7159346,-74.3623726
+561,Saint Theresa,New Jersey,Union,11,100,,,,40.6791754,-74.2907372
+562,Saint Therese,New Jersey,Morris,19,100,,,,40.873292,-74.642314
+563,Salem Drive,New Jersey,Morris,40,100,,,,40.8128982,-74.4354341
+564,Sandshore,New Jersey,Morris,69,100,,,,40.8628998,-74.7724663
+565,Sandyston-Walpack Consolidated,New Jersey,Sussex,14,100,,,,41.2036602,-74.8039205
+566,Santa Fe I and Santa Fe II,New Jersey,Union,5,100,,,,40.701605,-74.413193
+567,Sayen,New Jersey,Mercer,50,100,,,,40.2317993,-74.6711687
+568,School Time,New Jersey,Monmouth,7,100,,,,40.1738571,-74.6085589
+569,Schuyler,New Jersey,Hudson,53,100,,,,40.7740529,-74.1343257
+570,Sea Girt Elementary,New Jersey,Monmouth,11,100,,,,40.1328838,-74.0425568
+571,Seabrook,New Jersey,Cumberland,64,100,,,,39.5036307,-75.2191002
+572,Sen. Frank Lautenberg,New Jersey,Passaic,70,100,,,,40.919665,-74.1615671
+573,Sinai Christian Academy,New Jersey,Union,10,100,,,,40.6460879,-74.2228294
+574,Slackwood Elementary,New Jersey,Mercer,55,100,,,,40.2510943,-74.739742
+575,Small World Montessori,New Jersey,Bergen,14,100,,,,40.8488862,-73.9751769
+576,Smart Start Preschool,New Jersey,Monmouth,20,100,,,,40.3648372,-74.0342403
+577,Smarty Pants Daycare and Preschool,New Jersey,Ocean,6,100,,,,40.051924,-74.140525
+578,Soaring Heights Charter,New Jersey,Hudson,24,100,,,,40.6980672,-74.1007907
+579,Solomon Schechter Day of Greater Monmouth County,New Jersey,Monmouth,17,100,,,,40.3122418,-74.2468511
+580,Somerville Elementary,New Jersey,Bergen,59,100,,,,40.9737452,-74.0995055
+581,South Bergen Jointure Commission - Maywood,New Jersey,Bergen,15,100,,,,40.8997433,-74.0639091
+582,South Orange Country Day,New Jersey,Essex,11,100,,,,40.7557471,-74.25192
+583,Sovereign Avenue Elementary,New Jersey,Atlantic,67,100,,,,39.3552945,-74.4517664
+584,Spark Academy,New Jersey,Essex,112,100,,,,40.7337901,-74.1748001
+585,Speedway,New Jersey,Essex,76,100,,,,40.745473,-74.215895
+586,Spring Garden,New Jersey,Essex,36,100,,,,40.828213,-74.163723
+587,Spring Spring,New Jersey,Bergen,21,100,,,,40.9349634,-73.9586431
+588,Springfield Township Elementary,New Jersey,Burlington,23,100,,,,40.0362772,-74.7026478
+589,St. Augustine of Canterbury,New Jersey,Middlesex,32,100,,,,40.4344176,-74.5378788
+590,Stellar Academy - Bridgewater,New Jersey,Somerset,37,100,,,,40.6076241,-74.6257684
+591,STEM Academy For Young Kids,New Jersey,Middlesex,35,100,,,,40.570973,-74.341006
+592,Step by Step,New Jersey,Hudson,12,100,,,,40.7476689,-74.0381438
+593,Stepping Stone Learning Center,New Jersey,Bergen,5,100,,,,40.919772,-74.036716
+594,Stepping Stone Nursery - Hardyston,New Jersey,Sussex,5,100,,,,41.088208,-74.51995
+595,Sunnybrae Elementary,New Jersey,Mercer,51,100,,,,40.1887759,-74.6715203
+596,Sunnymead,New Jersey,Somerset,81,100,,,,40.5315218,-74.6121599
+597,Sunshine Daycare #1 - 322 Washington Ave,New Jersey,Essex,5,100,,,,40.793899,-74.149681
+598,Sunshine Daycare #4 - 322-326 Washington Ave,New Jersey,Essex,11,100,,,,40.8683743,-74.2833113
+599,Sunshine Daycare #5 - Union Ave,New Jersey,Essex,16,100,,,,40.8023181,-74.1537567
+600,Sussex Avenue,New Jersey,Essex,41,100,,,,40.7505,-74.1890752
+601,Sussex Christian,New Jersey,Sussex,7,100,,,,41.2137522,-74.6047594
+602,Talmud Torah Ohr Elchonon,New Jersey,Ocean,13,100,,,,40.107613,-74.226658
+603,Tashbar of Lakewood,New Jersey,Ocean,67,100,,,,40.0657512,-74.2123281
+604,Teaneck Community Charter,New Jersey,Bergen,36,100,,,,40.8840711,-74.0237046
+605,Temple Beth Sholom Early Childhood Education Center,New Jersey,Camden,12,100,,,,39.8755784,-74.9543678
+606,Texas Avenue,New Jersey,Atlantic,63,100,,,,39.3579946,-74.4440548
+607,The Beechwood,New Jersey,Camden,7,100,,,,39.9109022,-75.0305736
+608,The Cherry Blossom Montessori,New Jersey,Somerset,14,100,,,,40.519793,-74.684704
+609,The Children's House,New Jersey,Essex,8,100,,,,40.8315001,-74.2479892
+610,The Children's Studio,New Jersey,Bergen,9,100,,,,40.83135,-74.0954718
+611,The Elisabeth Morrow,New Jersey,Bergen,30,100,,,,40.9032727,-73.9589888
+612,The French Academy,New Jersey,Morris,5,100,,,,40.765218,-74.4879882
+613,The Giving Nest Preschool and Kindergarten - North Plainfield,New Jersey,Somerset,10,100,,,,40.6110715,-74.455671
+614,The Goddard - Harrison,New Jersey,Gloucester,5,100,,,,39.755046,-75.209992
+615,The Goddard - Hillsborough,New Jersey,Somerset,19,100,,,,40.5031591,-74.6720096
+616,The Goddard - Lacey,New Jersey,Ocean,12,100,,,,39.844661,-74.193587
+617,The Goddard - Moorestown,New Jersey,Burlington,22,100,,,,39.951372,-74.951663
+618,The Goddard - Mount Laurel,New Jersey,Burlington,7,100,,,,39.966632,-74.89722
+619,The Goddard - Old Bridge,New Jersey,Middlesex,13,100,,,,40.376887,-74.356304
+620,The Goddard - Ramsey,New Jersey,Bergen,13,100,,,,41.0772305,-74.1315962
+621,The Goddard - Toms River - Route 70,New Jersey,Ocean,7,100,,,,40.036738,-74.245727
+622,The Goddard - Westamption,New Jersey,Burlington,6,100,,,,40.010051,-74.789007
+623,The Goddard (Sicklerville location),New Jersey,Camden,11,100,,,,39.749439,-75.022913
+624,The Goddard of Cherry Hill,New Jersey,Camden,11,100,,,,39.913228,-74.965988
+625,The Goddard of Manalapan,New Jersey,Monmouth,28,100,,,,40.3040013,-74.355876
+626,The Gray Charter,New Jersey,Essex,50,100,,,,40.7307824,-74.1690153
+627,The Green House Preschool and Kindergarten - Fort Lee,New Jersey,Bergen,19,100,,,,40.8591455,-73.9779588
+628,The John P. Holland Charter,New Jersey,Passaic,86,100,,,,40.9132967,-74.1739415
+629,The Lauren Wendroff Early Children's Academy,New Jersey,Hudson,9,100,,,,40.682292,-74.113083
+630,The Learning Circle-YMCA,New Jersey,Union,18,100,,,,40.7119625,-74.3463802
+631,The Learning Experience - Old Bridge,New Jersey,Middlesex,10,100,,,,40.3543513,-74.3465475
+632,The Learning Experience - Warren,New Jersey,Somerset,13,100,,,,40.5340429,-74.51021
+633,The Learning Experience - West Windsor,New Jersey,Mercer,23,100,,,,40.289145,-74.5811497
+634,The Learning Experience of Montgomery,New Jersey,Somerset,10,100,,,,40.450366,-74.662019
+635,"The Learning Junction, Inc.",New Jersey,Middlesex,8,100,,,,40.5656884,-74.2529662
+636,The Lincroft Center for Children,New Jersey,Monmouth,10,100,,,,40.3432559,-74.136141
+637,The Montessori Children's Academy,New Jersey,Essex,23,100,,,,40.741209,-74.326405
+638,The Moriah,New Jersey,Bergen,49,100,,,,40.8835112,-73.9605379
+639,The Peck,New Jersey,Morris,28,100,,,,40.7869585,-74.4708494
+640,The Preschool Place and Kindergarten,New Jersey,Somerset,26,100,,,,40.5965688,-74.6082187
+641,The Wonder Years,New Jersey,Hudson,7,100,,,,40.7437365,-74.0510874
+642,The Wonder Years Daycare Center,New Jersey,Atlantic,16,100,,,,39.369758,-74.624038
+643,Thehouse Nursery,New Jersey,Burlington,25,100,,,,39.9197349,-74.9129317
+644,Thomas Sharp Elementary,New Jersey,Camden,19,100,,,,39.9116806,-75.0896311
+645,Tiferes Bais Yaakov,New Jersey,Ocean,85,100,,,,40.0640515,-74.2010446
+646,Titusville Child Developement Center,New Jersey,Mercer,15,100,,,,40.3044674,-74.8765787
+647,Toll Gate Grammar,New Jersey,Mercer,33,100,,,,40.3209599,-74.7898718
+648,Tomorrow's Hope,New Jersey,Camden,12,100,,,,39.8560628,-74.9480029
+649,Torey J. Sabatini Elementary,New Jersey,Morris,40,100,,,,40.7547789,-74.4293223
+650,Toussaint L'ouverture/Marquis De Lafayette,New Jersey,Union,123,100,,,,40.673326,-74.2046796
+651,Tower Hill,New Jersey,Monmouth,8,100,,,,40.3463143,-74.0539256
+652,Transfiguration Academy,New Jersey,Bergen,12,100,,,,40.9287245,-73.9947657
+653,Trenton Catholic Academy,New Jersey,Mercer,24,100,,,,40.2174924,-74.7184135
+654,Trinity Lutheran,New Jersey,Bergen,14,100,,,,40.8726927,-74.0266299
+655,Tuckerton Elementary,New Jersey,Ocean,33,100,,,,39.6019844,-74.336427
+656,Twin Hill Elementary,New Jersey,Burlington,43,100,,,,40.006641,-74.875404
+657,Union County T.E.A.M.S,New Jersey,Union,21,100,,,,40.6119673,-74.4255409
+658,United Day Care Center,New Jersey,Essex,11,100,,,,40.7299336,-74.2083753
+659,University Elementary,New Jersey,Essex,82,100,,,,40.735491,-74.2217895
+660,Uptown Complex,New Jersey,Atlantic,85,100,,,,39.3711158,-74.4174063
+661,Valley Park,New Jersey,Salem,128,100,,,,39.6347513,-75.5024285
+662,Ventnor Educational Community Complex,New Jersey,Atlantic,61,100,,,,39.3395642,-74.4950072
+663,Veterans Memorial Family,New Jersey,Camden,25,100,,,,39.9532604,-75.0935115
+664,Veterans' Memorial Elementary,New Jersey,Hudson,75,100,,,,40.7624331,-74.0395663
+665,Vifgil I. Grissom Elementary,New Jersey,Middlesex,22,100,,,,40.3911977,-74.3195995
+666,Village Charter,New Jersey,Mercer,79,100,,,,40.2408366,-74.8060685
+667,Virtua Child Development Center,New Jersey,Camden,12,100,,,,39.8639321,-74.9579703
+668,Walnut Street,New Jersey,Gloucester,20,100,,,,40.0493,-74.9551
+669,Walter C. Black Elementary,New Jersey,Mercer,91,100,,,,40.2696105,-74.5333286
+670,Walter Stillman Elementary,New Jersey,Bergen,54,100,,,,40.9160055,-73.9719953
+671,Wardlaw-Hartridge,New Jersey,Middlesex,21,100,,,,40.5948968,-74.3797829
+672,Waretown Elementary,New Jersey,Ocean,72,100,,,,39.7889681,-74.2008565
+673,Warnsdorfer,New Jersey,Middlesex,52,100,,,,40.4217641,-74.4328211
+674,Washington - West Caldwell,New Jersey,Essex,54,100,,,,40.8531954,-74.2769567
+675,Washington 2,New Jersey,Passaic,72,100,,,,40.8648685,-74.1169962
+676,Watchung Elementary,New Jersey,Middlesex,64,100,,,,40.8278969,-74.2052301
+677,Waterfront Montessori,New Jersey,Hudson,28,100,,,,40.7124769,-74.0396267
+678,Wesley D. Tisdale Elementary,New Jersey,Bergen,90,100,,,,41.065216,-74.137587
+679,West Avenue,New Jersey,Cumberland,64,100,,,,39.4343451,-75.245254
+680,West End Memorial,New Jersey,Gloucester,55,100,,,,39.8343225,-75.16214
+681,West New York P.S. 1,New Jersey,Hudson,118,100,,,,40.7916783,-74.0162723
+682,West New York P.S. 3,New Jersey,Hudson,84,100,,,,40.7872097,-74.022267
+683,West New York P.S. 4,New Jersey,Hudson,103,100,,,,40.7907802,-74.0115242
+684,West New York P.S. 5,New Jersey,Hudson,102,100,,,,40.7840293,-74.0155985
+685,Westfield Area Y Preschool,New Jersey,Union,18,100,,,,40.6544949,-74.3445883
+686,Westfield Day Care Center,New Jersey,Union,17,100,,,,40.6462403,-74.3541182
+687,Westfield Friends,New Jersey,Burlington,12,100,,,,39.994931,-74.991883
+688,Westminster Nursery,New Jersey,Union,43,100,,,,40.6687488,-74.4388304
+689,Westmoreland,New Jersey,Bergen,43,100,,,,40.9405409,-74.1334506
+690,Whitney Houston Academy,New Jersey,Essex,18,100,,,,40.7808816,-74.2111916
+691,Whittier,New Jersey,Bergen,19,100,,,,40.9056359,-74.0161311
+692,Willard Elementary,New Jersey,Bergen,67,100,,,,40.9978387,-74.1223963
+693,William P. Tatem,New Jersey,Camden,35,100,,,,39.9196645,-75.0663697
+694,Wilson,New Jersey,Essex,30,100,,,,40.8758508,-74.0826085
+695,Wilson Avenue,New Jersey,Essex,132,100,,,,40.727448,-74.154621
+696,Windsor Bergen Academy and R.I.S.E.,New Jersey,Bergen,5,100,,,,40.9778964,-74.1206234
+697,Windsor Montessori,New Jersey,Mercer,7,100,,,,40.279301,-74.6657614
+698,Winslow Township 2,New Jersey,Camden,65,100,,,,39.7170642,-74.9159897
+699,Woodbine Elementary,New Jersey,Cape May,31,100,,,,39.2350057,-74.8168563
+700,Woodbine Elementary 23,New Jersey,Middlesex,101,100,,,,40.5885037,-74.2828611
+701,Woodbury Heights Elementary,New Jersey,Gloucester,28,100,,,,39.8163327,-75.1506084
+702,Woodland Avenue Elementary,New Jersey,Morris,81,100,,,,40.7838788,-74.4637151
+703,Woodland Elementary,New Jersey,Union,43,100,,,,40.623587,-74.404467
+704,Woodlynne Public,New Jersey,Camden,37,100,,,,39.9190046,-75.0941849
+705,Woodrow Wilson - Bayonne,New Jersey,Hudson,66,100,,,,40.6887908,-74.1029572
+706,Woodside,New Jersey,Bergen,54,100,,,,41.0326607,-74.0116414
+707,Wyckoff Christian Preschool and Kindergarten,New Jersey,Bergen,10,100,,,,40.9998484,-74.175589
+708,Yardville Heights Elementary,New Jersey,Mercer,38,100,,,,40.186809,-74.6855965
+709,Yavneh Academy,New Jersey,Bergen,72,100,,,,40.930449,-74.066213
+710,Yellow Duck Preparatory,New Jersey,Monmouth,18,100,,,,40.3171941,-74.3386683
+711,Yeshivat He'Atid,New Jersey,Bergen,63,100,,,,40.9043393,-74.0036774
+712,Yeshivat Noam,New Jersey,Bergen,61,100,,,,40.9311383,-74.0762354
+713,Yorkship,New Jersey,Camden,40,100,,,,39.9047352,-75.1051315
+714,Young World Day,New Jersey,Bergen,6,100,,,,41.0402499,-74.1632886
+715,Zadie's Nurturing Den,New Jersey,Union,6,100,,,,40.7145177,-74.3545571
+716,Zadie's of the Oranges,New Jersey,Essex,8,100,,,,40.7597515,-74.2274245
+717,Millbridge Elementary,New Jersey,Burlington,197,99.5,,0.5,,40.0088268,-74.9418289
+718,"Dr. Charles R. Smith, Jr. Early Childhood Center",New Jersey,Bergen,180,99.4,,,,40.8473021,-73.9965427
+719,Dr. Herbert N. Richardson-21st Century,New Jersey,Middlesex,160,99.4,,,,40.5123829,-74.2774868
+720,Passaic 16,New Jersey,Passaic,182,99.4,,0.6,,40.8605409,-74.1263615
+721,Thomas Jefferson,New Jersey,Morris,168,99.4,,,,40.7864884,-74.4801531
+722,Ann Street Annex,New Jersey,Essex,141,99.3,,,,40.723217,-74.156104
+723,J. Harvey Rodgers,New Jersey,Gloucester,137,99.3,,0.7,,39.7055664,-75.1289069
+724,Jersey City P.S. 23 Duncan Annex,New Jersey,Hudson,142,99.3,,0.7,,40.7345207,-74.0680955
+725,P.S. 17 Joseph H. Brensinger,New Jersey,Hudson,152,99.3,,,,40.7210688,-74.0722853
+726,Paterson Charter for Science and Technology - K-1,New Jersey,Passaic,139,99.3,,0.7,,40.8956605,-74.1552245
+727,Rosa Parks Central Community,New Jersey,Essex,147,99.3,,0.7,,40.7733367,-74.2318879
+728,Dwight D. Eisenhower Elementary - Piscataway,New Jersey,Middlesex,120,99.2,,,,40.5627775,-74.4534586
+729,Emma Arleth Elementary,New Jersey,Middlesex,118,99.2,,0.8,,40.4685236,-74.30398
+730,Harry S. Truman,New Jersey,Middlesex,128,99.2,,,,40.4737751,-74.3075376
+731,Yeshiva Ktana of Passaic-Boys,New Jersey,Passaic,130,99.2,,,,40.8409789,-74.1349149
+732,Antheil Elementary,New Jersey,Mercer,107,99.1,,0.9,,40.2725515,-74.7673367
+733,Briarwood Elementary,New Jersey,Morris,116,99.1,,0.9,,40.7788917,-74.3846496
+734,Cordero Community PS 37,New Jersey,Hudson,109,99.1,,,,40.7278778,-74.0430045
+735,"Dr. Martin Luther King, Jr. P.S. 11",New Jersey,Hudson,107,99.1,,0.9,,40.7291511,-74.0649822
+736,Irving Primary,New Jersey,Middlesex,115,99.1,,,,40.5021425,-74.4174232
+737,Jotham W. Wakeman #6,New Jersey,Hudson,113,99.1,,,,40.7360656,-74.0551284
+738,Juan Pablo Durte-Jose Julian Marti 28,New Jersey,Union,107,99.1,,0.9,,40.6465619,-74.1889494
+739,Memorial Elementary - Montvale,New Jersey,Bergen,108,99.1,,0.9,,41.0419821,-74.0349762
+740,Midtown Community,New Jersey,Hudson,114,99.1,0.9,,,40.6671813,-74.1233735
+741,Paterson Public 15,New Jersey,Passaic,107,99.1,,,,40.9114645,-74.160827
+742,The Florence L. Walther,New Jersey,Burlington,109,99.1,,0.9,,39.9682137,-74.8078508
+743,A. P. Morris Early Childhood Center,New Jersey,Union,202,99,,0.5,,40.6916748,-74.2211424
+744,Central Early Childhood Center,New Jersey,Gloucester,206,99,,0.5,,39.8264378,-75.124111
+745,Clifton E. Lawrence,New Jersey,Sussex,104,99,,1,,41.2305434,-74.6067418
+746,Elizabeth Avenue,New Jersey,Somerset,103,99,,1,,40.5418704,-74.5339202
+747,H. Ashton Marsh Elementary,New Jersey,Atlantic,103,99,,1,,39.436838,-74.4946817
+748,Holly Hills,New Jersey,Burlington,103,99,,1,,40.0017514,-74.8075497
+749,J. Ackerman Coles Elementary,New Jersey,Union,105,99,,1,,40.624973,-74.3811063
+750,John V. B. Wicoff Elementary,New Jersey,Middlesex,105,99,,,,40.3330728,-74.593875
+751,Marion T. Bedwell Elementary,New Jersey,Somerset,103,99,,1,,40.7320518,-74.5701279
+752,Passaic Arts and Science Charter - Clifton,New Jersey,Passaic,99,99,,1,,40.8791671,-74.1270562
+753,Washington Elementary - Union,New Jersey,Union,98,99,,1,,40.6812009,-74.2631435
+754,Wilson Primary Center,New Jersey,Union,98,99,,1,,40.7140771,-74.3773352
+755,Woodbrook ElementarySchool,New Jersey,Middlesex,96,99,,1,,40.5574159,-74.3776183
+756,Blackwood Elementary,New Jersey,Camden,91,98.9,,1.1,,39.8044275,-75.0586506
+757,Center Square,New Jersey,Gloucester,91,98.9,1.1,,,39.7558919,-75.3562615
+758,College Achieve Public Charter - Central Grades K-1,New Jersey,Somerset,89,98.9,,,,40.6333944,-74.4041481
+759,Deans,New Jersey,Middlesex,88,98.9,,1.1,,40.4010041,-74.5109215
+760,Freehold Learning Center,New Jersey,Monmouth,93,98.9,,1.1,,40.2665499,-74.2649632
+761,Haledon Public,New Jersey,Passaic,90,98.9,1.1,,,40.9328177,-74.1890949
+762,Huber Street,New Jersey,Hudson,89,98.9,,1.1,,40.798297,-74.0581063
+763,Joseph Battin 4,New Jersey,Union,94,98.9,,,,40.6571428,-74.2148143
+764,KATZ Dalsey Academy,New Jersey,Camden,88,98.9,,,,39.9533113,-75.0831721
+765,Memorial Elementary - East Brunswick,New Jersey,Middlesex,89,98.9,,1.1,,40.4337712,-74.419449
+766,Menlo Park Elementary,New Jersey,Middlesex,94,98.9,,,,40.5623297,-74.3526309
+767,Mill Lake,New Jersey,Middlesex,90,98.9,,,,40.3683178,-74.380923
+768,North Star Academy - Alexander Street Elementary,New Jersey,Essex,90,98.9,,1.1,,40.7439507,-74.2249708
+769,North Star Academy - Elementary #6,New Jersey,Essex,89,98.9,,1.1,,40.7477724,-74.195721
+770,Oak Knoll Elementary,New Jersey,Gloucester,89,98.9,,,,39.6821679,-74.9967257
+771,Oradell Public,New Jersey,Bergen,88,98.9,,1.1,,40.9534004,-74.0350124
+772,Pine Beach Elementary,New Jersey,Ocean,88,98.9,,1.1,,39.9351684,-74.1794945
+773,Piners Elementary,New Jersey,Ocean,176,98.9,,0.6,,40.1027855,-74.1734918
+774,Riverside Elementary,New Jersey,Mercer,88,98.9,,,,40.0340091,-74.9560979
+775,Silver Bay Elementary,New Jersey,Ocean,93,98.9,,1.1,,40.0076675,-74.1397047
+776,South Valley,New Jersey,Burlington,89,98.9,,1.1,,39.9667083,-74.9294591
+777,Strathmore Elementary,New Jersey,Monmouth,94,98.9,,1.1,,40.4040543,-74.2139667
+778,West End,New Jersey,Somerset,89,98.9,,,,40.612473,-74.447684
+779,Wilson Elementary,New Jersey,Middlesex,94,98.9,,1.1,,40.8365163,-74.3029754
+780,Aletta Crichton Elementary,New Jersey,Burlington,85,98.8,,1.2,,39.9547011,-74.5918653
+781,Berkley Street Elementary,New Jersey,Bergen,81,98.8,,1.2,,40.927506,-74.0231268
+782,Bryant Elementary,New Jersey,Bergen,170,98.8,,1.2,,40.904273,-73.997243
+783,D'Ippolito Elementary,New Jersey,Cumberland,80,98.8,,1.2,,39.5079468,-75.0076326
+784,Dutch Neck,New Jersey,Mercer,161,98.8,,0.6,,40.2811572,-74.6095546
+785,Foundation Academy Charter,New Jersey,Mercer,84,98.8,,1.2,,40.2238911,-74.7769463
+786,Francis Lore Elementary,New Jersey,Mercer,83,98.8,,1.2,,40.2781571,-74.8366073
+787,Franklin Elementary - Rahway,New Jersey,Union,82,98.8,,1.2,,40.617889,-74.28232
+788,George C. Baker Elementary,New Jersey,Burlington,84,98.8,,1.2,,39.9690605,-74.9568087
+789,Hammonton Early Childhood Education Center,New Jersey,Atlantic,166,98.8,,,,39.6506294,-74.805129
+790,Ironia Elementary,New Jersey,Morris,80,98.8,,1.2,,40.83343,-74.6126597
+791,J.W. Lilley,New Jersey,Camden,83,98.8,,1.2,,39.754839,-75.0009731
+792,Lafayette-Pershing,New Jersey,Salem,170,98.8,,1.2,,39.714654,-75.4701948
+793,Langston Hughes,New Jersey,Essex,81,98.8,,1.2,,40.7529884,-74.221739
+794,Lenape Meadows Elementary,New Jersey,Bergen,80,98.8,,1.2,,41.0859793,-74.1630928
+795,Linden 2,New Jersey,Union,87,98.8,,1.2,,40.6346992,-74.2670988
+796,Lindenwold 4,New Jersey,Camden,161,98.8,0.6,,,39.8237566,-74.9768359
+797,Paterson P.S. 10,New Jersey,Passaic,84,98.8,,,,40.9273163,-74.1607631
+798,Seth Boyden Elementary,New Jersey,Essex,83,98.8,,1.2,,40.721463,-74.2543401
+799,Smithville Elementary,New Jersey,Atlantic,80,98.8,,1.2,,39.4901228,-74.4757574
+800,Taylor Mills,New Jersey,Monmouth,85,98.8,,,,40.3020084,-74.3430277
+801,Warren Point Elementary,New Jersey,Bergen,86,98.8,,1.2,,40.9248939,-74.1060758
+802,Woods Road Elementary,New Jersey,Somerset,80,98.8,,,,40.4718759,-74.6071346
+803,Cold Springs Elementary and Preschool,New Jersey,Camden,151,98.7,,1.3,,39.8872016,-75.114391
+804,Flocktown-Kossmann Elementary,New Jersey,Morris,79,98.7,,1.3,,40.8103907,-74.8033138
+805,Green-Fields Elementary,New Jersey,Gloucester,79,98.7,,1.3,,39.8157863,-75.1705133
+806,Harrison Township Elementary,New Jersey,Gloucester,159,98.7,,1.3,,39.746038,-75.223562
+807,Hatikvah International Academy Charter,New Jersey,Middlesex,75,98.7,,1.3,,40.4062124,-74.4183404
+808,Horbelt Elementary,New Jersey,Ocean,76,98.7,,1.3,,39.7569619,-74.2328941
+809,Kelly Elementary,New Jersey,Essex,75,98.7,1.3,,,40.8074218,-74.2622239
+810,Kindergarten Success Academy,New Jersey,Union,225,98.7,,0.4,,40.6576949,-74.2605373
+811,New Albany Elementary,New Jersey,Burlington,158,98.7,,1.3,,39.9965526,-74.9722171
+812,Orchard Hill Elementary,New Jersey,Somerset,231,98.7,,0.9,,40.4202963,-74.6741151
+813,Paterson P.S. 21,New Jersey,Passaic,79,98.7,,,,40.9241123,-74.1515528
+814,Prospect Park 1,New Jersey,Passaic,75,98.7,,,,40.9370428,-74.1743111
+815,Saint Joseph,New Jersey,Middlesex,78,98.7,,,,40.5517569,-74.3754654
+816,South River Primary,New Jersey,Middlesex,155,98.7,,0.6,,40.4406558,-74.3850079
+817,Springville Elementary,New Jersey,Burlington,79,98.7,,1.3,,39.9357912,-74.8684438
+818,Valley Road,New Jersey,Union,77,98.7,,1.3,,40.9161795,-74.7054639
+819,Washington Community,New Jersey,Hudson,75,98.7,,1.3,,40.6067233,-74.4296631
+820,Whitman Elementary,New Jersey,Gloucester,78,98.7,,1.3,,39.7496183,-75.0365421
+821,Wildwood Elementary,New Jersey,Morris,78,98.7,,1.3,,40.8942142,-74.4325073
+822,Barley Sheaf,New Jersey,Hunterdon,69,98.6,,1.4,,40.496767,-74.826928
+823,Central Jersey College Prep Charter,New Jersey,Somerset,72,98.6,,,,40.5137916,-74.5659178
+824,Chittick Elementary,New Jersey,Middlesex,73,98.6,,1.4,,40.4261229,-74.3752349
+825,Clarendon #4 D.S.,New Jersey,Hudson,73,98.6,,1.4,,40.7907416,-74.0666591
+826,Clifton 11,New Jersey,Passaic,73,98.6,,1.4,,40.8847898,-74.1391806
+827,Clifton 5,New Jersey,Passaic,73,98.6,,1.4,,40.8938381,-74.1749743
+828,David Abbott Early Learning Center,New Jersey,Monmouth,138,98.6,,1.4,,40.3686881,-74.2622786
+829,Discovery,New Jersey,Burlington,143,98.6,,1.4,,40.0492264,-74.5809466
+830,Dorchester Elementary,New Jersey,Bergen,69,98.6,,1.4,,41.0250764,-74.0595498
+831,Elementary 2,New Jersey,Union,69,98.6,,1.4,,40.6219828,-74.2376364
+832,Gilbert Avenue,New Jersey,Bergen,71,98.6,,1.4,,40.9102571,-74.1247759
+833,Golden Door Charter,New Jersey,Hudson,71,98.6,,1.4,,40.7371838,-74.0622884
+834,Hartshorn Elementary,New Jersey,Essex,69,98.6,,1.4,,40.7332019,-74.3414783
+835,John C. Milanesi,New Jersey,Atlantic,73,98.6,,1.4,,39.5062797,-74.9106925
+836,John Glenn Elementary,New Jersey,Camden,74,98.6,,1.4,,39.7772411,-74.979131
+837,Joseph J. Catena Elementary,New Jersey,Monmouth,73,98.6,,1.4,,40.263528,-74.2398503
+838,Lafayette Estates # 25,New Jersey,Middlesex,71,98.6,,1.4,,40.5470556,-74.315147
+839,"Lincoln Elementary, PreK, Kindergarten - North Bergen",New Jersey,Hudson,421,98.6,,1.2,,40.7949136,-74.0194545
+840,Littleton,New Jersey,Morris,69,98.6,,1.4,,40.859037,-74.4600995
+841,Middletown Village Elementary,New Jersey,Monmouth,72,98.6,,1.4,,40.3971261,-74.1230979
+842,Robert Morris 18,New Jersey,Union,70,98.6,,1.4,,40.6840632,-74.2106559
+843,Town Center Elementary,New Jersey,Middlesex,146,98.6,,0.7,,40.333607,-74.5820403
+844,Washington - Kearny,New Jersey,Hudson,69,98.6,,,,40.7555203,-74.1588608
+845,Bais Rivka Rochel,New Jersey,Ocean,134,98.5,,0.8,,40.080216,-74.214879
+846,Ben Franklin Elementary,New Jersey,Camden,68,98.5,,1.5,,40.2771778,-74.7202276
+847,Bradford Elementary,New Jersey,Essex,68,98.5,,,,40.8542555,-74.2009651
+848,Cambridge Elementary,New Jersey,Middlesex,67,98.5,,,,40.4183384,-74.5636324
+849,Cherry Street,New Jersey,Cumberland,67,98.5,,1.5,,39.4191659,-75.2199807
+850,Garfield,New Jersey,Hudson,67,98.5,,,,40.7646749,-74.153164
+851,Hawthorne Park Elementary,New Jersey,Burlington,66,98.5,,1.5,,40.0362197,-74.8714987
+852,Joseph C. Shaner,New Jersey,Atlantic,267,98.5,0.8,0.8,,39.4536626,-74.72333
+853,Lafayette Street,New Jersey,Essex,132,98.5,,,,40.729701,-74.163253
+854,Langtree Elementary,New Jersey,Mercer,66,98.5,,,,40.2239956,-74.6781932
+855,Lillian M. Dunfee Elementary,New Jersey,Ocean,68,98.5,,1.5,,39.748617,-74.242759
+856,Lincoln Annex - Fairview,New Jersey,Bergen,136,98.5,,,,40.8130442,-73.9969141
+857,Mansfield Township Elementary,New Jersey,Warren,67,98.5,,1.5,,40.7746442,-74.9122046
+858,Margaret C. Clifford,New Jersey,Gloucester,195,98.5,,1.5,,39.746427,-75.313649
+859,Mount Prospect,New Jersey,Somerset,66,98.5,,1.5,,40.6561778,-74.6227234
+860,Scotch Plains One,New Jersey,Union,65,98.5,,,,40.6252509,-74.3579671
+861,Triangle,New Jersey,Somerset,66,98.5,,1.5,,40.514909,-74.6484367
+862,Victor Mravlag 21,New Jersey,Union,67,98.5,,1.5,,40.6702532,-74.2476032
+863,Walnut Street Elementary,New Jersey,Ocean,133,98.5,,0.8,,39.9693018,-74.196318
+864,Washington - Lyndhurst,New Jersey,Bergen,66,98.5,,,,40.8006892,-74.1250293
+865,Washington - Nutley,New Jersey,Essex,68,98.5,,1.5,,40.8107802,-74.1454196
+866,Avon,New Jersey,Camden,63,98.4,,,,39.8802782,-75.0467896
+867,Beechwood,New Jersey,Union,63,98.4,,1.6,,40.671563,-74.3686443
+868,Ben Porat Yosef,New Jersey,Bergen,63,98.4,,,,40.917419,-74.050913
+869,Benjamin Franklin 13,New Jersey,Union,64,98.4,1.6,,,40.6561214,-74.1826202
+870,Burnet Hill Elementary,New Jersey,Essex,61,98.4,,1.6,,40.7782161,-74.3333028
+871,Cicely L. Tyson Elementary,New Jersey,Essex,62,98.4,1.6,,,40.764012,-74.210664
+872,CR Applegate Elementary,New Jersey,Monmouth,62,98.4,,1.6,,40.2799689,-74.2836171
+873,E.J. Patten Elementary,New Jersey,Middlesex,189,98.4,,1.6,,40.5173953,-74.2670754
+874,Edward H. Bryan,New Jersey,Bergen,64,98.4,,,,40.9445402,-73.9685857
+875,Freedom Prep Charter,New Jersey,Camden,63,98.4,,1.6,,39.9288302,-75.108323
+876,Kingston Elementary,New Jersey,Camden,64,98.4,,,,39.921007,-74.9887566
+877,Lincoln - Nutley,New Jersey,Essex,62,98.4,,1.6,,40.8135209,-74.1706598
+878,Lopatcong Township Elementary,New Jersey,Warren,61,98.4,,,,40.7014698,-75.1535391
+879,MacAfee Road,New Jersey,Somerset,61,98.4,,,,40.4943006,-74.4987446
+880,Magowan Elementary,New Jersey,Burlington,64,98.4,,1.6,,40.0579723,-74.9087571
+881,Midtown Community Elementary,New Jersey,Monmouth,61,98.4,,,,40.211467,-74.0196381
+882,Mount Pleasant Elementary,New Jersey,Essex,64,98.4,,1.6,,40.7928142,-74.2792774
+883,Riker Hill Elementary,New Jersey,Essex,61,98.4,,1.6,,40.8009282,-74.3322978
+884,Travell Elementary,New Jersey,Bergen,64,98.4,,,,40.9865578,-74.1031122
+885,Washington Elementary,New Jersey,Passaic,62,98.4,,1.6,,40.926252,-73.993064
+886,Washington Street,New Jersey,Ocean,61,98.4,,1.6,,39.95509,-74.1712611
+887,Betty McElmon Elementary,New Jersey,Monmouth,59,98.3,,1.7,,40.290247,-74.0197611
+888,Bradley Elementary,New Jersey,Monmouth,58,98.3,,1.7,,40.2244489,-74.0163443
+889,Captain James Lawrence,New Jersey,Burlington,59,98.3,,1.7,,40.0784957,-74.8524267
+890,Cornelia F. Bradford #16 Elementary,New Jersey,Hudson,115,98.3,,1.7,,40.714824,-74.038199
+891,Dr. William Horton Elementary,New Jersey,Essex,60,98.3,,,,40.759921,-74.187192
+892,Early Childhood Development Center,New Jersey,Cape May,59,98.3,,1.7,,39.9375849,-75.1006492
+893,Edward V. Walton,New Jersey,Union,179,98.3,1.1,0.6,,40.693145,-74.3270731
+894,Eugenio Maria De Hostos Early Childhood Center,New Jersey,Hudson,119,98.3,,1.7,,40.7692143,-74.0393448
+895,G. E. Wilson Elementary,New Jersey,Mercer,59,98.3,,,,40.2000014,-74.7207658
+896,Jordan Road Elementary,New Jersey,Atlantic,58,98.3,,,,39.319929,-74.607223
+897,Kilmer Elementary,New Jersey,Mercer,60,98.3,1.7,,,40.2418657,-74.7914991
+898,Lawrence Brook Elementary,New Jersey,Middlesex,60,98.3,,1.7,,40.462638,-74.417353
+899,Oak Street,New Jersey,Somerset,60,98.3,,1.7,,40.7052401,-74.5525731
+900,Oakview Elementary,New Jersey,Gloucester,59,98.3,,1.7,,39.8526093,-75.1568476
+901,Radix Elementary,New Jersey,Gloucester,118,98.3,,0.8,,39.6905877,-74.9786851
+902,Randolphville Elementary,New Jersey,Middlesex,119,98.3,,1.7,,40.5464778,-74.4498941
+903,Roosevelt Elementary,New Jersey,Union,60,98.3,,8,,40.7955105,-74.1217195
+904,Roosevelt Elementary - New Brunswick,New Jersey,Middlesex,115,98.3,,,,40.4911211,-74.4471189
+905,Sharon,New Jersey,Mercer,179,98.3,,1.7,,40.213276,-74.576718
+906,Spruce Street,New Jersey,Ocean,237,98.3,,0.8,,40.0696643,-74.2131964
+907,Taylor Street,New Jersey,Warren,58,98.3,1.7,,,40.760876,-74.9797814
+908,Theodore Roosevelt - Union,New Jersey,Hudson,116,98.3,,0.9,,40.7767418,-74.0153776
+909,Washington - Lodi,New Jersey,Bergen,58,98.3,,1.7,,40.8735179,-74.0850826
+910,Anna L. Klein,New Jersey,Hudson,110,98.2,,0.9,,40.7938186,-74.0083331
+911,Belleville 3,New Jersey,Essex,57,98.2,,1.8,,40.7936744,-74.1500469
+912,Belleville 5,New Jersey,Essex,55,98.2,,1.8,,40.8026814,-74.1563379
+913,Conerly Road Elementary,New Jersey,Somerset,57,98.2,,1.8,,40.504869,-74.4942258
+914,Daniel Webster #2,New Jersey,Hudson,109,98.2,,1.8,,40.7686519,-74.0281296
+915,Dr. Antonia Pantoja #27,New Jersey,Union,112,98.2,,0.9,,40.6734212,-74.222243
+916,Dudley Elementary,New Jersey,Camden,57,98.2,,1.8,,39.9448358,-75.092756
+917,George Washington Academy 1,New Jersey,Union,57,98.2,,,,40.6518091,-74.1894096
+918,Harmony Elementary,New Jersey,Monmouth,57,98.2,,1.8,,40.4088589,-74.1054801
+919,Hawes Elementary,New Jersey,Bergen,57,98.2,,1.8,,40.9595131,-74.1044972
+920,Kirby's Mill Elementary,New Jersey,Burlington,57,98.2,,,,39.9048929,-74.8490623
+921,Lincoln - Hasbrouck Heights,New Jersey,Bergen,56,98.2,,1.8,,40.8569525,-74.0792869
+922,Mount Pleasant - West Orange,New Jersey,Essex,57,98.2,,1.8,,40.7895112,-74.2596974
+923,North Boulevard Elementary,New Jersey,Morris,54,98.2,,1.8,,40.9742326,-74.3047537
+924,Norwood Public,New Jersey,Bergen,54,98.2,,1.8,,40.994717,-73.9618517
+925,Reverend George A Brown Memorial,New Jersey,Sussex,55,98.2,,1.8,,41.0332228,-74.665227
+926,Richard Stockton Elementary,New Jersey,Camden,56,98.2,,1.8,,39.8962019,-74.9617178
+927,Roberge Elementary,New Jersey,Bergen,54,98.2,,,,40.9935761,-74.0108704
+928,Signal Hill,New Jersey,Camden,57,98.2,,1.8,,39.8306789,-74.9237087
+929,Cherry Hill,New Jersey,Bergen,104,98.1,,1.9,,40.9206476,-74.036261
+930,Clifton PS #14,New Jersey,Passaic,53,98.1,,,,40.8561869,-74.1655119
+931,Dr. Martin Luther King Junior,New Jersey,Atlantic,53,98.1,,,,39.3711807,-74.4397559
+932,Dr. Orlando Edreira Academy 26,New Jersey,Union,52,98.1,,1.9,,40.6531232,-74.2258243
+933,Haleyville-Mauricetown,New Jersey,Cumberland,52,98.1,,1.9,,39.2829749,-75.0238464
+934,J.P. Faber Elementary,New Jersey,Middlesex,107,98.1,,,,40.5823581,-74.4678345
+935,James W. Alexander Elementary,New Jersey,Mercer,53,98.1,,1.9,,40.2175595,-74.6543156
+936,Lenox,New Jersey,Passaic,53,98.1,,,,41.0035482,-74.2897619
+937,Lincoln Elementary,New Jersey,Morris,52,98.1,,1.9,,40.91764,-74.00757
+938,Lindenwold 5,New Jersey,Camden,106,98.1,,1.9,,39.8095186,-75.0153213
+939,Mario Drago #3,New Jersey,Passaic,106,98.1,,0.9,,40.8472866,-74.1292631
+940,Martha B. Day,New Jersey,Passaic,53,98.1,,1.9,,41.0164525,-74.3205534
+941,Normandy Park,New Jersey,Morris,53,98.1,,1.9,,40.7913813,-74.4489484
+942,Paterson PS 19,New Jersey,Passaic,52,98.1,,1.9,,40.9200803,-74.1913742
+943,Port Reading 9,New Jersey,Middlesex,53,98.1,,1.9,,40.5717663,-74.2418765
+944,Robert Morris,New Jersey,Somerset,53,98.1,,1.9,,40.554111,-74.53223
+945,Roland Rogers Elementary,New Jersey,Atlantic,52,98.1,,,,39.4843717,-74.5179233
+946,South Toms River Elementary,New Jersey,Ocean,52,98.1,,1.9,,39.940223,-74.2190533
+947,Taunton Elementary,New Jersey,Monmouth,106,98.1,,1.9,,40.1495538,-74.2129898
+948,Bais Tova Elementary,New Jersey,Ocean,146,98,,2,,40.0645736,-74.204568
+949,Barack Obama Elementary,New Jersey,Monmouth,49,98,,,,40.2184957,-74.0221131
+950,Belmar Elementary,New Jersey,Monmouth,49,98,2,,,40.178068,-74.026584
+951,Brookdale Elementary,New Jersey,Essex,50,98,,2,,40.832872,-74.182248
+952,Clara Barton Elementary,New Jersey,Camden,50,98,2,,,40.1460084,-74.7078237
+953,Clara E. Coleman Elementary,New Jersey,Bergen,50,98,,2,,40.9566875,-74.1153861
+954,Dawes Avenue,New Jersey,Atlantic,49,98,,,,39.3243417,-74.5892567
+955,Dwight D. Eisenhower Elementary - Sayreville,New Jersey,Middlesex,149,98,,0.7,,40.4599635,-74.2829587
+956,East Dover Elementary,New Jersey,Ocean,101,98,,,,39.9649605,-74.1491769
+957,Fairfield Township,New Jersey,Cumberland,50,98,,,,39.423387,-75.182253
+958,Fort Lee 1,New Jersey,Bergen,100,98,,1,,40.8499627,-73.9719241
+959,Hamilton Primary,New Jersey,Somerset,49,98,,2,,40.637217,-74.614661
+960,Howard Emmons Elementary,New Jersey,Burlington,99,98,,2,,39.9620467,-74.6820556
+961,J.C. Stuart Elementary,New Jersey,Burlington,50,98,,2,,40.045744,-74.8974379
+962,Jefferson Elementary,New Jersey,Morris,51,98,,1.4,,40.932255,-73.986948
+963,John Adams Elementary,New Jersey,Middlesex,99,98,,,,40.4652819,-74.490351
+964,Lakewood Cheder - Lower,New Jersey,Ocean,245,98,,2,,40.0710501,-74.1829651
+965,Marshall W. Errickson Elementary,New Jersey,Monmouth,51,98,,2,,40.220094,-74.27876
+966,Mary J. Donohoe,New Jersey,Hudson,51,98,,2,,40.6519067,-74.1272075
+967,Rosenbaum Yeshiva of North Jersey,New Jersey,Bergen,98,98,,,,40.9305059,-74.0332251
+968,South End,New Jersey,Essex,49,98,,2,,40.840349,-74.2326667
+969,Stony Brook,New Jersey,Somerset,51,98,,2,,40.576596,-74.6989413
+970,Thomas Edison Energysmart Charter,New Jersey,Somerset,50,98,,2,,40.5280941,-74.5223262
+971,Troy Hills,New Jersey,Morris,51,98,,2,,40.8615782,-74.4562904
+972,Washington Elementary - Little Ferry,New Jersey,Bergen,100,98,,,,40.8473746,-74.0434447
+973,Washington Elementary - North Arlington,New Jersey,Bergen,49,98,,2,,40.7945488,-74.1348231
+974,Willow Grove Elementary,New Jersey,Warren,49,98,,2,,40.862988,-74.817693
+975,Cedar Mountain Primary,New Jersey,Sussex,193,97.9,,1,,41.218634,-74.5064261
+976,Chews Elementary,New Jersey,Camden,95,97.9,,1,,39.8407516,-75.0496744
+977,Dane Barse,New Jersey,Cumberland,48,97.9,,,,39.4838543,-75.0529789
+978,Franklin Park,New Jersey,Somerset,142,97.9,,1.4,,40.4440768,-74.5422455
+979,Haworth Public,New Jersey,Bergen,48,97.9,2.1,,,40.9616421,-73.9855529
+980,Lincoln Community,New Jersey,Hudson,48,97.9,,2.1,,40.6667013,-74.1101431
+981,Memorial - Maywood,New Jersey,Bergen,95,97.9,,2.1,,40.9107356,-74.0617854
+982,Memorial - Totowa,New Jersey,Passaic,96,97.9,,2.1,,40.903294,-74.2166216
+983,Parkview Elementary,New Jersey,Gloucester,48,97.9,,2.1,,39.866655,-75.126941
+984,Private Nicholas Minue,New Jersey,Middlesex,97,97.9,,,,40.5985235,-74.2381119
+985,Yeshiva Ktana of Passaic / Girls Division,New Jersey,Passaic,97,97.9,,,,40.852183,-74.1279557
+986,Benjamin Banneker Academy,New Jersey,Essex,46,97.8,,2.2,,40.7492672,-74.2251492
+987,Berkeley Elementary,New Jersey,Bergen,46,97.8,,2.2,,40.9920345,-74.024597
+988,Clifton 12,New Jersey,Passaic,89,97.8,,2.2,,40.8766037,-74.132254
+989,College Achieve Public Charter - Paterson,New Jersey,Passaic,89,97.8,,,,40.9149317,-74.1777473
+990,Crawford-Rodriguez Elementary,New Jersey,Ocean,93,97.8,,,,40.1488856,-74.2652713
+991,E.T. Hamilton,New Jersey,Camden,45,97.8,,2.2,,39.8260938,-74.9425233
+992,Frankling Elementary - Saddle Brook,New Jersey,Bergen,45,97.8,,2.2,,40.8934001,-74.0960565
+993,Haviland Avenue,New Jersey,Camden,91,97.8,,1.1,,39.8943026,-75.0643544
+994,Herbertsville Elementary,New Jersey,Ocean,45,97.8,,2.2,,40.1118743,-74.1121683
+995,Herma S. Simmons Elementary,New Jersey,Gloucester,90,97.8,,2.2,,39.649931,-75.096796
+996,Hillsborough Elementary,New Jersey,Somerset,91,97.8,,2.2,,40.5028882,-74.643533
+997,Holly Glen Elementary,New Jersey,Gloucester,92,97.8,,,,39.6946921,-75.0049461
+998,Hopewell Crest,New Jersey,Cumberland,45,97.8,2.2,,,39.454402,-75.262556
+999,Howard Yocum,New Jersey,Burlington,186,97.8,,1.6,,39.9684121,-75.0123284
+1000,John Brainerd Elementary,New Jersey,Burlington,93,97.8,,1.1,,39.9889,-74.7814
+1001,John Marshall 20,New Jersey,Union,45,97.8,,,,40.6588111,-74.1913343
+1002,Joseph Kushner Hebrew Academy,New Jersey,Essex,45,97.8,,,,40.7744699,-74.3602605
+1003,Lady Liberty Academy Charter,New Jersey,Essex,45,97.8,,,,40.736274,-74.2361835
+1004,Mary A. Hubbard,New Jersey,Bergen,92,97.8,,2.2,,41.0475868,-74.1597523
+1005,Matthew Jago 28,New Jersey,Middlesex,45,97.8,,2.2,,40.5588716,-74.2596656
+1006,Pace Charter of Hamilton,New Jersey,Mercer,46,97.8,,2.2,,40.226126,-74.7131491
+1007,Parkview,New Jersey,Middlesex,45,97.8,,2.2,,40.4504293,-74.4302245
+1008,Parkway Elementary,New Jersey,Mercer,46,97.8,,2.2,,40.9658267,-74.0676389
+1009,Paterson 3,New Jersey,Passaic,45,97.8,,2.2,,40.8933774,-74.1555175
+1010,Saint Philip Preparatory,New Jersey,Passaic,46,97.8,,2.2,,40.8724949,-74.1870917
+1011,Valley View,New Jersey,Morris,46,97.8,,2.2,,40.7173723,-74.8508672
+1012,Van Derveer and Preschool,New Jersey,Somerset,139,97.8,,2.2,,40.5727001,-74.59697
+1013,Whiton Elementary,New Jersey,Somerset,135,97.8,,0.7,,40.54505,-74.7226484
+1014,Central Elementary,New Jersey,Somerset,43,97.7,1.8,1.8,,40.4367893,-74.3982553
+1015,Elliott Street,New Jersey,Essex,86,97.7,,,,40.7763157,-74.1627023
+1016,Frank J. Dugan Elementarty,New Jersey,Monmouth,43,97.7,,2.3,,40.319293,-74.2706087
+1017,Franklin Elementary - Kearny,New Jersey,Hudson,128,97.7,,1.6,,40.7558668,-74.1464754
+1018,Gantner Avenue,New Jersey,Bergen,44,97.7,,2.3,,40.8928517,-74.124209
+1019,Garfield East Elementary,New Jersey,Burlington,43,97.7,,2.3,,40.018721,-74.868174
+1020,Gladys Cannon Nunery/PS 29,New Jersey,Hudson,43,97.7,,,,40.708713,-74.079346
+1021,Grenloch Terrace Early Childhood Center,New Jersey,Gloucester,263,97.7,0.4,1.5,,39.7782772,-75.0576909
+1022,Mahala F. Atchison,New Jersey,Monmouth,176,97.7,1.7,,,40.3155539,-74.091231
+1023,Mary F. Janvier Elementary,New Jersey,Gloucester,176,97.7,,2.3,,39.6183427,-75.0217765
+1024,Menlo Park Terrace Elementary,New Jersey,Middlesex,44,97.7,,2.3,,40.5573427,-74.3224206
+1025,Middle Township Elementary 1,New Jersey,Cape May,172,97.7,,1.2,,39.0781081,-74.8235713
+1026,National Park,New Jersey,Gloucester,43,97.7,,2.3,,39.8692138,-75.1866396
+1027,Ocean Avenue,New Jersey,Monmouth,43,97.7,2.3,,,40.4359004,-74.1172041
+1028,Orchard,New Jersey,Bergen,43,97.7,,2.3,,40.9736201,-74.1283628
+1029,Paterson P.S. 29,New Jersey,Passaic,86,97.7,,2.3,,40.9069015,-74.1912749
+1030,Paul Robeson Community,New Jersey,Middlesex,86,97.7,,,,40.4833155,-74.4445403
+1031,Pearson Elementary,New Jersey,Burlington,43,97.7,,,,40.0528494,-74.947044
+1032,Petway Elementary,New Jersey,Cumberland,88,97.7,,1.1,,39.4669585,-74.9736374
+1033,River Plaza Elementary,New Jersey,Monmouth,44,97.7,2.3,,,40.3554203,-74.0868098
+1034,Saint Joseph Regional - Somers Point,New Jersey,Atlantic,43,97.7,,2.3,,39.317176,-74.5924
+1035,Sherman,New Jersey,Union,44,97.7,,2.3,,40.6662124,-74.2542259
+1036,South Mountain Elementary - South Orange,New Jersey,Essex,44,97.7,,,,40.7472594,-74.2723571
+1037,Thomas G. Connors Elementary,New Jersey,Hudson,44,97.7,,,,,
+1038,Van Holten Primary,New Jersey,Somerset,43,97.7,,,,40.6037879,-74.6533251
+1039,Washington Elementary - Bergenfield,New Jersey,Bergen,44,97.7,,,,40.926252,-73.993064
+1040,Washington Elementary - Washington Twp,New Jersey,Bergen,44,97.7,,2.3,,40.9922819,-74.065537
+1041,Adamsville,New Jersey,Somerset,85,97.6,,2.4,,40.568727,-74.581346
+1042,Belmont Runyon,New Jersey,Essex,41,97.6,,,,40.717536,-74.198206
+1043,Catherine E. Doyle,New Jersey,Bergen,85,97.6,,1.2,,40.8521757,-74.0917861
+1044,Chelsea Heights Elementary,New Jersey,Atlantic,41,97.6,,2.4,,39.3560337,-74.4642028
+1045,Dennis B. O'Brien,New Jersey,Morris,41,97.6,,2.4,,40.9099588,-74.5458262
+1046,Dr. Gerald H. Woehr Elementary,New Jersey,Ocean,83,97.6,1.2,1.2,,40.0710347,-74.5271334
+1047,Fernbrook Elementary,New Jersey,Morris,85,97.6,,2.4,,40.8666252,-74.5649669
+1048,Francis A. Desmares Elementary,New Jersey,Hunterdon,84,97.6,,2.4,,40.542427,-74.861293
+1049,Hatchery Hill Elementary,New Jersey,Warren,85,97.6,,1.2,,40.8437732,-74.8367321
+1050,Hudson,New Jersey,Hudson,83,97.6,,,,40.7440663,-74.0314791
+1051,Ivy Hill Elementary,New Jersey,Essex,42,97.6,,2.4,,40.7373795,-74.2381356
+1052,Liberty Corner Elementary,New Jersey,Somerset,82,97.6,,2.4,,40.6665227,-74.5828502
+1053,Lincoln Elementary - Edison,New Jersey,Middlesex,125,97.6,,0.8,,40.5216244,-74.3826874
+1054,Lincoln Park Elementary,New Jersey,Morris,83,97.6,,2.4,,40.9107914,-74.2867951
+1055,Livingston Park Elementary,New Jersey,Middlesex,84,97.6,,1.2,,40.4661098,-74.4738785
+1056,Madison Elementary,New Jersey,#N/A,41,97.6,,2.4,,40.609537,-74.2939206
+1057,Madison Park Elementary,New Jersey,Middlesex,41,97.6,,,,40.4519761,-74.3085596
+1058,Midland 1 - Rochelle Park,New Jersey,Bergen,42,97.6,,2.4,,40.9046212,-74.0771673
+1059,Myron L. Powell,New Jersey,Cumberland,41,97.6,,2.4,,39.339819,-75.200417
+1060,North 10th Street,New Jersey,Essex,42,97.6,,,,40.7690649,-74.1861272
+1061,Oaklyn Public,New Jersey,Camden,42,97.6,,,,39.8999523,-75.0840651
+1062,Ocean Township Elementary,New Jersey,Monmouth,82,97.6,,2.4,,40.2628497,-74.0294738
+1063,Philip's Academy Charter,New Jersey,Essex,42,97.6,,2.4,,40.7463121,-74.1862893
+1064,Shongum,New Jersey,Morris,85,97.6,,2.4,,40.8279608,-74.5494794
+1065,Alexander Hamilton Elementary,New Jersey,Bergen,40,97.5,,,,40.951904,-74.1307241
+1066,Alfred Vail Elementary,New Jersey,Morris,80,97.5,,2.5,,40.8180497,-74.4811526
+1067,Cedar Hill,New Jersey,Somerset,79,97.5,1.3,13.2,,40.9165097,-74.3409275
+1068,Corpus Christi,New Jersey,Bergen,40,97.5,,2.5,,40.8629538,-74.0760093
+1069,Donald A. Quarles,New Jersey,Bergen,199,97.5,0.5,0.5,,40.903177,-73.9640947
+1070,Dr. E. Alma Flagg Elementary,New Jersey,Essex,40,97.5,,,,40.753358,-74.187331
+1071,Folsom Elementary,New Jersey,Atlantic,40,97.5,2.5,,,39.6036682,-74.8470975
+1072,Golda Och Academy-Lower Campus,New Jersey,Essex,40,97.5,,,,40.7770554,-74.2513095
+1073,H. Russell Swift Elementary,New Jersey,Atlantic,81,97.5,,2.5,,39.3700481,-74.6287891
+1074,Klockner Elementary,New Jersey,Mercer,40,97.5,,2.5,,40.234582,-74.709513
+1075,Newell Elementary,New Jersey,Monmouth,80,97.5,,2.5,,40.1731952,-74.58679
+1076,Roosevelt Elementary - North Arlington,New Jersey,Bergen,40,97.5,,2.5,,40.7955105,-74.1217195
+1077,Rosenauer Elementary,New Jersey,Ocean,40,97.5,,2.5,,40.1219348,-74.2499341
+1078,Saint Paul's Day,New Jersey,Union,40,97.5,,,,40.6541025,-74.3447882
+1079,Abraham Lincoln 14,New Jersey,Union,117,97.4,,1.7,,40.6599158,-74.2280206
+1080,Beloved Community Charter,New Jersey,Hudson,116,97.4,,2.6,,40.7178383,-74.0584887
+1081,Buckshutem Road,New Jersey,Cumberland,77,97.4,,,,39.4233424,-75.2146172
+1082,Cranbury Elementary,New Jersey,Middlesex,38,97.4,,2.6,,40.312071,-74.5184053
+1083,Delaware Township,New Jersey,Hunterdon,39,97.4,,2.6,,40.4462492,-74.9363129
+1084,Edward W. Kilpatrick,New Jersey,Passaic,78,97.4,1.3,1.3,,40.9175025,-74.1637712
+1085,Elizabeth Haddon Elementary,New Jersey,Camden,39,97.4,,2.6,,39.8961838,-75.0450793
+1086,Frank K. Hehnly,New Jersey,Union,78,97.4,,2.6,,40.6150874,-74.3275868
+1087,Glenwood Avenue Elementary,New Jersey,Cape May,76,97.4,,,,38.9942966,-74.813598
+1088,Hawkins Street,New Jersey,Essex,76,97.4,,,,40.730991,-74.139961
+1089,International Academy of Atlantic City Charter,New Jersey,Atlantic,76,97.4,,1.3,,39.3902131,-74.525915
+1090,James Madison Primary,New Jersey,Middlesex,156,97.4,,0.6,,40.5850289,-74.3531109
+1091,Kennedy Park,New Jersey,Middlesex,78,97.4,,,,40.5787778,-74.3233084
+1092,Lenna W. Conrow,New Jersey,Monmouth,116,97.4,,2.6,,40.3167046,-73.9841944
+1093,Lincoln Elementary - Caldwell,New Jersey,Essex,39,97.4,,2.6,,40.8366161,-74.2698799
+1094,Little Flower Montessori,New Jersey,Middlesex,76,97.4,,2.6,,40.5210744,-74.4144832
+1095,Marshall Elementary,New Jersey,Essex,154,97.4,,2,,40.747359,-74.247445
+1096,McKenzie,New Jersey,Bergen,115,97.4,,2.6,,40.8467154,-74.1134894
+1097,McKeown Elementary,New Jersey,Sussex,39,97.4,,,,41.110701,-74.757932
+1098,Milltown Primary,New Jersey,Somerset,76,97.4,,2.6,,40.5983754,-74.6728429
+1099,Pennsylvania Ave 27,New Jersey,Middlesex,38,97.4,,,,40.602553,-74.3138809
+1100,Robert Waters,New Jersey,Hudson,113,97.4,,0.9,,40.7718061,-74.0338084
+1101,Theunis Dey,New Jersey,Passaic,39,97.4,,2.6,,40.9620159,-74.2622642
+1102,William H Ross Elementary,New Jersey,Atlantic,39,97.4,,2.6,,39.3315537,-74.5024609
+1103,Byram Lakes Elementary,New Jersey,Sussex,75,97.3,,2.7,,40.9344977,-74.7032262
+1104,Elmora 12,New Jersey,Union,75,97.3,,2.7,,40.6693466,-74.2340126
+1105,Green Hills,New Jersey,Sussex,37,97.3,,,,40.9831591,-74.7939813
+1106,Greenville Elementary,New Jersey,Monmouth,112,97.3,,2.7,,40.1182511,-74.1570116
+1107,Haskell Elementary,New Jersey,Passaic,37,97.3,,,,41.0341158,-74.2953005
+1108,Horace Mann,New Jersey,Hudson,37,97.3,,2.7,,40.6763138,-74.1091
+1109,Life Academy,New Jersey,Essex,110,97.3,0.9,1.8,,40.818993,-74.141067
+1110,Lincoln - Garwood,New Jersey,Union,37,97.3,,2.7,,40.6545006,-74.3270369
+1111,Lincoln Kindergarten Center,New Jersey,Bergen,183,97.3,,2.7,,40.7298793,-74.0832749
+1112,Mount Tabor Elementary,New Jersey,Morris,73,97.3,,2.7,,40.8676979,-74.4729388
+1113,Mount Vernon Elementary,New Jersey,Essex,73,97.3,,1.4,,40.7371791,-74.2448529
+1114,Saint John the Apostle,New Jersey,Union,37,97.3,,2.7,,40.6309456,-74.2823595
+1115,Slaybaugh Primary,New Jersey,Atlantic,146,97.3,,2.7,,39.3697071,-74.6310829
+1116,Anna C. Scott,New Jersey,Bergen,109,97.2,,2.8,,40.8610463,-73.9870016
+1117,Atlantic Highlands Elementary,New Jersey,Monmouth,36,97.2,,2.8,,40.4113531,-74.0383357
+1118,Bowne-Munro Elementary,New Jersey,Middlesex,36,97.2,,,,40.4130958,-74.3711101
+1119,Cliffside Park Number Four,New Jersey,Bergen,218,97.2,,2.8,,40.8207719,-73.9864469
+1120,Compass Academy Charter,New Jersey,Cumberland,36,97.2,,,,39.4776981,-75.0421221
+1121,Fairview Elementary,New Jersey,Essex,71,97.2,,2.8,,40.7934723,-74.1864269
+1122,Florence Avenue Elementary,New Jersey,Essex,108,97.2,,,,40.7249369,-74.244163
+1123,Frog Pond Elementary,New Jersey,Ocean,107,97.2,,1.9,,39.6289362,-74.3268606
+1124,Gables Elementary,New Jersey,Monmouth,36,97.2,,,,40.2126292,-74.0418863
+1125,Glenview,New Jersey,Camden,36,97.2,,2.8,,39.8767517,-75.0751316
+1126,Lincoln Early Childhood Learning Center,New Jersey,Union,217,97.2,1.4,1.4,,40.6746028,-74.2124298
+1127,Marshall Hill,New Jersey,Passaic,36,97.2,,2.8,,41.13349,-74.35106
+1128,Mountview Road,New Jersey,Morris,36,97.2,,2.8,,40.8294932,-74.457508
+1129,Paterson Arts and Science,New Jersey,Passaic,72,97.2,2.8,,,40.910052,-74.1797548
+1130,Ronald L. Meinders Primary Learning Center,New Jersey,Ocean,253,97.2,0.4,2.4,,39.7033068,-74.2832196
+1131,Saint Bartholomew,New Jersey,Middlesex,36,97.2,,2.8,,40.4323249,-74.4222374
+1132,Stephen J. Gerace,New Jersey,Morris,36,97.2,,2.8,,40.9461217,-74.2987151
+1133,Tinc Road,New Jersey,Morris,72,97.2,,2.8,,40.8480864,-74.7227805
+1134,Watsessing Elementary,New Jersey,Essex,36,97.2,,,,40.7857036,-74.2034415
+1135,Winslow Township 4,New Jersey,Camden,107,97.2,,1.9,,39.6942448,-74.9091853
+1136,Winslow Township Elementary 1,New Jersey,Camden,71,97.2,,2.8,,39.6756269,-74.8918059
+1137,Alloway Township,New Jersey,Salem,35,97.1,2.9,,,39.5583754,-75.3642637
+1138,Baldwin T. Demarest,New Jersey,Bergen,68,97.1,,2.9,,41.0100324,-73.9862617
+1139,Bertrand F. Gibbs,New Jersey,Bergen,69,97.1,1.4,1.4,,40.9463033,-74.0118671
+1140,Charles L. Spragg Elementary,New Jersey,Atlantic,68,97.1,,,,39.5352946,-74.6367348
+1141,Chester M. Stephens Elementary,New Jersey,Morris,105,97.1,,1.9,,40.8587666,-74.7282898
+1142,Cliffwood Elementary,New Jersey,Monmouth,69,97.1,1.4,1.4,,40.437973,-74.2294878
+1143,Dr. Albert Einstein Academy 29,New Jersey,Union,70,97.1,1.4,1.4,,40.6857649,-74.2137138
+1144,Fort Lee 3,New Jersey,Bergen,102,97.1,1,2,,40.8648681,-73.9650836
+1145,Henry B. Milnes Elementary,New Jersey,Bergen,68,97.1,,1.5,,40.9356783,-74.1054599
+1146,Hilltop,New Jersey,Morris,35,97.1,,2.9,,40.8662511,-74.0829818
+1147,Indian Mills,New Jersey,Burlington,69,97.1,,,,39.7976849,-74.7447239
+1148,John Hydock Elementary,New Jersey,Burlington,68,97.1,,2.9,,40.0739842,-74.718583
+1149,Joseph C. Caruso,New Jersey,Monmouth,137,97.1,,2.9,,40.4437537,-74.1339588
+1150,Lincoln Elementary - Harrison,New Jersey,Hudson,172,97.1,,,,40.7493262,-74.1554891
+1151,Linden Avenue,New Jersey,Essex,69,97.1,,2.9,,40.793118,-74.209524
+1152,Lindeneau Elementary,New Jersey,Middlesex,68,97.1,,1.5,,40.5045288,-74.4082652
+1153,Merchantville,New Jersey,Camden,35,97.1,,2.9,,39.9489849,-75.0490535
+1154,Millstone Township Primary,New Jersey,Monmouth,105,97.1,,1.9,,40.204599,-74.426823
+1155,Northeast,New Jersey,Essex,68,97.1,,2.9,,40.8459794,-74.1936274
+1156,Osage Elementary,New Jersey,Camden,104,97.1,,,,39.8527754,-75.0040666
+1157,Philip G. Vroom,New Jersey,Hudson,35,97.1,,2.9,,40.6665789,-74.1169778
+1158,Reeds Road,New Jersey,Atlantic,69,97.1,,2.9,,39.4886949,-74.5145492
+1159,Roseville Community Charter,New Jersey,Essex,68,97.1,,2.9,,40.7540869,-74.1939313
+1160,South Street,New Jersey,Essex,103,97.1,,,,40.7235361,-74.1705499
+1161,US Wiggins College Preparatory Lab,New Jersey,Camden,35,97.1,,,,39.9333551,-75.1213744
+1162,Washington Elementary,New Jersey,Passaic,69,97.1,,1.6,,40.926252,-73.993064
+1163,Westbrook,New Jersey,Passaic,35,97.1,,2.9,,41.0807846,-74.3790025
+1164,Woodmont,New Jersey,Morris,68,97.1,,2.9,,40.8720905,-74.3479003
+1165,Yardville Elementary,New Jersey,Mercer,35,97.1,,,,40.177811,-74.662189
+1166,Alan B. Shepard Elementary,New Jersey,Middlesex,33,97,,3,,40.3989285,-74.3136194
+1167,Bais Reuven Kamenitz,New Jersey,Ocean,33,97,3,,,40.0936204,-74.2102384
+1168,Bergen Arts and Science Charter,New Jersey,Bergen,100,97,,3,,40.884924,-74.1215644
+1169,Berkeley,New Jersey,Essex,66,97,1.5,1.5,,40.7433876,-74.1688624
+1170,Columbus Elementary,New Jersey,Mercer,67,97,,2.9,,40.242083,-74.745288
+1171,Dwight-Englewood,New Jersey,Bergen,33,97,,,,40.8878295,-73.9617994
+1172,Gillette Elementary,New Jersey,Morris,100,97,,3,,40.6722018,-74.4706964
+1173,Jersey City P.S. 20,New Jersey,Hudson,99,97,1,,,40.6967866,-74.0897851
+1174,JFK,New Jersey,Middlesex,67,97,,1.5,,40.5724891,-74.3036398
+1175,Netcong Elementary,New Jersey,Morris,33,97,,,,40.899589,-74.698701
+1176,Sewell Elementary,New Jersey,Gloucester,67,97,,3,,39.7650274,-75.136564
+1177,Stillwater Township Elementary,New Jersey,Sussex,33,97,,3,,41.037793,-74.876796
+1178,Thomas B. Conley Elementary,New Jersey,Hunterdon,33,97,,3,,40.684418,-74.992977
+1179,Yeshiva Toras Aron,New Jersey,Ocean,99,97,,2,,40.075584,-74.2309552
+1180,Cecil S. Collins Elementary,New Jersey,Ocean,65,96.9,,3.1,,39.7594024,-74.2391513
+1181,Clara B. Worth,New Jersey,Ocean,97,96.9,1,2.1,,39.8905634,-74.1644808
+1182,Crescent Elementary,New Jersey,Bergen,64,96.9,,1.6,,41.019107,-74.1366406
+1183,Early Childhood Learning Center,New Jersey,Warren,192,96.9,,2.1,,40.2416186,-74.3005227
+1184,Glenwood Elementary,New Jersey,Essex,65,96.9,,,,40.725509,-74.333029
+1185,Jeffrey Clark,New Jersey,Gloucester,160,96.9,0.6,2.5,,39.7887553,-75.2434361
+1186,Jersey City Community Charter,New Jersey,Hudson,65,96.9,,1.5,,40.6964536,-74.0909752
+1187,Jersey City P.S. 26,New Jersey,Hudson,65,96.9,,1.5,,40.7384957,-74.0559719
+1188,Saint Mary,New Jersey,Monmouth,32,96.9,,3.1,,39.6787792,-74.9883009
+1189,Union Township Elementary,New Jersey,Hunterdon,32,96.9,,,,40.6277967,-74.9672836
+1190,Wayside,New Jersey,Monmouth,98,96.9,,2,,40.2518249,-74.0713691
+1191,Whiting Elementary,New Jersey,Ocean,32,96.9,,3.1,,39.959142,-74.3779009
+1192,A. Chester Redshaw Elementary,New Jersey,Middlesex,154,96.8,,0.6,,40.4859162,-74.4503748
+1193,Dayton Elementary,New Jersey,Middlesex,95,96.8,,3.2,,40.3725098,-74.5094324
+1194,Drum Point Road Elementary,New Jersey,Ocean,62,96.8,,3.2,,40.0443628,-74.138838
+1195,Edward R. Johnstone,New Jersey,Cumberland,62,96.8,,1.6,,39.4812161,-74.9750328
+1196,Harding Township,New Jersey,Morris,31,96.8,,3.2,,40.7397683,-74.511172
+1197,Jersey City P.S. 38,New Jersey,Hudson,94,96.8,,2.1,,40.7092169,-74.090452
+1198,Roosevelt Elementary - South Plainfield,New Jersey,Middlesex,95,96.8,,2.1,,40.5703484,-74.4160672
+1199,West Freehold,New Jersey,Monmouth,62,96.8,,3.2,,40.245492,-74.3009233
+1200,Winslow Township Elementary 3,New Jersey,Camden,94,96.8,,3.2,,39.7063084,-74.9541068
+1201,YBH Passaic-Hillel,New Jersey,Passaic,62,96.8,,3.2,,40.8521968,-74.1340891
+1202,Alice Costello Elementary,New Jersey,Camden,30,96.7,,3.3,,39.8781591,-75.1185299
+1203,Central,New Jersey,Camden,61,96.7,,3.3,,40.963938,-74.1254979
+1204,Community Park,New Jersey,Mercer,61,96.7,,1.6,,40.3584546,-74.6645464
+1205,Connecticut Farms,New Jersey,Union,30,96.7,,3.3,,40.6933312,-74.2728108
+1206,Frost Elementary,New Jersey,Middlesex,60,96.7,,,,40.4114559,-74.4007282
+1207,George Washington - Edgewater,New Jersey,Bergen,180,96.7,1.7,1.7,,40.8417503,-73.969885
+1208,Grant - Dumont,New Jersey,Bergen,60,96.7,,3.3,,40.9477938,-73.9845961
+1209,James Monroe Elementary,New Jersey,Middlesex,60,96.7,,3.3,,40.5406457,-74.3312181
+1210,Julia A. Traphagen Elementary,New Jersey,Bergen,61,96.7,,3.3,,41.0163485,-74.110401
+1211,Knowlton Township Elementary,New Jersey,Warren,30,96.7,,3.3,,40.8905053,-75.0654153
+1212,Learning Community Charter,New Jersey,Hudson,60,96.7,,3.3,,40.7228986,-74.0755338
+1213,Linden 10,New Jersey,Union,30,96.7,,3.3,,40.6408155,-74.2836358
+1214,McGinn Elementary,New Jersey,Union,92,96.7,,3.3,,40.6394492,-74.3737758
+1215,Montague Elementary,New Jersey,Sussex,30,96.7,,3.3,,41.2872345,-74.7924671
+1216,Northfield Community Elementary,New Jersey,Atlantic,91,96.7,,3.3,,39.3671645,-74.5610065
+1217,Ralph S. Maugham Elementary,New Jersey,Bergen,60,96.7,,1.7,,40.929366,-73.9604164
+1218,RM Bacon Elementary,New Jersey,Cumberland,61,96.7,,3.3,,39.3872141,-75.0306898
+1219,Roosevelt Elementary - River Edge,New Jersey,Bergen,61,96.7,,,,40.9339923,-74.0341434
+1220,Silver Run Elementary,New Jersey,Cumberland,92,96.7,,2.2,,39.3868847,-75.0446211
+1221,Stanley Preschool,New Jersey,Morris,30,96.7,3.3,,,40.7323229,-74.4161216
+1222,Upper Pittsgrove,New Jersey,Salem,30,96.7,3.3,,,39.62813,-75.202706
+1223,Van Sciver Elementary,New Jersey,Camden,30,96.7,,3.3,,39.8995473,-75.0554287
+1224,Village,New Jersey,Monmouth,153,96.7,,2.6,,40.3454888,-74.1701609
+1225,Walter M. Schirra Elementary,New Jersey,Middlesex,30,96.7,,3.3,,40.3932681,-74.3155794
+1226,Wolf Hill,New Jersey,Monmouth,60,96.7,,,,40.307494,-74.033001
+1227,Woodfern,New Jersey,Somerset,60,96.7,,3.3,,40.4968189,-74.7584861
+1228,B. Bernice Young Elementary,New Jersey,Burlington,235,96.6,,0.8,,40.077728,-74.81631
+1229,Charles Street,New Jersey,Burlington,59,96.6,,3.4,,39.9973655,-75.0216087
+1230,Dennis Townships,New Jersey,Cape May,58,96.6,,3.4,,39.1690816,-74.7930018
+1231,Grace N. Rogers Elementary,New Jersey,Mercer,58,96.6,1.7,1.7,,40.2728098,-74.5327793
+1232,Hamburg Public,New Jersey,Sussex,29,96.6,,3.4,,41.152893,-74.572411
+1233,Hazel Avenue,New Jersey,Essex,59,96.6,,3.4,,40.7702893,-74.2497996
+1234,Hillview Elemenetary,New Jersey,Morris,59,96.6,,3.4,,40.9587239,-74.2984682
+1235,Hugh J Boyd Jr Elementary,New Jersey,Ocean,29,96.6,,3.4,,39.9462958,-74.0779517
+1236,J. F. Tatem Elementary,New Jersey,Camden,58,96.6,,3.4,,39.9025087,-75.0298174
+1237,Jerome Dunn Academy,New Jersey,Union,119,96.6,,,,40.652247,-74.188886
+1238,Kresson,New Jersey,Camden,58,96.6,,3.4,,39.86126,-74.9243505
+1239,Lacordaire Academy,New Jersey,Essex,29,96.6,,3.4,,40.8420285,-74.2011993
+1240,Livingston Elementary,New Jersey,Union,88,96.6,,1.1,,40.485305,-74.4509666
+1241,South Hackensack Memorial,New Jersey,Bergen,29,96.6,,3.4,,40.8653262,-74.0453702
+1242,Three Bridges,New Jersey,Hunterdon,58,96.6,,3.4,,40.5241531,-74.7954434
+1243,Woodrow Wilson Elementary,New Jersey,Monmouth,58,96.6,,3.4,,40.2033019,-74.0393178
+1244,Barclay Brook,New Jersey,Middlesex,85,96.5,,3.5,,40.3384022,-74.4162939
+1245,George L Catrambone Elementary,New Jersey,Monmouth,57,96.5,,1.8,,40.2698753,-73.9979708
+1246,Hillcrest,New Jersey,Somerset,85,96.5,,3.5,,40.7912157,-74.5006674
+1247,Hudson Maxim,New Jersey,Sussex,115,96.5,,3.5,,40.9397562,-74.6578388
+1248,KIPP Lanning Square Primary,New Jersey,Camden,114,96.5,,,,39.938838,-75.1195952
+1249,Kuser Elementary,New Jersey,Mercer,57,96.5,,1.8,,40.220402,-74.725111
+1250,Lafayette Elementary,New Jersey,Passaic,57,96.5,,3.5,,40.9352114,-74.2205925
+1251,All Saints Catholic Academy,New Jersey,Hudson,56,96.4,1.8,1.8,,40.6576503,-74.1253422
+1252,Arthur M. Judd Elementary,New Jersey,Middlesex,110,96.4,,2.7,,40.448911,-74.4743781
+1253,Dr. Albert M. Bean,New Jersey,Camden,55,96.4,,1.8,,39.7898386,-74.9865302
+1254,Fort Lee 4,New Jersey,Bergen,84,96.4,1.2,2.4,,40.8562383,-73.9653715
+1255,Franklin Borough Elementary,New Jersey,Sussex,55,96.4,,1.8,,41.1179491,-74.5824091
+1256,Godwin Elementary,New Jersey,Bergen,83,96.4,,2.4,,40.9926996,-74.1398368
+1257,Immaculate Conception,New Jersey,Somerset,28,96.4,,3.6,,40.5735145,-74.6204983
+1258,Newark Educators' Community Charter,New Jersey,Essex,56,96.4,,1.8,,40.7319455,-74.1750943
+1259,Paradise Knoll Elementary,New Jersey,Passaic,28,96.4,,3.6,,41.058895,-74.464353
+1260,Parsons Elementary,New Jersey,Middlesex,112,96.4,,1.8,,40.4734049,-74.4561956
+1261,Robbins Annex,New Jersey,Mercer,111,96.4,,,,40.2164853,-74.749898
+1262,Roosevelt Elementary,New Jersey,Union,83,96.4,,8,,40.7955105,-74.1217195
+1263,Saint Paul,New Jersey,Mercer,28,96.4,,,,40.3519376,-74.65343
+1264,Sixteenth Avenue,New Jersey,Bergen,83,96.4,,3.6,,40.918469,-74.1194977
+1265,Somerdale Park Elementary,New Jersey,Camden,55,96.4,1.8,,,39.8498307,-75.0209125
+1266,Upper Township Primary,New Jersey,Cape May,140,96.4,1.4,2.1,,39.2708289,-74.6464455
+1267,Cedar Grove Elementary,New Jersey,Ocean,108,96.3,0.9,2.8,,39.9684369,-74.1692849
+1268,Gregory Elementary,New Jersey,Monmouth,108,96.3,,,,40.7658036,-74.2585236
+1269,Jefferson Primary Center,New Jersey,Union,82,96.3,,2.4,,40.7057322,-74.3505744
+1270,Johnson Park,New Jersey,Mercer,54,96.3,,,,40.3486895,-74.685405
+1271,Joseph A. Citta Elementary,New Jersey,Ocean,81,96.3,,3.7,,40.0275263,-74.2255156
+1272,Laura Donovan,New Jersey,Monmouth,54,96.3,,3.7,,40.227813,-74.2857669
+1273,Lincoln Avenue,New Jersey,Essex,82,96.3,,,,40.7679204,-74.2368179
+1274,Little Falls 2,New Jersey,Passaic,107,96.3,,1.9,,40.8776536,-74.2179435
+1275,Merriam Avenue,New Jersey,Sussex,82,96.3,1.2,1.2,,41.044646,-74.75383
+1276,North Dover Elementary,New Jersey,Ocean,82,96.3,1.2,1.2,,40.017525,-74.1970518
+1277,Nut Swamp Elementary,New Jersey,Monmouth,82,96.3,1.2,2.4,,40.3665338,-74.1173099
+1278,Saint Vincent Martyr,New Jersey,Morris,27,96.3,,,,40.7580809,-74.4182308
+1279,The Academy of Our Lady of Peace,New Jersey,Union,27,96.3,,3.7,,40.7023789,-74.4063729
+1280,The Village,New Jersey,Bergen,27,96.3,,3.7,,41.012232,-74.129066
+1281,Tuscan Elementary,New Jersey,Essex,109,96.3,,1.8,,40.7249537,-74.2719286
+1282,United Talmudical Adademy,New Jersey,Ocean,27,96.3,,3.7,,40.104522,-74.2161212
+1283,Walnut Avenue,New Jersey,Union,81,96.3,,3.7,,40.6461055,-74.3055879
+1284,Arthur M. Pico 8,New Jersey,Essex,80,96.2,,1.2,,40.7947466,-74.2648829
+1285,Benedict A. Cucinella Elementary,New Jersey,Morris,80,96.2,,3.8,,40.8360829,-74.781163
+1286,Bloomingdale Avenue,New Jersey,Union,78,96.2,2.6,1.3,,40.6638811,-74.2909205
+1287,Bridgeton Public Charter,New Jersey,Cumberland,26,96.2,,3.8,,39.4235099,-75.2069852
+1288,Forked River Elementary,New Jersey,Ocean,80,96.2,,3.8,,39.8423599,-74.1922132
+1289,Hillside - Allendale,New Jersey,Bergen,80,96.2,,3.8,,41.0311982,-74.1408691
+1290,J. Harold Van Zant,New Jersey,Burlington,80,96.2,,3.8,,39.9052044,-74.9428665
+1291,Marlton Elementary,New Jersey,Burlington,52,96.2,3.8,,,39.8692541,-74.8957568
+1292,Port Monmouth Elementary,New Jersey,Monmouth,26,96.2,,3.8,,40.427606,-74.106764
+1293,Saint Dominic,New Jersey,Ocean,26,96.2,,3.8,,40.0765975,-74.1129747
+1294,Stonybrook,New Jersey,Morris,53,96.2,,3.8,,40.972258,-74.3539468
+1295,Sycamore Drive Early Childhood Learning Center,New Jersey,Monmouth,185,96.2,0.5,2.7,,40.4232245,-74.1860008
+1296,The Montessori Children's Academy - Chatham,New Jersey,Morris,26,96.2,,,,40.7417307,-74.3840022
+1297,Thomas Jefferson ELC,New Jersey,Bergen,130,96.2,,2.3,,40.8747964,-74.093157
+1298,Thomas Paine Elementary,New Jersey,Camden,52,96.2,,3.8,,39.9325818,-74.9831591
+1299,Union Valley Elementary,New Jersey,Camden,53,96.2,,,,39.7715872,-74.9923409
+1300,West New York P.S. 2,New Jersey,Hudson,106,96.2,0.9,,,40.7817029,-74.0139754
+1301,Winslow Primary,New Jersey,Cumberland,79,96.2,1.3,2.5,,39.4636477,-75.0026059
+1302,Yantacaw Elementary,New Jersey,Essex,80,96.2,,2.5,,40.824529,-74.1504256
+1303,Yeshiva K'tana,New Jersey,Ocean,78,96.2,,,,40.0922949,-74.2111693
+1304,Brandt Primary - Elementary,New Jersey,Hudson,102,96.1,,3.9,,40.7474277,-74.030232
+1305,Cramer College Preparatory Lab,New Jersey,Camden,51,96.1,,,,39.9449659,-75.083298
+1306,Littlebrook,New Jersey,Mercer,51,96.1,,2,,40.3635574,-74.6381218
+1307,Woodcrest Elementary,New Jersey,Camden,51,96.1,,,,39.8744473,-74.9949107
+1308,Arthur Rann Elementary,New Jersey,Atlantic,75,96,,4,,39.4555573,-74.505879
+1309,Frank Smith,New Jersey,Morris,101,96,,4,,40.8123784,-74.3518579
+1310,G. Austin Schoenly,New Jersey,Middlesex,76,96,,4,,40.4040213,-74.3926678
+1311,Grace Downing Elementary,New Jersey,Camden,50,96,,4,,39.8517918,-75.0713629
+1312,Louise A. Spencer Elementary,New Jersey,Essex,76,96,,1.3,,40.7257204,-74.1875643
+1313,Mabel G. Holmes,New Jersey,Union,99,96,,2,,40.6465145,-74.2162817
+1314,Miller Elementary,New Jersey,Middlesex,50,96,,4,,40.4109063,-74.356671
+1315,Nishuane Elementary,New Jersey,Essex,124,96,,4,,40.7994792,-74.2216773
+1316,Saint Andrew's Nursery and Kindergarten,New Jersey,Camden,25,96,,4,,39.9141982,-75.0139458
+1317,Saint Joseph Grade,New Jersey,Ocean,50,96,,4,,39.9610378,-74.1885138
+1318,Sari Isdaner Early Chilhood Center,New Jersey,Camden,25,96,,4,,39.8592439,-75.0143824
+1319,South Amboy Elementary,New Jersey,Middlesex,74,96,,1.4,,40.4810312,-74.2806774
+1320,Wahlstrom Early Childhood Academy,New Jersey,Essex,76,96,,4,,40.7763982,-74.2075293
+1321,Weston Elementary,New Jersey,Somerset,125,96,,2.4,,40.5353128,-74.5936901
+1322,Whitehouse,New Jersey,Hunterdon,75,96,,4,,40.615016,-74.759575
+1323,William Roper Early Childhood Learning Center,New Jersey,Salem,101,96,,3,,39.647894,-75.3118204
+1324,Empowerment Academy,New Jersey,Hudson,121,95.9,0.8,2.5,,40.71586,-74.0854
+1325,School Street,New Jersey,Morris,73,95.9,,4.1,,40.9069936,-74.4125297
+1326,West Dover Elementary,New Jersey,Ocean,49,95.9,,4.1,,39.9715147,-74.2318381
+1327,Woodrow Wilson 19,New Jersey,Union,73,95.9,1.4,1.4,,40.6522358,-74.2217844
+1328,Collings Lakes Elementary,New Jersey,Atlantic,48,95.8,,2.1,,39.5871319,-74.880233
+1329,Copper Hill,New Jersey,Hunterdon,72,95.8,,4.2,,40.4655123,-74.853925
+1330,Emerson,New Jersey,Union,71,95.8,,,,40.6343787,-74.405478
+1331,Emma Havens Young Elementary,New Jersey,Ocean,120,95.8,,1.7,,40.0433856,-74.1374487
+1332,James Johnson Elementary,New Jersey,Camden,71,95.8,,2.8,,39.8898632,-75.0034275
+1333,Leroy Gordon Cooper Elementary,New Jersey,Middlesex,24,95.8,,,,40.4461535,-74.2398687
+1334,Meadowbrook Elementary,New Jersey,Monmouth,96,95.8,1,2.1,,40.3038029,-74.0446691
+1335,Oakwood Avenue Community,New Jersey,Essex,24,95.8,,,,40.7657977,-74.2255513
+1336,Resurrection Catholic,New Jersey,Camden,48,95.8,,2.1,,39.9289495,-74.996166
+1337,Southampton Twp #1,New Jersey,Burlington,71,95.8,,2.8,,39.9355371,-74.7458666
+1338,Tabernacle Elementary,New Jersey,Burlington,72,95.8,,4.2,,39.8464449,-74.7094741
+1339,Viola L. Sickles,New Jersey,Monmouth,71,95.8,1.4,1.4,,40.3643473,-74.0339907
+1340,Whitehall Elementary,New Jersey,Gloucester,48,95.8,,4.2,,39.645932,-74.948012
+1341,Benjamin Franklin,New Jersey,Essex,93,95.7,,3.2,,40.7552594,-74.1751113
+1342,Clifton Number 13 Elementary,New Jersey,Passaic,70,95.7,,2.9,,40.861784,-74.1529259
+1343,Davenport Primary,New Jersey,Atlantic,162,95.7,0.6,3.1,,39.4253621,-74.581182
+1344,Ethel McKnight,New Jersey,Mercer,94,95.7,,2.1,,40.2618987,-74.49002
+1345,Fort Dix Elementary,New Jersey,Burlington,70,95.7,,4.3,,39.9933333,-74.6274496
+1346,John I Dawes Early Learning Center,New Jersey,Monmouth,323,95.7,0.3,2.8,,40.3040902,-74.3482506
+1347,Bee Meadow,New Jersey,Morris,46,95.6,2.2,2.2,,40.831706,-74.406882
+1348,Bnos Devorah,New Jersey,Ocean,114,95.6,,2.6,,40.0641465,-74.205928
+1349,Eastlake Elementary,New Jersey,Morris,45,95.6,,4.4,,40.8628139,-74.4286202
+1350,Elms Elementary,New Jersey,Ocean,92,95.6,,3.3,,40.1535334,-74.4001839
+1351,Grandview Elementary,New Jersey,Middlesex,158,95.6,,3.8,,40.566887,-74.4745286
+1352,Grover Cleveland Elementary,New Jersey,Union,68,95.6,,,,40.6056233,-74.2672668
+1353,Hamilton Park Montessori,New Jersey,Hudson,45,95.6,,,,40.7269354,-74.04392
+1354,Jessie F. George,New Jersey,Bergen,45,95.6,,4.4,,40.9912394,-74.0513654
+1355,Lester D. Wilson Elementary,New Jersey,Hunterdon,46,95.6,,4.4,,40.5681816,-75.0223818
+1356,Margaret Mace,New Jersey,Cape May,23,95.6,,4.4,,38.9988389,-74.797528
+1357,Memorial Elementary,New Jersey,Warren,23,95.6,,4.4,,40.8477251,-74.0421673
+1358,Queen of Peace Elementary,New Jersey,Bergen,23,95.6,,4.4,,40.7871123,-74.1331415
+1359,Roosevelt - Garfield,New Jersey,Bergen,68,95.6,,2.9,,40.8736306,-74.1033054
+1360,Saint Cloud,New Jersey,Essex,69,95.6,,2.9,,40.7710147,-74.2784672
+1361,Saint Thomas the Apostle,New Jersey,Middlesex,23,95.6,,6.7,,40.4024743,-74.3546508
+1362,Switlik Elementary,New Jersey,Ocean,113,95.6,,3.5,,40.110461,-74.3489415
+1363,The Ethical Community Charter,New Jersey,Hudson,45,95.6,,4.4,,40.7359505,-74.0724134
+1364,The Old Mill,New Jersey,Monmouth,68,95.6,,1.5,,40.142132,-74.0552828
+1365,Wenonah Public,New Jersey,Gloucester,23,95.6,,4.4,,39.7944745,-75.1494098
+1366,Yeshiva Even Yisroel,New Jersey,Ocean,45,95.6,,4.4,,40.077522,-74.249072
+1367,Zane North Elementary,New Jersey,Camden,23,95.6,4.4,,,39.9120325,-75.0668954
+1368,Irwin Elementary,New Jersey,Middlesex,67,95.5,,4.5,,40.4273967,-74.3892611
+1369,Pines Lake Elementary,New Jersey,Passaic,67,95.5,,4.5,,40.9832181,-74.2605856
+1370,Allen W. Roberts,New Jersey,Union,65,95.4,,,,40.692529,-74.4149
+1371,Benjamin Franklin Elementary,New Jersey,Middlesex,65,95.4,,1.1,,39.9624175,-75.0403941
+1372,Brighton Avenue,New Jersey,Atlantic,44,95.4,,,,39.3556039,-74.4483943
+1373,Charles H. Bullock,New Jersey,Essex,65,95.4,,4.6,,40.8090067,-74.2136095
+1374,Christ the King Regional,New Jersey,Camden,43,95.4,,4.6,,39.9018036,-75.0340896
+1375,Clifton No 16,New Jersey,Passaic,22,95.4,,4.6,,40.8588134,-74.1874175
+1376,Creative Learning Preschool,New Jersey,Atlantic,22,95.4,,4.6,,39.3425027,-74.584663
+1377,Creme De La Creme,New Jersey,Somerset,22,95.4,,4.6,,40.5720129,-74.6754664
+1378,Edgarton Christian Academy,New Jersey,Gloucester,22,95.4,,4.6,,39.5484663,-75.0179223
+1379,Edgemont Elementary,New Jersey,Essex,43,95.4,,4.6,,40.8307292,-74.2147226
+1380,Frederic W. Cook Elementary,New Jersey,Union,22,95.4,,4.6,,40.6280396,-74.395659
+1381,Glendora Elementary,New Jersey,Camden,43,95.4,,2.3,,39.8382218,-75.0720698
+1382,High Bridge Elementary,New Jersey,Hunterdon,43,95.4,,4.6,,40.6623431,-74.8978142
+1383,HudsonWay Immersion,New Jersey,Union,22,95.4,,,,40.6757272,-74.4941439
+1384,Jewish Educational Center,New Jersey,Union,43,95.4,,,,40.6671899,-74.2341472
+1385,Lake Parsippany Elementary,New Jersey,Morris,44,95.4,,4.6,,40.8601763,-74.4401973
+1386,Little Genius Academy - Edison,New Jersey,Middlesex,22,95.4,,4.6,,40.518435,-74.377671
+1387,Marlton Christian Academy,New Jersey,Burlington,43,95.4,,4.6,,39.8858252,-74.8845009
+1388,Milton Avenue,New Jersey,Morris,43,95.4,,4.6,,40.7475476,-74.3803231
+1389,Moss Elementary,New Jersey,Middlesex,131,95.4,,4.6,,40.5384856,-74.3554676
+1390,North End Elementary,New Jersey,Essex,44,95.4,,4.6,,40.8728166,-74.2348186
+1391,Octavius Catto Demonstration,New Jersey,Camden,66,95.4,,,,39.9489595,-75.0805722
+1392,Primrose of Florham Park,New Jersey,Morris,22,95.4,,4.6,,40.7815487,-74.3756728
+1393,Ranney,New Jersey,Monmouth,22,95.4,,4.6,,40.307978,-74.078188
+1394,Ridge Ranch,New Jersey,Bergen,66,95.4,,4.6,,40.9444358,-74.0643035
+1395,Riverview,New Jersey,Morris,66,95.4,,4.6,,40.8970632,-74.482662
+1396,Roberto Clemente Elementary,New Jersey,Passaic,108,95.4,,,,40.7606857,-74.1705312
+1397,Saint Francis Cathedral,New Jersey,Middlesex,66,95.4,,1.5,,40.5452576,-74.3633562
+1398,Salt Brook,New Jersey,Union,66,95.4,,1.5,,40.7084426,-74.3891694
+1399,Shark River Hills Elementary,New Jersey,Monmouth,43,95.4,,4.6,,40.1977027,-74.0542433
+1400,South Mountain Elementary - Millburn,New Jersey,Essex,44,95.4,,,,40.7193529,-74.2982544
+1401,Talmud Torah Darchei Avoseinu,New Jersey,Ocean,22,95.4,,,,40.0701469,-74.1936345
+1402,The Kingdom Charter of Leadership,New Jersey,Camden,43,95.4,,,,39.8019,-75.0705988
+1403,Thurgood Marshall Elementary,New Jersey,Monmouth,65,95.4,,,,40.7246844,-74.2188933
+1404,West Belmar Elementary,New Jersey,Monmouth,22,95.4,,4.6,,40.1721698,-74.0345819
+1405,Fleetwood Elementary,New Jersey,Burlington,85,95.3,,4.7,,39.9815925,-74.8639251
+1406,George B. Fine Elementary,New Jersey,Camden,64,95.3,,4.7,,39.9561209,-75.0279999
+1407,Pine Grove Manor,New Jersey,Somerset,64,95.3,,,,40.4982132,-74.4722601
+1408,South Mountain Annex,New Jersey,Essex,64,95.3,,,,40.755618,-74.277109
+1409,Blairstown Elementary,New Jersey,Warren,42,95.2,,4.8,,40.982376,-74.954113
+1410,Central Elementary,New Jersey,Somerset,83,95.2,1.8,1.8,,40.4367893,-74.3982553
+1411,Estell Manor Elementary,New Jersey,Atlantic,21,95.2,,4.8,,39.3786516,-74.8259019
+1412,Franklin Elementary,New Jersey,Mercer,62,95.2,,,,40.2058675,-74.7404144
+1413,Hazelwood,New Jersey,Middlesex,42,95.2,,4.8,,40.5758766,-74.5151428
+1414,Highlands Elementary,New Jersey,Monmouth,21,95.2,,4.8,,40.403277,-73.9967713
+1415,John F. Kennedy Elementary,New Jersey,Passaic,63,95.2,,6.7,,40.3491356,-74.4420269
+1416,Leeds Avenue Elementary,New Jersey,Atlantic,84,95.2,,4.8,,39.4089906,-74.5097986
+1417,Our Lady of the Lake,New Jersey,Essex,21,95.2,,4.8,,40.8309,-74.24604
+1418,Raymond E. Voorhees Elementary,New Jersey,Middlesex,62,95.2,,4.8,,40.3898736,-74.3623069
+1419,Saint Peter,New Jersey,Ocean,21,95.2,,,,39.950393,-75.0533048
+1420,Southern Boulevard,New Jersey,Morris,84,95.2,,2.4,,40.7304898,-74.4131075
+1421,Spruce Run,New Jersey,Hunterdon,84,95.2,,4.8,,40.6440482,-74.8923069
+1422,Third Street Elementary,New Jersey,Warren,21,95.2,,,,40.8255756,-75.0786154
+1423,Winfield Scott 2,New Jersey,Union,63,95.2,,,,40.6647163,-74.20977
+1424,Berlin Community,New Jersey,Camden,61,95.1,,4.9,,39.796777,-74.947541
+1425,Charles Olbon,New Jersey,Passaic,102,95.1,,4.9,,40.8902973,-74.1979211
+1426,Dickerson,New Jersey,Morris,82,95.1,,4.9,,40.7849671,-74.679722
+1427,Dr. Michael Conti/PS5,New Jersey,Hudson,81,95.1,,,,40.72442,-74.052252
+1428,Keyport Central,New Jersey,Monmouth,61,95.1,,3.3,,40.428557,-74.1964006
+1429,Kisthardt Elementary,New Jersey,Mercer,41,95.1,2.4,2.4,,40.187684,-74.716582
+1430,Magnolia Public,New Jersey,Camden,41,95.1,,,,39.8583518,-75.0339142
+1431,Robert Hunter Elementary,New Jersey,Hunterdon,81,95.1,1.2,2.5,,40.504008,-74.875689
+1432,Samuel Smith,New Jersey,Burlington,41,95.1,,4.9,,40.0676848,-74.8615661
+1433,Washington Elementary,New Jersey,Passaic,41,95.1,,1.6,,40.926252,-73.993064
+1434,Apple Montessori - Edgewater,New Jersey,Bergen,20,95,,5,,40.8296603,-73.9739808
+1435,Damesek Eliezer,New Jersey,Ocean,20,95,,5,,40.0903714,-74.2080904
+1436,F.N. Brown Elementary,New Jersey,Essex,60,95,1.7,1.7,,40.838924,-74.242954
+1437,French American of Princeton,New Jersey,Middlesex,20,95,,,,40.3578341,-74.6215225
+1438,Kent Place,New Jersey,Union,20,95,,5,,40.719934,-74.364647
+1439,Paterson Academy for Urban Leadership,New Jersey,Passaic,20,95,,,,40.9279955,-74.1748019
+1440,Ridge Early Childhood - Arlington Ave,New Jersey,Essex,60,95,,3.3,,40.7656718,-74.1665757
+1441,Wandell,New Jersey,Bergen,20,95,,5,,41.0321343,-74.0946311
+1442,Yeshiva Ohr Shraga of Lakewood,New Jersey,Ocean,40,95,,2.5,,40.0799349,-74.1759988
+1443,Yeshivas Ohr Hatorah,New Jersey,Ocean,100,95,,3,,40.0749547,-74.2287113
+1444,Amsterdam Elementary,New Jersey,Somerset,78,94.9,1.3,2.6,,40.4807815,-74.5942452
+1445,Franklin - Lyndhurst,New Jersey,Bergen,79,94.9,,5.1,,40.8112344,-74.1281886
+1446,Great Meadows Central,New Jersey,Warren,59,94.9,,3.4,,40.8734319,-74.9029472
+1447,Mountain Way,New Jersey,Morris,59,94.9,,5.1,,40.8349172,-74.4850002
+1448,Robert D. Reynolds Elementary,New Jersey,Bergen,118,94.9,,5.1,,41.063077,-74.099522
+1449,Ross St.,New Jersey,Middlesex,39,94.9,,5.1,,40.5556305,-74.2816611
+1450,Wyoming,New Jersey,Essex,59,94.9,,1.7,,40.7278749,-74.2907809
+1451,Bnos Esther Malka,New Jersey,Ocean,58,94.8,,5.2,,40.085823,-74.2494599
+1452,Hooper Avenue Elementary,New Jersey,Ocean,115,94.8,,5.2,,39.9947636,-74.1701919
+1453,Ocean City Primary,New Jersey,Cape May,77,94.8,,5.2,,39.2838632,-74.5722331
+1454,Point Road Y-Kids,New Jersey,Monmouth,77,94.8,2.6,2.6,,40.3355834,-74.0302696
+1455,Yeshiva Toras Menachem,New Jersey,Ocean,77,94.8,3.9,,,40.0722005,-74.1679429
+1456,Calabro Elementary,New Jersey,Hudson,19,94.7,,5.3,,40.743661,-74.0320065
+1457,Chapin,New Jersey,Mercer,19,94.7,5.3,,,40.3114014,-74.6933248
+1458,Clifton Number 1 Elementary,New Jersey,Passaic,38,94.7,,5.3,,40.8641725,-74.1346549
+1459,Ellen T. Briggs,New Jersey,Morris,95,94.7,,2.1,,40.9526168,-74.6139666
+1460,Frelinghuysen Township Elementary 4,New Jersey,Warren,19,94.7,,5.3,,40.989027,-74.868601
+1461,G. Harry Carson,New Jersey,Camden,38,94.7,,5.3,,39.9420209,-75.06822
+1462,Joseph M Ferraina Early Childhood Learning Center,New Jersey,Monmouth,114,94.7,,2.6,,40.3171792,-73.9817351
+1463,Mastery McGraw Charter Elementary,New Jersey,Camden,57,94.7,,,,39.9440195,-75.0793888
+1464,Milton,New Jersey,Morris,76,94.7,,5.3,,41.026995,-74.5273723
+1465,Robert Gordon Elementary,New Jersey,Union,38,94.7,,,,40.664088,-74.267138
+1466,Rockaway Valley,New Jersey,Morris,38,94.7,2.6,2.6,,40.9244502,-74.4307551
+1467,Saint Joseph Academy,New Jersey,Bergen,19,94.7,,5.3,,40.8749766,-74.0246074
+1468,The Learning Experience at East Windsor,New Jersey,Mercer,19,94.7,,,,40.2563134,-74.5479868
+1469,White Township Consolidated,New Jersey,Warren,19,94.7,,5.3,,40.836423,-75.027242
+1470,Ann Blanche Smith,New Jersey,Bergen,55,94.6,,5.4,,41.0074156,-74.0665567
+1471,Greenwood Elementary,New Jersey,Mercer,37,94.6,,,,40.2298848,-74.7236478
+1472,Navesink Elementary,New Jersey,Monmouth,37,94.6,,5.4,,40.4000672,-74.0312964
+1473,Ocean Road,New Jersey,Ocean,74,94.6,,5.4,,40.0825212,-74.0621005
+1474,Riverbank Charter of Excellence,New Jersey,Burlington,37,94.6,,5.4,,40.1156116,-74.7832982
+1475,Wallace and Catapult Pre-K,New Jersey,Hudson,112,94.6,,1.8,,40.7435348,-74.0383315
+1476,David C. Douglass Veterans Memorial,New Jersey,Cape May,219,94.5,,2.3,,39.0094142,-74.9374089
+1477,Alpha Public,New Jersey,Warren,18,94.4,,5.6,,40.664192,-75.164955
+1478,Bnos Yaakov,New Jersey,Ocean,125,94.4,,2.4,,40.1103325,-74.2366866
+1479,Brigantine Elementary,New Jersey,Atlantic,54,94.4,3.7,1.8,,39.411984,-74.3646077
+1480,Charles H. Stillman,New Jersey,Union,54,94.4,,,,40.6155438,-74.4215104
+1481,Christina Seix Academy - Welcome Center,New Jersey,Mercer,18,94.4,,5.6,,40.246186,-74.798571
+1482,Eagleswood Township Elementary,New Jersey,Ocean,18,94.4,,5.6,,39.6572707,-74.290975
+1483,East Amwell Township,New Jersey,Hunterdon,36,94.4,,5.6,,40.4434508,-74.8156199
+1484,Good Shepherd Catholic,New Jersey,Camden,18,94.4,,,,39.9136202,-75.0660883
+1485,Heights Elementary,New Jersey,Bergen,54,94.4,,5.6,,41.034252,-74.225546
+1486,Helen I. Smith Elementary,New Jersey,Bergen,36,94.4,,5.6,,40.9124227,-74.0960268
+1487,Hillside Elementary - Closter,New Jersey,Bergen,126,94.4,,4.8,,40.9666999,-73.9498326
+1488,Home Away from Home Academy,New Jersey,Monmouth,18,94.4,,5.6,,40.393693,-74.2231802
+1489,Madison Avenue Elementary,New Jersey,Essex,36,94.4,,,,40.7173725,-74.2339151
+1490,Packanack Lake Elementary,New Jersey,Passaic,54,94.4,,5.6,,40.9478876,-74.2552329
+1491,Richard L. Rice Elementary,New Jersey,Burlington,71,94.4,,5.6,,39.849584,-74.878467
+1492,Saint Catharine,New Jersey,Monmouth,18,94.4,,5.6,,40.1435958,-74.0298423
+1493,Saint Joseph the Carpenter,New Jersey,Union,18,94.4,,,,40.657662,-74.2608346
+1494,Saint Michael the Archangel,New Jersey,Gloucester,18,94.4,,5.6,,39.6641173,-75.0939111
+1495,Saint Peter Academy,New Jersey,Bergen,18,94.4,,5.6,,40.9268492,-74.045924
+1496,Saint Teresa Regional,New Jersey,Camden,18,94.4,,,,39.8451571,-75.0700493
+1497,School of Saint Elizabeth,New Jersey,Somerset,18,94.4,,,,40.7246651,-74.571628
+1498,Solomon Schecter Day,New Jersey,Bergen,36,94.4,,2.8,,40.9380776,-74.0177133
+1499,Strawbridge Elementary,New Jersey,Camden,36,94.4,,2.8,,39.9178226,-75.0538188
+1500,The Westmont Montessori,New Jersey,Morris,18,94.4,,5.6,,40.774276,-74.640217
+1501,Trinity Academy,New Jersey,Essex,18,94.4,,5.6,,40.838146,-74.272619
+1502,University Heights,New Jersey,Mercer,36,94.4,,2.8,,40.2550829,-74.6708804
+1503,Warren H. Wolf Elementary,New Jersey,Ocean,90,94.4,,5.6,,40.0578384,-74.1371832
+1504,Cranberry Pines Elementary,New Jersey,Burlington,70,94.3,,5.7,,39.8541821,-74.8449102
+1505,HC Johnson Elementary,New Jersey,Ocean,70,94.3,,5.7,,40.1489024,-74.267092
+1506,Parker Elementary,New Jersey,Middlesex,88,94.3,,,,40.2090031,-74.7638579
+1507,Stony Lane Elementary,New Jersey,Bergen,35,94.3,,5.7,,40.9708725,-74.088782
+1508,Bayville,New Jersey,Ocean,69,94.2,,2.9,,39.9178176,-74.1586371
+1509,Cedarbrook K-8 Center,New Jersey,Union,69,94.2,1.4,2.9,,40.6036951,-74.4155555
+1510,Saint Leo the Great,New Jersey,Atlantic,52,94.2,,5.8,,40.3331086,-74.1171971
+1511,Adelphia,New Jersey,Monmouth,102,94.1,,3.9,,40.2069183,-74.2202854
+1512,H.W. Mountz,New Jersey,Monmouth,17,94.1,,5.9,,40.157427,-74.0302665
+1513,JCC of Central New Jersey,New Jersey,Union,17,94.1,,5.9,,40.6315843,-74.3656203
+1514,Mountain Hill,New Jersey,Monmouth,17,94.1,,,,40.3941812,-74.0603739
+1515,Nachlas Bais Yaakov,New Jersey,Ocean,51,94.1,,5.9,,40.1050397,-74.2059638
+1516,Renaissance One of Humanities,New Jersey,Passaic,34,94.1,,5.9,,40.9219147,-74.1423243
+1517,Saint Leo's,New Jersey,Atlantic,17,94.1,,5.9,,40.8995952,-74.1180986
+1518,Saint Stanislaus Kostka,New Jersey,Middlesex,17,94.1,,,,40.4663834,-74.3642469
+1519,South Jersey Christian Academy,New Jersey,Camden,17,94.1,,,,39.7219455,-74.9659554
+1520,The Giving Nest Preschool and Kindergarten - Bridgewater - Washington Valley Rd,New Jersey,Somerset,17,94.1,,5.9,,40.6084161,-74.509202
+1521,Brookside Elementary - Westwood,New Jersey,Bergen,83,94,,4.8,,40.9829457,-74.0445143
+1522,Edith M. Griebling Elementary,New Jersey,Monmouth,84,94,,3.6,,40.2092273,-74.2396616
+1523,Edward T. Bowser,New Jersey,Essex,83,94,,1.2,,40.7711408,-74.210285
+1524,Franklin Elementary - Union,New Jersey,Union,84,94,,3.6,,40.7060341,-74.2561409
+1525,Greenbrook,New Jersey,Middlesex,67,94,,,,40.4275702,-74.5500305
+1526,Robert Erskine,New Jersey,Passaic,50,94,,,,41.0932446,-74.264796
+1527,Southwood Elementary,New Jersey,Middlesex,50,94,,6,,40.4064389,-74.3511074
+1528,THRIVE Academy,New Jersey,Essex,117,94,,1.7,,40.7289444,-74.1921678
+1529,Alpine Elementary,New Jersey,Sussex,198,93.9,,5,,41.023671,-74.6751269
+1530,Forest Hill Elementary,New Jersey,Camden,49,93.9,,2,,39.9368095,-75.0988921
+1531,G. Harold Antrim,New Jersey,Ocean,33,93.9,,3,,40.0957398,-74.0464568
+1532,H.B. Wilson Family,New Jersey,Camden,66,93.9,,3,,39.9165971,-75.1122575
+1533,Katharine D. Malone,New Jersey,Morris,33,93.9,,6.1,,40.9634763,-74.4938513
+1534,Mary E. Roberts Elementary,New Jersey,Burlington,66,93.9,1.5,4.6,,39.9591481,-74.9533006
+1535,Nokomis,New Jersey,Burlington,49,93.9,,6.1,,39.8531431,-74.8046662
+1536,Ravine Drive Elementry,New Jersey,Monmouth,98,93.9,,6.1,,40.4221914,-74.2453725
+1537,Woodrow Wilson Elementary,New Jersey,Mercer,98,93.9,,2,,40.234989,-74.743913
+1538,Yeshiva Tifereth Torah,New Jersey,Ocean,49,93.9,,6.1,,40.063613,-74.2088388
+1539,Brass Castle Elementary,New Jersey,Warren,48,93.8,,6.2,,40.75902,-75.0072
+1540,Clifton Cheder/Bais Yaakov,New Jersey,Passaic,32,93.8,,3.1,,40.846177,-74.154481
+1541,Creative Learning Center,New Jersey,Monmouth,16,93.8,,6.2,,40.3147083,-74.0615089
+1542,East End,New Jersey,Somerset,81,93.8,,,,40.6312555,-74.4221514
+1543,James A. McDivitt Elementary,New Jersey,Middlesex,65,93.8,,4.6,,40.4098278,-74.3017638
+1544,Lawnside Public,New Jersey,Camden,32,93.8,,,,39.8639729,-75.0210462
+1545,Morgan Elementary,New Jersey,Mercer,48,93.8,,,,40.2433295,-74.6803768
+1546,Saint Michael - Cranford,New Jersey,Union,16,93.8,,6.2,,40.657859,-74.3049462
+1547,Memorial - North Haledon,New Jersey,Passaic,79,93.7,,6.3,,40.9606608,-74.1833594
+1548,Bais Faiga Gratter,New Jersey,Ocean,264,93.6,0.8,3.8,,40.0921201,-74.2085319
+1549,Beverly City,New Jersey,Burlington,31,93.6,,3.2,,40.060471,-74.922902
+1550,Catherine A. Dwyer Elementary,New Jersey,Morris,47,93.6,,4.3,,40.922367,-74.5443649
+1551,H and M Potter,New Jersey,Ocean,93,93.6,1.1,3.2,,39.9144242,-74.1453807
+1552,Midland - Paramaus,New Jersey,Bergen,31,93.6,,3.2,,40.9491208,-74.0676481
+1553,Shaler Academy,New Jersey,Bergen,109,93.6,1.8,2.8,,40.8303558,-74.0048104
+1554,W.C.K. Walls Elementary,New Jersey,Gloucester,31,93.6,,,,39.7292341,-75.1360738
+1555,Hannah Caldwell Elementary,New Jersey,Union,77,93.5,,1.3,,40.7023058,-74.2796441
+1556,Merritt Memorial,New Jersey,Bergen,46,93.5,,6.5,,40.9429157,-73.9596609
+1557,Osbornville,New Jersey,Ocean,46,93.5,,2.2,,40.0446191,-74.1228471
+1558,Atco Elementary,New Jersey,Camden,106,93.4,,6.6,,39.772226,-74.893624
+1559,Bnos Melech,New Jersey,Ocean,121,93.4,,4.1,,40.077458,-74.240802
+1560,Walter F. Robinson,New Jersey,Hudson,76,93.4,,2.6,,40.672273,-74.1169305
+1561,Assumption Catholic,New Jersey,Middlesex,15,93.3,,6.7,,40.522787,-74.2732722
+1562,B.R.I.C.K Peshine Academy,New Jersey,Essex,60,93.3,,1.7,,40.7119681,-74.2030616
+1563,Berkeley Terrace Elementary,New Jersey,Essex,180,93.3,,1.1,,40.7311778,-74.2194917
+1564,Eitz Chaim,New Jersey,Ocean,15,93.3,,6.7,,40.368984,-74.3863101
+1565,Hawthorne Elementary,New Jersey,Bergen,15,93.3,,6.7,,40.877378,-74.001741
+1566,McKinley Elementary,New Jersey,Essex,75,93.3,,6.7,,40.749815,-74.177802
+1567,Mount Horeb Elementary,New Jersey,Somerset,30,93.3,,6.7,,40.6195486,-74.5401032
+1568,Ocean County Christian Academy (Church),New Jersey,Ocean,15,93.3,,6.7,,39.9921115,-74.1974624
+1569,Ridge Elementary,New Jersey,Bergen,75,93.3,1.3,4,,40.9856688,-74.1313601
+1570,Saint Rose of Lima,New Jersey,Monmouth,30,93.3,,6.7,,40.2555557,-74.2739912
+1571,Stuart Country Day,New Jersey,Mercer,15,93.3,,6.7,,40.367408,-74.686582
+1572,Taunton Forge Elementary,New Jersey,Burlington,45,93.3,,6.7,,39.8807709,-74.8440871
+1573,Timothy Christian,New Jersey,Middlesex,30,93.3,,6.7,,40.5338858,-74.4145412
+1574,West Ridge Elementary,New Jersey,Bergen,30,93.3,,6.7,,41.0390952,-74.0537947
+1575,Yeshiva Kol Torah,New Jersey,Ocean,15,93.3,,6.7,,40.1032479,-74.2350004
+1576,Belleville 7,New Jersey,Essex,44,93.2,,4.6,,40.8012467,-74.1637547
+1577,Grandview,New Jersey,Essex,74,93.2,,6.8,,40.8741188,-74.2543091
+1578,Land O'Pines,New Jersey,Monmouth,88,93.2,,4.6,,40.1697874,-74.2245752
+1579,Lanes Mill Elementary,New Jersey,Ocean,88,93.2,,4.6,,40.1016056,-74.1336557
+1580,Fairview,New Jersey,Monmouth,58,93.1,,6.9,,40.3723646,-74.0835263
+1581,Oxford Central,New Jersey,Warren,29,93.1,,3.4,,40.8022995,-74.9951196
+1582,Frank R. Conwell PS3,New Jersey,Hudson,71,93,1.4,1.4,,40.7176082,-74.0509822
+1583,NOOR-UL-IMAN,New Jersey,Middlesex,43,93,2.3,4.6,,40.3895756,-74.5710714
+1584,Oak View,New Jersey,Essex,57,93,,7,,40.8377767,-74.1734659
+1585,P.J. Hill,New Jersey,Mercer,158,93,,,,40.2254426,-74.7428482
+1586,St. Elizabeth Nursery and Montessori,New Jersey,Morris,43,93,,7,,40.8673233,-74.4590258
+1587,Bay Head Elementary,New Jersey,Ocean,14,92.9,,7.1,,40.0696974,-74.0503782
+1588,Brunswick Acres Elementary,New Jersey,Middlesex,84,92.9,,6,,40.434359,-74.528566
+1589,Central Elementary,New Jersey,Somerset,56,92.9,1.8,1.8,,40.4367893,-74.3982553
+1590,Downe Township Elementary,New Jersey,Cumberland,14,92.9,,7.1,,39.2974419,-75.166126
+1591,Friends Mullica Hill,New Jersey,Gloucester,14,92.9,,,,39.731654,-75.226297
+1592,Hawthorne Christian Academy,New Jersey,Passaic,14,92.9,,7.1,,40.9759111,-74.1581408
+1593,Island Heights Grade,New Jersey,Ocean,14,92.9,,7.1,,39.944349,-74.148171
+1594,Mary Kay McMillin Early Childhood Center,New Jersey,Union,98,92.9,1,4.1,,40.6697089,-74.4362739
+1595,Memorial - Emerson,New Jersey,Bergen,70,92.9,2.9,2.9,,40.981433,-74.032855
+1596,Oak Ridge Heights 21,New Jersey,Middlesex,42,92.9,,2.4,,40.5984907,-74.3339144
+1597,South Harrison Township Elementary,New Jersey,Gloucester,42,92.9,,7.1,,39.6897316,-75.2666569
+1598,St. Elizabeth Child Care Center,New Jersey,Hudson,28,92.9,,,,40.7332518,-74.068053
+1599,The Goddard - Piscataway,New Jersey,Middlesex,14,92.9,7.1,,,40.551609,-74.461877
+1600,Jefferson Elementary,New Jersey,Morris,69,92.8,,1.4,,40.932255,-73.986948
+1601,Washington Aveneue,New Jersey,Morris,69,92.8,,7.2,,40.736738,-74.3906839
+1602,Calvin Coolidge Elementary,New Jersey,Bergen,41,92.7,,7.3,,40.9832605,-74.1552365
+1603,Cleveland,New Jersey,Essex,41,92.7,,4.9,,40.731478,-74.195635
+1604,James Fallon Elementary,New Jersey,Passaic,41,92.7,,7.3,,40.931337,-74.2357626
+1605,Angelo L Tomaso Elementary,New Jersey,Somerset,27,92.6,,7.4,,40.6024632,-74.5239902
+1606,Brielle Elementary,New Jersey,Monmouth,54,92.6,,7.4,,40.111653,-74.0605804
+1607,John Marshall Elementary,New Jersey,Middlesex,135,92.6,,1.5,,40.5116547,-74.4184871
+1608,Seaview Elementary,New Jersey,Atlantic,68,92.6,1.5,5.9,,39.3352431,-74.5832163
+1609,Wanamassa Elementary,New Jersey,Monmouth,54,92.6,,5.6,,40.2382163,-74.0263428
+1610,13th Avenue,New Jersey,Essex,67,92.5,,,,40.7419188,-74.1969198
+1611,Hoboken Catholic Academy,New Jersey,Hudson,40,92.5,,7.5,,40.7461705,-74.0375096
+1612,Lanoka Harbor Elementary,New Jersey,Ocean,93,92.5,,7.5,,39.8670365,-74.1853262
+1613,Woodside Avenue,New Jersey,Bergen,40,92.5,,7.5,,41.025485,-74.183964
+1614,Frankford Township,New Jersey,Sussex,53,92.4,,5.7,,41.1662778,-74.7454112
+1615,Memorial - Paramus,New Jersey,Bergen,53,92.4,,7.6,,40.9471057,-74.0545063
+1616,New Horizons Community Charter,New Jersey,Essex,79,92.4,,2.5,,40.7361129,-74.189244
+1617,Redwood,New Jersey,Essex,79,92.4,,6.3,,40.8126793,-74.250916
+1618,Apple Montessori - Kinnelon,New Jersey,Morris,13,92.3,7.7,,,41.0030212,-74.3677508
+1619,Baytul-Iman Academy,New Jersey,Monmouth,13,92.3,,7.7,,40.4381511,-74.1413906
+1620,Cornerstone,New Jersey,Union,13,92.3,,,,40.7166313,-74.3662512
+1621,Crim,New Jersey,Somerset,65,92.3,,6.2,,40.613105,-74.5910546
+1622,Learning Institute of Union City,New Jersey,Hudson,13,92.3,,7.7,,40.772049,-74.0267902
+1623,Plaza Child Care,New Jersey,Middlesex,13,92.3,,7.7,,40.5974273,-74.3590484
+1624,Sacred Heart,New Jersey,Hudson,26,92.3,,3.8,,40.706945,-74.0833039
+1625,Saint Aloysius,New Jersey,Ocean,13,92.3,,,,40.1307982,-74.2715443
+1626,Saint Nicholas,New Jersey,Hudson,26,92.3,3.8,,,40.7419147,-74.0510465
+1627,The Goddard - West Windsor - Emmons Dr,New Jersey,Mercer,13,92.3,,7.7,,40.3116227,-74.6650825
+1628,The Learning Experience - Edison,New Jersey,Middlesex,26,92.3,,7.7,,40.5110465,-74.3643572
+1629,Demarest Elementary,New Jersey,Essex,76,92.1,,,,40.8247239,-74.1779867
+1630,High Mountain Road,New Jersey,Bergen,25,92,4,,,40.991398,-74.2101369
+1631,Jefferson Elementary - North Arlington,New Jersey,Bergen,25,92,,8,,40.7863704,-74.139744
+1632,Midstreams Elementary,New Jersey,Ocean,75,92,,5.3,,40.0682295,-74.1001525
+1633,Roosevelt Elementary,New Jersey,Union,50,92,,8,,40.7955105,-74.1217195
+1634,Saint Cassian,New Jersey,Essex,25,92,,8,,40.8415622,-74.2043584
+1635,Talmud Torah of Lakewood,New Jersey,Ocean,25,92,,8,,40.0521875,-74.1962273
+1636,Yeshiva Masoras Avos,New Jersey,Ocean,50,92,,8,,40.0901489,-74.2063817
+1637,Central Avenue,New Jersey,Morris,74,91.9,,5.4,,40.7614097,-74.4133684
+1638,Fort Lee 2 and Early Childhood Center,New Jersey,Bergen,62,91.9,,,,40.8627319,-73.9643946
+1639,Wanaque Elementary,New Jersey,Passaic,37,91.9,,5.4,,41.0549312,-74.2851449
+1640,Charles J. Hudson 25,New Jersey,Union,73,91.8,,,,40.6546793,-74.1994059
+1641,Columbus 8 - Garfield,New Jersey,Bergen,73,91.8,,4.1,,40.8786587,-74.1088789
+1642,Jefferson Elementary - Wallington,New Jersey,Bergen,61,91.8,,8.2,,40.8533898,-74.1040364
+1643,Al Ghazaly,New Jersey,Hudson,12,91.7,,8.3,,40.716888,-74.069505
+1644,Bass River Township Elementary,New Jersey,Burlington,12,91.7,,8.3,,39.5939549,-74.4520058
+1645,Brookdale Avenue,New Jersey,Essex,24,91.7,,8.3,,40.8265781,-74.2380163
+1646,Cedar Creek,New Jersey,Ocean,96,91.7,,7.3,,39.8695527,-74.1974797
+1647,College Achievement Charter - Asbury Park,New Jersey,Monmouth,36,91.7,,,,40.218838,-74.007014
+1648,Garfield Jackson Academy,New Jersey,Essex,24,91.7,,8.3,,40.7694005,-74.2143174
+1649,Hinder Them Not' Iselin Montessori,New Jersey,Middlesex,12,91.7,8.3,,,40.572817,-74.323683
+1650,Holy Trinity Regional,New Jersey,Gloucester,12,91.7,,,,39.8356998,-75.1488375
+1651,Kindercare - Clark,New Jersey,Union,12,91.7,,8.3,,40.6301428,-74.3155776
+1652,Lavallette Elementary,New Jersey,Ocean,12,91.7,,8.3,,39.9687015,-74.0705479
+1653,New Hanover,New Jersey,Burlington,24,91.7,,8.3,,40.0122319,-74.5814773
+1654,Packanack Cooperative Nursery,New Jersey,Passaic,12,91.7,,8.3,,40.9417334,-74.2509916
+1655,Port Republic,New Jersey,Atlantic,12,91.7,,8.3,,39.520348,-74.495103
+1656,Rising Star Acadamy,New Jersey,Hudson,12,91.7,,,,40.7812576,-74.0236155
+1657,Robert Fulton Annex,New Jersey,Hudson,24,91.7,,,,40.7980536,-74.011685
+1658,Robert Wilentz,New Jersey,Middlesex,216,91.7,,,,40.5021762,-74.2756996
+1659,Saint Veronica,New Jersey,Monmouth,12,91.7,,,,40.1520965,-74.2231295
+1660,SciCore Academy,New Jersey,Mercer,12,91.7,,8.3,,40.2699896,-74.5184052
+1661,Shalom Torah Academy 2,New Jersey,Monmouth,12,91.7,,8.3,,40.3529795,-74.2848107
+1662,Stellar Academy of Hillsborough,New Jersey,Somerset,24,91.7,8.3,,,40.548965,-74.612665
+1663,Stevens Cooperative - Garden St,New Jersey,Hudson,24,91.7,4.2,,,40.740202,-74.030739
+1664,The Montessori House,New Jersey,Bergen,12,91.7,,8.3,,40.9270069,-73.9769952
+1665,Upper Greenwood Lake Elementary,New Jersey,Passaic,36,91.7,,8.3,,41.1845862,-74.3867744
+1666,Lucy N. Holman Elementary,New Jersey,Ocean,83,91.6,3.6,2.4,,40.1162255,-74.2859792
+1667,Lakeview,New Jersey,Morris,94,91.5,,6.4,,40.870529,-74.503517
+1668,Manchester Township Elementary,New Jersey,Ocean,94,91.5,,3.2,,40.0170319,-74.2992591
+1669,Stony Brook Elementary,New Jersey,Morris,59,91.5,,3.6,,40.3055342,-74.7588518
+1670,Summerfield Elementary,New Jersey,Monmouth,59,91.5,,,,40.2119895,-74.0664549
+1671,Yeshiva Shagus Aryeh,New Jersey,Ocean,82,91.5,,4.9,,40.07677,-74.248681
+1672,Camden Prep Copewood Elementary,New Jersey,Camden,58,91.4,,,,39.9250874,-75.0939431
+1673,Dogwood Hill Elementary,New Jersey,Bergen,35,91.4,8.6,,,41.0184774,-74.2448437
+1674,Julia A Barnes - P.S. #12,New Jersey,Hudson,58,91.4,,,,40.7185735,-74.0703098
+1675,Laning Avenue,New Jersey,Essex,35,91.4,2.9,5.7,,40.8306996,-74.2338586
+1676,Newark/Great Oaks Charter: Downtown Campus,New Jersey,Essex,70,91.4,,,,40.7343663,-74.1749148
+1677,Ridgeway Elementary,New Jersey,Ocean,58,91.4,1.7,6.9,,40.020044,-74.2659311
+1678,Saint Benedict,New Jersey,Monmouth,35,91.4,,5.7,,40.4041609,-74.2035678
+1679,Haddonfield Friends,New Jersey,Camden,23,91.3,,,,39.8991049,-75.0335799
+1680,Karlin Stolin,New Jersey,Ocean,23,91.3,,8.7,,40.1156102,-74.2510212
+1681,South Main Street,New Jersey,Atlantic,69,91.3,,5.8,,39.3854165,-74.5289341
+1682,Harrington Park,New Jersey,Bergen,57,91.2,1.8,7,,40.9837089,-73.9798601
+1683,Woodrow Wilson 5,New Jersey,Bergen,56,91.1,,5.4,,40.8827335,-74.1093456
+1684,Yeshiva Ohr Yehuda,New Jersey,Ocean,56,91.1,1.8,7.1,,40.093128,-74.2474079
+1685,Bais Chinuch L'bonos Bayis Ruchel,New Jersey,Ocean,78,91,,6.4,,40.1025451,-74.2150379
+1686,Bear Tavern Elementary,New Jersey,Mercer,55,90.9,,7.3,,40.3041378,-74.8473361
+1687,Blaustein Early Childhood Center,New Jersey,Somerset,11,90.9,,9.1,,40.6124409,-74.63049
+1688,Congretation Beth El,New Jersey,Camden,11,90.9,,,,39.867981,-74.945164
+1689,Cooper's Poynt,New Jersey,Camden,44,90.9,,,,39.95404,-75.121991
+1690,Doane Academy,New Jersey,Burlington,11,90.9,,9.1,,40.0794597,-74.8671528
+1691,Hope Christian,New Jersey,Monmouth,11,90.9,,9.1,,40.2208788,-74.2734015
+1692,Hopewell Elementary,New Jersey,Mercer,55,90.9,,7.3,,40.387302,-74.7579979
+1693,Kesser Bais Yaakov,New Jersey,Ocean,44,90.9,,4.6,,40.074005,-74.231295
+1694,Martin Luther Christian,New Jersey,Camden,11,90.9,,,,39.9447147,-75.068461
+1695,Monmouth Beach,New Jersey,Monmouth,22,90.9,,4.6,,40.3345201,-73.9888797
+1696,Rumson Country Day,New Jersey,Monmouth,22,90.9,,,,40.3632201,-74.0126498
+1697,Saint Genevieve,New Jersey,Union,11,90.9,9.1,,,40.6699372,-74.2382949
+1698,Saint Joseph Regional - Hammonton,New Jersey,Atlantic,11,90.9,,,,39.636837,-74.7999001
+1699,Saint Vincent De Paul Regional,New Jersey,Atlantic,22,90.9,,4.6,,39.451547,-74.7251546
+1700,The Growing Garden Nursery,New Jersey,Bergen,11,90.9,9.1,,,40.9262671,-74.0505293
+1701,Washington Scool,New Jersey,Middlesex,99,90.9,1,1,,40.5157343,-74.3943749
+1702,William Mason,New Jersey,Morris,22,90.9,,4.6,,40.9265686,-74.3851172
+1703,Talmud Torah Bais Avrohom,New Jersey,Ocean,75,90.7,,5.3,,40.0517838,-74.1959366
+1704,Davis Elementary,New Jersey,Camden,32,90.6,,,,39.9529334,-75.0766611
+1705,Edith M. Decker,New Jersey,Morris,32,90.6,3.1,6.2,,40.9340464,-74.6285805
+1706,Green Grove Elementary,New Jersey,Monmouth,53,90.6,,9.4,,40.2241908,-74.0734305
+1707,Albert Payson Terhune Elementary,New Jersey,Passaic,42,90.5,,9.5,,40.9699628,-74.2567265
+1708,Alexander D. Sullivan (PS 30),New Jersey,Hudson,63,90.5,,,,40.6939598,-74.0981275
+1709,Allenwood Elementary,New Jersey,Monmouth,74,90.5,,9.5,,40.1415987,-74.1032686
+1710,Fredon Township Elementary,New Jersey,Sussex,21,90.5,,9.5,,41.0336334,-74.8152852
+1711,Harriet Tubman Elementary,New Jersey,Essex,42,90.5,,2.4,,40.7348111,-74.2024764
+1712,Yeshiva Orchos Chaim,New Jersey,Ocean,147,90.5,,2.7,,40.073525,-74.1807856
+1713,Essex Fells,New Jersey,Essex,31,90.3,3.2,6.4,,40.8302139,-74.2815236
+1714,Good Shepherd Academy - Nutley,New Jersey,Essex,31,90.3,,6.4,,,
+1715,Kennedy Elementary,New Jersey,Morris,62,90.3,,6.4,,40.845153,-74.657402
+1716,Spring Lake Heights Elemetary,New Jersey,Monmouth,31,90.3,,9.7,,40.1542238,-74.036555
+1717,Unity Charter,New Jersey,Morris,31,90.3,,9.7,,40.8055723,-74.4670584
+1718,Mountain Villa,New Jersey,Warren,51,90.2,,3.9,,40.9144363,-74.8131916
+1719,Baptist Regional,New Jersey,Camden,10,90,,10,,39.884256,-75.054785
+1720,Battle Hill,New Jersey,Union,60,90,,5,,40.6989392,-74.2982544
+1721,Elsinboro Township,New Jersey,Salem,10,90,,10,,39.551224,-75.518534
+1722,Fairmount,New Jersey,Bergen,110,90,,0.9,,40.9007804,-74.0435375
+1723,Far Brook,New Jersey,Essex,20,90,5,5,,40.7481834,-74.3143878
+1724,"First Children, LLC",New Jersey,Union,10,90,,10,,40.6410903,-74.3803274
+1725,Hawthorne Avenue,New Jersey,Essex,40,90,,,,40.71841,-74.212091
+1726,James F. Cooper Elementary,New Jersey,Camden,30,90,,10,,39.906572,-74.958937
+1727,P.G. Chambers,New Jersey,Morris,10,90,,10,,40.822906,-74.44669
+1728,Painted Oak Nursery,New Jersey,Hunterdon,10,90,,10,,40.3859752,-74.8122233
+1729,Princeton Junior,New Jersey,Mercer,10,90,,,,40.3107157,-74.7083642
+1730,Red Bank Charter,New Jersey,Monmouth,20,90,,10,,40.3483697,-74.0718243
+1731,Sicomac Elementary,New Jersey,Bergen,50,90,2,8,,40.9872422,-74.1747427
+1732,St. Raphael,New Jersey,Mercer,10,90,,10,,40.1901732,-74.6979386
+1733,The Goddard - Woodbridge,New Jersey,Middlesex,20,90,,10,,40.56025,-74.312818
+1734,Trinity Episcopal Day,New Jersey,Union,10,90,,10,,40.6570672,-74.2980345
+1735,Wesley Hall for Early Childhood,New Jersey,Union,10,90,,10,,40.650303,-74.3504999
+1736,Yeshiva Toras Emes,New Jersey,Ocean,30,90,,10,,40.0778198,-74.2435854
+1737,Saint Joseph,New Jersey,Essex,89,89.9,,,,40.7520237,-74.2280148
+1738,Woodrow Wilson Elementary,New Jersey,Middlesex,88,89.8,,,,40.4853818,-74.4063229
+1739,Bayview Elementary,New Jersey,Monmouth,58,89.7,3.4,6.9,,40.4137175,-74.0844412
+1740,Canfield Avenue,New Jersey,Morris,58,89.7,1.7,6.9,,40.8769122,-74.6019248
+1741,Nellie F. Bennett,New Jersey,Ocean,116,89.7,1.7,6.9,,40.0680389,-74.0629483
+1742,Shiras Chaim,New Jersey,Ocean,48,89.6,,6.2,,40.0703288,-74.195098
+1743,Hope Township,New Jersey,Warren,19,89.5,,5.3,,40.9108,-74.964376
+1744,Long Memorial Elementary,New Jersey,Bergen,38,89.5,,10.5,,40.915382,-74.1034405
+1745,Raritan Valley Montessori,New Jersey,Somerset,19,89.5,,,,40.5682477,-74.5760667
+1746,School for Children with Hidden Intelligence,New Jersey,Ocean,19,89.5,10.5,,,40.0673773,-74.2061204
+1747,John A. Forrest Elementary,New Jersey,Bergen,47,89.4,,8.5,,40.9339835,-74.1295014
+1748,Tewksbury Elementary,New Jersey,Hunterdon,47,89.4,,10.6,,40.7229574,-74.7642861
+1749,Adlai Stevenson,New Jersey,Essex,84,89.3,,9.5,,40.8821873,-74.3164858
+1750,Riverdale Public,New Jersey,Morris,28,89.3,,10.7,,40.9929584,-74.3040362
+1751,Roebling Elementary,New Jersey,Burlington,84,89.3,,3.6,,40.115753,-74.780803
+1752,Perry L. Drew Elementary,New Jersey,Mercer,65,89.2,,3.1,,40.2744022,-74.4890458
+1753,Abundant Life Christian,New Jersey,Morris,9,88.9,,11.1,,40.8239605,-74.4365933
+1754,Discovery Christian Montessori,New Jersey,Middlesex,18,88.9,,11.1,,40.5959521,-74.3642556
+1755,Fourteenth Avenue,New Jersey,Essex,9,88.9,,,,40.7385662,-74.1997691
+1756,Joseph T. Donahue,New Jersey,Ocean,27,88.9,,3.7,,39.7756336,-74.2353515
+1757,Lighthouse Christian Academy,New Jersey,Ocean,9,88.9,,11.1,,39.6992349,-74.2455815
+1758,Lincroft Elementary,New Jersey,Monmouth,54,88.9,,11.1,,40.3300139,-74.1252678
+1759,Noah's Ark,New Jersey,Union,9,88.9,11.1,,,40.6471431,-74.3399169
+1760,Saints Philip and James,New Jersey,Warren,18,88.9,,11.1,,40.7007003,-75.1769311
+1761,Sandy Lane Nursery,New Jersey,Essex,9,88.9,,11.1,,40.79094,-74.174274
+1762,Shining Lights Early Childcare Center,New Jersey,Camden,9,88.9,,,,39.895814,-74.969123
+1763,Veterans Memorial Elementary,New Jersey,Ocean,108,88.9,,3.7,,40.0844138,-74.1169195
+1764,Bnos Orchos Chaim,New Jersey,Ocean,53,88.7,1.9,3.8,,40.0718633,-74.1850395
+1765,East Dover Elementary and Middle,New Jersey,Morris,53,88.7,,1.9,,40.8894345,-74.5476197
+1766,Chein Bais Yaakov,New Jersey,Ocean,26,88.5,,7.7,,40.0633338,-74.2028899
+1767,James Madison 10,New Jersey,Bergen,52,88.5,,11.5,,40.8717335,-74.0977519
+1768,Conover Road Primary,New Jersey,Monmouth,86,88.4,,10.5,,40.3169608,-74.1904814
+1769,Beachwood Elementary,New Jersey,Ocean,77,88.3,1.3,10.4,,39.9235542,-74.1918478
+1770,George Washington Elementary - Wyckoff,New Jersey,Bergen,60,88.3,1.7,8.3,,41.0079441,-74.1708662
+1771,Claremont Avenue,New Jersey,Middlesex,51,88.2,,7.8,,40.5939958,-74.3067796
+1772,Jennings Elementary,New Jersey,Camden,17,88.2,,5.9,,39.900128,-75.071529
+1773,Johnnie l. Cochran Academy,New Jersey,Essex,17,88.2,,11.8,,40.7824815,-74.2128978
+1774,Montessori Preschool Academy,New Jersey,Middlesex,17,88.2,,,,40.316804,-74.5080823
+1775,Oak Hill Academy,New Jersey,Monmouth,17,88.2,,11.8,,40.3438786,-74.1263275
+1776,Saint Benedict's Prep,New Jersey,Essex,17,88.2,,5.9,,40.7359412,-74.1796412
+1777,The King's Christian,New Jersey,Camden,17,88.2,,11.8,,39.9153607,-74.9597834
+1778,Vineland Public Charter,New Jersey,Cumberland,34,88.2,,,,39.4830264,-75.0231816
+1779,Yeshiva Mesoras Hatorah,New Jersey,Ocean,17,88.2,,11.8,,40.0771497,-74.215892
+1780,Atlantic Christian,New Jersey,Atlantic,42,88.1,4.8,4.8,,39.359248,-74.63556
+1781,W.R. James Sr. Elementary,New Jersey,Burlington,67,88.1,,9,,40.032127,-74.9001819
+1782,Randall Carter Elementary,New Jersey,Passaic,50,88,,8,,40.9258808,-74.2475065
+1783,Park Avenue Elementary,New Jersey,Monmouth,82,87.8,,1.8,,40.2510229,-74.2803211
+1784,Tiferes Chaya,New Jersey,Ocean,49,87.8,,12.2,,39.9652553,-74.3118212
+1785,Cheder Toras Zev,New Jersey,Ocean,73,87.7,,12.3,,40.0760725,-74.2539351
+1786,Bradley Gardens Primary,New Jersey,Somerset,32,87.5,,6.2,,40.5630673,-74.663338
+1787,Chatham Methodist Preschool,New Jersey,Morris,8,87.5,,12.5,,40.744457,-74.390743
+1788,Christopher Academy - Westfield,New Jersey,Union,16,87.5,,12.5,,40.6518557,-74.3374948
+1789,Clinton Public,New Jersey,Hunterdon,32,87.5,,12.5,,40.635713,-74.9063067
+1790,First Christian Pentecostal Academy,New Jersey,Hudson,8,87.5,,12.5,,40.717564,-74.048727
+1791,Gerrard Berman Day,New Jersey,Bergen,8,87.5,,12.5,,41.018172,-74.25481
+1792,Harding Elementary,New Jersey,Union,96,87.5,,3.1,,40.6762057,-74.2952156
+1793,Harmony Township Elementary,New Jersey,Warren,24,87.5,,12.5,,40.7421155,-75.141479
+1794,Joyful Noise Christian,New Jersey,Burlington,8,87.5,,,,39.8901236,-74.9182042
+1795,Kradle 2 Kindergarten,New Jersey,Bergen,8,87.5,,12.5,,41.002858,-74.244611
+1796,Moreshes Bais Yaakov,New Jersey,Ocean,24,87.5,,12.5,,40.080202,-74.235088
+1797,Saint Pius X,New Jersey,Morris,8,87.5,,12.5,,40.9117139,-74.3599517
+1798,Sundance,New Jersey,Somerset,16,87.5,,12.5,,40.6139746,-74.4470699
+1799,Tehilas Chaya Sara,New Jersey,Ocean,24,87.5,,8.3,,40.0795391,-74.2539787
+1800,The Goddard - Clinton,New Jersey,Hunterdon,8,87.5,,12.5,,40.6412984,-74.8987766
+1801,Turtle Creek Learning Academy,New Jersey,Monmouth,8,87.5,,12.5,,40.316183,-74.243685
+1802,Nesivos Hatorah,New Jersey,Ocean,23,87,,4.4,,40.1060576,-74.1923533
+1803,Kiel,New Jersey,Morris,38,86.8,,13.2,,40.9957266,-74.3731641
+1804,Camden Prep Mt Ephraim Elementary,New Jersey,Camden,90,86.7,,,,39.9252899,-75.1065122
+1805,Camden Street,New Jersey,Essex,75,86.7,,,,40.7492634,-74.2073181
+1806,Edgar Child Care Center,New Jersey,Middlesex,15,86.7,,,,40.5345307,-74.3635584
+1807,Far Hills Country Day,New Jersey,Somerset,15,86.7,,13.3,,40.6972024,-74.6179952
+1808,Miftaahul Uloom Academy,New Jersey,Hudson,15,86.7,,6.7,,40.761638,-74.0366453
+1809,Morris County EduCare and Enrichment Center-Kenvil,New Jersey,Morris,15,86.7,,13.3,,40.8803655,-74.6268324
+1810,The French Academy of Billingual Culture,New Jersey,Bergen,15,86.7,6.7,6.7,,40.9181869,-74.0214061
+1811,Burke Elementary,New Jersey,Camden,52,86.5,,1.9,,39.8645716,-75.0795121
+1812,Eastern Christian Elementary,New Jersey,Bergen,37,86.5,,13.5,,40.997395,-74.1443892
+1813,Thomas Jefferson Elementary,New Jersey,Passaic,37,86.5,,13.5,,40.853433,-74.1376434
+1814,Yeshivat Yagdil Torah,New Jersey,Ocean,37,86.5,,5.4,,40.079332,-74.224046
+1815,The Learning Experience - Woodbridge,New Jersey,Middlesex,22,86.4,4.6,9.1,,40.5558216,-74.2752666
+1816,Old Farmers Road,New Jersey,Morris,51,86.3,2,11.8,,40.7705374,-74.7633423
+1817,James Stoy Elementary,New Jersey,Camden,29,86.2,,13.8,,39.9063467,-75.053768
+1818,Saint Mary's Regional,New Jersey,Atlantic,29,86.2,,13.8,,39.4711349,-74.919737
+1819,Kingwood Township,New Jersey,Hunterdon,36,86.1,,8.3,,40.5063313,-75.0114778
+1820,A-Plus Academy Child Care and Learning Center,New Jersey,Gloucester,7,85.7,,14.3,,39.6513362,-74.9524074
+1821,Alphabetland,New Jersey,Morris,7,85.7,,14.3,,40.8994474,-74.4080088
+1822,Bankbridge Elementary,New Jersey,Gloucester,7,85.7,14.3,,,39.7882701,-75.1192319
+1823,Bright Horizons at Carnegie Center,New Jersey,Mercer,7,85.7,,,,40.321938,-74.6487663
+1824,Center for Lifelong Learning,New Jersey,Middlesex,7,85.7,,14.3,,40.45186,-74.323176
+1825,Cherrywood Academy,New Jersey,Camden,7,85.7,,14.3,,39.8024748,-75.0322045
+1826,First Presbyterian Preschool and Kindergarten,New Jersey,Bergen,14,85.7,,14.3,,40.8907788,-73.9705778
+1827,Hampton,New Jersey,Hunterdon,21,85.7,,14.3,,40.705782,-74.9547994
+1828,Naudain Academy-A Montessori,New Jersey,Camden,14,85.7,,14.3,,39.8599637,-74.9260078
+1829,Ridgewood Montessori,New Jersey,Bergen,21,85.7,,14.3,,40.9301145,-74.0785702
+1830,Sung Star Academy,New Jersey,Ocean,7,85.7,,14.3,,39.9662971,-74.1874633
+1831,Temple Beth Rishon Preschool,New Jersey,Bergen,7,85.7,,14.3,,40.9922496,-74.1831862
+1832,The Goddard - Englewood Cliffs,New Jersey,Bergen,7,85.7,,14.3,,40.8737198,-73.9551088
+1833,The Montessori Children's Academy - Morris,New Jersey,Morris,7,85.7,,14.3,,40.7858221,-74.4524754
+1834,Timothy Christian Academy,New Jersey,Burlington,14,85.7,,14.3,,40.0037276,-74.7533185
+1835,Vine Haven Adventist,New Jersey,Cumberland,7,85.7,,14.3,,39.4842641,-75.0024313
+1836,Windsor Happy,New Jersey,Mercer,7,85.7,,,,40.3001438,-74.64164
+1837,Crossroads Christian Academy,New Jersey,Hunterdon,20,85,,5,,40.6274156,-74.9233795
+1838,Farmingdale Public,New Jersey,Monmouth,20,85,,5,,40.1955945,-74.1698358
+1839,Pilgrim Academy,New Jersey,Atlantic,20,85,,15,,39.517037,-74.539702
+1840,The Albrook,New Jersey,Somerset,20,85,5,10,,40.6588455,-74.5927596
+1841,Apple Montessori,New Jersey,Passaic,33,84.8,,6.1,,41.050989,-74.387817
+1842,George Washington Carver Institute - East Orange,New Jersey,Essex,33,84.8,,,,40.7747734,-74.2171041
+1843,Rev. Dr. Ercel F. Webb Elementary/PS 22,New Jersey,Hudson,99,84.8,,1,,40.7136212,-74.0614983
+1844,Bright Beginnings Learning Center - Piscataway,New Jersey,Middlesex,13,84.6,,15.4,,40.5319176,-74.419678
+1845,Saint Mary's Prep,New Jersey,Morris,13,84.6,,15.4,,40.8952318,-74.4825151
+1846,West Amwell Township,New Jersey,Hunterdon,26,84.6,,15.4,,40.387054,-74.9201669
+1847,Yeshiva Shaarei Tzion Boys Division,New Jersey,Middlesex,13,84.6,,15.4,,40.5311516,-74.4237601
+1848,Martin Luther King Elementary,New Jersey,Middlesex,140,84.3,,1.4,,40.5957643,-74.3743757
+1849,Alvey's Education Never End Program,New Jersey,Union,19,84.2,,15.8,,40.644204,-74.252968
+1850,Gloucester County Christian,New Jersey,Gloucester,19,84.2,,15.8,,39.737121,-75.160766
+1851,Sunny Days Children's Academy,New Jersey,Camden,19,84.2,15.8,,,39.918615,-75.028992
+1852,Noble Leadership Academy,New Jersey,Passaic,25,84,,16,,40.862631,-74.123105
+1853,Ethel Jacobsen Elementary,New Jersey,Ocean,31,83.9,,12.9,,39.6548324,-74.1764742
+1854,Academy Learning Center,New Jersey,Middlesex,6,83.3,16.7,,,40.353302,-74.4104098
+1855,Cheder Bnei Torah,New Jersey,Ocean,36,83.3,,2.8,,40.0898862,-74.2117803
+1856,Cheder Menachem,New Jersey,Middlesex,6,83.3,,16.7,,40.4333667,-74.5175335
+1857,Discovery Corner Child Care and Enrichment Center,New Jersey,Camden,6,83.3,,,,39.9476086,-75.0241292
+1858,"Highland Academy II, Inc",New Jersey,Atlantic,6,83.3,,16.7,,39.425026,-74.499367
+1859,Hill and Dale - Manasquan,New Jersey,Monmouth,24,83.3,,16.7,,40.1258701,-74.0526405
+1860,La Monte Annex,New Jersey,Somerset,96,83.3,,,,40.5630226,-74.5415221
+1861,Monarch Montessori,New Jersey,Passaic,6,83.3,,16.7,,40.8873225,-74.2460768
+1862,Montessori of East Rutherford,New Jersey,Bergen,6,83.3,,16.7,,40.8327986,-74.0981996
+1863,NJ Institue of Disabilities-Lakeview,New Jersey,Middlesex,6,83.3,,16.7,,40.5526504,-74.3429163
+1864,Saint Andrew the Apostle,New Jersey,Passaic,12,83.3,,16.7,,40.8555811,-74.1623215
+1865,Saint Anne,New Jersey,Bergen,6,83.3,,16.7,,40.922179,-74.119388
+1866,Scholars and Leaders Academy,New Jersey,Passaic,6,83.3,,,,40.8889202,-74.150609
+1867,The Presbyterian Church Preschool and Kindergarten,New Jersey,Union,12,83.3,,16.7,,40.6927817,-74.2734658
+1868,The Red Oaks,New Jersey,Morris,12,83.3,,16.7,,40.807751,-74.4838966
+1869,Trinity Christian,New Jersey,Morris,12,83.3,,16.7,,40.8914683,-74.3651556
+1870,Valley Program at Immaculate Conception,New Jersey,Bergen,12,83.3,,16.7,,40.984814,-73.980847
+1871,Weymouth Township,New Jersey,Atlantic,12,83.3,,,,39.4186567,-74.7746684
+1872,Yeshiva Bais Hatorah,New Jersey,Ocean,47,83,,10.6,,40.0800997,-74.1760157
+1873,Holy Cross,New Jersey,Monmouth,29,82.8,,,,40.3657091,-73.9808395
+1874,Colin Powell Elementary,New Jersey,Hudson,138,82.6,,,,40.7615218,-74.0345737
+1875,Bishop McHugh Regional Catholic,New Jersey,Cape May,17,82.4,,11.8,,39.1638597,-74.7534395
+1876,Calvary Christian,New Jersey,Middlesex,17,82.4,,11.8,,40.407189,-74.319248
+1877,Playhouse Inc,New Jersey,Essex,17,82.4,,17.6,,40.8365799,-74.2079657
+1878,Woodland Country Day,New Jersey,Cumberland,17,82.4,,17.6,,39.4676888,-75.3510229
+1879,YeshivatÂ NetivotÂ Montessori,New Jersey,Middlesex,17,82.4,,17.6,,40.453341,-74.5130728
+1880,George J. Mitchell Elementary,New Jersey,Ocean,72,81.9,,6.9,,39.6198348,-74.3427132
+1881,Saint Ann,New Jersey,Somerset,11,81.8,18.2,,,40.569397,-74.635554
+1882,West Cape May Elementary,New Jersey,Cape May,11,81.8,,18.2,,38.9443672,-74.9354909
+1883,Yeshiva Yesodei Hatorah,New Jersey,Ocean,11,81.8,,18.2,,40.0660388,-74.2016813
+1884,Acorn Montessori,New Jersey,Hunterdon,16,81.2,,18.8,,40.6011862,-74.8736463
+1885,Franklin Township,New Jersey,Hunterdon,16,81.2,,18.8,,40.5666663,-74.9470482
+1886,Holy Spirit,New Jersey,Union,16,81.2,6.2,6.2,,40.9531764,-74.292479
+1887,Saint James the Apostle,New Jersey,Union,16,81.2,,6.2,,40.7027632,-74.3178761
+1888,Apple Montessori - Montville,New Jersey,Morris,21,81,,14.3,,40.9241688,-74.3443821
+1889,Stone Harbor Elementary,New Jersey,Cape May,21,81,,14.3,,39.0559551,-74.7585732
+1890,Academy of Our Lady,New Jersey,Bergen,20,80,,20,,40.9559325,-74.1312625
+1891,Bais Sarah,New Jersey,Ocean,5,80,,,,40.0709921,-74.2170887
+1892,Chabad Early Early Learning Center,New Jersey,Morris,10,80,,20,,40.9205759,-74.510828
+1893,Cornerstone Montessori,New Jersey,Gloucester,5,80,,20,,39.8146285,-75.1037733
+1894,Hillel Yeshiva,New Jersey,Monmouth,55,80,,20,,40.2513552,-74.0535566
+1895,HollyDELL,New Jersey,Gloucester,5,80,,20,,39.7463972,-75.1080576
+1896,Madison Montessori,New Jersey,Morris,10,80,,20,,40.7573425,-74.4174804
+1897,Millstone Montessori Family LLC,New Jersey,Monmouth,5,80,,20,,40.2522643,-74.4360618
+1898,Montessori Enrichment Center,New Jersey,Monmouth,5,80,,20,,40.1489292,-74.2178657
+1899,Our Lady of Guadalupe Academy,New Jersey,Union,10,80,,,,40.6583687,-74.2061472
+1900,Saint Catherine of Bologna,New Jersey,Passaic,10,80,,10,,41.0918002,-74.2660308
+1901,Seashore,New Jersey,Monmouth,5,80,,20,,40.3022529,-73.9948553
+1902,Secret Garden Montessori,New Jersey,Hunterdon,5,80,,20,,40.5363857,-75.0628221
+1903,Temple Emanu-El's Early Childhood Education Program,New Jersey,Union,10,80,,,,40.6605285,-74.3375771
+1904,The Children's Therapy Center,New Jersey,Bergen,5,80,,20,,40.928197,-73.9613229
+1905,The Goddard - West Windsor - Windsor-Edinburg Rd,New Jersey,Mercer,5,80,,20,,40.255818,-74.613302
+1906,The Green Twig,New Jersey,Bergen,5,80,,,,40.985678,-74.140842
+1907,The Purple Crayon Enrichment Center,New Jersey,Atlantic,5,80,,,,39.3610423,-74.5803397
+1908,Lalor Elementary,New Jersey,Mercer,43,79.1,,2.3,,40.1960842,-74.740913
+1909,7th Avenue,New Jersey,Camden,19,79,10.5,5.3,,39.878194,-75.0567958
+1910,Winfield Township,New Jersey,Union,14,78.6,,,,40.6350167,-74.2870701
+1911,Union City Day Care,New Jersey,Hudson,32,78.1,,3.1,,40.7795002,-74.0193672
+1912,Giggle and Grow Preschool and Learning Center,New Jersey,Passaic,9,77.8,,22.2,,40.9145331,-74.2588362
+1913,The Brookside,New Jersey,Monmouth,9,77.8,,22.2,,40.141481,-74.061648
+1914,Visitation Academy,New Jersey,Bergen,18,77.8,,16.7,,40.9344132,-74.0622174
+1915,Mustard Seed,New Jersey,Hudson,30,76.7,3.3,16.7,,40.7427742,-74.033531
+1916,A Child's Place,New Jersey,Burlington,17,76.5,,23.5,,40.345111,-74.130848
+1917,Nicholas Murray Butler 23,New Jersey,Union,106,76.4,,2.8,,40.6784823,-74.2169832
+1918,Yeshiva Shaarei Tzion Girls Division,New Jersey,Middlesex,21,76.2,,9.5,,40.5272314,-74.4888074
+1919,Talmud Torah Zecher Yochanan,New Jersey,Ocean,50,76,,10,,40.0783861,-74.2376281
+1920,Lincoln Elementary - Newark,New Jersey,Essex,29,75.9,,,,40.7255604,-74.1793171
+1921,Cumberland Christian,New Jersey,Cumberland,16,75,,25,,39.4480425,-75.0490852
+1922,English Creek Academy,New Jersey,Atlantic,24,75,,,,39.432499,-74.614374
+1923,Bais Yaakov Ohel Esther,New Jersey,Ocean,23,73.9,,8.7,,40.080202,-74.235088
+1924,The Goddard - Tinton Falls,New Jersey,Monmouth,15,73.3,,6.7,,40.3287502,-74.0773156
+1925,Academy of Saint James of the Marches,New Jersey,Passaic,11,72.7,,,,40.9052458,-74.212215
+1926,The Wilberforce,New Jersey,Mercer,11,72.7,,27.3,,40.358835,-74.6214267
+1927,Yeshiva Ohr Hachaim,New Jersey,Ocean,22,72.7,,27.3,,40.058963,-74.2096588
+1928,Bas Yisroel,New Jersey,Ocean,18,72.2,,11.1,,40.0981832,-74.2229872
+1929,Peter Cooper,New Jersey,Passaic,53,71.7,1.9,13.2,,41.0673599,-74.266329
+1930,Hoboken Montessori,New Jersey,Hudson,7,71.4,,14.3,,40.7536994,-74.0274327
+1931,Monmouth Montesorri,New Jersey,Monmouth,14,71.4,,21.4,,40.162138,-74.033428
+1932,North Hudson Academy,New Jersey,Hudson,7,71.4,14.3,,,40.7842186,-74.0321766
+1933,Our Lady of Mount Carmel,New Jersey,Morris,7,71.4,,28.6,,40.2224886,-74.0213375
+1934,Tadpole Village Preschool,New Jersey,Monmouth,7,71.4,,28.6,,40.1756086,-74.4542209
+1935,YingHua International,New Jersey,Somerset,14,71.4,,,,40.3775571,-74.6140825
+1936,Talmud Torah Toldos Yakov Yosef,New Jersey,Ocean,24,70.8,,20.8,,40.106889,-74.224542
+1937,Machzikei Hadas,New Jersey,Ocean,44,70.4,4.6,25,,40.873109,-74.016668
+1938,American Christian,New Jersey,Morris,20,70,,30,,40.857773,-74.6597649
+1939,Apple Montessori - Oakland,New Jersey,Bergen,10,70,,30,,41.0155959,-74.2508999
+1940,Calvary Academy,New Jersey,Ocean,10,70,,30,,40.1047143,-74.1758771
+1941,Summer Hill Preschool,New Jersey,Monmouth,10,70,,10,,40.198958,-74.079307
+1942,Montclair Cooperative,New Jersey,Essex,16,68.8,,18.8,,40.8208362,-74.2104503
+1943,Shrewsbury Borough,New Jersey,Monmouth,43,67.4,,7,,40.3245731,-74.0593872
+1944,Academy360 Lower,New Jersey,Essex,6,66.7,,33.3,,40.82349,-74.228812
+1945,Bnot Yisroel,New Jersey,Ocean,21,66.7,,33.3,,40.0739825,-74.2232888
+1946,Edith Ort Thomas Elementary,New Jersey,Hunterdon,9,66.7,,33.3,,40.534209,-75.0620273
+1947,Good Shepherd Chritian Academy/Good Shepherd Preschool - Washington,New Jersey,Warren,6,66.7,,33.3,,40.7462437,-75.0214558
+1948,Harbor Baptist Academy,New Jersey,Burlington,6,66.7,,33.3,,40.080136,-74.8559673
+1949,Lubavitch on the Palisades,New Jersey,Bergen,24,66.7,,33.3,,40.9292655,-73.9628919
+1950,Montessori Seeds of Education,New Jersey,Camden,6,66.7,,33.3,,39.9544739,-75.0492843
+1951,Netherlands Reformed Christian,New Jersey,Morris,18,66.7,,27.8,,40.9534026,-74.3121549
+1952,Our Lady Help Of Christians,New Jersey,Essex,21,66.7,,,,40.765252,-74.2141066
+1953,Ridge and Valley Charter,New Jersey,Warren,15,66.7,,33.3,,40.9758874,-74.9360389
+1954,Yeshivat Keter Torah,New Jersey,Monmouth,14,64.3,7.1,28.6,,40.2796403,-74.0508664
+1955,Trinity Preparatory,New Jersey,Camden,11,63.6,,,,39.821529,-75.0071249
+1956,Northwest Christian,New Jersey,Sussex,8,62.5,,37.5,,41.0939641,-74.748644
+1957,Erial Community Church Christian,New Jersey,Camden,21,61.9,,4.8,,39.7678719,-75.00282
+1958,Margaret P. Muscarelle Child Development Center,New Jersey,Bergen,13,61.5,7.7,30.8,,40.8822743,-74.1044043
+1959,Ambassador Christian Academy,New Jersey,Ocean,10,60,,7.7,,39.9591411,-74.2001327
+1960,Children of America,New Jersey,Middlesex,10,60,,,,40.430606,-74.39158
+1961,Children's Choice,New Jersey,Middlesex,10,60,,40,,40.4498805,-74.4013385
+1962,I AM's Temple Christian Academy,New Jersey,Union,20,60,,10,,40.624435,-74.401716
+1963,New Beginnings,New Jersey,Essex,5,60,,40,,40.8725474,-74.2908898
+1964,Saint Nicholas Ukrainian Catholic,New Jersey,Passaic,10,60,,40,,40.8711995,-74.1272613
+1965,The Center for Education,New Jersey,Ocean,5,60,,,,40.0969383,-74.1381971
+1966,Yeshiva at the Jersey Shore,New Jersey,Monmouth,5,60,,20,,40.2513261,-74.0536235
+1967,Lightbridge Academy - Rutherford,New Jersey,Bergen,14,57.1,,42.9,,40.8171515,-74.1015139
+1968,The Cottage,New Jersey,Somerset,7,57.1,,42.9,,40.7195513,-74.6641292
+1969,Vincent S. Mastro Montessori Academy,New Jersey,Monmouth,16,56.2,,18.8,,40.336433,-74.061918
+1970,Cheder Lubavitch,New Jersey,Morris,18,55.6,,44.4,,40.8059486,-74.4987214
+1971,The Waldorf of Princeton,New Jersey,Somerset,18,55.6,5.6,38.9,,40.40214,-74.682698
+1972,Dale Avenue/School 41,New Jersey,Passaic,225,52.9,,,,40.9139636,-74.1686564
+1973,Espin Preschool Learning Center,New Jersey,Union,8,50,12.5,12.5,,40.6990231,-74.268988
+1974,New Friends Child Care,New Jersey,Middlesex,10,50,,,,40.5006198,-74.4011172
+1975,The Learning Experience,New Jersey,Warren,8,50,,12.5,,40.6455465,-74.4746276
+1976,Westminster Nature Preschool,New Jersey,Monmouth,9,44.4,,55.6,,40.4051339,-74.102169
+1977,Marlboro Prepatory Academy,New Jersey,Monmouth,13,38.5,,61.5,,40.3603062,-74.2895571
+1978,Waldwick SDA,New Jersey,Bergen,9,33.3,,66.7,,41.0082569,-74.1256927
+1979,Deane Porter Elementary,New Jersey,Monmouth,86,27.9,,1.2,,40.3708483,-74.0046207
+1980,Birches Elementary,New Jersey,Gloucester,5,20,,80,,39.7436638,-75.0522029
+1981,Precious People Early Learning Center,New Jersey,Union,12,8.3,,8.3,,40.7037819,-74.220795
+1982,Loring Flemming Elementary,New Jersey,Camden,99,2,,,,39.8237198,-75.0549459
+1983,Ability,New Jersey,Bergen,,,,,,40.9006561,-73.980692
+1984,Adventure Land,New Jersey,Bergen,,,,,,40.8930471,-74.0546154
+1985,Alan E. Zimmer Educational Center,New Jersey,Somerset,,,,,,40.5292099,-74.6400432
+1986,Allegro,New Jersey,Morris,,,,,,40.8188556,-74.45023
+1987,Alpine Learning Group,New Jersey,Bergen,,,,,,40.9792467,-74.0896132
+1988,Alpine Montessori,New Jersey,Sussex,,,,,,41.0397929,-74.6319671
+1989,American Montessori,New Jersey,Somerset,,,,,,40.5463769,-74.6130624
+1990,Amerigo A. Anastasia,New Jersey,Monmouth,,,,,,40.3057845,-73.9978395
+1991,Apple Montessori - Cliffside Park,New Jersey,Bergen,,,,,,40.8238715,-73.9873646
+1992,Apple Montessori - Parsippany-Troy Hills,New Jersey,Morris,,,,,,40.8538356,-74.4537424
+1993,Apple Montessori - Sinatra Dr,New Jersey,Hudson,,,,,,40.7387984,-74.0274462
+1994,Assumption Academy,New Jersey,Bergen,,,,,,40.9761047,-74.0240449
+1995,Ateres Bais Yaakov,New Jersey,Ocean,,,,,,40.080202,-74.235088
+1996,Bamboo Shoots,New Jersey,Union,,,,,,40.665942,-74.35079
+1997,Bancroft at VPF,New Jersey,Camden,,,,,,39.8506449,-74.9697497
+1998,Bankbridge Development Center,New Jersey,Gloucester,,,,,,39.778483,-75.1266799
+1999,Bergen Early Learning Alliance Program,New Jersey,Bergen,,,,,,40.9262762,-74.07701
+2000,Bergen-Lafayette Montessori,New Jersey,Hudson,,,,,,40.710692,-74.061359
+2001,Berkeley Child Care,New Jersey,Ocean,,,,,,39.9069007,-74.155073
+2002,Beth Chaim PreSchool,New Jersey,Mercer,,,,,,40.2744668,-74.6010625
+2003,Bethany Baptist Christian,New Jersey,Gloucester,,,,,,39.8063288,-75.0835725
+2004,Big Smiles Learning and Care,New Jersey,Essex,,,,,,40.8021375,-74.1537003
+2005,Brayton Elementary,New Jersey,Union,,,,,,40.7088976,-74.3641361
+2006,Bridgeton Christian,New Jersey,Cumberland,,,,,,39.4303066,-75.2494101
+2007,Bright Horizons at Cranbury,New Jersey,Middlesex,,,,,,40.3410072,-74.5019361
+2008,Bright Horizons at Lopatcong,New Jersey,Warren,,,,,,40.7009253,-75.1447491
+2009,Brownstone c/o St. Philip the Apostle,New Jersey,Bergen,,,,,,40.907841,-74.0911014
+2010,Bruce Street,New Jersey,Essex,,,,,,40.712294,-74.2159408
+2011,Busy Bee's Christian Family Child Care,New Jersey,Camden,,,,,,39.8644367,-74.9653605
+2012,Busy Little Hands Christian Montessori,New Jersey,Middlesex,,,,,,40.419135,-74.418766
+2013,Cambridge,New Jersey,Mercer,,,,,,40.3314745,-74.7967079
+2014,Champion Baptist Academy,New Jersey,Atlantic,,,,,,39.4752918,-74.5126309
+2015,Chapel Hill Academy,New Jersey,Morris,,,,,,40.9207632,-74.3033976
+2016,Children of America - Clementon,New Jersey,Camden,,,,,,39.8195402,-75.0390078
+2017,Children's Academy,New Jersey,Union,,,,,,40.7124249,-74.3105474
+2018,Children's Learning Tree,New Jersey,Essex,,,,,,40.7450579,-74.2629909
+2019,Childtime - Bridgewater,New Jersey,Somerset,,,,,,40.5904469,-74.6573689
+2020,Christian Family Day Care Center,New Jersey,Essex,,,,,,40.7731492,-74.2306015
+2021,Christopher Academy - Scotch Plains,New Jersey,Union,,,,,,40.62297,-74.374253
+2022,Clark,New Jersey,Essex,,,,,,40.7731961,-74.2195391
+2023,Coastal Learning Center,New Jersey,Monmouth,,,,,,40.1125706,-74.1754765
+2024,Collegiate,New Jersey,Passaic,,,,,,40.8531353,-74.1330878
+2025,Come Sit With Me Too,New Jersey,Bergen,,,,,,40.8290512,-73.9873991
+2026,Community Christian Academy and Preschool,New Jersey,Somerset,,,,,,40.5103964,-74.5076952
+2027,CPC High Point Adolescent and Elementary,New Jersey,Monmouth,,,,,,40.388116,-74.232736
+2028,Creative Achievement Academy,New Jersey,Cumberland,,,,,,39.477841,-75.041982
+2029,Crossroads,New Jersey,Union,,,,,,40.680871,-74.329783
+2030,Daretown Campus,New Jersey,Salem,,,,,,39.607156,-75.2533138
+2031,DCF Regional Union Campus,New Jersey,Union,,,,,,40.6197846,-74.3689997
+2032,Developmental Learning Center - New Providence,New Jersey,Union,,,,,,40.6987032,-74.3929413
+2033,"Douglass Developmental Disabilities Center, Rutgers",New Jersey,Middlesex,,,,,,40.4800329,-74.4286542
+2034,Dow Jones Family Center,New Jersey,Middlesex,,,,,,40.3665484,-74.5894185
+2035,Early Learners Childcare,New Jersey,Bergen,,,,,,40.9627783,-74.0686695
+2036,Early Years Child care center,New Jersey,Morris,,,,,,40.870918,-74.505069
+2037,ECLC of New Jersey,New Jersey,Morris,,,,,,40.7387039,-74.3858386
+2038,Educational Counseling Services,New Jersey,Passaic,,,,,,40.9193859,-74.173562
+2039,Educational Partnership For Instructing Children,New Jersey,Bergen,,,,,,40.9354367,-74.0625483
+2040,Elmer Elementary,New Jersey,Salem,,,,,,39.592914,-75.1767629
+2041,Fields of Green Montessori,New Jersey,Sussex,,,,,,41.203013,-74.506643
+2042,Flex Program at Thomas Edison,New Jersey,Bergen,,,,,,40.9436722,-74.10702
+2043,Fords House,New Jersey,Middlesex,,,,,,40.528331,-74.3132147
+2044,Franklin Montessori,New Jersey,Somerset,,,,,,40.4331826,-74.5484566
+2045,Garden Academy,New Jersey,Essex,,,,,,40.7930201,-74.281644
+2046,Gaul's Nursery and Arts Centre,New Jersey,Burlington,,,,,,39.9559222,-74.9936196
+2047,Genesis Day,New Jersey,Hudson,,,,,,40.7233925,-74.0487326
+2048,Greatstart Early Learning,New Jersey,Morris,,,,,,41.1182559,-74.3612884
+2049,Happy Faces Forever,New Jersey,Hudson,,,,,,40.79389,-74.00383
+2050,Harbor Learning Center - Edison,New Jersey,Middlesex,,,,,,40.5252035,-74.3199816
+2051,Hawkswood,New Jersey,Monmouth,,,,,,40.2772391,-74.0643091
+2052,Hearing Impaired Program - Union Street,New Jersey,Bergen,,,,,,40.8890119,-74.0434722
+2053,Helping Hands and Teddy Bear Play Pen,New Jersey,Middlesex,,,,,,40.5352041,-74.3392726
+2054,Horizon Lower,New Jersey,Essex,,,,,,40.794717,-74.346177
+2055,Institute for Educational Achievement,New Jersey,Bergen,,,,,,40.9407235,-74.0136702
+2056,JAMAS Day Care Center,New Jersey,Essex,,,,,,40.7720817,-74.1954407
+2057,Jardine Academy,New Jersey,Union,,,,,,40.6511174,-74.2895396
+2058,Jefferson - Summit,New Jersey,Union,,,,,,40.7140772,-74.3773352
+2059,Jesus' Harvest Time Academy,New Jersey,Ocean,,,,,,40.126489,-74.372721
+2060,Jin-A Child Care Center,New Jersey,Passaic,,,,,,40.880276,-74.183644
+2061,Kiddie Academy Montville,New Jersey,Morris,,,,,,40.9158841,-74.367139
+2062,Kiddie Kastle Academy,New Jersey,Atlantic,,,,,,39.382752,-74.5568579
+2063,Kiddie Korner,New Jersey,Atlantic,,,,,,39.3885142,-74.5660943
+2064,Kids Choice Academy - Black Horse Pike,New Jersey,Atlantic,,,,,,39.4139487,-74.5730034
+2065,Kids Choice Academy - Washington Ave,New Jersey,Atlantic,,,,,,39.4013793,-74.5484645
+2066,Kidsnet Learning Center,New Jersey,Camden,,,,,,39.7381491,-74.9935748
+2067,KinderCare - Mt Laurel - Larchmont Blvd,New Jersey,Burlington,,,,,,39.9785987,-74.8792233
+2068,Kindercare Learning Center - Franklin,New Jersey,Somerset,,,,,,40.5002198,-74.5210599
+2069,KinderCare Learning Center - Hanover,New Jersey,Morris,,,,,,40.8195645,-74.4142936
+2070,KinderCare Learning Center - Hillsborough,New Jersey,Somerset,,,,,,40.490883,-74.65066
+2071,KinderCare Learning Center - Mount Olive,New Jersey,Morris,,,,,,40.85125,-74.7799707
+2072,KinderCare Learning Center - Old Bridge,New Jersey,Middlesex,,,,,,40.383749,-74.31719
+2073,Kindercare Learning Center - Washington - Hurffville-Crosskeys Rd,New Jersey,Gloucester,,,,,,39.7356219,-75.0698132
+2074,KinderCare Learning Center - Woodcliff,New Jersey,Bergen,,,,,,41.041196,-74.072623
+2075,Larc,New Jersey,Camden,,,,,,39.87117,-75.116992
+2076,Lehmann,New Jersey,Ocean,,,,,,40.055454,-74.180695
+2077,Life Mission Training Center,New Jersey,Atlantic,,,,,,39.614362,-74.780961
+2078,Lightbridge Academy - East Windsor,New Jersey,Mercer,,,,,,40.286467,-74.524854
+2079,Little Flyers Academy Inc,New Jersey,Atlantic,,,,,,39.4445079,-74.5636729
+2080,Little Gems Academy,New Jersey,Somerset,,,,,,40.5136196,-74.5461278
+2081,Little Genius Planet,New Jersey,Warren,,,,,,40.7018498,-75.1577971
+2082,Little Master,New Jersey,Hudson,,,,,,40.7485962,-74.0500023
+2083,Little Restorer's Learning Center,New Jersey,Camden,,,,,,39.720176,-74.957907
+2084,Little Wonders Day,New Jersey,Middlesex,,,,,,40.3497725,-74.4368161
+2085,Long Hill Montessori,New Jersey,Morris,,,,,,40.675915,-74.495664
+2086,Manalapan Montessori,New Jersey,Monmouth,,,,,,40.3386591,-74.3205775
+2087,Meadow View Junior Academy,New Jersey,Burlington,,,,,,40.1258707,-74.6524401
+2088,Middlesex County College Child Care Center,New Jersey,Middlesex,,,,,,40.506403,-74.3692224
+2089,Milford Public,New Jersey,Hunterdon,,,,,,40.5684797,-75.0929898
+2090,Montessori Children's World,New Jersey,Middlesex,,,,,,40.3566793,-74.4924206
+2091,Montessori Kids Universe,New Jersey,Middlesex,,,,,,40.3444813,-74.5002758
+2092,Mount Carmel Guild Academy,New Jersey,Essex,,,,,,40.794775,-74.2338784
+2093,My World Child Care Center,New Jersey,Middlesex,,,,,,40.5827946,-74.2908215
+2094,New Hope,New Jersey,Passaic,,,,,,40.868249,-74.156483
+2095,New Life Child Care Learning Center,New Jersey,Essex,,,,,,40.7088588,-74.2210049
+2096,New of Monmouth County,New Jersey,Monmouth,,,,,,40.421513,-74.142661
+2097,New World Montessori,New Jersey,Bergen,,,,,,40.862236,-74.073721
+2098,NJ for the Deaf,New Jersey,Mercer,,,,,,40.252767,-74.812905
+2099,Norman A. Bleshman Regional Day,New Jersey,Bergen,,,,,,40.9576898,-74.0555135
+2100,Northern Hills Academy,New Jersey,Sussex,,,,,,41.0735565,-74.6667115
+2101,NuView Academy,New Jersey,Middlesex,,,,,,40.5263475,-74.4898368
+2102,Oak Street Elementary,New Jersey,Ocean,,,,,,40.0676948,-74.2127697
+2103,Omni Dayschool,New Jersey,Passaic,,,,,,41.116783,-74.385186
+2104,Parsippany Christian,New Jersey,Morris,,,,,,40.8581222,-74.4513955
+2105,Rainbow Childcare Center,New Jersey,Somerset,,,,,,40.5282004,-74.4988777
+2106,Rhyme and Reason Child Care,New Jersey,Morris,,,,,,40.8947634,-74.4817563
+2107,Ringwood Christian,New Jersey,Passaic,,,,,,41.112618,-74.254848
+2108,Rising Star Learning Center,New Jersey,Essex,,,,,,40.7082348,-74.2110082
+2109,Robinson Small Learning Center,New Jersey,Atlantic,,,,,,39.3683471,-74.4216159
+2110,RockBrook,New Jersey,Somerset,,,,,,40.416231,-74.6619845
+2111,Roe's Country Day Care,New Jersey,Sussex,,,,,,41.066548,-74.603455
+2112,Rolling Hills Primary,New Jersey,Sussex,,,,,,41.2221893,-74.4986515
+2113,Schroth,New Jersey,Monmouth,,,,,,40.24191,-74.043352
+2114,Scotch Plains Baptist Christian Day,New Jersey,Union,,,,,,40.6524088,-74.3993268
+2115,SEARCH Day Program,New Jersey,Monmouth,,,,,,40.2433345,-74.0223646
+2116,Seedlings Infant Toddler Preschool,New Jersey,Somerset,,,,,,40.5136582,-74.6865027
+2117,Shepard,New Jersey,Morris,,,,,,40.9744618,-74.3827369
+2118,Somerset Bible Baptist Christian Academy,New Jersey,Somerset,,,,,,40.5306088,-74.5119718
+2119,Somerset Hills Learning Institute,New Jersey,Somerset,,,,,,40.6443297,-74.651179
+2120,Stepping Stones Montessori,New Jersey,Morris,,,,,,40.899038,-74.705486
+2121,The Beanstalk Academy,New Jersey,Morris,,,,,,40.907962,-74.6667396
+2122,The Brunswick,New Jersey,Hudson,,,,,,40.7264851,-74.0508874
+2123,The Education Academy,New Jersey,Ocean,,,,,,39.855519,-74.1793585
+2124,The Goddard - Washington,New Jersey,Gloucester,,,,,,39.7392517,-75.0781791
+2125,The Honey Tree - Brick,New Jersey,Ocean,,,,,,40.083032,-74.148223
+2126,The Learning Experience - Ramsey,New Jersey,Bergen,,,,,,41.063638,-74.133314
+2127,The Lewis of Princeton,New Jersey,Mercer,,,,,,40.3509511,-74.6654339
+2128,The Little of Waldwick LLC,New Jersey,Bergen,,,,,,41.0106041,-74.1204633
+2129,The Malvern,New Jersey,Monmouth,,,,,,40.2975386,-74.2567258
+2130,The Meadow's,New Jersey,Bergen,,,,,,40.818827,-74.0988985
+2131,The Phoenix Center,New Jersey,Essex,,,,,,40.8115975,-74.1475763
+2132,The Scandinavian of Jersey City,New Jersey,Hudson,,,,,,40.7282639,-74.0421087
+2133,The Shore Center For Students With Autism,New Jersey,Monmouth,,,,,,40.2703287,-74.0806653
+2134,The Windsor Learning Center,New Jersey,Passaic,,,,,,41.0046906,-74.2921123
+2135,The Wonder Years Academy,New Jersey,Union,,,,,,40.6381143,-74.388321
+2136,Therapeutic and Preschool,New Jersey,Essex,,,,,,40.7932338,-74.1715117
+2137,Tiny Tiki's Learning Center,New Jersey,Passaic,,,,,,40.8832097,-74.2485113
+2138,Tiny Town Preschool,New Jersey,Sussex,,,,,,41.0756554,-74.6647435
+2139,Today's Learning Center,New Jersey,Passaic,,,,,,40.852429,-74.154964
+2140,Tranquility Adventist,New Jersey,Sussex,,,,,,40.9498002,-74.7926031
+2141,Unitarian Montessori,New Jersey,Middlesex,,,,,,40.454602,-74.422851
+2142,Viaquenti Academy,New Jersey,Hudson,,,,,,40.734756,-74.044763
+2143,Visions at Parkway,New Jersey,Bergen,,,,,,40.954461,-74.031683
+2144,Washington Academy,New Jersey,Essex,,,,,,40.7783172,-74.1781271
+2145,Washington Elementary - Paramus,New Jersey,Bergen,,,,,,40.9560521,-74.057915
+2146,William F. Halloran 22,New Jersey,Union,,,,,,40.6458164,-74.2089819
+2147,Willow,New Jersey,Somerset,,,,,,40.720415,-74.682753
+2148,Y.A.L.E. Southeast,New Jersey,Camden,,,,,,39.8443955,-74.9781605
+2149,You and Me,New Jersey,Middlesex,,,,,,40.5829663,-74.4948601

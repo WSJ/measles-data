@@ -1,0 +1,476 @@
+index,state,year,name,city,county,district,enrollment,overall,xmed,xrel,lat,lng
+1,Idaho,2018-19,Amity Elementary,Boise,Ada,Boise,44,100,0,0,43.5622078,-116.3048989
+2,Idaho,2018-19,Beacon Christian,Lewiston,Nez Perce,Private,5,100,0,0,46.391844,-117.0004769
+3,Idaho,2018-19,Boise River Montessori,Boise,Ada,Private,3,100,0,0,43.6401889,-116.223726
+4,Idaho,2018-19,Calvary Chapel Christian School - Pocatello,Pocatello,Bannock,Private,7,100,0,0,42.9046872,-112.4328394
+5,Idaho,2018-19,Cavendish-Teakean Elementary,Lenore,Nez Perce,Orofino,3,100,0,0,46.5112843,-116.5532036
+6,Idaho,2018-19,Cloverdale Christian Dayschool,Boise,Ada,Private,9,100,0,0,43.5675637,-116.3353451
+7,Idaho,2018-19,Coeur D'Alene Tribal,Desmet,Benewah,Private,6,100,0,0,47.1473484,-116.9150776
+8,Idaho,2018-19,Culdesac,Culdesac,Nez Perce,Culdesac,7,100,0,0,46.37527,-116.671723
+9,Idaho,2018-19,Downey Elementary,Downey,Bannock,Marsh Valley,9,100,0,0,42.4276466,-112.1185421
+10,Idaho,2018-19,Eagle Adventist Christian,Eagle,Ada,Private,7,100,0,0,43.6962057,-116.3608453
+11,Idaho,2018-19,Elk City Public,Elk City,Idaho,Mountain View,1,100,0,0,45.8279985,-115.4360727
+12,Idaho,2018-19,Five Mile Montessori,Boise,Ada,Private,4,100,0,0,43.591644,-116.3102568
+13,Idaho,2018-19,Gateway School Of Language And Culture,Boise,Ada,West Ada,40,100,0,0,43.6475467,-116.3178348
+14,Idaho,2018-19,Holy Rosary Bi-Parish,Idaho Falls,Bonneville,Private,36,100,0,0,43.4900236,-112.0318225
+15,Idaho,2018-19,Hope Lutheran,Idaho Falls,Bonneville,Private,6,100,0,0,43.4874154,-111.9945839
+16,Idaho,2018-19,Little Peoples Academy,Idaho Falls,Bonneville,Private,24,100,0,0,43.4925113,-112.0344112
+17,Idaho,2018-19,Longfellow Elementary School - Idaho Falls,Idaho Falls,Bonneville,Idaho Falls,74,100,0,0,43.473988,-112.0251323
+18,Idaho,2018-19,Lowman Elementary,Crouch,Boise,Garden Valley,1,100,0,0,44.0912772,-115.9573713
+19,Idaho,2018-19,North Gem K-12,Bancroft,Caribou,North Gem,14,100,0,0,42.7182473,-111.8866461
+20,Idaho,2018-19,Northview Montessori,Boise,Ada,Private,18,100,0,0,43.6268016,-116.2776892
+21,Idaho,2018-19,Ola Elementary,Ola,Gem,Emmett,1,100,0,0,44.1767816,-116.292135
+22,Idaho,2018-19,Peck Elementary,Peck,Nez Perce,Orofino,1,100,0,0,46.474709,-116.422861
+23,Idaho,2018-19,Snake River Montessori Elementary,Idaho Falls,Bonneville,Private,7,100,0,0,43.495805,-111.9749316
+24,Idaho,2018-19,Stone Elementary,Malad City,Oneida,Oneida,3,100,0,0,42.0246414,-112.6958123
+25,Idaho,2018-19,Swan Valley Elementary,Irwin,Bonneville,Swan Valley,7,100,0,0,43.4058879,-111.2932101
+26,Idaho,2018-19,Table Rock Christian,Driggs,Teton,Private,1,100,0,0,43.7455901,-111.0675402
+27,Idaho,2018-19,Tendoy Elementary School - Tendoy,Tendoy,Lemhi,South Lemhi,1,100,0,0,44.9574257,-113.6408889
+28,Idaho,2018-19,Three Creek Elementary,Rogerson,Twin Falls,Three Creek,2,100,0,0,42.0732391,-115.1924011
+29,Idaho,2018-19,Westside Elementary,Idaho Falls,Bonneville,Idaho Falls,48,100,0,0,43.4848041,-112.08455
+30,Idaho,2018-19,Hillview Elementary,Idaho Falls,Bonneville,Bonneville,68,98.52941176,1.470588235,0,43.4754059,-111.972332
+31,Idaho,2018-19,Camelot Elementary,Lewiston,Nez Perce,Lewiston,64,98.4375,0,1.5625,46.3738157,-116.932628
+32,Idaho,2018-19,Payette Primary,Payette,Payette,Payette,121,98.34710744,0,0.826446281,44.0774397,-116.9269564
+33,Idaho,2018-19,Hillcrest Elementary School - American Falls,American Falls,Power,American Falls,111,98.1981982,0,0,42.7751121,-112.8563225
+34,Idaho,2018-19,Wilder Elementary,Wilder,Canyon,Wilder,50,98,0,0,43.6775705,-116.9051345
+35,Idaho,2018-19,Rulon M Ellis Elementary,Pocatello,Bannock,Pocatello,49,97.95918367,0,2.040816327,42.9331554,-112.4552983
+36,Idaho,2018-19,Valley,Hazelton,Jerome,Valley,41,97.56097561,0,0,42.5930853,-114.1712347
+37,Idaho,2018-19,Mountain Valley Elementary,Ammon,Bonneville,Bonneville,80,97.5,0,1.25,43.4740523,-111.9519109
+38,Idaho,2018-19,Hidden Springs Elementary,Boise,Ada,Boise,39,97.43589744,0,2.564102564,43.7251023,-116.2573471
+39,Idaho,2018-19,Desert Sage Elementary,Boise,Ada,West Ada,112,97.32142857,0,0.8928571429,43.5385359,-116.2970002
+40,Idaho,2018-19,Parkcenter Montessori,Boise,Ada,Private,37,97.2972973,0,2.702702703,43.5890081,-116.1765462
+41,Idaho,2018-19,Lewis And Clark Elementary School - Caldwell,Caldwell,Canyon,Caldwell,71,97.18309859,0,0,43.6251978,-116.6854942
+42,Idaho,2018-19,Summit Hills Elementary,Idaho Falls,Bonneville,Bonneville,71,97.18309859,1.408450704,0,43.5222699,-111.977503
+43,Idaho,2018-19,Ustick Elementary,Boise,Ada,West Ada,70,97.14285714,0,2.857142857,43.6333167,-116.3378977
+44,Idaho,2018-19,Silver Sage Elementary,Boise,Ada,West Ada,34,97.05882353,0,2.941176471,43.5583045,-116.2799814
+45,Idaho,2018-19,Woodland Hills Elementary,Idaho Falls,Bonneville,Bonneville,66,96.96969697,0,1.515151515,43.4544513,-111.9603731
+46,Idaho,2018-19,Spalding Elementary,Boise,Ada,West Ada,124,96.77419355,0,3.225806452,43.599173,-116.3372003
+47,Idaho,2018-19,Tiebreaker Elementary,Idaho Falls,Bonneville,Bonneville,61,96.72131148,0,3.278688525,43.4963666,-111.9741442
+48,Idaho,2018-19,Aberdeen Elementary,Aberdeen,Bingham,Aberdeen,58,96.55172414,0,1.724137931,42.9431902,-112.84446
+49,Idaho,2018-19,Maxine Johnson Elementary,Parma,Canyon,Parma,83,96.38554217,0,3.614457831,43.7898846,-116.9343989
+50,Idaho,2018-19,Lakewood Montessori,Boise,Ada,Private,27,96.2962963,0,3.703703704,43.5784367,-116.1827396
+51,Idaho,2018-19,Groveland Elementary,Blackfoot,Bingham,Blackfoot,26,96.15384615,0,0,43.2206999,-112.3714801
+52,Idaho,2018-19,Malad Elementary,Malad City,Oneida,Oneida,52,96.15384615,0,3.846153846,42.1948306,-112.2518401
+53,Idaho,2018-19,Rupert Elementary,Rupert,Minidoka,Minidoka,104,96.15384615,0,0.9615384615,42.6311534,-113.669722
+54,Idaho,2018-19,Collister Elementary,Boise,Ada,Boise,24,95.83333333,0,0,43.6563196,-116.243949
+55,Idaho,2018-19,Grace Jordan Elementary,Boise,Ada,Boise,48,95.83333333,0,4.166666667,43.5919639,-116.2621493
+56,Idaho,2018-19,White Pine Elementary School - Boise,Boise,Ada,Boise,48,95.83333333,0,0,43.5779704,-116.1780819
+57,Idaho,2018-19,Grace Lutheran,Pocatello,Bannock,Private,47,95.74468085,0,4.255319149,42.905126,-112.4350666
+58,Idaho,2018-19,Koelsch Elementary,Boise,Ada,Boise,46,95.65217391,2.173913043,0,43.622485,-116.25529
+59,Idaho,2018-19,Lake Hazel Elementary,Boise,Ada,West Ada,69,95.65217391,0,4.347826087,43.5459293,-116.3282397
+60,Idaho,2018-19,Mcghee Elementary,Lewiston,Nez Perce,Lewiston,46,95.65217391,0,2.173913043,46.3837127,-116.9975227
+61,Idaho,2018-19,Arco Elementary,Arco,Butte,Butte,22,95.45454545,0,0,43.6337534,-113.3027369
+62,Idaho,2018-19,Sunnyside Elementary,Idaho Falls,Bonneville,Idaho Falls,66,95.45454545,0,0,43.4634475,-112.0354018
+63,Idaho,2018-19,Discovery Elementary School - Idaho Falls,Idaho Falls,Bonneville,Bonneville,87,95.40229885,1.149425287,3.448275862,43.5225392,-111.9583006
+64,Idaho,2018-19,Falls Valley Elementary,Idaho Falls,Bonneville,Bonneville,65,95.38461538,0,4.615384615,43.4978259,-111.985047
+65,Idaho,2018-19,Summerwind Elementary,Boise,Ada,West Ada,65,95.38461538,0,1.538461538,43.6380584,-116.3067611
+66,Idaho,2018-19,Chubbuck Elementary,Chubbuck,Bannock,Pocatello,86,95.34883721,0,0,42.9255139,-112.478914
+67,Idaho,2018-19,All Saints Catholic,Lewiston,Nez Perce,Private,21,95.23809524,0,4.761904762,46.3814049,-116.9627388
+68,Idaho,2018-19,Immanuel Lutheran,Twin Falls,Twin Falls,Private,42,95.23809524,0,0,42.5708212,-114.4442235
+69,Idaho,2018-19,Fairview Elementary,Idaho Falls,Bonneville,Bonneville,41,95.12195122,0,4.87804878,43.5830692,-112.0146419
+70,Idaho,2018-19,Ammon Elementary,Ammon,Bonneville,Bonneville,40,95,0,5,43.4711394,-111.9676427
+71,Idaho,2018-19,Canyonside Christian,Jerome,Jerome,Private,20,95,0,5,42.7095727,-114.5138695
+72,Idaho,2018-19,Chaparral Elementary,Meridian,Ada,West Ada,100,95,0,5,43.6147116,-116.4373817
+73,Idaho,2018-19,St. Joseph's,Boise,Ada,Private,40,95,0,2.5,43.6217257,-116.1983827
+74,Idaho,2018-19,Hubbard Elementary,Kuna,Ada,Kuna,59,94.91525424,0,5.084745763,43.4974772,-116.410602
+75,Idaho,2018-19,Iona Elementary,Iona,Bonneville,Bonneville,78,94.87179487,0,3.846153846,43.5247148,-111.9265625
+76,Idaho,2018-19,St. Ignatius Catholic,Meridian,Ada,Private,39,94.87179487,0,0,43.6606005,-116.3910483
+77,Idaho,2018-19,Marsing Elementary,Marsing,Owyhee,Marsing,55,94.54545455,0,5.454545455,43.5434587,-116.8129089
+78,Idaho,2018-19,Shadow Hills Elementary,Boise,Ada,Boise,73,94.52054795,0,4.109589041,43.6820043,-116.2896119
+79,Idaho,2018-19,Cascade District,Cascade,Valley,Cascade,18,94.44444444,0,0,44.5165389,-116.0459833
+80,Idaho,2018-19,Cloverdale Elementary,Idaho Falls,Bonneville,Bonneville,72,94.44444444,0,2.777777778,43.504295,-111.9533557
+81,Idaho,2018-19,Terreton Elementary And West Jefferson Middle,Terreton,Jefferson,West Jefferson,36,94.44444444,0,2.777777778,43.8408999,-112.4396463
+82,Idaho,2018-19,Pioneer Elementary,Preston,Franklin,Preston,159,94.33962264,0,5.031446541,42.0875033,-111.8653906
+83,Idaho,2018-19,Heyburn Elementary School - Minidoka,Heyburn,Minidoka,Minidoka,88,94.31818182,0,3.409090909,42.5462532,-113.7557232
+84,Idaho,2018-19,Hawthorne Elementary School - Boise,Boise,Ada,Boise,35,94.28571429,0,0,43.5818437,-116.2106927
+85,Idaho,2018-19,Paul Elementary,Paul,Minidoka,Minidoka,86,94.18604651,0,1.162790698,42.607574,-113.785298
+86,Idaho,2018-19,River Valley Elementary,Meridian,Ada,West Ada,86,94.18604651,0,4.651162791,43.6273167,-116.3575613
+87,Idaho,2018-19,Bridgewater Elementary,Idaho Falls,Bonneville,Bonneville,68,94.11764706,0,1.470588235,43.5093404,-111.9659749
+88,Idaho,2018-19,Pillar Falls Elementary,Twin Falls,Twin Falls,Twin Falls,83,93.97590361,0,6.024096386,42.5738302,-114.4173449
+89,Idaho,2018-19,Discovery Elementary School - Meridian,Meridian,Ada,West Ada,66,93.93939394,0,4.545454545,43.640378,-116.3681815
+90,Idaho,2018-19,Monticello Montessori Public Charter,Idaho Falls,Bonneville,Charter,33,93.93939394,6.060606061,0,43.4550266,-111.9584898
+91,Idaho,2018-19,Ernest Hemingway Steam,Ketchum,Blaine,Blaine,49,93.87755102,0,2.040816327,43.682519,-114.3709477
+92,Idaho,2018-19,Valley View Elementary School - Boise,Boise,Ada,Boise,49,93.87755102,0,2.040816327,43.6372321,-116.2852306
+93,Idaho,2018-19,Jefferson Elementary School - Jerome,Jerome,Jerome,Jerome,158,93.67088608,0,1.265822785,42.7291612,-114.5084246
+94,Idaho,2018-19,Kenneth J. Carberry Elementary,Emmett,Gem,Emmett,110,93.63636364,1.818181818,2.727272727,43.8654173,-116.4742979
+95,Idaho,2018-19,Theresa Bunker Elementary,Idaho Falls,Bonneville,Idaho Falls,46,93.47826087,0,0,43.4838636,-112.006383
+96,Idaho,2018-19,Heritage Community Charter,Caldwell,Canyon,Charter,60,93.33333333,0,0,43.6345854,-116.6765198
+97,Idaho,2018-19,St. Paul's Catholic,Nampa,Canyon,Private,15,93.33333333,0,0,43.5705714,-116.563495
+98,Idaho,2018-19,Taylor's Crossing Charter,Idaho Falls,Bonneville,Charter,30,93.33333333,0,3.333333333,43.5081904,-111.9387722
+99,Idaho,2018-19,Mcsorley Elementary,Lewiston,Nez Perce,Lewiston,44,93.18181818,0,6.818181818,46.3997156,-117.0114869
+100,Idaho,2018-19,Orchards Elementary,Lewiston,Nez Perce,Lewiston,44,93.18181818,6.818181818,0,46.3779491,-116.9699275
+101,Idaho,2018-19,Tyhee Elementary School Pocatello Montessori,Pocatello,Bannock,Pocatello,88,93.18181818,1.136363636,1.136363636,42.9486445,-112.471413
+102,Idaho,2018-19,Trail Wind Elementary,Boise,Ada,Boise,73,93.15068493,1.369863014,5.479452055,43.5512375,-116.1366312
+103,Idaho,2018-19,Oakley Elementary,Oakley,Cassia,Cassia,29,93.10344828,0,6.896551724,42.245827,-113.890216
+104,Idaho,2018-19,Eagle Elementary School Of The Arts,Eagle,Ada,West Ada,43,93.02325581,0,6.976744186,43.6984277,-116.3547949
+105,Idaho,2018-19,Donald D Stalker Elementary,Blackfoot,Bingham,Blackfoot,57,92.98245614,0,3.50877193,43.1882959,-112.3631898
+106,Idaho,2018-19,Lewis And Clark Elementary School - Pocatello,Pocatello,Bannock,Pocatello,84,92.85714286,0,0,42.8901247,-112.4605468
+107,Idaho,2018-19,Riverside Elementary School-Boise,Boise,Ada,Boise,69,92.75362319,0,1.449275362,43.5753381,-116.1572842
+108,Idaho,2018-19,Wilson Elementary,Caldwell,Canyon,Caldwell,82,92.68292683,0,0,43.6464496,-116.6938759
+109,Idaho,2018-19,Central Canyon Elementary,Caldwell,Canyon,Vallivue,95,92.63157895,1.052631579,5.263157895,43.6109072,-116.66435
+110,Idaho,2018-19,Washington Elementary School - Caldwell,Caldwell,Canyon,Caldwell,81,92.59259259,0,1.234567901,43.6435878,-116.6868088
+111,Idaho,2018-19,Centennial Elementary School-Lewiston,Lewiston,Nez Perce,Lewiston,67,92.53731343,2.985074627,2.985074627,46.3775579,-116.9894677
+112,Idaho,2018-19,North Elementary,Mountain Home,Elmore,Mountain Home,67,92.53731343,0,2.985074627,43.1453964,-115.698757
+113,Idaho,2018-19,Sawtooth Elementary,Twin Falls,Twin Falls,Twin Falls,80,92.5,0,5,42.5747622,-114.451469
+114,Idaho,2018-19,Stephensen Elementary,MOUNTAIN HOME AFB,Elmore,Mountain Home,80,92.5,6.25,1.25,43.0578095,-115.8524141
+115,Idaho,2018-19,Chief Joseph Elementary,Meridian,Ada,West Ada,92,92.39130435,0,6.52173913,43.6259915,-116.3793137
+116,Idaho,2018-19,Reed Elementary,Kuna,Ada,Kuna,105,92.38095238,0,6.666666667,43.5047482,-116.4106113
+117,Idaho,2018-19,Liberty Elementary,BOISE,Ada,Boise,52,92.30769231,1.923076923,1.923076923,43.568908,-116.1612341
+118,Idaho,2018-19,St. Mary's Catholic,Moscow,Latah,Private,13,92.30769231,0,7.692307692,46.7369699,-116.9907322
+119,Idaho,2018-19,Syringa Elementary,Pocatello,Bannock,Pocatello,65,92.30769231,0,6.153846154,42.901098,-112.4478059
+120,Idaho,2018-19,Thomas Jefferson Charter,Caldwell,Canyon,Charter,26,92.30769231,0,0,43.6597716,-116.6390455
+121,Idaho,2018-19,West Elementary,Mountain Home,Elmore,Mountain Home,65,92.30769231,0,4.615384615,43.129459,-115.699038
+122,Idaho,2018-19,Ucon Elementary,Idaho Falls,Bonneville,Bonneville,51,92.15686275,0,3.921568627,43.5931857,-111.9519033
+123,Idaho,2018-19,Howard Thirkill Elementary,Soda Springs,Caribou,Soda Springs,76,92.10526316,0,5.263157895,42.649473,-111.6021057
+124,Idaho,2018-19,Washington Elementary School - Pocatello,Pocatello,Bannock,Pocatello,38,92.10526316,0,5.263157895,42.8688772,-112.4367542
+125,Idaho,2018-19,John V Evans Elementary,Burley,Cassia,Cassia,75,92,0,0,42.5134848,-113.8036126
+126,Idaho,2018-19,Barbara Morgan Stem Academy,Meridian,Ada,West Ada,74,91.89189189,0,6.756756757,43.6241768,-116.4159369
+127,Idaho,2018-19,Ririe Elementary,Ririe,Jefferson,Ririe,37,91.89189189,0,5.405405405,43.628908,-111.774495
+128,Idaho,2018-19,Sunrise Elementary,Shelley,Bingham,Shelley,184,91.84782609,0,3.260869565,43.3730688,-112.1207615
+129,Idaho,2018-19,Claude A. Wilcox Elementary,Pocatello,Bannock,Pocatello,97,91.75257732,0,2.06185567,42.8984779,-112.4743708
+130,Idaho,2018-19,Anser Charter,Boise,Ada,Charter,36,91.66666667,0,8.333333333,43.63314,-116.2494479
+131,Idaho,2018-19,Falcon Ridge Public Charter,Kuna,Ada,Charter,24,91.66666667,0,4.166666667,43.4874348,-116.4335626
+132,Idaho,2018-19,Liberty Charter,Nampa,Canyon,Charter,24,91.66666667,0,8.333333333,43.5166874,-116.5592592
+133,Idaho,2018-19,Ponderosa Elementary School - Meridian,Meridian,Ada,West Ada,96,91.66666667,0,7.291666667,43.631587,-116.442559
+134,Idaho,2018-19,Pepper Ridge Elementary,Boise,Ada,West Ada,95,91.57894737,0,6.315789474,43.5824169,-116.3299493
+135,Idaho,2018-19,Pioneer School Of The Arts,BOISE,ADA,West Ada,117,91.45299145,0,7.692307692,43.6466033,-116.3467012
+136,Idaho,2018-19,Pioneer Primary,Weiser,Washington,Weiser,93,91.39784946,0,6.451612903,44.2539136,-116.9790263
+137,Idaho,2018-19,Hillcrest Elementary School - Boise,Boise,Ada,Boise,46,91.30434783,0,2.173913043,43.5840893,-116.2417461
+138,Idaho,2018-19,Mountain View Elementary School - Boise,Boise,Ada,Boise,46,91.30434783,0,2.173913043,43.6368944,-116.2698877
+139,Idaho,2018-19,Webster Elementary,Lewiston,Nez Perce,Lewiston,23,91.30434783,0,8.695652174,46.4065052,-117.0209191
+140,Idaho,2018-19,Horizon Elementary School - Jerome,Jerome,Jerome,Jerome,147,91.15646259,0,4.081632653,42.7334415,-114.5051608
+141,Idaho,2018-19,Cynthia Mann Elementary,Boise,Ada,Boise,45,91.11111111,0,4.444444444,43.6660355,-116.2562675
+142,Idaho,2018-19,Whitman Elementary,Lewiston,Nez Perce,Lewiston,45,91.11111111,0,4.444444444,46.4111297,-117.0051343
+143,Idaho,2018-19,Skyway Elementary School - Caldwell,Caldwell,Canyon,Vallivue,123,91.05691057,0,5.691056911,43.6554439,-116.6221466
+144,Idaho,2018-19,Foxhollow Elementary,Idaho Falls,Bonneville,Idaho Falls,67,91.04477612,0,2.985074627,43.4789395,-112.0781583
+145,Idaho,2018-19,Stricker Elementary,Kimberly,Twin Falls,Kimberly,67,91.04477612,1.492537313,5.970149254,42.5426106,-114.3742374
+146,Idaho,2018-19,Cornerstone Christian School - Lewiston,Lewiston,Nez Perce,Private,11,90.90909091,9.090909091,0,46.4027159,-117.0210703
+147,Idaho,2018-19,Heritage Academy,Jerome,Jerome,Charter,22,90.90909091,0,9.090909091,42.7197807,-114.518143
+148,Idaho,2018-19,Hollister Elementary,Hollister,Twin Falls,Filer,11,90.90909091,0,9.090909091,42.3564499,-114.5892765
+149,Idaho,2018-19,Juliaetta Elementary,Juliaetta,Latah,Kendrick,22,90.90909091,0,4.545454545,46.5792695,-116.708216
+150,Idaho,2018-19,Lava Elementary,Lava Hot Springs,Bannock,Marsh Valley,11,90.90909091,0,9.090909091,42.6167856,-112.0147744
+151,Idaho,2018-19,Lincoln Elementary School - Caldwell,Caldwell,Canyon,Caldwell,77,90.90909091,0,6.493506494,43.6580819,-116.6886589
+152,Idaho,2018-19,Oregon Trail Elementary,Twin Falls,Twin Falls,Twin Falls,108,90.74074074,0.9259259259,4.62962963,42.540858,-114.4663895
+153,Idaho,2018-19,East Canyon Elementary,Nampa,Canyon,Vallivue,86,90.69767442,0,6.976744186,43.6402881,-116.5724088
+154,Idaho,2018-19,Grace Elementary,Grace,Caribou,Grace,43,90.69767442,0,4.651162791,42.5722952,-111.7321081
+155,Idaho,2018-19,White Pine Charter,Idaho Falls,Bonneville,Charter,64,90.625,0,9.375,43.4923251,-111.9752669
+156,Idaho,2018-19,Fruitland Elementary,Fruitland,Payette,Fruitland,116,90.51724138,0.8620689655,4.310344828,44.0015627,-116.9119893
+157,Idaho,2018-19,Heyburn Elementary School - St Maries,St. Maries,Benewah,St Maries,63,90.47619048,0,4.761904762,47.3160647,-116.575167
+158,Idaho,2018-19,Riverstone International,Boise,Ada,Private,21,90.47619048,0,9.523809524,43.5646716,-116.1149053
+159,Idaho,2018-19,Galileo Stem Academy,Eagle,Ada,West Ada,94,90.42553191,1.063829787,8.510638298,43.6997241,-116.4118587
+160,Idaho,2018-19,Gate City Elementary,Pocatello,Bannock,Pocatello,73,90.4109589,0,4.109589041,42.9164583,-112.4187795
+161,Idaho,2018-19,Harwood Elementary,Rigby,Jefferson,Jefferson,52,90.38461538,0,3.846153846,43.6790475,-111.9172566
+162,Idaho,2018-19,Snake River Elementary,Nampa,Canyon,Nampa,52,90.38461538,1.923076923,5.769230769,43.5888679,-116.5461176
+163,Idaho,2018-19,Paris Elementary,Paris,Bear Lake,Bear Lake,31,90.32258065,0,6.451612903,42.2257596,-111.3995409
+164,Idaho,2018-19,Kimberly Elementary,Kimberly,Twin Falls,Kimberly,72,90.27777778,1.388888889,4.166666667,42.5315449,-114.3663998
+165,Idaho,2018-19,Greenacres Elementary,Pocatello,Bannock,Pocatello,51,90.19607843,0,3.921568627,42.8777158,-112.4371276
+166,Idaho,2018-19,East Elementary,Mountain Home,Elmore,Mountain Home,71,90.14084507,0,5.633802817,43.1368355,-115.687994
+167,Idaho,2018-19,Genesee Schools,Genesee,Latah,Genesee,20,90,0,5,46.5517187,-116.9293033
+168,Idaho,2018-19,Georgetown Elementary,Georgetown,Bear Lake,Bear Lake,20,90,0,0,42.4775185,-111.3695854
+169,Idaho,2018-19,Mary Mcpherson Elementary,Meridian,Ada,West Ada,80,90,0,10,43.561925,-116.381439
+170,Idaho,2018-19,Naples Elementary,Naples,Boundary,Boundary,20,90,0,10,48.5711369,-116.3935903
+171,Idaho,2018-19,Sherman Elementary,Nampa,Canyon,Nampa,70,90,0,2.857142857,43.5635169,-116.550636
+172,Idaho,2018-19,The Children's,Boise,Ada,Private,10,90,0,10,43.6236697,-116.1979135
+173,Idaho,2018-19,Sienna K8 Magnet,Meridian,Ada,West Ada,79,89.87341772,2.53164557,7.594936709,43.5731047,-116.3588114
+174,Idaho,2018-19,A.B. Mcdonald Elementary,Moscow,Latah,Moscow,59,89.83050847,0,6.779661017,46.7369101,-116.9720854
+175,Idaho,2018-19,Blackfoot Charter Community Learning Center,Blackfoot Charter Community Learning Center,Bingham,Charter,98,89.79591837,1.020408163,7.142857143,43.1940958,-112.3600784
+176,Idaho,2018-19,Willow Creek Elementary School - Meridian,Meridian,Ada,West Ada,78,89.74358974,0,8.974358974,43.6615481,-116.4243176
+177,Idaho,2018-19,Desert Springs Elementary,Nampa,Canyon,Vallivue,97,89.69072165,2.06185567,5.154639175,43.6368556,-116.6014892
+178,Idaho,2018-19,Xavier Charter,Twin Falls,Twin Falls,Charter,48,89.58333333,0,10.41666667,42.5865998,-114.5085025
+179,Idaho,2018-19,Hunter Elementary,Meridian,Ada,West Ada,134,89.55223881,0.7462686567,8.208955224,43.64741,-116.4206706
+180,Idaho,2018-19,Horizon Elementary School - Boise,Boise,Ada,Boise,76,89.47368421,0,5.263157895,43.611589,-116.303333
+181,Idaho,2018-19,West Park Elementary,Moscow,Latah,Moscow,76,89.47368421,0,5.263157895,46.7307817,-117.0100832
+182,Idaho,2018-19,Temple View Elementary,Idaho Falls,Bonneville,Idaho Falls,46,89.13043478,0,2.173913043,43.5005678,-112.0553964
+183,Idaho,2018-19,Crimson Point Elementary,Kuna,Ada,Kuna,55,89.09090909,0,10.90909091,43.507443,-116.443683
+184,Idaho,2018-19,Meridian Elementary,Meridian,Ada,West Ada,82,89.02439024,0,7.317073171,43.613061,-116.3949353
+185,Idaho,2018-19,Chief Tahgee Elementary Academy,Pocatello,Bannock,Charter,18,88.88888889,5.555555556,0,43.0173149,-112.4375727
+186,Idaho,2018-19,Council Elementary,Council,Adams,Council,18,88.88888889,0,0,44.7262586,-116.44013
+187,Idaho,2018-19,Lake Ridge Elementary,Nampa,Canyon,Nampa,81,88.88888889,0,4.938271605,43.5273489,-116.5839463
+188,Idaho,2018-19,Owyhee Elementary School - Boise,Boise,Ada,Boise,18,88.88888889,0,5.555555556,43.5755587,-116.2246031
+189,Idaho,2018-19,Pierce Park Elementary,Boise,Ada,Boise,45,88.88888889,0,4.444444444,43.6661029,-116.269088
+190,Idaho,2018-19,Pocatello Community Charter,Pocatello,Bannock,Charter,36,88.88888889,0,11.11111111,42.8551921,-112.444368
+191,Idaho,2018-19,Henry's Fork Elementary,St. Anthony,Fremont,Fremont,80,88.75,0,6.25,43.9713755,-111.687069
+192,Idaho,2018-19,Ridge Crest Elementary,Blackfoot,Bingham,Blackfoot,62,88.70967742,1.612903226,0,43.2026796,-112.3452656
+193,Idaho,2018-19,Sacajawea Elementary,Caldwell,Canyon,Caldwell,79,88.60759494,0,2.53164557,43.6852593,-116.6770539
+194,Idaho,2018-19,Sage International School - K-12,Boise,Ada,Charter,79,88.60759494,0,11.39240506,43.5952144,-116.1787139
+195,Idaho,2018-19,Cecil D Andrus Elementary,Boise,Ada,West Ada,70,88.57142857,0,11.42857143,43.6604389,-116.344102
+196,Idaho,2018-19,Mountain View Elementary School - Mccammon,Mccammon,Bannock,Marsh Valley,35,88.57142857,0,11.42857143,42.649006,-112.19374
+197,Idaho,2018-19,Potlatch Elementary,POTLATCH,Latah,Potlatch,35,88.57142857,0,11.42857143,46.9209989,-116.8951453
+198,Idaho,2018-19,Jefferson Elementary School - Rigby,Rigby,Jefferson,Jefferson,227,88.54625551,0.4405286344,11.01321586,43.6694138,-111.9343259
+199,Idaho,2018-19,Kamiah Elementary,Kamiah,Lewis,Kamiah,26,88.46153846,0,11.53846154,46.2231573,-116.0297738
+200,Idaho,2018-19,Mountain View Elementary School - Burley,Burley,Cassia,Cassia,60,88.33333333,0,5,42.5177589,-113.7962902
+201,Idaho,2018-19,Whittier Elementary,Boise,Ada,Boise,77,88.31168831,1.298701299,3.896103896,43.6235956,-116.227163
+202,Idaho,2018-19,Joplin Elementary,Boise,Ada,West Ada,51,88.23529412,1.960784314,9.803921569,43.6546736,-116.331905
+203,Idaho,2018-19,Morley Nelson Elementary,Boise,Ada,Boise,68,88.23529412,0,1.470588235,43.6257711,-116.2790083
+204,Idaho,2018-19,St. Mary's,Meridian,Ada,Private,17,88.23529412,0,0,43.6320874,-116.2227501
+205,Idaho,2018-19,Indian Hills Elementary,Pocatello,Bannock,Pocatello,93,88.17204301,0,4.301075269,42.82038,-112.4084428
+206,Idaho,2018-19,Prospect Elementary,Meridian,Ada,West Ada,101,88.11881188,0,10.89108911,43.6447429,-116.3830465
+207,Idaho,2018-19,Greenhurst Elementary,Nampa,Canyon,Nampa,42,88.0952381,0,11.9047619,43.5520434,-116.5391868
+208,Idaho,2018-19,Lowell Elementary,Boise,ADA,Boise,42,88.0952381,0,2.380952381,43.6341195,-116.2238488
+209,Idaho,2018-19,Lakeside Elementary,Worley,Kootenai,Plummer-Worley,25,88,0,4,47.3327951,-116.8936944
+210,Idaho,2018-19,Cornerstone Christian Academy,Post Falls,Kootenai,Private,33,87.87878788,0,12.12121212,47.715496,-116.9582399
+211,Idaho,2018-19,New Horizons Dual Language Magnet,Nampa,Canyon,Nampa,98,87.75510204,0,5.102040816,43.5192288,-116.5317354
+212,Idaho,2018-19,A.H. Bush Elementary,Idaho Falls,Bonneville,Idaho Falls,48,87.5,0,0,43.5119345,-112.0370197
+213,Idaho,2018-19,Challis Elementary,Challis,Custer,Challis,24,87.5,4.166666667,4.166666667,44.5070344,-114.2306295
+214,Idaho,2018-19,Children's House Montessori,Mountain Home,Elmore,Private,8,87.5,0,12.5,43.1341152,-115.6856298
+215,Idaho,2018-19,Clover Trinity Lutheran,Buhl,Twin Falls,Private,8,87.5,0,12.5,42.513648,-114.688529
+216,Idaho,2018-19,Connor Academy,Chubbuck,Bannock,Charter,48,87.5,0,10.41666667,42.914194,-112.4947653
+217,Idaho,2018-19,Idaho School For The Deaf & Blind,Gooding,Gooding,Idaho Educational Services for the Deaf and Blind,8,87.5,0,12.5,42.9296509,-114.7118789
+218,Idaho,2018-19,Inkom Elementary,Inkom,Bannock,Marsh Valley,24,87.5,0,8.333333333,42.7969992,-112.256002
+219,Idaho,2018-19,Midvale,Midvale,Washington,Midvale,8,87.5,0,0,44.4715554,-116.7297122
+220,Idaho,2018-19,Nez Perce Elementary,Nezperce,Lewis,Nezperce,16,87.5,0,12.5,46.2380638,-116.2406898
+221,Idaho,2018-19,Palouse Prairie,Moscow,Latah,Charter,24,87.5,0,12.5,46.7215027,-117.0018275
+222,Idaho,2018-19,Rolling Hills Public Charter,Boise,Ada,Charter,24,87.5,0,8.333333333,43.6893777,-116.3120668
+223,Idaho,2018-19,Saint Peter And Paul,Grangeville,Idaho,Private,8,87.5,0,12.5,45.9242067,-116.1269135
+224,Idaho,2018-19,Sandpoint Christian,Ponderay,Bonner,Private,16,87.5,0,12.5,48.3219396,-116.5471462
+225,Idaho,2018-19,Longfellow Elementary School - Boise,Boise,Ada,Boise,39,87.17948718,2.564102564,7.692307692,43.6279506,-116.1990977
+226,Idaho,2018-19,Purple Sage Elementary,Caldwell,Canyon,Middleton,78,87.17948718,0,7.692307692,43.7455403,-116.693906
+227,Idaho,2018-19,Silver Trail Elementary,Meridian,Ada,Kuna,78,87.17948718,0,6.41025641,43.5259153,-116.4294979
+228,Idaho,2018-19,Star Elementary,Star,Ada,West Ada,70,87.14285714,0,12.85714286,43.698681,-116.4926807
+229,Idaho,2018-19,Adams Elementary School - Boise,Boise,Ada,Boise,31,87.09677419,0,9.677419355,43.6029295,-116.1739946
+230,Idaho,2018-19,West Canyon Elementary,Caldwell,Canyon,Vallivue,62,87.09677419,0,9.677419355,43.6339269,-116.78424
+231,Idaho,2018-19,Grangeville Elementary & Middle,Grangeville,Idaho,Mountain View,54,87.03703704,0,12.96296296,45.9235462,-116.1246674
+232,Idaho,2018-19,South Fork Elementary School - Rigby,Rigby,Jefferson,Jefferson,130,86.92307692,0.7692307692,10,43.6732533,-111.8855472
+233,Idaho,2018-19,Burton Elementary,Rexburg,Madison,Madison,98,86.73469388,0,13.26530612,43.810534,-111.822104
+234,Idaho,2018-19,Dalton Gardens Elementary,Coeur D'alene,Kootenai,Coeur d'Alene,45,86.66666667,0,13.33333333,47.7292057,-116.7715252
+235,Idaho,2018-19,Garden Valley Elementary,Garden Valley,Boise,Garden Valley,15,86.66666667,0,13.33333333,44.062947,-115.9216392
+236,Idaho,2018-19,Tendoy Elementary School - Pocatello,Pocatello,Bannock,Pocatello,45,86.66666667,0,2.222222222,42.8909075,-112.4405415
+237,Idaho,2018-19,Vision Charter,Caldwell,Canyon,Charter,45,86.66666667,0,6.666666667,43.6519628,-116.6246027
+238,Idaho,2018-19,Lakevue Elementary,Nampa,Canyon,Vallivue,97,86.59793814,0,10.30927835,43.596585,-116.6498325
+239,Idaho,2018-19,Edahow Elementary,Pocatello,Bannock,Pocatello,52,86.53846154,0,1.923076923,42.8980525,-112.4248704
+240,Idaho,2018-19,Peregrine Elementary,Meridian,Ada,West Ada,89,86.51685393,0,8.988764045,43.598294,-116.4178108
+241,Idaho,2018-19,Murtaugh Elementary,Murtaugh,Twin Falls,Murtaugh,37,86.48648649,0,8.108108108,42.4927706,-114.1653064
+242,Idaho,2018-19,Roosevelt Elementary School - Nampa,Nampa,Canyon,Nampa,74,86.48648649,0,8.108108108,43.5674094,-116.6041394
+243,Idaho,2018-19,Van Buren Elementary,Caldwell,Canyon,Caldwell,103,86.40776699,0,4.854368932,43.6744046,-116.6598843
+244,Idaho,2018-19,Richfield,Richfield,Lincoln,Richfield,22,86.36363636,0,9.090909091,43.0527609,-114.1571521
+245,Idaho,2018-19,Orofino Elementary,Orofino,Clearwater,Orofino,51,86.2745098,0,9.803921569,46.4839259,-116.2441654
+246,Idaho,2018-19,Shadow Butte Elementary,Emmett,Gem,Emmett,94,86.17021277,0,12.76595745,43.8947712,-116.5711634
+247,Idaho,2018-19,Jefferson Elementary School - Pocatello,Pocatello,Bannock,Pocatello,65,86.15384615,0,4.615384615,42.8617465,-112.4700372
+248,Idaho,2018-19,Central Elementary School-Sugar City,Sugar City,Madison,Sugar-Salem,101,86.13861386,0,7.920792079,43.8747859,-111.7428883
+249,Idaho,2018-19,Betty Kiefer Elementary,Rathdrum,Kootenai,Lakeland,72,86.11111111,0,8.333333333,47.7982461,-116.898781
+250,Idaho,2018-19,Idaho Arts Charter,Nampa,Canyon,Charter,120,85.83333333,0,13.33333333,43.583641,-116.552371
+251,Idaho,2018-19,Bliss K-8,Bliss,Gooding,Bliss,14,85.71428571,0,0,42.9229245,-114.9427128
+252,Idaho,2018-19,Centennial Baptist,Caldwell,Canyon,Private,21,85.71428571,0,14.28571429,43.6330225,-116.6542162
+253,Idaho,2018-19,Declo Elementary,Declo,Cassia,Cassia,63,85.71428571,0,7.936507937,42.51712,-113.6253153
+254,Idaho,2018-19,Idaho Science & Technology Charter,Blackfoot,Bingham,Charter,14,85.71428571,0,7.142857143,43.1995679,-112.4037995
+255,Idaho,2018-19,Linden Park Elementary,Idaho Falls,Bonneville,Idaho Falls,49,85.71428571,0,4.081632653,43.4901538,-112.0079968
+256,Idaho,2018-19,Popplewell Elementary,Buhl,Twin Falls,Buhl,91,85.71428571,0,2.197802198,42.6038495,-114.757672
+257,Idaho,2018-19,Roberts Elementary,Roberts,Jefferson,Jefferson,35,85.71428571,2.857142857,5.714285714,43.7250542,-112.1302615
+258,Idaho,2018-19,Rose Hill Montessori,Boise,Ada,Private,7,85.71428571,0,0,43.597982,-116.238886
+259,Idaho,2018-19,Victor Elementary,Victor,Teton,Teton,35,85.71428571,0,8.571428571,43.6030261,-111.1099229
+260,Idaho,2018-19,Lighthouse Christian,TWIN FALLS,Twin Falls,Private,34,85.29411765,0,14.70588235,42.560434,-114.439316
+261,Idaho,2018-19,Iowa Elementary,Nampa,Canyon,Nampa,88,85.22727273,0,5.681818182,43.555189,-116.5840689
+262,Idaho,2018-19,Paramount Elementary,Meridian,Ada,West Ada,88,85.22727273,0,12.5,43.653986,-116.401072
+263,Idaho,2018-19,I.B. Perrine Elementary,Twin Falls,Twin Falls,Twin Falls,101,85.14851485,0,0.9900990099,42.5756646,-114.4877422
+264,Idaho,2018-19,Lapwai Elementary,Lapwai,Nez Perce,Lapwai,47,85.10638298,0,4.255319149,46.3968907,-116.8038488
+265,Idaho,2018-19,Eagle Hills Elementary,Eagle,Ada,West Ada,80,85,0,13.75,43.7036614,-116.3454221
+266,Idaho,2018-19,Dora Erickson Elementary,Idaho Falls,Bonneville,Idaho Falls,66,84.84848485,0,1.515151515,43.4994019,-112.012938
+267,Idaho,2018-19,Rock Creek Elementary,Twin Falls,Twin Falls,Twin Falls,105,84.76190476,0.9523809524,2.857142857,42.5997263,-114.4983276
+268,Idaho,2018-19,Ethel Boyes Elementary,Idaho Falls,Bonneville,Idaho Falls,72,84.72222222,0,1.388888889,43.4911797,-112.0695941
+269,Idaho,2018-19,Edgemont Gardens Elementary,Idaho Falls,Bonneville,Idaho Falls,65,84.61538462,0,7.692307692,43.4796667,-112.0096188
+270,Idaho,2018-19,Garfield Elementary,Boise,Ada,Boise,39,84.61538462,0,5.128205128,43.5892916,-116.193019
+271,Idaho,2018-19,Mackay Elementary,Mackay,Custer,Mackay,26,84.61538462,0,0,43.9080839,-113.6081
+272,Idaho,2018-19,Rimrock Elementary,Idaho Falls,Bonneville,Bonneville,65,84.61538462,1.538461538,10.76923077,43.4770392,-111.935759
+273,Idaho,2018-19,Lincoln Elementary School - Twin Falls,Twin Falls,Twin Falls,Twin Falls,84,84.52380952,0,3.571428571,42.5619525,-114.4755999
+274,Idaho,2018-19,Frontier Elementary,Boise,Ada,West Ada,45,84.44444444,2.222222222,4.444444444,43.6391214,-116.3298976
+275,Idaho,2018-19,Adams Elementary School - Rexburg,Rexburg,Madison,Madison,70,84.28571429,1.428571429,4.285714286,43.828643,-111.7776361
+276,Idaho,2018-19,Skyway Elementary School - Cda,COEUR D'ALENE,Kootenai,Coeur d'Alene,89,84.26966292,0,10.11235955,47.7323658,-116.8185278
+277,Idaho,2018-19,Basin Elementary,Idaho City,Boise,Basin,19,84.21052632,0,5.263157895,43.8314106,-115.834206
+278,Idaho,2018-19,Hagerman Elementary,Hagerman,Gooding,Hagerman,19,84.21052632,0,15.78947368,42.8179471,-114.8994759
+279,Idaho,2018-19,White Pine Elementary School - Burley,Burley,Cassia,Cassia,69,84.05797101,0,8.695652174,42.5285631,-113.7845183
+280,Idaho,2018-19,Seven Oaks Elementary,Eagle,Ada,West Ada,50,84,0,10,43.7087818,-116.3253451
+281,Idaho,2018-19,Hillsdale Elementary,Meridian,Ada,West Ada,118,83.89830508,0,11.86440678,43.5574559,-116.3460624
+282,Idaho,2018-19,Christine Donnell School Of The Arts,Boise,Ada,West Ada,68,83.82352941,0,14.70588235,43.5386301,-116.3154438
+283,Idaho,2018-19,Ashton Elementary,Ashton,Fremont,Fremont,37,83.78378378,0,0,44.0702719,-111.4548932
+284,Idaho,2018-19,Washington Elementary School - Boise,Boise,Ada,Boise,37,83.78378378,0,8.108108108,43.6323129,-116.2061999
+285,Idaho,2018-19,Homedale Elementary,Homedale,Owyhee,Homedale,80,83.75,1.25,11.25,43.6206865,-116.9416562
+286,Idaho,2018-19,Acequia Elementary,Rupert,Minidoka,Minidoka,42,83.33333333,0,11.9047619,42.6725453,-113.597832
+287,Idaho,2018-19,Bruneau Elementary,Bruneau,Owyhee,Bruneau-Grand View,6,83.33333333,0,0,42.8832292,-115.8042528
+288,Idaho,2018-19,Dworshak Elementary,Burley,Cassia,Cassia,54,83.33333333,7.407407407,0,42.5288665,-113.7925688
+289,Idaho,2018-19,Endeavor Elementary,Nampa,Canyon,Nampa,90,83.33333333,0,4.444444444,43.5772665,-116.5353119
+290,Idaho,2018-19,Foothills School Of Arts And Sciences,Boise,Ada,Private,18,83.33333333,0,5.555555556,43.6125708,-116.2086377
+291,Idaho,2018-19,Hamer Elementary,Hamer,Jefferson,West Jefferson,6,83.33333333,0,16.66666667,43.9254159,-112.2086514
+292,Idaho,2018-19,Lake City Jr Academy,Coeur D'alene,Kootenai,Private,18,83.33333333,0,11.11111111,47.6937347,-116.7844623
+293,Idaho,2018-19,Montessori Academy,Eagle,Ada,Private,24,83.33333333,0,16.66666667,43.707428,-116.4027685
+294,Idaho,2018-19,Rockland,Rockland,Power,Rockland,6,83.33333333,0,16.66666667,42.5742578,-112.873165
+295,Idaho,2018-19,North Star Public Charter,Eagle,Ada,Charter,83,83.13253012,0,15.6626506,43.7002025,-116.4151257
+296,Idaho,2018-19,Owyhee Elementary School - Nampa,Nampa,Canyon,Nampa,53,83.01886792,0,11.32075472,43.5551809,-116.6087769
+297,Idaho,2018-19,Indian Creek Elementary,Kuna,Ada,Kuna,76,82.89473684,0,11.84210526,43.4916935,-116.4257671
+298,Idaho,2018-19,Barbara R. Morgan Elementary,Mccall,Valley,Mccall-Donnelly,70,82.85714286,0,12.85714286,44.8986463,-116.0797993
+299,Idaho,2018-19,Bickel Elementary,Twin Falls,Twin Falls,Twin Falls,35,82.85714286,0,2.857142857,42.5521144,-114.4623566
+300,Idaho,2018-19,Farmin-Stidwell Elementary,Sandpoint,Bonner,Lake Pend Oreille,64,82.8125,0,15.625,48.2828018,-116.5717624
+301,Idaho,2018-19,Park Ridge Elementary,Nampa,Canyon,Nampa,29,82.75862069,0,17.24137931,43.5698242,-116.5304584
+302,Idaho,2018-19,A.J. Winters Elementary,Montpelier,Bear Lake,Bear Lake,46,82.60869565,0,2.173913043,42.3207537,-111.3018291
+303,Idaho,2018-19,Highlands Elementary,Boise,Ada,Boise,23,82.60869565,0,13.04347826,43.6502541,-116.1949145
+304,Idaho,2018-19,Roosevelt Elementary School - Boise,Boise,Ada,Boise,40,82.5,0,2.5,43.609707,-116.1828691
+305,Idaho,2018-19,Sacred Heart,Boise,Ada,Private,17,82.35294118,0,17.64705882,43.5960311,-116.230152
+306,Idaho,2018-19,Shoshone Elementary,Shoshone,Lincoln,Shoshone,34,82.35294118,0,5.882352941,42.9284179,-114.4022921
+307,Idaho,2018-19,Taft Elementary,Boise,Ada,Boise,34,82.35294118,0,0,43.6418743,-116.2358316
+308,Idaho,2018-19,Wendell Elementary,Wendell,Gooding,Wendell,85,82.35294118,0,1.176470588,42.7780156,-114.7025546
+309,Idaho,2018-19,Midway Elementary,Menan,Jefferson,Jefferson,62,82.25806452,0,16.12903226,43.7178441,-112.0043207
+310,Idaho,2018-19,Birch Elementary,Nampa,Canyon,Vallivue,112,82.14285714,0.8928571429,16.96428571,43.613248,-116.53131
+311,Idaho,2018-19,Kennedy Elementary,Rexburg,Madison,Madison,84,82.14285714,0,8.333333333,43.82468,-111.798844
+312,Idaho,2018-19,Central Elementary School-Nampa,Nampa,Canyon,Nampa,61,81.96721311,0,8.196721311,43.5737594,-116.5613984
+313,Idaho,2018-19,Ronald Reagan Elementary,Nampa,Canyon,Nampa,72,81.94444444,0,8.333333333,43.5364331,-116.5313438
+314,Idaho,2018-19,Moscow Charter,Moscow,Latah,Charter,22,81.81818182,4.545454545,0,46.740163,-116.978069
+315,Idaho,2018-19,Spirit Lake Elementary,Rathdrum,Kootenai,Lakeland,44,81.81818182,0,9.090909091,47.9697049,-116.8694807
+316,Idaho,2018-19,Moreland Elementary,Blackfoot,Bingham,Snake River,115,81.73913043,0,1.739130435,43.1866968,-112.3426616
+317,Idaho,2018-19,Compass Charter,Meridian,Ada,Charter,93,81.72043011,1.075268817,12.90322581,43.6183981,-116.4248219
+318,Idaho,2018-19,Lena Whitmore Elementary,Moscow,Latah,Moscow,38,81.57894737,2.631578947,2.631578947,46.733289,-116.9851789
+319,Idaho,2018-19,North Idaho Stem Charter Academy,Rathdrum,Kootenai,Charter,48,81.25,0,18.75,47.8141738,-116.8765394
+320,Idaho,2018-19,Syringa Mountain Charter,Hailey,Blaine,Charter,16,81.25,0,6.25,43.4867161,-114.2754595
+321,Idaho,2018-19,Maple Grove Elementary,Boise,Ada,Boise,69,81.15942029,0,2.898550725,43.5776776,-116.293149
+322,Idaho,2018-19,Willow Creek Elementary School - Nampa,Nampa,Canyon,Nampa,74,81.08108108,0,4.054054054,43.585772,-116.600442
+323,Idaho,2018-19,Harrison Elementary School - Twin Falls,Twin Falls,Twin Falls,Twin Falls,68,80.88235294,0,5.882352941,42.5725609,-114.4696346
+324,Idaho,2018-19,John Brown Elementary,Rathdrum,Kootenai,Lakeland,52,80.76923077,0,5.769230769,47.8146846,-116.888891
+325,Idaho,2018-19,American Heritage Charter,Idaho Falls,Bonneville,Charter,46,80.43478261,0,2.173913043,43.482044,-112.1033294
+326,Idaho,2018-19,Centennial Elementary School-Nampa,Nampa,Canyon,Nampa,66,80.3030303,0,6.060606061,43.5636786,-116.5826762
+327,Idaho,2018-19,Calvary Christian Academy,Emmett,Gem,Private,10,80,0,20,43.893864,-116.507075
+328,Idaho,2018-19,Leadore,Leadore,Lemhi,South Lemhi,5,80,0,20,44.677875,-113.3607783
+329,Idaho,2018-19,Sweet Montour Elementary,Sweet,Gem,Emmett,5,80,0,20,43.961556,-116.3301311
+330,Idaho,2018-19,Driggs Elementary,Driggs,Teton,Teton,79,79.74683544,0,12.65822785,43.7302201,-111.1104226
+331,Idaho,2018-19,I.T. Stoddard Elementary,Blackfoot,Bingham,Blackfoot,49,79.59183673,2.040816327,2.040816327,43.1800827,-112.3449204
+332,Idaho,2018-19,A.W. Johnson Elementary,Firth,Bingham,Firth,63,79.36507937,1.587301587,3.174603175,43.3022782,-112.1774832
+333,Idaho,2018-19,Gooding Elementary,Gooding,Gooding,Gooding,92,79.34782609,0,4.347826087,42.9376674,-114.7260364
+334,Idaho,2018-19,Bryan Elementary,Coeur D'alene,Kootenai,Coeur d'Alene,72,79.16666667,0,16.66666667,47.685903,-116.774416
+335,Idaho,2018-19,Gem Prep Meridian,Meridian,Ada,Charter,48,79.16666667,0,6.25,43.5898839,-116.3599459
+336,Idaho,2018-19,Twin Lakes Elementary,Rathdrum,Kootenai,Lakeland,48,79.16666667,0,10.41666667,47.8583144,-116.8587075
+337,Idaho,2018-19,Idaho Virtual Academy,Meridian,Ada,Charter,91,79.12087912,0,19.78021978,43.5872739,-116.3555397
+338,Idaho,2018-19,Jefferson Elementary School - Boise,Boise,Ada,Boise,43,79.06976744,0,0,43.6019317,-116.2279331
+339,Idaho,2018-19,Calvary Christian School - Boise,Boise,Ada,Private,19,78.94736842,0,21.05263158,43.6035511,-116.2757818
+340,Idaho,2018-19,Challenger School - Bloom St,Boise,Ada,Private,19,78.94736842,0,0,43.656825,-116.2578706
+341,Idaho,2018-19,Holy Spirit Catholic,Pocatello,Bannock,Private,19,78.94736842,0,10.52631579,42.8717955,-112.4451218
+342,Idaho,2018-19,Troy Elementary,Troy,Latah,Troy,19,78.94736842,0,21.05263158,46.7469862,-116.766389
+343,Idaho,2018-19,Twin Falls Christian Academy,Twin Falls,Twin Falls,Private,19,78.94736842,0,10.52631579,42.575436,-114.439643
+344,Idaho,2018-19,Monroe Elementary,Boise,Ada,Boise,47,78.72340426,0,2.127659574,43.5966245,-116.2268811
+345,Idaho,2018-19,Hope Elementary,Hope,Bonner,Lake Pend Oreille,14,78.57142857,0,21.42857143,48.2169955,-116.2638688
+346,Idaho,2018-19,Atlas Elementary,Hayden,Kootenai,Coeur d'Alene,93,78.49462366,0,8.602150538,47.7510959,-116.827773
+347,Idaho,2018-19,Borah Elementary,Coeur D'alene,Kootenai,Coeur d'Alene,69,78.26086957,0,10.14492754,47.698532,-116.777275
+348,Idaho,2018-19,Hansen Elementary,Hansen,Twin Falls,Hansen,23,78.26086957,0,8.695652174,42.5271361,-114.3044761
+349,Idaho,2018-19,Hawthorne Elementary School - Idaho Falls,Idaho Falls,Bonneville,Idaho Falls,46,78.26086957,2.173913043,6.52173913,43.4841614,-112.0341192
+350,Idaho,2018-19,Sorensen Magnet Elementary,Coeur D'Alene,Kootenai,Coeur d'Alene,46,78.26086957,0,15.2173913,47.6751864,-116.7733569
+351,Idaho,2018-19,Filer Elementary,Filer,Twin Falls,Filer,87,78.16091954,0,2.298850575,42.5665336,-114.6152354
+352,Idaho,2018-19,South Fork Elementary School - Rexburg,Rexburg,Madison,Madison,59,77.96610169,0,11.86440678,43.726244,-111.819668
+353,Idaho,2018-19,Middleton Heights Elementary,Middleton,Canyon,Middleton,86,77.90697674,0,5.813953488,43.7138688,-116.6341467
+354,Idaho,2018-19,Clearwater Valley Elementary,Kooskia,Idaho,Mountain View,18,77.77777778,0,16.66666667,46.1461422,-115.9744269
+355,Idaho,2018-19,Hillside Academy,Boise,Ada,Private,9,77.77777778,0,0,43.6580456,-116.2372871
+356,Idaho,2018-19,Nampa Christian,Nampa,Canyon,Private,36,77.77777778,0,11.11111111,43.5987542,-116.6316024
+357,Idaho,2018-19,Timberline K-12,Orofino,Clearwater,Orofino,9,77.77777778,0,22.22222222,46.4350591,-115.8876381
+358,Idaho,2018-19,Frederick Post Kindergarten,Post Falls,Kootenai,Post Falls,416,77.64423077,0.4807692308,11.29807692,47.7157968,-116.9505361
+359,Idaho,2018-19,Ramsey Magnet Elementary School Of Science,Coeur D'alene,Kootenai,Coeur d'Alene,89,77.52808989,0,13.48314607,47.7162635,-116.8043723
+360,Idaho,2018-19,Morningside Elementary,Twin Falls,Twin Falls,Twin Falls,70,77.14285714,0,5.714285714,42.5576306,-114.4490003
+361,Idaho,2018-19,Parker Egin Elementary,St. Anthony,Fremont,Fremont,13,76.92307692,0,0,43.970456,-111.6824651
+362,Idaho,2018-19,Sagle Elementary,Sagle,Bonner,Lake Pend Oreille,39,76.92307692,0,12.82051282,48.2027073,-116.5537967
+363,Idaho,2018-19,St. Nicholas Catholic,Rupert,Minidoka,Private,26,76.92307692,3.846153846,0,42.6202376,-113.6748558
+364,Idaho,2018-19,Watersprings,Idaho Falls,Bonneville,Private,43,76.74418605,0,2.325581395,43.4591656,-111.9857318
+365,Idaho,2018-19,Melba Elementary,Melba,Canyon,Melba,55,76.36363636,0,12.72727273,43.3780902,-116.5299046
+366,Idaho,2018-19,Alturas Elementary,Hailey,Blaine,Blaine,59,76.27118644,0,1.694915254,43.4927672,-114.2756189
+367,Idaho,2018-19,Athol Elementary,Athol,Kootenai,Lakeland,50,76,0,12,47.944781,-116.699954
+368,Idaho,2018-19,Challenger School - Everest,Meridian,Ada,Private,45,75.55555556,2.222222222,22.22222222,43.662295,-116.4183567
+369,Idaho,2018-19,Gem Prep Nampa,Nampa,Canyon,Charter,49,75.51020408,2.040816327,4.081632653,43.5543163,-116.5754881
+370,Idaho,2018-19,Albion Elementary,Albion,Cassia,Cassia,12,75,0,8.333333333,42.4116059,-113.5835916
+371,Idaho,2018-19,Lindy Ross Elementary,Dubois,Clark,Clark,12,75,0,0,44.17028,-112.2302559
+372,Idaho,2018-19,Mount Hall Elementary,Bonners Ferry,Boundary,Boundary,24,75,0,20.83333333,48.8942724,-116.3599878
+373,Idaho,2018-19,Palouse Hills Christian,Moscow,Latah,Private,4,75,0,25,46.7192728,-116.9627253
+374,Idaho,2018-19,Silver Valley Christian Academy,Kellogg,Shoshone,Private,4,75,0,0,47.543477,-116.126906
+375,Idaho,2018-19,Victory Charter,Nampa,Canyon,Charter,24,75,0,25,43.5150184,-116.5585141
+376,Idaho,2018-19,Hayden Meadows Elementary,Hayden,Kootenai,Coeur d'Alene,46,73.91304348,0,13.04347826,47.757997,-116.7752241
+377,Idaho,2018-19,Raft River Elementary,Malta,Cassia,Cassia,23,73.91304348,0,13.04347826,42.307382,-113.3736063
+378,Idaho,2018-19,St. Mark's,Boise,Ada,Private,23,73.91304348,0,13.04347826,43.6259388,-116.2753989
+379,Idaho,2018-19,Tetonia Elementary,Tetonia,Teton,Teton,23,73.91304348,0,17.39130435,43.8129603,-111.158615
+380,Idaho,2018-19,Glenns Ferry Elementary,Glenns Ferry,Elmore,Glenns Ferry,30,73.33333333,0,23.33333333,42.9582698,-115.3097158
+381,Idaho,2018-19,Mill Creek Elementary,Middleton,Canyon,Middleton,122,72.95081967,0,7.37704918,43.7097495,-116.6125559
+382,Idaho,2018-19,Whitney Elementary,Boise,Ada,Boise,81,72.83950617,0,1.234567901,43.5878675,-116.2247643
+383,Idaho,2018-19,Noah's Ark Learning Center,Coeur D'alene,Kootenai,Private,18,72.22222222,0,22.22222222,47.70483,-116.7656945
+384,Idaho,2018-19,Notus Elementary,Caldwell,Canyon,Notus,25,72,0,16,43.6239493,-116.6823995
+385,Idaho,2018-19,Boise Valley Adventist,Boise,Ada,Private,7,71.42857143,0,28.57142857,43.614258,-116.3372847
+386,Idaho,2018-19,Bonneville Online Elementary,Idaho Falls,Bonneville,Bonneville,7,71.42857143,14.28571429,14.28571429,43.5396238,-111.9936605
+387,Idaho,2018-19,Greenleaf Friends Academy,Greenleaf,Canyon,Private,7,71.42857143,0,28.57142857,43.671075,-116.820881
+388,Idaho,2018-19,Fernan Elementary,Coeur D'alene,Kootenai,Coeur d'Alene,75,70.66666667,0,17.33333333,47.677069,-116.7554839
+389,Idaho,2018-19,Dietrich,Dietrich,Lincoln,Dietrich,17,70.58823529,0,0,42.912929,-114.263674
+390,Idaho,2018-19,Kootenai Elementary,Kootenai,Bonner,Lake Pend Oreille,51,70.58823529,0,17.64705882,48.3122279,-116.5166067
+391,Idaho,2018-19,Northwest Expedition Academy,Hayden,Kootenai,Coeur d'Alene,44,70.45454545,0,15.90909091,47.7595857,-116.7857963
+392,Idaho,2018-19,Hibbard Elementary,Rexburg,Madison,Madison,37,70.27027027,0,5.405405405,43.860304,-111.8385201
+393,Idaho,2018-19,Upriver Elementary Jr High,Fernwood,Benewah,St Maries,10,70,0,0,47.1132785,-116.3889653
+394,Idaho,2018-19,The Village Charter,Boise,Ada,Charter,56,69.64285714,0,10.71428571,43.6202658,-116.2870697
+395,Idaho,2018-19,Grand View Elementary,Grand View,Owyhee,Bruneau-Grand View,13,69.23076923,0,30.76923077,42.988129,-116.093459
+396,Idaho,2018-19,Pinehurst Elementary,Pinehurst,Shoshone,Kellogg,77,68.83116883,1.298701299,10.38961039,47.5377694,-116.2375081
+397,Idaho,2018-19,Bellevue Elementary,Hailey,Blaine,Blaine,32,68.75,0,3.125,43.5184374,-114.3174074
+398,Idaho,2018-19,Carey Public,CAREY,BLAINE,Blaine,16,68.75,0,6.25,43.3137676,-113.9431999
+399,Idaho,2018-19,Highland Schools,Craigmont,Lewis,Highland,22,68.18181818,0,22.72727273,46.2434068,-116.4718436
+400,Idaho,2018-19,Lam Christian Academy,Coeur D'alene,Kootenai,Private,22,68.18181818,0,31.81818182,47.71636,-116.807542
+401,Idaho,2018-19,North Valley Academy Charter,Gooding,Gooding,Charter,22,68.18181818,0,4.545454545,42.9356824,-114.7128455
+402,Idaho,2018-19,Castleford,Castleford,Twin Falls,Castleford,34,67.64705882,0,0,42.5211848,-114.8753086
+403,Idaho,2018-19,Cole Valley Christian - Elementary,BOISE,Ada,Private,64,67.1875,0,32.8125,43.6331901,-116.2914435
+404,Idaho,2018-19,Cambridge Elementary,Cambridge,Washington,Cambridge,3,66.66666667,0,33.33333333,44.5741361,-116.6824756
+405,Idaho,2018-19,Canyon Elementary Science Magnet,Cataldo,Kootenai,Kellogg,12,66.66666667,0,16.66666667,47.5756418,-116.4136949
+406,Idaho,2018-19,Donnelly Elementary,Donnelly,Valley,Mccall-Donnelly,21,66.66666667,4.761904762,19.04761905,44.7307612,-116.0767435
+407,Idaho,2018-19,Holy Family Catholic,Coeur D'alene,Kootenai,Private,24,66.66666667,0,29.16666667,47.7221073,-116.8285425
+408,Idaho,2018-19,John Mullan Elementary,Mullan,Shoshone,Mullan,6,66.66666667,0,16.66666667,47.4693745,-115.7965475
+409,Idaho,2018-19,Legacy Charter,Nampa,Canyon,Charter,24,66.66666667,0,20.83333333,43.5311371,-116.5366589
+410,Idaho,2018-19,Lincoln Elementary School - Rexburg,Rexburg,Madison,Madison,69,66.66666667,1.449275362,1.449275362,43.820975,-111.7736148
+411,Idaho,2018-19,Meadows Valley,New Meadows,Adams,Meadows Valley,12,66.66666667,16.66666667,0,44.9752798,-116.2869341
+412,Idaho,2018-19,Hailey Elementary,Hailey,Blaine,Blaine,41,65.85365854,0,2.43902439,43.5158522,-114.3101775
+413,Idaho,2018-19,Garwood Elementary,Rathdrum,Kootenai,Lakeland,46,65.2173913,0,19.56521739,47.831015,-116.806907
+414,Idaho,2018-19,Bovill Elementary,Bovill,Latah,Whitepine,17,64.70588235,0,5.882352941,46.8595397,-116.3935464
+415,Idaho,2018-19,Idaho Distance Education Academy,Deary,Latah,Charter,17,64.70588235,0,23.52941176,46.7963087,-116.5577243
+416,Idaho,2018-19,Priest River Elementary,Priest River,Bonner,West Bonner,36,63.88888889,0,0,48.1855343,-116.9091668
+417,Idaho,2018-19,Southside Elementary,Cocolalla,Bonner,Lake Pend Oreille,19,63.15789474,0,26.31578947,48.1029903,-116.6158478
+418,Idaho,2018-19,Salmon Pioneer Primary,Salmon,Lemhi,Salmon,46,63.04347826,0,6.52173913,45.1719841,-113.8907874
+419,Idaho,2018-19,Winton Elementary,Coeur D'alene,Kootenai,Coeur d'Alene,67,62.68656716,0,22.3880597,47.6892933,-116.7969
+420,Idaho,2018-19,Little Folks,Coeur D'alene,Kootenai,Private,16,62.5,0,25,47.69798,-116.801109
+421,Idaho,2018-19,Selkirk School - North Idaho Learning Center,Sandpoint,Bonner,Private,8,62.5,0,37.5,48.2755342,-116.5997394
+422,Idaho,2018-19,Harold B. Lee Elementary,Dayton,Franklin,West Side,58,62.06896552,0,3.448275862,42.108626,-111.990777
+423,Idaho,2018-19,Northside Elementary,Sandpoint,Bonner,Lake Pend Oreille,21,61.9047619,33.33333333,0,48.364611,-116.4392254
+424,Idaho,2018-19,Valley View Elementary School - Bonners Ferry,Bonners Ferry,Boundary,Boundary,65,61.53846154,3.076923077,24.61538462,48.6850909,-116.3254446
+425,Idaho,2018-19,Silver Hills Elementary,Osburn,Shoshone,Wallace,43,60.46511628,0,34.88372093,47.4991097,-115.9833699
+426,Idaho,2018-19,Community School - Elementary,Sun Valley,Blaine,Private,10,60,0,0,43.6891033,-114.3530637
+427,Idaho,2018-19,Washington Elementary School - Santpoint,Sandpoint,Bonner,Lake Pend Oreille,40,60,0,20,48.2680373,-116.5578251
+428,Idaho,2018-19,Zion Lutheran,Nampa,Canyon,Private,10,60,0,20,43.5587869,-116.5722365
+429,Idaho,2018-19,Christian Center,hayden,Kootenai,Private,17,58.82352941,0,41.17647059,47.745773,-116.835118
+430,Idaho,2018-19,Horseshoe Bend Elementary,Horseshoe Bend,Boise,Horseshoe Bend,19,57.89473684,0,5.263157895,43.9082932,-116.202345
+431,Idaho,2018-19,Inspire Connections Academy,Boise,Ada,Charter,33,57.57575758,0,42.42424242,43.610321,-116.289489
+432,Idaho,2018-19,Discovery Christian Day,Coeur D'alene,Kootenai,Private,7,57.14285714,0,42.85714286,47.6758378,-116.7848042
+433,Idaho,2018-19,Fort Hall Elementary,Pocatello,Bannock,Blackfoot,25,56,0,0,43.0336264,-112.4387917
+434,Idaho,2018-19,Camas County Elementary Jr High,Fairfield,Camas,Camas,9,55.55555556,0,33.33333333,43.3471269,-114.7911623
+435,Idaho,2018-19,Logos,Moscow,Latah,Private,38,55.26315789,0,36.84210526,46.7340718,-117.0197154
+436,Idaho,2018-19,Upper Carmen Public Charter,Carmen,Lemhi,Charter,13,53.84615385,0,46.15384615,45.1724801,-113.8869302
+437,Idaho,2018-19,The Ambrose,Meridian,Ada,Private,41,53.65853659,0,21.95121951,43.6605644,-116.3736698
+438,Idaho,2018-19,Idaho Hill Elementary,Oldtown,Bonner,West Bonner,15,53.33333333,0,20,48.1789623,-117.035514
+439,Idaho,2018-19,St. Edward's Catholic,Twin Falls,Twin Falls,Private,27,51.85185185,0,7.407407407,42.558847,-114.4644752
+440,Idaho,2018-19,Almo Elementary,Almo,Cassia,Cassia,2,50,0,0,42.0967738,-113.6337587
+441,Idaho,2018-19,Calder Elementary Jr High,Avery,Shoshone,Avery,2,50,0,50,47.2503828,-115.8126462
+442,Idaho,2018-19,Howe Elementary,Howe,Butte,Butte,2,50,0,0,43.7851816,-113.0044515
+443,Idaho,2018-19,Lillian Valley,Blackfoot,Bingham,Private,8,50,0,0,43.190101,-112.3318523
+444,Idaho,2018-19,River Of Life Christian,Payette,Payette,Private,4,50,0,0,44.0924723,-116.9345924
+445,Idaho,2018-19,The Learning Academy Of Teton Valley,Driggs,Teton,Private,2,50,0,50,43.7014803,-111.1114787
+446,Idaho,2018-19,Cityhope Schools,Boise,Ada,Private,13,46.15384615,0,15.38461538,43.6208472,-116.2899378
+447,Idaho,2018-19,Harrison Elementary School- Harrison,Harrison,Kootenai,Kootenai,13,46.15384615,0,7.692307692,47.4005984,-116.6715072
+448,Idaho,2018-19,Caldwell Adventist Elementary,Caldwell,Canyon,Private,11,45.45454545,0,54.54545455,43.649064,-116.6762065
+449,Idaho,2018-19,New Plymouth Elementary,New Plymouth,Payette,New Plymouth,69,44.92753623,0,4.347826087,43.9628679,-116.8206965
+450,Idaho,2018-19,Riggins Elementary,Riggins,Idaho,Salmon River,9,44.44444444,0,0,45.423041,-116.315914
+451,Idaho,2018-19,Wapello Elementary,Blackfoot,Bingham,Blackfoot,33,42.42424242,0,3.03030303,43.2465807,-112.2584928
+452,Idaho,2018-19,Children's House Montessori School - Lewiston,Lewiston,Nez Perce,Private,12,41.66666667,0,0,46.4174668,-117.0264819
+453,Idaho,2018-19,Prairie Elementary,Cottonwood,Idaho,Cottonwood,22,40.90909091,0,40.90909091,46.0568798,-116.3478063
+454,Idaho,2018-19,Classical Christian Academy,Post Falls,Kootenai,Private,20,40,0,55,47.7166,-116.979136
+455,Idaho,2018-19,Peace Valley Charter,Boise,Ada,Charter,57,38.59649123,0,38.59649123,43.5868672,-116.2021212
+456,Idaho,2018-19,Twin Falls Virtual Schoolhouse,Twin Falls,Twin Falls,Twin Falls,8,37.5,0,62.5,42.55674,-114.47185
+457,Idaho,2018-19,Sandpoint Waldorf,SANDPOINT,Bonner,Private,30,36.66666667,0,63.33333333,48.2731784,-116.5769398
+458,Idaho,2018-19,Another Choice Virtual Charter,Nampa,Canyon,Charter,9,33.33333333,0,66.66666667,43.601332,-116.59357
+459,Idaho,2018-19,Calvary Christian School - Nampa,Nampa,Canyon,Private,6,33.33333333,0,50,43.595378,-116.61185
+460,Idaho,2018-19,Teton Elementary,Teton,Fremont,Fremont,15,33.33333333,0,0,43.8873063,-111.6723467
+461,Idaho,2018-19,St. Dominic,POST FALLS,Kootenai,Private,20,30,0,70,47.686504,-117.02029
+462,Idaho,2018-19,Genesis Preparatory Academy,Post Falls,Kootenai,Private,25,28,0,20,47.7259536,-116.9029405
+463,Idaho,2018-19,Priest Lake Elementary,Priest River,Bonner,West Bonner,5,20,0,40,48.1892774,-116.9174669
+464,Idaho,2018-19,Summit Academy,Cottonwood,Idaho,Private,10,20,0,80,46.065494,-116.354678
+465,Idaho,2018-19,House Of The Lord Christian Academy,Oldtown,Bonner,Private,12,16.66666667,0,83.33333333,48.17153,-117.0297571
+466,Idaho,2018-19,Coeur D'Alene Christian,Coeur D'alene,Kootenai,Private,9,11.11111111,0,22.22222222,47.730324,-116.776468
+467,Idaho,2018-19,Immaculate Conception Academy,Post Falls,Kootenai,Private,12,8.333333333,0,91.66666667,47.7118581,-116.9394924
+468,Idaho,2018-19,Arbon Elementary,Arbon Valley,Power,Arbon,1,0,100,0,42.5605754,-112.5540617
+469,Idaho,2018-19,The Homeschool Academy,Ponderay,Bonner,Lake Pend Oreille,9,0,0,100,48.2720645,-116.5794485
+470,Idaho,2018-19,Day Treatment Program,Jerome,Jerome,Jerome,0,,,,42.7338025,-114.526108
+471,Idaho,2018-19,Desert View Christian,Mountain Home,Elmore,Private,0,,,,43.1332874,-115.6686495
+472,Idaho,2018-19,Northwest Children's Education Center,Lewiston,Nez Perce,Private,0,,,,46.3976361,-117.0276799
+473,Idaho,2018-19,Pine Elementary-Junior High,Mountain Home,Elmore,Mountain Home,0,,,,43.1278895,-115.6803757
+474,Idaho,2018-19,Pleasant Valley Elementary Jr High,Jordan Valley,Owyhee,Pleasant Valley,0,,,,42.8990446,-117.0043017
+475,Idaho,2018-19,Stanley Elementary Jr High,Stanley,Custer,Challis,0,,,,44.213224,-114.936805

@@ -1,0 +1,1636 @@
+index,state,year,name,type,city,enroll,mmr,lat,lng
+1,Pennsylvania,2017,Afton Elementary,,Yardley,95,100,40.2445142,-74.876598
+2,Pennsylvania,2017,Aldan Elementary,,Aldan,25,100,39.9225013,-75.2882981
+3,Pennsylvania,2017,Amosland Elementary,,Morton,64,100,39.9003588,-75.3163343
+4,Pennsylvania,2017,Andrew Maier Elementary,,Blandon,37,100,40.4412927,-75.8835071
+5,Pennsylvania,2017,Antonia Pantoja Community Charter,,Philadelphia,100,100,40.0130464,-75.1308137
+6,Pennsylvania,2017,Appleman Elementary,,Benton,60,100,41.199432,-76.3787108
+7,Pennsylvania,2017,Arlington Heights Elementary,,Stroudsburg,46,100,40.9906046,-75.220457
+8,Pennsylvania,2017,Arrowhead Elementary,,Collegeville,67,100,40.163008,-75.44983
+9,Pennsylvania,2017,Arthur Street Elementary,,Hazleton,134,100,40.9664272,-75.9643696
+10,Pennsylvania,2017,Asa Packer Elementary,,Bethlehem,55,100,40.6564207,-75.4111341
+11,Pennsylvania,2017,Avalon Elementary,,Pittsburgh,37,100,40.501056,-80.066152
+12,Pennsylvania,2017,Avella Elementarycenter,,Avella,35,100,40.273756,-80.4182085
+13,Pennsylvania,2017,Avona Elementary,,Easton,35,100,40.673633,-75.2409797
+14,Pennsylvania,2017,Baker Elementary,,Altoona,60,100,40.4857601,-78.4088675
+15,Pennsylvania,2017,Baldwin,,Bryn Mawr,24,100,40.0227536,-75.3127275
+16,Pennsylvania,2017,Barclay Elementary,,Warrington,69,100,40.236245,-75.1279034
+17,Pennsylvania,2017,Barth Elementary,,Pottstown,72,100,40.2524589,-75.6720372
+18,Pennsylvania,2017,Bear Creek Community Cs,,Bear Creek Township,52,100,41.1865922,-75.7777321
+19,Pennsylvania,2017,Beaumont Elementary,,Devon,60,100,40.0236765,-75.4283729
+20,Pennsylvania,2017,Bellaire Elementary,,Carlisle,65,100,40.2144929,-77.2039399
+21,Pennsylvania,2017,Bellevue Elementary,,Pittsburgh,52,100,40.4946226,-80.053725
+22,Pennsylvania,2017,Benjamin Franklin Elementary,,Bethel Park,63,100,40.3245547,-80.0323277
+23,Pennsylvania,2017,Benjamin Rush Elementary,,Bensalem,73,100,40.1040439,-74.9410358
+24,Pennsylvania,2017,Berlin Brothersvalley Elementary,,Berlin,53,100,39.9233779,-78.9465019
+25,Pennsylvania,2017,Bethlehem-Center Elementary,,Fredericktown,87,100,40.0242003,-80.0280284
+26,Pennsylvania,2017,Blossburg Elementary,,Blossburg,41,100,41.6805142,-77.0625626
+27,Pennsylvania,2017,Blue Bell Elementary,,Blue Bell,61,100,40.1577241,-75.2714038
+28,Pennsylvania,2017,Blue Mountain Elementarywest,,Friedensburg,78,100,40.6040201,-76.238949
+29,Pennsylvania,2017,Brandywine-Wallace Elementary,,Downingtown,66,100,40.0395815,-75.7550922
+30,Pennsylvania,2017,Bridgeport Elementary,,Bridgeport,67,100,40.0999291,-75.347225
+31,Pennsylvania,2017,Brockway Area Elementary,,Brockway,85,100,41.2516814,-78.8074046
+32,Pennsylvania,2017,Brown Joseph H,,Philadelphia,92,100,40.0431786,-75.0247888
+33,Pennsylvania,2017,Bucher,,Lancaster,77,100,40.0836948,-76.3319629
+34,Pennsylvania,2017,Buck Elementary,,Levittown,109,100,40.1765897,-74.8746874
+35,Pennsylvania,2017,Burgettstown Elementary Center,,Burgettstown,79,100,40.3960126,-80.3875637
+36,Pennsylvania,2017,Butler Catholic,,Butler,34,100,40.8625304,-79.8874321
+37,Pennsylvania,2017,Cairnbrook Elementary,,Cairnbrook,38,100,40.1189015,-78.8149429
+38,Pennsylvania,2017,California Area Elementary,,Coal Center,69,100,40.0478138,-79.9267907
+39,Pennsylvania,2017,Caln Elementary,,Thorndale,78,100,39.9962826,-75.7501093
+40,Pennsylvania,2017,Calypso Elementary,,Bethlehem,42,100,40.6182226,-75.396893
+41,Pennsylvania,2017,Cambria Elementary,,Ebensburg,79,100,40.4905365,-78.7391477
+42,Pennsylvania,2017,Campus School Of Carlow University,,Pittsburgh,21,100,40.439755,-79.9640366
+43,Pennsylvania,2017,Carmichaels Area Elementary Center,,Carmichaels,85,100,39.8975003,-79.9800206
+44,Pennsylvania,2017,Carnegie Elementary,,Carnegie,56,100,40.4015205,-80.0820012
+45,Pennsylvania,2017,Carroll Elementary,,Shermans Dale,52,100,40.3637195,-77.1700097
+46,Pennsylvania,2017,Carter And Macrae Elementary,,Lancaster,55,100,40.033937,-76.3063757
+47,Pennsylvania,2017,Case Avenue Elementary,,Sharon,63,100,41.2338033,-80.4896646
+48,Pennsylvania,2017,Cayuga,,Philadelphia,99,100,40.0178298,-75.1352959
+49,Pennsylvania,2017,Central Elementary,,South Williamsport,104,100,41.2275863,-76.9992246
+50,Pennsylvania,2017,Central Manor Elementary,,Washington Boro,87,100,39.999601,-76.4248347
+51,Pennsylvania,2017,Charles Sumner #18,,Scranton,58,100,41.4179027,-75.6798085
+52,Pennsylvania,2017,Charlestown Elementary,,Malvern,44,100,40.080315,-75.543383
+53,Pennsylvania,2017,Chester Co Family Academy Cs,,West Chester,36,100,39.9596183,-75.5954089
+54,Pennsylvania,2017,Chesterbrook Academy,,Phoenixville,36,100,40.1395088,-75.4894368
+55,Pennsylvania,2017,Choconut Valley Elementary,,Friendsville,41,100,41.960958,-76.0035037
+56,Pennsylvania,2017,Christ The Divine Tchr Cath Ac,,Pittsburgh,22,100,40.4911452,-79.9010065
+57,Pennsylvania,2017,Christopher Columbus Cs,,Philadelphia,104,100,39.9340354,-75.1655797
+58,Pennsylvania,2017,City School At Fairmount,,Philadelphia,22,100,39.9716189,-75.1762183
+59,Pennsylvania,2017,Clarion-Limestone Elementary,,Strattanville,82,100,41.1839602,-79.2762038
+60,Pennsylvania,2017,Clarks Summit Elementary,,Clarks Summit,41,100,41.4886793,-75.7028488
+61,Pennsylvania,2017,Claysburg-Kimmel Elementary,,Claysburg,49,100,40.2941274,-78.4651996
+62,Pennsylvania,2017,Clearview Elementary,,Bethlehem,63,100,40.637471,-75.4182918
+63,Pennsylvania,2017,Cole Manor Elementary,,Norristown,33,100,40.136254,-75.324265
+64,Pennsylvania,2017,Commodore Perry,,Hadley,27,100,41.4277968,-80.2079044
+65,Pennsylvania,2017,Community Day,,Pittsburgh,29,100,40.4274267,-79.917836
+66,Pennsylvania,2017,Conemaugh Valley Elementary,,Johnstown,60,100,40.3583439,-78.8886085
+67,Pennsylvania,2017,Conewago Township Elementary,,Hanover,143,100,39.8080644,-77.0090626
+68,Pennsylvania,2017,Coopertown Elementary,,Bryn Mawr,88,100,40.0092791,-75.3279171
+69,Pennsylvania,2017,Cornell Elementary,,Coraopolis,58,100,40.5082496,-80.1630276
+70,Pennsylvania,2017,Cramp William,,Philadelphia,60,100,40.0022693,-75.1300927
+71,Pennsylvania,2017,Cranberry Elementary,,Seneca,72,100,41.367369,-79.710133
+72,Pennsylvania,2017,Crossan Kennedy C,,Philadelphia,59,100,40.0620891,-75.0812646
+73,Pennsylvania,2017,Culbertson Elementary,,Newtown Square,73,100,39.9964992,-75.4029727
+74,Pennsylvania,2017,Cumru Elementary,,Shillington,75,100,40.2991786,-75.9537268
+75,Pennsylvania,2017,Dallas Elementary,,Dallas,74,100,41.3450019,-75.9547346
+76,Pennsylvania,2017,Danville Primary,,Danville,192,100,40.9572241,-76.6013325
+77,Pennsylvania,2017,David Leech Elementary,,Leechburg,62,100,40.628457,-79.6044359
+78,Pennsylvania,2017,Deibler Elementary,,Perkasie,50,100,40.3999958,-75.2761738
+79,Pennsylvania,2017,Delaware County Christian School - Elem,,Newtown Square,28,100,39.998916,-75.383838
+80,Pennsylvania,2017,Dickey Elementary,,Lock Haven,41,100,41.1327181,-77.4546596
+81,Pennsylvania,2017,Diehl,,Erie,81,100,42.133186,-80.023811
+82,Pennsylvania,2017,Dobson James,,Philadelphia,29,100,40.0313079,-75.2304764
+83,Pennsylvania,2017,Dover Area Elementary,,Dover,76,100,40.0056045,-76.8437846
+84,Pennsylvania,2017,Doylestown Hospital Children's Village,,Doylestown,23,100,40.3071908,-75.148373
+85,Pennsylvania,2017,Dr Cleveland Steward Jr Elementary,,Monroeville,67,100,40.4301492,-79.7552999
+86,Pennsylvania,2017,Drums El/Ms,,Drums,82,100,41.0108101,-76.0013291
+87,Pennsylvania,2017,Dubois Area Catholic Elementary,,DuBois,35,100,41.118854,-78.787744
+88,Pennsylvania,2017,Eagleville Elementary,,Eagleville,67,100,40.1648649,-75.4045172
+89,Pennsylvania,2017,East Catholic,,Pittsburgh,22,100,40.4215419,-79.8517923
+90,Pennsylvania,2017,East Hanover Elementary,,Grantville,54,100,40.3615015,-76.6744483
+91,Pennsylvania,2017,East Ward Elementary,,Downingtown,85,100,40.010823,-75.6954642
+92,Pennsylvania,2017,Easterly Parkway Elementary,,State College,71,100,40.7887348,-77.8472512
+93,Pennsylvania,2017,Ebenezer Elementary,,Lebanon,96,100,40.3702428,-76.4357912
+94,Pennsylvania,2017,Eddystone Elementary,,Eddystone,31,100,39.8601888,-75.3414863
+95,Pennsylvania,2017,Edison Elementary,,Erie,95,100,42.1448519,-80.0425239
+96,Pennsylvania,2017,Environmental Charter School At Frick Park,,Pittsburgh,50,100,40.4359579,-79.8969024
+97,Pennsylvania,2017,Erie Day,,Erie,23,100,42.1205277,-80.1161716
+98,Pennsylvania,2017,Eugenio Maria De Hostos Cs,,Philadelphia,49,100,40.0465526,-75.1231415
+99,Pennsylvania,2017,Evergreen Elementary,,Monroeville,44,100,40.4460405,-79.7716168
+100,Pennsylvania,2017,Evergreen Elementary,,Collegeville,59,100,40.2182904,-75.462985
+101,Pennsylvania,2017,Fairfield Area Elementary,,Fairfield,68,100,39.7779612,-77.3757776
+102,Pennsylvania,2017,Fairmount Primary Center,,Brackenridge,91,100,40.6116557,-79.7399819
+103,Pennsylvania,2017,Fairview Avenue Elementary,,Waynesboro,96,100,39.7562236,-77.5905074
+104,Pennsylvania,2017,Fairview Elementary,,Pittsburgh,48,100,40.5466726,-79.9000483
+105,Pennsylvania,2017,Faith Christian Academy,,Sellersville,38,100,40.3706046,-75.3122918
+106,Pennsylvania,2017,Falling Spring Elementary,,Chambersburg,45,100,39.9141617,-77.6248347
+107,Pennsylvania,2017,Fannett-Metal Elementary,,Willow Hill,26,100,40.1189798,-77.7839287
+108,Pennsylvania,2017,Farmdale Elementary,,Mount Joy,56,100,40.0675236,-76.4596064
+109,Pennsylvania,2017,Ferguson,,York,79,100,39.9670309,-76.7389477
+110,Pennsylvania,2017,Ferguson Township Elementary,,Pine Grove Mills,58,100,40.7334947,-77.8897914
+111,Pennsylvania,2017,Fern Hill Elementary,,West Chester,94,100,39.9753704,-75.587062
+112,Pennsylvania,2017,Fitzpatrick Aloysius L,,Philadelphia,98,100,40.0803264,-74.9764938
+113,Pennsylvania,2017,Fox Township Elementary,,Kersey,28,100,41.362599,-78.603169
+114,Pennsylvania,2017,Franklin Elementary,,Pottstown,74,100,40.2596619,-75.6301628
+115,Pennsylvania,2017,Frankstown Elementary,,Hollidaysburg,74,100,40.4237192,-78.3629784
+116,Pennsylvania,2017,Fred L Aiken Elementary,,Pittsburgh,29,100,40.4237693,-80.0426558
+117,Pennsylvania,2017,Freemansburg Elementary,,Freemansburg,54,100,40.6268683,-75.3400357
+118,Pennsylvania,2017,Friends Select,,Philadelphia,43,100,39.9564044,-75.1671241
+119,Pennsylvania,2017,Friendship Elementary,,Coatesville,55,100,40.0135586,-75.7921054
+120,Pennsylvania,2017,Friendship Hill Elementary,,Point Marion,42,100,39.7800008,-79.9182468
+121,Pennsylvania,2017,General Nash Elementary,,Harleysville,40,100,40.235177,-75.347229
+122,Pennsylvania,2017,General Wayne Elementary,,Malvern,55,100,40.0301169,-75.4935469
+123,Pennsylvania,2017,George Bancroft #34,,Scranton,39,100,41.4235231,-75.6630488
+124,Pennsylvania,2017,George J Plava Elementary,,Mc Clellandtown,59,100,39.884747,-79.863482
+125,Pennsylvania,2017,George Washington Elementary,,Lancaster,83,100,40.0309706,-76.2923909
+126,Pennsylvania,2017,George Wolf Elementary,,Bath,83,100,40.7226552,-75.3886896
+127,Pennsylvania,2017,Glendale Elementary,,Flinton,62,100,40.7016286,-78.541681
+128,Pennsylvania,2017,Glenside Elementary,,Reading,70,100,40.3575075,-75.9491086
+129,Pennsylvania,2017,Goddard,,Hummelstown,21,100,40.2375549,-76.7118023
+130,Pennsylvania,2017,Good Shepherd Catholic,,Northampton,33,100,40.6794787,-75.4933648
+131,Pennsylvania,2017,Good Shepherd,,Camp Hill,36,100,40.2396146,-76.9408044
+132,Pennsylvania,2017,Grace B Luhrs Univ Elem,,Shippensburg,21,100,40.0608009,-77.5203344
+133,Pennsylvania,2017,Grace Park Elementary,,Swarthmore,58,100,39.88515,-75.3442697
+134,Pennsylvania,2017,Grace Point Academy,,Ephrata,20,100,40.209359,-76.224617
+135,Pennsylvania,2017,Grandview Elementary,,Chambersburg,44,100,39.995777,-77.6125917
+136,Pennsylvania,2017,Grasse Elementary,,Sellersville,47,100,40.3242275,-75.2625726
+137,Pennsylvania,2017,Gray's Woods Elementary,,Port Matilda,64,100,40.8014786,-77.957825
+138,Pennsylvania,2017,Green Ridge Elementary,,Mechanicsburg,93,100,40.2683065,-77.0522302
+139,Pennsylvania,2017,Green Valley Elementary,,West Lawn,80,100,40.3312549,-76.0011972
+140,Pennsylvania,2017,Greene Towne School Inc,,Philadelphia,30,100,39.956167,-75.175392
+141,Pennsylvania,2017,Greenwich-Lenhartsville Elementary,,Lenhartsville,27,100,40.5746866,-75.8019828
+142,Pennsylvania,2017,Grover Cleveland Elementary,,Erie,102,100,42.0909413,-80.1006305
+143,Pennsylvania,2017,Guilford Hills Elementary,,Chambersburg,44,100,39.9190208,-77.5827347
+144,Pennsylvania,2017,Gwyn-Nor Elementary,,North Wales,65,100,40.2215288,-75.2630674
+145,Pennsylvania,2017,Hampden Elementary,,Mechanicsburg,110,100,40.2518388,-76.9839203
+146,Pennsylvania,2017,Harding Elementary,,Lebanon,115,100,40.337845,-76.42136
+147,Pennsylvania,2017,Harmony Area Elementary,,Westover,23,100,40.778222,-78.7262756
+148,Pennsylvania,2017,Harrisburg Academy,,Wormleysburg,23,100,40.2522806,-76.9120862
+149,Pennsylvania,2017,Harrison Park Elementary,,Jeannette,70,100,40.3514988,-79.6448381
+150,Pennsylvania,2017,Hartman Elementary Ctr,,Catawissa,83,100,40.9047928,-76.4958006
+151,Pennsylvania,2017,Hepburn-Lycoming Primary,,Cogan Station,74,100,41.3021442,-77.0588749
+152,Pennsylvania,2017,Hershey Early Childhood Ctr,,Hershey,195,100,40.2814737,-76.6432775
+153,Pennsylvania,2017,Highland Elementary,,Ambridge,45,100,40.5930786,-80.2144411
+154,Pennsylvania,2017,Highland,,Abington,60,100,40.1232511,-75.1234944
+155,Pennsylvania,2017,Hillcrest Elementary,,Drexel Hill,95,100,39.9612749,-75.2978495
+156,Pennsylvania,2017,Hillel Academy Of Pittsburgh,,Pittsburgh,26,100,40.434918,-79.924901
+157,Pennsylvania,2017,Hillsdale Elementary,,West Chester,81,100,39.9545504,-75.6176631
+158,Pennsylvania,2017,Hillside Elementary,,Berwyn,72,100,40.0568638,-75.4561009
+159,Pennsylvania,2017,Holy Cross Regional Catholic,,Collegeville,58,100,40.1877256,-75.4629258
+160,Pennsylvania,2017,Holy Cross,,Philadelphia,26,100,40.0617256,-75.188753
+161,Pennsylvania,2017,Holy Family Regional Catholic,,Aston,32,100,39.8657091,-75.4202657
+162,Pennsylvania,2017,Holy Family Regional,,Levittown,37,100,40.164375,-74.8796475
+163,Pennsylvania,2017,Holy Guardian Angels Regional,,Reading,45,100,40.3828664,-75.9182631
+164,Pennsylvania,2017,Holy Name Of Jesus,,Harrisburg,44,100,40.3251663,-76.7848635
+165,Pennsylvania,2017,Holy Redeemer,,Philadelphia,21,100,39.9574571,-75.1547911
+166,Pennsylvania,2017,Holy Rosary Regional Catholic,,Plymouth Meeting,30,100,40.1305162,-75.2787317
+167,Pennsylvania,2017,Holy Rosary,,Duryea,21,100,41.3529136,-75.7652647
+168,Pennsylvania,2017,Hoover Elementary,,Pittsburgh,47,100,40.374117,-80.0692556
+169,Pennsylvania,2017,Hoover Elementary,,Langhorne,114,100,40.147602,-74.9030001
+170,Pennsylvania,2017,Hopewell Elementary,,Aliquippa,46,100,40.5767755,-80.279955
+171,Pennsylvania,2017,Houserville/Lemont Elementary,,State College,40,100,40.8112017,-77.8225736
+172,Pennsylvania,2017,Immaculate Conception Academy,,Douglassville,24,100,40.251762,-75.79472
+173,Pennsylvania,2017,Immaculate Heart Of Mary,,Philadelphia,40,100,40.064457,-75.2345599
+174,Pennsylvania,2017,Independence Elementary,,Aliquippa,46,100,40.5450882,-80.3278386
+175,Pennsylvania,2017,Infinity Cs,,Harrisburg,27,100,40.2925529,-76.7974051
+176,Pennsylvania,2017,Ingomar Elementary,,Pittsburgh,35,100,40.5821443,-80.0535114
+177,Pennsylvania,2017,Irving Elementary,,Altoona,51,100,40.5275677,-78.3964134
+178,Pennsylvania,2017,James Buchanan Elementary,,Lancaster,66,100,40.033874,-76.325531
+179,Pennsylvania,2017,Jamestown Area Jshs,,Jamestown,31,100,41.4846186,-80.4338569
+180,Pennsylvania,2017,Jamison Elementary,,Jamison,54,100,40.2568424,-75.0962929
+181,Pennsylvania,2017,Jarrettown Elementary,,Dresher,64,100,40.1516002,-75.1699818
+182,Pennsylvania,2017,Jefferson Elementary,,Emmaus,35,100,40.5369519,-75.4967084
+183,Pennsylvania,2017,Jefferson-Morgan Elementary,,Jefferson,61,100,39.9299251,-80.065124
+184,Pennsylvania,2017,Joe Walker Elementary,,Washington,40,100,40.1205324,-80.2890344
+185,Pennsylvania,2017,Johnsonburg Area Elementary,,Johnsonburg,43,100,41.5166631,-78.678355
+186,Pennsylvania,2017,Juniata Mennonite,,Mc Alisterville,23,100,40.6452801,-77.2742136
+187,Pennsylvania,2017,Kelly Elementary,,Wilkinsburg,64,100,40.440184,-79.890122
+188,Pennsylvania,2017,Kernsville,,Orefield,54,100,40.634996,-75.595748
+189,Pennsylvania,2017,Kiddie Academy,,North Wales,38,100,40.238597,-75.231063
+190,Pennsylvania,2017,Kinder Works,,Doylestown,25,100,40.2839999,-75.0987122
+191,Pennsylvania,2017,King Elementary,,Lancaster,71,100,40.034016,-76.2995571
+192,Pennsylvania,2017,Kings Highway Elementary,,Coatesville,66,100,40.01256,-75.881968
+193,Pennsylvania,2017,Kohelet Yeshiva,,Merion Station,20,100,40.002025,-75.241028
+194,Pennsylvania,2017,Kulp Elementary,,Hatfield,63,100,40.2673083,-75.2772783
+195,Pennsylvania,2017,Kunkel Elementary,,Middletown,76,100,40.2257106,-76.7786073
+196,Pennsylvania,2017,Kutz Elementary,,Doylestown,40,100,40.2859108,-75.1295593
+197,Pennsylvania,2017,Lake-Noxen Elementary,,Harveys Lake,39,100,41.3610354,-76.0640681
+198,Pennsylvania,2017,Lane Good Council Montessori,,Ardmore,20,100,40.0012715,-75.2962812
+199,Pennsylvania,2017,Laurel Valley Elementary,,New Florence,34,100,40.3580759,-79.107232
+200,Pennsylvania,2017,Lehigh Valley Dual Language Charter,,Bethlehem,51,100,40.6223049,-75.3621035
+201,Pennsylvania,2017,Leola Elementary,,Leola,67,100,40.089384,-76.192894
+202,Pennsylvania,2017,Letort Elementary,,Carlisle,37,100,40.1977466,-77.1866796
+203,Pennsylvania,2017,Lincoln Elementary,,Gettysburg,69,100,39.8273246,-77.2291713
+204,Pennsylvania,2017,Lincoln Elementary,,Bethlehem,63,100,40.6380026,-75.3508365
+205,Pennsylvania,2017,Linden Elementary,,Doylestown,45,100,40.3173284,-75.1179493
+206,Pennsylvania,2017,Lindley Academy Cs At Birney,,Philadelphia,76,100,40.0294138,-75.138562
+207,Pennsylvania,2017,Little People Day School Inc,,Kingston,21,100,41.2566916,-75.8851196
+208,Pennsylvania,2017,Londonderry Elementary,,Middletown,35,100,40.1914813,-76.6782609
+209,Pennsylvania,2017,Loomis Elementary,,Broomall,44,100,39.9636416,-75.3454487
+210,Pennsylvania,2017,Luis A. Ramos Elementary,,Allentown,56,100,40.6059392,-75.4910184
+211,Pennsylvania,2017,Lynnewood Elementary,,Havertown,76,100,39.9823595,-75.3222873
+212,Pennsylvania,2017,Madonna Catholic Reg School - Mon,,Monongahela,21,100,40.2048811,-79.9325581
+213,Pennsylvania,2017,Mahantongo Elementary,,Klingerstown,24,100,40.6858485,-76.6034638
+214,Pennsylvania,2017,Makefield Elementary,,Yardley,62,100,40.2228986,-74.8201994
+215,Pennsylvania,2017,Manoa Elementary,,Havertown,87,100,39.9686514,-75.3198516
+216,Pennsylvania,2017,Maple Glen Elementary,,Maple Glen,67,100,40.1636046,-75.1841551
+217,Pennsylvania,2017,Marcus Hook Elementary,,Marcus Hook,56,100,39.8179883,-75.4150342
+218,Pennsylvania,2017,Mariana Bracetti Academy Cs,,Philadelphia,74,100,40.005598,-75.093961
+219,Pennsylvania,2017,Marion-Walker Elementary,,Bellefonte,77,100,40.9590138,-77.6101213
+220,Pennsylvania,2017,Markham Elementary,,Pittsburgh,47,100,40.3671729,-80.0547877
+221,Pennsylvania,2017,Mary C Howse Elementary,,West Chester,84,100,40.0030549,-75.6443306
+222,Pennsylvania,2017,Maureen M Welch Elementary,,Churchville,57,100,40.2034886,-75.0372125
+223,Pennsylvania,2017,Mazie Gable Elementary,,Red Lion,63,100,39.9074113,-76.6097141
+224,Pennsylvania,2017,Mcadoo-Kelayres El/Ms,,McAdoo,75,100,40.8959488,-75.9996736
+225,Pennsylvania,2017,Mcintyre Elementary,,Pittsburgh,81,100,40.549492,-80.003608
+226,Pennsylvania,2017,Mcquistion Elementary,,Butler,71,100,40.8430778,-79.8892223
+227,Pennsylvania,2017,Mendon Elementary,,Ruffsdale,38,100,40.1771492,-79.6714192
+228,Pennsylvania,2017,Mercer Area Elementary,,Mercer,82,100,41.2291655,-80.2473985
+229,Pennsylvania,2017,Mercersburg Elementary,,Mercersburg,34,100,39.8273177,-77.906939
+230,Pennsylvania,2017,Merion Elementary,,Merion Station,74,100,40.0013671,-75.256383
+231,Pennsylvania,2017,Middle Paxton Elementary,,Dauphin,46,100,40.3797697,-76.9316263
+232,Pennsylvania,2017,Midland El/Ms,,Midland,24,100,40.6403541,-80.4519478
+233,Pennsylvania,2017,Mifflin Park Elementary,,Shillington,94,100,40.3010412,-75.9555325
+234,Pennsylvania,2017,Mill City Elementary,,Dalton,25,100,41.4926851,-75.839787
+235,Pennsylvania,2017,Mill Road Elementary,,Elizabethtown,40,100,40.1604462,-76.6116142
+236,Pennsylvania,2017,Millmont Elementary,,Reading,107,100,40.318152,-75.930447
+237,Pennsylvania,2017,Millville Area Elementary,,Millville,36,100,41.125942,-76.527715
+238,Pennsylvania,2017,Milton Hershey,,Hershey,32,100,40.2571537,-76.6256903
+239,Pennsylvania,2017,Montandon Elementary,,Montandon,20,100,40.9651677,-76.8483786
+240,Pennsylvania,2017,Montessori Pre-School And Kindergarten,,Scranton,25,100,41.4317995,-75.6447434
+241,Pennsylvania,2017,Montgomery Elementary,,Mercersburg,29,100,39.7982029,-77.9001451
+242,Pennsylvania,2017,Montgomery Elementary,,Montgomery,81,100,41.1747148,-76.8728843
+243,Pennsylvania,2017,Montgomery Elementary,,North Wales,64,100,40.2459882,-75.215428
+244,Pennsylvania,2017,Mooreland Elementary,,Carlisle,54,100,40.1962252,-77.2025059
+245,Pennsylvania,2017,Mother Of Sorrows,,Murrysville,34,100,40.4299238,-79.6859794
+246,Pennsylvania,2017,Mountain View Elementary,,Mifflin,25,100,40.5654515,-77.4068558
+247,Pennsylvania,2017,Mt Holly Springs Elementary,,Carlisle,42,100,40.1173709,-77.1935264
+248,Pennsylvania,2017,Musser Elementary,,Sharon,60,100,41.2258564,-80.4977354
+249,Pennsylvania,2017,Nancy Grayson Elementary,,Shippensburg,117,100,40.049444,-77.534909
+250,Pennsylvania,2017,Nativity Of Our Lord,,Warminster,50,100,40.2059465,-75.0968559
+251,Pennsylvania,2017,Neff,,Lancaster,67,100,40.1009578,-76.3035981
+252,Pennsylvania,2017,Neil Armstrong #40,,Scranton,82,100,41.4345219,-75.6645382
+253,Pennsylvania,2017,Nescopeck Elementary,,Nescopeck,29,100,41.0516057,-76.2155322
+254,Pennsylvania,2017,New Foundations Cs,,Philadelphia,66,100,40.0351622,-75.0241978
+255,Pennsylvania,2017,Newville Elementary,,Newville,66,100,40.1749156,-77.4031539
+256,Pennsylvania,2017,North Coventry Elementary,,Pottstown,79,100,40.21852,-75.6534048
+257,Pennsylvania,2017,Northside Catholic,,Pittsburgh,22,100,40.485981,-80.03609
+258,Pennsylvania,2017,Northwood Academy Cs,,Philadelphia,92,100,40.0204106,-75.0948285
+259,Pennsylvania,2017,Notre Dame Delourdes,,Swarthmore,25,100,39.8884963,-75.3471182
+260,Pennsylvania,2017,Notre Dame Of Beth,,Bethlehem,41,100,40.6404018,-75.4137537
+261,Pennsylvania,2017,Oley Valley Elementary,,Oley,95,100,40.3814481,-75.7988111
+262,Pennsylvania,2017,Osceola Mills Elementary,,Osceola Mills,49,100,40.8516133,-78.2727084
+263,Pennsylvania,2017,Otto-Eldred Elementary,,Eldred,31,100,41.9546053,-78.3831537
+264,Pennsylvania,2017,Our Lady Of Angels Regional Catholic,,Morton,37,100,39.9075106,-75.3212023
+265,Pennsylvania,2017,Our Lady Of Grace,,Penndel,28,100,40.1548376,-74.9156496
+266,Pennsylvania,2017,Our Lady Of Lourdes Regional,,Coal Township,49,100,40.7862729,-76.58442
+267,Pennsylvania,2017,Our Lady Of Mount Carmel,,Doylestown,38,100,40.3112843,-75.1235783
+268,Pennsylvania,2017,Our Lady Of Port Richmond,,Philadelphia,49,100,39.9851559,-75.1019637
+269,Pennsylvania,2017,Our Mother Perpetual Help,,Ephrata,23,100,40.1853979,-76.1733517
+270,Pennsylvania,2017,Oxford Valley Elementary,,Fairless Hills,70,100,40.1782968,-74.8510463
+271,Pennsylvania,2017,Palmer Elementary,,Easton,89,100,40.685926,-75.269271
+272,Pennsylvania,2017,Pan American Academy Cs,,Philadelphia,113,100,39.9944922,-75.1358995
+273,Pennsylvania,2017,Park Elementary,,Columbia,112,100,40.0339072,-76.4971375
+274,Pennsylvania,2017,Park Hills Elementary,,Hanover,81,100,39.7892232,-76.9825777
+275,Pennsylvania,2017,Patterson Primary,,Beaver Falls,71,100,40.7479505,-80.3351929
+276,Pennsylvania,2017,Paxtang Elementary,,Harrisburg,52,100,40.2609017,-76.8303537
+277,Pennsylvania,2017,Penn Cambria Pre-Primary,,Cresson,108,100,40.4644435,-78.5797223
+278,Pennsylvania,2017,Penn London Elementary,,West Grove,299,100,39.7988894,-75.8840749
+279,Pennsylvania,2017,Penn Mont Academy,,Hollidaysburg,25,100,40.4256149,-78.4121141
+280,Pennsylvania,2017,Penn Valley Elementary,,Levittown,68,100,40.1627846,-74.817969
+281,Pennsylvania,2017,Penn Wood Elementary,,West Chester,80,100,39.9535058,-75.5269876
+282,Pennsylvania,2017,Penn Wynne,,Wynnewood,105,100,39.9869345,-75.2782237
+283,Pennsylvania,2017,Penn-Kidder Campus,,Albrightsville,75,100,41.0278385,-75.5859691
+284,Pennsylvania,2017,Penns Valley Area Elementaryand Intrmd,,Spring Mills,44,100,40.8753191,-77.5301964
+285,Pennsylvania,2017,People For People Cs,,Philadelphia,46,100,39.968101,-75.160675
+286,Pennsylvania,2017,Phebe Anna Thorne Kindergarten,,Bryn Mawr,24,100,40.0281641,-75.3183362
+287,Pennsylvania,2017,Philadelphia Montessori Cs,,Philadelphia,27,100,39.9164363,-75.2454905
+288,Pennsylvania,2017,Philipsburg Elementary,,Philipsburg,68,100,40.9035393,-78.2018155
+289,Pennsylvania,2017,Pickering Valley Elementary,,Chester Springs,39,100,40.07944,-75.686722
+290,Pennsylvania,2017,Pittsburgh Allegheny K-5,,Pittsburgh,150,100,40.4534289,-80.0081888
+291,Pennsylvania,2017,Pittsburgh Beechwood K-5,,Pittsburgh,44,100,40.4146174,-80.0206113
+292,Pennsylvania,2017,Pittsburgh Carmalt K-8,,Pittsburgh,64,100,40.3875693,-80.0070461
+293,Pennsylvania,2017,Pittsburgh Greenfield K-8,,Pittsburgh,54,100,40.426433,-79.9445126
+294,Pennsylvania,2017,Pittsburgh King K-8,,Pittsburgh,72,100,40.4546608,-80.0047559
+295,Pennsylvania,2017,Pittsburgh Langley K-8,,Pittsburgh,66,100,40.454376,-80.0551958
+296,Pennsylvania,2017,Pittsburgh Liberty K-5,,Pittsburgh,76,100,40.453225,-79.9334516
+297,Pennsylvania,2017,Pittsburgh Manchester K-8,,Pittsburgh,23,100,40.4564013,-80.0265946
+298,Pennsylvania,2017,Pittsburgh Mifflin K-8,,Pittsburgh,25,100,40.3698549,-79.9148975
+299,Pennsylvania,2017,Pittsburgh Minadeo K-5,,Pittsburgh,35,100,40.4235452,-79.9252809
+300,Pennsylvania,2017,Pittsburgh Morrow K-8,,Pittsburgh,79,100,40.4800696,-80.0396952
+301,Pennsylvania,2017,Pittsburgh West Liberty K-5,,Pittsburgh,37,100,40.4030849,-80.0099781
+302,Pennsylvania,2017,Pittsburgh Westwood K-8,,Pittsburgh,61,100,40.43196,-80.0510595
+303,Pennsylvania,2017,Pittsburgh Woolslair K-5,,Pittsburgh,31,100,40.4631909,-79.9571285
+304,Pennsylvania,2017,Pope John Paul Ii Regional Catholic Elementary,,West Brandywine,54,100,40.0416968,-75.8117922
+305,Pennsylvania,2017,Port Allegany Elementary,,Port Allegany,55,100,41.8149802,-78.2672834
+306,Pennsylvania,2017,Port Matilda Elementary,,Port Matilda,23,100,40.799987,-78.0506743
+307,Pennsylvania,2017,Powel Samuelementary,,Philadelphia,53,100,39.9603393,-75.1936401
+308,Pennsylvania,2017,Priestley,,Northumberland,60,100,40.9026414,-76.8114236
+309,Pennsylvania,2017,Primos Elementary,,Primos,78,100,39.9226395,-75.3024705
+310,Pennsylvania,2017,Propel Cs-Northside,,Pittsburgh,47,100,40.4600048,-80.0180606
+311,Pennsylvania,2017,Radio Park Elementary,,State College,64,100,40.7991892,-77.884345
+312,Pennsylvania,2017,Radnor Elementary,,Radnor,89,100,40.0473595,-75.3612653
+313,Pennsylvania,2017,Rayne Elementary,,Home,31,100,40.704432,-79.102528
+314,Pennsylvania,2017,Red Mill Elementary,,Etters,95,100,40.1531075,-76.7948108
+315,Pennsylvania,2017,Regency Park Elementary,,Plum,24,100,40.4795787,-79.7075816
+316,Pennsylvania,2017,Reserve Primary,,Pittsburgh,46,100,40.4755681,-79.9810616
+317,Pennsylvania,2017,Richard J. Hyde Elementary,,Moon Township,49,100,40.5235873,-80.1971455
+318,Pennsylvania,2017,Richmond Elementary,,Fleetwood,20,100,40.4867421,-75.8336198
+319,Pennsylvania,2017,Ridge Park Elementary,,Conshohocken,112,100,40.0975648,-75.2898418
+320,Pennsylvania,2017,Ritter Elementary,,Allentown,205,100,40.6213052,-75.4323037
+321,Pennsylvania,2017,Riverside Elementary School West,,Taylor,124,100,41.380571,-75.717642
+322,Pennsylvania,2017,Robert Benjamin Wiley Community Cs,,Erie,47,100,42.1416313,-80.0534553
+323,Pennsylvania,2017,Rockhill Elementary,,Rockhill Furnace,22,100,40.2408305,-77.8971503
+324,Pennsylvania,2017,Rogers Primary,,Allison Park,51,100,40.5384991,-79.985013
+325,Pennsylvania,2017,Rolling Ridge Elementary,,Erie,55,100,42.1401655,-79.9971192
+326,Pennsylvania,2017,Sacred Heart,,Havertown,28,100,39.9722435,-75.3118961
+327,Pennsylvania,2017,Saint James Regional Catholic,,Ridley Park,45,100,39.8827843,-75.3270249
+328,Pennsylvania,2017,Saint Jude,,Erie,34,100,42.1063612,-80.1451138
+329,Pennsylvania,2017,Saint Maria Goretti,,Pittsburgh,21,100,40.4615352,-79.9479455
+330,Pennsylvania,2017,Salisbury Elementary,,Gap,37,100,40.0183143,-76.0046451
+331,Pennsylvania,2017,Salladasburg Elementary,,Jersey Shore,39,100,41.2682501,-77.2311978
+332,Pennsylvania,2017,Samuel K Faust Elementary,,Bensalem,75,100,40.1198267,-74.9636585
+333,Pennsylvania,2017,Samuel Pennypacker,,Philadelphia,36,100,40.0653701,-75.1589288
+334,Pennsylvania,2017,Saucon Valley Elementary,,Hellertown,125,100,40.5716576,-75.3311972
+335,Pennsylvania,2017,Schoolaeffer,,Lancaster,52,100,40.0595751,-76.2905546
+336,Pennsylvania,2017,Schoolnecksville,,Schnecksville,77,100,40.6682953,-75.6046687
+337,Pennsylvania,2017,Second District Elementary,,Meadville,64,100,41.6300086,-80.1539526
+338,Pennsylvania,2017,Sewickley Academy,,Sewickley,25,100,40.544741,-80.189606
+339,Pennsylvania,2017,Shady Side Academy Junior,,Pittsburgh,44,100,40.4442956,-79.8973255
+340,Pennsylvania,2017,Shamona Creek Elementary,,Downingtown,72,100,40.0578721,-75.7014883
+341,Pennsylvania,2017,Sheppard Isaac,,Philadelphia,44,100,39.9937178,-75.1316199
+342,Pennsylvania,2017,Shiloh Hills Elementary,,West Lawn,79,100,40.3309445,-76.0005644
+343,Pennsylvania,2017,Shipley,,Bryn Mawr,25,100,40.0249231,-75.3152354
+344,Pennsylvania,2017,Shir Ami Bucks Co Jewish Cong,,Newtown,26,100,40.224801,-74.9479848
+345,Pennsylvania,2017,Smedley Street,,Oil City,53,100,41.4219049,-79.7203212
+346,Pennsylvania,2017,Southeast Elementary,,Lebanon,77,100,40.3367972,-76.4034266
+347,Pennsylvania,2017,Spring City Elementary,,Spring City,30,100,40.171414,-75.549862
+348,Pennsylvania,2017,Spring Ridge Elementary,,West Lawn,87,100,40.3460588,-75.9862736
+349,Pennsylvania,2017,Springside Chestnut Hill Academy,,Philadelphia,33,100,40.0619201,-75.2085308
+350,Pennsylvania,2017,Ss Peter And Paul,,West Chester,29,100,40.0010803,-75.5737358
+351,Pennsylvania,2017,Ss Simon & Jude,,West Chester,25,100,39.9660032,-75.5235895
+352,Pennsylvania,2017,St Albert The Great,,Huntingdon Valley,45,100,40.1133743,-75.0597001
+353,Pennsylvania,2017,St Aloysius,,Pottstown,25,100,40.2527449,-75.6188691
+354,Pennsylvania,2017,St Anastasia,,Newtown Square,53,100,39.9846309,-75.384192
+355,Pennsylvania,2017,St Andrew,,Newtown,73,100,40.2524702,-74.94751
+356,Pennsylvania,2017,St Andrew,,Drexel Hill,42,100,39.948662,-75.2978039
+357,Pennsylvania,2017,St Ann,,Emmaus,32,100,40.5283586,-75.4913172
+358,Pennsylvania,2017,St Anne,,Bethlehem,28,100,40.6344239,-75.3672239
+359,Pennsylvania,2017,St Anselm Elementary,,Philadelphia,31,100,40.1024013,-74.9723391
+360,Pennsylvania,2017,St Benedict The Moor,,Pittsburgh,25,100,40.4495298,-79.9712009
+361,Pennsylvania,2017,St Bernadette,,Monroeville,24,100,40.440756,-79.771726
+362,Pennsylvania,2017,St Catherine Laboure,,Harrisburg,38,100,40.2581808,-76.8156918
+363,Pennsylvania,2017,St Cecilia,,Philadelphia,74,100,40.0767893,-75.0805498
+364,Pennsylvania,2017,St Charles Borromeo,,Bensalem,20,100,40.0759354,-74.9566145
+365,Pennsylvania,2017,St Cornelius,,Chadds Ford,25,100,39.8656175,-75.5587372
+366,Pennsylvania,2017,St Cyril Alexandria,,East Lansdowne,27,100,39.9447072,-75.2602183
+367,Pennsylvania,2017,St Dorothy,,Drexel Hill,56,100,39.9557456,-75.3196863
+368,Pennsylvania,2017,St Elizabeth Parish,,Uwchlan,31,100,40.0887928,-75.6905275
+369,Pennsylvania,2017,St Elizabeth Regional,,Whitehall,27,100,40.6296455,-75.4711654
+370,Pennsylvania,2017,St Ephrem,,Bensalem,40,100,40.1252315,-74.9280054
+371,Pennsylvania,2017,St Francis Of Assisi,,Springfield,32,100,39.9298164,-75.3340329
+372,Pennsylvania,2017,St Genevieve,,Flourtown,28,100,40.1012201,-75.2134922
+373,Pennsylvania,2017,St George,,Philadelphia,20,100,39.988562,-75.093199
+374,Pennsylvania,2017,St Helena,,Blue Bell,43,100,40.1569964,-75.302891
+375,Pennsylvania,2017,St Hilary Of Poiters,,Rydal,27,100,40.0990723,-75.0974779
+376,Pennsylvania,2017,St Ignatius,,Yardley,24,100,40.230947,-74.839524
+377,Pennsylvania,2017,St Joseph,,Downingtown,65,100,40.0075438,-75.7163419
+378,Pennsylvania,2017,St Joseph,,York,39,100,39.9705625,-76.6665913
+379,Pennsylvania,2017,St Joseph The Protector,,Glenside,28,100,40.1033542,-75.1523015
+380,Pennsylvania,2017,St Joseph The Worker-Orefield,,Orefield,44,100,40.6072639,-75.5914097
+381,Pennsylvania,2017,St Joseph-St Robert,,Warrington,34,100,40.2338993,-75.1328426
+382,Pennsylvania,2017,St Katharine Drexel Regional Catholic,,Holland,51,100,40.200278,-74.9827247
+383,Pennsylvania,2017,St Katharine Of Siena,,Wayne,41,100,40.0419554,-75.3821658
+384,Pennsylvania,2017,St Laurence,,Upper Darby,24,100,39.966779,-75.2796289
+385,Pennsylvania,2017,St Luke,,Erie,36,100,42.1049601,-80.0563086
+386,Pennsylvania,2017,St Margaret Mary,,Harrisburg,25,100,40.2820279,-76.8466337
+387,Pennsylvania,2017,St Mary Magdalen,,Media,37,100,39.9471774,-75.4088611
+388,Pennsylvania,2017,St Marys Catholic Elem,,Saint Marys,38,100,41.4203289,-78.5492018
+389,Pennsylvania,2017,St Marys Interparochial,,Philadelphia,31,100,39.9460777,-75.1496584
+390,Pennsylvania,2017,St Maximilian Kolbe,,West Chester,26,100,39.9293249,-75.5826079
+391,Pennsylvania,2017,St Michael The Archangel Lwr,,Coopersburg,30,100,40.514014,-75.4458525
+392,Pennsylvania,2017,St Monica,,Philadelphia,66,100,39.9212467,-75.1760469
+393,Pennsylvania,2017,St Norbert,,Paoli,25,100,40.0374047,-75.472416
+394,Pennsylvania,2017,St Patrick,,Malvern,40,100,40.0353839,-75.5117923
+395,Pennsylvania,2017,St Patrick,,Carlisle,27,100,40.174623,-77.203321
+396,Pennsylvania,2017,St Patrick,,Canonsburg,40,100,40.2572197,-80.1942323
+397,Pennsylvania,2017,St Paul St Clare School St Clare Campus,,Scranton,32,100,41.4334705,-75.6390385
+398,Pennsylvania,2017,St Peter The Apostle,,Philadelphia,28,100,39.9695282,-75.1449339
+399,Pennsylvania,2017,St Philip Neri,,Lafayette Hill,60,100,40.08935,-75.2587528
+400,Pennsylvania,2017,St Pius X,,Broomall,43,100,39.9714532,-75.3447865
+401,Pennsylvania,2017,St Raymond,,Philadelphia,28,100,40.0720334,-75.1663262
+402,Pennsylvania,2017,St Therese,,Munhall,26,100,40.3879562,-79.9010662
+403,Pennsylvania,2017,St Thomas Apostle,,Glen Mills,29,100,39.889363,-75.474344
+404,Pennsylvania,2017,St Thomas More,,Pittsburgh,35,100,40.3423613,-80.0513094
+405,Pennsylvania,2017,St Thomas More,,Allentown,67,100,40.575181,-75.5137011
+406,Pennsylvania,2017,St Veronica,,Philadelphia,24,100,40.0048903,-75.1391712
+407,Pennsylvania,2017,Steelton-Highspire Elementary,,Steelton,89,100,40.2375591,-76.8295626
+408,Pennsylvania,2017,Stevens Elementary,,Chambersburg,49,100,39.9266884,-77.6687499
+409,Pennsylvania,2017,Stevens Primary,,Williamsport,60,100,41.2464335,-77.0287472
+410,Pennsylvania,2017,Streams Elementary,,Pittsburgh,77,100,40.322414,-80.09354
+411,Pennsylvania,2017,Strodes Mills Elementary,,Mc Veytown,57,100,40.5461343,-77.6711682
+412,Pennsylvania,2017,Sts Colman-John Neumann,,Bryn Mawr,27,100,40.0035595,-75.3380357
+413,Pennsylvania,2017,Sunset Valley Elementary,,North Huntingdon,73,100,40.305288,-79.7424861
+414,Pennsylvania,2017,Sylvan Heights Science Cs,,Harrisburg,44,100,40.2530382,-76.8636766
+415,Pennsylvania,2017,Taylor Bayard,,Philadelphia,98,100,40.0069509,-75.1383024
+416,Pennsylvania,2017,The Philadelphia Cs For Arts And Sciences At Hr Edmunds,,Philadelphia,114,100,40.0249579,-75.0867468
+417,Pennsylvania,2017,Third Avenue Elementary,,Kingston,33,100,41.2566627,-75.8862768
+418,Pennsylvania,2017,Thomas Jefferson Elementary,,Bethlehem,37,100,40.622945,-75.3684902
+419,Pennsylvania,2017,Thomas Wharton Elementary,,Lancaster,57,100,40.0482809,-76.3157854
+420,Pennsylvania,2017,Tidioute Community Cs,,Tidioute,22,100,41.6837758,-79.4021281
+421,Pennsylvania,2017,Trinity North Elementary,,Washington,70,100,40.2012184,-80.2970406
+422,Pennsylvania,2017,Turner Elementary,,Wilkinsburg,54,100,40.4494734,-79.8647484
+423,Pennsylvania,2017,Tussey Mountain El,,Saxton,69,100,40.2138059,-78.2499148
+424,Pennsylvania,2017,United Elementary,,Armagh,66,100,40.4691644,-79.0423496
+425,Pennsylvania,2017,Urban Pathways K-5 College Charter,,Pittsburgh,64,100,40.4441141,-79.9973013
+426,Pennsylvania,2017,Valley School Of Ligonier,,Ligonier,20,100,40.246316,-79.2432556
+427,Pennsylvania,2017,Valley View Elementary,,York,127,100,39.9481548,-76.6953447
+428,Pennsylvania,2017,Victory Elementary,,Harrisville,43,100,41.2132063,-79.9409695
+429,Pennsylvania,2017,Visitation Bvm,,Norristown,44,100,40.1455172,-75.3855757
+430,Pennsylvania,2017,W W Evans Memorial Elementary,,Bloomsburg,26,100,40.991672,-76.47929
+431,Pennsylvania,2017,Walker Township Elementary,,Mifflintown,23,100,40.5370824,-77.3331429
+432,Pennsylvania,2017,Wallace Elementary,,York,216,100,39.9790413,-76.7891023
+433,Pennsylvania,2017,Wallenpaupack South Elementary,,Newfoundland,40,100,41.308904,-75.320337
+434,Pennsylvania,2017,Ward L Myers Elementary,,Muncy,77,100,41.2005174,-76.782302
+435,Pennsylvania,2017,Warren Snyder-John Girotti Elementary,,Bristol,92,100,40.0989443,-74.8572572
+436,Pennsylvania,2017,Washington Elementary,,Hanover,45,100,39.8168024,-76.9714691
+437,Pennsylvania,2017,Washington Heights Elementary,,Lemoyne,76,100,40.2469958,-76.8999346
+438,Pennsylvania,2017,Wasson Avenue Elementary,,DuBois,76,100,41.1061889,-78.7748934
+439,Pennsylvania,2017,Waverly,,Waverly,60,100,41.5256245,-75.7098912
+440,Pennsylvania,2017,Wayne Elementary,,Wayne,75,100,40.0328426,-75.4049725
+441,Pennsylvania,2017,Webster,,Philadelphia,137,100,39.9963311,-75.1050962
+442,Pennsylvania,2017,Weisenberg Elementary,,Kutztown,54,100,40.5906133,-75.7098184
+443,Pennsylvania,2017,West End Elementary,,Punxsutawney,46,100,40.9464715,-78.990246
+444,Pennsylvania,2017,West Hanover Elementary,,Harrisburg,70,100,40.3379892,-76.7218376
+445,Pennsylvania,2017,West Hazleton El/Ms,,West Hazleton,100,100,40.9605091,-76.0003794
+446,Pennsylvania,2017,West View Elementary,,Pittsburgh,74,100,40.5211372,-80.0327282
+447,Pennsylvania,2017,West Vincent Elementary,,Chester Springs,56,100,40.111171,-75.689123
+448,Pennsylvania,2017,Westbrook Park Elementary,,Clifton Heights,65,100,39.9297585,-75.307738
+449,Pennsylvania,2017,Western Salisbury Elementary,,Allentown,39,100,40.5606163,-75.5010231
+450,Pennsylvania,2017,Wharton,,Farmington,33,100,39.803882,-79.567961
+451,Pennsylvania,2017,Whitfield Elementary,,West Lawn,86,100,40.3329178,-76.0053855
+452,Pennsylvania,2017,William Penn Elementary,,Bethel Park,42,100,40.298812,-80.043859
+453,Pennsylvania,2017,William Prescott #38,,Scranton,42,100,41.4087011,-75.6430108
+454,Pennsylvania,2017,Williams Township Elementary,,Easton,46,100,40.639244,-75.2374789
+455,Pennsylvania,2017,Williamsburg Community Elementary,,Williamsburg,34,100,40.4597782,-78.2066684
+456,Pennsylvania,2017,Wilson Borough Elementary,,Easton,71,100,40.6850707,-75.2432512
+457,Pennsylvania,2017,Wilson Elementary,,Waymart,33,100,41.5742208,-75.4063167
+458,Pennsylvania,2017,Windber Elementary,,Windber,106,100,40.2169616,-78.8106555
+459,Pennsylvania,2017,Windsor Manor Elementary,,Windsor,76,100,39.9225897,-76.5885687
+460,Pennsylvania,2017,Wissahickon Cs,,Philadelphia,107,100,40.0160292,-75.171174
+461,Pennsylvania,2017,Woodland Elementary,,Emporium,53,100,41.5137511,-78.2486825
+462,Pennsylvania,2017,Worcester Elementary,,Lansdale,66,100,40.202575,-75.34725
+463,Pennsylvania,2017,Worrall Elementary,,Broomall,40,100,39.9766766,-75.3803994
+464,Pennsylvania,2017,Wrightstown Elementary,,Wrightstown,34,100,40.2664199,-74.9926826
+465,Pennsylvania,2017,Wrightsville Elementary,,Wrightsville,59,100,40.0240613,-76.533286
+466,Pennsylvania,2017,Wylandville Elementary,,Eighty Four,39,100,40.2076949,-80.1268945
+467,Pennsylvania,2017,Youngsville El/Ms,,Youngsville,61,100,41.8501556,-79.3274559
+468,Pennsylvania,2017,Ziegler William H,,Philadelphia,60,100,40.0300308,-75.0750073
+469,Pennsylvania,2017,Solis-Cohen Solomon,,Philadelphia,212,99.5,40.0447756,-75.0646281
+470,Pennsylvania,2017,Springfield Township Elementary School-Enfield,,Oreland,197,99.5,40.105757,-75.188784
+471,Pennsylvania,2017,Brookwood Elementary,,Levittown,171,99.4,40.1382008,-74.8331249
+472,Pennsylvania,2017,George Blaisdell Elementary,,Bradford,170,99.4,41.973955,-78.643914
+473,Pennsylvania,2017,Lowell James R,,Philadelphia,157,99.4,40.040391,-75.129128
+474,Pennsylvania,2017,Susquenita Elementary,,Duncannon,154,99.4,40.3545776,-76.9973467
+475,Pennsylvania,2017,Wyoming Area Kindergarten Ctr,,Exeter,157,99.4,41.3216087,-75.8126188
+476,Pennsylvania,2017,Brownsville Area Elementary,,Brownsville,136,99.3,40.0070195,-79.8936409
+477,Pennsylvania,2017,Corry Area Primary,,Corry,153,99.3,41.9280817,-79.6374082
+478,Pennsylvania,2017,Lauers Park Elementary,,Reading,148,99.3,40.3399605,-75.9328967
+479,Pennsylvania,2017,Maple Ridge Elementary,,Somerset,149,99.3,40.0031799,-79.0992915
+480,Pennsylvania,2017,Mid Valley Elementary Center,,Throop,137,99.3,41.4471678,-75.6036225
+481,Pennsylvania,2017,Moore J Hampton,,Philadelphia,150,99.3,40.0492029,-75.0770009
+482,Pennsylvania,2017,Pine Road Elementary,,Huntingdon Valley,147,99.3,40.1380285,-75.028947
+483,Pennsylvania,2017,W.G. Rice Elementary,,Mount Holly Springs,146,99.3,40.1300803,-77.193539
+484,Pennsylvania,2017,Washington Park Elementary,,Washington,152,99.3,40.1671045,-80.225097
+485,Pennsylvania,2017,West Oak Lane Cs,,Philadelphia,134,99.3,40.0595479,-75.1633849
+486,Pennsylvania,2017,Kindergarten Academy,,Prospect Park,254,99.2,39.8874021,-75.3041194
+487,Pennsylvania,2017,Lower Nazareth Elementary,,Nazareth,353,99.2,40.7059528,-75.3357498
+488,Pennsylvania,2017,Muse Elementary,,Muse,129,99.2,40.292082,-80.1980547
+489,Pennsylvania,2017,North Schooluylkill Elem,,Ashland,127,99.2,40.7717529,-76.2915359
+490,Pennsylvania,2017,Pfeiffer-Burleigh,,Erie,124,99.2,42.1261575,-80.0761917
+491,Pennsylvania,2017,Pittsburgh Colfax K-8,,Pittsburgh,120,99.2,40.4331215,-79.9153733
+492,Pennsylvania,2017,Rainbow Elementary,,Coatesville,121,99.2,39.9865507,-75.8552707
+493,Pennsylvania,2017,Sara Lindemuth Elementary,,Harrisburg,262,99.2,40.3008027,-76.8464556
+494,Pennsylvania,2017,Sixteenth & Haak Elementary,,Reading,123,99.2,40.3308654,-75.905143
+495,Pennsylvania,2017,Aliquippa Elementary,,Aliquippa,109,99.1,40.6088528,-80.2781378
+496,Pennsylvania,2017,Charleroi Area Elementary Center,,Charleroi,107,99.1,40.1575901,-79.9230909
+497,Pennsylvania,2017,Cochran Primary,,Williamsport,108,99.1,41.2539818,-77.0109001
+498,Pennsylvania,2017,Glen Acres Elementary,,West Chester,110,99.1,39.968094,-75.5656737
+499,Pennsylvania,2017,Mastery Cs-Smedley Campus,,Philadelphia,114,99.1,40.0197036,-75.076167
+500,Pennsylvania,2017,Montour Elementary,,McKees Rocks,226,99.1,40.4659277,-80.1207222
+501,Pennsylvania,2017,New Brighton Area Elementary,,New Brighton,114,99.1,40.7364407,-80.3016937
+502,Pennsylvania,2017,Pine Grove Elementary,,Pine Grove,113,99.1,40.5601034,-76.3809324
+503,Pennsylvania,2017,Ringgold Elementary School South,,Monongahela,116,99.1,40.1726082,-79.9111539
+504,Pennsylvania,2017,Stewartsville Elementary,,North Huntingdon,110,99.1,40.3443636,-79.7663247
+505,Pennsylvania,2017,Brooke Elementary,,Royersford,103,99,40.196368,-75.5368136
+506,Pennsylvania,2017,Chatham Park Elementary,,Havertown,103,99,39.975849,-75.2981651
+507,Pennsylvania,2017,Edgewood Elementary,,Pittsburgh,97,99,40.4329817,-79.8831409
+508,Pennsylvania,2017,Eisenhower Elementary,,Pittsburgh,100,99,40.349593,-80.062368
+509,Pennsylvania,2017,Fogelsville,,Breinigsville,99,99,40.5679462,-75.6161714
+510,Pennsylvania,2017,Franklin Towne Charter Elementary,,Philadelphia,105,99,39.9961006,-75.0754647
+511,Pennsylvania,2017,Fred J. Jaindl Elementary,,Breinigsville,102,99,40.5500632,-75.6171449
+512,Pennsylvania,2017,Hiram W Dodd Elementary,,Allentown,97,99,40.5790795,-75.4620054
+513,Pennsylvania,2017,Holme Thomas,,Philadelphia,101,99,40.0553465,-75.0089051
+514,Pennsylvania,2017,John G Whittier #2,,Scranton,105,99,41.399084,-75.6578
+515,Pennsylvania,2017,Ohara Elementary,,Pittsburgh,97,99,40.515515,-79.863777
+516,Pennsylvania,2017,Paul V Fly Elementary,,Norristown,104,99,40.1576485,-75.3593451
+517,Pennsylvania,2017,Rice Elementary,,Mountain Top,96,99,41.1450597,-75.971542
+518,Pennsylvania,2017,Shady Grove Elementary,,Ambler,103,99,40.1461287,-75.2542467
+519,Pennsylvania,2017,Summitview Elementary,,Waynesboro,99,99,39.7464941,-77.5647783
+520,Pennsylvania,2017,Tenth & Green Elementary,,Reading,101,99,40.3423435,-75.9183947
+521,Pennsylvania,2017,Upper Darby Kdg Ctr,,Drexel Hill,618,99,39.9546632,-75.2992619
+522,Pennsylvania,2017,Wilkins Elementary,,Pittsburgh,98,99,40.4301023,-79.8274924
+523,Pennsylvania,2017,Wilson Elementary,,Imperial,98,99,40.4442535,-80.2673266
+524,Pennsylvania,2017,Barton Clara,,Philadelphia,268,98.9,40.0203849,-75.1198757
+525,Pennsylvania,2017,Bentworth Elementary Center,,Bentleyville,87,98.9,40.1233592,-80.0201354
+526,Pennsylvania,2017,Burchfield Primary,,Allison Park,89,98.9,40.5472247,-79.9430037
+527,Pennsylvania,2017,Cheltenham Elementary,,Cheltenham,93,98.9,40.0597972,-75.107742
+528,Pennsylvania,2017,Clarke Elementary Center,,Pottsville,174,98.9,40.684075,-76.216835
+529,Pennsylvania,2017,Fishing Creek Elementary,,Lewisberry,87,98.9,40.1777783,-76.8380225
+530,Pennsylvania,2017,Hambright Elementary,,Lancaster,92,98.9,40.0188945,-76.3879117
+531,Pennsylvania,2017,Hopewell Elementary,,Center Valley,91,98.9,40.537315,-75.426073
+532,Pennsylvania,2017,Kipp West Philadelphia Cs,,Philadelphia,95,98.9,39.9258215,-75.227803
+533,Pennsylvania,2017,Mahanoy Area Elementary,,Mahanoy City,92,98.9,40.8098386,-76.1502893
+534,Pennsylvania,2017,Mckinley,,Elkins Park,88,98.9,40.0812878,-75.1055416
+535,Pennsylvania,2017,Mt Penn Primary Ctr,,Reading,93,98.9,40.3301135,-75.8874718
+536,Pennsylvania,2017,Pleasant Valley Elementary,,Altoona,89,98.9,40.493602,-78.4026637
+537,Pennsylvania,2017,Pollock Robert B,,Philadelphia,89,98.9,40.0602604,-75.0271621
+538,Pennsylvania,2017,Selinsgrove Area Elementary,,Selinsgrove,189,98.9,40.8078164,-76.8680119
+539,Pennsylvania,2017,Shenandoah Valley Jshs,,Shenandoah,87,98.9,40.8190793,-76.2113355
+540,Pennsylvania,2017,South St Marys Street Elementary,,Saint Marys,92,98.9,41.42453,-78.5620039
+541,Pennsylvania,2017,Swarthmore-Rutledge,,Swarthmore,92,98.9,39.9052891,-75.346715
+542,Pennsylvania,2017,Valley El/Ms,,Sugarloaf,90,98.9,40.9885447,-76.0752688
+543,Pennsylvania,2017,Bellefonte Elementary,,Bellefonte,82,98.8,40.9154605,-77.7794437
+544,Pennsylvania,2017,Blairsville Elementary,,Blairsville,80,98.8,40.4505432,-79.2188629
+545,Pennsylvania,2017,Centerville Elementary,,Lancaster,80,98.8,40.065941,-76.391711
+546,Pennsylvania,2017,Cornwall Elementary,,Cornwall,84,98.8,40.275523,-76.414289
+547,Pennsylvania,2017,Crestview Elementary,,Carlisle,81,98.8,40.2248286,-77.193806
+548,Pennsylvania,2017,Donaldson Elem,,Oakdale,82,98.8,40.4184327,-80.2319824
+549,Pennsylvania,2017,Freeland El/Ms,,Freeland,81,98.8,41.0213001,-75.8924256
+550,Pennsylvania,2017,Gladwyne,,Gladwyne,84,98.8,40.034147,-75.278538
+551,Pennsylvania,2017,Haine Elementary,,Cranberry Twp,167,98.8,40.6951752,-80.1281903
+552,Pennsylvania,2017,Hamilton Elementary,,Lancaster,81,98.8,40.0209848,-76.3177759
+553,Pennsylvania,2017,Jackson,,York,80,98.8,39.953455,-76.7188979
+554,Pennsylvania,2017,Jefferson Elementary,,Jefferson Hills,80,98.8,40.297039,-79.932747
+555,Pennsylvania,2017,Jefferson Elementary,,Erie,80,98.8,42.1043302,-80.0627474
+556,Pennsylvania,2017,Joanna Connell,,Erie,86,98.8,42.1173056,-80.0277788
+557,Pennsylvania,2017,Kane Area Elementary,,Kane,83,98.8,41.6551896,-78.8129031
+558,Pennsylvania,2017,Keystone Academy Charter,,Philadelphia,84,98.8,40.0274814,-75.0440146
+559,Pennsylvania,2017,Kratzer,,Allentown,85,98.8,40.6209167,-75.5155956
+560,Pennsylvania,2017,Lorane Elementary,,Reading,85,98.8,40.2916839,-75.852732
+561,Pennsylvania,2017,Margaret Ross Elementary,,Aliquippa,86,98.8,40.5922359,-80.2605386
+562,Pennsylvania,2017,Mcclellan Elementary,,Pittsburgh,82,98.8,40.3298028,-79.970427
+563,Pennsylvania,2017,Ray S. Musselman Learning Center,,Norristown,248,98.8,40.1132281,-75.3230278
+564,Pennsylvania,2017,Reynolds Elementary,,Greenville,84,98.8,41.3371081,-80.3952273
+565,Pennsylvania,2017,Shafer Elementary,,Nazareth,164,98.8,40.7405372,-75.3009354
+566,Pennsylvania,2017,Skippack Elementary,,Collegeville,83,98.8,40.2144152,-75.4177845
+567,Pennsylvania,2017,Spring Garden Elementary,,Bethlehem,80,98.8,40.6473752,-75.3597377
+568,Pennsylvania,2017,West Bradford Elementary,,Downingtown,85,98.8,39.9717893,-75.7421459
+569,Pennsylvania,2017,Alliance For Progress Cs,,Philadelphia,76,98.7,39.9798443,-75.1654473
+570,Pennsylvania,2017,Apollo-Ridge Elem,,Spring Church,77,98.7,40.6031717,-79.4759895
+571,Pennsylvania,2017,Asbury Elementary,,Fairview,75,98.7,42.0450695,-80.1705918
+572,Pennsylvania,2017,Caley Elementary,,King of Prussia,79,98.7,40.1064909,-75.3873216
+573,Pennsylvania,2017,Chartiers Valley Primary,,Bridgeville,301,98.7,40.3815668,-80.1068264
+574,Pennsylvania,2017,Cornwall Terrace Elementary,,West Lawn,78,98.7,40.3171955,-76.0113022
+575,Pennsylvania,2017,Cornwells Elementary,,Bensalem,77,98.7,40.0836991,-74.9516667
+576,Pennsylvania,2017,Enders-Fisherville Elementary,,Halifax,75,98.7,40.4963629,-76.8521748
+577,Pennsylvania,2017,First Philadelphia Preparatory Charter,,Philadelphia,155,98.7,40.0073134,-75.0819726
+578,Pennsylvania,2017,Foot Of Ten Elementary,,Duncansville,76,98.7,40.4190459,-78.4480236
+579,Pennsylvania,2017,Fort Washington Elementary,,Fort Washington,75,98.7,40.1482188,-75.2018673
+580,Pennsylvania,2017,French Creek Elementary,,Pottstown,75,98.7,40.165875,-75.687881
+581,Pennsylvania,2017,Highland Elementary,,Camp Hill,76,98.7,40.2297757,-76.898164
+582,Pennsylvania,2017,Honey Brook Elementary Center,,Honey Brook,78,98.7,40.088374,-75.920225
+583,Pennsylvania,2017,Ithan Elementary,,Bryn Mawr,75,98.7,40.0081042,-75.3621318
+584,Pennsylvania,2017,Kissel Hill Elementary,,Lititz,77,98.7,40.140258,-76.2957803
+585,Pennsylvania,2017,Martin,,New Kensington,159,98.7,40.5629863,-79.7448467
+586,Pennsylvania,2017,Oaks Elementary,,Oaks,78,98.7,40.1425874,-75.4649312
+587,Pennsylvania,2017,Overlook,,Abington,78,98.7,40.130766,-75.1113913
+588,Pennsylvania,2017,Parkway Manor,,Allentown,79,98.7,40.593847,-75.5499368
+589,Pennsylvania,2017,Perry Elementary,,Erie,75,98.7,42.1016437,-80.0920962
+590,Pennsylvania,2017,Rupert Elementary,,Pottstown,75,98.7,40.2409403,-75.6219908
+591,Pennsylvania,2017,Southern Elementary,,Glen Rock,77,98.7,39.7711717,-76.7325787
+592,Pennsylvania,2017,Spruance Gilbert,,Philadelphia,149,98.7,40.0376945,-75.07301
+593,Pennsylvania,2017,Stewartstown Elementary,,Stewartstown,76,98.7,39.7623152,-76.5893422
+594,Pennsylvania,2017,Stony Brook Elementary,,York,152,98.7,39.9950229,-76.6404366
+595,Pennsylvania,2017,Sugartown Elementary,,Malvern,77,98.7,40.0181043,-75.5190408
+596,Pennsylvania,2017,Titus Elementary,,Warrington,76,98.7,40.2402776,-75.1391784
+597,Pennsylvania,2017,Tracy Elementary,,Easton,77,98.7,40.7149263,-75.2524289
+598,Pennsylvania,2017,Upper Moreland Primary,,Hatboro,234,98.7,40.1721264,-75.0933981
+599,Pennsylvania,2017,York Academy Regional Charter,,York,75,98.7,39.9655688,-76.7309917
+600,Pennsylvania,2017,Baker Elementary,,Pittsburgh,73,98.6,40.335212,-80.096524
+601,Pennsylvania,2017,Bethel Memorial Elementary,,Bethel Park,70,98.6,40.3238525,-80.0539794
+602,Pennsylvania,2017,Cambria Heights Elementary,,Carrolltown,72,98.6,40.6061008,-78.7070521
+603,Pennsylvania,2017,Churchville Elementary,,Churchville,72,98.6,40.1927478,-75.0177287
+604,Pennsylvania,2017,Discovery Charter,,Philadelphia,69,98.6,39.977122,-75.214046
+605,Pennsylvania,2017,Doe Run Elementary,,Manheim,138,98.6,40.1743841,-76.3725489
+606,Pennsylvania,2017,Fayetteville Elementary,,Fayetteville,69,98.6,39.9092726,-77.5494053
+607,Pennsylvania,2017,Frances Willard #32,,Scranton,73,98.6,41.4062438,-75.6867615
+608,Pennsylvania,2017,Hallowell Elementary,,Horsham,72,98.6,40.194411,-75.1362306
+609,Pennsylvania,2017,Hanover Green Elementary,,Hanover Township,141,98.6,41.2191232,-75.9491451
+610,Pennsylvania,2017,Homeville Elementary,,West Mifflin,72,98.6,40.3884731,-79.8745711
+611,Pennsylvania,2017,Liberty Bell Elementary,,Coopersburg,72,98.6,40.5134908,-75.397101
+612,Pennsylvania,2017,Mary Mother Of The Redeemer,,North Wales,73,98.6,40.2503828,-75.2243415
+613,Pennsylvania,2017,Memorial Elementary,,Bloomsburg,74,98.6,40.9987149,-76.4553541
+614,Pennsylvania,2017,Mifflinburg Elementary,,Mifflinburg,147,98.6,40.9200907,-77.0307155
+615,Pennsylvania,2017,Mountville Elementary,,Mountville,70,98.6,40.0437859,-76.4256014
+616,Pennsylvania,2017,Mowrey Elementary,,Waynesboro,70,98.6,39.8153269,-77.5701714
+617,Pennsylvania,2017,Oakview Elementary,,Stoneboro,70,98.6,41.3398695,-80.0841941
+618,Pennsylvania,2017,Osborne Elementary,,Sewickley,69,98.6,40.5303658,-80.1683246
+619,Pennsylvania,2017,Parkside Education Center,,Palmerton,74,98.6,40.8033264,-75.6082447
+620,Pennsylvania,2017,Paynter Elementary,,Pittsburgh,138,98.6,40.381297,-79.950243
+621,Pennsylvania,2017,Pfaff Elementary,,Quakertown,70,98.6,40.4367414,-75.441072
+622,Pennsylvania,2017,Reidenbaugh Elementary,,Lititz,73,98.6,40.1220026,-76.3254317
+623,Pennsylvania,2017,Rutherford Elementary,,Harrisburg,71,98.6,40.2665228,-76.774197
+624,Pennsylvania,2017,Rydal East,,Huntingdon Valley,74,98.6,40.0990417,-75.0909664
+625,Pennsylvania,2017,South Park Elem Center,,South Park,139,98.6,40.3007019,-79.9874918
+626,Pennsylvania,2017,Springfield Literacy Center,,Springfield,290,98.6,39.925551,-75.342576
+627,Pennsylvania,2017,Tyrone Area Elementary,,Tyrone,140,98.6,40.6715374,-78.2509884
+628,Pennsylvania,2017,Upper Providence Elementary,,Royersford,72,98.6,40.1893112,-75.5112008
+629,Pennsylvania,2017,Wattsburg Area Elementary Center,,Erie,73,98.6,42.0494069,-79.9051525
+630,Pennsylvania,2017,Bryant William C,,Philadelphia,66,98.5,39.9530359,-75.2438953
+631,Pennsylvania,2017,C G Johnson Elementary,,Reynoldsville,67,98.5,41.089654,-78.884402
+632,Pennsylvania,2017,Canadochly Elementary,,East Prospect,67,98.5,39.9675288,-76.5176421
+633,Pennsylvania,2017,Center Township,,Butler,130,98.5,40.9065536,-79.9281195
+634,Pennsylvania,2017,Clara Barton Elementary,,West Mifflin,66,98.5,40.3425128,-79.9216533
+635,Pennsylvania,2017,Everett Area Elementary,,Everett,67,98.5,40.0049858,-78.3587354
+636,Pennsylvania,2017,Francis S Grandinetti Elementary,,Ridgway,66,98.5,41.4120771,-78.7082924
+637,Pennsylvania,2017,Frank Anne,,Philadelphia,204,98.5,40.0880254,-75.0286226
+638,Pennsylvania,2017,Hamilton Elementary,,Carlisle,67,98.5,40.2136584,-77.1848795
+639,Pennsylvania,2017,Hatfield Elementary,,Hatfield,68,98.5,40.2796038,-75.3067964
+640,Pennsylvania,2017,J H Brooks Elementary,,Moon Township,68,98.5,40.499786,-80.176726
+641,Pennsylvania,2017,Joseph C Ashkar Elementary,,Hughesville,68,98.5,41.2376105,-76.7342737
+642,Pennsylvania,2017,Landisville Pri Ctr,,Landisville,135,98.5,40.086434,-76.411158
+643,Pennsylvania,2017,Lititz Elementary,,Lititz,67,98.5,40.1556825,-76.3055227
+644,Pennsylvania,2017,Lower Allen Elementary,,Camp Hill,68,98.5,40.2196046,-76.9480573
+645,Pennsylvania,2017,Marshall Street Elementary,,Norristown,132,98.5,40.128375,-75.3625147
+646,Pennsylvania,2017,Mill Creek Elementary,,Levittown,197,98.5,40.1380003,-74.8528893
+647,Pennsylvania,2017,Monessen Elementary Center,,Monessen,65,98.5,40.151482,-79.887827
+648,Pennsylvania,2017,Oaklyn,,Sunbury,67,98.5,40.8575732,-76.759382
+649,Pennsylvania,2017,Old Forge Elementary,,Old Forge,65,98.5,41.3719438,-75.7435896
+650,Pennsylvania,2017,Paradise Elementary,,Paradise,67,98.5,40.0070809,-76.1059974
+651,Pennsylvania,2017,Pocopson Elementary,,West Chester,66,98.5,39.9005007,-75.6291949
+652,Pennsylvania,2017,Robb Elementary,,Lock Haven,68,98.5,41.135041,-77.438579
+653,Pennsylvania,2017,Russell Elementary,,Broomall,65,98.5,39.9717764,-75.3604381
+654,Pennsylvania,2017,Schuylkill Valley Elementary,,Leesport,137,98.5,40.4458984,-75.9479623
+655,Pennsylvania,2017,Sharpsville Area Elementary,,Sharpsville,68,98.5,41.2562634,-80.4779291
+656,Pennsylvania,2017,South Hanover Elementary,,Hershey,68,98.5,40.2915508,-76.6837965
+657,Pennsylvania,2017,Trumbauersville Elementary,,Quakertown,67,98.5,40.4158605,-75.3735876
+658,Pennsylvania,2017,Union Canal Elementary,,Lebanon,68,98.5,40.3614547,-76.3772589
+659,Pennsylvania,2017,University Park Elementary,,Monroeville,67,98.5,40.4508772,-79.7335663
+660,Pennsylvania,2017,Washington Elementary,,Barto,65,98.5,40.39043,-75.5946349
+661,Pennsylvania,2017,Alburtis Elementary,,Alburtis,64,98.4,40.5078387,-75.6062922
+662,Pennsylvania,2017,Beaver Creek Elementary,,Downingtown,64,98.4,40.002186,-75.7205146
+663,Pennsylvania,2017,Central Elementary,,Franklin,63,98.4,41.3999612,-79.8295717
+664,Pennsylvania,2017,Charles W Longer Elementary,,Hollidaysburg,62,98.4,40.4389286,-78.3970749
+665,Pennsylvania,2017,Colonel John Siegfried Elementary,,Northampton,123,98.4,40.6868,-75.494016
+666,Pennsylvania,2017,East Coventry Elementary,,Pottstown,64,98.4,40.208019,-75.610056
+667,Pennsylvania,2017,Farrell Area Es/Lms,,Farrell,64,98.4,41.2132421,-80.4841176
+668,Pennsylvania,2017,Hilltop Elementary,,Aston,62,98.4,39.8500682,-75.4358394
+669,Pennsylvania,2017,Jackson Primary,,Williamsport,129,98.4,41.2400429,-77.0626736
+670,Pennsylvania,2017,John F. Kennedy #7,,Scranton,64,98.4,41.3838783,-75.6796942
+671,Pennsylvania,2017,Lafayette Elementary,,Uniontown,63,98.4,39.901224,-79.7056848
+672,Pennsylvania,2017,Line Mountain Elementary,,Trevorton,61,98.4,40.7803448,-76.6737201
+673,Pennsylvania,2017,Logan Elementary,,Altoona,63,98.4,40.5300043,-78.3709073
+674,Pennsylvania,2017,Manor Elementary,,Levittown,64,98.4,40.171586,-74.8210258
+675,Pennsylvania,2017,Moshannon Valley Elementary,,Houtzdale,64,98.4,40.826616,-78.401897
+676,Pennsylvania,2017,Muhlenberg Elementary Center,,Reading,256,98.4,40.3928792,-75.9215134
+677,Pennsylvania,2017,Northside Elementary,,Brookville,123,98.4,41.1635968,-79.0806517
+678,Pennsylvania,2017,Northwestern Lehigh Elementary,,New Tripoli,61,98.4,40.681694,-75.7263911
+679,Pennsylvania,2017,Paradise Elementary,,Thomasville,63,98.4,39.9168926,-76.9201214
+680,Pennsylvania,2017,Penn-Lincoln Elementary,,Altoona,61,98.4,40.5112094,-78.3950203
+681,Pennsylvania,2017,Pennell Elementary,,Aston,64,98.4,39.8624084,-75.4296475
+682,Pennsylvania,2017,Russell C Struble Elementary,,Bensalem,64,98.4,40.0991122,-74.9210812
+683,Pennsylvania,2017,Shawmont,,Philadelphia,61,98.4,40.0514782,-75.2386289
+684,Pennsylvania,2017,Shawnee Elementary,,Easton,126,98.4,40.7051494,-75.2283681
+685,Pennsylvania,2017,Shohola Elementary,,Shohola,63,98.4,41.3771558,-74.8947684
+686,Pennsylvania,2017,Tenth Street Elementary,,Oakmont,62,98.4,40.5211364,-79.8326926
+687,Pennsylvania,2017,Tyson-Schoener Elementary,,Reading,126,98.4,40.3301614,-75.9277124
+688,Pennsylvania,2017,Valley Grove Elementary,,Franklin,61,98.4,41.4238031,-79.8804676
+689,Pennsylvania,2017,Alloway Creek Elementary,,Littlestown,117,98.3,39.7523859,-77.0886429
+690,Pennsylvania,2017,Central Columbia Elementary,,Bloomsburg,121,98.3,41.0209495,-76.3655884
+691,Pennsylvania,2017,Clarence M Gockley Elementary,,Whitehall,236,98.3,40.6448736,-75.504688
+692,Pennsylvania,2017,Copper Beech,,Glenside,172,98.3,40.1145738,-75.1385251
+693,Pennsylvania,2017,E M Crouthamel Elementary,,Souderton,58,98.3,40.3121591,-75.3108795
+694,Pennsylvania,2017,Episcopal Academy,,Newtown Square,59,98.3,40.0063008,-75.4250952
+695,Pennsylvania,2017,Forest Hills Elementary,,Sidman,116,98.3,40.330164,-78.7548824
+696,Pennsylvania,2017,Glenwood Elementary,,Media,60,98.3,39.904907,-75.441383
+697,Pennsylvania,2017,Indian Lane Elementary,,Media,59,98.3,39.9041317,-75.4065205
+698,Pennsylvania,2017,Park Elementary,,Munhall,59,98.3,40.3820989,-79.9060582
+699,Pennsylvania,2017,Paxinosa Elementary,,Easton,116,98.3,40.6908524,-75.2272831
+700,Pennsylvania,2017,Pittsburgh Phillips K-5,,Pittsburgh,59,98.3,40.4279079,-79.9782076
+701,Pennsylvania,2017,Richland Elementary,,Johnstown,119,98.3,40.2706198,-78.8402885
+702,Pennsylvania,2017,Southern Fulton Elementary,,Warfordsburg,59,98.3,39.7960906,-78.2000848
+703,Pennsylvania,2017,Uwchlan Hills Elementary,,Downingtown,60,98.3,40.0333802,-75.6801195
+704,Pennsylvania,2017,Washington Elementary,,Pittsburgh,60,98.3,40.378647,-80.045156
+705,Pennsylvania,2017,Widener Partnership Cs,,Chester,60,98.3,39.8593526,-75.3623981
+706,Pennsylvania,2017,Wingate Elementary,,Wingate,60,98.3,40.9361162,-77.812922
+707,Pennsylvania,2017,Allegheny-Clarion Valley Elem,,Foxburg,56,98.2,41.1444255,-79.6753379
+708,Pennsylvania,2017,Allen Dr Ethelementary,,Philadelphia,55,98.2,39.9971422,-75.1839951
+709,Pennsylvania,2017,Benjamin Chambers Elementary,,Chambersburg,114,98.2,39.9436779,-77.6679316
+710,Pennsylvania,2017,Bushkill Elementary,,Dingmans Ferry,55,98.2,41.1705109,-75.0212098
+711,Pennsylvania,2017,Carbondale Elementary,,Carbondale,112,98.2,41.5679874,-75.514899
+712,Pennsylvania,2017,Clarion Area Elementary,,Clarion,55,98.2,41.204222,-79.3842156
+713,Pennsylvania,2017,Cooke Jay Ms,,Philadelphia,56,98.2,40.025576,-75.1460605
+714,Pennsylvania,2017,Dillsburg Elementary,,Dillsburg,56,98.2,40.1068735,-77.0326007
+715,Pennsylvania,2017,Earle C Davis Primary,,North East,112,98.2,42.219332,-79.830026
+716,Pennsylvania,2017,First District Elementary,,Meadville,55,98.2,41.6431637,-80.148179
+717,Pennsylvania,2017,Fulton Elementary,,Lancaster,57,98.2,40.0394493,-76.3103568
+718,Pennsylvania,2017,Greenwood Elementary,,Millerstown,57,98.2,40.5531239,-77.1500661
+719,Pennsylvania,2017,Gwynedd Square Elementary,,Lansdale,56,98.2,40.2224614,-75.3094009
+720,Pennsylvania,2017,Harambee Institute Of Science And Technology Cs,,Philadelphia,57,98.2,39.9732663,-75.2518114
+721,Pennsylvania,2017,Heston Edward,,Philadelphia,57,98.2,39.9777073,-75.2294922
+722,Pennsylvania,2017,Ironton,,Coplay,55,98.2,40.6655516,-75.563468
+723,Pennsylvania,2017,Kiski Area North Primary,,Leechburg,110,98.2,40.6106691,-79.6091498
+724,Pennsylvania,2017,Lakeview Elementary,,Ridley Park,55,98.2,39.8772213,-75.3292837
+725,Pennsylvania,2017,Linwood Elementary,,Linwood,56,98.2,39.8241801,-75.4230615
+726,Pennsylvania,2017,Loganville-Springfield Elementary,,York,110,98.2,39.8609898,-76.7030407
+727,Pennsylvania,2017,Mckinley,,York,55,98.2,39.9523244,-76.729587
+728,Pennsylvania,2017,Newtown Elementary,,Newtown,56,98.2,40.2512505,-74.9503697
+729,Pennsylvania,2017,Olney Elementary,,Philadelphia,114,98.2,40.031012,-75.1207879
+730,Pennsylvania,2017,Penn Bernville Elementary,,Bernville,55,98.2,40.4400585,-76.1176002
+731,Pennsylvania,2017,Portage Area Elementary,,Portage,56,98.2,40.3846582,-78.6631715
+732,Pennsylvania,2017,Ramsey Elementary,,Monroeville,56,98.2,40.4085254,-79.7477105
+733,Pennsylvania,2017,Rose Tree Elementary,,Media,55,98.2,39.9333708,-75.3881177
+734,Pennsylvania,2017,Shamokin Area Elementary,,Coal Township,170,98.2,40.7806809,-76.5898308
+735,Pennsylvania,2017,Smithfield Elementary,,Smithfield,57,98.2,39.8020996,-79.805284
+736,Pennsylvania,2017,Southwest Leadership Academy Cs,,Philadelphia,56,98.2,39.9181336,-75.2425133
+737,Pennsylvania,2017,St Theresa,,New Cumberland,56,98.2,40.2327766,-76.874529
+738,Pennsylvania,2017,Twin Rivers Elementary,,McKeesport,113,98.2,40.3446864,-79.8581667
+739,Pennsylvania,2017,Walton Farm Elementary,,Lansdale,56,98.2,40.2548825,-75.3241415
+740,Pennsylvania,2017,West Greene Elementary Center,,Waynesburg,57,98.2,39.8685417,-80.2845298
+741,Pennsylvania,2017,West Greene Hs,,Waynesburg,57,98.2,39.8687935,-80.2833513
+742,Pennsylvania,2017,West Point Elementary,,Greensburg,56,98.2,40.2701555,-79.5116635
+743,Pennsylvania,2017,Willow Creek Elementary,,Fleetwood,109,98.2,40.4551766,-75.8374643
+744,Pennsylvania,2017,Woodlyn Elementary,,Woodlyn,56,98.2,39.8775515,-75.3418884
+745,Pennsylvania,2017,Belmont Hills Elementary,,Bala Cynwyd,53,98.1,40.0230649,-75.2374952
+746,Pennsylvania,2017,Big Beaver Elementary,,Darlington,53,98.1,40.8059751,-80.3677797
+747,Pennsylvania,2017,Borland Manor Elementary,,Canonsburg,54,98.1,40.2596812,-80.1660557
+748,Pennsylvania,2017,Brecknock Elementary,,Shillington,106,98.1,40.3052744,-75.9626048
+749,Pennsylvania,2017,Central Elementary,,Allison Park,53,98.1,40.5716616,-79.9259162
+750,Pennsylvania,2017,Conneaut Valley Elementary,,Conneautville,52,98.1,41.7802169,-80.3643036
+751,Pennsylvania,2017,Corpus Christi,,Lansdale,52,98.1,40.2256666,-75.3109706
+752,Pennsylvania,2017,Devers,,York,104,98.1,39.9734981,-76.747326
+753,Pennsylvania,2017,Devon Elementary,,Devon,106,98.1,40.0363451,-75.4239258
+754,Pennsylvania,2017,Dunmore Elementary Center,,Dunmore,106,98.1,41.4276886,-75.6355516
+755,Pennsylvania,2017,Jefferson Elementary,,Allentown,107,98.1,40.5910415,-75.4683165
+756,Pennsylvania,2017,Keystone Elementary,,Croydon,156,98.1,40.0875429,-74.8938656
+757,Pennsylvania,2017,Lehigh Parkway Elementary,,Allentown,52,98.1,40.5765407,-75.4847646
+758,Pennsylvania,2017,Marvine Elementary,,Bethlehem,53,98.1,40.6336145,-75.3448961
+759,Pennsylvania,2017,Mast Community Charter,,Philadelphia,103,98.1,40.113756,-75.005228
+760,Pennsylvania,2017,Meyersdale Area Elementary,,Meyersdale,54,98.1,39.7994713,-79.0422857
+761,Pennsylvania,2017,Middleburg Elementary,,Middleburg,103,98.1,40.786999,-77.0340245
+762,Pennsylvania,2017,Mount Rock Elem,,Newville,54,98.1,40.1742124,-77.3807262
+763,Pennsylvania,2017,Patterson John M,,Philadelphia,105,98.1,39.9162271,-75.2367621
+764,Pennsylvania,2017,Pequea Elementary,,Willow Street,53,98.1,39.970038,-76.2877514
+765,Pennsylvania,2017,Pittsburgh Brookline K-8,,Pittsburgh,53,98.1,40.3943124,-80.0247563
+766,Pennsylvania,2017,Plymouth Elementary,,Plymouth Meeting,161,98.1,40.115597,-75.29518
+767,Pennsylvania,2017,Richland Elementary,,Gibsonia,107,98.1,40.6564795,-79.9577404
+768,Pennsylvania,2017,South Fayette Township Elementary,,McDonald,260,98.1,40.3757478,-80.1703262
+769,Pennsylvania,2017,Spring Cove Elementary,,Roaring Spring,108,98.1,40.3329037,-78.3851767
+770,Pennsylvania,2017,St Leo The Great,,Lancaster,53,98.1,40.0553369,-76.3672127
+771,Pennsylvania,2017,St Thomas Elementary,,Saint Thomas,52,98.1,39.9192646,-77.7975018
+772,Pennsylvania,2017,Union Terrace Elementary,,Allentown,106,98.1,40.5932345,-75.4957247
+773,Pennsylvania,2017,W B Evans Magnet,,Yeadon,53,98.1,39.9368616,-75.2520149
+774,Pennsylvania,2017,Warren Area Elementary Center,,Warren,157,98.1,41.8584706,-79.1338885
+775,Pennsylvania,2017,Waterford Elementary,,Waterford,53,98.1,41.944294,-79.983119
+776,Pennsylvania,2017,Yorkshire Elementary,,York,107,98.1,39.974717,-76.6662241
+777,Pennsylvania,2017,Abraham Lincoln Elementary,,Pittsburgh,49,98,40.3542387,-80.0180345
+778,Pennsylvania,2017,Blacklick Valley Elementary Center,,Nanty Glo,49,98,40.4834525,-78.8349315
+779,Pennsylvania,2017,Concord Elementary,,Glen Mills,255,98,39.8725694,-75.5169725
+780,Pennsylvania,2017,Crooked Billet Elementary,,Hatboro,49,98,40.1843222,-75.0997656
+781,Pennsylvania,2017,Early Childhood Lc,,Titusville,147,98,41.630873,-79.6684545
+782,Pennsylvania,2017,Elroy Avenue Elementary,,Pittsburgh,51,98,40.3793402,-79.9730794
+783,Pennsylvania,2017,Fairview Elementary,,Midland,51,98,40.6930327,-80.471239
+784,Pennsylvania,2017,Fawn Primary Center,,Natrona Heights,101,98,40.6478245,-79.7493696
+785,Pennsylvania,2017,Ferndale Elementary,,Johnstown,50,98,40.317132,-78.9311489
+786,Pennsylvania,2017,Folk Arts-Cultural Treasures Cs,,Philadelphia,50,98,39.9590763,-75.1561547
+787,Pennsylvania,2017,K M Smith Elementary,,Nanticoke,153,98,41.1854024,-76.0092464
+788,Pennsylvania,2017,Lathrop Street Elementary,,Montrose,49,98,41.8382331,-75.8658052
+789,Pennsylvania,2017,Lingle Avenue Elementary,,Palmyra,249,98,40.2891334,-76.5935884
+790,Pennsylvania,2017,Luther W Low Elementary,,West Middlesex,51,98,41.1737173,-80.4471152
+791,Pennsylvania,2017,Mcannulty Elementary,,Pittsburgh,198,98,40.3451453,-79.9959424
+792,Pennsylvania,2017,Moscow Elementary,,Moscow,148,98,41.3375078,-75.5344575
+793,Pennsylvania,2017,North Salem Elementary,,Dover,49,98,39.9961534,-76.8629401
+794,Pennsylvania,2017,Northwestern Primary,,Beaver Falls,100,98,40.7699632,-80.3758502
+795,Pennsylvania,2017,Oak Flat Elementary,,Newville,51,98,40.1570414,-77.38534
+796,Pennsylvania,2017,Philadelphia,,Philadelphia,51,98,39.9468884,-75.1822899
+797,Pennsylvania,2017,Ringgold Elementary School North,,Finleyville,100,98,40.2556511,-79.993485
+798,Pennsylvania,2017,Riverside Elementary,,Ellwood City,100,98,40.8330271,-80.2580093
+799,Pennsylvania,2017,St George,,Erie,51,98,42.0775401,-80.0908204
+800,Pennsylvania,2017,St Joan Of Arc,,Hershey,49,98,40.2802779,-76.6556084
+801,Pennsylvania,2017,Sullivan Co Elementary,,Laporte,51,98,41.4196165,-76.4981889
+802,Pennsylvania,2017,Valley View Elementary Center,,Peckville,152,98,41.4786072,-75.5849944
+803,Pennsylvania,2017,Wallenpaupack Pri,,Hawley,149,98,41.457684,-75.1719261
+804,Pennsylvania,2017,Weigelstown Elementary,,Dover,51,98,39.9860043,-76.8246297
+805,Pennsylvania,2017,Bala Cynwyd School For Young Children,,Bala Cynwyd,47,97.9,40.004385,-75.2260088
+806,Pennsylvania,2017,Central Elementary,,Allentown,146,97.9,40.604686,-75.4762449
+807,Pennsylvania,2017,Collegium Cs,,Exton,378,97.9,40.0183528,-75.6536968
+808,Pennsylvania,2017,Edgewood Elementary,,Yardley,97,97.9,40.2254,-74.8374626
+809,Pennsylvania,2017,Eshleman Elementary,,Millersville,48,97.9,40.0130632,-76.3558933
+810,Pennsylvania,2017,Fairview Elementary,,Mountaintop,95,97.9,41.1533946,-75.8787983
+811,Pennsylvania,2017,Falk Laboratory,,Pittsburgh,48,97.9,40.4470871,-79.9597428
+812,Pennsylvania,2017,Glenside Elementary,,Elkins Park,97,97.9,40.0696875,-75.1124743
+813,Pennsylvania,2017,Holy Trinity,,McKees Rocks,47,97.9,40.4524733,-80.1363403
+814,Pennsylvania,2017,Howe Elementary,,Pittsburgh,47,97.9,40.375682,-80.030759
+815,Pennsylvania,2017,Jefferson Elementary,,Pittsburgh,47,97.9,40.381593,-80.06076
+816,Pennsylvania,2017,Lenkerville Elementary,,Millersburg,48,97.9,40.5305911,-76.9634519
+817,Pennsylvania,2017,Logan James,,Philadelphia,48,97.9,40.0308553,-75.1519843
+818,Pennsylvania,2017,Monocacy Elementary Center,,Birdsboro,191,97.9,40.2634844,-75.7632543
+819,Pennsylvania,2017,New Oxford Elementary,,New Oxford,145,97.9,39.86721,-77.0523987
+820,Pennsylvania,2017,Ore Valley Elementary,,York,142,97.9,39.929822,-76.6627566
+821,Pennsylvania,2017,Owatin Creek Elementary,,Reading,94,97.9,40.3210798,-75.8325076
+822,Pennsylvania,2017,Pittsburgh Arsenal K-5,,Pittsburgh,48,97.9,40.4672473,-79.9631665
+823,Pennsylvania,2017,Roundtown Elementary,,York,97,97.9,40.0115453,-76.7531114
+824,Pennsylvania,2017,Saltsburg Elementary,,Saltsburg,47,97.9,40.4908178,-79.4479406
+825,Pennsylvania,2017,St Jane Frances,,Easton,48,97.9,40.6855298,-75.2388939
+826,Pennsylvania,2017,Westmont Hilltop Elementary,,Johnstown,94,97.9,40.3161972,-78.9395386
+827,Pennsylvania,2017,Westtown-Thornbury Elementary,,West Chester,94,97.9,39.9344657,-75.5562372
+828,Pennsylvania,2017,Avonworth Primary Center,,Pittsburgh,139,97.8,40.5422949,-80.0924882
+829,Pennsylvania,2017,Bell Avenue,,Yeadon,46,97.8,39.9267575,-75.251461
+830,Pennsylvania,2017,Bethelementaryelementary,,Bethel,45,97.8,40.4687973,-76.2909739
+831,Pennsylvania,2017,Cardinal John Foley Regional Catholic,,Havertown,45,97.8,39.992285,-75.3024712
+832,Pennsylvania,2017,Center Grange Primary,,Aliquippa,181,97.8,40.6491976,-80.3006748
+833,Pennsylvania,2017,Central Elementary,,Beaver Falls,89,97.8,40.7562637,-80.3216793
+834,Pennsylvania,2017,Clark Wood Elementary,,Elkland,46,97.8,41.9901277,-77.3058772
+835,Pennsylvania,2017,Colebrookdale Elementary,,Boyertown,45,97.8,40.339485,-75.6270405
+836,Pennsylvania,2017,Conshohocken Elementary,,Conshohocken,46,97.8,40.0748685,-75.3033035
+837,Pennsylvania,2017,Duquesne Elementary,,Duquesne,45,97.8,40.3719683,-79.8481977
+838,Pennsylvania,2017,Edgewood Elementary,,Folsom,46,97.8,39.8950384,-75.3299257
+839,Pennsylvania,2017,Hooverville Elementary,,Waynesboro,46,97.8,39.7408015,-77.5374898
+840,Pennsylvania,2017,Howard Gardner Multiple Intelligence Cs,,Scranton,45,97.8,41.3826672,-75.6483642
+841,Pennsylvania,2017,Jeffery Primary,,Glenshaw,45,97.8,40.5239893,-79.9679328
+842,Pennsylvania,2017,Kathryn D. Markley Elementary,,Malvern,90,97.8,40.0436262,-75.5569924
+843,Pennsylvania,2017,Lawnton Elementary,,Harrisburg,46,97.8,40.2608299,-76.8083913
+844,Pennsylvania,2017,Manchester Academic Cs,,Pittsburgh,45,97.8,40.4556267,-80.0239527
+845,Pennsylvania,2017,Mccall Gen George A,,Philadelphia,89,97.8,39.944574,-75.1525771
+846,Pennsylvania,2017,Nye Elementary,,Hummelstown,45,97.8,40.2629017,-76.7126378
+847,Pennsylvania,2017,Pittsburgh Roosevelt K -5,,Pittsburgh,46,97.8,40.4010667,-79.985674
+848,Pennsylvania,2017,Rhawnhurst,,Philadelphia,89,97.8,40.0587689,-75.058103
+849,Pennsylvania,2017,Rockwood Area Elementary,,Rockwood,46,97.8,39.9184177,-79.1607669
+850,Pennsylvania,2017,Shirley Township Elementary,,Mount Union,45,97.8,40.3717856,-77.8704178
+851,Pennsylvania,2017,South Central El,,Canonsburg,91,97.8,40.2548859,-80.1855885
+852,Pennsylvania,2017,Tenth & Penn Elementary,,Reading,89,97.8,40.3354947,-75.9185052
+853,Pennsylvania,2017,Tobyhanna Elementary Center,,Pocono Pines,90,97.8,41.1047878,-75.4771578
+854,Pennsylvania,2017,West Manheim Elementary,,Hanover,92,97.8,39.7598915,-76.954791
+855,Pennsylvania,2017,Whitemarsh Elementary,,Lafayette Hill,89,97.8,40.0986538,-75.2540587
+856,Pennsylvania,2017,Artman Elementary,,Hermitage,175,97.7,41.2387349,-80.4527154
+857,Pennsylvania,2017,Blessed Trinity Regional Catholic,,Philadelphia,44,97.7,40.030232,-75.0600409
+858,Pennsylvania,2017,Bradford Woods Elementary,,Bradford Woods,88,97.7,40.6333569,-80.074318
+859,Pennsylvania,2017,Conestoga Elementary,,Conestoga,44,97.7,39.948223,-76.338048
+860,Pennsylvania,2017,Crafton Elementary,,Pittsburgh,44,97.7,40.431136,-80.0670254
+861,Pennsylvania,2017,Hosack Elementary,,Allison Park,44,97.7,40.5739223,-80.0021349
+862,Pennsylvania,2017,Lehigh Elementary,,Walnutport,88,97.7,40.763655,-75.534083
+863,Pennsylvania,2017,Letort Elementary,,Washington Boro,43,97.7,39.9848822,-76.3980539
+864,Pennsylvania,2017,Manheim Elementary,,Glenville,43,97.7,39.7636885,-76.8550295
+865,Pennsylvania,2017,Mapleview Elementary,,Punxsutawney,43,97.7,40.9639032,-79.0924307
+866,Pennsylvania,2017,March Elementary,,Easton,383,97.7,40.7026472,-75.2044227
+867,Pennsylvania,2017,Mcdonald Elementary,,Warminster,132,97.7,40.1898168,-75.0665227
+868,Pennsylvania,2017,Mckinley Elementary,,Erie,87,97.7,42.1224182,-80.0543838
+869,Pennsylvania,2017,Newberry Elementary,,Etters,44,97.7,40.1306831,-76.8010543
+870,Pennsylvania,2017,Plainfield Elementary,,Nazareth,86,97.7,40.7891388,-75.2778321
+871,Pennsylvania,2017,School Of Saint Jude,,Chalfont,43,97.7,40.2775256,-75.2176927
+872,Pennsylvania,2017,St Margaret,,Narberth,43,97.7,40.0085287,-75.2610682
+873,Pennsylvania,2017,State Street Elementary,,Baden,44,97.7,40.6302046,-80.2248117
+874,Pennsylvania,2017,West Crawford Elementary,,Connellsville,87,97.7,40.0117138,-79.6159403
+875,Pennsylvania,2017,Young Scholars Of Mckeesport Charter,,Pittsburgh,44,97.7,40.3500552,-79.8629855
+876,Pennsylvania,2017,Baresville Elementary,,Hanover,83,97.6,39.8038101,-76.9647561
+877,Pennsylvania,2017,Blain Elementary,,Blain,42,97.6,40.3395374,-77.5139633
+878,Pennsylvania,2017,Chestnutwold Elementary,,Ardmore,82,97.6,39.9975887,-75.3005832
+879,Pennsylvania,2017,East Vincent Elementary,,Spring City,84,97.6,40.1667949,-75.6032993
+880,Pennsylvania,2017,Fermanagh-Mifflintown Elementary,,Mifflintown,41,97.6,40.5717507,-77.3886247
+881,Pennsylvania,2017,Fox Chase,,Philadelphia,85,97.6,40.0748944,-75.0808228
+882,Pennsylvania,2017,Jeannette Mckee Elementary,,Jeannette,82,97.6,40.316218,-79.6168252
+883,Pennsylvania,2017,Jordan Bank,,Oxford,253,97.6,39.7809886,-75.9731623
+884,Pennsylvania,2017,Leaders Heights Elementary,,York,41,97.6,39.9112076,-76.7169672
+885,Pennsylvania,2017,Mcnichols Plaza,,Scranton,84,97.6,41.3915299,-75.6644631
+886,Pennsylvania,2017,Mountain View Elementary,,Mercersburg,42,97.6,39.8862573,-77.8973403
+887,Pennsylvania,2017,New Emerson Elementary,,West Mifflin,42,97.6,40.3628542,-79.8649928
+888,Pennsylvania,2017,New Franklin Elementary,,Chambersburg,42,97.6,39.8777583,-77.6353573
+889,Pennsylvania,2017,Our Lady Of Victory,,State College,42,97.6,40.7813562,-77.8656303
+890,Pennsylvania,2017,Pittsburgh Dilworth K-5,,Pittsburgh,84,97.6,40.4681927,-79.9174553
+891,Pennsylvania,2017,Pivik Elementary,,Plum,85,97.6,40.4921853,-79.7547915
+892,Pennsylvania,2017,Poff Elementary,,Gibsonia,41,97.6,40.6074741,-79.9399063
+893,Pennsylvania,2017,Springfield Elementary,,Normalville,41,97.6,39.999434,-79.4480201
+894,Pennsylvania,2017,St Joseph,,Mechanicsburg,42,97.6,40.2133036,-76.998593
+895,Pennsylvania,2017,Stony Creek Elementary,,Blue Bell,82,97.6,40.1653414,-75.3104282
+896,Pennsylvania,2017,Upper Dauphin Area Elementary,,Lykens,85,97.6,40.5663193,-76.7567431
+897,Pennsylvania,2017,Wallingford Elementary,,Wallingford,83,97.6,39.9017546,-75.3737059
+898,Pennsylvania,2017,West Hempfield Elementary,,Irwin,82,97.6,40.3004747,-79.6779245
+899,Pennsylvania,2017,Westfield Area Elementary,,Westfield,42,97.6,41.9179711,-77.5551353
+900,Pennsylvania,2017,William Penn Charter,,Philadelphia,41,97.6,40.0221229,-75.1868868
+901,Pennsylvania,2017,Winchester Thurston,,Pittsburgh,41,97.6,40.4515469,-79.9420046
+902,Pennsylvania,2017,Ben Franklin Elementary,,Indiana,119,97.5,40.620291,-79.1924895
+903,Pennsylvania,2017,Blessed Sacrament,,Erie,40,97.5,42.0991371,-80.1104041
+904,Pennsylvania,2017,Claysville Elementary,,Claysville,79,97.5,40.1175788,-80.4147516
+905,Pennsylvania,2017,Conneaut Lake-Sadsbury Elementary,,Conneaut Lake,79,97.5,41.6051192,-80.3089695
+906,Pennsylvania,2017,Edinboro Elementary,,Edinboro,81,97.5,41.8820271,-80.1486249
+907,Pennsylvania,2017,Eisenhower Elementary,,Russell,40,97.5,41.963453,-79.203232
+908,Pennsylvania,2017,Fawn Area Elementary,,Fawn Grove,40,97.5,39.7317269,-76.4684709
+909,Pennsylvania,2017,Fink Elementary,,Middletown,40,97.5,40.1970876,-76.7250649
+910,Pennsylvania,2017,Kenneth N Butz Jr Elementary,,Nazareth,81,97.5,40.7921258,-75.3223486
+911,Pennsylvania,2017,Liberty-Curtin Elementary,,Blanchard,40,97.5,41.067565,-77.5988339
+912,Pennsylvania,2017,Locust Grove Elementary,,York,40,97.5,39.9612656,-76.6210409
+913,Pennsylvania,2017,North Clarion Co Elementary,,Tionesta,40,97.5,41.393531,-79.357629
+914,Pennsylvania,2017,Penn Alexander,,Philadelphia,81,97.5,39.9531373,-75.2082387
+915,Pennsylvania,2017,Propel Cs-East,,Pittsburgh,40,97.5,40.4093642,-79.8173738
+916,Pennsylvania,2017,Propel Cs-Mckeesport,,Pittsburgh,40,97.5,40.3454377,-79.8503321
+917,Pennsylvania,2017,Salem Elementary,,Berwick,81,97.5,41.0652009,-76.2250082
+918,Pennsylvania,2017,Springton Manor Elementary,,Glenmoore,81,97.5,40.086042,-75.783087
+919,Pennsylvania,2017,Willow Lane Elementary,,Macungie,79,97.5,40.5327127,-75.5666972
+920,Pennsylvania,2017,Wilmington Area Elementary,,New Wilmington,80,97.5,41.1265196,-80.3397014
+921,Pennsylvania,2017,Wyland Elementary,,Allison Park,40,97.5,40.5616444,-79.978036
+922,Pennsylvania,2017,Ardmore Avenue,,Lansdowne,76,97.4,39.9424021,-75.2806994
+923,Pennsylvania,2017,Bart-Colerain Elementary,,Christiana,39,97.4,39.8887675,-76.0734276
+924,Pennsylvania,2017,Dallastown Elementary,,Dallastown,38,97.4,39.8989795,-76.6414488
+925,Pennsylvania,2017,Dassa Mckinney Elementary,,West Sunbury,78,97.4,41.0010936,-79.8802073
+926,Pennsylvania,2017,Evans Falls Elementary,,Tunkhannock,39,97.4,41.4608405,-76.024134
+927,Pennsylvania,2017,Francis H Sheckler Elementary,,Catasauqua,116,97.4,40.655873,-75.4575954
+928,Pennsylvania,2017,Highland Elementary,,Ephrata,77,97.4,40.182827,-76.177929
+929,Pennsylvania,2017,Hillendale Elementary,,Chadds Ford,39,97.4,39.8605801,-75.637642
+930,Pennsylvania,2017,Holy Cross Academy,,Pittsburgh,39,97.4,40.5294071,-80.0106167
+931,Pennsylvania,2017,Kindergarten Center At Filbert St,,Mechanicsburg,386,97.4,40.2096287,-76.9959201
+932,Pennsylvania,2017,Lampeter Elementary,,Lampeter,230,97.4,39.997633,-76.23396
+933,Pennsylvania,2017,Lehigh Valley Academy Regional Cs,,Bethlehem,151,97.4,40.654333,-75.409875
+934,Pennsylvania,2017,Lehman-Jackson Elementary,,Lehman,39,97.4,41.3136283,-76.0204124
+935,Pennsylvania,2017,Lincoln Elementary,,Pottstown,76,97.4,40.2559065,-75.6482376
+936,Pennsylvania,2017,Masontown Elementary,,Masontown,38,97.4,39.8481463,-79.9028861
+937,Pennsylvania,2017,Mother Teresa Regional Catholic,,King of Prussia,38,97.4,40.0942765,-75.3905715
+938,Pennsylvania,2017,Mt Wolf Elementary,,Mt Wolf,39,97.4,40.0605586,-76.7038669
+939,Pennsylvania,2017,Newport Elementary,,Newport,78,97.4,40.4839522,-77.139654
+940,Pennsylvania,2017,Penn Valley,,Narberth,77,97.4,40.0215972,-75.2644493
+941,Pennsylvania,2017,Roberts Elementary,,Wayne,76,97.4,40.0742619,-75.3857765
+942,Pennsylvania,2017,Silver Spring Elementary,,Mechanicsburg,76,97.4,40.2419513,-77.0649531
+943,Pennsylvania,2017,Sol Feinstone Elementary,,Newtown,38,97.4,40.2908295,-74.9382125
+944,Pennsylvania,2017,South Side Elementary,,Harrisburg,116,97.4,40.2787741,-76.8060687
+945,Pennsylvania,2017,Twelfth & Marion Elementary,,Reading,116,97.4,40.3537446,-75.9142013
+946,Pennsylvania,2017,Wescosville Elementary,,Wescosville,76,97.4,40.5626328,-75.5550862
+947,Pennsylvania,2017,Belmont Hills Elementary,,Bensalem,74,97.3,40.1432761,-74.942706
+948,Pennsylvania,2017,Blue Ridge Elementary,,New Milford,73,97.3,41.8991006,-75.7375888
+949,Pennsylvania,2017,Bower Hill Elementary,,Venetia,150,97.3,40.2608469,-80.0649194
+950,Pennsylvania,2017,Charlotte Lappla Elementary,,Wellsboro,110,97.3,41.7421669,-77.2988957
+951,Pennsylvania,2017,Dr David W Kistler Elementary,,Wilkes Barre,150,97.3,41.2405951,-75.911092
+952,Pennsylvania,2017,East Goshen Elementary,,West Chester,74,97.3,39.9929588,-75.5442962
+953,Pennsylvania,2017,Grandview Elementary,,Derry,148,97.3,40.343839,-79.309398
+954,Pennsylvania,2017,Holiday Park Elementary,,Pittsburgh,74,97.3,40.472791,-79.7147664
+955,Pennsylvania,2017,Isaac Tripp Elementary,,Scranton,110,97.3,41.4308514,-75.6796309
+956,Pennsylvania,2017,John F Kennedy,,Washington,37,97.3,40.1729715,-80.2494259
+957,Pennsylvania,2017,Mastery Cs - Hardy Williams,,Philadelphia,73,97.3,39.9417623,-75.2286943
+958,Pennsylvania,2017,Mcconnellsburg Elementary,,McConnellsburg,73,97.3,39.9289946,-77.9973832
+959,Pennsylvania,2017,Mckee Elementary,,Oakdale,75,97.3,40.4158911,-80.1934346
+960,Pennsylvania,2017,Media Elementary,,Media,73,97.3,39.9181945,-75.3867541
+961,Pennsylvania,2017,Mowrie A Ebner Elementary,,Altoona,75,97.3,40.4835246,-78.4382025
+962,Pennsylvania,2017,Northwest Elementary,,Reading,113,97.3,40.347459,-75.946043
+963,Pennsylvania,2017,Quarry Hill Elementary,,Yardley,73,97.3,40.2449407,-74.8733727
+964,Pennsylvania,2017,Robeson Elementary Center,,Birdsboro,75,97.3,40.2448738,-75.8700609
+965,Pennsylvania,2017,Spring Farms Elementary,,Three Springs,37,97.3,40.197202,-78.009535
+966,Pennsylvania,2017,State Elementary Center,,Larksville,222,97.3,41.2607611,-75.9290197
+967,Pennsylvania,2017,Sugar Valley Rural Cs,,Loganton,37,97.3,41.0356123,-77.2982239
+968,Pennsylvania,2017,Turbotville Elementary,,Turbotville,112,97.3,41.0977408,-76.7716978
+969,Pennsylvania,2017,Union City Elementary,,Union City,74,97.3,41.8877772,-79.8443798
+970,Pennsylvania,2017,Valley Forge Elementary,,Wayne,75,97.3,40.077532,-75.436638
+971,Pennsylvania,2017,West Hills Primary,,Kittanning,150,97.3,40.8317569,-79.5592025
+972,Pennsylvania,2017,Woodward Elementary,,Lock Haven,37,97.3,41.1413749,-77.429858
+973,Pennsylvania,2017,Wycallis Elementary,,Dallas,75,97.3,41.3448109,-75.9519193
+974,Pennsylvania,2017,Young Scholars Of Western Pennsylvania Cs,,Baldwin Township,37,97.3,40.3766172,-80.0189709
+975,Pennsylvania,2017,Arthur Chester A,,Philadelphia,36,97.2,39.941935,-75.1766086
+976,Pennsylvania,2017,Chadds Ford Elementary,,Chadds Ford,36,97.2,39.8736003,-75.5994393
+977,Pennsylvania,2017,Dunbar Paul L,,Philadelphia,36,97.2,39.9792737,-75.154082
+978,Pennsylvania,2017,Elk Valley Elementary,,Lake City,108,97.2,42.0093507,-80.344809
+979,Pennsylvania,2017,Exton Elementary,,Exton,109,97.2,40.0236283,-75.620757
+980,Pennsylvania,2017,Forbes Road Elementary,,Waterfall,36,97.2,40.0819989,-78.0654423
+981,Pennsylvania,2017,Germantown Friends,,Philadelphia,36,97.2,40.0328163,-75.1711957
+982,Pennsylvania,2017,Greencastle-Antrim Pri,,Greencastle,212,97.2,39.781885,-77.7201235
+983,Pennsylvania,2017,Kreutz Creek Elementary,,Hellam,72,97.2,40.0056217,-76.6110004
+984,Pennsylvania,2017,Ludlow James R,,Philadelphia,36,97.2,39.9725165,-75.1457592
+985,Pennsylvania,2017,Mastery Cs - Francis D. Pastorius Elementary,,Philadelphia,72,97.2,40.0479221,-75.1638864
+986,Pennsylvania,2017,Mother Of Providence Regional Catholic,,Wallingford,36,97.2,39.8844337,-75.3680846
+987,Pennsylvania,2017,Mountain View Elementary,,Harrisburg,71,97.2,40.323425,-76.801664
+988,Pennsylvania,2017,Northwest Elementary,,Lebanon,108,97.2,40.3471458,-76.4366031
+989,Pennsylvania,2017,Patricia A Guth Elementary,,Perkasie,72,97.2,40.3791149,-75.288079
+990,Pennsylvania,2017,Rohrerstown Elementary,,Lancaster,36,97.2,40.0488588,-76.364503
+991,Pennsylvania,2017,Ross Elementary,,Sweet Valley,36,97.2,41.2688515,-76.1513438
+992,Pennsylvania,2017,Sheffield Area Elementary,,Sheffield,36,97.2,41.7163167,-79.0453327
+993,Pennsylvania,2017,St Kilian Catholic,,Cranberry Twp.,72,97.2,40.6836182,-80.0746303
+994,Pennsylvania,2017,Stanton Edwin M,,Philadelphia,36,97.2,39.940469,-75.1709736
+995,Pennsylvania,2017,Trinity East Elementary,,Washington,71,97.2,40.1886355,-80.2098835
+996,Pennsylvania,2017,W.A. Mccreery Elementary,,Marion Center,36,97.2,40.7707527,-79.0550079
+997,Pennsylvania,2017,West Hill Elementary,,Sharon,36,97.2,41.2352285,-80.5148639
+998,Pennsylvania,2017,West Rockhill Elementary,,Sellersville,36,97.2,40.367634,-75.3258217
+999,Pennsylvania,2017,Allison Park Elementary,,Houston,102,97.1,40.231664,-80.2269031
+1000,Pennsylvania,2017,Candlebrook Elementary,,King of Prussia,69,97.1,40.0979354,-75.3733825
+1001,Pennsylvania,2017,Canton Area Elementary,,Canton,68,97.1,41.659992,-76.84075
+1002,Pennsylvania,2017,Curtisville Pri Ctr,,Tarentum,140,97.1,40.644584,-79.848481
+1003,Pennsylvania,2017,Denver Elementary,,Denver,68,97.1,40.2263937,-76.1549033
+1004,Pennsylvania,2017,Elizabeth R Martin Elementary,,Lancaster,70,97.1,40.0086009,-76.3405207
+1005,Pennsylvania,2017,Glen Montessori,,Pittsburgh,35,97.1,40.5358191,-80.0354961
+1006,Pennsylvania,2017,Hanover Elementary,,Bethlehem,35,97.1,40.6683718,-75.4019675
+1007,Pennsylvania,2017,Lea Henry C,,Philadelphia,69,97.1,39.9543762,-75.2163432
+1008,Pennsylvania,2017,Leib Elementary,,Dover,70,97.1,39.97154,-76.8297852
+1009,Pennsylvania,2017,Lionville Elementary,,Downingtown,103,97.1,40.0414219,-75.6638868
+1010,Pennsylvania,2017,Mccloskey John F,,Philadelphia,34,97.1,40.081365,-75.1755111
+1011,Pennsylvania,2017,Moore,,Pittsburgh,35,97.1,40.3687751,-79.9743447
+1012,Pennsylvania,2017,Northern Elementary,,Dillsburg,68,97.1,40.0937144,-77.0311002
+1013,Pennsylvania,2017,Northwest Area Primary,,Shickshinny,68,97.1,41.1925258,-76.2330552
+1014,Pennsylvania,2017,Oak Ridge Elementary,,Harleysville,68,97.1,40.26764,-75.38755
+1015,Pennsylvania,2017,Pittsburgh Lincoln K-5,,Pittsburgh,34,97.1,40.460111,-79.9120989
+1016,Pennsylvania,2017,Providence Elementary,,New Providence,68,97.1,39.9174738,-76.2070458
+1017,Pennsylvania,2017,Sporting Hill Elementary,,Mechanicsburg,138,97.1,40.234185,-76.9742721
+1018,Pennsylvania,2017,Twin Valley Elementary Center,,Elverson,69,97.1,40.1537832,-75.84299
+1019,Pennsylvania,2017,W R Croman Primary,,Troy,140,97.1,41.7791706,-76.7918987
+1020,Pennsylvania,2017,Wexford Elementary,,Wexford,105,97.1,40.6230855,-80.046856
+1021,Pennsylvania,2017,Cambridge Springs Elementary,,Cambridge Springs,67,97,41.7994925,-80.0657156
+1022,Pennsylvania,2017,East Derry Elementary,,Lewistown,67,97,40.6309772,-77.4991708
+1023,Pennsylvania,2017,Friends Central,,Wynnewood,33,97,39.98391,-75.261518
+1024,Pennsylvania,2017,Gideon Edward,,Philadelphia,33,97,39.9845391,-75.1806211
+1025,Pennsylvania,2017,Groveland Elementary,,Doylestown,99,97,40.3604803,-75.1427281
+1026,Pennsylvania,2017,Inglewood Elementary,,Lansdale,66,97,40.2492569,-75.3057303
+1027,Pennsylvania,2017,Macungie Elementary,,Macungie,66,97,40.5132646,-75.5424965
+1028,Pennsylvania,2017,Marzolf Primary,,Pittsburgh,99,97,40.5134213,-79.9660442
+1029,Pennsylvania,2017,New Hope-Solebury Lower Elementary,,Solebury,67,97,40.3812339,-75.008484
+1030,Pennsylvania,2017,Propel Cs - Hazelwood,,Pittsburgh,33,97,40.4040116,-79.9383495
+1031,Pennsylvania,2017,Saegertown Elementary,,Saegertown,67,97,41.7246184,-80.1673081
+1032,Pennsylvania,2017,Valley Elementary,,Bensalem,99,97,40.1418247,-74.9276362
+1033,Pennsylvania,2017,Center Elementary,,Pittsburgh,64,96.9,40.4807446,-79.7594439
+1034,Pennsylvania,2017,Cleona Elementary,,Cleona,96,96.9,40.3350795,-76.4732083
+1035,Pennsylvania,2017,Dock Mennonite Academy (Elem),,Souderton,32,96.9,40.3053648,-75.3499857
+1036,Pennsylvania,2017,Donegal Primary,,Mount Joy,224,96.9,40.0969068,-76.5073018
+1037,Pennsylvania,2017,Franklin Elementary,,Sewickley,32,96.9,40.5865001,-80.0964415
+1038,Pennsylvania,2017,Germantown Academy,,Fort Washington,32,96.9,40.1372446,-75.2152877
+1039,Pennsylvania,2017,Hayshire Elementary,,York,129,96.9,40.0056822,-76.7311181
+1040,Pennsylvania,2017,Hazle Township Early Learning Center,,Hazle Township,163,96.9,40.97299,-75.992782
+1041,Pennsylvania,2017,Highcliff Elementary,,Pittsburgh,98,96.9,40.5250046,-80.0561125
+1042,Pennsylvania,2017,Indian Valley Elementary,,Reedsville,98,96.9,40.6892551,-77.5942252
+1043,Pennsylvania,2017,Juniata Gap Elementary,,Altoona,97,96.9,40.5458327,-78.4219712
+1044,Pennsylvania,2017,Kelly Elementary,,Lewisburg,159,96.9,40.9888467,-76.8981571
+1045,Pennsylvania,2017,Kerr Elementary,,Pittsburgh,64,96.9,40.5129629,-79.9186799
+1046,Pennsylvania,2017,Maplewood Elementary,,Townville,64,96.9,41.684838,-79.8938013
+1047,Pennsylvania,2017,Northern Bedford Co Elementary,,Loysburg,65,96.9,40.1778536,-78.3805178
+1048,Pennsylvania,2017,Pittsburgh Fulton K-5,,Pittsburgh,64,96.9,40.4749256,-79.9219774
+1049,Pennsylvania,2017,Renovo Elementary,,Renovo,32,96.9,41.3368952,-77.7088506
+1050,Pennsylvania,2017,Robison Elementary,,Erie,64,96.9,42.047056,-80.067662
+1051,Pennsylvania,2017,Rowan Elementary,,Cranberry Twp,97,96.9,40.7048748,-80.095482
+1052,Pennsylvania,2017,South Elementary,,Trappe,96,96.9,40.2004567,-75.4654236
+1053,Pennsylvania,2017,South Lebanon Elementary,,Lebanon,97,96.9,40.3166054,-76.3661367
+1054,Pennsylvania,2017,Spring Grove Elementary,,Spring Grove,129,96.9,39.8869817,-76.8757099
+1055,Pennsylvania,2017,Tracy Elementary,,Erie,65,96.9,42.1090152,-80.143209
+1056,Pennsylvania,2017,Abington Friends,,Jenkintown,31,96.8,40.0945616,-75.1213353
+1057,Pennsylvania,2017,Belle Valley Elementary,,Erie,94,96.8,42.0983464,-80.026274
+1058,Pennsylvania,2017,Fairview Elementary,,Fairview,126,96.8,42.0237672,-80.2484426
+1059,Pennsylvania,2017,Five Points Elementary,,Bangor,93,96.8,40.877919,-75.151543
+1060,Pennsylvania,2017,Greenock Elementary,,McKeesport,63,96.8,40.3118808,-79.8028997
+1061,Pennsylvania,2017,Hamilton Heights Elementary,,Chambersburg,95,96.8,39.9538342,-77.6859121
+1062,Pennsylvania,2017,Hillcrest Elementary,,Holland,62,96.8,40.1937424,-74.9679424
+1063,Pennsylvania,2017,Juniata Elementary,,DuBois,62,96.8,41.1311946,-78.7585735
+1064,Pennsylvania,2017,Lincoln Elementary,,Emmaus,62,96.8,40.5399718,-75.4950519
+1065,Pennsylvania,2017,Marshall Elementary,,Uniontown,63,96.8,39.9247581,-79.6828352
+1066,Pennsylvania,2017,Middlesex Elementary,,Carlisle,63,96.8,40.2557073,-77.14224
+1067,Pennsylvania,2017,New Bloomfield Elementary,,New Bloomfield,62,96.8,40.4179561,-77.1965911
+1068,Pennsylvania,2017,Our Lady Of Calvary,,Philadelphia,94,96.8,40.0793642,-74.9789414
+1069,Pennsylvania,2017,Paxtonia Elementary,,Harrisburg,95,96.8,40.3201433,-76.7832043
+1070,Pennsylvania,2017,Propel Cs-Braddock Hills,,Pittsburgh,62,96.8,40.4149713,-79.8555563
+1071,Pennsylvania,2017,Sandycreek Elementary,,Franklin,63,96.8,41.3707143,-79.8466924
+1072,Pennsylvania,2017,School Lane Cs,,Bensalem,125,96.8,40.0799397,-74.9474551
+1073,Pennsylvania,2017,St Isidore,,Quakertown,31,96.8,40.442044,-75.341802
+1074,Pennsylvania,2017,Trafford Elementary,,Trafford,31,96.8,40.3790619,-79.7635356
+1075,Pennsylvania,2017,Trinity West Elementary,,Washington,62,96.8,40.1561175,-80.2632328
+1076,Pennsylvania,2017,Allen Ethan,,Philadelphia,90,96.7,40.0296643,-75.0614797
+1077,Pennsylvania,2017,Baden Academy Cs,,Baden,90,96.7,40.6495654,-80.2324389
+1078,Pennsylvania,2017,Corl Street Elementary,,State College,30,96.7,40.7828513,-77.8725995
+1079,Pennsylvania,2017,Grace S Beck,,Sunbury,60,96.7,40.8615092,-76.7867839
+1080,Pennsylvania,2017,Haverford,,Haverford,30,96.7,40.0138543,-75.3054159
+1081,Pennsylvania,2017,Hempfield Elementary,,Greenville,92,96.7,41.393093,-80.3648293
+1082,Pennsylvania,2017,Jackson Elementary,,Johnstown,30,96.7,40.4417705,-78.8433523
+1083,Pennsylvania,2017,Kiski Area East Primary,,Vandergrift,91,96.7,40.5987362,-79.5667365
+1084,Pennsylvania,2017,Logan Elementary,,North Versailles,150,96.7,40.363763,-79.7901499
+1085,Pennsylvania,2017,Marshall Elementary,,Wexford,121,96.7,40.6435818,-80.0912957
+1086,Pennsylvania,2017,Mcknight Elementary,,Pittsburgh,120,96.7,40.570787,-80.028183
+1087,Pennsylvania,2017,Mount Carmel Area Elementary,,Mount Carmel,122,96.7,40.7910432,-76.4244574
+1088,Pennsylvania,2017,R&R Perelman Jewish D S-Stern,,Wynnewood,30,96.7,39.9824224,-75.2699117
+1089,Pennsylvania,2017,Rheems Elementary,,Rheems,91,96.7,40.128088,-76.571302
+1090,Pennsylvania,2017,Ringing Rocks Elementary,,Pottstown,150,96.7,40.2663652,-75.6193063
+1091,Pennsylvania,2017,Rochester Area Elementary,,Rochester,60,96.7,40.7079478,-80.2788288
+1092,Pennsylvania,2017,Roosevelt Elementary,,Allentown,121,96.7,40.5896552,-75.4562124
+1093,Pennsylvania,2017,Salford Hills Elementary,,Harleysville,61,96.7,40.3102566,-75.4375469
+1094,Pennsylvania,2017,Shade Gap Elementary,,Shade Gap,30,96.7,40.1841776,-77.8604134
+1095,Pennsylvania,2017,Shenango Elementary,,New Castle,90,96.7,40.9694341,-80.3159138
+1096,Pennsylvania,2017,St Francis Xavier,,Philadelphia,30,96.7,39.9665773,-75.1768904
+1097,Pennsylvania,2017,St Katherine Of Siena,,Philadelphia,60,96.7,40.0601897,-74.9930654
+1098,Pennsylvania,2017,Tilden Elementarycenter,,Hamburg,90,96.7,40.5495811,-76.0002906
+1099,Pennsylvania,2017,Universal Institute Cs,,Philadelphia,61,96.7,39.9408349,-75.16775
+1100,Pennsylvania,2017,West Berwick Elementary,,Berwick,92,96.7,41.0534719,-76.2490879
+1101,Pennsylvania,2017,Woodland Hills Academy,,Turtle Creek,61,96.7,40.4054616,-79.8238633
+1102,Pennsylvania,2017,Young Scholars Of Central Pa Cs,,State College,60,96.7,40.7761434,-77.8748066
+1103,Pennsylvania,2017,Adamstown Elementary,,Adamstown,58,96.6,40.2403532,-76.0628978
+1104,Pennsylvania,2017,Bon Air Elementary,,Lower Burrell,118,96.6,40.5841201,-79.7064315
+1105,Pennsylvania,2017,Boothwyn Elementary,,Boothwyn,58,96.6,39.8247525,-75.4420907
+1106,Pennsylvania,2017,Butler Elementary,,Chalfont,89,96.6,40.2695453,-75.2113247
+1107,Pennsylvania,2017,Catharine Joseph,,Philadelphia,88,96.6,39.9280146,-75.2395017
+1108,Pennsylvania,2017,Cetronia,,Allentown,87,96.6,40.5855874,-75.5334663
+1109,Pennsylvania,2017,Chambers Hill Elementary,,Harrisburg,29,96.6,40.2554743,-76.7776629
+1110,Pennsylvania,2017,Cheston Elementary,,Easton,88,96.6,40.6762598,-75.2183957
+1111,Pennsylvania,2017,Clearfield Area Elementary,,Clearfield,148,96.6,41.03724,-78.437218
+1112,Pennsylvania,2017,Comly Watson,,Philadelphia,89,96.6,40.1211258,-75.0089051
+1113,Pennsylvania,2017,Conrad Weiser East Elementary,,Wernersville,89,96.6,40.3243733,-76.0790513
+1114,Pennsylvania,2017,Dana Elementary Center,,Forty Fort,89,96.6,41.2839586,-75.8767132
+1115,Pennsylvania,2017,Donegan Elementary,,Bethlehem,87,96.6,40.6106723,-75.3601974
+1116,Pennsylvania,2017,Harry S Truman Elementary,,Allentown,58,96.6,40.5884357,-75.429003
+1117,Pennsylvania,2017,Harry W Lockley Early Learning Center,,New Castle,265,96.6,41.001501,-80.328193
+1118,Pennsylvania,2017,Hatfield Elementary,,Uniontown,58,96.6,39.8798224,-79.7277582
+1119,Pennsylvania,2017,Jenks Abram,,Philadelphia,58,96.6,39.9188475,-75.1682185
+1120,Pennsylvania,2017,Keystone Elementary,,Knox,59,96.6,41.2301442,-79.5334351
+1121,Pennsylvania,2017,North Side Elementary,,Harrisburg,89,96.6,40.3067274,-76.8162672
+1122,Pennsylvania,2017,Northwestern Elementary,,Albion,58,96.6,41.8879463,-80.3508255
+1123,Pennsylvania,2017,Scotland Elementary,,Chambersburg,89,96.6,39.9686715,-77.5836677
+1124,Pennsylvania,2017,Snyder Elementary,,Sayre,89,96.6,41.9895743,-76.5308765
+1125,Pennsylvania,2017,Solomon/Plains Elementary,,Plains,87,96.6,41.2715784,-75.8499084
+1126,Pennsylvania,2017,South Side Elementary,,Hookstown,58,96.6,40.5682309,-80.4378676
+1127,Pennsylvania,2017,Wyomissing Hills Elementary Center,,Wyomissing,147,96.6,40.3347399,-75.9787726
+1128,Pennsylvania,2017,York Township Elementary,,York,87,96.6,39.912856,-76.6837916
+1129,Pennsylvania,2017,Ancillae Assumpta Academy,,Wyncote,57,96.5,40.0909195,-75.1568526
+1130,Pennsylvania,2017,Bermudian Springs Elementary,,York Springs,141,96.5,39.9807246,-77.0829148
+1131,Pennsylvania,2017,Clear Run Elementary Center,,Tobyhanna,259,96.5,41.1538008,-75.3845118
+1132,Pennsylvania,2017,East Pennsboro Elementary,,Enola,114,96.5,40.2983092,-76.9451783
+1133,Pennsylvania,2017,Girard Stephen,,Philadelphia,86,96.5,39.9245552,-75.1769469
+1134,Pennsylvania,2017,Greenberg Joseph,,Philadelphia,85,96.5,40.0956743,-75.0573809
+1135,Pennsylvania,2017,Kelly John B,,Philadelphia,143,96.5,40.0249608,-75.1723224
+1136,Pennsylvania,2017,Latrobe Elementary,,Latrobe,85,96.5,40.3078396,-79.3754984
+1137,Pennsylvania,2017,Lewistown Elementary,,Lewistown,143,96.5,40.5948595,-77.5600983
+1138,Pennsylvania,2017,Perry Elementary,,Shoemakersville,57,96.5,40.4990225,-75.9669728
+1139,Pennsylvania,2017,Pittston Area Pri Ctr,,Pittston,230,96.5,41.3246433,-75.7648516
+1140,Pennsylvania,2017,Reamstown Elementary,,Reamstown,57,96.5,40.2080491,-76.1259413
+1141,Pennsylvania,2017,Redbank Valley Primary,,New Bethlehem,86,96.5,41.0058305,-79.3298423
+1142,Pennsylvania,2017,Shannock Valley Elementary,,Rural Valley,57,96.5,40.8006127,-79.3176895
+1143,Pennsylvania,2017,Simmons Elementary,,Horsham,114,96.5,40.1988066,-75.1704073
+1144,Pennsylvania,2017,Tri-Community Elementary,,Steelton,57,96.5,40.2333925,-76.8207856
+1145,Pennsylvania,2017,Wyncote Elementary,,Wyncote,86,96.5,40.0894451,-75.1534527
+1146,Pennsylvania,2017,Anderson Add B,,Philadelphia,55,96.4,39.9467338,-75.2454354
+1147,Pennsylvania,2017,Bala House,,Bala Cynwyd,28,96.4,40.0029983,-75.226719
+1148,Pennsylvania,2017,Connoquenessing Valley Elementary,,Zelienople,137,96.4,40.7931025,-80.1264298
+1149,Pennsylvania,2017,Early Childhood Edu Ctr,,Minersville,84,96.4,40.6789913,-76.2734326
+1150,Pennsylvania,2017,Elderton Elementary,,Elderton,28,96.4,40.6921813,-79.340354
+1151,Pennsylvania,2017,Fairview Elementary,,New Cumberland,28,96.4,40.1995338,-76.8856042
+1152,Pennsylvania,2017,Fritz Elementary,,Lancaster,83,96.4,40.0759155,-76.2422438
+1153,Pennsylvania,2017,Hasson Heights,,Oil City,84,96.4,41.4415527,-79.6858697
+1154,Pennsylvania,2017,Jackson Early Childhood Center,,Allentown,249,96.4,40.6055243,-75.4909257
+1155,Pennsylvania,2017,James Burd Elementary,,Shippensburg,110,96.4,40.0525525,-77.504525
+1156,Pennsylvania,2017,John Adams #4,,Scranton,56,96.4,41.4196222,-75.657223
+1157,Pennsylvania,2017,Leedom Elementary,,Ridley Park,55,96.4,39.8783417,-75.3146628
+1158,Pennsylvania,2017,Level Green Elementary,,Trafford,28,96.4,40.3958732,-79.7138558
+1159,Pennsylvania,2017,Limerick Elementary,,Royersford,55,96.4,40.23165,-75.5415247
+1160,Pennsylvania,2017,Mckean Elementary,,Mc Kean,56,96.4,41.9973617,-80.1459664
+1161,Pennsylvania,2017,Mill Creek Elementary,,Warrington,56,96.4,40.2643149,-75.1661909
+1162,Pennsylvania,2017,Montessori Regional Cs,,Erie,111,96.4,42.0842622,-80.1401638
+1163,Pennsylvania,2017,Moraine Elementary,,Prospect,55,96.4,40.9037142,-80.043363
+1164,Pennsylvania,2017,Our Lady Of Perpetual Help,,Bethlehem,28,96.4,40.6605974,-75.3393048
+1165,Pennsylvania,2017,South Hamilton Elementary,,Chambersburg,56,96.4,39.9103692,-77.709159
+1166,Pennsylvania,2017,Sru Elementary,,East Smithfield,56,96.4,41.8614321,-76.625346
+1167,Pennsylvania,2017,St Jerome,,Philadelphia,28,96.4,40.0556633,-75.0306881
+1168,Pennsylvania,2017,Wellsville Campus,,Wellsville,28,96.4,40.0499104,-76.9375462
+1169,Pennsylvania,2017,Bregy F Amedee,,Philadelphia,27,96.3,39.9141503,-75.176791
+1170,Pennsylvania,2017,Clearview Elementary,,Hanover,54,96.3,39.8119878,-76.9934659
+1171,Pennsylvania,2017,Damascus Area,,Damascus,27,96.3,41.6985514,-75.0758671
+1172,Pennsylvania,2017,East High Street Elementary,,Elizabethtown,108,96.3,40.159101,-76.5877425
+1173,Pennsylvania,2017,East Stroudsburg Elementary,,East Stroudsburg,109,96.3,41.015127,-75.1676895
+1174,Pennsylvania,2017,Fort Allen Elementary,,Greensburg,81,96.3,40.2762777,-79.5927821
+1175,Pennsylvania,2017,Greenfield Albert M,,Philadelphia,80,96.3,39.9523232,-75.1775085
+1176,Pennsylvania,2017,Juniata Elementary,,Altoona,80,96.3,40.537435,-78.3868002
+1177,Pennsylvania,2017,Marion Elementary,,Belle Vernon,108,96.3,40.1136971,-79.8316695
+1178,Pennsylvania,2017,Morrow Elementary,,Towanda,108,96.3,41.7721129,-76.4485761
+1179,Pennsylvania,2017,Octorara Primary Lc,,Atglen,160,96.3,39.9322612,-75.9410244
+1180,Pennsylvania,2017,Overbrook Elementary,,Philadelphia,27,96.3,39.9819002,-75.245613
+1181,Pennsylvania,2017,Rumbaugh Elementary,,Mount Pleasant,81,96.3,40.1433861,-79.52342
+1182,Pennsylvania,2017,St. Teresa Of Calcutta - Conewago,,Hanover,27,96.3,39.8180381,-77.0370109
+1183,Pennsylvania,2017,Weatherly Area Elementary,,Weatherly,54,96.3,40.9380644,-75.8172244
+1184,Pennsylvania,2017,Delta-Peach Bottom Elementary,,Delta,52,96.2,39.73205,-76.317345
+1185,Pennsylvania,2017,Holy Child School At Rosemont,,Rosemont,26,96.2,40.0321216,-75.3270978
+1186,Pennsylvania,2017,Kiski Area South Primary,,Export,53,96.2,40.4793925,-79.5867851
+1187,Pennsylvania,2017,Lakeland Elementary School - Scott Campus,,Scott Township,52,96.2,41.5569685,-75.6063296
+1188,Pennsylvania,2017,Lebanon Catholic,,Lebanon,26,96.2,40.3368416,-76.4349441
+1189,Pennsylvania,2017,Lurgan Elementary,,Lurgan,26,96.2,40.0997178,-77.6384902
+1190,Pennsylvania,2017,Mastery Cs-Harrity Campus,,Philadelphia,105,96.2,39.9487635,-75.237971
+1191,Pennsylvania,2017,Muhlenberg Elementary,,Allentown,78,96.2,40.6050136,-75.5063751
+1192,Pennsylvania,2017,North Side Primary,,Ellwood City,131,96.2,40.8690306,-80.2877694
+1193,Pennsylvania,2017,Sheridan Terrace Elementary,,North Huntingdon,104,96.2,40.336977,-79.70204
+1194,Pennsylvania,2017,Shrewsbury Elementary,,Glen Rock,78,96.2,39.7619801,-76.67784
+1195,Pennsylvania,2017,St John Neumann Regional Academy,,Williamsport,26,96.2,41.2466654,-76.9979587
+1196,Pennsylvania,2017,St Martin De Porres North,,Philadelphia,53,96.2,39.9957478,-75.1695989
+1197,Pennsylvania,2017,Stanwood Elementary,,New Stanton,105,96.2,40.2268466,-79.6036506
+1198,Pennsylvania,2017,Stourbridge Primary Ctr,,Honesdale,131,96.2,41.5626174,-75.2691465
+1199,Pennsylvania,2017,Urban Academy Of Greater Pittsburgh Cs,,Pittsburgh,52,96.2,40.4622989,-79.9098885
+1200,Pennsylvania,2017,Vare-Washington Elementary,,Philadelphia,53,96.2,39.9335953,-75.1527615
+1201,Pennsylvania,2017,Warren L Miller Elementary,,Mansfield,79,96.2,41.7997591,-77.0789606
+1202,Pennsylvania,2017,Warwick Elementary,,Jamison,52,96.2,40.250065,-75.0825309
+1203,Pennsylvania,2017,Westtown,,West Chester,26,96.2,39.9483,-75.538306
+1204,Pennsylvania,2017,Buckingham Elementary,,Buckingham,51,96.1,40.320766,-75.058308
+1205,Pennsylvania,2017,Decatur Stephen,,Philadelphia,127,96.1,40.0956346,-74.9705726
+1206,Pennsylvania,2017,Fort Zeller Elementary,,Richland,102,96.1,40.3557449,-76.2345081
+1207,Pennsylvania,2017,Governor Wolf Elementary,,Bethlehem,77,96.1,40.6527968,-75.3436154
+1208,Pennsylvania,2017,Independence Cs West,,Philadelphia,103,96.1,39.9370697,-75.2253615
+1209,Pennsylvania,2017,Jonestown Elementary,,Jonestown,181,96.1,40.4115991,-76.4770037
+1210,Pennsylvania,2017,Mastery Cs - Thomas Campus,,Philadelphia,77,96.1,39.9129082,-75.165528
+1211,Pennsylvania,2017,Orendorf Elementary,,Manchester,77,96.1,40.059729,-76.715603
+1212,Pennsylvania,2017,Smethport Area Elementary,,Smethport,51,96.1,41.8023115,-78.4429361
+1213,Pennsylvania,2017,Smithfield Elementary,,East Stroudsburg,51,96.1,41.000994,-75.1329833
+1214,Pennsylvania,2017,Smoketown Elementary,,Lancaster,76,96.1,40.0390211,-76.2081352
+1215,Pennsylvania,2017,Tacony Academy Charter,,Philadelphia,76,96.1,40.0672175,-75.0653028
+1216,Pennsylvania,2017,Wyalusing Valley Elementary,,Wyalusing,102,96.1,41.6567216,-76.2530565
+1217,Pennsylvania,2017,Audrielle Lynch-Ellen Bustin Elementary,,Athens,99,96,41.9687697,-76.5313768
+1218,Pennsylvania,2017,Brownstown Elementary,,Brownstown,75,96,40.1233157,-76.2105682
+1219,Pennsylvania,2017,Carl G Renn Elementary,,Lairdsville,25,96,41.2321467,-76.6118115
+1220,Pennsylvania,2017,Hance Elementary,,Gibsonia,75,96,40.6282614,-79.9475999
+1221,Pennsylvania,2017,Holy Trinity,,Morrisville,25,96,40.2107807,-74.7786065
+1222,Pennsylvania,2017,Hoover Elementary,,Camp Hill,75,96,40.2350304,-76.9253234
+1223,Pennsylvania,2017,John Hancock Demonstration,,Philadelphia,75,96,40.0671583,-74.9891851
+1224,Pennsylvania,2017,Loyalsock Valley Elementary,,Montoursville,50,96,41.3157525,-76.9079238
+1225,Pennsylvania,2017,Main Street,,Upland,50,96,39.8567199,-75.3830258
+1226,Pennsylvania,2017,Mccullough Elementary,,Jeannette,50,96,40.3615969,-79.641263
+1227,Pennsylvania,2017,Schwenksville Elementary,,Schwenksville,75,96,40.2499847,-75.4642403
+1228,Pennsylvania,2017,St James,,Erie,25,96,42.1379878,-80.0215615
+1229,Pennsylvania,2017,Woodland Elementary,,Norristown,75,96,40.1363815,-75.405323
+1230,Pennsylvania,2017,Coebourn Elementary,,Brookhaven,49,95.9,39.8737778,-75.3939995
+1231,Pennsylvania,2017,Dunbar Township Elementary,,Connellsville,97,95.9,40.0199498,-79.6182448
+1232,Pennsylvania,2017,Grandview Elementary,,Morrisville,74,95.9,40.2054051,-74.7899624
+1233,Pennsylvania,2017,Hills-Hendersonville Elementary,,Canonsburg,49,95.9,40.3084336,-80.129599
+1234,Pennsylvania,2017,Mountain View Elementary,,Greensburg,73,95.9,40.2961997,-79.4635328
+1235,Pennsylvania,2017,Philadelphia Performing Arts Cs,,Philadelphia,195,95.9,39.9178346,-75.1713279
+1236,Pennsylvania,2017,Sheridan,,Philadelphia,147,95.9,39.9994083,-75.1142195
+1237,Pennsylvania,2017,South Abington,,Chinchilla,49,95.9,41.4772708,-75.6838077
+1238,Pennsylvania,2017,South Mountain Elementary,,Dillsburg,73,95.9,40.0960809,-77.0589909
+1239,Pennsylvania,2017,Summit Elementary,,Butler,49,95.9,40.8414526,-79.8280761
+1240,Pennsylvania,2017,Bell Township Elementary,,Punxsutawney,24,95.8,40.965503,-78.9244471
+1241,Pennsylvania,2017,Ben Franklin,,Uniontown,48,95.8,39.8917031,-79.7333834
+1242,Pennsylvania,2017,Blaine James G,,Philadelphia,48,95.8,39.9851965,-75.1829393
+1243,Pennsylvania,2017,Blair Mill Elementary,,Hatboro,71,95.8,40.1882161,-75.1139458
+1244,Pennsylvania,2017,Bridle Path Elementary,,Lansdale,48,95.8,40.2589193,-75.2538034
+1245,Pennsylvania,2017,Cochranton Elementary,,Cochranton,48,95.8,41.5114565,-80.0388313
+1246,Pennsylvania,2017,Donegal Elementary,,Jones Mills,24,95.8,40.09954,-79.356952
+1247,Pennsylvania,2017,Emily Brittain Elementary,,Butler,71,95.8,40.8648798,-79.8981044
+1248,Pennsylvania,2017,H W Good Elementary,,Herminie,48,95.8,40.260029,-79.7197687
+1249,Pennsylvania,2017,Holy Family,,Nazareth,24,95.8,40.7428437,-75.3214485
+1250,Pennsylvania,2017,Lafayette Elementary,,Lancaster,72,95.8,40.0265633,-76.3170521
+1251,Pennsylvania,2017,Liberty Elementary,,Liberty,24,95.8,41.5580138,-77.1129195
+1252,Pennsylvania,2017,Monroe Township Elementary,,Richfield,24,95.8,40.6863471,-77.1213288
+1253,Pennsylvania,2017,North Star Central Elementary,,Boswell,71,95.8,40.1570627,-79.0338045
+1254,Pennsylvania,2017,Our Lady Of Good Counsel,,Southampton,24,95.8,40.1704466,-75.0444726
+1255,Pennsylvania,2017,Pleasant View Elementary,,Red Lion,48,95.8,39.900361,-76.5902705
+1256,Pennsylvania,2017,Ross Elementary,,Pittsburgh,95,95.8,40.5261436,-80.0009117
+1257,Pennsylvania,2017,Royersford Elementary,,Royersford,95,95.8,40.1840263,-75.5348064
+1258,Pennsylvania,2017,St Francis Of Assisi,,Norristown,24,95.8,40.1250417,-75.3545893
+1259,Pennsylvania,2017,Walnut Street Elementary,,Darby,48,95.8,39.9147883,-75.2569583
+1260,Pennsylvania,2017,Assumption Bvm,,West Grove,23,95.7,39.817156,-75.817753
+1261,Pennsylvania,2017,Bobtown Elementary,,Bobtown,47,95.7,39.7598297,-79.984948
+1262,Pennsylvania,2017,Carnegie Mellon University Childrens,,Pittsburgh,23,95.7,40.4417936,-79.9415147
+1263,Pennsylvania,2017,Chestnut Ridge Central Elementary,,New Paris,93,95.7,40.1406705,-78.5820841
+1264,Pennsylvania,2017,Childs World Inc,,Newtown,23,95.7,40.231541,-74.9414388
+1265,Pennsylvania,2017,Evans City Elementary,,Evans City,92,95.7,40.7688557,-80.0699063
+1266,Pennsylvania,2017,Gilbertsville Elementary,,Gilbertsville,92,95.7,40.3203614,-75.6077169
+1267,Pennsylvania,2017,Harding,,Erie,92,95.7,42.1124097,-80.1222705
+1268,Pennsylvania,2017,Hegins-Hubley Elementary,,Valley View,46,95.7,40.6411978,-76.5638506
+1269,Pennsylvania,2017,Independence Cs,,Philadelphia,94,95.7,39.9449936,-75.16872
+1270,Pennsylvania,2017,Marlborough Elementary,,Green Lane,93,95.7,40.3453584,-75.4804623
+1271,Pennsylvania,2017,Mars Area Primary Ctr,,Mars,230,95.7,40.6948712,-79.9853148
+1272,Pennsylvania,2017,Panther Valley Elementary,,Nesquehoning,117,95.7,40.8664868,-75.812099
+1273,Pennsylvania,2017,Parkside Elementary,,Parkside,47,95.7,39.8697103,-75.3791891
+1274,Pennsylvania,2017,Pen Ryn,,Fairless Hills,23,95.7,40.1703729,-74.8597015
+1275,Pennsylvania,2017,Pine Run Elementary,,New Britain,47,95.7,40.2952848,-75.1955264
+1276,Pennsylvania,2017,Robert Morris #27,,Scranton,46,95.7,41.4326605,-75.6466398
+1277,Pennsylvania,2017,Ross Elementary,,Lancaster,47,95.7,40.0513988,-76.3087503
+1278,Pennsylvania,2017,Sacred Heart Elementary,,Pittsburgh,46,95.7,40.4557778,-79.9236723
+1279,Pennsylvania,2017,Sankofa Freedom Academy Charter,,Philadelphia,47,95.7,39.9871671,-75.1286621
+1280,Pennsylvania,2017,Chestnut Hill Elementary,,Erie,45,95.6,42.0788114,-80.0780186
+1281,Pennsylvania,2017,George Washington Elementary,,Bethel Park,45,95.6,40.312608,-80.0624529
+1282,Pennsylvania,2017,Highland Primary Center,,Grove City,137,95.6,41.1606954,-80.0994153
+1283,Pennsylvania,2017,Houck Elementary,,Lebanon,68,95.6,40.346956,-76.406633
+1284,Pennsylvania,2017,Jackson Elementary,,Myerstown,68,95.6,40.3682422,-76.3299554
+1285,Pennsylvania,2017,Mastery Cs - Cleveland Elementary,,Philadelphia,91,95.6,40.0108746,-75.1608739
+1286,Pennsylvania,2017,Maxwell Elementary,,Greensburg,68,95.6,40.3307971,-79.5445035
+1287,Pennsylvania,2017,Moore Elementary,,Bath,68,95.6,40.7777476,-75.4327699
+1288,Pennsylvania,2017,Robert Reid Elementary,,Middletown,68,95.6,40.213216,-76.7417748
+1289,Pennsylvania,2017,Seylar Elementary,,Perkasie,45,95.6,40.3544227,-75.2530849
+1290,Pennsylvania,2017,Towamensing Elementary,,Lehighton,45,95.6,40.8715871,-75.5663333
+1291,Pennsylvania,2017,Chester Upland School Of Arts,,Chester,67,95.5,39.8484184,-75.3694426
+1292,Pennsylvania,2017,Davis Elementary,,Southampton,132,95.5,40.1860244,-75.0389368
+1293,Pennsylvania,2017,Ellwood,,Philadelphia,44,95.5,40.0551321,-75.1385189
+1294,Pennsylvania,2017,James F Baugher Elementary,,Milton,88,95.5,41.0164571,-76.8356073
+1295,Pennsylvania,2017,Loeschoole William H,,Philadelphia,157,95.5,40.11414,-75.0235641
+1296,Pennsylvania,2017,Monroe Elementary,,Boiling Springs,67,95.5,40.1671276,-77.0800795
+1297,Pennsylvania,2017,Neidig Elementary,,Quakertown,67,95.5,40.4456435,-75.3288737
+1298,Pennsylvania,2017,West Shore Christian Academy,,Shiremanstown,22,95.5,40.2222886,-76.9603157
+1299,Pennsylvania,2017,Daniel J Flood Elementary,,Wilkes Barre,109,95.4,41.253631,-75.8649126
+1300,Pennsylvania,2017,Evans Elementary,,Limerick,87,95.4,40.230901,-75.5099004
+1301,Pennsylvania,2017,Iroquois Elementary,,Erie,87,95.4,42.1538805,-80.0120935
+1302,Pennsylvania,2017,Knapp Elementary,,Lansdale,65,95.4,40.2383046,-75.263909
+1303,Pennsylvania,2017,New Holland Elementary,,New Holland,87,95.4,40.0841911,-76.0706206
+1304,Pennsylvania,2017,Swiftwater Elementary Center,,Swiftwater,239,95.4,41.1052557,-75.3212298
+1305,Pennsylvania,2017,Waynesburg Central Elementary Schoolool,,Waynesburg,108,95.4,39.8943181,-80.1493383
+1306,Pennsylvania,2017,Akron Elementary,,Akron,64,95.3,40.1534922,-76.1981064
+1307,Pennsylvania,2017,Bradford Hgts Elementary,,Downingtown,86,95.3,39.9893041,-75.7099424
+1308,Pennsylvania,2017,Dingman-Delaware Primary,,Dingmans Ferry,148,95.3,41.2902424,-74.9499773
+1309,Pennsylvania,2017,Fort Cherry Elementary Center,,Mc Donald,85,95.3,40.3451362,-80.2813483
+1310,Pennsylvania,2017,John R Bonfield Elementary,,Lititz,64,95.3,40.1581781,-76.289386
+1311,Pennsylvania,2017,Mater Dei Catholic,,Lansdale,64,95.3,40.2364117,-75.2743459
+1312,Pennsylvania,2017,Mccormick Elementary,,Moon Township,43,95.3,40.4789717,-80.1737943
+1313,Pennsylvania,2017,Mellon Elementary,,Ligonier,64,95.3,40.2435746,-79.2255356
+1314,Pennsylvania,2017,Mohawk Elementary,,Bessemer,107,95.3,40.9788597,-80.4498338
+1315,Pennsylvania,2017,Shaull Elementary,,Enola,85,95.3,40.2889862,-77.0074912
+1316,Pennsylvania,2017,West Snyder Elementary,,Beaver Springs,64,95.3,40.741725,-77.218703
+1317,Pennsylvania,2017,White Deer Elementary,,New Columbia,43,95.3,41.039837,-76.869475
+1318,Pennsylvania,2017,Economy Elementary,,Freedom,63,95.2,40.6632682,-80.2125245
+1319,Pennsylvania,2017,Evergreen Elementary,,Lake Ariel,84,95.2,41.4162646,-75.4031305
+1320,Pennsylvania,2017,Grandview Elementary,,Erie,104,95.2,42.0714318,-80.133708
+1321,Pennsylvania,2017,Hanover Street Elementary,,Hanover,62,95.2,39.7981249,-76.9775514
+1322,Pennsylvania,2017,Montessori Academy Of Lancaster,,Lancaster,21,95.2,40.0957115,-76.3190259
+1323,Pennsylvania,2017,N Hopewell-Winterstown Elementary,,Red Lion,21,95.2,39.840116,-76.6191584
+1324,Pennsylvania,2017,Northumberland Christian,,Northumberland,21,95.2,40.8948235,-76.8006427
+1325,Pennsylvania,2017,Schuyler Avenue Elementary,,Kingston,42,95.2,41.2736329,-75.8859664
+1326,Pennsylvania,2017,St Bernadette,,Drexel Hill,42,95.2,39.9585607,-75.3032137
+1327,Pennsylvania,2017,St Malachy,,Philadelphia,42,95.2,39.9722699,-75.1534685
+1328,Pennsylvania,2017,Susquehanna Prep School/Appletree Nursery And Primary,,Forty Fort,21,95.2,41.29605,-75.864805
+1329,Pennsylvania,2017,Turkeyfoot Valley Area Elementary,,Confluence,21,95.2,39.799019,-79.3300567
+1330,Pennsylvania,2017,Francis Mcclure Elementary,,McKeesport,122,95.1,40.3494996,-79.8076113
+1331,Pennsylvania,2017,Global Leadership Academy Cs,,Philadelphia,81,95.1,39.9730193,-75.2157286
+1332,Pennsylvania,2017,Jefferson Elementary,,Lake Ariel,61,95.1,41.4143126,-75.5022964
+1333,Pennsylvania,2017,Mastery Cs John Wister Elementary,,Philadelphia,82,95.1,40.0332764,-75.169033
+1334,Pennsylvania,2017,St Frances Cabrini Regional Catholic,,Philadelphia,41,95.1,39.969684,-75.2490455
+1335,Pennsylvania,2017,West Branch Area Elementary,,Morrisdale,61,95.1,40.978164,-78.2007719
+1336,Pennsylvania,2017,B F Morey Elementary,,Stroudsburg,40,95,40.9838036,-75.2020237
+1337,Pennsylvania,2017,College Square Elementary,,Beaver,120,95,40.6965517,-80.3059548
+1338,Pennsylvania,2017,Holy Child Academy,,Drexel Hill,20,95,39.948203,-75.293208
+1339,Pennsylvania,2017,Klein Elementary,,Erie,40,95,42.1701863,-79.9942322
+1340,Pennsylvania,2017,Lehigh Christian Academy,,Allentown,20,95,40.5698728,-75.5173811
+1341,Pennsylvania,2017,Linglestown Elementary,,Harrisburg,60,95,40.3372079,-76.794565
+1342,Pennsylvania,2017,Marion Elementary,,Chambersburg,20,95,39.8591667,-77.6977783
+1343,Pennsylvania,2017,Mast Community Cs Ii,,Philadelphia,100,95,40.0482004,-75.0994841
+1344,Pennsylvania,2017,Monsignor Mchugh,,Cresco,20,95,41.1333809,-75.297679
+1345,Pennsylvania,2017,Nitrauer,,Lancaster,80,95,40.0806668,-76.2910909
+1346,Pennsylvania,2017,Northern Cambria Elementary,,Northern Cambria,60,95,40.6575835,-78.7876752
+1347,Pennsylvania,2017,Pleasant Valley Elementary,,McMurray,101,95,40.2669054,-80.1196222
+1348,Pennsylvania,2017,Quakertown Elementary,,Quakertown,40,95,40.4386127,-75.3431627
+1349,Pennsylvania,2017,Seven Sorrows Bvm,,Middletown,20,95,40.1996123,-76.7242153
+1350,Pennsylvania,2017,Shanksville-Stonycreek Elementary,,Shanksville,20,95,40.0151538,-78.8989112
+1351,Pennsylvania,2017,Trinity Academy,,Shenandoah,20,95,40.8182816,-76.2038984
+1352,Pennsylvania,2017,Universal Bluford Charter,,Philadelphia,80,95,39.974807,-75.2389696
+1353,Pennsylvania,2017,Vida Charter,,Gettysburg,40,95,39.8384474,-77.2261089
+1354,Pennsylvania,2017,Chief Shikellamy,,Sunbury,59,94.9,40.8749369,-76.7781339
+1355,Pennsylvania,2017,Cold Spring Elementary,,Doylestown,59,94.9,40.3606469,-75.0920545
+1356,Pennsylvania,2017,Farmersville Elementary,,Easton,59,94.9,40.6656606,-75.2990835
+1357,Pennsylvania,2017,Menallen,,Uniontown,59,94.9,39.9383637,-79.7811481
+1358,Pennsylvania,2017,Mount Union-Kistler Elementary,,Mount Union,39,94.9,40.379395,-77.8643936
+1359,Pennsylvania,2017,Quarryville Elementary,,Quarryville,78,94.9,39.8945104,-76.1590816
+1360,Pennsylvania,2017,South Buffalo Elementary,,Freeport,39,94.9,40.701699,-79.6666055
+1361,Pennsylvania,2017,Neshannock Memorial Elementary,,New Castle,96,94.8,41.0667265,-80.3481206
+1362,Pennsylvania,2017,Phillips Elementary,,Harrisburg,58,94.8,40.290723,-76.803
+1363,Pennsylvania,2017,Aston Elementary,,Aston,75,94.7,39.8708154,-75.4423291
+1364,Pennsylvania,2017,Avon Grove Cs,,West Grove,169,94.7,39.8241582,-75.8040887
+1365,Pennsylvania,2017,Barrett Elementary,,Homestead,38,94.7,40.4049243,-79.9077834
+1366,Pennsylvania,2017,Buffalo Elementary,,Sarver,94,94.7,40.7222819,-79.7543575
+1367,Pennsylvania,2017,Earl Elementary,,Boyertown,38,94.7,40.3692751,-75.7054852
+1368,Pennsylvania,2017,L B Morris Elementary,,Jim Thorpe,75,94.7,40.8809233,-75.7296348
+1369,Pennsylvania,2017,Price Elementary,,Lancaster,75,94.7,40.0265472,-76.3103568
+1370,Pennsylvania,2017,Sloan Elementary,,Murrysville,94,94.7,40.4543923,-79.6657088
+1371,Pennsylvania,2017,Curwensville Area Elementary,,Curwensville,92,94.6,40.967416,-78.51803
+1372,Pennsylvania,2017,Edgeworth Elementary,,Sewickley,56,94.6,40.549118,-80.19093
+1373,Pennsylvania,2017,Foster Elementary,,Pittsburgh,37,94.6,40.362963,-80.038659
+1374,Pennsylvania,2017,Henry Charles W,,Philadelphia,56,94.6,40.046258,-75.196588
+1375,Pennsylvania,2017,Hillside Elementary,,New Cumberland,92,94.6,40.2266632,-76.8739438
+1376,Pennsylvania,2017,Homer-Center Elementary,,Homer City,56,94.6,40.5332325,-79.1599793
+1377,Pennsylvania,2017,Mount Calvary Christian,,Elizabethtown,37,94.6,40.1648233,-76.6056962
+1378,Pennsylvania,2017,Pittsburgh Faison K-5,,Pittsburgh,93,94.6,40.452413,-79.8944305
+1379,Pennsylvania,2017,Purchase Line Jshs,,Commodore,56,94.6,40.7351096,-78.9172436
+1380,Pennsylvania,2017,Resica Elementary,,East Stroudsburg,92,94.6,41.0757734,-75.1078819
+1381,Pennsylvania,2017,Roslyn,,Roslyn,74,94.6,40.1260426,-75.140261
+1382,Pennsylvania,2017,York Avenue Elementary,,Lansdale,37,94.6,40.2443409,-75.295792
+1383,Pennsylvania,2017,Baggaley Elementary,,Latrobe,73,94.5,40.263236,-79.379191
+1384,Pennsylvania,2017,Brecht,,Lancaster,55,94.5,40.0589693,-76.3072116
+1385,Pennsylvania,2017,Norvelt Elementary,,Mount Pleasant,55,94.5,40.209122,-79.494843
+1386,Pennsylvania,2017,Pleasant Valley Elementary,,Kunkletown,291,94.5,40.9127473,-75.4721499
+1387,Pennsylvania,2017,Roslund Elementary,,Tunkhannock,55,94.5,41.5425767,-75.9374211
+1388,Pennsylvania,2017,Delaware Valley Elementary,,Matamoras,89,94.4,41.3649631,-74.6962924
+1389,Pennsylvania,2017,Donald E. Schoolick,,Montoursville,126,94.4,41.261699,-76.9472739
+1390,Pennsylvania,2017,East Pike Elementary,,Indiana,89,94.4,40.620541,-79.1248306
+1391,Pennsylvania,2017,Hartwood Elementary,,Pittsburgh,71,94.4,40.5765338,-79.8865572
+1392,Pennsylvania,2017,New Eagle Elementary,,Wayne,72,94.4,40.0695723,-75.4167187
+1393,Pennsylvania,2017,New Hanover-Upper Frederick El,,Frederick,107,94.4,40.313882,-75.541727
+1394,Pennsylvania,2017,Rhoads James,,Philadelphia,72,94.4,39.9673896,-75.2200957
+1395,Pennsylvania,2017,Trinity South Elementary,,Washington,36,94.4,40.1135286,-80.2058997
+1396,Pennsylvania,2017,Bethune Mary Mcleod,,Philadelphia,88,94.3,40.0033977,-75.1483359
+1397,Pennsylvania,2017,Pittsburgh Banksville K-5,,Pittsburgh,53,94.3,40.4071688,-80.0370111
+1398,Pennsylvania,2017,Sarah W Starkweather Elementary,,West Chester,88,94.3,39.9317725,-75.5884351
+1399,Pennsylvania,2017,Shoemaker Elementary,,Macungie,88,94.3,40.5125336,-75.5439553
+1400,Pennsylvania,2017,Franklin Benjamin,,Philadelphia,86,94.2,40.0424002,-75.1042624
+1401,Pennsylvania,2017,John Beck Elementary,,Lititz,52,94.2,40.184866,-76.2867398
+1402,Pennsylvania,2017,Mount Nittany Elementary,,State College,69,94.2,40.7850909,-77.8073777
+1403,Pennsylvania,2017,North Wales Elementary,,North Wales,52,94.2,40.2102116,-75.271391
+1404,Pennsylvania,2017,Pittsburgh Montessori K-5,,Pittsburgh,52,94.2,40.4623686,-79.9354621
+1405,Pennsylvania,2017,West Creek Hills Elementary,,Camp Hill,104,94.2,40.2716905,-76.9255734
+1406,Pennsylvania,2017,Bedminster Elementary,,Perkasie,68,94.1,40.4227116,-75.1948995
+1407,Pennsylvania,2017,Cynwyd,,Bala Cynwyd,51,94.1,40.0121104,-75.2419861
+1408,Pennsylvania,2017,Maternity Bvm,,Philadelphia,51,94.1,40.0820269,-75.0384502
+1409,Pennsylvania,2017,Mehoopany Elementary,,Mehoopany,34,94.1,41.582944,-76.0661005
+1410,Pennsylvania,2017,Newlonsburg Elementary,,Murrysville,34,94.1,40.4257545,-79.6666875
+1411,Pennsylvania,2017,South Butler Primary,,Saxonburg,119,94.1,40.7459922,-79.8257206
+1412,Pennsylvania,2017,Springfield Elementary,,East Springfield,34,94.1,41.9638326,-80.4042781
+1413,Pennsylvania,2017,West End Elementary,,Meadville,51,94.1,41.6323077,-80.2353544
+1414,Pennsylvania,2017,Wilkes Barre Academy,,Wilkes Barre,34,94.1,41.2429102,-75.8662617
+1415,Pennsylvania,2017,A L Wilson Elementary,,Fairchance,50,94,39.8321367,-79.7443422
+1416,Pennsylvania,2017,Calvary Christian Academy,,Philadelphia,50,94,40.1297336,-75.0184941
+1417,Pennsylvania,2017,Clark Elementary,,Uniontown,50,94,39.9125944,-79.7031758
+1418,Pennsylvania,2017,Elk Lake Elementary,,Springville,84,94,41.7383614,-75.9559959
+1419,Pennsylvania,2017,Frederick Douglass Mastery Charter,,Philadelphia,83,94,39.983423,-75.1721694
+1420,Pennsylvania,2017,Gesu,,Philadelphia,50,94,39.973757,-75.1643731
+1421,Pennsylvania,2017,Laurel Elementary,,New Castle,67,94,41.0180414,-80.2575603
+1422,Pennsylvania,2017,Newton-Ransom,,Clarks Summit,50,94,41.4734264,-75.7484456
+1423,Pennsylvania,2017,Blue Ball Elementary,,East Earl,82,93.9,40.1190454,-76.0371193
+1424,Pennsylvania,2017,Conrad Weiser West Elementary,,Womelsdorf,66,93.9,40.3614202,-76.1904389
+1425,Pennsylvania,2017,Fell D Newlin,,Philadelphia,49,93.9,39.9154504,-75.1633095
+1426,Pennsylvania,2017,Gladwyne Montessori,,Gladwyne,33,93.9,40.0361277,-75.2827679
+1427,Pennsylvania,2017,Good Shepherd Academy,,Kingston,33,93.9,41.2660851,-75.8959544
+1428,Pennsylvania,2017,Holland Elementary,,Holland,33,93.9,40.1837203,-74.9848906
+1429,Pennsylvania,2017,Miller Heights Elementary,,Bethlehem,49,93.9,40.6483006,-75.3265989
+1430,Pennsylvania,2017,Nicely Elementary,,Greensburg,49,93.9,40.3235979,-79.540438
+1431,Pennsylvania,2017,Oak Park Elementary,,Lansdale,66,93.9,40.2547059,-75.2956145
+1432,Pennsylvania,2017,Springfield Elementary,,Quakertown,33,93.9,40.5227511,-75.292441
+1433,Pennsylvania,2017,Walt Disney Elementary,,Levittown,49,93.9,40.1537746,-74.8185627
+1434,Pennsylvania,2017,West Side Elementary,,Johnstown,262,93.9,40.3288176,-78.9522958
+1435,Pennsylvania,2017,Boyertown Elementary,,Boyertown,65,93.8,40.3254241,-75.6305764
+1436,Pennsylvania,2017,Forks Elementary,,Easton,65,93.8,40.7152802,-75.2141177
+1437,Pennsylvania,2017,Freedom Area Elementary,,Freedom,81,93.8,40.678014,-80.2445859
+1438,Pennsylvania,2017,Neason Hill Elementary,,Meadville,48,93.8,41.6229196,-80.1397651
+1439,Pennsylvania,2017,Franconia Elementary,,Souderton,79,93.7,40.3119048,-75.3515265
+1440,Pennsylvania,2017,Global Leadership Academy Cs Southwest At Huey,,Philadelphia,79,93.7,39.9533913,-75.2267342
+1441,Pennsylvania,2017,Amos K Hutchinson Elementary,,Greensburg,94,93.6,40.2895956,-79.5473214
+1442,Pennsylvania,2017,Clermont Elementary,,Quarryville,78,93.6,39.8088801,-76.1571271
+1443,Pennsylvania,2017,Penn Hills Charter School Of Entrepreneurship,,Pittsburgh,47,93.6,40.4725518,-79.7917619
+1444,Pennsylvania,2017,Sellersville Elementary,,Sellersville,47,93.6,40.3495895,-75.3065421
+1445,Pennsylvania,2017,Centre Hall-Potter Elementary,,Centre Hall,46,93.5,40.8449568,-77.6882627
+1446,Pennsylvania,2017,Clearview Elementary,,Brogue,31,93.5,39.8602304,-76.4615096
+1447,Pennsylvania,2017,Holy Trinity Catholic School-Altoona Elementary Campus,,Altoona,31,93.5,40.4738739,-78.4228003
+1448,Pennsylvania,2017,Notre Dame Elementary,,East Stroudsburg,31,93.5,41.005118,-75.1679394
+1449,Pennsylvania,2017,Penns Manor Area Elementary,,Clymer,46,93.5,40.639352,-78.944911
+1450,Pennsylvania,2017,Arts Academy Elementary Charter,,Allentown,61,93.4,40.6000134,-75.4690757
+1451,Pennsylvania,2017,Depaul Catholic,,Philadelphia,61,93.4,40.0270653,-75.1629471
+1452,Pennsylvania,2017,Susquehanna Community Elementary,,Susquehanna,61,93.4,41.9499064,-75.5907537
+1453,Pennsylvania,2017,York Haven Elementary,,York Haven,61,93.4,40.1070536,-76.7175895
+1454,Pennsylvania,2017,Belmont Charter,,Philadelphia,90,93.3,39.9669655,-75.204671
+1455,Pennsylvania,2017,Brandywine Heights Elementary,,Topton,89,93.3,40.4962777,-75.7032342
+1456,Pennsylvania,2017,Buchanan Elementary,,Chambersburg,45,93.3,39.9315476,-77.6485883
+1457,Pennsylvania,2017,Dayton Elementary,,Dayton,30,93.3,40.882941,-79.2362263
+1458,Pennsylvania,2017,Martic Elementary,,Holtwood,45,93.3,39.8850939,-76.2925487
+1459,Pennsylvania,2017,Red Lion Elementary,,Philadelphia,45,93.3,40.1073012,-75.0467663
+1460,Pennsylvania,2017,St Edmunds Academy,,Pittsburgh,30,93.3,40.437201,-79.924837
+1461,Pennsylvania,2017,St Nicholas St Mary,,Wilkes Barre,30,93.3,41.24041,-75.887458
+1462,Pennsylvania,2017,Vernfield Elementary,,Telford,75,93.3,40.307638,-75.4103449
+1463,Pennsylvania,2017,Avis Elementary,,Jersey Shore,44,93.2,41.1937562,-77.3105445
+1464,Pennsylvania,2017,Clay Elementary,,Ephrata,73,93.2,40.2203828,-76.2383361
+1465,Pennsylvania,2017,Harrington Avery D,,Philadelphia,73,93.2,39.9473309,-75.2300619
+1466,Pennsylvania,2017,Hutchinson Elementary,,Uniontown,59,93.2,39.8615176,-79.7080849
+1467,Pennsylvania,2017,Oklahoma Elementary,,DuBois,44,93.2,41.1134721,-78.7396069
+1468,Pennsylvania,2017,Dodson Elementary,,Wilkes Barre,72,93.1,41.2317682,-75.8947138
+1469,Pennsylvania,2017,St Gregory,,Zelienople,29,93.1,40.7892816,-80.143562
+1470,Pennsylvania,2017,St Philip Grade,,Pittsburgh,29,93.1,40.4370169,-80.0683473
+1471,Pennsylvania,2017,Conewago Elementary,,York,86,93,40.0606317,-76.7806285
+1472,Pennsylvania,2017,New Salem Elementary,,York,86,93,39.8993919,-76.795594
+1473,Pennsylvania,2017,Pleasant Gap Elementary,,Pleasant Gap,43,93,40.8660425,-77.740648
+1474,Pennsylvania,2017,Visitation,,Philadelphia,43,93,39.9901567,-75.1268367
+1475,Pennsylvania,2017,Cumberland Valley Christian,,Chambersburg,28,92.9,39.9453595,-77.6775456
+1476,Pennsylvania,2017,Fountain Hill Elementary,,Bethlehem,84,92.9,40.5985257,-75.3968096
+1477,Pennsylvania,2017,Hahntown Elementary,,North Huntingdon,112,92.9,40.3213791,-79.7197688
+1478,Pennsylvania,2017,Middle Smithfield Elementary,,East Stroudsburg,56,92.9,41.059618,-75.0774495
+1479,Pennsylvania,2017,Willow Hill,,Willow Grove,56,92.9,40.1411971,-75.1312037
+1480,Pennsylvania,2017,Mifflin Thomas,,Philadelphia,41,92.7,40.0134447,-75.1917489
+1481,Pennsylvania,2017,St Ignatius Loyola,,West Lawn,41,92.7,40.3366383,-76.0054517
+1482,Pennsylvania,2017,Franklin S Edmonds,,Philadelphia,68,92.6,40.0726666,-75.1710849
+1483,Pennsylvania,2017,Friendship Elementary,,Glen Rock,68,92.6,39.7621579,-76.7656746
+1484,Pennsylvania,2017,Lewis M Myers Elementary,,Bellwood,81,92.6,40.5943457,-78.3292053
+1485,Pennsylvania,2017,St Joseph,,Warren,27,92.6,41.8459585,-79.1545887
+1486,Pennsylvania,2017,Gayman Elementary,,Doylestown,40,92.5,40.3575192,-75.1297085
+1487,Pennsylvania,2017,Lancaster Mennonite School Locust Grove Campus,,Lancaster,40,92.5,40.0275048,-76.2271566
+1488,Pennsylvania,2017,Lincoln Elementary,,Erie,67,92.5,42.1142677,-80.0517932
+1489,Pennsylvania,2017,St Louise De Marillac,,Pittsburgh,53,92.5,40.3161085,-80.0716572
+1490,Pennsylvania,2017,Sunrise Elementary,,Irwin,53,92.5,40.3676403,-79.6926554
+1491,Pennsylvania,2017,Rowen William,,Philadelphia,66,92.4,40.0587109,-75.1482528
+1492,Pennsylvania,2017,Blessed Francis Seelos Academy,,Wexford,39,92.3,40.5960992,-80.0438868
+1493,Pennsylvania,2017,James Buchanan Elementary,,Bethlehem,39,92.3,40.6378399,-75.4068732
+1494,Pennsylvania,2017,James Gettys Elementary,,Gettysburg,52,92.3,39.8496434,-77.234501
+1495,Pennsylvania,2017,Peebles Elementary,,Pittsburgh,65,92.3,40.5653546,-80.0105388
+1496,Pennsylvania,2017,Pennsylvania Distance Learning Cs,,Wexford,26,92.3,40.6105343,-80.0890351
+1497,Pennsylvania,2017,Pine Forge Elementary,,Boyertown,39,92.3,40.2822103,-75.6943417
+1498,Pennsylvania,2017,Richmond,,Philadelphia,104,92.3,39.9835529,-75.1105702
+1499,Pennsylvania,2017,Fulton Elementary,,Ephrata,64,92.2,40.1755724,-76.1789927
+1500,Pennsylvania,2017,Hopkinson Francis,,Philadelphia,102,92.2,40.0084353,-75.1021461
+1501,Pennsylvania,2017,Pittsburgh Arlington K-8,,Pittsburgh,51,92.2,40.4153849,-79.9737279
+1502,Pennsylvania,2017,Burgard Elementary,,Manheim,63,92.1,40.158656,-76.3970618
+1503,Pennsylvania,2017,East Petersburg Elementary,,East Petersburg,38,92.1,40.0964768,-76.3590352
+1504,Pennsylvania,2017,Larry J. Macaluso Elementary,,Red Lion,76,92.1,39.9371099,-76.614707
+1505,Pennsylvania,2017,Willow Dale Elementary,,Warminster,114,92.1,40.2143021,-75.1056196
+1506,Pennsylvania,2017,Goodnoe Elementary,,Newtown,100,92,40.2342606,-74.9258861
+1507,Pennsylvania,2017,Heights Terrace El/Ms,,Hazleton,100,92,40.9452139,-75.968711
+1508,Pennsylvania,2017,Holy Name,,Ebensburg,25,92,40.4881295,-78.7266057
+1509,Pennsylvania,2017,Verner Elementary,,Verona,25,92,40.5049789,-79.8395709
+1510,Pennsylvania,2017,Benner Elementary,,Bellefonte,37,91.9,40.8935047,-77.8112144
+1511,Pennsylvania,2017,Forrest Edwin,,Philadelphia,148,91.9,40.0346751,-75.0360943
+1512,Pennsylvania,2017,Heritage Elementary,,Murrysville,74,91.9,40.4280755,-79.6656847
+1513,Pennsylvania,2017,Lingelbach Anna L,,Philadelphia,37,91.9,40.0374532,-75.1898983
+1514,Pennsylvania,2017,Mountain View Elementary,,Kingsley,62,91.9,41.7405329,-75.7260963
+1515,Pennsylvania,2017,Richland Elementary,,Quakertown,62,91.9,40.4366331,-75.3231974
+1516,Pennsylvania,2017,Brecknock Elementary,,Denver,73,91.8,40.1952799,-76.034406
+1517,Pennsylvania,2017,Metzgar Elementary,,New Alexandria,61,91.8,40.3909981,-79.437951
+1518,Pennsylvania,2017,Connoquenessing Elementary,,Renfrew,48,91.7,40.8252356,-80.0117723
+1519,Pennsylvania,2017,Mayfair,,Philadelphia,181,91.7,40.0394927,-75.0517189
+1520,Pennsylvania,2017,Park Forest Elementary,,State College,84,91.7,40.808223,-77.9216555
+1521,Pennsylvania,2017,Plumstead Christian,,Plumsteadville,24,91.7,40.3827921,-75.1449611
+1522,Pennsylvania,2017,Tinicum Elementary,,Pipersville,24,91.7,40.471069,-75.0923411
+1523,Pennsylvania,2017,West Newton Elementary,,West Newton,48,91.7,40.201428,-79.764945
+1524,Pennsylvania,2017,Bridge Valley Elementary,,Furlong,71,91.5,40.2815806,-75.0905013
+1525,Pennsylvania,2017,Richboro Elementary,,Richboro,47,91.5,40.2102964,-75.0039346
+1526,Pennsylvania,2017,Davis,,York,58,91.4,39.966339,-76.698157
+1527,Pennsylvania,2017,Mitchell Elementary,,Philadelphia,58,91.4,39.93701,-75.223293
+1528,Pennsylvania,2017,Nether Providence Elementary,,Wallingford,58,91.4,39.8817824,-75.3742297
+1529,Pennsylvania,2017,West Broad Street Elementary,,Souderton,58,91.4,40.3000354,-75.3292561
+1530,Pennsylvania,2017,West Pottsgrove Elementary,,Stowe,81,91.4,40.2511282,-75.6855943
+1531,Pennsylvania,2017,Conewago Elementary,,Elizabethtown,23,91.3,40.2251083,-76.6210689
+1532,Pennsylvania,2017,Longview Elementary,,Punxsutawney,23,91.3,40.9021234,-79.0104558
+1533,Pennsylvania,2017,Mary Queen Of Apostles School -Freeport Rd,,New Kensington,23,91.3,40.5635611,-79.760954
+1534,Pennsylvania,2017,St John Paul Ii Elementary,,Hermitage,23,91.3,41.2405159,-80.4662127
+1535,Pennsylvania,2017,St Wendelin,,Butler,23,91.3,40.8871671,-79.8067442
+1536,Pennsylvania,2017,Carousel Farm/Rainbow Academy,,Ivyland,34,91.2,40.238156,-75.0468232
+1537,Pennsylvania,2017,Kutztown Elementary,,Kutztown,45,91.1,40.5150788,-75.7707612
+1538,Pennsylvania,2017,Blessed Trinity Academy,,Glenshaw,22,90.9,40.5540151,-79.9318006
+1539,Pennsylvania,2017,Christian School Of York,,York,22,90.9,39.994383,-76.770648
+1540,Pennsylvania,2017,Mill Hall Elementary,,Mill Hall,66,90.9,41.1066586,-77.4935021
+1541,Pennsylvania,2017,St Barnabas,,Philadelphia,44,90.9,39.921915,-75.22714
+1542,Pennsylvania,2017,St Mary,,Schwenksville,22,90.9,40.271118,-75.4679695
+1543,Pennsylvania,2017,Inquiry Charter,,Philadelphia,43,90.7,39.974997,-75.2124909
+1544,Pennsylvania,2017,Rolling Hills Elementary,,Holland,43,90.7,40.2069748,-74.9680966
+1545,Pennsylvania,2017,Waldron Mercy Academy,,Merion Station,43,90.7,40.0083741,-75.249028
+1546,Pennsylvania,2017,Samuel Gompers,,Philadelphia,32,90.6,39.9924774,-75.2380613
+1547,Pennsylvania,2017,Sugarcreek Elementary,,Cowansville,32,90.6,40.917328,-79.605673
+1548,Pennsylvania,2017,Agora Cyber Cs,,King of Prussia,169,90.5,40.0999193,-75.4145482
+1549,Pennsylvania,2017,Beaver-Main Elementary,,Bloomsburg,21,90.5,40.959233,-76.307495
+1550,Pennsylvania,2017,St Peters,,Philadelphia,21,90.5,39.942696,-75.148113
+1551,Pennsylvania,2017,Hamilton Township Elementary,,Sciota,62,90.3,40.918523,-75.3116333
+1552,Pennsylvania,2017,Universal Creighton Charter,,Philadelphia,72,90.3,40.034911,-75.1044576
+1553,Pennsylvania,2017,Sligo Elementary,,Sligo,41,90.2,41.1123501,-79.4939401
+1554,Pennsylvania,2017,Durham-Nockamixon Elementary,,Kintnersville,20,90,40.5227444,-75.1996334
+1555,Pennsylvania,2017,Immanuel Christian,,Hazleton,30,90,40.9656171,-75.9807824
+1556,Pennsylvania,2017,Northeast Bradford Elementary,,Rome,60,90,41.8642416,-76.2357655
+1557,Pennsylvania,2017,Torah Academy Of Greater Philadelphia,,Wynnewood,40,90,40.0002734,-75.285929
+1558,Pennsylvania,2017,Waring Laura W,,Philadelphia,40,90,39.964919,-75.1677
+1559,Pennsylvania,2017,Easton Arts Academy Elementary Cs,,Easton,99,89.9,40.6921549,-75.2117372
+1560,Pennsylvania,2017,Chicora Elementary,,Chicora,59,89.8,40.9499734,-79.7375208
+1561,Pennsylvania,2017,Comegys Benjamin B,,Philadelphia,59,89.8,39.9407758,-75.2159995
+1562,Pennsylvania,2017,Northwest Elementary,,Butler,59,89.8,40.8688422,-79.9378079
+1563,Pennsylvania,2017,Phoenixville Early Learning Ctr,,Phoenixville,335,89.6,40.1164888,-75.52648
+1564,Pennsylvania,2017,Seven Generations Charter,,Emmaus,77,89.6,40.5364854,-75.4851741
+1565,Pennsylvania,2017,St John Vianney Regional,,Allentown,38,89.5,40.5992939,-75.4960568
+1566,Pennsylvania,2017,Vision Academy Charter,,Lansdowne,38,89.5,39.939352,-75.2704136
+1567,Pennsylvania,2017,Mastery Cs - Mann Campus,,Philadephia,75,89.3,39.9856984,-75.233509
+1568,Pennsylvania,2017,Noahs Ark Preschool/St Stephen Kindergarten,,Sewickley,28,89.3,40.5387875,-80.1832799
+1569,Pennsylvania,2017,St Peter,,Reading,28,89.3,40.331442,-75.927454
+1570,Pennsylvania,2017,St Rose Of Lima,,Philadelphia,28,89.3,39.9753414,-75.237879
+1571,Pennsylvania,2017,Aquinas Academy,,Gibsonia,37,89.2,40.597791,-79.967885
+1572,Pennsylvania,2017,Chester Community Cs,,Chester,576,88.5,39.849392,-75.356815
+1573,Pennsylvania,2017,Holy Cross,,Springfield,26,88.5,39.9319035,-75.3113738
+1574,Pennsylvania,2017,Barry Comm John,,Philadelphia,85,88.2,39.9643749,-75.238604
+1575,Pennsylvania,2017,Clark Elementary,,Erie,40,87.5,42.1476753,-79.9404517
+1576,Pennsylvania,2017,Manheim Christian Day,,Manheim,24,87.5,40.1788526,-76.4049637
+1577,Pennsylvania,2017,Kipp Philadelphia Charter,,Philadelphia,108,87,39.9918615,-75.158044
+1578,Pennsylvania,2017,Manarah Islamic Academy,,Whitehall,23,87,40.6373839,-75.506771
+1579,Pennsylvania,2017,Mastery Cs-Clymer Elementary,,Philadelphia,84,86.9,39.9957755,-75.1528048
+1580,Pennsylvania,2017,Shalom Christian Academy,,Chambersburg,53,86.8,39.873687,-77.691453
+1581,Pennsylvania,2017,Forest City Regional Elementary,,Forest City,60,86.7,41.6438008,-75.4740704
+1582,Pennsylvania,2017,Doyle Elementary,,Doylestown,37,86.5,40.3112277,-75.1435742
+1583,Pennsylvania,2017,Hunting Park Christian Academy,,Philadelphia,22,86.4,40.018615,-75.137233
+1584,Pennsylvania,2017,Calvary Baptist,,Lansdale,43,86,40.2318928,-75.3133634
+1585,Pennsylvania,2017,Rhodes E Washington,,Philadelphia,50,86,40.0025654,-75.1782608
+1586,Pennsylvania,2017,Central Christian Academy,,Houston,28,85.7,40.2306926,-80.2172756
+1587,Pennsylvania,2017,Gettysburg Montessori Charter,,Gettysburg,35,85.7,39.87914,-77.151617
+1588,Pennsylvania,2017,St Francis Desales,,Philadelphia,56,85.7,39.9476788,-75.2154974
+1589,Pennsylvania,2017,Castle Academy,,Harleysville,34,85.3,40.2247769,-75.3907525
+1590,Pennsylvania,2017,Christ The Divine Teacher,,Latrobe,20,85,40.3150413,-79.3814341
+1591,Pennsylvania,2017,Heights/Murray Elementary,,Wilkes Barre,130,84.6,41.2386324,-75.874655
+1592,Pennsylvania,2017,St Helena Incarnation Regional Catholic,,Philadelphia,76,84.2,40.0444081,-75.1283905
+1593,Pennsylvania,2017,Pennsylvania Virtual Cs,,King of Prussia,100,84,40.0936296,-75.4091453
+1594,Pennsylvania,2017,Waldorf School Of Pittsburgh,,Pittsburgh,25,84,40.463958,-79.942294
+1595,Pennsylvania,2017,Eden Christian Academy,,Pittsburgh,24,83.3,40.5309172,-80.002751
+1596,Pennsylvania,2017,St Laurentius,,Philadelphia,24,83.3,39.9766903,-75.1297438
+1597,Pennsylvania,2017,Bryn Athyn Church,,Bryn Athyn,29,82.8,40.1298783,-75.0556378
+1598,Pennsylvania,2017,Juniata Park Academy,,Philadelphia,120,82.5,40.0129645,-75.1111176
+1599,Pennsylvania,2017,Circle Of Seasons Charter,,Fogelsville,45,82.2,40.596755,-75.648538
+1600,Pennsylvania,2017,Red Lion Christian,,Red Lion,28,82.1,39.8910622,-76.592648
+1601,Pennsylvania,2017,Swain,,Allentown,28,82.1,40.578376,-75.504317
+1602,Pennsylvania,2017,Insight Pa Cyber Cs,,Exton,61,82,40.0566562,-75.670901
+1603,Pennsylvania,2017,Penn Christian Academy Of Butler County Inc,,Butler,22,81.8,40.7795538,-79.9370727
+1604,Pennsylvania,2017,Resurrection Regional Catholic,,Philadelphia,49,81.6,40.0540596,-75.0627284
+1605,Pennsylvania,2017,Pennsylvania Leadership Cs,,West Chester,58,81,39.9892147,-75.5556676
+1606,Pennsylvania,2017,Quakertown Christian,,Quakertown,21,81,40.4259717,-75.3190453
+1607,Pennsylvania,2017,Lancaster County Christian School - West Lampeter Campus,,Lancaster,31,80.6,40.0828808,-76.2271895
+1608,Pennsylvania,2017,Beaver Co Christian -West Park Elem,,Beaver Falls,20,80,40.778591,-80.339348
+1609,Pennsylvania,2017,Lititz Area Mennonite,,Lititz,39,79.5,40.162811,-76.277911
+1610,Pennsylvania,2017,Eden Christian Acad - Wexford,,Pittsburgh,24,79.2,40.6337034,-80.0645869
+1611,Pennsylvania,2017,Al-Aqsa Islamic,,Philadelphia,23,78.3,39.9737753,-75.1416725
+1612,Pennsylvania,2017,New Covenant Christian,,Lebanon,23,78.3,40.360647,-76.460389
+1613,Pennsylvania,2017,Chesterbrook Academy Elem,,West Chester,32,78.1,39.9988432,-75.5894268
+1614,Pennsylvania,2017,Pennsylvania Cyber Cs,,Midland,220,77.7,40.6384421,-80.4548869
+1615,Pennsylvania,2017,French International School Phila,,Bala Cynwyd,40,77.5,40.0020553,-75.2386548
+1616,Pennsylvania,2017,Linville Hill Christian,,Paradise,22,77.3,39.9727109,-76.060632
+1617,Pennsylvania,2017,Reach Cyber Cs,,Harrisburg,119,76.5,40.27091,-76.813747
+1618,Pennsylvania,2017,New School Of Lancaster,,Lancaster,21,76.2,40.038699,-76.324534
+1619,Pennsylvania,2017,Sacred Heart Of Jesus,,Lancaster,25,76,40.0410133,-76.3174999
+1620,Pennsylvania,2017,Norwood Fontbonne Academy,,Philadelphia,49,75.5,40.080489,-75.2154225
+1621,Pennsylvania,2017,Dayspring Christian Academy,,Mountville,24,75,40.042549,-76.426578
+1622,Pennsylvania,2017,Universal Academy Of Pittsburgh,,Pittsburgh,23,73.9,40.425617,-79.880898
+1623,Pennsylvania,2017,Commonwealth Charter Academy Cs,,Harrisburg,266,73.7,40.2927363,-76.8833993
+1624,Pennsylvania,2017,Meadowbrook Christian,,Milton,34,73.5,41.0242387,-76.8229556
+1625,Pennsylvania,2017,Centre Square Montessori Schoolhouse,,Blue Bell,30,73.3,40.173796,-75.3007779
+1626,Pennsylvania,2017,Grove City Christian Academy,,Grove City,26,73.1,41.1628019,-80.0764805
+1627,Pennsylvania,2017,Laboratory Cs,,Philadelphia,69,72.5,39.9883651,-75.2429535
+1628,Pennsylvania,2017,Politz Hebrew Academy,,Philadelphia,36,72.2,40.080412,-75.039064
+1629,Pennsylvania,2017,Sacred Heart Of Jesus,,Allentown,28,71.4,40.6091214,-75.4675703
+1630,Pennsylvania,2017,Aquinas Academy,,Greensburg,25,68,40.3070619,-79.546229
+1631,Pennsylvania,2017,Our Mother Of Sorrow,,Philadelphia,34,67.6,39.9639321,-75.2095718
+1632,Pennsylvania,2017,Philadelphia Classical,,Philadelphia,21,66.7,39.9504963,-75.1686633
+1633,Pennsylvania,2017,Ephrata Mennonite,,Ephrata,23,65.2,40.2005582,-76.1727475
+1634,Pennsylvania,2017,Londonderry,,Harrisburg,20,60,40.2976147,-76.8733636
+1635,Pennsylvania,2017,Susquehanna Waldorf,,Marietta,47,42.6,40.0576416,-76.5532039

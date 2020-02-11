@@ -1,0 +1,485 @@
+index,state,year,name,city,mmr,overall,xmed,xper,xrel,lat,lng
+1,Missouri,2018-19,Agape Boarding,Stockton,99,,,,,37.6951686,-93.8372975
+2,Missouri,2018-19,All Saints Academy- St Ferdinand,Florissant,99,,,,,38.8063716,-90.3534658
+3,Missouri,2018-19,All Saints Academy- St Norbert,Florissant,99,,,,,38.8393259,-90.319233
+4,Missouri,2018-19,All Saints Academy-St Rose Phill,Florissant,99,,,,,38.789217,-90.322614
+5,Missouri,2018-19,All Saints,St Peters,99,,,,,38.7973847,-90.628718
+6,Missouri,2018-19,Assumption,St. Louis,99,,,,,38.5001433,-90.3599865
+7,Missouri,2018-19,Atonement Lutheran,Florissant,99,,,,,38.79659,-90.317701
+8,Missouri,2018-19,Blessed Teresa Of Calcutta Sch,Ferguson,99,,,,,38.7485479,-90.2981101
+9,Missouri,2018-19,Central Christian,Clayton,99,,,,,38.64149,-90.334425
+10,Missouri,2018-19,Chaminade College Prep,St. Louis,99,,,,,38.6496493,-90.4068831
+11,Missouri,2018-19,Christ Community Lutheran Scho,Kirkwood,99,,,,,38.5737788,-90.4072465
+12,Missouri,2018-19,Christ Prince Of Peace Sc,Manchester,99,,,,,38.6000063,-90.4950468
+13,Missouri,2018-19,Christian Brothers College Hig,St. Louis,99,,,,,38.6398545,-90.4606679
+14,Missouri,2018-19,Community,St Louis,99,,,,,38.5751341,-90.2511624
+15,Missouri,2018-19,Cor Jesu Academy,St Louis,99,,,,,38.546841,-90.344232
+16,Missouri,2018-19,Cristo Rey Kansas City,Kansas City,99,,,,,39.06718,-94.588878
+17,Missouri,2018-19,Holy Cross Academy,Webster Groves,99,,,,,38.5938802,-90.3295831
+18,Missouri,2018-19,Holy Cross,Kansas City,99,,,,,39.112929,-94.522063
+19,Missouri,2018-19,Holy Redeemer,Webster Groves,99,,,,,38.5922975,-90.3485253
+20,Missouri,2018-19,Holy Trinity,St Ann,99,,,,,38.7242924,-90.3941052
+21,Missouri,2018-19,Immacolata,St. Louis,99,,,,,38.6391894,-90.3517553
+22,Missouri,2018-19,Immaculate Conception,Jackson,99,,,,,37.379563,-89.666526
+23,Missouri,2018-19,Immaculate Conception,Loose Creek,99,,,,,38.51004,-91.949411
+24,Missouri,2018-19,Incarnate Word Academy,St. Louis,99,,,,,38.6994622,-90.3121143
+25,Missouri,2018-19,Incarnate Word Elementaryl,Chesterfield,99,,,,,38.6795663,-90.4962618
+26,Missouri,2018-19,Lutheran High Sch North,St Louis,99,,,,,38.717272,-90.283543
+27,Missouri,2018-19,Lutheran High Sch South,St. Louis,99,,,,,38.5480384,-90.334131
+28,Missouri,2018-19,Mary Institute/Country Day,St. Louis,99,,,,,38.658241,-90.397447
+29,Missouri,2018-19,Mary Queen Of Peace Sch,St. Louis,99,,,,,38.5839414,-90.376086
+30,Missouri,2018-19,Most Sacred Heart,Eureka,99,,,,,38.5048579,-90.6209274
+31,Missouri,2018-19,Our Lady Of Guadalupe Sch,St Louis,99,,,,,38.7302312,-90.3024237
+32,Missouri,2018-19,Our Lady Of Hope,Kansas City,99,,,,,39.050726,-94.602215
+33,Missouri,2018-19,Our Lady Of Lourdes Sch,Washington,99,,,,,38.5465669,-91.0019875
+34,Missouri,2018-19,Our Lady Of Lourdes Sch,University City,99,,,,,38.6470981,-90.3204586
+35,Missouri,2018-19,Our Lady,Festus,99,,,,,38.2267589,-90.4189248
+36,Missouri,2018-19,Pembroke Hill,Kansas City,99,,,,,39.0348903,-94.6090275
+37,Missouri,2018-19,Queen Of All Saints Sch,St. Louis,99,,,,,38.4438294,-90.3087437
+38,Missouri,2018-19,Rossman,Saint Louis,99,,,,,38.645038,-90.463531
+39,Missouri,2018-19,Sacred Heart Schl-Poplar Bluff,Poplar Bluff,99,,,,,36.7577185,-90.4003036
+40,Missouri,2018-19,Sacred Heart Schl-Valley Park,Valley Park,99,,,,,38.5525466,-90.4923059
+41,Missouri,2018-19,Saint Louis Priory,St. Louis,99,,,,,38.6445683,-90.4774738
+42,Missouri,2018-19,Springfield Catholic School System,Springfield,99,,,,,37.1700913,-93.2227015
+43,Missouri,2018-19,St Andrew,Tipton,99,,,,,38.653565,-92.779825
+44,Missouri,2018-19,St Bridget's,Pacific,99,,,,,38.4835409,-90.7435123
+45,Missouri,2018-19,St Catherine Laboure Sch,St. Louis,99,,,,,38.526711,-90.378744
+46,Missouri,2018-19,St Charles Borromeo Sch,St Charles,99,,,,,38.787363,-90.483139
+47,Missouri,2018-19,St Clement Of Rome,St. Louis,99,,,,,38.6089422,-90.4340666
+48,Missouri,2018-19,St Elizabeths,Kansas City,99,,,,,38.9924533,-94.5902624
+49,Missouri,2018-19,St Francis Borgia Schools,Washington,99,,,,,38.5603705,-91.0152606
+50,Missouri,2018-19,St Francis Of Assisi Sch,St. Louis,99,,,,,38.4794109,-90.3037261
+51,Missouri,2018-19,St Gabriel,St Louis,99,,,,,38.5881272,-90.2989142
+52,Missouri,2018-19,St George Schools,Hermann,99,,,,,38.7045813,-91.4398059
+53,Missouri,2018-19,St Gerard Majella,Kirkwood,99,,,,,38.5855949,-90.442867
+54,Missouri,2018-19,St Gregorys,Maryville,99,,,,,40.343418,-94.8658739
+55,Missouri,2018-19,St James,St Joseph,99,,,,,39.7158425,-94.8625771
+56,Missouri,2018-19,St Joachim & St Ann Sch,St Charles,99,,,,,38.7368221,-90.3948682
+57,Missouri,2018-19,St John Regis,Kansas City,99,,,,,38.9611107,-94.4930945
+58,Missouri,2018-19,St John The Baptist,Villa Ridge,99,,,,,38.484059,-90.939932
+59,Missouri,2018-19,St Joseph,St. Charles,99,,,,,38.7422891,-90.652279
+60,Missouri,2018-19,St Joseph,Farmington,99,,,,,37.779469,-90.415224
+61,Missouri,2018-19,St Joseph,Manchester,99,,,,,38.5875709,-90.518172
+62,Missouri,2018-19,St Joseph's Academy,St. Louis,99,,,,,38.624922,-90.407936
+63,Missouri,2018-19,St Joseph's,Salisbury,99,,,,,39.4253868,-92.8064118
+64,Missouri,2018-19,St Marys,Cape Girardeau,99,,,,,37.300574,-89.5273699
+65,Missouri,2018-19,St Marys,Glasgow,99,,,,,39.2253742,-92.8452905
+66,Missouri,2018-19,St Patrick,Wentzville,99,,,,,38.80747,-90.855151
+67,Missouri,2018-19,St Paul,Fenton,99,,,,,38.5161975,-90.4475158
+68,Missouri,2018-19,St Peters Grade,St. Louis,99,,,,,38.7924877,-90.6222007
+69,Missouri,2018-19,St Peters,Marshall,99,,,,,39.1181379,-93.2007986
+70,Missouri,2018-19,St Pius X,Berly,99,,,,,39.4177048,-92.438399
+71,Missouri,2018-19,St Simon,St. Louis,99,,,,,38.5242465,-90.3469843
+72,Missouri,2018-19,St Teresa's Academy,Kansas City,99,,,,,39.02586,-94.588971
+73,Missouri,2018-19,St Theodore,Wentzville,99,,,,,38.85506,-90.864191
+74,Missouri,2018-19,St. Mark,Saint Louis,99,,,,,38.534533,-90.305597
+75,Missouri,2018-19,St.Joseph,Westphalia,99,,,,,38.4406234,-91.9967866
+76,Missouri,2018-19,Ste Genevieve Du Bois Sch,St Louis,99,,,,,38.6104784,-90.3970947
+77,Missouri,2018-19,Torah Prep,St Louis,99,,,,,38.660005,-90.337905
+78,Missouri,2018-19,Trinity Lutheran,Jefferson City,99,,,,,38.566213,-92.186724
+79,Missouri,2018-19,Villa Duchesne,St Louis,99,,,,,38.6439676,-90.4174519
+80,Missouri,2018-19,Visitation Academy,St. Louis,99,,,,,38.6367193,-90.4417857
+81,Missouri,2018-19,De Smet Jesuit High Sch,St Louis,98.9,,,,,38.6612003,-90.4456268
+82,Missouri,2018-19,Hawthorn Leadership Schl Girls,St. Louis,98.9,,,,,38.6660596,-90.2599647
+83,Missouri,2018-19,Immaculate Conception,Jefferson City,98.9,,,,,38.5651,-92.158691
+84,Missouri,2018-19,Immaculate Conception,Old Nroe,98.9,,,,,38.9365928,-90.7795663
+85,Missouri,2018-19,John Burroughs,St Louis,98.9,,,,,38.6439203,-90.3679056
+86,Missouri,2018-19,St John La Lande,Blue Springs,98.9,,,,,39.02425,-94.273871
+87,Missouri,2018-19,St Peters,Jefferson City,98.9,,,,,38.579455,-92.1755521
+88,Missouri,2018-19,St. Francis Cabrini Academy,St Louis,98.9,,,,,38.6006223,-90.2294845
+89,Missouri,2018-19,Nativity Bvm,Independence,98.8,,,,,39.0558317,-94.458874
+90,Missouri,2018-19,St Alban Roe,Wildwood,98.8,,,,,38.597908,-90.641487
+91,Missouri,2018-19,St Peter & Paul,Boonville,98.8,,,,,38.9752466,-92.7400696
+92,Missouri,2018-19,St Stanislaus,Jefferson City,98.8,,,,,38.488246,-92.175873
+93,Missouri,2018-19,Holy Infant,Ballwin,98.7,,,,,38.5842895,-90.5569572
+94,Missouri,2018-19,St Francis Xavier,Saint Joseph,98.7,,,,,39.756745,-94.828118
+95,Missouri,2018-19,St Margaret Mary Alacoque,St Louis,98.7,,,,,38.4867475,-90.3297668
+96,Missouri,2018-19,Ursuline Academy,St. Louis,98.7,,,,,38.577535,-90.387858
+97,Missouri,2018-19,Holy Spirit,Maryland Heights 63043,98.6,,,,,38.7340179,-90.4329842
+98,Missouri,2018-19,Immaculate Conception,Dardenne Prairie,98.6,,,,,38.76775,-90.757631
+99,Missouri,2018-19,St Brendans,Mexico,98.6,,,,,39.1668943,-91.8848313
+100,Missouri,2018-19,St Vincent Elementary,Charleston,98.6,,,,,37.7258364,-89.8764773
+101,Missouri,2018-19,The Barstow,Kansas City,98.6,,,,,38.918111,-94.6051749
+102,Missouri,2018-19,Academy Of The Sacred Heart Sc,St. Charles,98.5,,,,,38.7866299,-90.4817194
+103,Missouri,2018-19,Amazonia Elementary,Amazonia,98.5,,,,,39.8924835,-94.893796
+104,Missouri,2018-19,Immanuel Lutheran Day,Olivette,98.5,,,,,38.673803,-90.391264
+105,Missouri,2018-19,Sacred Heart Schl-Florissant,Florissant,98.5,,,,,38.7948001,-90.3272305
+106,Missouri,2018-19,St Clare Of Assisi,Ellisville,98.5,,,,,38.6049735,-90.574491
+107,Missouri,2018-19,St Marys,Joplin,98.5,,,,,37.076869,-94.517191
+108,Missouri,2018-19,St Pauls Lutheran Elementary,Concordia,98.5,,,,,38.9852079,-93.5677135
+109,Missouri,2018-19,Green Park Lutheran Sch,St Louis,98.4,,,,,38.5273399,-90.3145058
+110,Missouri,2018-19,Our Lady Of Lourdes,Columbia,98.4,,,,,38.9638375,-92.3689164
+111,Missouri,2018-19,Heartland Christian,Belton,98.3,,,,,38.80066,-94.533131
+112,Missouri,2018-19,St Francis Xavier,Jefferson City,98.3,,,,,38.507704,-92.0696497
+113,Missouri,2018-19,Assumption Catholic Sch,Ofallon,98.2,,,,,38.8134645,-90.7016126
+114,Missouri,2018-19,Father Tolton Catholic High Sc,Columbia,98.2,,,,,38.8929734,-92.2898968
+115,Missouri,2018-19,Little Flower,St Louis,98.2,,,,,38.630789,-90.327729
+116,Missouri,2018-19,Oakhill Day,Gladstone,98.2,,,,,39.222448,-94.573218
+117,Missouri,2018-19,Our Lady Of The Pillar,St Louis,98.2,,,,,38.6513609,-90.4068953
+118,Missouri,2018-19,St Paul's Episcopal Day,Kansas City,98.2,,,,,39.052415,-94.5859815
+119,Missouri,2018-19,St Peters,Kansas City,98.2,,,,,39.010912,-94.578451
+120,Missouri,2018-19,Christ Comm Lutheran Sch,Webster Groves,98.1,,,,,38.564769,-90.3641944
+121,Missouri,2018-19,Holy Family Cath,Hannibal,98.1,,,,,39.7049872,-91.3662023
+122,Missouri,2018-19,Our Lady Of Presentation,Lees Summit,98.1,,,,,38.9158992,-94.4045869
+123,Missouri,2018-19,Salem Lutheran,Affton,98.1,,,,,38.559287,-90.304789
+124,Missouri,2018-19,St Joseph Catholic Elem,Imperial,98.1,,,,,38.368125,-90.390549
+125,Missouri,2018-19,St Pauls Lutheran,St. Louis,98.1,,,,,38.6045637,-90.4433328
+126,Missouri,2018-19,Westminster Christian Academy,Town And Country,98.1,,,,,38.637721,-90.503431
+127,Missouri,2018-19,Andrews Academy - Creve Coeur Campus,Creve Coeur,98,,,,,38.6712909,-90.469163
+128,Missouri,2018-19,Barat Academy,Chesterfield,98,,,,,38.65438,-90.643551
+129,Missouri,2018-19,Blossom Wood Day,Hazelwood,98,,,,,38.7938628,-90.3707273
+130,Missouri,2018-19,Chesterfield Day,Saint Louis,98,,,,,38.6543485,-90.5222178
+131,Missouri,2018-19,Christ Academygreater St. Louis,St. Louis,98,,,,,38.6523346,-90.2448047
+132,Missouri,2018-19,Epstein Hebrew Academy,St. Louis,98,,,,,38.6802545,-90.3934515
+133,Missouri,2018-19,Holy Rosary,Clinton,98,,,,,38.3640395,-93.7704944
+134,Missouri,2018-19,Immaculate Conception,Union,98,,,,,38.446601,-91.009237
+135,Missouri,2018-19,Immanuel Lutheran,Jefferson City,98,,,,,38.46144,-92.243511
+136,Missouri,2018-19,Immanuel Lutheran,Lockwood,98,,,,,37.39016,-93.956061
+137,Missouri,2018-19,Loyola Academy,St Louis,98,,,,,38.642002,-90.236649
+138,Missouri,2018-19,Mary Immaculate Elementary,Kirksville,98,,,,,40.194345,-92.576432
+139,Missouri,2018-19,Missouri Torah Institute,Chesterfield,98,,,,,38.63996,-90.571241
+140,Missouri,2018-19,Our Lady Of Snows,Eugene,98,,,,,38.3058833,-92.3564063
+141,Missouri,2018-19,Our Lady Queen Of Peace,House Springs,98,,,,,38.406469,-90.5874485
+142,Missouri,2018-19,Rainbow Center For Commun,Blue Springs,98,,,,,39.0278471,-94.3034351
+143,Missouri,2018-19,Rohan Woods,St Louis,98,,,,,38.6057123,-90.3902778
+144,Missouri,2018-19,Sacred Heart Kdg-Florissant,Florissant,98,,,,,38.7948992,-90.3260769
+145,Missouri,2018-19,St Anthony,Sullivan,98,,,,,38.2141118,-91.1616748
+146,Missouri,2018-19,St Clement,Bowling Green,98,,,,,39.281753,-91.209701
+147,Missouri,2018-19,St Cletus,St Charles,98,,,,,38.8022345,-90.5363023
+148,Missouri,2018-19,St Denis,Benton,98,,,,,37.098669,-89.56304
+149,Missouri,2018-19,St Eustachius,Portageville,98,,,,,36.427719,-89.7046462
+150,Missouri,2018-19,St Gabriel,Kansas City,98,,,,,39.18173,-94.533141
+151,Missouri,2018-19,St Johns Lutheran,Hannibal,98,,,,,39.70271,-91.369241
+152,Missouri,2018-19,St Joseph,Pilot Grove,98,,,,,38.8720801,-92.9117472
+153,Missouri,2018-19,St Paul Lutheran,St. Joseph,98,,,,,39.780389,-94.7841031
+154,Missouri,2018-19,St Thomas The Apostle Sch,St Thomas,98,,,,,38.366827,-92.217555
+155,Missouri,2018-19,St Vincent,Marthasville,98,,,,,38.591996,-90.9840307
+156,Missouri,2018-19,Thomas Jefferson,St. Louis,98,,,,,38.5398658,-90.3955491
+157,Missouri,2018-19,Trinity Lutheran,Cape Girardeau,98,,,,,37.30566,-89.530571
+158,Missouri,2018-19,Trinity Lutheran,Alma,98,,,,,39.098283,-93.54649
+159,Missouri,2018-19,United In Christ Lutheran Schl,Frohna,98,,,,,37.6432277,-89.6185898
+160,Missouri,2018-19,Visitation,Vienna,98,,,,,38.1869474,-91.9476714
+161,Missouri,2018-19,Visitation,Kansas City,97.9,,,,,39.03368,-94.588871
+162,Missouri,2018-19,Whitfield,St Louis,97.9,,,,,38.6538279,-90.4817044
+163,Missouri,2018-19,Word Of Life Lutheran Sch,St. Louis,97.9,,,,,38.5828705,-90.3059145
+164,Missouri,2018-19,Messiah Lutheran,St Charles,97.8,,,,,38.7181244,-90.6760829
+165,Missouri,2018-19,St Vincent Depaul Schools,Perryville,97.8,,,,,37.7234056,-89.8747976
+166,Missouri,2018-19,Forsyth,St Louis,97.7,,,,,38.6451942,-90.3027827
+167,Missouri,2018-19,Sacred Heart Schl-Troy,Troy,97.7,,,,,38.9803455,-90.9616152
+168,Missouri,2018-19,St James,Liberty,97.7,,,,,39.2407007,-94.4551553
+169,Missouri,2018-19,Valle Schools,Ste Genevieve,97.7,,,,,37.9802137,-90.0475106
+170,Missouri,2018-19,Columbia Independent,Columbia,97.6,,,,,38.97351,-92.371701
+171,Missouri,2018-19,Holy Rosary,Warrenton,97.6,,,,,38.81176,-91.136961
+172,Missouri,2018-19,Kansas City Neighborhood Academy,Kansas City,97.6,,,,,39.0818883,-94.5631138
+173,Missouri,2018-19,Miami Elementary,Amoret,97.6,,,,,38.335485,-94.5327367
+174,Missouri,2018-19,Wilson,Clayton,97.6,,,,,38.6416867,-90.306848
+175,Missouri,2018-19,Ascension Sc Chesterfield,Chesterfield,97.5,,,,,38.6623036,-90.5790406
+176,Missouri,2018-19,St Monica,St. Louis,97.5,,,,,38.6711252,-90.4512861
+177,Missouri,2018-19,Thomas Jefferson Indep Day Sch,Joplin,97.5,,,,,37.0995136,-94.4703197
+178,Missouri,2018-19,Bishop Leblond,St. Joseph,97.4,,,,,39.7776366,-94.8074381
+179,Missouri,2018-19,Missouri Military Academy,Mexico,97.4,,,,,39.17198,-91.867824
+180,Missouri,2018-19,New Life Christian,Bridgeton,97.4,,,,,38.7396182,-90.4114801
+181,Missouri,2018-19,St George,Linn,97.4,,,,,38.484256,-91.849147
+182,Missouri,2018-19,Polk County Christian,Bolivar,97.3,,,,,37.598669,-93.434636
+183,Missouri,2018-19,St Justin The Martyr Sch,St Louis,97.3,,,,,38.5439672,-90.3917032
+184,Missouri,2018-19,St Thomas More,Kansas City,97.3,,,,,38.9125,-94.585571
+185,Missouri,2018-19,Greater Circle Of St James,St James,97.2,,,,,37.995694,-91.6116186
+186,Missouri,2018-19,Immanuel Lutheran,St. Charles,97.2,,,,,38.783208,-90.489248
+187,Missouri,2018-19,St Stephen Protomartyr Sc,St Louis,97.2,,,,,38.569498,-90.2632481
+188,Missouri,2018-19,Abiding Savior Lutheran,St Louis,97.1,,,,,38.4863727,-90.3599122
+189,Missouri,2018-19,Immaculate Conception,Macon,97.1,,,,,39.741585,-92.471684
+190,Missouri,2018-19,First Baptist,Poplar Bluff,97,,,,,36.761596,-90.409716
+191,Missouri,2018-19,St Agnes,Bloomsdale,97,,,,,38.0072045,-90.2214333
+192,Missouri,2018-19,St Josephs,Wentzville,97,,,,,38.8439403,-90.7958468
+193,Missouri,2018-19,St Therese,Parkville,97,,,,,39.2187849,-94.6642756
+194,Missouri,2018-19,Churchill,Town And Country,96.8,,,,,38.6305973,-90.4520531
+195,Missouri,2018-19,River Oak Christian Academy,Jefferson City,96.8,,,,,38.57088,-92.239361
+196,Missouri,2018-19,Miriam,St. Louis,96.7,,,,,38.600744,-90.36949
+197,Missouri,2018-19,Notre Dame De Sion Elementary,Kansas City,96.7,,,,,38.9352177,-94.5957129
+198,Missouri,2018-19,Calvary Lutheran School - Wornall Campus,Kansas City,96.6,,,,,38.9029033,-94.5918132
+199,Missouri,2018-19,Neosho Christian,Neosho,96.6,,,,,36.857648,-94.3823314
+200,Missouri,2018-19,North County Christian,Florissant,96.6,,,,,38.77633,-90.324021
+201,Missouri,2018-19,St Josephs,Jefferson City,96.6,,,,,38.5923131,-92.2111433
+202,Missouri,2018-19,St Peters,Fulton,96.6,,,,,38.8613979,-91.9351601
+203,Missouri,2018-19,St Ambrose,Chaffee,96.5,,,,,37.178449,-89.661459
+204,Missouri,2018-19,St Patricks,Kansas City,96.5,,,,,39.1700698,-94.5617805
+205,Missouri,2018-19,Calo Academy,Lake Ozark,96.4,,,,,38.203149,-92.738621
+206,Missouri,2018-19,Immanuel Lutheran,Washington,96.4,,,,,38.5568221,-91.01533
+207,Missouri,2018-19,St Teresa,Campbell,96.4,,,,,36.581993,-90.153675
+208,Missouri,2018-19,The Christian Academy,Sikeston,96.4,,,,,36.8741,-89.587921
+209,Missouri,2018-19,Christ Light Of The Nation S,St. Louis,96.3,,,,,38.7850051,-90.220731
+210,Missouri,2018-19,Kipp: Endeavor Academy,Kansas City,96.3,,,,,39.091598,-94.550778
+211,Missouri,2018-19,St Paul Lutheran,Jackson,96.3,,,,,37.3810844,-89.6696498
+212,Missouri,2018-19,College Heights Christian Scho,Joplin,96.2,,,,,37.0989962,-94.4530027
+213,Missouri,2018-19,Holy Family,Freeburg,96.2,,,,,38.31485,-91.924941
+214,Missouri,2018-19,Zion Lutheran,St. Charles,96.2,,,,,38.74225,-90.584904
+215,Missouri,2018-19,Westwood Baptist Academy,Poplar Bluff,96.1,,,,,36.79906,-90.444011
+216,Missouri,2018-19,Clinton Christian Academy,Clinton,96,,,,,38.368318,-93.806229
+217,Missouri,2018-19,Grace Chapel Lutheran Sch,St Louis,96,,,,,38.7516598,-90.2386007
+218,Missouri,2018-19,St Ambrose,St Louis,96,,,,,38.6154517,-90.2715452
+219,Missouri,2018-19,St Augustines,Kelso,96,,,,,37.1897779,-89.5500423
+220,Missouri,2018-19,St Eliz St Robert Cath Sc,St. Charles,96,,,,,38.7779569,-90.5412321
+221,Missouri,2018-19,St Josephs,Springfield,96,,,,,37.2202295,-93.2949686
+222,Missouri,2018-19,Saul Mirowitz Jewish Comm Schl,Saint Louis,95.9,,,,,38.6503921,-90.4767741
+223,Missouri,2018-19,Holy Rosary,Nroe City,95.7,,,,,39.6491508,-91.7359059
+224,Missouri,2018-19,First Baptist Christian,O'Fallon,95.6,,,,,38.7981042,-90.7032912
+225,Missouri,2018-19,Faith Lutheran,Kirksville,95.2,,,,,40.17941,-92.573101
+226,Missouri,2018-19,South City Catholic Academy,Saint Louis,95.2,,,,,38.5969643,-90.291845
+227,Missouri,2018-19,Christ King,St. Louis,95.1,,,,,38.6634262,-90.326093
+228,Missouri,2018-19,First Baptist Christian Acad,Troy,95.1,,,,,38.9513071,-90.9691677
+229,Missouri,2018-19,Martin Luther,Joplin,95.1,,,,,37.0607051,-94.495724
+230,Missouri,2018-19,St Joseph Christian,Saint Joseph,95.1,,,,,39.79286,-94.7702
+231,Missouri,2018-19,Academy At St. Sabina,Florissant,95,,,,,38.81504,-90.344301
+232,Missouri,2018-19,Agape Child Development,St Louis,95,,,,,38.6702344,-90.3297369
+233,Missouri,2018-19,Al-Manara Academy,Manchester,95,,,,,38.5684606,-90.5081643
+234,Missouri,2018-19,Bais Yaakov Of St Louis,St. Louis,95,,,,,38.5172928,-90.2815005
+235,Missouri,2018-19,Bambini Creativi,Kansas City,95,,,,,38.883343,-94.590737
+236,Missouri,2018-19,Cedar Bend Mennonite,Baring,95,,,,,40.2442046,-92.2057395
+237,Missouri,2018-19,Central Institute For The Deaf,St. Louis,95,,,,,38.6328964,-90.2627762
+238,Missouri,2018-19,Faith Academy,Kansas City,95,,,,,39.1713535,-94.4974367
+239,Missouri,2018-19,Great Circle - Columbia,Columbia,95,,,,,38.9013533,-92.3041898
+240,Missouri,2018-19,Hillcrest Seventh-Day Adventist Elementary,Olivette,95,,,,,38.678392,-90.394353
+241,Missouri,2018-19,Holy Cross,Cuba,95,,,,,38.0641758,-91.406208
+242,Missouri,2018-19,Immaculate Conception,New Madrid,95,,,,,36.5877534,-89.5287887
+243,Missouri,2018-19,Immanuel Lutheran,Rosebud,95,,,,,38.3875,-91.401725
+244,Missouri,2018-19,Islamic School Of Columbia,Columbia,95,,,,,38.9494153,-92.3325244
+245,Missouri,2018-19,Life Church,Kirksville,95,,,,,40.21085,-92.583781
+246,Missouri,2018-19,Lighthouse Christian Academy/Abm Ministries,Pied Nt,95,,,,,37.0903255,-90.7270455
+247,Missouri,2018-19,Miriam Academy,St Louis,95,,,,,38.6328648,-90.4435706
+248,Missouri,2018-19,Nova Center,Independence,95,,,,,39.07886,-94.454691
+249,Missouri,2018-19,Oak Bridge,Hazelwood,95,,,,,38.779757,-90.362303
+250,Missouri,2018-19,Ozark Christian,Versailles,95,,,,,38.4482079,-92.7682261
+251,Missouri,2018-19,Racine Apostolic Christian,Racine,95,,,,,36.8814497,-94.5532671
+252,Missouri,2018-19,Sacred Heart Schl-Freeburg,Freeburg,95,,,,,38.3970411,-91.8811958
+253,Missouri,2018-19,Saint Mary's,Bonnots Mill,95,,,,,38.5616,-91.8156
+254,Missouri,2018-19,St Gertrude,Washington,95,,,,,38.4968878,-91.0479627
+255,Missouri,2018-19,St Henrys,Charleston,95,,,,,36.9243751,-89.3467773
+256,Missouri,2018-19,St Joseph,Ste Genevieve,95,,,,,37.9523677,-90.1430562
+257,Missouri,2018-19,St Josephs,Martinsburg,95,,,,,39.1016863,-91.6434602
+258,Missouri,2018-19,St Louis Unified School Of Sda,St Louis,95,,,,,38.737916,-90.263415
+259,Missouri,2018-19,St Marys,Ntrose,95,,,,,38.2610561,-93.982799
+260,Missouri,2018-19,St Marys,Pierce City,95,,,,,36.943198,-94.000061
+261,Missouri,2018-19,St. Ignatius Loyola,Marthasville,95,,,,,38.64987,-91.1391002
+262,Missouri,2018-19,Trinity Lutheran,Saint Charles,95,,,,,38.86519,-90.450931
+263,Missouri,2018-19,Victory Baptist Academy,Pied Nt,95,,,,,37.1742576,-90.6808798
+264,Missouri,2018-19,Mc Cartan Memorial,Marceline,94.9,,,,,39.71183,-92.952591
+265,Missouri,2018-19,St Johns Lutheran,Arnold,94.8,,,,,38.414389,-90.378545
+266,Missouri,2018-19,St Cecilia,St Louis,94.7,,,,,38.5688409,-90.2499705
+267,Missouri,2018-19,Child Of God Lutheran,Saint Peters,94.6,,,,,38.788704,-90.660532
+268,Missouri,2018-19,Living Word,O'Fallon,94.6,,,,,38.822584,-90.67316
+269,Missouri,2018-19,St Margarets,St. Louis,94.6,,,,,38.6147268,-90.2474012
+270,Missouri,2018-19,St Raphael The Archangel,St Louis,94.6,,,,,38.5771154,-90.302953
+271,Missouri,2018-19,Berean Christian Academy,Nett,94.5,,,,,36.9108183,-93.8768864
+272,Missouri,2018-19,The St. Michael School Of Clayton,St Louis,94.5,,,,,38.6445332,-90.3059721
+273,Missouri,2018-19,Bishop Hogan Schools,Chillicothe,94.4,,,,,39.7986966,-93.5499496
+274,Missouri,2018-19,Genesis School Inc.,Kansas City,94.4,,,,,39.046492,-94.539573
+275,Missouri,2018-19,St Mary Magdalen,Brentwood,94.4,,,,,38.61325,-90.347799
+276,Missouri,2018-19,St Paul,St Paul,94.4,,,,,38.8622941,-90.7440731
+277,Missouri,2018-19,Storman,St. Louis,94.4,,,,,38.749131,-90.210611
+278,Missouri,2018-19,St Charles,Kansas City,94.3,,,,,39.2108004,-94.5705011
+279,Missouri,2018-19,Immanuel Lutheran,Perryville,94.2,,,,,37.723628,-89.865445
+280,Missouri,2018-19,Most Holy Trinity,St. Louis,94.2,,,,,38.6604408,-90.1996694
+281,Missouri,2018-19,St. Andrew's,Gladstone,94.1,,,,,39.2111757,-94.5347602
+282,Missouri,2018-19,St Pauls Lutheran,Sedalia,94,,,,,38.70479,-93.225531
+283,Missouri,2018-19,New Covenant Academy,Springfield,93.9,,,,,37.1559309,-93.3217477
+284,Missouri,2018-19,Aurora Christian Academy,Aurora,93.8,,,,,36.9841289,-93.7388149
+285,Missouri,2018-19,Immanuel Lutheran,Wentzville,93.8,,,,,38.7655382,-90.841329
+286,Missouri,2018-19,St Mark's Lutheran,Eureka,93.8,,,,,38.508121,-90.638291
+287,Missouri,2018-19,Show-Me Christian,La Nte,93.6,,,,,38.7352396,-93.4474906
+288,Missouri,2018-19,City Academy,St. Louis,93.5,,,,,38.6815562,-90.24888
+289,Missouri,2018-19,Lutheran School Assn,Cole Camp,93.5,,,,,38.4591109,-93.2016266
+290,Missouri,2018-19,Cornerstone Academy,St Louis,93.3,,,,,38.5043694,-90.2848918
+291,Missouri,2018-19,Fulton School At St Albans,St Albans,93.3,,,,,38.5708756,-90.7703186
+292,Missouri,2018-19,Islamic School Of Greater Kc,Kansas City,93.3,,,,,38.943044,-94.491267
+293,Missouri,2018-19,South Park Christian Academy,St Joseph,93,,,,,39.726974,-94.83339
+294,Missouri,2018-19,St Anns,Normandy,93,,,,,38.7050132,-90.3008676
+295,Missouri,2018-19,Kingdom Christian Academy,Fulton,92.9,,,,,38.852112,-91.938617
+296,Missouri,2018-19,St Francis Xavier,Sikeston,92.9,,,,,36.8764717,-89.5921597
+297,Missouri,2018-19,Christian Fellowship,Columbia,92.7,,,,,38.95446,-92.402981
+298,Missouri,2018-19,Guardian Angel,Oran,92.6,,,,,37.0903535,-89.6529313
+299,Missouri,2018-19,Montessori Schoolhouse,Higginsville,92.6,,,,,39.06974,-93.720461
+300,Missouri,2018-19,Sunny Hollow,Memphis,92.6,,,,,35.1583701,-90.1831388
+301,Missouri,2018-19,St Anns,Carthage,92.5,,,,,37.168732,-94.308413
+302,Missouri,2018-19,Summit Christian Academy,Lee's Summit,92.5,,,,,38.8930648,-94.3786535
+303,Missouri,2018-19,South City Community,St. Louis,92.4,,,,,38.607238,-90.2698838
+304,Missouri,2018-19,Springfield Lutheran Sch,Springfield,92.2,,,,,37.162156,-93.300835
+305,Missouri,2018-19,Holy Child,Arnold,92,,,,,38.4331992,-90.3795524
+306,Missouri,2018-19,South Latham,Latham,92,,,,,38.558855,-92.6807391
+307,Missouri,2018-19,St Patricks,Rolla,92,,,,,37.9572114,-91.773834
+308,Missouri,2018-19,Villa Di Maria Montessori,Kirkwood,92,,,,,38.603112,-90.414004
+309,Missouri,2018-19,St Joachim Schools,Cadet,91.8,,,,,38.016439,-90.7573533
+310,Missouri,2018-19,Mile Lane,Memphis,91.7,,,,,40.4719971,-92.1780901
+311,Missouri,2018-19,St Josephs Co Cthdrl Sch,St. Joseph,91.6,,,,,39.7707716,-94.8470266
+312,Missouri,2018-19,Perry Christian Academy,Perry,91.2,,,,,39.429556,-91.658359
+313,Missouri,2018-19,Annunziata,Saint Louis,90.9,,,,,38.640968,-90.375816
+314,Missouri,2018-19,Giant Steps Of St Louis,Maplewood,90.9,,,,,38.6129713,-90.3161689
+315,Missouri,2018-19,Perspectives Preparatory Academy,Springfield,90.9,,,,,37.1388702,-93.2736069
+316,Missouri,2018-19,New City,Saint Louis,90.8,,,,,38.64948,-90.270641
+317,Missouri,2018-19,Round Grove Christian Academy,Miller,90.8,,,,,37.271624,-93.906229
+318,Missouri,2018-19,St Roch,St Louis,90.8,,,,,38.6502746,-90.2961521
+319,Missouri,2018-19,Horace Mann Laboratory,Maryville,90.7,,,,,40.352726,-94.880418
+320,Missouri,2018-19,Immanuel Lutheran,Higginsville,90.7,,,,,39.079679,-93.712323
+321,Missouri,2018-19,Cape Christian Community,Cape Girardeau,90.5,,,,,37.3297775,-89.5745938
+322,Missouri,2018-19,Kansas City Academy,Kansas City,90.5,,,,,38.983946,-94.589863
+323,Missouri,2018-19,Tower Grove Christian,St Louis,90.5,,,,,38.6091437,-90.2564757
+324,Missouri,2018-19,St Pauls Lutheran,Farmington,90.3,,,,,37.8054024,-90.4488164
+325,Missouri,2018-19,The Soulard,Saint Louis,90.1,,,,,38.6026353,-90.21112
+326,Missouri,2018-19,Liberty Christian Academy,Wright City,90,,,,,38.829195,-91.037289
+327,Missouri,2018-19,The Montessori Training Center And Lab School At Grand Center,St.Louis,90,,,,,38.6414019,-90.2370401
+328,Missouri,2018-19,Living Word Christian,St Peters,89.9,,,,,38.776375,-90.595471
+329,Missouri,2018-19,Johnson County Christian Academy,Centerview,89.7,,,,,38.74139,-93.843231
+330,Missouri,2018-19,Lighthouse Preparatory Academy,Jefferson City,89.7,,,,,38.58865,-92.250151
+331,Missouri,2018-19,St Louis Catholic Academy,St. Louis,89.7,,,,,38.6808415,-90.2389231
+332,Missouri,2018-19,Stephen's College Children's,Columbia,89.7,,,,,38.9536151,-92.3195515
+333,Missouri,2018-19,Good Shepherd,Hillsboro,89.5,,,,,38.2332526,-90.5664052
+334,Missouri,2018-19,Plaza Heights Christian Acad,Blue Springs,89.4,,,,,39.0028615,-94.2829409
+335,Missouri,2018-19,The College,Webster Groves,89.4,,,,,38.5969256,-90.333287
+336,Missouri,2018-19,The King's Academy,Lake Ozark,89.4,,,,,38.19597,-92.643411
+337,Missouri,2018-19,Chesterfield Montessori,Chesterfield,89.2,,,,,38.661001,-90.508677
+338,Missouri,2018-19,Training Center Christian,Garden City,89.2,,,,,38.55265,-94.191881
+339,Missouri,2018-19,Sunndale Academy,Centralia,89,,,,,39.244484,-92.2134988
+340,Missouri,2018-19,Victory Christian Academy,St. Louis,88.7,,,,,38.4087511,-90.386633
+341,Missouri,2018-19,Kirk Of The Hills Christian,St. Louis,88.6,,,,,38.655584,-90.4833806
+342,Missouri,2018-19,Sacred Heart Schl-Sedalia,Sedalia,88.6,,,,,38.7092317,-93.2322034
+343,Missouri,2018-19,St Rose Of Lima,Desoto,88.5,,,,,38.1353007,-90.5585997
+344,Missouri,2018-19,Delasalle Charter,Kansas City,88.4,,,,,39.058451,-94.571505
+345,Missouri,2018-19,Ewing Marion Kauffman,Kansas City,88.2,,,,,39.0116959,-94.5671635
+346,Missouri,2018-19,Tabernacle Christian Academy,Lebanon,88.2,,,,,37.6735044,-92.6678784
+347,Missouri,2018-19,Heartland Christian Academy,Bethel,88,,,,,39.94349,-91.990361
+348,Missouri,2018-19,Christian Chapel Academy,Columbia,87.9,,,,,38.913794,-92.333314
+349,Missouri,2018-19,Lift For Life Academy,St. Louis,87.9,,,,,38.608525,-90.200442
+350,Missouri,2018-19,Timothy Lutheran,Blue Springs,87.8,,,,,38.967441,-94.270202
+351,Missouri,2018-19,Bishop Dubourg High Sch,St Louis,87.7,,,,,38.5810191,-90.2953585
+352,Missouri,2018-19,Northland Christian,Kansas City,87.7,,,,,39.2848032,-94.5874779
+353,Missouri,2018-19,Greenwood Laboratory,Springfield,87.4,,,,,37.202372,-93.279524
+354,Missouri,2018-19,Cross Point Christian,Villa Ridge,87.2,,,,,38.455761,-90.895926
+355,Missouri,2018-19,Sunny Lane,Versailles,87.1,,,,,36.728416,-93.385295
+356,Missouri,2018-19,Northern Hills Christian Acad,Holt,86.8,,,,,39.4173029,-94.368803
+357,Missouri,2018-19,Trinity Lutheran,Freistatt,86.8,,,,,37.018741,-93.897292
+358,Missouri,2018-19,St Johns Lutheran,Ellisville,86.5,,,,,38.5916962,-90.5822817
+359,Missouri,2018-19,Oak Ridge Country,Stover,86.4,,,,,38.5608413,-92.9851293
+360,Missouri,2018-19,El Dorado Christian,El Dorado Springs,86.2,,,,,37.857355,-94.016077
+361,Missouri,2018-19,Eagle Ridge Christian,Cape Girardeau,86,,,,,37.30957,-89.598171
+362,Missouri,2018-19,Glade Springs,Sheldon,85.7,,,,,37.6620831,-94.2927046
+363,Missouri,2018-19,Our Savior Lutheran,Fenton,85.7,,,,,38.5216889,-90.4628334
+364,Missouri,2018-19,Salem Lutheran,Florissant,85.5,,,,,38.792815,-90.2599997
+365,Missouri,2018-19,Tri-County Christian,Macon,85.5,,,,,39.7571,-92.466205
+366,Missouri,2018-19,Park Avenue Christian,Springfield,85.2,,,,,37.24926,-93.318501
+367,Missouri,2018-19,The Freedom,University City,85.1,,,,,38.6800827,-90.3487086
+368,Missouri,2018-19,Cornerstone Academy Of The Ozark,Warsaw,85,,,,,38.2549105,-93.408221
+369,Missouri,2018-19,Sunnydale Adventist Elementary,Centralia,85,,,,,39.2432957,-92.2126532
+370,Missouri,2018-19,Clay Platte Montessori,Kansas City,84.9,,,,,39.20172,-94.606761
+371,Missouri,2018-19,Providence Christian Academy,Saint Louis,84.9,,,,,38.5251014,-90.363983
+372,Missouri,2018-19,Marshfield Christian,Marshfield,84.6,,,,,37.3355484,-92.9065953
+373,Missouri,2018-19,River Roads Lutheran Sch,St Louis,84.5,,,,,38.7176433,-90.2333709
+374,Missouri,2018-19,Sherwood Autism Center,Kansas City,84.3,,,,,38.9820951,-94.6041727
+375,Missouri,2018-19,St James The Greater Sch,St. Louis,84,,,,,38.6252992,-90.2932057
+376,Missouri,2018-19,Twin Oaks Christian,Ballwin,83.3,,,,,38.5662492,-90.5047167
+377,Missouri,2018-19,Crossroads,St. Louis,83,,,,,38.6518603,-90.2839225
+378,Missouri,2018-19,Applewood Christian,Sedalia,82.6,,,,,38.70511,-93.123561
+379,Missouri,2018-19,Urban Christian Academy,Kansas City,82.5,,,,,39.04697,-94.535921
+380,Missouri,2018-19,Oak Haven Montessori,Dardenne Prairie,82.2,,,,,38.76511,-90.727191
+381,Missouri,2018-19,St Alphonsus,Silex,82,,,,,39.10434,-91.106881
+382,Missouri,2018-19,St. Louis College Prep,St. Louis,81.8,,,,,38.6169003,-90.2081692
+383,Missouri,2018-19,Heritage Classical Christian Academy,Fenton,81.5,,,,,38.526488,-90.486237
+384,Missouri,2018-19,Carrie Elligson Gietner School - Every Child's Hope,Saint Louis,81.3,,,,,38.566418,-90.237735
+385,Missouri,2018-19,Cardinal Ritter Clg Prep,St Louis,81.2,,,,,38.6419109,-90.2349359
+386,Missouri,2018-19,St Austin,Chesterfield,81.1,,,,,38.6130221,-90.453532
+387,Missouri,2018-19,Blue Ridge Christian,Kansas City,80.8,,,,,38.840788,-94.54787
+388,Missouri,2018-19,Harmony Mennonite,Rich Hill,79.5,,,,,38.0964191,-94.3610616
+389,Missouri,2018-19,Trinity Christian Academy,Hollister,79.3,,,,,36.625812,-93.212818
+390,Missouri,2018-19,Crowley Ridge Mennonite,Bloomfield,79.2,,,,,36.8764742,-89.9311084
+391,Missouri,2018-19,Heritage Academy,Columbia,79,,,,,38.96036,-92.347158
+392,Missouri,2018-19,Glensted,Versailles,78.9,,,,,38.4942704,-92.8547297
+393,Missouri,2018-19,Excelsior Mennonite,Fortuna,78.6,,,,,38.5667297,-92.7969952
+394,Missouri,2018-19,La Salle Charter,St. Louis,77.8,,,,,38.640325,-90.212498
+395,Missouri,2018-19,Bear Creek,Gorin,77.3,,,,,37.8619802,-93.9732733
+396,Missouri,2018-19,Harrisonville Christian,Harrisonville,77.2,,,,,38.64504,-94.335101
+397,Missouri,2018-19,Messiah Lutheran,Independence,77.1,,,,,39.08644,-94.415863
+398,Missouri,2018-19,St Joseph,Scott City,76.9,,,,,37.224477,-89.511062
+399,Missouri,2018-19,Mt Zion Bible,Ava,76.2,,,,,37.014883,-92.662987
+400,Missouri,2018-19,Victory Academy,Sey Ur,76.1,,,,,37.1542396,-92.7683142
+401,Missouri,2018-19,Prairie Union Mennonite,Latham,76,,,,,38.558855,-92.6807391
+402,Missouri,2018-19,Crossroad,Barnett,75,,,,,39.101727,-94.5866467
+403,Missouri,2018-19,Dayspring Christian,Springfield,74.8,,,,,37.23655,-93.272961
+404,Missouri,2018-19,Trinity Learning Center,Anderson,74.6,,,,,36.6756029,-94.5005808
+405,Missouri,2018-19,Lee's Summit Academy,Lees Summit,73.3,,,,,38.92361,-94.399381
+406,Missouri,2018-19,Millport Mennonite,Rutledge,72.7,,,,,40.3161859,-92.0873055
+407,Missouri,2018-19,Maranatha Baptist Academy,St Robert,72.6,,,,,37.8069242,-92.1413847
+408,Missouri,2018-19,Grace Classical Academy,Springfield,72.4,,,,,37.2022269,-93.2469047
+409,Missouri,2018-19,Ozarks Christian Academy,West Plains,72,,,,,36.7122847,-91.7869031
+410,Missouri,2018-19,Al Salam Day,Manchester,71.4,,,,,38.602914,-90.495968
+411,Missouri,2018-19,Legacy Christian Academy,Branson,71.4,,,,,36.6417201,-93.2295085
+412,Missouri,2018-19,Center Place Restoration,Independence,70.8,,,,,39.096066,-94.425956
+413,Missouri,2018-19,Shady Ridge,Memphis,70.4,,,,,40.4719971,-92.1780901
+414,Missouri,2018-19,Queen Of The Holy Rosary Academy,Saint Louis,68.9,,,,,38.56312,-90.368091
+415,Missouri,2018-19,Twin Oaks,Latham,67.9,,,,,38.566245,-90.502528
+416,Missouri,2018-19,Christian Outreach,Hillsboro,67.4,,,,,38.300846,-90.5223568
+417,Missouri,2018-19,Misty Meadow,Fortuna,66.7,,,,,38.9919536,-94.3574903
+418,Missouri,2018-19,Victory Road Christian Academy,Anderson,65.7,,,,,36.6675635,-94.5795366
+419,Missouri,2018-19,Meadow View,Barnett,64.7,,,,,38.6498308,-92.7758414
+420,Missouri,2018-19,Riverview Christian,Forsyth,64.6,,,,,36.717497,-93.124623
+421,Missouri,2018-19,Prairie Dale,Versailles,62.1,,,,,38.4314141,-92.8410274
+422,Missouri,2018-19,Prodigy Leadership Academy,Cape Girardeau,61.4,,,,,37.341477,-89.495347
+423,Missouri,2018-19,Ozark Mennonite,Sey Ur,60.6,,,,,37.1150302,-92.7203869
+424,Missouri,2018-19,Troy Holiness,Troy,57.7,,,,,38.97182,-90.975281
+425,Missouri,2018-19,Meadowlark Hill,Tunas,57.1,,,,,37.8329869,-92.96315
+426,Missouri,2018-19,Locust Grove,Edina,55.6,,,,,39.7780916,-92.3121277
+427,Missouri,2018-19,The Summit Preparatory School Of Sw Missouri,Springfield,54.8,,,,,37.1520637,-93.292992
+428,Missouri,2018-19,The Daniel Academy,Kansas City,53.6,,,,,38.93699,-94.594531
+429,Missouri,2018-19,The Waldorf School Of St. Louis,St Louis,53.4,,,,,38.605782,-90.356244
+430,Missouri,2018-19,Melton Prairie,Tunas,52.9,,,,,37.6277221,-93.1016964
+431,Missouri,2018-19,Liberty Faith Christian Academy,Norwood,50,,,,,37.1144729,-92.4154258
+432,Missouri,2018-19,Lilac Hill,Barnett,48,,,,,38.3771017,-92.6767827
+433,Missouri,2018-19,Cornerstone Christian Academy,Saint Clair,46.4,,,,,38.336065,-90.968981
+434,Missouri,2018-19,Hopewell,Barnett,45.2,,,,,38.4338416,-92.8569173
+435,Missouri,2018-19,Gorin Mennonite School - Rainbow,Gorin,42.3,,,,,40.3602307,-92.0208407
+436,Missouri,2018-19,Hazel Dell,Fortuna,38.5,,,,,38.5355805,-92.7174141
+437,Missouri,2018-19,St Lawrence,Nett,36.8,,,,,36.924081,-93.9206421
+438,Missouri,2018-19,Principia,St Louis,34.7,,,,,38.626292,-90.468077
+439,Missouri,2018-19,Meadow Lane,Windsor,30.4,,,,,38.9383106,-94.3635316
+440,Missouri,2018-19,Maple Shade,Windsor,23.1,,,,,38.5292027,-93.5264069
+441,Missouri,2018-19,Webster County Parochial Schools,Sey Ur,1,,,,,37.1501551,-92.761725
+442,Missouri,2018-19,Academy Of St.Louis,Chesterfield,,,,,,38.643858,-90.613445
+443,Missouri,2018-19,Apostolic Christian,Reeds Spring,,,,,,36.810004,-93.299212
+444,Missouri,2018-19,Appleseed Christian Academy,Branson,,,,,,36.6221858,-93.2022389
+445,Missouri,2018-19,Apprende Private,Valley Park,,,,,,38.556792,-90.492838
+446,Missouri,2018-19,Bell Tower Schoolhouse Llc,Marshfield,,,,,,37.3360345,-92.8938799
+447,Missouri,2018-19,Bethel Mennonite,Rayville,,,,,,38.887144,-94.522704
+448,Missouri,2018-19,Bible Baptist Academy,Nevada,,,,,,37.8634,-94.294631
+449,Missouri,2018-19,Cedar Ridge,Barnett,,,,,,38.9244202,-92.2635666
+450,Missouri,2018-19,Children's Center For Visually Impaired,Kansas City,,,,,,39.0706979,-94.5851313
+451,Missouri,2018-19,Children's House Of Columbia,Columbia,,,,,,38.9400136,-92.3307323
+452,Missouri,2018-19,Concordia Lutheran,Sikeston,,,,,,36.8858286,-89.58957
+453,Missouri,2018-19,Fairview Mennonite,Fairview,,,,,,36.8221989,-94.114473
+454,Missouri,2018-19,Faith Assembly Christian Schl,West Plains,,,,,,36.7189213,-91.8763346
+455,Missouri,2018-19,Faith Walk Academy,Paris,,,,,,39.485024,-92.002057
+456,Missouri,2018-19,Foristell Baptist Academy,Foristell,,,,,,38.81541,-90.957951
+457,Missouri,2018-19,Glad-Tidings Assembly Of God,Kansas City,,,,,,39.018028,-94.55208
+458,Missouri,2018-19,Immanuel Lutheran Kindergarten,Boonville,,,,,,38.963067,-92.7332939
+459,Missouri,2018-19,Kennett Christian Academy,Kennett,,,,,,36.237103,-90.047115
+460,Missouri,2018-19,Kids In Montessori,Jefferson City,,,,,,38.561652,-92.167066
+461,Missouri,2018-19,Living Faith Mennonite,Harwood,,,,,,37.9017142,-94.2351485
+462,Missouri,2018-19,Logos,St. Louis,,,,,,38.6670837,-90.3662496
+463,Missouri,2018-19,Map St. Louis,St. Louis,,,,,,38.6413016,-90.2367186
+464,Missouri,2018-19,Maranatha Adventist,Berly,,,,,,39.4071677,-92.4209982
+465,Missouri,2018-19,Moog Center For Deaf Education,St. Louis,,,,,,38.6361775,-90.4522235
+466,Missouri,2018-19,Moreau Montessori,Jefferson City,,,,,,38.56123,-92.166521
+467,Missouri,2018-19,Oak Ridge,Windsor,,,,,,38.0082839,-92.7306765
+468,Missouri,2018-19,Ozark Christian Academy,Neosho,,,,,,36.8782851,-94.3786287
+469,Missouri,2018-19,Prospect Grove,Arbela,,,,,,40.5497566,-91.9276722
+470,Missouri,2018-19,Rivendale Institute Of Learning Inc,Springfield,,,,,,37.184744,-93.31662
+471,Missouri,2018-19,Sacred Heart Villa,St.Louis,,,,,,38.6157971,-90.2768305
+472,Missouri,2018-19,Schoolhouse Inc.,Independence,,,,,,39.0564152,-94.4027381
+473,Missouri,2018-19,Second Mission Bapt Learn Ctr,Grandview,,,,,,38.897293,-94.532558
+474,Missouri,2018-19,Sedalia Seventh Day Adventist,Sedalia,,,,,,38.6946122,-93.1427393
+475,Missouri,2018-19,Springhill's School Of Hope,Fairdealing,,,,,,36.6732086,-90.6998487
+476,Missouri,2018-19,St Gemma Center,Ellisville,,,,,,38.604916,-90.576366
+477,Missouri,2018-19,St Marys,Nevada,,,,,,37.8413119,-94.3574791
+478,Missouri,2018-19,Summit View Adventist,Lees Summit,,,,,,38.8875736,-94.2631793
+479,Missouri,2018-19,Sunnyside,Windsor,,,,,,38.3497448,-93.4360401
+480,Missouri,2018-19,The Refuge Academy,High Ridge,,,,,,38.4568915,-90.536
+481,Missouri,2018-19,Wesleyan Kiddie Kollege,Warrenton,,,,,,38.8024396,-91.1440648
+482,Missouri,2018-19,West Prairie,Windsor,,,,,,39.6697294,-94.0402188
+483,Missouri,2018-19,Willow Branch,Barnett,,,,,,38.4937726,-92.6597375
+484,Missouri,2018-19,Word Of God Fellowship Academy,Bolivar,,,,,,37.6118828,-93.4208659

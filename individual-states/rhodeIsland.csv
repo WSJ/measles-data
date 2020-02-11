@@ -1,0 +1,231 @@
+index,state,year,name,city,enroll,mmr,overall,xmed,xper,xrel,lat,lng
+1,Rhode Island,2018-19,St. Luke,Barrington,11,,100,0,,,41.802543,-71.429172
+2,Rhode Island,2018-19,Barrington Christian Academy,Barrington,10,,60,0,,,41.755976,-71.327399
+3,Rhode Island,2018-19,Montessori Centre of Barrington,Barrington,,,,,,,41.75341,-71.293841
+4,Rhode Island,2018-19,Nayatt,Barrington,81,,92.6,7.407407407,,,41.729577,-71.306138
+5,Rhode Island,2018-19,Primrose Hill,Barrington,64,,100,0,,,41.753972,-71.329766
+6,Rhode Island,2018-19,Sowams Elementary,Barrington,60,,96.7,1.666666667,,,41.757102,-71.294328
+7,Rhode Island,2018-19,Our Lady of Mount Carmel,Bristol,9,,55.6,0,,,41.6712129,-71.2736258
+8,Rhode Island,2018-19,Colt Andrews,Bristol,52,,100,0,,,41.671763,-71.276419
+9,Rhode Island,2018-19,Guiteras Elementary,Bristol,40,,62.5,10,,,41.677444,-71.276862
+10,Rhode Island,2018-19,Rockwell,Bristol,44,,100,0,,,41.698508,-71.280377
+11,Rhode Island,2018-19,Community Christian,Burrillville,16,,100,0,,,41.9928821,-71.5036519
+12,Rhode Island,2018-19,Austin T. Levy,Burrillville,148,,97.3,2.027027027,,,41.8626498,-71.4528717
+13,Rhode Island,2018-19,The Learning Community Charter,Central Falls,66,,80.3,0,,,41.8351845,-71.4623645
+14,Rhode Island,2018-19,Margaret I. Robertson,Central Falls,230,,99.1,0,,,41.896848,-71.389278
+15,Rhode Island,2018-19,Charlestown Elementary,Charlestown,43,,93,4.651162791,,,41.449787,-71.65539
+16,Rhode Island,2018-19,Father John V. Doyle,Coventry,,,,,,,41.9886506,-71.5251238
+17,Rhode Island,2018-19,Pathways Strategic Teaching Center,Coventry,,,,,,,41.661625,-71.569491
+18,Rhode Island,2018-19,Blackrock Elementary,Coventry,67,,97,0,,,41.7130372,-71.5518628
+19,Rhode Island,2018-19,Hopkins Hill Elementary,Coventry,58,,98.3,1.724137931,,,41.6736546,-71.5602478
+20,Rhode Island,2018-19,Tiogue Elementary,Coventry,57,,100,0,,,41.6769675,-71.5430928
+21,Rhode Island,2018-19,Washington Oak Elementary,Coventry,87,,95.4,4.597701149,,,41.721245,-71.6064971
+22,Rhode Island,2018-19,Western Coventry Elementary,Coventry,58,,91.4,5.172413793,,,41.695776,-71.689646
+23,Rhode Island,2018-19,Immaculate Conception Catholic Regional,Cranston,23,,95.7,4.347826087,,,41.789596,-71.4655049
+24,Rhode Island,2018-19,St. Mary,Cranston,24,,100,0,,,41.976725,-71.39865
+25,Rhode Island,2018-19,St. Paul,Cranston,21,,100,0,,,41.928944,-71.40147
+26,Rhode Island,2018-19,Cornerstone,Cranston,,,,,,,41.7945749,-71.4582409
+27,Rhode Island,2018-19,Ocean State Academy,Cranston,,,,,,,41.77575,-71.4223299
+28,Rhode Island,2018-19,Arlington Elementary,Cranston,42,,100,0,,,41.666501,-71.186305
+29,Rhode Island,2018-19,Daniel D. Waterman,Cranston,40,,95,0,,,41.766448,-71.440163
+30,Rhode Island,2018-19,Eden Park,Cranston,41,,97.6,0,,,41.772399,-71.445857
+31,Rhode Island,2018-19,Edgewood Highland Schpp;,Cranston,54,,98.1,1.851851852,,,41.7812688,-71.3964985
+32,Rhode Island,2018-19,Edward S. Rhodes,Cranston,27,,96.3,3.703703704,,,41.774849,-71.396384
+33,Rhode Island,2018-19,Garden City Elementary,Cranston,48,,100,0,,,41.761687,-71.451469
+34,Rhode Island,2018-19,George J. Peters Elementary,Cranston,53,,98.1,1.886792453,,,41.7828031,-71.4706364
+35,Rhode Island,2018-19,Gladstone Street,Cranston,68,,100,0,,,41.798408,-71.450343
+36,Rhode Island,2018-19,Glen Hills,Cranston,39,,97.4,2.564102564,,,41.756472,-71.46776
+37,Rhode Island,2018-19,Oak Lawn,Cranston,43,,93,6.976744186,,,41.746638,-71.482771
+38,Rhode Island,2018-19,Orchard Farms Elementary,Cranston,78,,100,0,,,41.798408,-71.450343
+39,Rhode Island,2018-19,Stadium,Cranston,48,,100,0,,,41.788941,-71.447325
+40,Rhode Island,2018-19,Stone Hill Elementary,Cranston,49,,95.9,4.081632653,,,41.7871739,-71.4841473
+41,Rhode Island,2018-19,William R. Dutemple,Cranston,57,,94.7,3.50877193,,,41.9286883,-71.4457283
+42,Rhode Island,2018-19,Woodridge,Cranston,53,,94.3,5.660377358,,,41.772312,-71.458847
+43,Rhode Island,2018-19,Mercymount Country Day,Cumberland,21,,95.2,4.761904762,,,42.008514,-71.415409
+44,Rhode Island,2018-19,Blackstone Valley Prep Elementary School 1,Cumberland,54,,98.1,0,,,41.9009041,-71.3914722
+45,Rhode Island,2018-19,Blackstone Valley Prep Elementary School 2,Cumberland,84,,100,0,,,41.9009041,-71.3914722
+46,Rhode Island,2018-19,Blackstone Valley Prep Mayoral Academy ES3,Cumberland,56,,100,0,,,41.9032896,-71.3935106
+47,Rhode Island,2018-19,Bradley School North,Cumberland,,,,,,,41.9851108,-71.5165467
+48,Rhode Island,2018-19,Ashton Elementary,Cumberland,47,,100,0,,,41.9478034,-71.4278955
+49,Rhode Island,2018-19,B.F. Norton Elementary,Cumberland,40,,100,0,,,41.908788,-71.394475
+50,Rhode Island,2018-19,Community,Cumberland,92,,100,0,,,41.976725,-71.39865
+51,Rhode Island,2018-19,Garvin Memorial,Cumberland,65,,100,0,,,41.8218968,-71.446999
+52,Rhode Island,2018-19,John M. McLaughlin Cumberland Hill,Cumberland,66,,100,0,,,41.975568,-71.4594709
+53,Rhode Island,2018-19,Our Lady of Mercy,East Greenwich,19,,84.2,0,,,41.6546485,-71.4570616
+54,Rhode Island,2018-19,Rocky Hill,East Greenwich,10,,90,0,,,42.008514,-71.415409
+55,Rhode Island,2018-19,Frenchtown Elementary,East Greenwich,73,,93.2,5.479452055,,,41.845225,-71.453224
+56,Rhode Island,2018-19,Meadowbrook Farms Elementary,East Greenwich,84,,96.4,2.380952381,,,41.6364661,-71.4814174
+57,Rhode Island,2018-19,Sacred Heart,East Providence,14,,92.9,0,,,41.81839,-71.377931
+58,Rhode Island,2018-19,Saint Margaret,East Providence,9,,100,0,,,41.8442164,-71.3502816
+59,Rhode Island,2018-19,St. Mary Academy-BayView,East Providence,17,,94.1,5.882352941,,,41.908788,-71.394475
+60,Rhode Island,2018-19,Ocean State Montessori,East Providence,17,,88.2,0,,,41.81817,-71.372461
+61,Rhode Island,2018-19,The Gordon,East Providence,23,,91.3,8.695652174,,,41.8010042,-71.3726479
+62,Rhode Island,2018-19,Agnes B. Hennessey Elementary,East Providence,37,,97.3,2.702702703,,,41.8123765,-71.3822647
+63,Rhode Island,2018-19,Alice M. Waddington Elementary,East Providence,71,,97.2,2.816901408,,,41.764103,-71.342101
+64,Rhode Island,2018-19,Emma G. Whiteknact Elementary,East Providence,38,,100,0,,,41.8157023,-71.3648273
+65,Rhode Island,2018-19,J.R. Oldham Elementary,East Providence,21,,100,0,,,41.7729564,-71.3439772
+66,Rhode Island,2018-19,Kent Heights Elementary,East Providence,39,,97.4,2.564102564,,,41.8015227,-71.3616479
+67,Rhode Island,2018-19,Myron J. Francis Elementary,East Providence,63,,98.4,1.587301587,,,41.8415894,-71.3606569
+68,Rhode Island,2018-19,Orlo Ave.,East Providence,34,,100,0,,,41.8250458,-71.3643917
+69,Rhode Island,2018-19,Silver Spring,East Providence,48,,100,0,,,41.797963,-71.369332
+70,Rhode Island,2018-19,Wawaloam Elementary,Exeter,107,,96.3,2.803738318,,,41.5852826,-71.6187089
+71,Rhode Island,2018-19,Captain Isaac Paine Elementary,Foster,32,,87.5,3.125,,,41.7970818,-71.4111726
+72,Rhode Island,2018-19,Fogarty Memorial,Glocester,46,,89.1,10.86956522,,,41.698508,-71.280377
+73,Rhode Island,2018-19,West Glocester Elementary,Glocester,37,,91.9,0,,,41.912061,-71.7780951
+74,Rhode Island,2018-19,Ashaway Elementary,Hopkinton,39,,92.3,7.692307692,,,41.707638,-71.4318536
+75,Rhode Island,2018-19,Chariho Alternative Learning Academy,Hopkinton,,,,,,,41.4501584,-71.6962774
+76,Rhode Island,2018-19,Hope Valley Elementary,Hopkinton,37,,100,0,,,41.8307018,-71.4503484
+77,Rhode Island,2018-19,Melrose,Jamestown,54,,98.1,1.851851852,,,41.5006565,-71.3802745
+78,Rhode Island,2018-19,St. Rocco,Johnston,11,,100,0,,,41.658677,-71.42047
+79,Rhode Island,2018-19,Trinity Christian Academy,Johnston,24,,33.3,0,,,41.7507432,-71.4270461
+80,Rhode Island,2018-19,Early Childhood Center,Johnston,194,,91.8,1.546391753,,,41.829989,-71.501696
+81,Rhode Island,2018-19,James L. McGuire Elementary,Johnston,27,,92.6,0,,,41.8319876,-71.474232
+82,Rhode Island,2018-19,Sarah Dyer Barnes Elementary,Johnston,44,,100,0,,,41.8378895,-71.486653
+83,Rhode Island,2018-19,Lincoln Central Elementary,Lincoln,52,,84.6,3.846153846,,,41.867175,-71.356185
+84,Rhode Island,2018-19,Lonsdale Elementary,Lincoln,46,,100,0,,,41.881094,-71.541583
+85,Rhode Island,2018-19,Northern Lincoln Elementary,Lincoln,66,,98.5,1.515151515,,,41.802784,-71.411012
+86,Rhode Island,2018-19,Northern Rhode Island Collaborative Foundations Academy,Lincoln,,,,,,,41.9351974,-71.4604012
+87,Rhode Island,2018-19,Saylesville Elementary,Lincoln,37,,97.3,2.702702703,,,41.892938,-71.414021
+88,Rhode Island,2018-19,Wilbur & McMahon Schools,Little Compton,19,,100,0,,,41.5094054,-71.1742097
+89,Rhode Island,2018-19,All Saints Academy,Middletown,14,,64.3,0,,,41.525623,-71.29276
+90,Rhode Island,2018-19,Aquidneck,Middletown,65,,87.7,1.538461538,,,41.496666,-71.281263
+91,Rhode Island,2018-19,Forest Avenue,Middletown,72,,97.2,0,,,41.525732,-71.287124
+92,Rhode Island,2018-19,Quest Montessori,Narragansett,13,,84.6,0,,,41.488263,-71.4392
+93,Rhode Island,2018-19,Narragansett Elementary,Narragansett,64,,95.3,1.5625,,,41.8030439,-71.4157429
+94,Rhode Island,2018-19,St. Michael's Country Day,Newport,20,,85,10,,,41.48547,-71.301651
+95,Rhode Island,2018-19,Claiborne Pell Elementary,Newport,153,,95.4,0,,,41.632525,-71.1647987
+96,Rhode Island,2018-19,South County Montessori,North Kingstown,16,,100,0,,,41.54287,-71.468271
+97,Rhode Island,2018-19,West Bay Christian Academy,North Kingstown,15,,86.7,13.33333333,,,41.624932,-71.209584
+98,Rhode Island,2018-19,Fishing Cove Elementary,North Kingstown,36,,91.7,0,,,41.5878313,-71.4447507
+99,Rhode Island,2018-19,Forest Park Elementary,North Kingstown,57,,100,0,,,41.9590299,-71.7059725
+100,Rhode Island,2018-19,Hamilton Elementary,North Kingstown,37,,100,0,,,41.4542542,-71.5009755
+101,Rhode Island,2018-19,Stony Lane Elementary,North Kingstown,76,,97.4,2.631578947,,,41.789884,-71.363986
+102,Rhode Island,2018-19,Suzanne M. Hensler Quidnessett Elementary,North Kingstown,69,,95.7,2.898550725,,,41.6150885,-71.4384904
+103,Rhode Island,2018-19,Centredale Elementary,North Providence,35,,100,0,,,41.857343,-71.477134
+104,Rhode Island,2018-19,Dr. Joseph A. Whelan Elementary,North Providence,38,,97.4,2.631578947,,,41.8653902,-71.4418532
+105,Rhode Island,2018-19,Greystone,North Providence,38,,97.4,0,,,41.861687,-71.483101
+106,Rhode Island,2018-19,Marieville Elementary,North Providence,31,,100,0,,,41.8333791,-71.3984958
+107,Rhode Island,2018-19,Stephen Olney Elementary,North Providence,46,,100,0,,,41.8626498,-71.4528717
+108,Rhode Island,2018-19,North Smithfield Elementary,North Smithfield,112,,99.1,0.8928571429,,,41.8139362,-71.732707
+109,Rhode Island,2018-19,St. Cecilia,Pawtucket,12,,100,0,,,41.88784,-71.353931
+110,Rhode Island,2018-19,St. Teresa,Pawtucket,20,,95,0,,,41.867175,-71.356185
+111,Rhode Island,2018-19,Woodlawn Catholic Regional,Pawtucket,10,,100,0,,,41.876328,-71.402135
+112,Rhode Island,2018-19,International Charter,Pawtucket,66,,100,0,,,41.868997,-71.384952
+113,Rhode Island,2018-19,Agnes Little Elementary,Pawtucket,54,,98.1,1.851851852,,,41.8764214,-71.3717766
+114,Rhode Island,2018-19,Curvin McCabe,Pawtucket,70,,100,0,,,41.888321,-71.364773
+115,Rhode Island,2018-19,Elizabeth Baldwin Elementary,Pawtucket,97,,85.6,2.06185567,,,41.8681897,-71.3962908
+116,Rhode Island,2018-19,Fallon Memorial,Pawtucket,68,,100,0,,,41.868389,-71.359828
+117,Rhode Island,2018-19,Flora S. Curtis Elementary,Pawtucket,43,,100,0,,,41.8924405,-71.3474839
+118,Rhode Island,2018-19,Francis J. Varieur,Pawtucket,45,,97.8,0,,,41.866019,-71.38331
+119,Rhode Island,2018-19,Henry J. Winters,Pawtucket,68,,92.6,0,,,41.886541,-71.374729
+120,Rhode Island,2018-19,M.Virginia Cunningham,Pawtucket,82,,92.7,1.219512195,,,41.908627,-71.4165315
+121,Rhode Island,2018-19,Nathanael Greene Elementary,Pawtucket,68,,100,0,,,41.8679326,-71.4121714
+122,Rhode Island,2018-19,Potter Burns Elementary,Pawtucket,69,,98.6,1.449275362,,,41.8818348,-71.3535732
+123,Rhode Island,2018-19,Saint Philomena,Portsmouth,32,,90.6,6.25,,,41.5988141,-71.2752139
+124,Rhode Island,2018-19,Sea Rose Montessori,Portsmouth,9,,100,0,,,41.5469029,-71.2623003
+125,Rhode Island,2018-19,The Pennfield,Portsmouth,11,,100,0,,,41.550757,-71.252798
+126,Rhode Island,2018-19,Howard Hathaway Elementary,Portsmouth,87,,98.9,1.149425287,,,41.48547,-71.301651
+127,Rhode Island,2018-19,Melville Elementary,Portsmouth,59,,93.2,3.389830508,,,41.7123412,-71.3919933
+128,Rhode Island,2018-19,Bishop McVinney,Providence,22,,95.5,0,,,41.8018695,-71.4152446
+129,Rhode Island,2018-19,Blessed Sacrament,Providence,23,,100,0,,,41.82902,-71.443051
+130,Rhode Island,2018-19,Saint Augustine,Providence,19,,73.7,0,,,41.845225,-71.453224
+131,Rhode Island,2018-19,St. Pius V,Providence,25,,92,4,,,41.84089,-71.436531
+132,Rhode Island,2018-19,St. Thomas Regional,Providence,22,,100,0,,,41.83665,-71.467631
+133,Rhode Island,2018-19,Achievement First Iluminar Mayoral Academy,Providence,94,,85.1,0,,,41.8002675,-71.4432016
+134,Rhode Island,2018-19,Achievement First Providence Mayoral Academy,Providence,96,,80.2,0,,,41.8173778,-71.4562247
+135,Rhode Island,2018-19,Highlander Charter,Providence,31,,96.8,3.225806452,,,41.815556,-71.456127
+136,Rhode Island,2018-19,Paul Cuffee Lower school,Providence,63,,100,0,,,41.9351974,-71.4604012
+137,Rhode Island,2018-19,Southside Elementary Charter,Providence,23,,43.5,0,,,41.72399,-71.491541
+138,Rhode Island,2018-19,The Hope Academy,Providence,36,,100,0,,,41.801206,-71.405383
+139,Rhode Island,2018-19,Times 2 Academy,Providence,48,,100,0,,,41.838094,-71.422149
+140,Rhode Island,2018-19,Center for individualized Training and education,Providence,,,,,,,42.0023801,-71.5139951
+141,Rhode Island,2018-19,Henry Barnard,Providence,37,,97.3,0,,,41.488263,-71.4392
+142,Rhode Island,2018-19,Jewish Community Day,Providence,12,,91.7,0,,,41.724437,-71.254071
+143,Rhode Island,2018-19,Lincoln,Providence,24,,95.8,4.166666667,,,41.832543,-71.383975
+144,Rhode Island,2018-19,Meeting Street- Grace,Providence,11,,81.8,0,,,41.8290321,-71.398313
+145,Rhode Island,2018-19,Montessori Childrens House,Providence,14,,92.9,7.142857143,,,41.8352271,-71.3866638
+146,Rhode Island,2018-19,Moses Brown,Providence,14,,92.9,7.142857143,,,41.772399,-71.445857
+147,Rhode Island,2018-19,Mount Pleasant Academy,Providence,,,,,,,41.83239,-71.450031
+148,Rhode Island,2018-19,Providence Hebrew Day,Providence,15,,93.3,0,,,41.8437712,-71.392837
+149,Rhode Island,2018-19,Tavares educational Center,Providence,,,,,,,41.813539,-71.412426
+150,Rhode Island,2018-19,The French American School of Rhode Island,Providence,11,,90.9,0,,,41.8010042,-71.3726479
+151,Rhode Island,2018-19,The Providence Center,Providence,,,,,,,,
+152,Rhode Island,2018-19,The Wheeler,Providence,18,,88.9,0,,,41.8157023,-71.3648273
+153,Rhode Island,2018-19,Alan Shawn Feinstein Elementary at Broad Street,Providence,78,,96.2,0,,,41.7879859,-71.4028
+154,Rhode Island,2018-19,Anthony Carnevale Elementary,Providence,79,,100,0,,,41.868389,-71.359828
+155,Rhode Island,2018-19,Asa Messer Elementary,Providence,100,,96,1,,,41.442541,-71.477624
+156,Rhode Island,2018-19,Carl G. Lauro Elementary,Providence,150,,93.3,0,,,41.674292,-71.498036
+157,Rhode Island,2018-19,Charles N. Fortes Elementary,Providence,112,,94.6,0,,,41.8679326,-71.4121714
+158,Rhode Island,2018-19,Cornel Young & Charlotte Woods Elementary,Providence,125,,96.8,0,,,41.7970818,-71.4111726
+159,Rhode Island,2018-19,Dr. Martin Luther King Jr. Elementary,Providence,68,,98.5,0,,,41.8352271,-71.3866638
+160,Rhode Island,2018-19,Frank D. Spaziano Annex,Providence,83,,95.2,0,,,41.815556,-71.456127
+161,Rhode Island,2018-19,George J. West Elementary,Providence,130,,98.5,0,,,41.96316,-71.467995
+162,Rhode Island,2018-19,Harry Kizirian Elementary,Providence,103,,97.1,0,,,41.836954,-71.4264
+163,Rhode Island,2018-19,Leviton Dual Language Elementary,Providence,54,,98.1,0,,,41.8170147,-71.4647998
+164,Rhode Island,2018-19,"Lillian Feinstein Elementary, Sackett Street",Providence,74,,91.9,0,,,41.7944995,-71.4188713
+165,Rhode Island,2018-19,Mary E. Fogarty Elementary,Providence,76,,98.7,0,,,41.802784,-71.411012
+166,Rhode Island,2018-19,Pleasant View Elementary,Providence,49,,95.9,4.081632653,,,41.8351845,-71.4623645
+167,Rhode Island,2018-19,Reservoir Avenue Elementary,Providence,49,,98,0,,,41.7918037,-71.4277168
+168,Rhode Island,2018-19,Rhode Island School for the Deaf,Providence,7,,100,0,,,41.780985,-71.430685
+169,Rhode Island,2018-19,Robert F. Kennedy,Providence,63,,96.8,0,,,41.8433853,-71.4440035
+170,Rhode Island,2018-19,Robert L. Bailey IV Elementary,Providence,67,,97,1.492537313,,,41.8313739,-71.5297009
+171,Rhode Island,2018-19,Vartan Gregorian Elementary,Providence,47,,100,0,,,41.4990839,-71.5112379
+172,Rhode Island,2018-19,Veazie Street Elementary,Providence,82,,95.1,0,,,41.850685,-71.4336189
+173,Rhode Island,2018-19,Webster Avenue,Providence,52,,96.2,0,,,41.810167,-71.449559
+174,Rhode Island,2018-19,William D'Abate Elementary,Providence,52,,94.2,0,,,41.8924405,-71.3474839
+175,Rhode Island,2018-19,Richmond Elementary,Richmond,82,,92.7,1.219512195,,,41.882789,-71.511993
+176,Rhode Island,2018-19,Clayville Elementary,Scituate,18,,100,0,,,41.8290321,-71.398313
+177,Rhode Island,2018-19,Hope Elementary,Scituate,24,,100,0,,,41.8764214,-71.3717766
+178,Rhode Island,2018-19,North Scituate Elementary,Scituate,30,,96.7,0,,,41.774849,-71.396384
+179,Rhode Island,2018-19,St. Philip,Smithfield,21,,100,0,,,41.6546485,-71.4570616
+180,Rhode Island,2018-19,Anna M. McCabe Elementary,Smithfield,39,,100,0,,,41.881094,-71.541583
+181,Rhode Island,2018-19,Old County Road,Smithfield,36,,100,0,,,41.882789,-71.511993
+182,Rhode Island,2018-19,Raymond C. LaPerche,Smithfield,41,,92.7,7.317073171,,,41.7871739,-71.4841473
+183,Rhode Island,2018-19,William Winsor Elementary,Smithfield,50,,96,2,,,41.8703324,-71.5493503
+184,Rhode Island,2018-19,Msgr. Matthew F. Clarke Regional,South Kingstown,14,,100,0,,,41.442541,-71.477624
+185,Rhode Island,2018-19,Kingston Hill Academy,South Kingstown,23,,100,0,,,41.4940513,-71.5165687
+186,Rhode Island,2018-19,The Compass,South Kingstown,18,,100,0,,,41.6927841,-71.4172273
+187,Rhode Island,2018-19,Bradley School South County,South Kingstown,,,,,,,42.005706,-71.511996
+188,Rhode Island,2018-19,Meadowbrook Waldorf,South Kingstown,15,,60,33.33333333,,,41.462131,-71.525552
+189,Rhode Island,2018-19,Matunuck Elementary,South Kingstown,25,,96,0,,,41.8446451,-71.4575338
+190,Rhode Island,2018-19,Peace Dale Elementary,South Kingstown,80,,100,0,,,41.6150885,-71.4384904
+191,Rhode Island,2018-19,Wakefield Elementary,South Kingstown,35,,94.3,5.714285714,,,41.550757,-71.252798
+192,Rhode Island,2018-19,West Kingston Elementary,South Kingstown,61,,93.4,4.918032787,,,41.4784675,-71.5508362
+193,Rhode Island,2018-19,Fort Barton,Tiverton,37,,97.3,2.702702703,,,41.624932,-71.209584
+194,Rhode Island,2018-19,Pocasset,Tiverton,43,,100,0,,,41.666501,-71.186305
+195,Rhode Island,2018-19,Walter E. Ranger school,Tiverton,38,,86.8,0,,,41.8703324,-71.5493503
+196,Rhode Island,2018-19,Hugh Cole,Warren,86,,97.7,0,,,41.724437,-71.254071
+197,Rhode Island,2018-19,St. Kevin,Warwick,25,,100,0,,,41.868997,-71.384952
+198,Rhode Island,2018-19,St. Peter,Warwick,21,,100,0,,,41.754804,-71.391969
+199,Rhode Island,2018-19,St. Rose of Lima,Warwick,26,,100,0,,,41.7944995,-71.4188713
+200,Rhode Island,2018-19,Sargent Rehabilitation Day,Warwick,,,,,,,41.674292,-71.498036
+201,Rhode Island,2018-19,Cedar Hill,Warwick,60,,100,0,,,41.684183,-71.46418
+202,Rhode Island,2018-19,Cottrell F. Hoxsie,Warwick,47,,97.9,2.127659574,,,41.753972,-71.329766
+203,Rhode Island,2018-19,E.G. Robertson Elementary,Warwick,58,,100,0,,,41.6987828,-71.44013
+204,Rhode Island,2018-19,Greenwood Elementary,Warwick,44,,100,0,,,41.7108014,-71.4546885
+205,Rhode Island,2018-19,Harold F. Scott,Warwick,57,,98.2,0,,,41.721245,-71.6064971
+206,Rhode Island,2018-19,Holliman,Warwick,44,,97.7,2.272727273,,,41.749133,-71.412809
+207,Rhode Island,2018-19,Lippitt,Warwick,31,,100,0,,,41.707571,-71.42208
+208,Rhode Island,2018-19,Norwood Elementary,Warwick,38,,100,0,,,41.7507432,-71.4270461
+209,Rhode Island,2018-19,Oakland Beach Elementary,Warwick,78,,98.7,0,,,41.698839,-71.399103
+210,Rhode Island,2018-19,Park Elementary,Warwick,39,,97.4,2.564102564,,,41.6927841,-71.4172273
+211,Rhode Island,2018-19,Sherman,Warwick,43,,95.3,4.651162791,,,41.718056,-71.396334
+212,Rhode Island,2018-19,Warwick Neck,Warwick,52,,98.1,1.923076923,,,41.689733,-71.377151
+213,Rhode Island,2018-19,Wyman Elementary,Warwick,63,,98.4,1.587301587,,,41.7525795,-71.3899603
+214,Rhode Island,2018-19,St. Joseph's,West Warwick,14,,100,0,,,41.725378,-71.49256
+215,Rhode Island,2018-19,Islamic School of Rhode Island,West Warwick,13,,76.9,0,,,41.72399,-71.491541
+216,Rhode Island,2018-19,Greenbush Elementary school,West Warwick,88,,100,0,,,41.670578,-71.52532
+217,Rhode Island,2018-19,J. F. Horgan Elementary,West Warwick,100,,99,1,,,41.7143867,-71.516838
+218,Rhode Island,2018-19,Wakefield Hills Elementary,West Warwick,89,,100,0,,,41.8173778,-71.4562247
+219,Rhode Island,2018-19,Dunn’s Corner’s Elementary,Westerly,51,,96.1,3.921568627,,,41.3469967,-71.7753875
+220,Rhode Island,2018-19,Springbrook Elementary,Westerly,58,,91.4,1.724137931,,,41.401575,-71.829859
+221,Rhode Island,2018-19,State Street Elementary,Westerly,64,,92.2,4.6875,,,41.3654587,-71.8243199
+222,Rhode Island,2018-19,Msgr. Gadoury Primary Regional,Woonsocket,17,,94.1,5.882352941,,,41.7812688,-71.3964985
+223,Rhode Island,2018-19,RISE Prep Mayoral Academy,Woonsocket,58,,98.3,1.724137931,,,42.005706,-71.511996
+224,Rhode Island,2018-19,Action Based Enterprises,Woonsocket,,,,,,,41.401575,-71.829859
+225,Rhode Island,2018-19,Bernon Heights Elementary,Woonsocket,73,,97.3,0,,,41.9928821,-71.5036519
+226,Rhode Island,2018-19,Globe Park Elementary,Woonsocket,81,,97.5,0,,,41.9886506,-71.5251238
+227,Rhode Island,2018-19,Governor Aram J. Pothier Elementary,Woonsocket,127,,92.9,1.57480315,,,42.0101383,-71.4935916
+228,Rhode Island,2018-19,Harris,Woonsocket,76,,94.7,0,,,42.007681,-71.51524
+229,Rhode Island,2018-19,Kevin K. Coleman Elementary,Woonsocket,44,,100,0,,,41.999273,-71.526266
+230,Rhode Island,2018-19,Leo A .Savoie,Woonsocket,68,,100,0,,,42.005409,-71.477545

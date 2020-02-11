@@ -1,0 +1,568 @@
+index,state,year,name,county,enroll,mmr,xmed,lat,lng
+1,Montana,2017-18,Acadia Montana,Silver Bow,64,100,0,46.0133825,-112.5459677
+2,Montana,2017-18,Anna Jeffries Elementary,Glacier,105,100,0,48.640888,-112.329465
+3,Montana,2017-18,Ashland,Rosebud,75,100,0,45.594903,-106.271119
+4,Montana,2017-18,Atonement Lutheran Preschool,Yellowstone,26,100,0,45.8154276,-108.473913
+5,Montana,2017-18,Big Stone,Cascade,38,100,0,47.400636,-111.206524
+6,Montana,2017-18,Blackfeet Early Childhood Cntr,Glacier,76,100,0,48.637319,-112.341296
+7,Montana,2017-18,Child Start Head Start,Missoula,318,100,0,46.7716769,-113.714381
+8,Montana,2017-18,Crow Agency,Big Horn,315,100,0,45.605624,-107.458672
+9,Montana,2017-18,Dodson Schools Prek-12,Phillips,82,100,0,48.3505689,-107.8709175
+10,Montana,2017-18,Eastern Montana Head Start,Dawson,40,100,0,47.1003625,-104.7090464
+11,Montana,2017-18,Ekalaka Elementary,Carter,63,100,0,45.88833,-104.550104
+12,Montana,2017-18,Explorers Academy Head Start Inc,Yellowstone,359,100,0,45.7847389,-108.6398726
+13,Montana,2017-18,First Lutheran Preschool,Valley,40,100,0,48.1918271,-106.6279399
+14,Montana,2017-18,Forsyth Elementary,Rosebud,167,100,0,46.271005,-106.667591
+15,Montana,2017-18,Fort Smith,Big Horn,37,100,0,45.308113,-107.932308
+16,Montana,2017-18,Gardiner 7-8,Park,25,100,0,45.031772,-110.711217
+17,Montana,2017-18,Garfield,Custer,239,100,0,46.416745,-105.847221
+18,Montana,2017-18,Geraldine Schools K-12,Chouteau,58,100,0,48.0310782,-111.3230342
+19,Montana,2017-18,Geyser Schools Prek-12,Judith Basin,37,100,0,47.1535215,-110.2185163
+20,Montana,2017-18,Growing Kids Preschool,Missoula,29,100,0,46.8929391,-114.0570437
+21,Montana,2017-18,Hardin Intermediate,Big Horn,354,100,0,45.73376,-107.616338
+22,Montana,2017-18,Head Start Lewistown,Fergus,81,100,0,47.0546932,-109.6382428
+23,Montana,2017-18,Headwaters Academy,Gallatin,38,100,0,45.66684,-111.043351
+24,Montana,2017-18,Hinsdale Schools Prek-12,Valley,71,100,0,48.3949594,-107.0867201
+25,Montana,2017-18,Hysham Schools,Treasure,45,100,0,48.0580947,-106.0469106
+26,Montana,2017-18,Intermountain Childrens Home,Lewis and Clark,37,100,0,46.6190248,-112.0227321
+27,Montana,2017-18,Judith Gap Schools Prek-12,Wheatland,39,100,0,45.7705133,-108.6099095
+28,Montana,2017-18,Kindergarten Readiness Center,Big Horn,59,100,0,45.5700984,-107.4324314
+29,Montana,2017-18,Kinsey,Custer,56,100,3.571428571,46.57043,-105.65654
+30,Montana,2017-18,Liberty Elementary,Liberty,20,100,0,48.700082,-111.199843
+31,Montana,2017-18,Longfellow,Fallon,141,100,0,46.360456,-104.277847
+32,Montana,2017-18,Martinsdale Colony,Meagher,38,100,0,46.5449644,-110.9037263
+33,Montana,2017-18,Melstone Schools K-12,Musselshell,78,100,0,45.3950416,-110.6720402
+34,Montana,2017-18,Miss Debbie's Preschool,Lake,20,100,0,47.6756907,-114.150019
+35,Montana,2017-18,Mission Grade,Blaine,82,100,0,47.9753854,-108.6769312
+36,Montana,2017-18,Morin,Yellowstone,45,100,0,45.637758,-108.401403
+37,Montana,2017-18,Mountain View Elementary,Glacier,20,100,0,48.702875,-112.591387
+38,Montana,2017-18,Mrs. Olson's Preschool House,Glacier,24,100,0,48.4400448,-113.2178514
+39,Montana,2017-18,New Rockport Colony,Teton,37,100,0,47.8685542,-112.030096
+40,Montana,2017-18,Newman,Yellowstone,226,100,0.4424778761,45.758707,-108.535074
+41,Montana,2017-18,North Star,Hill,93,100,0,48.572104,-110.301379
+42,Montana,2017-18,Northwest Montana Head Start,Flathead,192,100,0,48.2027171,-114.3031097
+43,Montana,2017-18,Opheim Schools Prek-12,Valley,34,100,0,46.4400643,-109.830026
+44,Montana,2017-18,Our Redemers Preschool,Lewis and Clark,33,100,0,46.6253309,-112.0431854
+45,Montana,2017-18,Pioneer,Yellowstone,49,100,0,45.856444,-108.41517
+46,Montana,2017-18,Pleasant Valley,Cascade,26,100,0,47.389417,-110.928014
+47,Montana,2017-18,Plevna Schools K-12,Fallon,85,100,0,47.2126745,-109.4141
+48,Montana,2017-18,Power Schools Prek-12,Teton,116,100,0,48.204173,-114.3205991
+49,Montana,2017-18,Project For Alternative Learning,Lewis and Clark,62,100,0,46.5952399,-112.0359673
+50,Montana,2017-18,Reichle,Beaverhead,22,100,0,45.461703,-112.706595
+51,Montana,2017-18,Rosebud Schools Prek-12,Rosebud,31,100,0,47.3163882,-114.3145961
+52,Montana,2017-18,Sourdough Montessori,Gallatin,46,100,0,45.8965651,-111.5488759
+53,Montana,2017-18,St Paul Mission,Blaine,82,100,0,48.5855549,-109.0309988
+54,Montana,2017-18,Superior Elementary,Mineral,165,100,0,47.186978,-114.878442
+55,Montana,2017-18,Trinity Lutheran Preschool,Teton,36,100,0,48.5471,-111.341
+56,Montana,2017-18,Trinity Lutheran,Custer,43,100,0,48.7916974,-105.415729
+57,Montana,2017-18,Two Eagle River School K-12,Lake,120,100,0,48.5089066,-110.9650918
+58,Montana,2017-18,"University Congregation Children""S Center",Missoula,53,100,0,46.7596456,-114.2523362
+59,Montana,2017-18,Valier Prek-8,Pondera,78,100,0,45.4476528,-105.4051159
+60,Montana,2017-18,Woodman School Prek-8,Missoula,35,100,0,46.4477219,-108.5453857
+61,Montana,2017-18,West Elementary,Silver Bow,480,99.79,0.625,46.005496,-112.551959
+62,Montana,2017-18,Riverview,Cascade,464,99.78,0,47.523939,-111.314737
+63,Montana,2017-18,Alkali Creek,Yellowstone,335,99.7,0,45.811405,-108.505718
+64,Montana,2017-18,Poplar Schools Prek-12,Roosevelt,930,99.68,0,45.595,-106.2714032
+65,Montana,2017-18,Park City Schools Prek-12,Stillwater,305,99.67,0,45.7058105,-109.5482735
+66,Montana,2017-18,Longfellow,Cascade,285,99.65,0,47.498209,-111.288606
+67,Montana,2017-18,Rocky Boy Schools Prek-12,Hill,569,99.65,0,48.5400412,-109.6760928
+68,Montana,2017-18,Southside,Roosevelt,280,99.64,0,48.087595,-105.644211
+69,Montana,2017-18,Hardin Primary,Big Horn,277,99.64,0,45.730897,-107.611486
+70,Montana,2017-18,Heck/Quaw Elementary,Gallatin,452,99.56,0,45.779472,-111.173186
+71,Montana,2017-18,Loy,Cascade,406,99.51,0,47.510951,-111.214286
+72,Montana,2017-18,Holy Spirit Catholic,Cascade,202,99.5,0.9900990099,47.50484,-111.257791
+73,Montana,2017-18,Centerville Schools K-12,Cascade,201,99.5,0,47.3902681,-111.1417822
+74,Montana,2017-18,Beartooth,Yellowstone,383,99.48,0,45.831836,-108.451947
+75,Montana,2017-18,Lewis & Clark,Fergus,189,99.47,0,47.054551,-109.426591
+76,Montana,2017-18,Margaret Leary,Silver Bow,372,99.46,1.344086022,45.961258,-112.521368
+77,Montana,2017-18,Northside,Roosevelt,178,99.44,0.5617977528,48.096789,-105.642356
+78,Montana,2017-18,Fred Moodry 3-8,Deer Lodge,499,99.4,0,46.3575336,-104.2759936
+79,Montana,2017-18,Browning Elementary,Glacier,324,99.38,0,48.554431,-113.014813
+80,Montana,2017-18,Lame Deer,Rosebud,323,99.38,0,45.620261,-106.669871
+81,Montana,2017-18,Vaughn Schools Prek-8,Cascade,159,99.37,0,47.2719061,-111.7053151
+82,Montana,2017-18,West Elementary,Cascade,466,99.36,0.2145922747,47.509236,-111.3328
+83,Montana,2017-18,Boulder,Yellowstone,435,99.31,0.4597701149,45.792002,-108.596619
+84,Montana,2017-18,Central Heights,Yellowstone,271,99.26,0.36900369,45.767208,-108.573622
+85,Montana,2017-18,Pine Butte Elementary Prek-8,Rosebud,256,99.22,0.390625,45.6057546,-106.2822352
+86,Montana,2017-18,St Ignatius School 6-12,Lake,255,99.22,0,47.6315169,-114.2843836
+87,Montana,2017-18,Kennedy,Silver Bow,252,99.21,0,46.020397,-112.553516
+88,Montana,2017-18,Malta 6-12,Phillips,246,99.19,0.8130081301,48.4598344,-107.3451639
+89,Montana,2017-18,Sheridan Prek-8,Madison,119,99.16,1.680672269,47.416417,-105.588264
+90,Montana,2017-18,H C Davis Elementary,Glacier,236,99.15,0,48.634094,-112.330616
+91,Montana,2017-18,Harlem Elementary,Blaine,347,99.14,0,48.530424,-108.78854
+92,Montana,2017-18,Bryant,Lewis and Clark,228,99.12,0,46.596909,-112.01353
+93,Montana,2017-18,Froid Schools Prek-12,Roosevelt,114,99.12,0,47.5078521,-111.2634841
+94,Montana,2017-18,Fromberg Schools K-12,Carbon,112,99.11,0,45.2846551,-109.4249183
+95,Montana,2017-18,Washington 7-8,Custer,224,99.11,0,46.41024,-105.848218
+96,Montana,2017-18,Sunnyside,Cascade,438,99.09,0,47.485728,-111.275867
+97,Montana,2017-18,Emerson,Silver Bow,428,99.07,0.7009345794,45.994488,-112.515738
+98,Montana,2017-18,Smith,Lewis and Clark,318,99.06,0.3144654088,46.586803,-111.998472
+99,Montana,2017-18,Winifred Schools K-12,Fergus,106,99.06,0,48.369209,-114.458282
+100,Montana,2017-18,Whittier,Silver Bow,422,99.05,1.184834123,45.988828,-112.495649
+101,Montana,2017-18,Frenchtown 7-8,Missoula,204,99.02,0.4901960784,47.021655,-114.242095
+102,Montana,2017-18,Irle Elementary,Valley,402,99,0.2487562189,48.20463,-106.636675
+103,Montana,2017-18,Desmet School Prek-8,Missoula,100,99,0,46.8600132,-114.0270781
+104,Montana,2017-18,Lame Deer 7-8,Rosebud,98,98.98,0,45.590116,-106.656212
+105,Montana,2017-18,Four Georgians,Lewis and Clark,483,98.96,0.2070393375,46.615828,-112.034744
+106,Montana,2017-18,Head Start Libby,Lincoln,96,98.96,0,48.3844802,-115.5718373
+107,Montana,2017-18,K W Bergan School Prek-6,Glacier,671,98.96,0,47.570392,-114.120305
+108,Montana,2017-18,Russell,Missoula,380,98.95,0,46.840971,-114.017378
+109,Montana,2017-18,Let Me Shine Preschool,Custer,94,98.94,0,46.4085339,-105.821128
+110,Montana,2017-18,Cascade Schools Prek-12,Cascade,278,98.92,0,47.5023972,-111.2193592
+111,Montana,2017-18,Rossiter,Lewis and Clark,461,98.92,0.4338394794,46.659999,-112.014103
+112,Montana,2017-18,Lincoln-Mckinley,Hill,273,98.9,0,48.550215,-109.6703
+113,Montana,2017-18,West Yellowstone Schools Prek-12,Gallatin,268,98.88,0.3731343284,45.8245857,-111.6455368
+114,Montana,2017-18,Charlo Schools Prek-12,Lake,264,98.86,0.3787878788,47.8657146,-114.2798351
+115,Montana,2017-18,Arrowhead,Yellowstone,434,98.85,0.4608294931,45.795231,-108.612412
+116,Montana,2017-18,Elysian School Prek-8,Yellowstone,345,98.84,0.2898550725,45.6749491,-108.7662357
+117,Montana,2017-18,Broadwater Schools K-12,Broadwater,689,98.84,0.145137881,45.1000659,-109.0302982
+118,Montana,2017-18,Montana Academy,Flathead,86,98.84,0,48.104855,-114.878597
+119,Montana,2017-18,Plentywood School Prek-12,Sheridan,337,98.81,0,45.9330197,-112.5114966
+120,Montana,2017-18,Lockwood Schools Prek-8,Yellowstone,1155,98.79,0,45.7603009,-108.5247769
+121,Montana,2017-18,West Side Elementary Prek-3,Richland,323,98.76,0.3095975232,48.1515899,-104.9146336
+122,Montana,2017-18,Kw-Vc Elementary,Glacier,161,98.76,0,48.55447,-113.016415
+123,Montana,2017-18,Ramsay School Prek-8,Silver Bow,161,98.76,0,45.9888247,-112.4955737
+124,Montana,2017-18,Big Timber School Prek-8,Sweet Grass,317,98.74,0,45.7860494,-109.7896289
+125,Montana,2017-18,Lewistown 7-8,Fergus,158,98.73,0.6329113924,47.061056,-109.433372
+126,Montana,2017-18,Wibaux Elementary,Wibaux,79,98.73,0,46.989599,-104.192397
+127,Montana,2017-18,Bench,Yellowstone,389,98.71,0.5141388175,45.815412,-108.473705
+128,Montana,2017-18,Pretty Eagle Catholic,Big Horn,154,98.7,0,45.1232,-106.7414
+129,Montana,2017-18,Frazer Schools Prek-12,Valley,150,98.67,0,48.0580983,-106.0490993
+130,Montana,2017-18,Lincoln,Dawson,300,98.67,0,47.100248,-104.708853
+131,Montana,2017-18,De La Salle Blackfeet,Glacier,73,98.63,0,48.55673,-113.015741
+132,Montana,2017-18,South Elementary,Yellowstone,145,98.62,0,44.6556954,-111.103642
+133,Montana,2017-18,Grass Range Schools K-12,Fergus,72,98.61,1.388888889,47.0694095,-109.4403979
+134,Montana,2017-18,Sacred Heart K-8,Custer,143,98.6,0,46.4125611,-105.8441921
+135,Montana,2017-18,Bridger K-8,Carbon,142,98.59,0,45.487416,-108.975305
+136,Montana,2017-18,Scobey Schools K-12,Daniels,283,98.59,0,47.4128931,-104.9209759
+137,Montana,2017-18,Action For Eastern Mt Head Start,Custer,70,98.57,1.428571429,46.4167069,-105.8472579
+138,Montana,2017-18,Jim Darcy,Lewis and Clark,420,98.57,0.4761904762,46.70491,-112.02522
+139,Montana,2017-18,First Lutheran Preschool,Hill,68,98.53,0,48.5500773,-109.6704126
+140,Montana,2017-18,Sandstone,Yellowstone,403,98.51,0.4962779156,45.824446,-108.497098
+141,Montana,2017-18,Sunnyside,Hill,266,98.5,0.3759398496,48.540075,-109.676221
+142,Montana,2017-18,Elder Grove School Prek-8,Yellowstone,597,98.49,0.3350083752,45.7923387,-108.4988382
+143,Montana,2017-18,Mckinley,Yellowstone,263,98.48,0,45.786545,-108.516491
+144,Montana,2017-18,Warren,Lewis and Clark,324,98.46,0,46.634995,-111.953126
+145,Montana,2017-18,Blue Creek,Yellowstone,192,98.44,0,45.701384,-108.506549
+146,Montana,2017-18,West,Yellowstone,320,98.44,0.3125,45.673964,-108.782447
+147,Montana,2017-18,Longfellow,Gallatin,318,98.43,0,45.672913,-111.036865
+148,Montana,2017-18,Lincoln,Custer,254,98.43,0,46.405759,-105.837657
+149,Montana,2017-18,Morning Star,Gallatin,500,98.4,0.2,45.651755,-111.048626
+150,Montana,2017-18,Lincoln,Fallon,123,98.37,0.8130081301,46.357617,-104.275928
+151,Montana,2017-18,Rapelje Schools Prek-12,Stillwater,61,98.36,0,45.8277527,-109.9560749
+152,Montana,2017-18,Westby School Prek-12,Sheridan,61,98.36,0,46.01207,-112.5411249
+153,Montana,2017-18,Northern Mt Head Start,Hill,121,98.35,0,48.5493669,-109.673456
+154,Montana,2017-18,Lewis & Clark,Cascade,421,98.34,0.7125890736,47.504022,-111.240678
+155,Montana,2017-18,Radley Elementary,Lewis and Clark,540,98.33,0,46.592848,-111.917072
+156,Montana,2017-18,Morningside,Cascade,297,98.32,0,47.513132,-111.235316
+157,Montana,2017-18,Ryegate Schools Prek-12,Golden Valley,58,98.28,0,46.5857965,-113.1978954
+158,Montana,2017-18,Central,Lewis and Clark,231,98.27,0.4329004329,46.604319,-112.017812
+159,Montana,2017-18,Poly Drive,Yellowstone,341,98.24,0.8797653959,45.794412,-108.576721
+160,Montana,2017-18,Lolo Schools Prek-8,Missoula,568,98.24,0.3521126761,46.862191,-114.002201
+161,Montana,2017-18,Saddle Peak Elementary,Gallatin,450,98.22,0,45.786574,-111.184074
+162,Montana,2017-18,Highland Park,Fergus,280,98.21,0,47.069646,-109.440757
+163,Montana,2017-18,Highland Park,Hill,278,98.2,0.3597122302,48.541153,-109.699119
+164,Montana,2017-18,Hyalite Elementary,Gallatin,437,98.17,0.6864988558,45.677594,-111.087167
+165,Montana,2017-18,Columbus School 6-12,Stillwater,377,98.14,0.2652519894,45.8615259,-108.9296883
+166,Montana,2017-18,Dutton/Brady Schools Prek-12,Teton,107,98.13,0,47.5675182,-112.2794198
+167,Montana,2017-18,Jefferson,Custer,107,98.13,0,46.409916,-105.832423
+168,Montana,2017-18,Eagle Cliffs Elementary,Yellowstone,374,98.13,1.336898396,45.821053,-108.518786
+169,Montana,2017-18,Grace Montessori Academy,Yellowstone,160,98.13,0,45.7847,-108.639471
+170,Montana,2017-18,Napi,Glacier,425,98.12,0,48.554303,-113.012728
+171,Montana,2017-18,Roosevelt,Cascade,317,98.11,0,47.507897,-111.26363
+172,Montana,2017-18,Hobson Schools Prek-12,Judith Basin,103,98.06,0,47.329308,-112.204079
+173,Montana,2017-18,Hawthorne,Gallatin,356,98.03,0,45.680973,-111.031478
+174,Montana,2017-18,Mountain View,Carbon,203,98.03,0,45.183664,-109.24955
+175,Montana,2017-18,Meadow Lark,Cascade,505,98.02,0.198019802,47.482623,-111.328456
+176,Montana,2017-18,Huntley Project Elem K-6,Yellowstone,402,98.01,0.2487562189,45.959961,-108.166374
+177,Montana,2017-18,Highland,Yellowstone,298,97.99,0,45.790175,-108.534844
+178,Montana,2017-18,Canyon Creek School Prek-8,Yellowstone,243,97.94,0.4115226337,44.6660249,-111.1083905
+179,Montana,2017-18,Meadowlark,Yellowstone,476,97.9,0,45.77283,-108.587585
+180,Montana,2017-18,St Joseph,Missoula,238,97.9,0,46.86094,-114.005591
+181,Montana,2017-18,Broadwater,Yellowstone,373,97.86,0,45.777532,-108.52654
+182,Montana,2017-18,Creston,Flathead,93,97.85,0,48.189629,-114.138123
+183,Montana,2017-18,Valley View,Cascade,368,97.83,0.5434782609,47.518326,-111.327352
+184,Montana,2017-18,K William Harvey Elem,Lake,410,97.8,0,47.532097,-114.104462
+185,Montana,2017-18,Potomac School Prek-8,Missoula,91,97.8,1.098901099,46.8410322,-114.0175335
+186,Montana,2017-18,Chief Joseph,Cascade,316,97.78,0.3164556962,47.502404,-111.219458
+187,Montana,2017-18,Kessler Elementary,Lewis and Clark,270,97.78,0,46.606733,-112.07373
+188,Montana,2017-18,Chief Charlo,Missoula,445,97.75,0.4494382022,46.818772,-114.031204
+189,Montana,2017-18,Fort Benton School Prek-6,Chouteau,173,97.69,0,47.584009,-110.7974195
+190,Montana,2017-18,Pablo Elementary,Lake,216,97.69,0.462962963,47.601474,-114.116724
+191,Montana,2017-18,Stanford And Surprise Creek Schools Prek-12,Judith Basin,129,97.67,0,47.4927251,-112.3922459
+192,Montana,2017-18,Columbus Elem,Stillwater,343,97.67,0.2915451895,45.639582,-109.256972
+193,Montana,2017-18,O D Speer School/ E F Duvall,Powell,427,97.66,0.2341920375,46.7913115,-105.3081888
+194,Montana,2017-18,St Charles Mission,Big Horn,127,97.64,0,45.414479,-108.554964
+195,Montana,2017-18,Independent,Yellowstone,296,97.64,0,45.851107,-108.46532
+196,Montana,2017-18,Rose Park,Yellowstone,295,97.63,0,45.78845,-108.565022
+197,Montana,2017-18,Bainville Schools Prek-12,Roosevelt,168,97.62,0,48.1478081,-104.5153088
+198,Montana,2017-18,Lincoln,Cascade,420,97.62,0.2380952381,47.497455,-111.261481
+199,Montana,2017-18,Broadwater,Lewis and Clark,251,97.61,0.3984063745,46.603039,-112.046063
+200,Montana,2017-18,Big Sky Elementary,Yellowstone,412,97.57,0.2427184466,45.759301,-108.598714
+201,Montana,2017-18,Hillcrest,Silver Bow,398,97.49,0.2512562814,45.983171,-112.485197
+202,Montana,2017-18,Clinton,Missoula,159,97.48,1.886792453,46.772939,-113.713984
+203,Montana,2017-18,Malta K-5,Phillips,238,97.48,1.680672269,48.352924,-107.869747
+204,Montana,2017-18,Linderman,Lake,396,97.47,0,47.692026,-114.158214
+205,Montana,2017-18,Hillcrest,Wheatland,118,97.46,1.694915254,46.440283,-109.830499
+206,Montana,2017-18,Culbertson School Prek-12,Roosevelt,275,97.45,0,48.3359103,-104.4881273
+207,Montana,2017-18,Jefferson,Lewis and Clark,273,97.44,0.3663003663,46.583979,-112.022649
+208,Montana,2017-18,Sunburst Prek-8,Toole,117,97.44,0,48.8825196,-111.9120329
+209,Montana,2017-18,Miles Avenue,Yellowstone,271,97.42,0,45.774554,-108.557016
+210,Montana,2017-18,Irving,Gallatin,270,97.41,0,45.67301,-111.048533
+211,Montana,2017-18,Jefferson,Dawson,268,97.39,0,47.108909,-104.748022
+212,Montana,2017-18,Frenchtown Elementary,Missoula,490,97.35,0,47.011367,-114.226655
+213,Montana,2017-18,Cold Springs,Missoula,489,97.34,0,46.829688,-114.04571
+214,Montana,2017-18,Twin Bridges Schools Prek-12,Madison,225,97.33,0,45.5458196,-112.3337295
+215,Montana,2017-18,Bitterroot,Yellowstone,372,97.31,0.5376344086,45.831426,-108.465273
+216,Montana,2017-18,Butte Head Start Main Center,Silver Bow,186,97.31,0,45.7502038,-112.7547513
+217,Montana,2017-18,Whitewater Schools Prek-12,Phillips,37,97.3,2.702702703,48.1936043,-112.4977943
+218,Montana,2017-18,Lewis & Clark,Missoula,475,97.26,0.4210526316,46.844474,-114.003341
+219,Montana,2017-18,Fairview Schools Prek-12,Richland,327,97.25,0.3058103976,47.8497935,-104.0504567
+220,Montana,2017-18,Target Range School K-8,Missoula,577,97.23,1.039861352,46.8735599,-113.9901845
+221,Montana,2017-18,Zoo School Preschool,Yellowstone,72,97.22,2.777777778,45.773038,-108.591998
+222,Montana,2017-18,Terry Schools Prek-12,Prairie,143,97.2,0,46.2399198,-114.1488257
+223,Montana,2017-18,Bonner School Prek-8,Missoula,353,97.17,1.416430595,46.833806,-114.033341
+224,Montana,2017-18,Fred W Graff,Yellowstone,281,97.15,0.3558718861,45.67488,-108.766028
+225,Montana,2017-18,Broadview School Prek-12,Yellowstone,140,97.14,0,45.7813482,-108.5714384
+226,Montana,2017-18,Paxson,Missoula,455,97.14,0.2197802198,46.855612,-113.996875
+227,Montana,2017-18,Ponderosa,Yellowstone,280,97.14,0,45.754358,-108.519398
+228,Montana,2017-18,Monforton School Prek-8,Gallatin,524,97.14,0,45.65382,-110.954157
+229,Montana,2017-18,Great Falls Parent Participation Preschool Co-Op,Cascade,34,97.06,0,47.5060375,-111.2684056
+230,Montana,2017-18,Washington,Yellowstone,303,97.03,0,45.77167,-108.542746
+231,Montana,2017-18,Hellgate Schools Prek-8,Missoula,1467,97,0.2044989775,46.8442519,-114.0033792
+232,Montana,2017-18,Little Scholars,Valley,33,96.97,0,48.1354576,-106.3542045
+233,Montana,2017-18,Reed Point Elementary,Stillwater,33,96.97,0,45.706845,-109.543774
+234,Montana,2017-18,Fort Peck Tribal Headstart,Roosevelt,228,96.93,0,48.0919693,-105.5602292
+235,Montana,2017-18,Melville,Sweet Grass,31,96.77,0,46.097057,-109.948079
+236,Montana,2017-18,Meadowlark,Pondera,153,96.73,0,48.171154,-111.946902
+237,Montana,2017-18,Edgerton,Flathead,611,96.73,0,48.229334,-114.310132
+238,Montana,2017-18,Rau,Richland,61,96.72,0,47.665527,-104.145782
+239,Montana,2017-18,Roundup Elementary,Musselshell,304,96.71,0,46.45297,-108.534905
+240,Montana,2017-18,Sacajawea,Cascade,456,96.71,0.6578947368,47.532475,-111.298548
+241,Montana,2017-18,Central Elementary,Richland,333,96.7,0,47.7131,-104.154811
+242,Montana,2017-18,Tree House Learning Center,Lewis and Clark,30,96.67,0,46.6200598,-112.0344023
+243,Montana,2017-18,Boulder Elementary School Prek-8,Jefferson,179,96.65,0.5586592179,46.4653175,-111.9903478
+244,Montana,2017-18,Ridge View Elementary,Gallatin,447,96.64,0.2237136465,45.774267,-111.215487
+245,Montana,2017-18,Garfield,Fergus,206,96.6,0,47.070898,-109.42189
+246,Montana,2017-18,Three Forks Schools Prek-12,Gallatin,676,96.6,0.1479289941,45.6849583,-111.0445368
+247,Montana,2017-18,Lowell,Missoula,293,96.59,0.3412969283,46.880374,-114.008625
+248,Montana,2017-18,Hillcrest 7-8/Harlowton Hs/Head Start Harlowton,Wheatland,117,96.58,0,46.6794583,-109.75308
+249,Montana,2017-18,Utterback 4-6,Pondera,117,96.58,3.418803419,48.171845,-111.948059
+250,Montana,2017-18,Lima Schools K-12,Beaverhead,58,96.55,0,45.3435511,-113.1208714
+251,Montana,2017-18,Mt Sch For Deaf & Blnd El,Cascade,29,96.55,0,47.505504,-111.239535
+252,Montana,2017-18,Choteau,Teton,172,96.51,0.5813953488,47.810159,-112.189507
+253,Montana,2017-18,Burlington,Yellowstone,228,96.49,1.315789474,45.781349,-108.571417
+254,Montana,2017-18,Meadowlark,Blaine,196,96.43,0,48.589572,-109.235325
+255,Montana,2017-18,Valley View,Lake,28,96.43,0,47.631507,-114.284416
+256,Montana,2017-18,Florence-Carlton Schools Prek-12,Ravalli,799,96.37,1.752190238,46.566875,-113.9835596
+257,Montana,2017-18,Lodge Grass Schools K-12,Big Horn,385,96.36,0,45.4624629,-107.7270474
+258,Montana,2017-18,Fairfield Prek-12,Teton,301,96.35,0,47.6397268,-111.8611856
+259,Montana,2017-18,Clark Fork,Missoula,82,96.34,0,46.88839,-113.966351
+260,Montana,2017-18,F E Miley,Chouteau,82,96.34,0,48.173426,-110.112587
+261,Montana,2017-18,Augusta Schools Prek-12,Lewis and Clark,108,96.3,0,47.4915996,-112.4003927
+262,Montana,2017-18,Hill Top Colony,Cascade,27,96.3,0,47.38887,-111.096437
+263,Montana,2017-18,Whittier,Cascade,239,96.23,0,47.508867,-111.293394
+264,Montana,2017-18,Montana City School Prek-8,Jefferson,475,96.21,0,45.8749102,-112.0978189
+265,Montana,2017-18,Medicine Lake Schools Prek-12,Sheridan,105,96.19,0,48.866275,-104.050644
+266,Montana,2017-18,Apostle Lutheran,Yellowstone,26,96.15,0,45.8333631,-108.5226525
+267,Montana,2017-18,Hawthorne,Missoula,409,96.09,0.2444987775,46.866483,-114.051849
+268,Montana,2017-18,Kircher,Custer,51,96.08,0,46.447557,-105.781367
+269,Montana,2017-18,East Side,Park,352,96.02,0,45.658649,-110.550563
+270,Montana,2017-18,Stevensville K-12,Ravalli,1052,96.01,0.1901140684,46.2485573,-114.1625618
+271,Montana,2017-18,Gallatin Gateway School K-8,Gallatin,150,96,0,45.734104,-111.0645029
+272,Montana,2017-18,Highland Park,Custer,149,95.97,0,46.401427,-105.829777
+273,Montana,2017-18,Lambert Schools Prek-12,Richland,124,95.97,0,47.66585,-104.1463246
+274,Montana,2017-18,St Andrews School K-12,Lewis and Clark,198,95.96,0.5050505051,46.6003617,-112.0702477
+275,Montana,2017-18,Savage Schools Prek-12,Richland,98,95.92,0,48.142243,-104.2202199
+276,Montana,2017-18,Ennis School Prek-8,Madison,269,95.91,0,45.455403,-112.1924461
+277,Montana,2017-18,Darby Schools Prek-12,Ravalli,316,95.89,3.481012658,46.200413,-114.140576
+278,Montana,2017-18,Ophir/Lone Preak Schools Prek-12,Gallatin,364,95.88,2.472527473,45.6832487,-111.1056114
+279,Montana,2017-18,Rattlesnake Elementary,Missoula,484,95.87,1.033057851,46.891786,-113.967086
+280,Montana,2017-18,Cherry Valley,Lake,265,95.85,0,47.687817,-114.165834
+281,Montana,2017-18,Miami,Pondera,24,95.83,0,48.190967,-112.282057
+282,Montana,2017-18,Sleeping Giant Middle Sch,Park,335,95.82,0.8955223881,45.658221,-110.552044
+283,Montana,2017-18,Mountain View,Cascade,308,95.78,0,47.487273,-111.245037
+284,Montana,2017-18,Fort Shaw Elem,Cascade,94,95.74,3.191489362,47.509564,-111.822046
+285,Montana,2017-18,Franklin,Missoula,282,95.74,0,46.860158,-114.026669
+286,Montana,2017-18,Bo Peep/Redwater/Circle Schools Prek-12,McCone,211,95.73,0,48.0566725,-105.6101216
+287,Montana,2017-18,Russell,Flathead,278,95.68,0,48.205737,-114.320405
+288,Montana,2017-18,Meadowlark Elementary,Gallatin,531,95.67,0.3766478343,45.68667,-111.099821
+289,Montana,2017-18,Whitehall Elementary,Jefferson,184,95.65,0,45.87369,-112.097595
+290,Montana,2017-18,Zurich,Blaine,23,95.65,0,48.586023,-109.030466
+291,Montana,2017-18,Clinton 7-8,Missoula,45,95.56,2.222222222,46.772939,-113.713984
+292,Montana,2017-18,Summit Preparatory,Flathead,45,95.56,0,48.164899,-114.495145
+293,Montana,2017-18,Funshine Preschool,Blaine,22,95.45,0,48.950826,-109.4681934
+294,Montana,2017-18,Anaconda-Deer Lodge Head Start,Deer Lodge,65,95.38,0,46.3993407,-112.7354513
+295,Montana,2017-18,Joliet Schools K-12,Carbon,361,95.29,0,45.183313,-109.249609
+296,Montana,2017-18,Big Horn Valley Christian,Big Horn,21,95.24,0,45.3075502,-107.9168561
+297,Montana,2017-18,Jordan School/Garfield Dist Prek-12,Garfield,124,95.16,0,47.531113,-107.5356557
+298,Montana,2017-18,Absarokee Schools Prek-12,Stillwater,245,95.1,2.448979592,45.6395784,-109.2569341
+299,Montana,2017-18,Little Fishes Preschool,Stillwater,20,95,0,45.4358922,-109.7946716
+300,Montana,2017-18,Pondera Colony,Pondera,20,95,0,48.237977,-112.418775
+301,Montana,2017-18,Emily Dickinson,Gallatin,478,94.98,0.8368200837,45.689819,-111.069393
+302,Montana,2017-18,Lincoln Schools Prek-12,Lewis and Clark,138,94.93,1.449275362,46.9557956,-112.6741337
+303,Montana,2017-18,Fair-Mont-Egan School K-8,Flathead,177,94.92,0.5649717514,48.2548101,-114.2547361
+304,Montana,2017-18,Highwood Schools Prek-12,Chouteau,98,94.9,0,47.5841786,-110.799102
+305,Montana,2017-18,Richey Schools Prek-12,Dawson,78,94.87,1.282051282,46.127706,-112.957724
+306,Montana,2017-18,Parkview,Beaverhead,502,94.82,0.1992031873,45.215288,-112.624792
+307,Montana,2017-18,Libby Elementary School Prek-6,Lincoln,675,94.81,0.1481481481,48.7028717,-114.8767161
+308,Montana,2017-18,Valley Christian School Prek-12,Missoula,288,94.79,0,46.4474445,-108.5441381
+309,Montana,2017-18,Belt School Prek-12,Cascade,306,94.77,1.633986928,47.4393953,-111.8202659
+310,Montana,2017-18,B A Winans,Park,114,94.74,0,45.653128,-110.568616
+311,Montana,2017-18,Roy Schools K-12,Fergus,38,94.74,0,47.5594365,-109.38075
+312,Montana,2017-18,Wilson Preschool,Gallatin,74,94.59,0,47.0555545,-106.6144902
+313,Montana,2017-18,Our Lady Of Lourdes,Cascade,146,94.52,0.6849315068,47.5239234,-111.3148641
+314,Montana,2017-18,Lakeside Elementary,Flathead,358,94.41,0.2793296089,48.020315,-114.226944
+315,Montana,2017-18,Manhattan Schools Prek-12,Gallatin,712,94.38,0,45.6757146,-111.1704665
+316,Montana,2017-18,Lillian Peterson,Flathead,457,94.31,0.875273523,48.19361,-114.329707
+317,Montana,2017-18,Chester-Joplin-Inverness Schools Prek-12,Liberty,193,94.3,0,48.6980489,-111.2105401
+318,Montana,2017-18,Anderson School K-8,Gallatin,207,94.2,2.415458937,45.683772,-111.077839
+319,Montana,2017-18,Pilgrim Preschool,Gallatin,34,94.12,0,45.7866506,-111.1840587
+320,Montana,2017-18,Roberts Schools K-12,Carbon,119,94.12,0,45.890131,-104.5529271
+321,Montana,2017-18,Clancy School Prek-8,Jefferson,339,94.1,0.2949852507,45.8693709,-112.0986053
+322,Montana,2017-18,Belfry Schools K-12,Carbon,84,94.05,0,45.3932066,-108.9119471
+323,Montana,2017-18,Eastgate,Lewis and Clark,300,94,0,46.595967,-111.892716
+324,Montana,2017-18,Saco Schools Prek-12,Phillips,50,94,0,48.1683058,-111.9447411
+325,Montana,2017-18,Drummond Schools Prek-12,Granite,163,93.87,0.6134969325,46.3286065,-113.2960481
+326,Montana,2017-18,Turner Schools K-12,Blaine,81,93.83,1.234567901,46.4084334,-111.5616847
+327,Montana,2017-18,West Glacier,Flathead,64,93.75,0,48.497165,-113.979031
+328,Montana,2017-18,Whittier School Prek-5,Gallatin,285,93.68,0.350877193,45.6866092,-111.0976596
+329,Montana,2017-18,Nashua Schools Prek-12,Valley,94,93.62,0,46.4361676,-109.8271774
+330,Montana,2017-18,First Lutheran,Lewis and Clark,31,93.55,0,46.5839,-112.000201
+331,Montana,2017-18,Hyalite Elementary Prek,Gallatin,31,93.55,0,45.643876,-110.944756
+332,Montana,2017-18,Glacier Gateway Elem,Flathead,519,93.45,0.1926782274,48.37465,-114.187161
+333,Montana,2017-18,Bigfork Schools K-12,Flathead,883,93.43,0.1132502831,48.2259556,-114.1220551
+334,Montana,2017-18,Amsterdam,Gallatin,136,93.38,0,45.754496,-111.321445
+335,Montana,2017-18,Wyola School K-8,Big Horn,135,93.33,0,48.2697122,-109.1515216
+336,Montana,2017-18,Lone Rock School Prek-8,Ravalli,205,93.17,0.487804878,46.329237,-114.2167905
+337,Montana,2017-18,Plains K-12,Sanders,422,93.13,0.4739336493,47.5951378,-115.322092
+338,Montana,2017-18,Lamotte School Prek-8,Gallatin,58,93.1,0,45.671083,-110.837475
+339,Montana,2017-18,Alberton Schools Prek-12,Mineral,130,93.08,0,47.1867929,-114.8784719
+340,Montana,2017-18,Harrison Schools Prek-12,Madison,72,93.06,0,45.54426,-112.3310399
+341,Montana,2017-18,Helena Flats School Prek-8,Flathead,254,92.91,0.7874015748,48.1212045,-114.4569198
+342,Montana,2017-18,L A Muldown,Flathead,713,92.71,1.683029453,48.406018,-114.323485
+343,Montana,2017-18,Gardiner,Park,81,92.59,0,45.03178,-110.7112
+344,Montana,2017-18,Swan River 7-8,Flathead,54,92.59,1.851851852,48.095893,-114.027563
+345,Montana,2017-18,Utterback 7-8,Pondera,81,92.59,0,48.171794,-111.948192
+346,Montana,2017-18,Elrod,Flathead,323,92.57,0.6191950464,48.193683,-114.3171
+347,Montana,2017-18,Whitefish Middle 5-8,Flathead,561,92.51,0.1782531194,48.411968,-114.334796
+348,Montana,2017-18,New Day Inc.,Yellowstone,53,92.45,0,45.7678896,-108.5158615
+349,Montana,2017-18,Ruder Elementary,Flathead,537,92.36,0.7448789572,48.364731,-114.198761
+350,Montana,2017-18,Arlee Schools Prek-12,Lake,455,92.31,0.8791208791,47.6882133,-114.1658156
+351,Montana,2017-18,Hand N Hand Lutheran Preschool,Beaverhead,26,92.31,0,44.6368563,-112.5919506
+352,Montana,2017-18,Shields Valley Elementary,Park,103,92.23,0,45.989616,-110.662451
+353,Montana,2017-18,St Regis Schools Prek-12,Mineral,153,92.16,0,46.8694494,-113.8724093
+354,Montana,2017-18,Whitehall 6-8,Jefferson,89,92.13,0,45.874011,-112.097455
+355,Montana,2017-18,Bozeman Summit,Gallatin,50,92,0,45.7850747,-111.1758279
+356,Montana,2017-18,Butte Central Elem,Silver Bow,199,91.96,0,45.956407,-112.511626
+357,Montana,2017-18,Hot Springs Schools Prek-12,Sanders,184,91.85,0,47.4602135,-114.8829119
+358,Montana,2017-18,East Glacier Park,Glacier,73,91.78,0,48.440155,-113.218014
+359,Montana,2017-18,Frontier School Prek-8,Roosevelt,145,91.72,0,48.1110089,-105.2038997
+360,Montana,2017-18,Smith Valley Prek-8,Flathead,228,91.67,0.4385964912,48.1732622,-114.28096
+361,Montana,2017-18,Billings Christian School Prek-12,Yellowstone,275,91.64,0.7272727273,45.8314101,-108.4653105
+362,Montana,2017-18,Dayton,Lake,59,91.53,0,47.865724,-114.279878
+363,Montana,2017-18,Missoula International,Missoula,188,91.49,0.5319148936,46.995164,-114.473714
+364,Montana,2017-18,Thompson Falls Elem,Sanders,220,91.36,0,48.503409,-104.5003239
+365,Montana,2017-18,White Sulphur Springs Schools Prek-12,Meagher,192,91.15,0,47.300426,-115.101836
+366,Montana,2017-18,Greenfield School Prek-8,Teton,90,91.11,0,47.6397304,-111.8633743
+367,Montana,2017-18,Custer Schools K-12,Yellowstone,78,91.03,0,45.7413631,-108.6798781
+368,Montana,2017-18,Hawthorne,Lewis and Clark,261,90.8,0,46.591333,-112.04502
+369,Montana,2017-18,Winnett Schools Prek-12,Petroleum,76,90.79,0,48.3522585,-107.8794662
+370,Montana,2017-18,St Matthew,Flathead,141,90.78,0,48.1648225,-114.4951701
+371,Montana,2017-18,Daly,Ravalli,433,90.76,2.771362587,46.239923,-114.148622
+372,Montana,2017-18,Victor Schools,Ravalli,270,90.74,2.592592593,47.7791836,-104.2932763
+373,Montana,2017-18,East Evergreen,Flathead,386,90.67,0.2590673575,48.2272,-114.256971
+374,Montana,2017-18,Bynum,Teton,21,90.48,0,47.977297,-112.315475
+375,Montana,2017-18,Manhattan Christian Schools Prek-12,Gallatin,324,90.43,0.6172839506,45.6866421,-111.1003208
+376,Montana,2017-18,Foothills Community Christian School K-12,Cascade,146,90.41,0.6849315068,47.5091868,-111.8205952
+377,Montana,2017-18,Willow Creek Schools Prek-12,Gallatin,73,90.41,0,45.6730235,-111.0347734
+378,Montana,2017-18,Sussex,Missoula,114,90.35,3.50877193,46.86827,-114.025231
+379,Montana,2017-18,Philipsburg,Granite,72,90.28,0,46.329475,-113.296396
+380,Montana,2017-18,Glasgow Head Start,Valley,20,90,0,48.204541,-106.6365998
+381,Montana,2017-18,Lustre School Prek-12,Valley,69,89.86,1.449275362,48.8566918,-106.4072535
+382,Montana,2017-18,Cornelius Hedges,Flathead,374,89.84,1.069518717,48.191607,-114.30399
+383,Montana,2017-18,Pine Creek School Prek-8,Park,39,89.74,2.564102564,45.658569,-110.5516699
+384,Montana,2017-18,Trout Creek Prek-8,Sanders,57,89.47,0,48.7780028,-104.5550328
+385,Montana,2017-18,Marion School K-8,Flathead,128,89.06,0,48.202687,-114.302991
+386,Montana,2017-18,Swan River,Flathead,118,88.98,0,48.095963,-114.028048
+387,Montana,2017-18,St Ignatius Elementary,Lake,245,88.98,0,47.319031,-114.092254
+388,Montana,2017-18,Dixon Prek-8,Sanders,52,88.46,0,47.9929517,-115.7764149
+389,Montana,2017-18,Washington,Ravalli,249,88.35,0,46.248585,-114.162292
+390,Montana,2017-18,Moore Schools K-12,Fergus,93,88.17,0,47.149658,-109.619514
+391,Montana,2017-18,First Lutheran Classical,Missoula,42,88.1,2.380952381,47.0217024,-114.243029
+392,Montana,2017-18,Grace Lutheran Preschool,Gallatin,25,88,0,45.6994302,-111.0511752
+393,Montana,2017-18,Stillwater Christian School K-12,Flathead,374,87.97,1.069518717,48.0596752,-114.0809471
+394,Montana,2017-18,Yellowstone Academy Prek-12,Yellowstone,115,87.83,0,45.7417129,-108.7037155
+395,Montana,2017-18,Pine Hills Youth Corr Facil,Custer,40,87.5,0,46.4085327,-105.821246
+396,Montana,2017-18,Pryor Elem School/Arrow Creek,Big Horn,40,87.5,0,45.3032639,-108.592492
+397,Montana,2017-18,Noxon Schools Prek-12,Sanders,194,86.6,0.5154639175,47.5968975,-115.3425716
+398,Montana,2017-18,W F Morrison,Lincoln,201,86.57,3.980099502,48.460172,-115.890926
+399,Montana,2017-18,Hall,Granite,22,86.36,0,46.585801,-113.197922
+400,Montana,2017-18,Luther,Carbon,29,86.21,0,45.284687,-109.425012
+401,Montana,2017-18,Lincoln Primary,Deer Lodge,303,86.14,0,46.132779,-112.97534
+402,Montana,2017-18,Barbara Gilligan,Roosevelt,78,85.9,0,48.151585,-104.914601
+403,Montana,2017-18,Helena Christian School Prek-12,Lewis and Clark,204,85.78,0,46.6176457,-111.9195087
+404,Montana,2017-18,Nkwusm Salish Language,Lake,42,85.71,0,47.16761,-114.089871
+405,Montana,2017-18,St Mary's,Park,74,85.14,0,47.0043282,-108.3487305
+406,Montana,2017-18,Cayuse Prairie School K-8,Flathead,247,85.02,0,48.363492,-114.207623
+407,Montana,2017-18,Vida,McCone,20,85,0,47.83495,-105.49348
+408,Montana,2017-18,Eureka Elementary,Lincoln,226,84.96,0,48.885401,-115.051284
+409,Montana,2017-18,Thompson Falls 7-8,Sanders,66,84.85,0,47.596919,-115.342437
+410,Montana,2017-18,Heritage Christian School Prek-12,Gallatin,195,84.62,0,45.6776561,-111.0871196
+411,Montana,2017-18,Bissell School K-8,Flathead,84,84.52,1.19047619,48.404901,-114.326016
+412,Montana,2017-18,Quentin Brown Primary K-4,Ravalli,474,84.18,0.2109704641,46.3137,-114.113081
+413,Montana,2017-18,Shiloh Christian Academy,Yellowstone,63,84.13,0,45.76352,-108.620871
+414,Montana,2017-18,Kalispell/Woodland Montessori Cntr,Flathead,62,83.87,1.612903226,#REF!,-114.2981834
+415,Montana,2017-18,Trinity Lutheran,Flathead,173,83.82,0.5780346821,48.203577,-114.322549
+416,Montana,2017-18,Deer Park School K-8,Flathead,154,83.12,0,48.2290948,-114.3102785
+417,Montana,2017-18,Petra Academy,Gallatin,206,82.52,0,45.68264,-111.106571
+418,Montana,2017-18,Whitefish Christian Academy,Flathead,152,82.24,0.6578947368,48.40397,-114.327151
+419,Montana,2017-18,Academy Preschool At Career Center,Yellowstone,122,81.97,1.639344262,45.7814338,-108.5158141
+420,Montana,2017-18,North West Indian Bible,Missoula,27,81.48,7.407407407,46.99516,-114.473711
+421,Montana,2017-18,Kila School Prek-8,Flathead,173,80.92,0.5780346821,#REF!,-114.4591085
+422,Montana,2017-18,Lavina Schools Prek-12,Golden Valley,77,80.52,1.298701299,46.6706261,-113.1482845
+423,Montana,2017-18,St Labre School K-12,Rosebud,364,79.67,0,47.6086152,-114.664076
+424,Montana,2017-18,Kootenai Valley Christian,Lincoln,73,78.08,0,48.3855239,-115.5564847
+425,Montana,2017-18,Cardwell,Jefferson,46,76.09,0,45.856874,-111.952275
+426,Montana,2017-18,Glacier View Sda,Lake,20,75,0,47.5303244,-114.1010308
+427,Montana,2017-18,Treasure State Academy,Cascade,28,75,0,47.50622,-111.229381
+428,Montana,2017-18,Denton Schools K-12,Fergus,66,74.24,0,47.053473,-109.423892
+429,Montana,2017-18,Arrowhead School Prek-8,Park,62,74.19,1.612903226,45.01967,-109.934407
+430,Montana,2017-18,Divine Mercy Academy,Gallatin,62,74.19,0,45.5907473,-111.2004797
+431,Montana,2017-18,Bozeman Christian School K-12,Gallatin,41,73.17,0,45.569122,-111.12529
+432,Montana,2017-18,Mission Valley Christian School K-12,Lake,47,72.34,6.382978723,47.16766,-114.089217
+433,Montana,2017-18,Glacier Lake,Lake,29,68.97,6.896551724,47.304335,-114.039088
+434,Montana,2017-18,Blodgett View Christian,Ravalli,24,66.67,0,46.0274125,-114.1776957
+435,Montana,2017-18,Northern Cheyenne Tribal,Big Horn,221,66.52,0,45.53642,-106.956791
+436,Montana,2017-18,Swan Valley Schools Prek-8,Missoula,29,65.52,0,46.8469126,-114.0803771
+437,Montana,2017-18,Alder,Madison,20,65,0,45.319492,-112.10963
+438,Montana,2017-18,Hamilton Christian Academy,Ravalli,58,63.79,0,46.20048,-114.140591
+439,Montana,2017-18,St Jude Thaddeus,Hill,138,60.14,0.7246376812,48.54934,-109.673001
+440,Montana,2017-18,Head Start St Ignatius,Lake,286,60.14,0,47.6917387,-114.1592812
+441,Montana,2017-18,Liberty Christian,Richland,24,58.33,0,47.71118,-104.159361
+442,Montana,2017-18,Fortine School Prek-8,Lincoln,83,54.22,0,48.3855204,-115.554296
+443,Montana,2017-18,Greenwood Academy,Gallatin,20,50,0,45.6669152,-111.0433881
+444,Montana,2017-18,Shelby Elementary,Toole,484,48.97,0,48.515156,-111.862249
+445,Montana,2017-18,Box Elder Schools Prek-12,Hill,395,35.7,0,48.3171645,-110.0147126
+446,Montana,2017-18,World Family,Gallatin,26,23.08,0,47.3193343,-106.9070722
+447,Montana,2017-18,Pines Academy,Ravalli,128,14.06,0,46.5067471,-114.0841457
+448,Montana,2017-18,West Valley School Prek-6,Flathead,6222,9.43,0.4018000643,48.411439,-114.3346094
+449,Montana,2017-18,Orchard,Yellowstone,369,0,0,45.76787,-108.516023
+450,Montana,2017-18,Alzada,Carter,,,,45.020852,-104.412955
+451,Montana,2017-18,American Lutheran Preschool,Yellowstone,,,,45.7954897,-108.6126828
+452,Montana,2017-18,Auchard Creek,Lewis and Clark,,,,47.328689,-112.210685
+453,Montana,2017-18,Avon,Powell,,,,46.598286,-112.590781
+454,Montana,2017-18,Ayers,Fergus,,,,47.049975,-108.949474
+455,Montana,2017-18,Basin,Jefferson,,,,46.272891,-112.264558
+456,Montana,2017-18,Beacon Star Amish,Fergus,,,,46.958929,-109.607198
+457,Montana,2017-18,Benton Lake School Prek-8,Chouteau,,,,48.1734653,-110.1124373
+458,Montana,2017-18,Biddle,Powder River,,,,45.101791,-105.33884
+459,Montana,2017-18,Billings Educational Academy,Yellowstone,,,,45.7011022,-108.5061998
+460,Montana,2017-18,Birney,Rosebud,,,,45.321967,-106.514391
+461,Montana,2017-18,Bloomfield,Dawson,,,,47.413382,-104.920015
+462,Montana,2017-18,Bloomfield School Pre-K,Dawson,,,,47.1657556,-104.6984618
+463,Montana,2017-18,Brorson,Richland,,,,47.779268,-104.293657
+464,Montana,2017-18,Busy Bear Preschool,Dawson,,,,47.1066546,-104.7027347
+465,Montana,2017-18,Butte Montessori,Silver Bow,,,,45.9944346,-112.5156853
+466,Montana,2017-18,Calvary Christian,Lewis and Clark,,,,46.59897,-112.016031
+467,Montana,2017-18,Cam Rose,Toole,,,,48.30679,-111.611665
+468,Montana,2017-18,Carter School Prek-8,Chouteau,,,,47.8230244,-110.6673217
+469,Montana,2017-18,Cascade Colony,Cascade,,,,47.439226,-111.820234
+470,Montana,2017-18,Children's House Montessori,Flathead,,,,48.1915255,-114.3045221
+471,Montana,2017-18,Cleveland,Blaine,,,,48.269892,-109.151772
+472,Montana,2017-18,Cohagen,Garfield,,,,47.055752,-106.614475
+473,Montana,2017-18,Conrad Site Head Start,Pondera,,,,48.3027527,-112.4875483
+474,Montana,2017-18,Cooke City,Park,,,,45.020664,-109.934706
+475,Montana,2017-18,Cottonwood,Gallatin,,,,45.56944,-111.125791
+476,Montana,2017-18,Debbie's Preschool,Sweet Grass,,,,45.6613191,-110.1160138
+477,Montana,2017-18,Deer Creek,Dawson,,,,47.165979,-104.6992
+478,Montana,2017-18,Deerfield,Fergus,,,,47.261025,-109.670427
+479,Montana,2017-18,Divide,Silver Bow,,,,45.750142,-112.754136
+480,Montana,2017-18,Dupuyer,Pondera,,,,48.194327,-112.497526
+481,Montana,2017-18,East End Colony,Hill,,,,48.541521,-109.6991407
+482,Montana,2017-18,East Malta Colony,Phillips,,,,48.7866737,-107.9734441
+483,Montana,2017-18,Elk Creek Mennonite,Cascade,,,,47.5103398,-111.2682738
+484,Montana,2017-18,Elliston,Powell,,,,46.562954,-112.432571
+485,Montana,2017-18,Five Falls Christian,Cascade,,,,47.47602,-111.338801
+486,Montana,2017-18,Fort Shaw Elementary Prek,Cascade,,,,47.505925,-111.2662381
+487,Montana,2017-18,Galata,Toole,,,,48.478069,-111.352126
+488,Montana,2017-18,Garrison,Powell,,,,46.524979,-112.807276
+489,Montana,2017-18,Glacier Elementary,Glacier,,,,48.83189,-112.219155
+490,Montana,2017-18,Gold Creek,Powell,,,,46.580424,-112.928325
+491,Montana,2017-18,Golden Ridge,Teton,,,,47.567382,-112.227534
+492,Montana,2017-18,Grant,Beaverhead,,,,45.007739,-113.064428
+493,Montana,2017-18,Great Beginings,Gallatin,,,,45.6807442,-111.0314137
+494,Montana,2017-18,Greycliff,Sweet Grass,,,,45.762077,-109.785473
+495,Montana,2017-18,Hammond,Carter,,,,45.22625,-104.916378
+496,Montana,2017-18,Hartland Elementary,Blaine,,,,48.951221,-109.447004
+497,Montana,2017-18,Hawks Home,Carter,,,,45.391996,-104.650847
+498,Montana,2017-18,Head Start Central Montana,Musselshell,,,,46.5985922,-107.8720495
+499,Montana,2017-18,Head Start Malta,Phillips,,,,48.3532915,-107.8692957
+500,Montana,2017-18,Head Start Roundup,Musselshell,,,,46.445242,-108.5417999
+501,Montana,2017-18,Helmville School Prek-8,Powell,,,,47.0193503,-113.1291298
+502,Montana,2017-18,Hidden Lake Elementary,Glacier,,,,48.600761,-112.603046
+503,Montana,2017-18,Hillcrest Colony Elementary,Cascade,,,,47.631213,-111.50249
+504,Montana,2017-18,Hillside Colony,Liberty,,,,48.8985823,-112.107933
+505,Montana,2017-18,Horizon Elementary,Glacier,,,,48.717471,-112.2236
+506,Montana,2017-18,Jackson,Beaverhead,,,,45.370542,-113.410082
+507,Montana,2017-18,Jefferson Center Prek,Missoula,,,,46.7624015,-114.0821275
+508,Montana,2017-18,Kester,Garfield,,,,47.573228,-106.666715
+509,Montana,2017-18,King Colony,Fergus,,,,47.054492,-109.63863
+510,Montana,2017-18,Kingsbury Colony,Pondera,,,,48.2373229,-112.4224285
+511,Montana,2017-18,Knees,Chouteau,,,,48.031249,-111.323018
+512,Montana,2017-18,L A Muldown Prek,Flathead,,,,48.0201093,-114.2267799
+513,Montana,2017-18,Lindsay,Dawson,,,,47.222745,-105.153519
+514,Montana,2017-18,Lisa Fletes Preschool,McCone,,,,47.8346212,-105.4929797
+515,Montana,2017-18,Little Friends Preschool,Lake,,,,47.675688,-114.147869
+516,Montana,2017-18,Little Giants Preschool,Toole,,,,48.8832031,-111.910518
+517,Montana,2017-18,Little Lambs Preschool,Lake,,,,47.6891548,-114.1148872
+518,Montana,2017-18,Little Lambs Preschool,Rosebud,,,,46.275564,-106.441347
+519,Montana,2017-18,Longfellow Learners Preschool,Yellowstone,,,,45.772562,-108.587641
+520,Montana,2017-18,Loring Colony,Phillips,,,,48.786341,-107.973326
+521,Montana,2017-18,Malmborg,Gallatin,,,,45.671212,-110.83734
+522,Montana,2017-18,Mccormick,Lincoln,,,,48.627682,-116.025636
+523,Montana,2017-18,Mcleod,Sweet Grass,,,,45.662285,-110.115989
+524,Montana,2017-18,Melrose,Silver Bow,,,,45.631488,-112.687475
+525,Montana,2017-18,Midway Colony,Pondera,,,,48.068075,-111.996474
+526,Montana,2017-18,Miller Colony,Teton,,,,47.7164959,-111.6885059
+527,Montana,2017-18,Molt,Stillwater,,,,45.861541,-108.929691
+528,Montana,2017-18,Mountain Heights Christian,Lake,,,,47.527495,-114.103421
+529,Montana,2017-18,Mountainview Church,Missoula,,,,46.8555692,-113.9968896
+530,Montana,2017-18,North Harlem Elementary,Blaine,,,,48.585405,-108.754392
+531,Montana,2017-18,Nye,Stillwater,,,,45.436459,-109.794193
+532,Montana,2017-18,Our Savior Lutheran Church Preschool,Ravalli,,,,46.0174639,-114.1817423
+533,Montana,2017-18,Ovando,Powell,,,,47.019644,-113.128148
+534,Montana,2017-18,Pass Creek,Gallatin,,,,45.977249,-111.098345
+535,Montana,2017-18,Pine Grove,Garfield,,,,47.531076,-107.535645
+536,Montana,2017-18,Pinehaven Christian,Lake,,,,47.3187782,-114.0917324
+537,Montana,2017-18,Pleasant Valley,Flathead,,,,48.149648,-114.956742
+538,Montana,2017-18,Polaris,Beaverhead,,,,45.338588,-113.12008
+539,Montana,2017-18,Prairie Elk Colony,McCone,,,,48.016131,-105.795819
+540,Montana,2017-18,Providence Home,Flathead,,,,48.205882,-114.3203979
+541,Montana,2017-18,Rimrock Colony,Liberty,,,,48.521744,-110.9808001
+542,Montana,2017-18,Riverview,Custer,,,,46.243875,-105.272673
+543,Montana,2017-18,Rockport Colony,Teton,,,,48.5071573,-111.8552899
+544,Montana,2017-18,Ross,Garfield,,,,47.1819,-107.923348
+545,Montana,2017-18,S H,Custer,,,,45.955414,-106.087684
+546,Montana,2017-18,S Y,Custer,,,,45.960531,-105.63412
+547,Montana,2017-18,Sage Creek Elementary,Liberty,,,,48.929442,-110.972385
+548,Montana,2017-18,Salmon Prairie,Lake,,,,47.630843,-113.785274
+549,Montana,2017-18,Sand Springs,Garfield,,,,47.100834,-107.487471
+550,Montana,2017-18,Spring Creek Colony,Fergus,,,,48.064323,-114.0773182
+551,Montana,2017-18,Spring Creek,Big Horn,,,,45.107515,-106.808869
+552,Montana,2017-18,Springdale Colony,Meagher,,,,47.0015869,-114.4734549
+553,Montana,2017-18,Springhill,Gallatin,,,,45.839105,-111.035214
+554,Montana,2017-18,Straight Arrow,Glacier,,,,46.2935954,-108.9363822
+555,Montana,2017-18,Summit Academy K-12,Park,,,,48.3963868,-108.2492996
+556,Montana,2017-18,Sunset,Missoula,,,,46.916353,-113.42842
+557,Montana,2017-18,Target Range School Prek,Missoula,,,,46.8582045,-114.0410342
+558,Montana,2017-18,Townsend Head Start,Broadwater,,,,45.2957286,-108.9185772
+559,Montana,2017-18,Trego,Lincoln,,,,48.702981,-114.876819
+560,Montana,2017-18,Trinity,Lewis and Clark,,,,46.805306,-112.245279
+561,Montana,2017-18,Valley Adventist,Flathead,,,,48.239842,-114.4171673
+562,Montana,2017-18,Valley View Sda,Dawson,,,,46.3990941,-112.7383721
+563,Montana,2017-18,Wisdom,Beaverhead,,,,45.614619,-113.448532
+564,Montana,2017-18,Wise River,Beaverhead,,,,45.788461,-112.951313
+565,Montana,2017-18,Wolf Creek,Lewis and Clark,,,,47.007578,-112.07315
+566,Montana,2017-18,Yaak,Lincoln,,,,48.838351,-115.696977
+567,Montana,2017-18,Zenith Elementary,Glacier,,,,48.870534,-112.342695

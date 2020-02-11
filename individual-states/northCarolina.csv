@@ -1,0 +1,1768 @@
+index,state,year,name,address,city,county,district,enroll,mmr,overall,xmed,xper,xrel,lat,lng
+1,North Carolina,2018-19,A T Allen Elementary,,,Cabarrus,,132,,100,0,,0,35.362379,-80.512966
+2,North Carolina,2018-19,A.C.E. Academy,,,Cabarrus,,44,,100,0,,0,35.30806,-80.672811
+3,North Carolina,2018-19,ABC of NC Child Develop. Ctr,,,Davidson,,1,,100,0,,0,35.9948057,-80.2740284
+4,North Carolina,2018-19,Agape Christian,,,Ashe,,3,,100,0,,0,36.4206381,-81.4870445
+5,North Carolina,2018-19,Agape International Christian Academy,,,Franklin,,1,,100,0,,0,36.0348412,-78.4981995
+6,North Carolina,2018-19,Ahoskie Christian,,,Hertford,,32,,100,0,,0,36.278572,-76.976738
+7,North Carolina,2018-19,Alamance Christian,,,Alamance,,15,,100,0,,0,36.07537,-79.371081
+8,North Carolina,2018-19,Alamance Elementary,,,Guilford,,79,,100,0,,1.3,36.0172276,-79.7078376
+9,North Carolina,2018-19,Albemarle,,,Pasquotank,,15,,100,0,,0,36.2777061,-76.2832581
+10,North Carolina,2018-19,Albert H Bangert Elementary,,,Craven,,70,,100,0,,1.4,35.083175,-77.083419
+11,North Carolina,2018-19,Alexander Christian Academy,,,Alexander,,10,,100,0,,40,35.8333212,-81.3357092
+12,North Carolina,2018-19,Alexander Wilson Elementary,,,Alamance,,110,,100,0,,0.9,36.029729,-79.346699
+13,North Carolina,2018-19,Alston Ridge Elementary,,,Wake,,0,,100,0,,0,35.8596023,-78.8990479
+14,North Carolina,2018-19,Altamahaw-Ossipee Elementary,,,Alamance,,89,,100,0,,0,36.1796184,-79.5105431
+15,North Carolina,2018-19,Anami Montessori,,,Mecklenburg,,11,,100,0,,27.3,35.14757,-80.854051
+16,North Carolina,2018-19,Anchor Baptist Academy,,,Transylvania,,3,,100,0,,33.3,35.27242,-82.648301
+17,North Carolina,2018-19,Anderson Creek Academy,,,Harnett,,40,,100,0,,0,35.27789,-78.977101
+18,North Carolina,2018-19,Ansonville Elementary,,,Anson,,31,,100,0,,0,35.105375,-80.106437
+19,North Carolina,2018-19,Antioch Elementary,,,Union,,109,,100,0,,4.6,35.05881,-80.722757
+20,North Carolina,2018-19,Aquadale Elementary,,,Stanly,,46,,100,0,,0,35.2288743,-80.2236211
+21,North Carolina,2018-19,Arborbrook Christian Academy,,,Union,,16,,100,0,,12.5,35.020191,-80.693467
+22,North Carolina,2018-19,Archdale Elementary,,,Randolph,,56,,100,0,,1.8,35.9128875,-79.9754617
+23,North Carolina,2018-19,Archer Elementary,,,Guilford,,65,,100,0,,1.5,36.0303399,-79.8306088
+24,North Carolina,2018-19,Arendell Parrott Academy,,,Lenoir,,38,,100,0,,5.3,35.31448,-77.603394
+25,North Carolina,2018-19,ArtSpace Charter,,,Buncombe,,35,,100,0,,20,35.594702,-82.428719
+26,North Carolina,2018-19,Asheville Catholic,,,Buncombe,,18,,100,0,,0,35.63114,-82.551361
+27,North Carolina,2018-19,Asheville Montessori ,,,Buncombe,,20,,100,0,,30,35.6622,-82.582701
+28,North Carolina,2018-19,Asheville-Pisgah Christian Sch.,,,Buncombe,,9,,100,0,,55.6,35.569048,-82.668406
+29,North Carolina,2018-19,ASU Academy at Middle Forl,,,Forsyth,,40,,100,0,,0,36.1412787,-80.1683575
+30,North Carolina,2018-19,Atlantic Elementary,,,Carteret,,13,,100,0,,0,34.8832669,-76.3421054
+31,North Carolina,2018-19,Avery's Creek Elementary,,,Buncombe,,95,,100,0,,1.1,35.477638,-82.579194
+32,North Carolina,2018-19,B F Grady Elementary,,,Duplin,,117,,100,0,,0,35.057186,-77.828759
+33,North Carolina,2018-19,B O Barnes Elementary,,,Wilson,,60,,100,0,,0,35.713303,-77.88642
+34,North Carolina,2018-19,B'nai Shalom Day,,,Guilford,,8,,100,0,,0,36.093534,-79.856496
+35,North Carolina,2018-19,Back Creek Christian Academy,,,Mecklenburg,,10,,100,0,,0,35.30945,-80.710588
+36,North Carolina,2018-19,Bailey's Grove Baptist,,,Randolph,,5,,100,0,,0,35.73355,-79.719521
+37,North Carolina,2018-19,Bain Elementary,,,Mecklenburg,,146,,100,0,,6.8,35.17497,-80.648406
+38,North Carolina,2018-19,Bal-Perazim Christian Academy,,,Cumberland,,5,,100,0,,0,35.09175,-78.955851
+39,North Carolina,2018-19,Balfour Elementary,,,Randolph,,85,,100,0,,0,35.7456384,-79.8217381
+40,North Carolina,2018-19,Ballantyne Elementary,,,Mecklenburg,,136,,100,0,,0,35.037387,-80.856135
+41,North Carolina,2018-19,Ballentine Elementary,,,Wake,,111,,100,0,,2.7,35.613785,-78.770636
+42,North Carolina,2018-19,Balls Creek Elementary,,,Catawba,,84,,100,0,,0,35.629772,-81.12787
+43,North Carolina,2018-19,Banks Elementary,,,Lenoir,,71,,100,0,,0,35.281598,-77.679538
+44,North Carolina,2018-19,Banner Elk Elementary,,,Avery,,32,,100,0,,0,36.1460737,-81.8607621
+45,North Carolina,2018-19,Banoak Elementary,,,Catawba,,44,,100,0,,0,35.582207,-81.416602
+46,North Carolina,2018-19,Barnette Elementary,,,Mecklenburg,,136,,100,0,,0.7,35.399842,-80.92486
+47,North Carolina,2018-19,Baton Elementary,,,Caldwell,,54,,100,0,,0,35.808818,-81.536029
+48,North Carolina,2018-19,Beaufort Elementary,,,Carteret,,82,,100,0,,1.2,34.7296582,-76.6469568
+49,North Carolina,2018-19,Beaver Dam Elementary,,,Cumberland,,18,,100,0,,0,34.89448,-78.580797
+50,North Carolina,2018-19,Beaverdam Elementary,,,Wake,,121,,100,0,,1.7,35.8212317,-78.527968
+51,North Carolina,2018-19,Belvoir Elementary,,,Pitt,,64,,100,0,,0,35.6674035,-77.417972
+52,North Carolina,2018-19,Ben D Quinn Elementary,,,Craven,,74,,100,0,,2.7,35.091955,-77.128811
+53,North Carolina,2018-19,Benjamin T. Bullock Elementary,,,Lee,,115,,100,0,,0.9,35.5063521,-79.1863685
+54,North Carolina,2018-19,Bennett,,,Chatham,,22,,100,0,,0,35.56214,-79.546126
+55,North Carolina,2018-19,Benson Elementary,,,Johnston,,96,,100,0,,0,35.399955,-78.555435
+56,North Carolina,2018-19,Berewick Elementary,,,Mecklenburg,,137,,100,0,,0,35.173896,-80.97883
+57,North Carolina,2018-19,Bethany Christian,,,Davidson,,#N/A,,100,0,,0,35.8573435,-80.0580964
+58,North Carolina,2018-19,Bethel Christian Academy,,,Avery,,2,,100,0,,0,35.935473,-82.008039
+59,North Carolina,2018-19,Bethel Christian Academy,,,Lenoir,,19,,100,0,,0,35.28265,-77.646871
+60,North Carolina,2018-19,Bethel Elementary,,,Cabarrus,,99,,100,0,,1,35.241627,-80.533832
+61,North Carolina,2018-19,Bethel Elementary,,,Watauga,,13,,100,0,,0,36.294645,-81.848781
+62,North Carolina,2018-19,Bethel Elementary,,,Pitt,,34,,100,0,,0,35.806064,-77.3709334
+63,North Carolina,2018-19,Bethel Hil l  Charter,,,Person,,70,,100,0,,1.4,36.504439,-78.91892
+64,North Carolina,2018-19,Bethesda Christian Academy,,,Durham,,27,,100,0,,3.7,35.94376,-78.839871
+65,North Carolina,2018-19,Bethlehem Elementary,,,Alexander,,79,,100,1.3,,2.5,35.8369321,-81.3115793
+66,North Carolina,2018-19,Beulavil le Elementary,,,Duplin,,85,,100,0,,0,34.919387,-77.764004
+67,North Carolina,2018-19,Beverly Hills Elementary,,,Cabarrus,,47,,100,0,,0,35.431866,-80.596742
+68,North Carolina,2018-19,Beverly Woods Elementary,,,Mecklenburg,,148,,100,0,,2,35.13142,-80.836803
+69,North Carolina,2018-19,Bible Baptist Christian,,,Mecklenburg,,13,,100,0,,15.4,35.16004,-80.730631
+70,North Carolina,2018-19,Bible Wesleyan Chr. Sch.,,,Alamance,,0,,100,0,,0,35.950595,-79.3719179
+71,North Carolina,2018-19,Blackburn Elementary,,,Catawba,,66,,100,0,,0,35.615006,-81.331473
+72,North Carolina,2018-19,Blessed Sacrament Catholic Sch.,,,Alamance,,16,,100,0,,0,36.0942187,-79.4458079
+73,North Carolina,2018-19,Blowing Rock Elementary,,,Watauga,,44,,100,0,,0,36.131937,-81.676163
+74,North Carolina,2018-19,Blue Ridge Elementary,,,Ashe,,62,,100,0,,6.5,36.461178,-81.532164
+75,North Carolina,2018-19,Blue Ridge,,,Jackson,,26,,100,0,,0,35.128415,-83.120248
+76,North Carolina,2018-19,Bogue Sound Elementary,,,Carteret,,58,,100,0,,1.7,34.7187368,-76.9506736
+77,North Carolina,2018-19,Bolivia Elementary,,,Brunswick,,52,,100,0,,1.9,34.070342,-78.144765
+78,North Carolina,2018-19,Bonlee,,,Chatham,,26,,100,0,,0,35.64417,-79.420701
+79,North Carolina,2018-19,Bonnie Springer,,,Granville,,0,,100,0,,0,36.1462462,-78.7375448
+80,North Carolina,2018-19,Bostian Elementary,,,Rowan,,64,,100,0,,3.1,35.5241446,-80.5421088
+81,North Carolina,2018-19,Bradford Preparatory,,,Mecklenburg,,95,,100,0,,1.1,35.34506,-80.719291
+82,North Carolina,2018-19,Brevard Academy: A Challenge Foundation Academy,,,Transylvania,,49,,100,0,,4.1,35.2701713,-82.6844683
+83,North Carolina,2018-19,Bridges Academy,,,Wilkes,,30,,100,0,,3.3,36.314768,-80.884892
+84,North Carolina,2018-19,Brier Creek Elementary,,,Davidson,,40,,100,0,,0,35.797602,-80.087052
+85,North Carolina,2018-19,British International Sch. of Charlotte,,,Mecklenburg,,11,,100,0,,0,35.0690345,-80.8375194
+86,North Carolina,2018-19,Broadway Elementary,,,Lee,,94,,100,0,,1.1,35.4520677,-79.0527908
+87,North Carolina,2018-19,Brookhaven SDA,,,Pitt,,3,,100,0,,0,35.5386375,-77.4159389
+88,North Carolina,2018-19,Bruce H Tharrington Primary,,,Surry,,109,,100,0,,0.9,36.490384,-80.601827
+89,North Carolina,2018-19,Bryan Road Elementary,,,Wake,,99,,100,1,,2,35.665142,-78.588885
+90,North Carolina,2018-19,Buckhorn Creek Elementary,,,Wake,,94,,100,0,,2.1,35.61725,-78.844351
+91,North Carolina,2018-19,Buies Creek Elementary,,,Harnett,,39,,100,0,,2.6,35.411869,-78.7361
+92,North Carolina,2018-19,Building Blocks Montessori,,,Wilson,,1,,100,0,,0,35.77369,-77.938301
+93,North Carolina,2018-19,Burgaw Elementary,,,Pender,,78,,100,0,,0,34.5575081,-77.9279041
+94,North Carolina,2018-19,Burlington Christian Academy,,,Alamance,,30,,100,0,,0,36.08258,-79.440671
+95,North Carolina,2018-19,Burnsvil le Elementary,,,Yancey,,43,,100,0,,2.3,35.917188,-82.260003
+96,North Carolina,2018-19,C B Eller Elementary,,,Wilkes,,50,,100,0,,2,36.276581,-80.888624
+97,North Carolina,2018-19,C C Spaulding Elementary,,,Durham,,37,,100,0,,0,35.978207,-78.90601
+98,North Carolina,2018-19,C C Wright Elementary,,,Wilkes,,54,,100,0,,0,36.137861,-81.105418
+99,North Carolina,2018-19,C3 Concord Christian,,,Cabarrus,,2,,100,0,,0,35.383216,-80.568395
+100,North Carolina,2018-19,Cabarrus Charter Academy,,,Cabarrus,,93,,100,1.1,,10.8,35.409253,-80.668281
+101,North Carolina,2018-19,Caldwell Academy,,,Guilford,,31,,100,0,,6.5,36.136159,-79.887587
+102,North Carolina,2018-19,Caleb's Creek Elementary,,,Forsyth,,120,,100,0,,0,36.0787,-80.088924
+103,North Carolina,2018-19,Calvary Baptist Church,,,Craven,,13,,100,0,,0,35.105035,-77.067657
+104,North Carolina,2018-19,Calvary Chapel Academy,,,Iredell,,3,,100,0,,0,35.7287559,-80.8944675
+105,North Carolina,2018-19,Calvary Christian,,,New Hanover,,6,,100,0,,33.3,34.2447,-77.920361
+106,North Carolina,2018-19,Calvary Education Center,,,Lee,,3,,100,0,,0,35.40089,-79.188841
+107,North Carolina,2018-19,Camelot Academy,,,Durham,,2,,100,0,,0,35.9900126,-78.9127108
+108,North Carolina,2018-19,Cameron Elementary,,,Moore,,47,,100,0,,2.1,35.326799,-79.266216
+109,North Carolina,2018-19,Cameron Park Elementary,,,Orange,,99,,100,1,,1,36.077218,-79.093598
+110,North Carolina,2018-19,Candler Elementary,,,Buncombe,,82,,100,0,,3.7,35.538217,-82.700138
+111,North Carolina,2018-19,Candor Elementary,,,Montgomery,,63,,100,0,,0,35.289878,-79.747145
+112,North Carolina,2018-19,Cannon,,,Cabarrus,,42,,100,0,,4.8,35.40478,-80.671551
+113,North Carolina,2018-19,Canterbury,,,Guilford,,28,,100,0,,0,36.142883,-79.7928449
+114,North Carolina,2018-19,Cape Fear Center for Inquiry,,,New Hanover,,40,,100,0,,10,34.193026,-77.930554
+115,North Carolina,2018-19,Cape Fear Christian Academy,,,Harnett,,25,,100,0,,0,35.358637,-78.695733
+116,North Carolina,2018-19,Cape Fear Christian,,,Cumberland,,2,,100,0,,0,35.0399766,-78.960678
+117,North Carolina,2018-19,Cape Hatteras Elementary,,,Dare,,45,,100,0,,0,35.259022,-75.551656
+118,North Carolina,2018-19,Captain Gilmer,,,Henderson,,5,,100,0,,20,35.396612,-82.48954
+119,North Carolina,2018-19,Career Academy and Technical,,,Iredell,,2,,100,0,,0,35.71419,-80.887581
+120,North Carolina,2018-19,Carolina Baptist Academy,,,Rockingham,,4,,100,0,,25,36.36101,-79.669871
+121,North Carolina,2018-19,Carolina Christian Academy,,,Clay,,3,,100,0,,33.3,35.05034,-83.819051
+122,North Carolina,2018-19,Carolina Christian Academy,,,Davidson,,6,,100,0,,16.7,35.817519,-80.120375
+123,North Carolina,2018-19,Carolina Christian Academy,,,Lee,,0,,100,0,,0,35.484899,-79.167062
+124,North Carolina,2018-19,Carolina Friends,,,Orange,,8,,100,0,,12.5,36.0074296,-79.0235828
+125,North Carolina,2018-19,Carolina International,,,Cabarrus,,76,,100,0,,5.3,35.41157,-80.737721
+126,North Carolina,2018-19,Carpenter Elementary,,,Wake,,158,,100,0,,1.9,35.814422,-78.866455
+127,North Carolina,2018-19,Carthage Elementary,,,Moore,,66,,100,0,,0,35.3407288,-79.4166848
+128,North Carolina,2018-19,Cartoogechaye Elementary,,,Macon,,71,,100,0,,0,35.166563,-83.437781
+129,North Carolina,2018-19,Cary Christian,,,Wake,,48,,100,0,,2.1,35.77547,-78.809361
+130,North Carolina,2018-19,Cary Elementary,,,Wake,,81,,100,0,,3.7,35.781869,-78.781077
+131,North Carolina,2018-19,Casa Esperanza Montessori Charter,,,Wake,,86,,100,0,,3.5,35.872803,-78.590412
+132,North Carolina,2018-19,Casar Elementary,,,Cleveland,,38,,100,0,,0,35.507578,-81.620764
+133,North Carolina,2018-19,Cash Elementary,,,Forsyth,,95,,100,0,,2.1,36.137057,-80.122816
+134,North Carolina,2018-19,Catawba Heights Elementary,,,Gaston,,64,,100,0,,0,35.2745154,-81.0375545
+135,North Carolina,2018-19,Cathedral,,,Wake,,16,,100,0,,0,35.78098,-78.642311
+136,North Carolina,2018-19,Ceasar Cone Elementary,,,Guilford,,78,,100,0,,0,36.1080744,-79.7813281
+137,North Carolina,2018-19,Cedar Grove Elementary,,,Nash,,30,,100,0,,0,36.078602,-77.968838
+138,North Carolina,2018-19,Cedar Ridge Elementary,,,Surry,,50,,100,0,,0,36.508659,-80.80008
+139,North Carolina,2018-19,Cedarwood Academy,,,Mecklenburg,,9,,100,0,,11.1,35.137115,-80.887386
+140,North Carolina,2018-19,Central Elementary,,,Currituck,,43,,100,0,,0,36.389162,-76.009225
+141,North Carolina,2018-19,Central Elementary,,,Orange,,49,,100,0,,2,36.079966,-79.114578
+142,North Carolina,2018-19,Central Elementary,,,Pasquotank,,61,,100,0,,3.3,36.287904,-76.263391
+143,North Carolina,2018-19,Central Elementary,,,Iredell,,56,,100,0,,0,35.928143,-80.960623
+144,North Carolina,2018-19,Central Elementary,,,Northampton,,36,,100,0,,0,36.418549,-77.434285
+145,North Carolina,2018-19,Central Park School for Children,,,Durham,,49,,100,0,,0,36.0046199,-78.900967
+146,North Carolina,2018-19,Cerro Gordo Elementary,,,Columbus,,31,,100,0,,0,34.328935,-78.931021
+147,North Carolina,2018-19,Chadbourn Elementary,,,Columbus,,37,,100,0,,2.7,34.325317,-78.820624
+148,North Carolina,2018-19,Chantil ly Montessori,,,Mecklenburg,,50,,100,2,,6,35.207741,-80.800349
+149,North Carolina,2018-19,Chapel Grove Elementary,,,Gaston,,71,,100,0,,0,35.207068,-81.2487323
+150,North Carolina,2018-19,Charles E Boger Elementary,,,Cabarrus,,85,,100,0,,0,35.455214,-80.662084
+151,North Carolina,2018-19,Charles W McCrary Elementary,,,Randolph,,57,,100,0,,0,35.712783,-79.818004
+152,North Carolina,2018-19,Charlotte Choice Charter,,,Mecklenburg,,12,,100,0,,0,35.23527,-80.736451
+153,North Carolina,2018-19,Charlotte Christian,,,Mecklenburg,,46,,100,0,,10.9,35.14079,-80.769001
+154,North Carolina,2018-19,Charlotte Country Day,,,Mecklenburg,,114,,100,1.8,,0,35.147168,-80.803724
+155,North Carolina,2018-19,Charlotte East Language Academy,,,Mecklenburg,,105,,100,0,,0,35.2092989,-80.746489
+156,North Carolina,2018-19,Charlotte Jewish Day,,,Mecklenburg,,21,,100,0,,0,35.14663,-80.785851
+157,North Carolina,2018-19,Charlotte Latin,,,Mecklenburg,,90,,100,0,,0,35.079179,-80.773937
+158,North Carolina,2018-19,Charter Day,,,Brunswick,,120,,100,0,,4.2,34.282936,-78.136243
+159,North Carolina,2018-19,Chatham Charter,,,Chatham,,42,,100,0,,0,35.742493,-79.479562
+160,North Carolina,2018-19,Chesterbrook Acad. of Cary,,,Wake,,84,,100,0,,2.4,35.7833175,-78.8385117
+161,North Carolina,2018-19,Chicod,,,Pitt,,87,,100,0,,0,35.463855,-77.2736525
+162,North Carolina,2018-19,Children's Center,,,Forsyth,,14,,100,0,,0,36.1173005,-80.2789968
+163,North Carolina,2018-19,Children's House Montessori Sch,,,Wayne,,2,,100,0,,0,35.3565499,-77.973865
+164,North Carolina,2018-19,China Grove Elementary,,,Rowan,,95,,100,0,,1.1,35.567026,-80.585715
+165,North Carolina,2018-19,Chinquapin Elementary,,,Duplin,,48,,100,0,,0,34.824509,-77.812216
+166,North Carolina,2018-19,Christ Classical Academy,,,Burke,,9,,100,0,,11.1,35.7418171,-81.5260448
+167,North Carolina,2018-19,Christ the Cornerstone Academy,,,Scotland,,16,,100,0,,0,34.72494,-79.505801
+168,North Carolina,2018-19,Christ the King Christian Academy,,,Stanly,,10,,100,0,,10,35.44742,-80.215861
+169,North Carolina,2018-19,Christian Faith Center Acad.,,,Granville,,3,,100,0,,0,36.1172221,-78.6765933
+170,North Carolina,2018-19,Christian Family Academy,,,Catawba,,8,,100,0,,25,35.756404,-81.250494
+171,North Carolina,2018-19,Churchland Elementary,,,Davidson,,52,,100,0,,0,35.784984,-80.415929
+172,North Carolina,2018-19,Clara J Peck Elementary,,,Guilford,,38,,100,0,,0,36.0512824,-79.8179868
+173,North Carolina,2018-19,Claremont Elementary,,,Catawba,,61,,100,0,,0,35.716516,-81.143023
+174,North Carolina,2018-19,Clemmons Elementary,,,Forsyth,,105,,100,0,,7.6,36.024787,-80.376418
+175,North Carolina,2018-19,Cliffside Elementary,,,Rutherford,,46,,100,0,,0,35.24701,-81.768297
+176,North Carolina,2018-19,Clover Garden,,,Alamance,,37,,100,0,,0,36.187017,-79.471089
+177,North Carolina,2018-19,Cloverleaf Elementary,,,Iredell,,94,,100,0,,1.1,35.8233,-80.862627
+178,North Carolina,2018-19,Clyde Elementary,,,Haywood,,90,,100,1.1,,0,35.532563,-82.894871
+179,North Carolina,2018-19,Coastal Preparatory Academy: A Challenge Foundation Academy,,,New Hanover,,90,,100,0,,5.6,34.3134595,-77.7679138
+180,North Carolina,2018-19,Coker-Wimberly Elementary,,,Edgecombe,,38,,100,0,,0,35.977398,-77.604046
+181,North Carolina,2018-19,College Park Elementary,,,New Hanover,,58,,100,0,,0,34.331749,-77.867042
+182,North Carolina,2018-19,College Road Early Childhood Center,,,New Hanover,,128,,100,0,,3.1,34.14895,-77.891251
+183,North Carolina,2018-19,Collettsvil le Elementary,,,Caldwell,,38,,100,0,,0,35.927025,-81.6728246
+184,North Carolina,2018-19,Collinswood Language Academy,,,Mecklenburg,,96,,100,0,,2.1,35.184731,-80.871463
+185,North Carolina,2018-19,Columbus Charter,,,Columbus,,74,,100,0,,0,34.404176,-78.772221
+186,North Carolina,2018-19,Comfort Elementary,,,Jones,,14,,100,0,,0,35.006393,-77.511877
+187,North Carolina,2018-19,Community Christian,,,Wilson,,25,,100,0,,4,35.78334,-77.968741
+188,North Carolina,2018-19,Community School of Davidson,,,Mecklenburg,,86,,100,1.2,,8.1,35.501804,-80.859593
+189,North Carolina,2018-19,Concord First Assembly Ac-CFA,,,Cabarrus,,33,,100,0,,9.1,35.3998331,-80.607511
+190,North Carolina,2018-19,Concordia Christian Day Sch.,,,Catawba,,22,,100,0,,0,35.7031004,-81.215392
+191,North Carolina,2018-19,Conover Special Education,,,Catawba,,4,,100,0,,0,35.701373,-81.221687
+192,North Carolina,2018-19,Contentnea-Savannah,,,Lenoir,,87,,100,0,,0,35.314311,-77.513277
+193,North Carolina,2018-19,Cool Spring Elementary,,,Iredell,,52,,100,0,,1.9,35.847106,-80.733568
+194,North Carolina,2018-19,Coopers Elementary,,,Nash,,80,,100,0,,0,35.885167,-77.947542
+195,North Carolina,2018-19,Copeland Elementary,,,Surry,,39,,100,0,,2.6,36.337156,-80.65087
+196,North Carolina,2018-19,Cornatzer Elementary,,,Davie,,55,,100,1.8,,0,35.8975159,-80.4938539
+197,North Carolina,2018-19,Cornerstone Christian Academy,,,Iredell,,15,,100,0,,0,35.78234,-80.856221
+198,North Carolina,2018-19,Corvian Community,,,Mecklenburg,,74,,100,0,,8.1,35.322945,-80.75652
+199,North Carolina,2018-19,Costner Elementary,,,Gaston,,64,,100,0,,0,35.3273106,-81.2275243
+200,North Carolina,2018-19,Cove Creek Elementary,,,Watauga,,42,,100,0,,0,36.259471,-81.748746
+201,North Carolina,2018-19,Covenant of Faith Christian Academy,,,Greene,,#N/A,,100,0,,0,36.2603071,-81.7505807
+202,North Carolina,2018-19,Covenant Preparatory,,,Moore,,17,,100,0,,11.8,35.20729,-79.393501
+203,North Carolina,2018-19,Cox Mill  Elementary,,,Cabarrus,,158,,100,0,,0.6,35.393472,-80.732356
+204,North Carolina,2018-19,Cramerton Christian Academy,,,Gaston,,36,,100,0,,11.1,35.247,-81.084641
+205,North Carolina,2018-19,Creedmoor Elementary,,,Granville,,46,,100,0,,4.3,36.123286,-78.678263
+206,North Carolina,2018-19,Creekside Elementary,,,Craven,,77,,100,0,,6.5,35.026998,-77.021608
+207,North Carolina,2018-19,Crosscreek Charter,,,Franklin,,31,,100,0,,0,36.094717,-78.293239
+208,North Carolina,2018-19,Crossnore Elementary,,,Avery,,28,,100,0,,0,36.025771,-81.925502
+209,North Carolina,2018-19,Crossroads Christian,,,Vance,,24,,100,0,,4.2,36.294391,-78.422453
+210,North Carolina,2018-19,Crossway Academy,,,Mecklenburg,,1,,100,0,,0,35.14704,-80.742511
+211,North Carolina,2018-19,Davenport A+ Elementary,,,Caldwell,,78,,100,0,,0,35.9117615,-81.5393299
+212,North Carolina,2018-19,David Cox Road Elementary,,,Mecklenburg,,115,,100,0,,1.7,35.336844,-80.800925
+213,North Carolina,2018-19,Davidson Day,,,Mecklenburg,,25,,100,0,,0,35.5043,-80.860021
+214,North Carolina,2018-19,Davidson Elementary,,,Mecklenburg,,102,,100,1,,4.9,35.489791,-80.8484
+215,North Carolina,2018-19,Davis-Townsend Elementary,,,Davidson,,84,,100,0,,2.4,35.806083,-80.168493
+216,North Carolina,2018-19,Deep River Elementary,,,Lee,,94,,100,0,,1.1,35.5910899,-79.1461835
+217,North Carolina,2018-19,Denton Elementary,,,Davidson,,68,,100,0,,0,35.632112,-80.118697
+218,North Carolina,2018-19,Dillard Academy Charter,,,Wayne,,36,,100,0,,0,35.3788786,-78.0053682
+219,North Carolina,2018-19,Dillard Drive Elementary,,,Wake,,93,,100,0,,0,35.752561,-78.722961
+220,North Carolina,2018-19,"Dilworth Elementary, Sedgefield Campus",,,Mecklenburg,,112,,100,0,,0.9,35.189922,-80.8636319
+221,North Carolina,2018-19,District No 7 Elementary,,,Cumberland,,31,,100,0,,0,35.149679,-78.705451
+222,North Carolina,2018-19,Dobson Elementary,,,Surry,,58,,100,0,,0,36.39676,-80.724778
+223,North Carolina,2018-19,Dorothy J. Vaughan Academy of Technology,,,Mecklenburg,,59,,100,0,,1.7,35.2855725,-80.733695
+224,North Carolina,2018-19,Douglass Academy,,,New Hanover,,25,,100,0,,0,34.242063,-77.943101
+225,North Carolina,2018-19,Douglass Elementary,,,Rockingham,,57,,100,0,,0,36.49324,-79.778632
+226,North Carolina,2018-19,Down East Middle School and Smyrna Elementary,,,Carteret,,22,,100,0,,0,34.757643,-76.5298829
+227,North Carolina,2018-19,DPS Hospital,,,Durham,,0,,100,0,,0,36.007309,-78.937122
+228,North Carolina,2018-19,Dr Hubert Eaton Sr Elem,,,New Hanover,,87,,100,0,,2.3,34.266275,-77.834363
+229,North Carolina,2018-19,Dream Children,,,Mecklenburg,,0,,100,0,,0,35.2109712,-80.8924917
+230,North Carolina,2018-19,Druid Hills Academy,,,Mecklenburg,,45,,100,0,,2.2,35.257307,-80.824346
+231,North Carolina,2018-19,Duke,,,Durham,,42,,100,0,,0,36.00053,-78.967681
+232,North Carolina,2018-19,Duplin Primary,,,Bladen,,39,,100,0,,0,34.6553228,-78.7197205
+233,North Carolina,2018-19,Durham Academy,,,Durham,,71,,100,0,,0,35.97592,-78.969561
+234,North Carolina,2018-19,E M Rollins Elementary,,,Vance,,44,,100,0,,0,36.3191709,-78.4184897
+235,North Carolina,2018-19,E O Young Jr Elementary,,,Vance,,23,,100,0,,0,36.396691,-78.3296196
+236,North Carolina,2018-19,E.M. Yoder Elementary,,,Alamance,,60,,100,0,,1.7,36.100454,-79.274357
+237,North Carolina,2018-19,E.P. Pearce Elementary,,,Guilford,,118,,100,0,,4.2,36.1445515,-79.9378079
+238,North Carolina,2018-19,East Albemarle Elementary,,,Stanly,,124,,100,0,,0.8,35.3508525,-80.1680907
+239,North Carolina,2018-19,East Clayton Elementary,,,Johnston,,119,,100,0,,0,35.649084,-78.402307
+240,North Carolina,2018-19,East Elementary,,,Cleveland,,38,,100,0,,0,35.249427,-81.330342
+241,North Carolina,2018-19,East Iredell Elementary,,,Iredell,,125,,100,0,,0,35.804011,-80.8362236
+242,North Carolina,2018-19,East Voyager Academy of Charlotte,,,Mecklenburg,,32,,100,3.1,,0,35.2439247,-80.9527815
+243,North Carolina,2018-19,Eastlawn Elementary,,,Alamance,,94,,100,0,,0,36.101787,-79.407077
+244,North Carolina,2018-19,Eastover Elementary,,,Mecklenburg,,83,,100,0,,0,35.196611,-80.821652
+245,North Carolina,2018-19,Eastover-Central Elementary,,,Cumberland,,62,,100,0,,0,35.122783,-78.76175
+246,North Carolina,2018-19,ECU Community,,,Pitt,,14,,100,0,,0,35.5505346,-77.412352
+247,North Carolina,2018-19,Ed V Baldwin Elementary,,,Cumberland,,100,,100,0,,0,34.978843,-78.934553
+248,North Carolina,2018-19,Edgewood Community Developmental,,,Wayne,,10,,100,0,,0,35.380498,-77.971079
+249,North Carolina,2018-19,Edwin M. Holt Elementary,,,Alamance,,79,,100,0,,0,36.021324,-79.488877
+250,North Carolina,2018-19,Elizabeth Duncan Koontz Elementary,,,Rowan,,66,,100,0,,0,35.6244141,-80.4957747
+251,North Carolina,2018-19,Elizabeth M Cashwell Elementary,,,Cumberland,,112,,100,0,,0,35.0064231,-78.914945
+252,North Carolina,2018-19,Elizabethtown Christian Academy,,,Bladen,,16,,100,0,,0,34.63461,-78.626421
+253,North Carolina,2018-19,Elkin Elementary,,,Surry,,83,,100,0,,1.2,36.2456273,-80.8545041
+254,North Carolina,2018-19,Ellenboro Elementary,,,Rutherford,,94,,100,0,,1.1,35.351404,-81.773617
+255,North Carolina,2018-19,Ellendale Elementary,,,Alexander,,48,,100,0,,2.1,35.928433,-81.278919
+256,North Carolina,2018-19,Elon Park Elementary,,,Mecklenburg,,155,,100,0,,1.9,35.022986,-80.843144
+257,North Carolina,2018-19,Emmanuel Lutheran,,,Buncombe,,18,,100,0,,0,35.586149,-82.6029843
+258,North Carolina,2018-19,Endeavor Charter,,,Wake,,56,,100,0,,0,35.91942,-78.540241
+259,North Carolina,2018-19,Endhaven Elementary,,,Mecklenburg,,120,,100,0,,2.5,35.066911,-80.835647
+260,North Carolina,2018-19,Endy Elementary,,,Stanly,,46,,100,0,,0,35.3064166,-80.2791506
+261,North Carolina,2018-19,Englewood Bapt. Weekday Sch.,,,Nash,,9,,100,0,,0,35.9469533,-77.8497443
+262,North Carolina,2018-19,Eno River Academy,,,Orange,,40,,100,0,,2.5,36.063264,-79.081218
+263,North Carolina,2018-19,Eno Valley Elementary,,,Durham,,71,,100,0,,1.4,36.084973,-78.912594
+264,North Carolina,2018-19,Enochville Elementary,,,Rowan,,47,,100,0,,4.3,35.5356372,-80.6668484
+265,North Carolina,2018-19,Envision Science Academy,,,Wake,,76,,100,1.3,,0,35.984114,-78.48449
+266,North Carolina,2018-19,Erwin Montessori,,,Guilford,,34,,100,0,,0,36.084027,-79.745185
+267,North Carolina,2018-19,Ethan H Shive Elementary,,,Rowan,,74,,100,0,,2.7,35.5425645,-80.4340094
+268,North Carolina,2018-19,Everetts Elementary S.T.E.M. Academy,,,Halifax,,27,,100,0,,0,36.44485,-77.745001
+269,North Carolina,2018-19,Evergreen Elementary,,,Columbus,,26,,100,0,,0,34.407349,-78.898831
+270,North Carolina,2018-19,Excelsior Classical Academy CFA,,,Durham,,96,,100,0,,0,36.047305,-78.9003424
+271,North Carolina,2018-19,Fair Grove Elementary,,,Davidson,,87,,100,0,,1.1,35.847294,-80.079664
+272,North Carolina,2018-19,Fairview Elementary,,,Buncombe,,107,,100,0,,2.8,35.522655,-82.410991
+273,North Carolina,2018-19,Fairview Elementary,,,Edgecombe,,102,,100,0,,0,35.9387018,-77.7763385
+274,North Carolina,2018-19,Fairview Elementary,,,Union,,54,,100,0,,7.4,35.1601278,-80.5394689
+275,North Carolina,2018-19,Fairview Heights Elementary,,,Richmond,,73,,100,0,,0,34.888645,-79.713443
+276,North Carolina,2018-19,Faith Christian Academy,,,Cabarrus,,4,,100,0,,0,35.49375,-80.607901
+277,North Carolina,2018-19,Faith Christian Academy,,,Guilford,,11,,100,0,,9.1,36.06397,-79.652861
+278,North Carolina,2018-19,Faith Christian,,,Nash,,22,,100,0,,0,35.9303,-77.843651
+279,North Carolina,2018-19,Faith Christian,,,Randolph,,18,,100,0,,5.6,35.7085007,-79.6313206
+280,North Carolina,2018-19,Faith-Covenant Christian Academy,,,Henderson,,2,,100,0,,0,35.3104426,-82.4639793
+281,North Carolina,2018-19,Falcon Christian Academy,,,Cumberland,,5,,100,0,,0,35.196792,-78.655305
+282,North Carolina,2018-19,Fall  Creek Elementary,,,Yadkin,,33,,100,0,,6.1,36.229532,-80.588712
+283,North Carolina,2018-19,Falls Lake Academy,,,Granville,,89,,100,0,,3.4,36.111591,-78.736318
+284,North Carolina,2018-19,Farmington Woods Elementary,,,Wake,,109,,100,0,,2.8,35.758505,-78.775231
+285,North Carolina,2018-19,Fayettevil le Christian,,,Cumberland,,20,,100,0,,0,35.03724,-78.948321
+286,North Carolina,2018-19,Fellowship Christian Academy,,,Moore,,#N/A,,100,0,,0,35.321013,-79.3566407
+287,North Carolina,2018-19,Fellowship Christian Academy,,,Onslow,,5,,100,0,,0,34.74082,-77.359251
+288,North Carolina,2018-19,FernLeaf Community Charter,,,Henderson,,42,,100,0,,19,35.423345,-82.501931
+289,North Carolina,2018-19,First Assembly Christian,,,Union,,8,,100,0,,0,35.0137857,-80.5822205
+290,North Carolina,2018-19,Five Points Education Training Cntr,,,Lenoir,,0,,100,0,,0,35.268462,-77.5850008
+291,North Carolina,2018-19,Flaming Sword Christian Academy,,,Cumberland,,1,,100,0,,0,35.04865,-78.868511
+292,North Carolina,2018-19,Flat Rock Elementary,,,Surry,,31,,100,0,,0,36.513148,-80.568901
+293,North Carolina,2018-19,Fletcher Elementary,,,Henderson,,77,,100,0,,1.3,35.409185,-82.497712
+294,North Carolina,2018-19,Fletcher,,,Mecklenburg,,2,,100,0,,0,35.1277069,-80.7568895
+295,North Carolina,2018-19,Florence Elementary,,,Guilford,,102,,100,0,,1,36.0245168,-79.95809
+296,North Carolina,2018-19,"Floyd L. Knight, The Children's Center",,,Lee,,2,,100,0,,0,35.463216,-79.166698
+297,North Carolina,2018-19,Forest City-Dunbar Elementary,,,Rutherford,,85,,100,0,,1.2,35.347621,-81.874417
+298,North Carolina,2018-19,Forest Hil l  Elementary,,,Burke,,34,,100,0,,0,35.7324,-81.701237
+299,North Carolina,2018-19,Forest Park Elementary,,,Cabarrus,,56,,100,0,,1.8,35.480395,-80.604061
+300,North Carolina,2018-19,Forest Pines Drive Elementary,,,Wake,,96,,100,0,,3.1,35.950311,-78.548295
+301,North Carolina,2018-19,Forestvil le Road Elementary,,,Wake,,81,,100,0,,0,35.810282,-78.482018
+302,North Carolina,2018-19,Forsyth Academy,,,Forsyth,,96,,100,0,,0,36.169433,-80.299067
+303,North Carolina,2018-19,Forsyth Country Day,,,Forsyth,,26,,100,0,,0,36.102313,-80.389294
+304,North Carolina,2018-19,Foundations Christian Academy,,,Harnett,,2,,100,0,,0,35.34528,-78.7925
+305,North Carolina,2018-19,Four Oaks Elementary,,,Johnston,,156,,100,0.6,,0,35.450784,-78.432339
+306,North Carolina,2018-19,Fox Road Elementary,,,Wake,,0,,100,0,,0,35.872822,-78.555503
+307,North Carolina,2018-19,Frank Morgan Elementary,,,Forsyth,,90,,100,0,,4.4,36.0317799,-80.3941886
+308,North Carolina,2018-19,Frank Porter Graham Dual Language Magnet Elementary,,,Orange,,107,,100,0,,0.9,35.899866,-79.071956
+309,North Carolina,2018-19,Fred L Wilson Elementary,,,Cabarrus,,94,,100,0,,1.1,35.496834,-80.646322
+310,North Carolina,2018-19,Freedom Trail  Elementary,,,Avery,,33,,100,0,,0,36.1457949,-81.9637259
+311,North Carolina,2018-19,Friendship Christian,,,Wake,,15,,100,0,,0,35.8574951,-78.6145062
+312,North Carolina,2018-19,Friendship Elementary,,,Davidson,,91,,100,2.2,,1.1,35.959721,-80.1401
+313,North Carolina,2018-19,G R Whitfield,,,Pitt,,43,,100,2.3,,0,35.564329,-77.1816245
+314,North Carolina,2018-19,Galilee Christian Academy,,,Davidson,,1,,100,0,,0,35.84367,-80.208881
+315,North Carolina,2018-19,Gamewell Elementary,,,Caldwell,,91,,100,0,,1.1,35.868793,-81.597254
+316,North Carolina,2018-19,Gardner Park Elementary,,,Gaston,,84,,100,0,,4.8,35.2508827,-81.132614
+317,North Carolina,2018-19,Gaston Christian,,,Gaston,,77,,100,0,,2.6,35.252179,-81.099736
+318,North Carolina,2018-19,Gaston Day,,,Gaston,,23,,100,0,,13,35.201406,-81.141012
+319,North Carolina,2018-19,Gaston Elementary,,,Northampton,,27,,100,0,,0,36.5079945,-77.6507587
+320,North Carolina,2018-19,Gate City Charter Academy,,,Guilford,,100,,100,0,,1,36.090593,-79.7113959
+321,North Carolina,2018-19,Gatesvil le Elementary,,,Gates,,49,,100,0,,0,36.4112839,-76.7542403
+322,North Carolina,2018-19,Gateway Education Center,,,Guilford,,4,,100,0,,0,36.088549,-79.737641
+323,North Carolina,2018-19,General Greene Elementary,,,Guilford,,81,,100,0,,0,36.1034234,-79.8317076
+324,North Carolina,2018-19,George Hildebrand Elementary,,,Burke,,55,,100,0,,0,35.637179,-81.513452
+325,North Carolina,2018-19,George Watts Elementary,,,Durham,,57,,100,1.8,,1.8,36.008192,-78.910724
+326,North Carolina,2018-19,Gillespie Park Elementary,,,Guilford,,40,,100,0,,0,36.049109,-79.7782056
+327,North Carolina,2018-19,Glade Creek Elementary,,,Alleghany,,25,,100,0,,0,36.500424,-80.979758
+328,North Carolina,2018-19,Glendale-Kenly Elementary,,,Johnston,,73,,100,0,,1.4,35.621802,-78.155332
+329,North Carolina,2018-19,Glenn C Marlow Elementary,,,Henderson,,82,,100,0,,1.2,35.406911,-82.546662
+330,North Carolina,2018-19,Glenn Elementary,,,Durham,,101,,100,0,,1,36.028926,-78.838084
+331,North Carolina,2018-19,Glenwood Elementary,,,Orange,,94,,100,0,,0,35.9063493,-79.0266736
+332,North Carolina,2018-19,Global Achievers,,,Nash,,9,,100,0,,0,35.9529341,-77.7999818
+333,North Carolina,2018-19,Gospel Light Christian,,,Forsyth,,22,,100,0,,4.5,36.145107,-80.146769
+334,North Carolina,2018-19,Gouge Elementary,,,Mitchell,,55,,100,0,,1.8,36.010216,-82.155434
+335,North Carolina,2018-19,Grace Academy,,,Rowan,,15,,100,0,,0,35.54566,-80.444981
+336,North Carolina,2018-19,Grace Academy,,,Union,,6,,100,0,,50,35.084873,-80.69994
+337,North Carolina,2018-19,Grace Academy,,,Watauga,,15,,100,0,,20,36.22372,-81.665071
+338,North Carolina,2018-19,Grace Christian College Prep Acad,,,Wake,,0,,100,0,,0,35.768231,-78.739577
+339,North Carolina,2018-19,Grace Christian,,,Lee,,41,,100,0,,2.4,35.42769,-79.222291
+340,North Carolina,2018-19,Grace Covenant Academy,,,Mecklenburg,,21,,100,4.8,,9.5,35.45208,-80.868661
+341,North Carolina,2018-19,Grandy Primary,,,Camden,,149,,100,0,,1.3,36.333329,-76.182468
+342,North Carolina,2018-19,Granite Falls Elementary,,,Caldwell,,83,,100,0,,2.4,35.807062,-81.434797
+343,North Carolina,2018-19,Granite Quarry Elementary,,,Rowan,,65,,100,1.5,,0,35.6099648,-80.4474719
+344,North Carolina,2018-19,Grays Chapel Elementary,,,Randolph,,83,,100,0,,1.2,35.820788,-79.699221
+345,North Carolina,2018-19,Grays Creek Elementary,,,Cumberland,,53,,100,0,,0,34.890294,-78.867987
+346,North Carolina,2018-19,Greater Vision Academy,,,Guilford,,7,,100,0,,0,36.074,-79.581191
+347,North Carolina,2018-19,Green Hope Elementary,,,Wake,,87,,100,0,,2.3,35.803962,-78.860042
+348,North Carolina,2018-19,Green Valley Elementary,,,Watauga,,26,,100,0,,0,36.277506,-81.646499
+349,North Carolina,2018-19,Greenfield,,,Wilson,,14,,100,0,,0,35.71786,-77.969401
+350,North Carolina,2018-19,Greenlee Primary,,,Mitchell,,69,,100,1.4,,0,35.884272,-82.053241
+351,North Carolina,2018-19,Greensboro Montessori,,,Guilford,,34,,100,0,,2.9,36.13158,-79.885691
+352,North Carolina,2018-19,Greenway Park Elementary,,,Mecklenburg,,97,,100,0,,1,35.157394,-80.74606
+353,North Carolina,2018-19,Greenwood Elementary,,,Lee,,112,,100,0,,0,35.3872698,-79.1945177
+354,North Carolina,2018-19,Grove Park Elementary,,,Alamance,,68,,100,0,,0,36.080093,-79.460788
+355,North Carolina,2018-19,Guidepost Montessori,,,Mecklenburg,,7,,100,0,,0,35.360631,-80.783366
+356,North Carolina,2018-19,Guideway Elementary,,,Columbus,,26,,100,0,,0,34.066102,-78.69991
+357,North Carolina,2018-19,Guilford Preparatory Academy,,,Guilford,,34,,100,0,,0,36.112366,-79.746744
+358,North Carolina,2018-19,Guy B Teachey Elementary,,,Randolph,,79,,100,0,,0,35.673183,-79.808911
+359,North Carolina,2018-19,GW Carver Elementary,,,Cabarrus,,78,,100,0,,1.3,35.4931717,-80.6169033
+360,North Carolina,2018-19,Halifax Academy,,,Halifax,,18,,100,0,,0,36.3987,-77.671293
+361,North Carolina,2018-19,Haliwa-Saponi Tribal,,,Warren,,12,,100,0,,0,36.251895,-77.981367
+362,North Carolina,2018-19,Happy Valley Elementary,,,Caldwell,,29,,100,0,,0,35.998044,-81.566175
+363,North Carolina,2018-19,Harkers Island Elementary,,,Carteret,,21,,100,0,,0,34.6939722,-76.5518275
+364,North Carolina,2018-19,Harmony Elementary,,,Iredell,,62,,100,0,,0,35.9616144,-80.77407
+365,North Carolina,2018-19,Harold D Isenberg Elementary,,,Rowan,,59,,100,0,,1.7,35.7011501,-80.5037595
+366,North Carolina,2018-19,Harrells Christian Academy,,,Sampson,,24,,100,0,,0,34.727268,-78.196671
+367,North Carolina,2018-19,Harris Elementary,,,Rutherford,,64,,100,0,,1.6,35.273641,-81.898228
+368,North Carolina,2018-19,Harrisburg Elementary,,,Cabarrus,,150,,100,0,,2.7,35.318749,-80.640749
+369,North Carolina,2018-19,Harvey R. Newlin Elementary,,,Alamance,,108,,100,0.9,,0,36.073396,-79.420604
+370,North Carolina,2018-19,Hasty Elementary,,,Davidson,,75,,100,0,,2.7,35.922318,-80.081835
+371,North Carolina,2018-19,Hawks Nest STEAM Academy,,,Gaston,,59,,100,0,,0,35.21497,-81.161561
+372,North Carolina,2018-19,Haywood Christian Academy,,,Haywood,,4,,100,0,,25,35.524594,-82.9922635
+373,North Carolina,2018-19,Hendersonville Elementary,,,Henderson,,55,,100,0,,3.6,35.322888,-82.475453
+374,North Carolina,2018-19,Heritage Christian,,,Caldwell,,14,,100,0,,0,35.85652,-81.489691
+375,North Carolina,2018-19,Heritage Collegiate Leadership Academy,,,Bertie,,6,,100,0,,100,35.978698,-76.953915
+376,North Carolina,2018-19,Heritage Leadership Academy,,,Wake,,36,,100,0,,19.4,35.7784331,-78.6294492
+377,North Carolina,2018-19,Hershal H Beam Elementary,,,Gaston,,84,,100,0,,1.2,35.2231695,-81.2023082
+378,North Carolina,2018-19,Hickory Christian Academy,,,Catawba,,33,,100,0,,18.2,35.779658,-81.339839
+379,North Carolina,2018-19,Hickory Day,,,Catawba,,6,,100,0,,0,35.75617,-81.283421
+380,North Carolina,2018-19,Hickory Grove Christian,,,Mecklenburg,,58,,100,0,,5.2,35.221633,-80.725693
+381,North Carolina,2018-19,Hiddenite Elementary,,,Alexander,,60,,100,0,,0,35.906748,-81.089873
+382,North Carolina,2018-19,High Point Christian Academy,,,Guilford,,36,,100,0,,2.8,35.950587,-80.023778
+383,North Carolina,2018-19,High Point Friends,,,Guilford,,12,,100,0,,0,35.962237,-80.022226
+384,North Carolina,2018-19,Highfalls Elementary,,,Moore,,24,,100,0,,0,35.4862132,-79.5232647
+385,North Carolina,2018-19,Highland Christian Academy,,,Moore,,0,,100,0,,0,35.213527,-79.327571
+386,North Carolina,2018-19,Highland Creek Elementary,,,Mecklenburg,,88,,100,0,,4.5,35.378279,-80.763331
+387,North Carolina,2018-19,Highland Elementary,,,Harnett,,158,,100,0,,0.6,35.30635,-79.041536
+388,North Carolina,2018-19,Highland Mill  Montessori Elementary,,,Mecklenburg,,51,,100,0,,0,35.2432214,-80.8042229
+389,North Carolina,2018-19,Highlands,,,Macon,,23,,100,0,,4.3,35.046993,-83.196653
+390,North Carolina,2018-19,Hilburn Drive Academy,,,Wake,,79,,100,0,,1.3,35.874996,-78.713916
+391,North Carolina,2018-19,Hildebran Elementar,,,Burke,,56,,100,0,,0,35.7143312,-81.4260828
+392,North Carolina,2018-19,Hill  Center,,,Durham,,0,,100,0,,0,35.9761203,-78.9713202
+393,North Carolina,2018-19,Hillandale Elementary,,,Henderson,,73,,100,0,,2.7,35.269716,-82.427247
+394,North Carolina,2018-19,Hillcrest Elementary,,,Burke,,37,,100,0,,0,35.754026,-81.674472
+395,North Carolina,2018-19,Hillsborough Elementary,,,Orange,,69,,100,0,,1.4,36.080418,-79.110539
+396,North Carolina,2018-19,Hilltop Christian,,,Wake,,25,,100,0,,12,35.62781,-78.722421
+397,North Carolina,2018-19,Hiwassee Dam Elementary/Middle,,,Cherokee,,8,,100,12.5,,0,35.10366,-84.223303
+398,North Carolina,2018-19,Hobgood Academy,,,Halifax,,9,,100,0,,0,36.027245,-77.395551
+399,North Carolina,2018-19,Hodge Road Elementary,,,Wake,,87,,100,0,,1.1,35.776148,-78.522369
+400,North Carolina,2018-19,Hollister Elementary Leadership Academy,,,Halifax,,26,,100,0,,0,36.257513,-77.942399
+401,North Carolina,2018-19,Holly Grove Elementary,,,Wake,,130,,100,4.6,,1.5,35.631941,-78.850535
+402,North Carolina,2018-19,Holly Tree Elementary,,,New Hanover,,84,,100,0,,3.6,34.191665,-77.882659
+403,North Carolina,2018-19,Holy Youth Christian Academy,,,Chatham,,13,,100,0,,0,35.8514317,-79.080109
+404,North Carolina,2018-19,Hope Academy,,,Cabarrus,,17,,100,0,,11.8,35.36077,-80.706561
+405,North Carolina,2018-19,Hope Baptist Christian Academy,,,Randolph,,2,,100,0,,0,35.845528,-79.89575
+406,North Carolina,2018-19,Hope Charter Leadership Academy,,,Wake,,20,,100,0,,0,35.795231,-78.635232
+407,North Carolina,2018-19,Hope Creek Academy,,,Durham,,1,,100,0,,0,35.989737,-78.986591
+408,North Carolina,2018-19,Hopewell Elementary,,,Randolph,,98,,100,0,,1,35.8631929,-80.0088642
+409,North Carolina,2018-19,Horizons Elementary,,,Caldwell,,2,,100,0,,0,35.92717,-81.535881
+410,North Carolina,2018-19,Howard L Hall  Elementary,,,Cumberland,,114,,100,0,,5.3,35.156893,-78.887649
+411,North Carolina,2018-19,Hudson Elementary,,,Caldwell,,115,,100,0.9,,0,35.845528,-81.491356
+412,North Carolina,2018-19,Hunter Elementary,,,Wake,,112,,100,0.9,,0.9,35.774567,-78.622977
+413,North Carolina,2018-19,Hunter Elementary,,,Guilford,,96,,100,0,,0,36.0516049,-79.8513379
+414,North Carolina,2018-19,Huntsvil le Elementary,,,Rockingham,,64,,100,0,,0,36.330866,-79.94948
+415,North Carolina,2018-19,Hurley Elementary,,,Rowan,,64,,100,0,,0,35.700294,-80.558926
+416,North Carolina,2018-19,Icard Elementary,,,Burke,,42,,100,2.4,,0,35.72897,-81.468829
+417,North Carolina,2018-19,Immaculate Heart of Mary Cath Sch,,,Guilford,,26,,100,0,,0,36.0347025,-80.0209272
+418,North Carolina,2018-19,Impact Journey,,,Guilford,,8,,100,0,,12.5,36.1450516,-79.7922428
+419,North Carolina,2018-19,Independence Montessori Academy,,,Harnett,,9,,100,0,,0,35.3340196,-79.0315051
+420,North Carolina,2018-19,Infant of Prague Catholic,,,Onslow,,19,,100,0,,5.3,34.753336,-77.426046
+421,North Carolina,2018-19,International Montessori,,,Durham,,22,,100,0,,0,35.970986,-78.941948
+422,North Carolina,2018-19,Invest Collegiate (Buncombe),,,Buncombe,,111,,100,0,,0.9,35.524619,-82.605581
+423,North Carolina,2018-19,Iron Station Elementary,,,Lincoln,,68,,100,2.9,,2.9,35.460376,-81.165812
+424,North Carolina,2018-19,Irving Park Elementary,,,Guilford,,106,,100,0,,0.9,36.0966334,-79.8135216
+425,North Carolina,2018-19,Irwin Academic Center,,,Mecklenburg,,37,,100,0,,2.7,35.237483,-80.850052
+426,North Carolina,2018-19,Island Montessori Charter,,,New Hanover,,26,,100,0,,15.4,34.108078,-77.89924
+427,North Carolina,2018-19,J S Waters,,,Chatham,,26,,100,0,,0,35.602195,-79.32452
+428,North Carolina,2018-19,J T Barber Elementary,,,Craven,,57,,100,0,,0,35.118726,-77.063794
+429,North Carolina,2018-19,Jackson Park Elementary,,,Cabarrus,,62,,100,0,,0,35.504337,-80.602031
+430,North Carolina,2018-19,Jamesville Elementary,,,Martin,,27,,100,3.7,,3.7,35.810573,-76.900975
+431,North Carolina,2018-19,Jarvisburg Christian Academy,,,Currituck,,3,,100,0,,33.3,36.20204,-75.862891
+432,North Carolina,2018-19,Jarvisburg Elementary,,,Currituck,,50,,100,0,,0,36.2011566,-75.8575195
+433,North Carolina,2018-19,Jefferson Elementary,,,Guilford,,105,,100,0,,1,36.1052869,-79.8855628
+434,North Carolina,2018-19,Jeffreys Grove Elementary,,,Wake,,82,,100,0,,0,35.867978,-78.681398
+435,North Carolina,2018-19,Jesse Wharton Elementary,,,Guilford,,106,,100,0,,1.9,36.1626114,-79.8350141
+436,North Carolina,2018-19,Jessie Mae Monroe Elementary,,,Brunswick,,78,,100,2.6,,0,33.947872,-78.547869
+437,North Carolina,2018-19,John R Lawrence Elementary,,,Randolph,,65,,100,0,,1.5,35.889452,-79.924694
+438,North Carolina,2018-19,John W Dillard Academy,,,Rockingham,,73,,100,0,,0,36.3991507,-79.9778076
+439,North Carolina,2018-19,Johnston Charter Academy,,,Johnston,,100,,100,0,,5,35.660171,-78.494201
+440,North Carolina,2018-19,Johnston Elementary,,,Buncombe,,50,,100,0,,2,35.586567,-82.620044
+441,North Carolina,2018-19,Jonathan Valley Elementary,,,Haywood,,74,,100,0,,1.4,35.532042,-83.031276
+442,North Carolina,2018-19,Jones Dairy Elementary,,,Wake,,74,,100,0,,0,35.950238,-78.471662
+443,North Carolina,2018-19,Jonesville Elementary,,,Yadkin,,39,,100,0,,2.6,36.232542,-80.844341
+444,North Carolina,2018-19,Julius I. Foust Elementary,,,Guilford,,52,,100,0,,1.9,36.0372388,-79.8091436
+445,North Carolina,2018-19,Junaluska Elementary,,,Haywood,,72,,100,4.2,,1.4,35.508608,-82.962999
+446,North Carolina,2018-19,Kenansville Elementary,,,Duplin,,81,,100,0,,0,34.956558,-77.958775
+447,North Carolina,2018-19,Kent Academy,,,Mecklenburg,,0,,100,0,,0,35.20167,-80.845531
+448,North Carolina,2018-19,Kernersvil le Elementary,,,Forsyth,,130,,100,0,,0.8,36.127261,-80.080467
+449,North Carolina,2018-19,Kerr-Vance Academy,,,Vance,,14,,100,0,,0,36.293028,-78.452249
+450,North Carolina,2018-19,Kestrel Heights,,,Durham,,53,,100,0,,3.8,35.89616,-78.893301
+451,North Carolina,2018-19,Kiddie Academy of Charlotte,,,Mecklenburg,,15,,100,0,,0,35.030389,-80.808726
+452,North Carolina,2018-19,Kimmel Farm Elementary,,,Forsyth,,145,,100,0,,0.7,36.008029,-80.302988
+453,North Carolina,2018-19,Kings Creek Elementary,,,Caldwell,,18,,100,0,,5.6,35.991963,-81.400676
+454,North Carolina,2018-19,Kingswood Elementary,,,Wake,,72,,100,0,,0,35.79315,-78.778216
+455,North Carolina,2018-19,KIPP Gaston College Preparatory,,,Northampton,,#N/A,,100,0,,0,36.504587,-77.639204
+456,North Carolina,2018-19,Knollwood Elementary,,,Rowan,,91,,100,0,,2.2,35.6155281,-80.5743473
+457,North Carolina,2018-19,Knowledge is Power Early Lrng Prog,,,Mecklenburg,,1,,100,0,,0,35.2337879,-80.892835
+458,North Carolina,2018-19,L & L Montessori,,,Brunswick,,4,,100,0,,0,33.92946,-78.067441
+459,North Carolina,2018-19,Lake Forest Academy,,,New Hanover,,1,,100,0,,0,34.215475,-77.928204
+460,North Carolina,2018-19,Lake Myra Elementary,,,Wake,,90,,100,0,,0,35.761463,-78.430151
+461,North Carolina,2018-19,Lake Norman Elementary,,,Iredell,,84,,100,0,,3.6,35.5806834,-80.8976186
+462,North Carolina,2018-19,Lakeshore Elementary,,,Iredell,,81,,100,1.2,,2.5,35.6078912,-80.8867743
+463,North Carolina,2018-19,Landis Elementary,,,Rowan,,76,,100,0,,1.3,35.5540324,-80.6205503
+464,North Carolina,2018-19,Lansdowne Elementary,,,Mecklenburg,,77,,100,0,,5.2,35.143272,-80.782308
+465,North Carolina,2018-19,Laurel Hil l  Elementary,,,Scotland,,108,,100,0,,0.9,34.822358,-79.520225
+466,North Carolina,2018-19,Lawrence Academy,,,Bertie,,11,,100,0,,0,36.010319,-76.768461
+467,North Carolina,2018-19,Lawrence Orr Elementary,,,Mecklenburg,,118,,100,0,,0,35.2261011,-80.7440106
+468,North Carolina,2018-19,Lawsonville Elementary,,,Stokes,,22,,100,0,,0,36.490398,-80.23513
+469,North Carolina,2018-19,Learning Community Sch,,,Buncombe,,7,,100,0,,14.3,35.6271895,-82.3632896
+470,North Carolina,2018-19,Lebanon Road Elementary,,,Mecklenburg,,135,,100,0,,3,35.184109,-80.689629
+471,North Carolina,2018-19,Lee Christian,,,Lee,,14,,100,0,,14.3,35.46288,-79.202481
+472,North Carolina,2018-19,Lee Woodard Elementary,,,Wilson,,24,,100,0,,0,35.639974,-77.938391
+473,North Carolina,2018-19,LegetteBlythe Elementary,,,Mecklenburg,,141,,100,0.7,,0,35.3765629,-80.8349492
+474,North Carolina,2018-19,Lenoir County Learning Academy,,,Lenoir,,1,,100,0,,0,35.25452,-77.693466
+475,North Carolina,2018-19,Level Cross Elementary,,,Randolph,,53,,100,0,,0,35.858573,-79.790925
+476,North Carolina,2018-19,Lewisvil le Elementary,,,Forsyth,,94,,100,0,,1.1,36.094737,-80.419404
+477,North Carolina,2018-19,Liberty Christian Academy,,,Onslow,,38,,100,0,,7.9,34.9065,-77.563231
+478,North Carolina,2018-19,Liberty Elementary,,,Randolph,,65,,100,0,,1.5,35.8553235,-79.5700201
+479,North Carolina,2018-19,Liberty Preparatory Christian Acad.,,,Iredell,,24,,100,0,,41.7,35.5777968,-80.9074554
+480,North Carolina,2018-19,Lil l ington-Shawtown Elementary,,,Harnett,,112,,100,0,,0,35.393523,-78.837933
+481,North Carolina,2018-19,Lilesvil le Elementary,,,Anson,,35,,100,0,,0,34.963629,-79.988673
+482,North Carolina,2018-19,Lincoln Elementary,,,Rockingham,,67,,100,0,,0,36.467026,-79.649536
+483,North Carolina,2018-19,Lincoln Heights Academy,,,Mecklenburg,,0,,100,0,,0,35.216579,-80.811975
+484,North Carolina,2018-19,Lindley Park Elementary,,,Randolph,,77,,100,0,,1.3,35.7016541,-79.8070859
+485,North Carolina,2018-19,Little River Elementary,,,Durham,,64,,100,0,,0,36.098817,-78.863112
+486,North Carolina,2018-19,London Elementary,,,Stokes,,28,,100,0,,0,36.300091,-80.146288
+487,North Carolina,2018-19,Long Hill  Christian,,,Montgomery,,4,,100,0,,0,36.4168037,-80.5206154
+488,North Carolina,2018-19,Long Mill  Elementary,,,Franklin,,70,,100,0,,0,36.057649,-78.495951
+489,North Carolina,2018-19,Lucy Daniels Center,,,Wake,,5,,100,0,,0,35.8286293,-78.7963599
+490,North Carolina,2018-19,Mabel Elementary,,,Watauga,,17,,100,0,,0,36.322534,-81.746471
+491,North Carolina,2018-19,Madison Elementary,,,Guilford,,26,,100,0,,3.8,36.1460189,-79.6960704
+492,North Carolina,2018-19,Male Leadership Acad. of Charlotte,,,Mecklenburg,,3,,100,0,,33.3,35.1675608,-80.891996
+493,North Carolina,2018-19,Mallard Creek STEM Academy,,,Mecklenburg,,87,,100,0,,0,35.36674,-80.797061
+494,North Carolina,2018-19,Mangum Elementary,,,Durham,,61,,100,0,,1.6,36.169799,-78.876543
+495,North Carolina,2018-19,Mariam Boyd Elementary,,,Warren,,34,,100,0,,2.9,36.394951,-78.158327
+496,North Carolina,2018-19,Mariposa,,,Wake,,0,,100,0,,0,35.737499,-78.804111
+497,North Carolina,2018-19,Marjorie Williams Academy,,,Avery,,10,,100,0,,0,36.024783,-81.928458
+498,North Carolina,2018-19,Mars Hill  Elementary,,,Madison,,97,,100,0,,3.1,35.8345131,-82.5516139
+499,North Carolina,2018-19,Mattamuskeet Elementary,,,Hyde,,42,,100,0,,0,35.440926,-76.217128
+500,North Carolina,2018-19,Maureen Joy Charter,,,Durham,,65,,100,0,,0,35.985225,-78.877477
+501,North Carolina,2018-19,Maysville Elementary,,,Jones,,24,,100,0,,4.2,34.904665,-77.236972
+502,North Carolina,2018-19,McAdenville Elementary,,,Gaston,,30,,100,0,,0,35.2534236,-81.0772934
+503,North Carolina,2018-19,McKee Road Elementary,,,Mecklenburg,,85,,100,0,,2.4,35.068284,-80.754791
+504,North Carolina,2018-19,McLeansville Elementary,,,Guilford,,41,,100,0,,0,36.1060545,-79.6610867
+505,North Carolina,2018-19,Meadow,,,Johnston,,54,,100,1.9,,0,35.321077,-78.453795
+506,North Carolina,2018-19,Mel and Zora Rashkis Elementary,,,Orange,,75,,100,1.3,,0,35.9140981,-79.007933
+507,North Carolina,2018-19,Meredith Leigh Haynes - Bennie Lee Inman Education Center,,,Guilford,,4,,100,0,,25,35.9841793,-79.9139355
+508,North Carolina,2018-19,Metrolina Christian Academy,,,Union,,64,,100,0,,9.4,35.0851189,-80.6569793
+509,North Carolina,2018-19,Metrolina Regional Scholars Academy,,,Mecklenburg,,36,,100,0,,11.1,35.168604,-80.885949
+510,North Carolina,2018-19,Micaville Elementary,,,Yancey,,39,,100,0,,0,35.905312,-82.216325
+511,North Carolina,2018-19,Middlesex Elementary,,,Nash,,55,,100,0,,0,35.786495,-78.213078
+512,North Carolina,2018-19,Midway Elementary,,,Davidson,,71,,100,0,,0,35.952109,-80.214029
+513,North Carolina,2018-19,Mill ingport Elementary,,,Stanly,,31,,100,0,,3.2,35.3784516,-80.2989309
+514,North Carolina,2018-19,Millennium Charter Academy,,,Surry,,84,,100,0,,4.8,36.516519,-80.597495
+515,North Carolina,2018-19,Millers Creek Christian,,,Wilkes,,15,,100,0,,6.7,36.18835,-81.233261
+516,North Carolina,2018-19,Mills Park Elementary,,,Wake,,131,,100,0,,0.8,35.810851,-78.896569
+517,North Carolina,2018-19,Mills River Seventh-day Adventist,,,Henderson,,5,,100,0,,0,35.399964,-82.5642229
+518,North Carolina,2018-19,Mineral Springs Elementary,,,Forsyth,,93,,100,0,,1.1,36.157307,-80.235416
+519,North Carolina,2018-19,Mineral Springs Elementary,,,Richmond,,44,,100,0,,0,35.063087,-79.754596
+520,North Carolina,2018-19,Mocksville Elementary,,,Davie,,88,,100,0,,0,35.906454,-80.5586977
+521,North Carolina,2018-19,Monroe Avenue Elementary,,,Richmond,,59,,100,1.7,,0,34.896926,-79.698546
+522,North Carolina,2018-19,Monroeton Elementary,,,Rockingham,,76,,100,0,,0,36.318533,-79.716575
+523,North Carolina,2018-19,Montessori at Sandy Ford,,,Catawba,,15,,100,0,,20,35.659699,-81.2871138
+524,North Carolina,2018-19,Montessori Community,,,Durham,,24,,100,8.3,,0,35.9337024,-79.0000454
+525,North Carolina,2018-19,Montessori Day,,,Orange,,12,,100,0,,0,35.93542,-79.020261
+526,North Carolina,2018-19,Montessori Farm,,,Durham,,6,,100,0,,16.7,36.03149,-78.910161
+527,North Carolina,2018-19,Montessori School of Raleigh,,,Wake,,32,,100,0,,0,35.87659,-78.663051
+528,North Carolina,2018-19,Montessori School of Winston-Salem,,,Forsyth,,16,,100,0,,6.3,36.06537,-80.375091
+529,North Carolina,2018-19,Moravian Falls Elementary,,,Wilkes,,44,,100,0,,0,36.097467,-81.180473
+530,North Carolina,2018-19,Morehead Elementary,,,Guilford,,88,,100,0,,1.1,36.080456,-79.866621
+531,North Carolina,2018-19,Morganton Day,,,Burke,,14,,100,0,,0,35.74048,-81.688351
+532,North Carolina,2018-19,Morris Grove Elementary,,,Orange,,85,,100,0,,1.2,35.9664753,-79.1032362
+533,North Carolina,2018-19,Morrisville Elementary,,,Wake,,120,,100,0,,0.8,35.811406,-78.846496
+534,North Carolina,2018-19,Moss Hill  Elementary,,,Lenoir,,55,,100,0,,0,35.195241,-77.75315
+535,North Carolina,2018-19,Mount Calvary Christian Acad.,,,Greene,,12,,100,0,,0,35.4257174,-77.5835824
+536,North Carolina,2018-19,Mount Calvary Christian,,,Randolph,,7,,100,0,,14.3,35.90848,-79.930481
+537,North Carolina,2018-19,Mount Gilead Elementary,,,Montgomery,,36,,100,0,,0,35.212758,-80.004204
+538,North Carolina,2018-19,Mount Olive Elementary,,,Stokes,,53,,100,0,,1.9,36.319402,-80.373032
+539,North Carolina,2018-19,Mount Pleasant Elementary,,,Cabarrus,,95,,100,1.1,,4.2,35.417275,-80.431717
+540,North Carolina,2018-19,Mount Pleasant Elementary,,,Wilkes,,33,,100,0,,0,36.149087,-81.325633
+541,North Carolina,2018-19,Mount Zion Christian Academy,,,Durham,,16,,100,0,,0,35.9563,-78.906401
+542,North Carolina,2018-19,Mountain Discovery Charter,,,Swain,,20,,100,0,,15,35.4144917,-83.4526728
+543,North Carolina,2018-19,Mountain Island Day,,,Mecklenburg,,47,,100,0,,4.3,35.26123,-80.938601
+544,North Carolina,2018-19,Mountain Pathways,,,Watauga,,8,,100,0,,0,36.24158,-81.662761
+545,North Carolina,2018-19,Mountain Sun Community,,,Transylvania,,10,,100,0,,40,35.242403,-82.752978
+546,North Carolina,2018-19,Mountain View Elementary,,,Ashe,,73,,100,0,,0,36.433826,-81.443155
+547,North Carolina,2018-19,Mountain View Elementary,,,Catawba,,90,,100,0,,4.4,35.662621,-81.385349
+548,North Carolina,2018-19,Mountain View Elementary,,,Wilkes,,75,,100,0,,0,36.248548,-81.116079
+549,North Carolina,2018-19,Mountain View Elementary,,,Burke,,99,,100,0,,0,35.7536296,-81.7014505
+550,North Carolina,2018-19,Mulberry Elementary,,,Wilkes,,69,,100,0,,0,36.237173,-81.179811
+551,North Carolina,2018-19,Mull Elementary,,,Burke,,43,,100,0,,4.7,35.704807,-81.659601
+552,North Carolina,2018-19,Murphy Adventist,,,Cherokee,,0,,100,0,,0,35.0709872,-84.0580487
+553,North Carolina,2018-19,Murphy Elementary,,,Cherokee,,57,,100,0,,0,35.089881,-84.030497
+554,North Carolina,2018-19,Myrtle Grove Christian,,,New Hanover,,18,,100,0,,5.6,34.13618,-77.887621
+555,North Carolina,2018-19,Nancy Reynolds Elementary,,,Stokes,,20,,100,0,,0,36.437476,-80.343953
+556,North Carolina,2018-19,Nantahala,,,Macon,,10,,100,0,,0,35.253472,-83.634187
+557,North Carolina,2018-19,Nathanael Greene Elementary,,,Guilford,,40,,100,0,,0,35.9459637,-79.6067573
+558,North Carolina,2018-19,Naturally Grown,,,Henderson,,4,,100,0,,50,35.38785,-82.585541
+559,North Carolina,2018-19,NC Leadership Charter Academy,,,Forsyth,,63,,100,0,,0,36.04657,-80.111269
+560,North Carolina,2018-19,NC Virtual Academy,,,Durham,,142,,100,0,,13.4,35.91404,-78.892881
+561,North Carolina,2018-19,Neuse Christian Academy,,,Wake,,21,,100,0,,4.8,35.88761,-78.626091
+562,North Carolina,2018-19,New Classical Academy,,,Buncombe,,9,,100,0,,0,35.562202,-82.615053
+563,North Carolina,2018-19,New Hope Christian Academy,,,Davidson,,2,,100,0,,0,35.88155,-80.105381
+564,North Carolina,2018-19,New Hope Elementary,,,Gaston,,76,,100,0,,1.3,35.209822,-81.0831959
+565,North Carolina,2018-19,New Independence Academy,,,Wayne,,0,,100,0,,0,35.41162,-78.040131
+566,North Carolina,2018-19,New Kituwah Academy,,,Swain,,12,,100,0,,8.3,35.501034,-83.310545
+567,North Carolina,2018-19,New Life Christian Academy,,,Cabarrus,,4,,100,0,,0,35.41278,-80.644421
+568,North Carolina,2018-19,New Manna Christian,,,McDowell,,13,,100,0,,15.4,35.685902,-82.005298
+569,North Carolina,2018-19,New Market Elementary,,,Randolph,,61,,100,0,,3.3,35.8324732,-79.8656272
+570,North Carolina,2018-19,New Salem Elementary,,,Union,,43,,100,0,,2.3,35.1294972,-80.3706497
+571,North Carolina,2018-19,Newland Elementary,,,Avery,,31,,100,0,,0,36.0817037,-81.9222218
+572,North Carolina,2018-19,Newport Christian Academy,,,Carteret,,5,,100,0,,0,34.81008,-76.890491
+573,North Carolina,2018-19,Next Generation Academy,,,Guilford,,71,,100,1.4,,2.8,36.03913,-79.816971
+574,North Carolina,2018-19,Norlina Christian,,,Warren,,4,,100,0,,0,36.43882,-78.189076
+575,North Carolina,2018-19,North Canton Elementary,,,Haywood,,48,,100,0,,2.1,35.546574,-82.834199
+576,North Carolina,2018-19,North Carolina Connections Academy,,,Durham,,71,,100,0,,21.1,35.9138316,-78.9016585
+577,North Carolina,2018-19,North Chatham Elementary,,,Chatham,,90,,100,1.1,,1.1,35.822108,-79.037603
+578,North Carolina,2018-19,North Cove Elementary,,,McDowell,,29,,100,0,,0,35.7890242,-82.0338889
+579,North Carolina,2018-19,North East Carolina Preparatory,,,Edgecombe,,45,,100,0,,2.2,35.8917142,-77.5807499
+580,North Carolina,2018-19,North Elementary,,,Caswell,,64,,100,1.6,,3.1,36.529202,-79.396737
+581,North Carolina,2018-19,North Liberty,,,Burke,,6,,100,0,,33.3,35.708713,-81.670682
+582,North Carolina,2018-19,North Newton Elementary,,,Catawba,,74,,100,0,,0,35.679912,-81.222448
+583,North Carolina,2018-19,North Raleigh Christian Academy,,,Wake,,75,,100,0,,6.7,35.87953,-78.543251
+584,North Carolina,2018-19,North Shelby,,,Cleveland,,0,,100,0,,0,35.2928665,-81.5456967
+585,North Carolina,2018-19,North Wilkesboro Elementary,,,Wilkes,,52,,100,0,,0,36.177835,-81.138492
+586,North Carolina,2018-19,Northeast Academy,,,Northampton,,9,,100,0,,0,36.35649,-77.305841
+587,North Carolina,2018-19,Northside Elementary,,,Pasquotank,,64,,100,0,,0,36.363137,-76.272898
+588,North Carolina,2018-19,Northside Elementary,,,Orange,,53,,100,0,,1.9,35.9175093,-79.0632149
+589,North Carolina,2018-19,Northview Baptist Academy,,,Cumberland,,9,,100,0,,22.2,35.19434,-78.850181
+590,North Carolina,2018-19,Northwest Elementary,,,Davidson,,82,,100,1.2,,0,35.942332,-80.301299
+591,North Carolina,2018-19,Northwood Temple Academy,,,Cumberland,,28,,100,0,,0,35.1176,-78.879371
+592,North Carolina,2018-19,Northwoods Elementary,,,Wake,,113,,100,0,,3.5,35.795412,-78.789735
+593,North Carolina,2018-19,O'Neal,,,Moore,,31,,100,0,,0,35.22369,-79.408607
+594,North Carolina,2018-19,Oak Grove Elementary,,,Durham,,95,,100,0,,0,35.979869,-78.818858
+595,North Carolina,2018-19,Oak Grove Elementary,,,Wake,,98,,100,0,,1,35.713634,-78.783589
+596,North Carolina,2018-19,Oak Hill  Elementary,,,Burke,,62,,100,0,,0,35.776352,-81.756582
+597,North Carolina,2018-19,Oak Lane Elementary,,,Person,,38,,100,0,,0,36.274364,-79.09667
+598,North Carolina,2018-19,Oakboro Choice STEM,,,Stanly,,51,,100,0,,0,35.234039,-80.335532
+599,North Carolina,2018-19,Oaks Road Academy,,,Craven,,62,,100,0,,0,35.1271254,-77.0657101
+600,North Carolina,2018-19,Oakview Elementary,,,Wake,,154,,100,0,,2.6,35.6619687,-78.8660216
+601,North Carolina,2018-19,Oakwood Elementary,,,Catawba,,53,,100,0,,0,35.737388,-81.343721
+602,North Carolina,2018-19,Ocracoke,,,Hyde,,12,,100,0,,0,35.112153,-75.978434
+603,North Carolina,2018-19,Odyssey Community,,,Buncombe,,16,,100,0,,43.8,35.61042,-82.567541
+604,North Carolina,2018-19,Old Dock Elementary,,,Columbus,,38,,100,0,,0,34.164607,-78.595182
+605,North Carolina,2018-19,Old Fort Elementary,,,McDowell,,42,,100,0,,2.4,35.6258221,-82.1796302
+606,North Carolina,2018-19,Olds Elementary,,,Wake,,43,,100,0,,0,35.793688,-78.675045
+607,North Carolina,2018-19,Olive Chapel Elementary,,,Wake,,159,,100,0,,1.3,35.734843,-78.894349
+608,North Carolina,2018-19,Onslow Christian Academy,,,Onslow,,0,,100,0,,0,34.7741463,-77.4117961
+609,North Carolina,2018-19,Open Door,,,Pitt,,16,,100,0,,0,35.5403,-77.416731
+610,North Carolina,2018-19,Our Lady of Assumption Cath Sch,,,Mecklenburg,,18,,100,0,,0,35.2304908,-80.7519801
+611,North Carolina,2018-19,Our Lady of Lourdes Catholic Sch,,,Wake,,39,,100,0,,0,35.819235,-78.634689
+612,North Carolina,2018-19,Our Lady of Mercy Catholic Sch,,,Forsyth,,14,,100,0,,0,36.0704386,-80.2616839
+613,North Carolina,2018-19,Our Lady Perpetual Help Cath Sch,,,Nash,,8,,100,0,,0,35.9390321,-77.8011212
+614,North Carolina,2018-19,Outreach Christian Academy,,,Richmond,,3,,100,0,,0,34.87649,-79.741921
+615,North Carolina,2018-19,Oxendine Elementary,,,Robeson,,44,,100,0,,0,34.805807,-79.25841
+616,North Carolina,2018-19,Oxford Elementary,,,Catawba,,88,,100,0,,1.1,35.77327,-81.156322
+617,North Carolina,2018-19,Pactolus,,,Pitt,,39,,100,0,,0,35.6224767,-77.2233796
+618,North Carolina,2018-19,Palisades Episcopal,,,Mecklenburg,,27,,100,0,,7.4,35.0706,-81.043691
+619,North Carolina,2018-19,Pamlico County Primary,,,Pamlico,,107,,100,0.9,,0,35.1379735,-76.7822563
+620,North Carolina,2018-19,Park Ridge Christian,,,Stanly,,28,,100,0,,0,35.369949,-80.1906149
+621,North Carolina,2018-19,Park Road Montessori,,,Mecklenburg,,71,,100,0,,2.8,35.17753,-80.848753
+622,North Carolina,2018-19,Parkview Village Elementary Expressive Arts Magnet,,,Guilford,,58,,100,0,,0,35.969527,-79.982863
+623,North Carolina,2018-19,Pasquotank Elementary,,,Pasquotank,,35,,100,0,,0,36.283666,-76.224768
+624,North Carolina,2018-19,Pathway Christian Academy,,,Wayne,,4,,100,0,,0,35.3628689,-78.0091015
+625,North Carolina,2018-19,Patriots Elementary,,,Cabarrus,,160,,100,0,,1.3,35.309739,-80.584333
+626,North Carolina,2018-19,Paw Creek Christian Academy,,,Mecklenburg,,3,,100,0,,33.3,35.24848,-80.912231
+627,North Carolina,2018-19,Peace Montessori,,,Wake,,4,,100,0,,0,35.75695,-78.833901
+628,North Carolina,2018-19,Peace Rose Montessori,,,New Hanover,,10,,100,0,,20,34.22569,-77.903011
+629,North Carolina,2018-19,Peachland Polkton Elementary,,,Anson,,82,,100,1.2,,0,34.9952448,-80.2303418
+630,North Carolina,2018-19,Peachtree Elementary,,,Cherokee,,23,,100,0,,0,35.091345,-83.945572
+631,North Carolina,2018-19,Pearsontown Elementary,,,Durham,,140,,100,0,,0,35.932293,-78.908595
+632,North Carolina,2018-19,Pembroke Elementary,,,Robeson,,115,,100,0,,0,34.678056,-79.194378
+633,North Carolina,2018-19,Penderlea Elementary,,,Pender,,52,,100,0,,1.9,34.655713,-78.047146
+634,North Carolina,2018-19,Petree Elementary,,,Forsyth,,73,,100,0,,0,36.113217,-80.191437
+635,North Carolina,2018-19,Phoenix Academy Inc,,,Guilford,,103,,100,0,,1,36.0463806,-79.9601276
+636,North Carolina,2018-19,Phoenix Montessori Academy,,,Mecklenburg,,9,,100,0,,0,35.391398,-80.853005
+637,North Carolina,2018-19,Piedmont,,,Guilford,,0,,100,0,,0,36.0273254,-80.0103914
+638,North Carolina,2018-19,Pilot Mountain Elementary,,,Surry,,59,,100,0,,0,36.4012715,-80.4721058
+639,North Carolina,2018-19,Pine Hall  Elementary,,,Stokes,,24,,100,0,,0,36.329107,-80.048178
+640,North Carolina,2018-19,Pine Ridge Mennonite,,,Rutherford,,3,,100,0,,0,35.45657,-82.035681
+641,North Carolina,2018-19,Pine Springs Preparatory Academy: CFA,,,Wake,,94,,100,0,,3.2,35.6781928,-78.8369844
+642,North Carolina,2018-19,Pinebrook Elementary,,,Davie,,83,,100,0,,3.6,35.9707605,-80.5167026
+643,North Carolina,2018-19,Pinehurst Elementary,,,Moore,,97,,100,0,,1,35.2001875,-79.4630054
+644,North Carolina,2018-19,Pinnacle Classical Academy,,,Cleveland,,112,,100,0,,1.8,35.260451,-81.503454
+645,North Carolina,2018-19,Pinnacle Elementary,,,Stokes,,30,,100,0,,0,36.328307,-80.436912
+646,North Carolina,2018-19,Pinnacle Elementary,,,Rutherford,,50,,100,0,,2,35.465761,-82.007507
+647,North Carolina,2018-19,Pioneer Springs Community,,,Mecklenburg,,44,,100,0,,15.9,35.34828,-80.822591
+648,North Carolina,2018-19,Pisgah Forest Elementary,,,Transylvania,,75,,100,0,,0,35.256275,-82.703974
+649,North Carolina,2018-19,Pittman Elementary Leadership Academy,,,Halifax,,20,,100,0,,0,36.264146,-77.742767
+650,North Carolina,2018-19,Pitts School Road Elementary,,,Cabarrus,,148,,100,0,,1.4,35.343409,-80.646488
+651,North Carolina,2018-19,Pittsboro Elementary,,,Chatham,,94,,100,0,,0,35.713186,-79.17638
+652,North Carolina,2018-19,Plain View Primary,,,Bladen,,37,,100,0,,0,34.737864,-78.839832
+653,North Carolina,2018-19,Pleasant Garden Elementary,,,Guilford,,69,,100,0,,2.9,35.9614762,-79.7613196
+654,North Carolina,2018-19,Pleasant Gardens Elementary,,,McDowell,,44,,100,0,,0,35.6919466,-82.0701136
+655,North Carolina,2018-19,Pleasant Grove Elementary,,,Alamance,,46,,100,0,,0,36.217278,-79.306674
+656,North Carolina,2018-19,Pleasant Grove Elementary,,,Wake,,91,,100,0,,1.1,35.8874271,-78.8207657
+657,North Carolina,2018-19,Poe Elementary,,,Wake,,57,,100,0,,1.8,35.773611,-78.605677
+658,North Carolina,2018-19,Pollocksville Elementary,,,Jones,,17,,100,0,,0,35.004879,-77.225351
+659,North Carolina,2018-19,Polo Ridge Elementary,,,Mecklenburg,,141,,100,0,,3.5,35.046855,-80.795134
+660,North Carolina,2018-19,Poplar Springs Elementary,,,Stokes,,64,,100,0,,1.6,36.2914004,-80.3265324
+661,North Carolina,2018-19,Porter Ridge Elementary,,,Union,,70,,100,0,,0,35.0935976,-80.5759165
+662,North Carolina,2018-19,Primrose School at Holly Grove,,,Wake,,20,,100,0,,0,35.632485,-78.854323
+663,North Carolina,2018-19,Primrose School of New Irving Park,,,Guilford,,13,,100,0,,0,36.124699,-79.7994114
+664,North Carolina,2018-19,Providence Day,,,Mecklenburg,,88,,100,0,,0,35.16024,-80.780331
+665,North Carolina,2018-19,Pungo Christian Academy,,,Beaufort,,9,,100,0,,0,35.549127,-76.635067
+666,North Carolina,2018-19,Quality Education Institute,,,Durham,,12,,100,0,,0,35.9625699,-78.9006098
+667,North Carolina,2018-19,Quest Academy,,,Wake,,14,,100,0,,7.1,35.90234,-78.677915
+668,North Carolina,2018-19,R Brown  McAllister Elementary,,,Cabarrus,,58,,100,0,,1.7,35.397642,-80.566491
+669,North Carolina,2018-19,Rainbow Community,,,Buncombe,,18,,100,0,,16.7,35.57816,-82.586821
+670,North Carolina,2018-19,Raleigh Christian Academy,,,Wake,,31,,100,0,,0,35.8082,-78.575701
+671,North Carolina,2018-19,Raleigh Oak Charter,,,Wake,,63,,100,0,,14.3,35.8979165,-78.6536143
+672,North Carolina,2018-19,Raleigh,,,Wake,,44,,100,0,,0,35.7717648,-78.6662784
+673,North Carolina,2018-19,Raleigh SDA,,,Wake,,7,,100,0,,14.3,35.7491736,-78.7220396
+674,North Carolina,2018-19,Rama Road Elementary,,,Mecklenburg,,90,,100,0,,0,35.1697,-80.772267
+675,North Carolina,2018-19,Ranger Elementary/Middle,,,Cherokee,,28,,100,0,,0,35.015678,-84.182745
+676,North Carolina,2018-19,Rankin Elementary,,,Guilford,,106,,100,0,,0.9,36.1203765,-79.7644561
+677,North Carolina,2018-19,Ravenscroft,,,Wake,,46,,100,0,,2.2,35.88478,-78.630951
+678,North Carolina,2018-19,Ray Childers Elementary,,,Burke,,77,,100,0,,1.3,35.750337,-81.428343
+679,North Carolina,2018-19,Red Oak Elementary,,,Nash,,85,,100,0,,0,36.039545,-77.904212
+680,North Carolina,2018-19,Redeemer,,,Forsyth,,24,,100,0,,4.2,36.07904,-80.274091
+681,North Carolina,2018-19,Reeds Elementary,,,Davidson,,45,,100,0,,0,35.842884,-80.33311
+682,North Carolina,2018-19,Reedy Creek Elementary,,,Wake,,120,,100,0,,1.7,35.812723,-78.765838
+683,North Carolina,2018-19,Reflections of Christ Christian Acad,,,Burke,,0,,100,0,,0,35.714265,-81.415087
+684,North Carolina,2018-19,Renaissance Classical Academy,,,Cumberland,,20,,100,0,,0,35.0573815,-78.9937295
+685,North Carolina,2018-19,Resurrection Lutheran,,,Wake,,10,,100,0,,0,35.72966,-78.778941
+686,North Carolina,2018-19,Rhema Christian Academy,,,Wayne,,4,,100,0,,0,35.401959,-77.972547
+687,North Carolina,2018-19,Ridgecroft,,,Hertford,,16,,100,0,,0,36.353349,-77.009022
+688,North Carolina,2018-19,Ridgewood Elementary,,,Pitt,,131,,100,0,,0,35.563716,-77.428278
+689,North Carolina,2018-19,River Dell  Elementary,,,Johnston,,129,,100,0,,2.3,35.667244,-78.351217
+690,North Carolina,2018-19,River Gate Elementary,,,Mecklenburg,,118,,100,0,,1.7,35.087492,-80.977235
+691,North Carolina,2018-19,River Mill  Academy,,,Alamance,,69,,100,0,,0,36.0423,-79.385081
+692,North Carolina,2018-19,Riverbend Elementary,,,Haywood,,35,,100,0,,8.6,35.58398,-82.945655
+693,North Carolina,2018-19,Riverside Christian Academy,,,Robeson,,1,,100,0,,0,34.62371,-79.159161
+694,North Carolina,2018-19,Riverside Elementary,,,Avery,,19,,100,0,,0,35.9898443,-82.0195432
+695,North Carolina,2018-19,Riverview Elementary,,,Hertford,,61,,100,0,,1.6,36.438563,-77.076233
+696,North Carolina,2018-19,Roaring River Elementary,,,Wilkes,,29,,100,0,,0,36.208745,-81.003778
+697,North Carolina,2018-19,Robbins Elementary,,,Moore,,66,,100,0,,0,35.419539,-79.573284
+698,North Carolina,2018-19,Robinson Elementary,,,Gaston,,75,,100,0,,0,35.213131,-81.162942
+699,North Carolina,2018-19,Rock Ridge Elementary,,,Wilson,,67,,100,0,,1.5,35.702012,-78.068006
+700,North Carolina,2018-19,Rockfish Christian Academy,,,Hoke,,5,,100,0,,20,34.991714,-79.065055
+701,North Carolina,2018-19,Rockford Elementary,,,Surry,,52,,100,0,,0,36.370937,-80.694087
+702,North Carolina,2018-19,Rockwell Christian,,,Rowan,,25,,100,0,,4,35.547462,-80.405629
+703,North Carolina,2018-19,Rockwell Elementary,,,Rowan,,81,,100,0,,0,35.556394,-80.4150474
+704,North Carolina,2018-19,Rocky Mount Academy,,,Nash,,25,,100,0,,0,35.94612,-77.843991
+705,North Carolina,2018-19,"Rocky Mount Preparatory, Inc.",,,Nash,,99,,100,0,,1,36.0154074,-77.778917
+706,North Carolina,2018-19,Rocky Point Elementary,,,Pender,,59,,100,0,,0,34.4287572,-77.8772311
+707,North Carolina,2018-19,Rodgers Elementary,,,Martin,,37,,100,0,,2.7,35.781416,-77.07701
+708,North Carolina,2018-19,Roger Bell New Tech Academy,,,Craven,,48,,100,0,,0,34.8810978,-76.8807145
+709,North Carolina,2018-19,Ronald E. McNair Elementary,,,Guilford,,91,,100,0,,1.1,36.1605354,-79.7735431
+710,North Carolina,2018-19,Ronda-Clingman Elementary,,,Wilkes,,53,,100,0,,0,36.204774,-80.937504
+711,North Carolina,2018-19,Root Elementary,,,Wake,,74,,100,0,,2.7,35.825684,-78.650608
+712,North Carolina,2018-19,Rosewood Elementary,,,Wayne,,101,,100,0,,0,35.4170828,-78.0918143
+713,North Carolina,2018-19,Royal Elementary,,,Franklin,,72,,100,0,,1.4,36.021322,-78.365721
+714,North Carolina,2018-19,Rutherfordton Elementary,,,Rutherford,,61,,100,0,,1.6,35.334574,-81.973112
+715,North Carolina,2018-19,S.W. Snowden Elementary,,,Beaufort,,22,,100,0,,0,35.306786,-76.792874
+716,North Carolina,2018-19,Sacred Heart Catholic,,,Rowan,,16,,100,0,,0,35.70916,-80.508422
+717,North Carolina,2018-19,Salem Baptist Christian,,,Forsyth,,18,,100,0,,5.6,36.0887994,-80.2491539
+718,North Carolina,2018-19,Salem Christian Academy,,,Surry,,13,,100,0,,0,36.37385,-80.704431
+719,North Carolina,2018-19,Salem Elementary,,,Burke,,65,,100,0,,0,35.694273,-81.701012
+720,North Carolina,2018-19,Salisbury Academy,,,Rowan,,20,,100,0,,5,35.695596,-80.509824
+721,North Carolina,2018-19,Salisbury Christian,,,Rowan,,2,,100,0,,50,35.597907,-80.406054
+722,North Carolina,2018-19,Saluda Elementary,,,Polk,,24,,100,0,,12.5,35.23674,-82.344351
+723,North Carolina,2018-19,Sand Hill -Venable Elementary,,,Buncombe,,105,,100,1,,1,35.5542674,-82.6399882
+724,North Carolina,2018-19,Sandhills Farm Life Elementary,,,Moore,,113,,100,0.9,,4.4,35.274834,-79.390886
+725,North Carolina,2018-19,Sandhills Theatre Arts Renaissance,,,Moore,,44,,100,0,,0,35.2132772,-79.3313605
+726,North Carolina,2018-19,Sandy Grove Elementary,,,Hoke,,95,,100,0,,0,34.944586,-79.091371
+727,North Carolina,2018-19,Sandy Ridge Elementary,,,Stokes,,31,,100,0,,3.2,36.500386,-80.102114
+728,North Carolina,2018-19,Sandy Ridge Elementary,,,Durham,,99,,100,0,,2,36.0577148,-78.871103
+729,North Carolina,2018-19,Sanford Creek Elementary,,,Wake,,102,,100,0,,2,35.927717,-78.461417
+730,North Carolina,2018-19,Sarah Walden Herbin-Dale J. Metz Education Center,,,Guilford,,6,,100,0,,0,36.0825587,-79.736414
+731,North Carolina,2018-19,Sawmills Elementary,,,Caldwell,,60,,100,1.7,,1.7,35.818463,-81.479093
+732,North Carolina,2018-19,Scotland Neck Elementary Leadership Academy,,,Halifax,,34,,100,0,,0,36.1269043,-77.4280302
+733,North Carolina,2018-19,Scotts Creek Elementary,,,Jackson,,61,,100,0,,0,35.409234,-83.1778
+734,North Carolina,2018-19,Second Baptist Christian Academy,,,Richmond,,16,,100,0,,0,34.8817839,-79.6865944
+735,North Carolina,2018-19,Sedge Garden Elementary,,,Forsyth,,119,,100,0,,0.8,36.096283,-80.135966
+736,North Carolina,2018-19,Sedgefield,,,Mecklenburg,,5,,100,0,,0,35.19616,-80.860641
+737,North Carolina,2018-19,Selwyn Elementary,,,Mecklenburg,,132,,100,0,,0.8,35.167758,-80.834754
+738,North Carolina,2018-19,Shady Grove Elementary,,,Davie,,66,,100,0,,4.5,35.9466524,-80.415597
+739,North Carolina,2018-19,Shamrock Gardens Elementary,,,Mecklenburg,,88,,100,0,,0,35.234012,-80.788375
+740,North Carolina,2018-19,Sharon Elementary,,,Iredell,,43,,100,0,,0,35.7710117,-81.0604119
+741,North Carolina,2018-19,Shawboro Elementary,,,Currituck,,88,,100,0,,0,36.445118,-76.015101
+742,North Carolina,2018-19,Sheets Memorial Christian,,,Davidson,,16,,100,0,,0,35.810776,-80.260855
+743,North Carolina,2018-19,Sherril ls Ford Elementary,,,Catawba,,57,,100,0,,1.8,35.621421,-80.988039
+744,North Carolina,2018-19,Sherwood Elementary,,,Gaston,,79,,100,0,,0,35.2493179,-81.1547487
+745,North Carolina,2018-19,Sherwood Forest Elementary,,,Forsyth,,108,,100,0,,0.9,36.106627,-80.310439
+746,North Carolina,2018-19,Sherwood Park Elementary,,,Cumberland,,37,,100,0,,0,35.01851,-78.962175
+747,North Carolina,2018-19,Shiloh Elementary,,,Union,,85,,100,0,,10.6,35.0375173,-80.6500482
+748,North Carolina,2018-19,Shining Light Academy,,,Guilford,,22,,100,0,,0,36.0527929,-79.9118802
+749,North Carolina,2018-19,Shoals Elementary,,,Surry,,43,,100,0,,0,36.333182,-80.503686
+750,North Carolina,2018-19,Shuford Elementary,,,Catawba,,58,,100,1.7,,0,35.720322,-81.200144
+751,North Carolina,2018-19,Silk Hope,,,Chatham,,28,,100,0,,0,35.780723,-79.366632
+752,North Carolina,2018-19,Smith Elementary,,,Wake,,73,,100,0,,0,35.711815,-78.653731
+753,North Carolina,2018-19,Snow Creek Elementary,,,Catawba,,60,,100,1.7,,0,35.7809773,-81.2676276
+754,North Carolina,2018-19,Snow Hill  Primary,,,Greene,,159,,100,0,,0,35.4508437,-77.6639467
+755,North Carolina,2018-19,Socrates Academy,,,Mecklenburg,,81,,100,0,,3.7,35.072886,-80.72885
+756,North Carolina,2018-19,South Brunswick Charter,,,Brunswick,,70,,100,0,,2.9,33.9723592,-78.1989896
+757,North Carolina,2018-19,South Charlotte Baptist Academy,,,Mecklenburg,,8,,100,0,,12.5,35.07297,-80.880301
+758,North Carolina,2018-19,South Creek Elementary,,,Martin,,60,,100,0,,0,35.855769,-77.248028
+759,North Carolina,2018-19,South Elementary,,,Person,,54,,100,0,,0,36.375216,-78.988485
+760,North Carolina,2018-19,South Elementary,,,Caswell,,48,,100,0,,0,36.328911,-79.239018
+761,North Carolina,2018-19,South Graham Elementary,,,Alamance,,104,,100,0,,0,36.052302,-79.393351
+762,North Carolina,2018-19,South Lexington Developmental Center,,,Davidson,,3,,100,0,,0,35.797662,-80.2624666
+763,North Carolina,2018-19,South Toe Elementary,,,Yancey,,16,,100,0,,6.3,35.840493,-82.188096
+764,North Carolina,2018-19,South Topsail  Elementary,,,Pender,,42,,100,0,,0,34.384254,-77.713498
+765,North Carolina,2018-19,South Warren Elementary,,,Warren,,22,,100,0,,0,36.319831,-78.199405
+766,North Carolina,2018-19,Southeastern Academy,,,Robeson,,20,,100,0,,0,34.651579,-78.873631
+767,North Carolina,2018-19,Southeastern Christian Academy,,,Brunswick,,22,,100,0,,9.1,33.986572,-78.358888
+768,North Carolina,2018-19,Southern Elementary,,,Guilford,,40,,100,0,,0,35.9443416,-79.8563375
+769,North Carolina,2018-19,Southern Pines Primary,,,Moore,,117,,100,0,,0.9,35.185306,-79.405121
+770,North Carolina,2018-19,Southlake Christian Academy,,,Mecklenburg,,15,,100,0,,6.7,35.429185,-80.93636
+771,North Carolina,2018-19,Southmont Elementary,,,Davidson,,60,,100,0,,0,35.6647123,-80.2717029
+772,North Carolina,2018-19,Southmont Elementary,,,Randolph,,82,,100,0,,1.2,35.648133,-79.8494435
+773,North Carolina,2018-19,Southport Elementary,,,Brunswick,,84,,100,0,,3.6,33.92507,-78.032008
+774,North Carolina,2018-19,Southside Christ. School  Inc.,,,Johnston,,30,,100,0,,13.3,35.6407033,-78.5284596
+775,North Carolina,2018-19,Southwest Elementary,,,Durham,,95,,100,0,,1.1,35.928914,-78.92396
+776,North Carolina,2018-19,Southwest Elementary,,,Forsyth,,100,,100,1,,2,36.068007,-80.383279
+777,North Carolina,2018-19,Southwest Elementary,,,Guilford,,155,,100,0,,2.6,36.0448236,-79.9816751
+778,North Carolina,2018-19,Southwood Elementary,,,Davidson,,102,,100,0,,1,35.732711,-80.267988
+779,North Carolina,2018-19,Southwood Elementary,,,Lenoir,,47,,100,0,,0,35.208002,-77.564598
+780,North Carolina,2018-19,Speas Elementary,,,Forsyth,,139,,100,0,,0.7,36.130346,-80.29625
+781,North Carolina,2018-19,"Special School (Federal, DHHS, DPS, etc.)",,,Granville,,0,,100,0,,0,36.3258275,-78.5957719
+782,North Carolina,2018-19,Spring Valley Elementary,,,Durham,,85,,100,0,,0,35.9559309,-78.814885
+783,North Carolina,2018-19,St. Andrew's Espiscopal,,,Nash,,5,,100,0,,0,35.9608,-77.834261
+784,North Carolina,2018-19,St. Ann Catholic,,,Mecklenburg,,15,,100,0,,0,35.18049,-80.850081
+785,North Carolina,2018-19,St. David's,,,Wake,,32,,100,0,,3.1,35.82342,-78.648881
+786,North Carolina,2018-19,St. John Paul II Catholic,,,Moore,,20,,100,0,,0,35.21436,-79.380481
+787,North Carolina,2018-19,St. John's Lutheran Day Sch.,,,Forsyth,,20,,100,0,,0,36.070475,-80.28214
+788,North Carolina,2018-19,St. Joseph Academy,,,Haywood,,0,,100,0,,0,35.52028,-83.096161
+789,North Carolina,2018-19,St. Leo Catholic,,,Forsyth,,16,,100,0,,0,36.1009272,-80.2726666
+790,North Carolina,2018-19,St. Mark Catholic,,,Mecklenburg,,50,,100,0,,0,35.421992,-80.868002
+791,North Carolina,2018-19,St. Mark Catholic,,,New Hanover,,26,,100,0,,0,34.2380487,-77.8440017
+792,North Carolina,2018-19,St. Mary Catholic,,,Wayne,,25,,100,0,,0,35.3866954,-77.968779
+793,North Carolina,2018-19,St. Mary Magdalene Catholic Sch,,,Wake,,42,,100,0,,0,35.7253179,-78.8750123
+794,North Carolina,2018-19,St. Matthew Catholic,,,Mecklenburg,,79,,100,0,,0,35.055017,-80.814296
+795,North Carolina,2018-19,St. Michael the Archangel Cath Sch,,,Wake,,50,,100,0,,0,35.7875179,-78.8209275
+796,North Carolina,2018-19,St. Patrick Catholic,,,Cumberland,,17,,100,0,,0,35.03396,-78.922661
+797,North Carolina,2018-19,St. Patrick Catholic,,,Mecklenburg,,22,,100,0,,0,35.2054209,-80.8447937
+798,North Carolina,2018-19,St. Pius X Catholic,,,Guilford,,41,,100,0,,0,36.10335,-79.787201
+799,North Carolina,2018-19,St. Raphael's Catholic,,,Wake,,45,,100,0,,0,35.8600834,-78.6200847
+800,North Carolina,2018-19,St. Timothy's,,,Wake,,44,,100,0,,0,35.841234,-78.644301
+801,North Carolina,2018-19,Stanfield Elementary,,,Stanly,,48,,100,0,,0,35.2306199,-80.4265775
+802,North Carolina,2018-19,Stanly County Virtual Education,,,Stanly,,1,,100,0,,0,35.366143,-80.19657
+803,North Carolina,2018-19,Stantonsburg Elementary,,,Wilson,,30,,100,0,,0,35.603522,-77.827942
+804,North Carolina,2018-19,Star Elementary,,,Montgomery,,0,,100,0,,0,35.396117,-79.783532
+805,North Carolina,2018-19,Startown Elementary,,,Catawba,,69,,100,0,,0,35.639054,-81.269878
+806,North Carolina,2018-19,Statesvil le Christian,,,Iredell,,12,,100,0,,25,35.80547,-80.892851
+807,North Carolina,2018-19,Statesvil le Montessori,,,Iredell,,8,,100,0,,25,35.78058,-80.864671
+808,North Carolina,2018-19,Stedman Primary,,,Cumberland,,77,,100,0,,1.3,35.010798,-78.69275
+809,North Carolina,2018-19,Sterling Montessori Academy,,,Wake,,80,,100,0,,2.5,35.833535,-78.837424
+810,North Carolina,2018-19,Sternberger Elementary,,,Guilford,,79,,100,0,,2.5,36.0853104,-79.8452989
+811,North Carolina,2018-19,Stokes,,,Pitt,,26,,100,0,,0,35.7167821,-77.2682129
+812,North Carolina,2018-19,Stoner-Thomas,,,Davidson,,3,,100,0,,0,35.818005,-80.20106
+813,North Carolina,2018-19,Stoney Creek Elementary,,,Caswell,,31,,100,0,,0,36.345013,-79.423574
+814,North Carolina,2018-19,Stoney Point Elementary,,,Cumberland,,124,,100,0,,0.8,34.979624,-79.014803
+815,North Carolina,2018-19,Stony Point Elementary,,,Alexander,,42,,100,0,,0,35.8697,-81.04841
+816,North Carolina,2018-19,Stories Creek Elementary,,,Person,,65,,100,0,,0,36.420942,-79.002437
+817,North Carolina,2018-19,Stough Elementary,,,Wake,,60,,100,0,,1.7,35.835671,-78.692346
+818,North Carolina,2018-19,Success Charter,,,Iredell,,16,,100,0,,0,35.766089,-80.878632
+819,North Carolina,2018-19,Sugar Loaf Elementary,,,Alexander,,42,,100,0,,2.4,35.970435,-81.191744
+820,North Carolina,2018-19,Summerfield Elementary,,,Guilford,,115,,100,0,,0.9,36.1998867,-79.9050772
+821,North Carolina,2018-19,Summit Charter,,,Jackson,,23,,100,0,,8.7,35.1004523,-83.1046619
+822,North Carolina,2018-19,Summit,,,Forsyth,,33,,100,0,,3,36.1234425,-80.2861064
+823,North Carolina,2018-19,Sumner Elementary,,,Guilford,,93,,100,0,,1.1,35.9850207,-79.8308492
+824,North Carolina,2018-19,Sunshine Elementary,,,Rutherford,,28,,100,3.6,,0,35.452224,-81.811779
+825,North Carolina,2018-19,Sycamore Creek Elementary,,,Wake,,178,,100,0,,0.6,35.91811,-78.733601
+826,North Carolina,2018-19,Sycamore Lane Elementary,,,Scotland,,67,,100,0,,0,34.74001,-79.488101
+827,North Carolina,2018-19,T.S. Cooper Elementary,,,Gates,,29,,100,0,,6.9,36.4243192,-76.6081005
+828,North Carolina,2018-19,Tabernacle Christian,,,Catawba,,19,,100,0,,5.3,35.7691,-81.307221
+829,North Carolina,2018-19,Tabernacle Christian,,,Union,,15,,100,0,,6.7,34.98973,-80.497071
+830,North Carolina,2018-19,Taylorsville Elementary,,,Alexander,,35,,100,0,,0,35.920332,-81.183081
+831,North Carolina,2018-19,Temple Baptist,,,Buncombe,,17,,100,0,,47.1,35.5879811,-82.590126
+832,North Carolina,2018-19,Temple Christian,,,Richmond,,12,,100,0,,0,34.92526,-79.775121
+833,North Carolina,2018-19,Terra Ceia Christian,,,Beaufort,,12,,100,0,,0,35.602086,-76.764548
+834,North Carolina,2018-19,Thales Academy,,,Union,,17,,100,0,,5.9,34.992325,-80.7600843
+835,North Carolina,2018-19,Thales Academy of Apex,,,Wake,,73,,100,0,,4.1,35.7449543,-78.8490245
+836,North Carolina,2018-19,The Burlington,,,Alamance,,32,,100,0,,3.1,36.102374,-79.46704
+837,North Carolina,2018-19,The Capitol Encore Academy,,,Cumberland,,58,,100,0,,3.4,35.05349,-78.879001
+838,North Carolina,2018-19,The Exploris,,,Wake,,38,,100,0,,0,35.778594,-78.635491
+839,North Carolina,2018-19,The International School at Gregory,,,New Hanover,,87,,100,0,,2.3,34.231978,-77.935696
+840,North Carolina,2018-19,The John Crosland,,,Mecklenburg,,2,,100,0,,0,35.17989,-80.905061
+841,North Carolina,2018-19,The Learning Center,,,Cherokee,,17,,100,0,,11.8,35.094097,-84.035017
+842,North Carolina,2018-19,The Master's Academy,,,Rutherford,,3,,100,0,,0,35.309215,-81.857669
+843,North Carolina,2018-19,The New Dimensions,,,Burke,,51,,100,0,,0,35.7725787,-81.6875412
+844,North Carolina,2018-19,The Point Christian Academy,,,Sampson,,8,,100,0,,0,35.015138,-78.502514
+845,North Carolina,2018-19,The SCORE Center,,,Rockingham,,1,,100,0,,0,36.363388,-79.679809
+846,North Carolina,2018-19,The Special Children's,,,Forsyth,,12,,100,0,,0,36.154159,-80.333643
+847,North Carolina,2018-19,The Way Christian Academy,,,Henderson,,2,,100,0,,0,35.302266,-82.438688
+848,North Carolina,2018-19,Thomas Jefferson Classical Academy: A Challenge Foundation A,,,Rutherford,,119,,100,0,,2.5,35.274106,-81.797302
+849,North Carolina,2018-19,Thomasville Primary,,,Davidson,,201,,100,0,,0.5,35.8994555,-80.0787454
+850,North Carolina,2018-19,Thunderbird Preparatory,,,Mecklenburg,,15,,100,0,,20,35.345674,-80.7211205
+851,North Carolina,2018-19,Tiller,,,Carteret,,35,,100,0,,5.7,34.735259,-76.634586
+852,North Carolina,2018-19,Timber Drive Elementary,,,Wake,,49,,100,0,,2,35.690107,-78.635786
+853,North Carolina,2018-19,Tommy's Road Elementary,,,Wayne,,111,,100,0,,0,35.4132802,-77.9369917
+854,North Carolina,2018-19,Topsail  Elementary,,,Pender,,88,,100,0,,11.4,34.3953222,-77.6783486
+855,North Carolina,2018-19,Topsail  Montessori,,,Pender,,5,,100,0,,40,34.3480512,-77.7319599
+856,North Carolina,2018-19,Torchlight Academy,,,Wake,,77,,100,0,,2.6,35.827462,-78.606645
+857,North Carolina,2018-19,Torrence Creek Elementary,,,Mecklenburg,,150,,100,0.7,,4.7,35.41215,-80.872686
+858,North Carolina,2018-19,Town Creek Elementary,,,Brunswick,,80,,100,1.3,,2.5,34.139414,-78.087477
+859,North Carolina,2018-19,Tramway Elementary,,,Lee,,114,,100,0,,1.8,35.437933,-79.226363
+860,North Carolina,2018-19,Trenton Elementary,,,Jones,,26,,100,0,,0,35.065732,-77.346981
+861,North Carolina,2018-19,Tri-County Christian,,,Mitchell,,2,,100,0,,0,35.912581,-82.068527
+862,North Carolina,2018-19,Triangle Lake Montessori Elementary,,,Guilford,,96,,100,0,,0,35.9561337,-79.972507
+863,North Carolina,2018-19,Triangle Math and Science Academy,,,Wake,,59,,100,0,,0,35.733158,-78.806284
+864,North Carolina,2018-19,Tril l ium Springs Montessori,,,Mecklenburg,,26,,100,0,,3.8,35.349525,-80.890772
+865,North Carolina,2018-19,Trindale Elementary,,,Randolph,,47,,100,0,,0,35.9012214,-79.9634222
+866,North Carolina,2018-19,Trinity Baptist Academy,,,Davie,,4,,100,0,,0,35.82717,-80.530441
+867,North Carolina,2018-19,Trinity Christian,,,Cumberland,,36,,100,0,,0,35.11215,-78.905111
+868,North Carolina,2018-19,Trinity Christian,,,Rutherford,,12,,100,0,,8.3,35.38001,-81.951341
+869,North Carolina,2018-19,Trinity Elementary,,,Randolph,,71,,100,0,,0,35.8939654,-79.9839603
+870,North Carolina,2018-19,Trinity Episcopal,,,Mecklenburg,,44,,100,0,,2.3,35.224492,-80.83006
+871,North Carolina,2018-19,True Light Shines Academy,,,Wake,,0,,100,0,,0,35.96237,-78.449371
+872,North Carolina,2018-19,Tryon Elementary,,,Gaston,,57,,100,0,,1.8,35.3412504,-81.323079
+873,North Carolina,2018-19,Tryon Elementary,,,Polk,,63,,100,1.6,,9.5,35.214197,-82.243341
+874,North Carolina,2018-19,Turner Creek Elementary,,,Wake,,119,,100,0,,1.7,35.772691,-78.875231
+875,North Carolina,2018-19,Tyro Elementary,,,Davidson,,67,,100,0,,1.5,35.790716,-80.320495
+876,North Carolina,2018-19,Union Day,,,Union,,105,,100,0,,5.7,34.955921,-80.759257
+877,North Carolina,2018-19,Union Grove Christian,,,Davidson,,39,,100,0,,2.6,35.97476,-80.263591
+878,North Carolina,2018-19,Union Hill  Elementary,,,Guilford,,74,,100,0,,0,35.9599114,-79.9501393
+879,North Carolina,2018-19,Union Preparatory Academy at Indian Trail,,,Union,,110,,100,0,,7.3,35.0836835,-80.6482125
+880,North Carolina,2018-19,Unionville Elementary,,,Union,,107,,100,0,,0,35.085575,-80.5090746
+881,North Carolina,2018-19,United Faith Christian Academy,,,Mecklenburg,,7,,100,0,,0,35.090058,-80.774195
+882,North Carolina,2018-19,Unity Christian Academy,,,Beaufort,,11,,100,0,,0,35.422441,-77.079355
+883,North Carolina,2018-19,Unity Classical Charter,,,Mecklenburg,,63,,100,1.6,,4.8,35.143255,-80.9220519
+884,North Carolina,2018-19,Valdese Elementary,,,Burke,,90,,100,0,,0,35.746092,-81.568237
+885,North Carolina,2018-19,Valle Crucis Elementary,,,Watauga,,37,,100,0,,2.7,36.20993,-81.778747
+886,North Carolina,2018-19,Vance Charter,,,Vance,,60,,100,0,,0,36.342469,-78.431946
+887,North Carolina,2018-19,Vance Elementary,,,Buncombe,,50,,100,0,,2,35.577334,-82.60094
+888,North Carolina,2018-19,Vance Elementary,,,Wake,,71,,100,0,,1.4,35.655066,-78.668016
+889,North Carolina,2018-19,Vandalia Christian,,,Guilford,,28,,100,0,,3.6,36.01332,-79.775951
+890,North Carolina,2018-19,Vass-Lakeview Elementary,,,Moore,,79,,100,0,,0,35.250455,-79.29243
+891,North Carolina,2018-19,Vaughan Elementary,,,Warren,,29,,100,0,,0,36.4217,-77.999191
+892,North Carolina,2018-19,Veritas Christian Academy,,,Henderson,,32,,100,0,,3.1,35.43611,-82.499251
+893,North Carolina,2018-19,VERITAS Community School: A Challenge Foundation Academy,,,Mecklenburg,,16,,100,0,,12.5,35.252515,-80.821468
+894,North Carolina,2018-19,Victory Baptist Academy,,,Rockingham,,3,,100,0,,0,36.453013,-79.638968
+895,North Carolina,2018-19,Victory Christian Center,,,Mecklenburg,,15,,100,0,,6.7,35.27325,-80.859731
+896,North Carolina,2018-19,Victory Christian,,,Jackson,,2,,100,0,,0,35.267557,-83.295503
+897,North Carolina,2018-19,Victory Christian,,,Pasquotank,,11,,100,18.2,,0,36.25407,-76.307281
+898,North Carolina,2018-19,Vienna Elementary,,,Forsyth,,147,,100,0.7,,1.4,36.141391,-80.388601
+899,North Carolina,2018-19,Viewmont Elementary,,,Catawba,,71,,100,0,,1.4,35.7529,-81.339107
+900,North Carolina,2018-19,Villa Heights Elementary,,,Mecklenburg,,14,,100,0,,7.1,35.23673,-80.813271
+901,North Carolina,2018-19,Village Christian Academy,,,Cumberland,,41,,100,0,,0,35.0497,-78.939871
+902,North Carolina,2018-19,Vinson-Bynum Elementary,,,Wilson,,57,,100,0,,0,35.720138,-77.940305
+903,North Carolina,2018-19,Virginia Cross Elementary,,,Chatham,,77,,100,0,,0,35.712921,-79.44118
+904,North Carolina,2018-19,Voyager Academy,,,Durham,,107,,100,0,,0,36.04686,-78.893481
+905,North Carolina,2018-19,W M Jenkins Elementary,,,Catawba,,70,,100,0,,4.3,35.780432,-81.321109
+906,North Carolina,2018-19,W R Odell Primary,,,Cabarrus,,245,,100,0,,0.8,35.4385141,-80.728729
+907,North Carolina,2018-19,W.M. Hampton Elementary University Partnership Magnet,,,Guilford,,6,,100,0,,0,36.0668121,-79.7544451
+908,North Carolina,2018-19,Waccamaw,,,Brunswick,,42,,100,0,,2.4,34.064032,-78.515644
+909,North Carolina,2018-19,Wake Christian Academy,,,Wake,,54,,100,0,,5.6,35.70425,-78.670971
+910,North Carolina,2018-19,Wake Forest Elementary,,,Wake,,47,,100,0,,2.1,35.976275,-78.513563
+911,North Carolina,2018-19,Wakelon Elementary,,,Wake,,70,,100,0,,1.4,35.854918,-78.33645
+912,North Carolina,2018-19,Walkertown Elementary,,,Forsyth,,110,,100,0,,0.9,36.172032,-80.150645
+913,North Carolina,2018-19,Wallace Elementary,,,Duplin,,117,,100,0,,0,34.734244,-77.978865
+914,North Carolina,2018-19,Wallburg Elementary,,,Davidson,,144,,100,0,,0.7,36.008714,-80.141181
+915,North Carolina,2018-19,Walnut Cove Elementary,,,Stokes,,37,,100,0,,0,36.32416,-80.150262
+916,North Carolina,2018-19,Walters Grove Baptist Academy,,,Davidson,,2,,100,0,,0,35.698589,-80.067933
+917,North Carolina,2018-19,Walton Academy,,,Pitt,,11,,100,0,,0,35.572698,-77.359075
+918,North Carolina,2018-19,Warren Will iams Elementary Alternative,,,Lee,,0,,100,0,,0,35.4924327,-79.1836824
+919,North Carolina,2018-19,Washington Montessori Public Charter,,,Beaufort,,45,,100,0,,4.4,35.5398036,-76.9795696
+920,North Carolina,2018-19,Washington Street Elementary,,,Richmond,,83,,100,0,,1.2,34.9422894,-79.7358298
+921,North Carolina,2018-19,Water's Edge Vil lage,,,Currituck,,4,,100,0,,25,36.37826,-75.832051
+922,North Carolina,2018-19,Wayne Christian,,,Wayne,,35,,100,2.9,,2.9,35.41875,-77.964971
+923,North Carolina,2018-19,Weavervil le Primary,,,Buncombe,,107,,100,0,,2.8,35.69481,-82.560892
+924,North Carolina,2018-19,Webb Street,,,Gaston,,9,,100,11.1,,0,35.263962,-81.21211
+925,North Carolina,2018-19,Weddington Christian Academy,,,Union,,14,,100,0,,0,35.021888,-80.763719
+926,North Carolina,2018-19,Weddington Hills Elementary,,,Cabarrus,,194,,100,0,,2.1,35.395075,-80.648543
+927,North Carolina,2018-19,Weeksville Elementary,,,Pasquotank,,49,,100,0,,0,36.204516,-76.168134
+928,North Carolina,2018-19,Welcome Elementary,,,Davidson,,86,,100,1.2,,0,35.902995,-80.258111
+929,North Carolina,2018-19,Weldon Elementary Global Academy,,,Halifax,,48,,100,0,,0,36.420954,-77.600364
+930,North Carolina,2018-19,Wells Elementary,,,Wilson,,43,,100,0,,0,35.744552,-77.917836
+931,North Carolina,2018-19,Wentworth Elementary,,,Rockingham,,73,,100,0,,1.4,36.397248,-79.744163
+932,North Carolina,2018-19,West Christian Academy,,,Brunswick,,0,,100,0,,0,33.97031,-78.390421
+933,North Carolina,2018-19,West Clayton Elementary,,,Johnston,,110,,100,0,,1.8,35.643501,-78.470455
+934,North Carolina,2018-19,West Pine Elementary,,,Moore,,109,,100,0,,1.8,35.2277974,-79.5280256
+935,North Carolina,2018-19,West Yadkin Elementary,,,Yadkin,,66,,100,0,,0,36.123,-80.78779
+936,North Carolina,2018-19,Westmoore Elementary,,,Moore,,29,,100,0,,3.4,35.485844,-79.686203
+937,North Carolina,2018-19,Whitaker Elementary,,,Forsyth,,109,,100,0,,0.9,36.106472,-80.286814
+938,North Carolina,2018-19,White Oak Elementary,,,Wake,,85,,100,0,,1.2,35.7809542,-78.9217414
+939,North Carolina,2018-19,White Plains Christian,,,Surry,,0,,100,0,,0,36.45334,-80.626881
+940,North Carolina,2018-19,White Plains Elementary,,,Surry,,50,,100,0,,0,36.448503,-80.666379
+941,North Carolina,2018-19,Whitewater Academy,,,Mecklenburg,,115,,100,0,,0,35.28323,-80.992551
+942,North Carolina,2018-19,Whitnel Elementary,,,Caldwell,,49,,100,0,,4.1,35.89031,-81.521741
+943,North Carolina,2018-19,Wildwood Forest Elementary,,,Wake,,97,,100,0,,0,35.893355,-78.551398
+944,North Carolina,2018-19,Wilkesboro Elementary,,,Wilkes,,70,,100,1.4,,0,36.132821,-81.176704
+945,North Carolina,2018-19,Will iamsburg Elementary,,,Rockingham,,75,,100,0,,0,36.290105,-79.616638
+946,North Carolina,2018-19,Will is Hare Elementary,,,Northampton,,46,,100,0,,2.2,36.478311,-77.188922
+947,North Carolina,2018-19,Willow Springs Elementary,,,Wake,,130,,100,0,,2.3,35.593678,-78.728602
+948,North Carolina,2018-19,Wilmington Christian Academy,,,New Hanover,,69,,100,0,,0,34.26939,-77.871291
+949,North Carolina,2018-19,Wilson Christian Academy,,,Wilson,,31,,100,0,,0,35.73663,-77.976051
+950,North Carolina,2018-19,Windsor Elementary,,,Bertie,,52,,100,0,,1.9,35.987706,-76.921422
+951,North Carolina,2018-19,Wintervil le Charter Academy,,,Pitt,,101,,100,0,,0,35.552913,-77.367632
+952,North Carolina,2018-19,Wittenburg Elementary,,,Alexander,,55,,100,0,,1.8,35.827453,-81.24155
+953,North Carolina,2018-19,Woodland Elementary,,,Person,,36,,100,0,,0,36.461992,-79.082109
+954,North Carolina,2018-19,Woodland Heights Elementary,,,Iredell,,83,,100,0,,6,35.5699008,-80.9229339
+955,North Carolina,2018-19,Woodlawn,,,Iredell,,10,,100,0,,0,35.518944,-80.835449
+956,North Carolina,2018-19,Woodrow Wilson Elementary,,,Rowan,,45,,100,0,,2.2,35.508247,-80.619108
+957,North Carolina,2018-19,Woodson Branch Nature,,,Madison,,13,,100,0,,46.2,35.9004727,-82.7501919
+958,North Carolina,2018-19,Word of Faith Christian Sch.,,,Rutherford,,5,,100,0,,0,35.3407977,-81.9233158
+959,North Carolina,2018-19,Word of God Christian Academy,,,Wake,,12,,100,0,,0,35.746205,-78.597577
+960,North Carolina,2018-19,Wrightsvil le Beach Elem,,,New Hanover,,37,,100,0,,2.7,34.21451,-77.798223
+961,North Carolina,2018-19,WT Griggs Elementary,,,Currituck,,43,,100,0,,2.3,36.279786,-75.89173
+962,North Carolina,2018-19,Yadkin Path Montessori,,,Rowan,,0,,100,0,,0,35.6631791,-80.4371907
+963,North Carolina,2018-19,Yadkin Success Academy,,,Yadkin,,0,,100,0,,0,36.13633,-80.642941
+964,North Carolina,2018-19,Yates Mill  Elementary,,,Wake,,98,,100,0,,0,35.737588,-78.728476
+965,North Carolina,2018-19,Youngsvil le Academy,,,Franklin,,61,,100,0,,0,36.02213,-78.487941
+966,North Carolina,2018-19,Youngsvil le Elementary,,,Franklin,,49,,100,0,,4.1,36.02232,-78.481891
+967,North Carolina,2018-19,Z.E.C.A. School of Arts and Technology,,,Onslow,,23,,100,0,,0,34.75159,-77.413341
+968,North Carolina,2018-19,Eastern Elementary,,,Beaufort,,259,,99.6,0,,0.4,35.545696,-77.034918
+969,North Carolina,2018-19,Polenta Elementary,,,Johnston,,160,,99.4,0,,0.6,35.56792,-78.512362
+970,North Carolina,2018-19,Union Academy Charter,,,Union,,161,,99.4,0,,1.9,34.9907195,-80.5798993
+971,North Carolina,2018-19,E Melvin Honeycutt Elementary,,,Cumberland,,147,,99.3,0,,0.7,35.0010251,-78.992824
+972,North Carolina,2018-19,Eastern Elementary,,,Pitt,,140,,99.3,0,,0.7,35.5963564,-77.3433002
+973,North Carolina,2018-19,Highcroft Elementary,,,Wake,,147,,99.3,0,,0,35.800917,-78.884187
+974,North Carolina,2018-19,Olde Providence Elementary,,,Mecklenburg,,138,,99.3,0,,0,35.110635,-80.798773
+975,North Carolina,2018-19,Riverwood Elementary,,,Johnston,,134,,99.3,0,,1.5,35.69221,-78.422376
+976,North Carolina,2018-19,South Elementary,,,Iredell,,138,,99.3,0,,0.7,35.5624763,-80.8030857
+977,North Carolina,2018-19,Spring Creek Elementary,,,Wayne,,144,,99.3,0,,0,35.2824115,-77.872467
+978,North Carolina,2018-19,Cleveland Elementary,,,Johnston,,118,,99.2,0,,1.7,35.578687,-78.542501
+979,North Carolina,2018-19,Elon Elementary,,,Alamance,,126,,99.2,0,,0,36.1178299,-79.4959064
+980,North Carolina,2018-19,Kensington Elementary,,,Union,,118,,99.2,0,,1.7,34.9446469,-80.7756592
+981,North Carolina,2018-19,Mountain Island Charter,,,Gaston,,126,,99.2,0,,0,35.35846,-80.989271
+982,North Carolina,2018-19,Poplin Elementary,,,Union,,121,,99.2,0,,3.3,35.086029,-80.6000384
+983,North Carolina,2018-19,Randleman Elementary,,,Randolph,,123,,99.2,0,,0.8,35.8096681,-79.8011154
+984,North Carolina,2018-19,Springfield Primary,,,Gaston,,126,,99.2,0,,0,35.3480757,-81.096593
+985,North Carolina,2018-19,West Buncombe Elementary,,,Buncombe,,131,,99.2,0,,1.5,35.617565,-82.621518
+986,North Carolina,2018-19,Apex Elementary,,,Wake,,106,,99.1,2.8,,2.8,35.721048,-78.856964
+987,North Carolina,2018-19,Black Mountain Primary,,,Buncombe,,112,,99.1,0,,3.6,35.620661,-82.317961
+988,North Carolina,2018-19,Cumberland Mills Elementary,,,Cumberland,,110,,99.1,0,,1.8,35.002474,-78.969242
+989,North Carolina,2018-19,First Ward Creative Arts Acad,,,Mecklenburg,,109,,99.1,0,,2.8,35.2291,-80.8323
+990,North Carolina,2018-19,Hayesville Elementary,,,Clay,,112,,99.1,0.9,,4.5,35.042195,-83.814572
+991,North Carolina,2018-19,Holly Ridge Elementary,,,Wake,,109,,99.1,0.9,,0.9,35.654008,-78.816503
+992,North Carolina,2018-19,J. Glenn Edwards Elementary,,,Lee,,115,,99.1,0,,0,35.4392131,-79.1505599
+993,North Carolina,2018-19,"JR Ingram, Jr. Elementary School",,,Lee,,112,,99.1,0,,0,35.465254,-79.2157336
+994,North Carolina,2018-19,Lacy Elementary,,,Wake,,111,,99.1,0,,0,35.814627,-78.681449
+995,North Carolina,2018-19,Manteo Elementary,,,Dare,,106,,99.1,0,,4.7,35.910502,-75.675443
+996,North Carolina,2018-19,Millers Creek Elementary,,,Wilkes,,114,,99.1,0,,0.9,36.20699,-81.244025
+997,North Carolina,2018-19,Moore Elementary,,,Forsyth,,111,,99.1,0,,0.9,36.0877009,-80.2850058
+998,North Carolina,2018-19,Piedmont Community Charter,,,Gaston,,110,,99.1,0,,1.8,35.26013,-81.180941
+999,North Carolina,2018-19,Rogers Lane Elementary,,,Wake,,111,,99.1,0,,0,35.7776613,-78.5470862
+1000,North Carolina,2018-19,Smith Farm Elementary,,,Forsyth,,106,,99.1,0,,0,36.082131,-80.1408389
+1001,North Carolina,2018-19,Stall ings Elementary,,,Union,,113,,99.1,0,,1.8,35.109087,-80.6649921
+1002,North Carolina,2018-19,Stateside Elementary,,,Onslow,,106,,99.1,0.9,,1.9,34.85588,-77.48121
+1003,North Carolina,2018-19,Sun Valley Elementary,,,Union,,113,,99.1,0,,1.8,35.0395131,-80.6479395
+1004,North Carolina,2018-19,Ayden Elementary,,,Pitt,,99,,99,0,,2,35.4751441,-77.4319198
+1005,North Carolina,2018-19,Cornerstone Charter Academy: A Challenge Foundation Academy,,,Guilford,,100,,99,0,,4,36.1115652,-79.9610455
+1006,North Carolina,2018-19,David D. Jones Elementary,,,Guilford,,104,,99,0,,1,36.0554445,-79.7976726
+1007,North Carolina,2018-19,Dixon Road Elementary,,,Johnston,,104,,99,0,,0,35.533112,-78.594347
+1008,North Carolina,2018-19,G W Carver Elementary,,,Edgecombe,,99,,99,0,,1,35.78735,-77.631327
+1009,North Carolina,2018-19,Guilford Elementary,,,Guilford,,97,,99,0,,0,36.2283859,-79.7673544
+1010,North Carolina,2018-19,Lake Norman Charter,,,Mecklenburg,,100,,99,0,,3,35.390651,-80.835749
+1011,North Carolina,2018-19,Lynn Road Elementary,,,Wake,,97,,99,0,,1,35.870837,-78.66839
+1012,North Carolina,2018-19,Murrayville Elementary,,,New Hanover,,100,,99,0,,3,34.298431,-77.851062
+1013,North Carolina,2018-19,Myers Park Traditional Elementary,,,Mecklenburg,,105,,99,0,,1,35.1902091,-80.8343873
+1014,North Carolina,2018-19,New Town Elementary,,,Union,,100,,99,0,,4,34.978182,-80.705454
+1015,North Carolina,2018-19,R. Homer Andrews Elementary,,,Alamance,,102,,99,1,,0,36.0944585,-79.3834238
+1016,North Carolina,2018-19,Rockfish Elementary,,,Cumberland,,101,,99,0,,1,34.971461,-78.95702
+1017,North Carolina,2018-19,South Macon Elementary,,,Macon,,100,,99,0,,1,35.113407,-83.399592
+1018,North Carolina,2018-19,Southwest Primary,,,Catawba,,100,,99,0,,0,35.709563,-81.386919
+1019,North Carolina,2018-19,Troutman Elementary,,,Iredell,,102,,99,0,,2,35.6997305,-80.8855979
+1020,North Carolina,2018-19,Troy Elementary,,,Montgomery,,99,,99,0,,0,35.361671,-79.890349
+1021,North Carolina,2018-19,Union Elementary,,,Brunswick,,100,,99,0,,2,33.958647,-78.45948
+1022,North Carolina,2018-19,Uwharrie Charter Academy,,,Randolph,,99,,99,0,,5.1,35.624112,-79.826223
+1023,North Carolina,2018-19,Walter L Parsley Elementary,,,New Hanover,,103,,99,0,,2.9,34.179767,-77.862961
+1024,North Carolina,2018-19,West End Elementary,,,Moore,,100,,99,0,,1,35.2600296,-79.5807596
+1025,North Carolina,2018-19,White Oak Elementary,,,Carteret,,103,,99,0,,2.9,34.6939705,-77.059646
+1026,North Carolina,2018-19,Williamston Primary,,,Martin,,99,,99,0,,3,35.842349,-77.073234
+1027,North Carolina,2018-19,Winget Park Elementary,,,Mecklenburg,,103,,99,0,,1.9,35.1319391,-81.000942
+1028,North Carolina,2018-19,Belmont Elementary,,,Halifax,,95,,98.9,1.1,,0,36.464778,-77.674851
+1029,North Carolina,2018-19,Bunn Elementary,,,Franklin,,88,,98.9,0,,1.1,35.940923,-78.263837
+1030,North Carolina,2018-19,Chocowinity Primary,,,Beaufort,,91,,98.9,0,,0,35.498655,-77.094732
+1031,North Carolina,2018-19,Claxton Elementary,,,Guilford,,95,,98.9,0,,0,36.1116165,-79.8613675
+1032,North Carolina,2018-19,Corinth-Holders Elementary,,,Johnston,,94,,98.9,0,,1.1,35.733583,-78.299802
+1033,North Carolina,2018-19,East Franklin Elementary,,,Macon,,92,,98.9,0,,0,35.18937,-83.371438
+1034,North Carolina,2018-19,George C Simkins Jr Elementary,,,Guilford,,95,,98.9,0,,1.1,36.044886,-79.7271872
+1035,North Carolina,2018-19,Hillcrest Elementary,,,Alamance,,90,,98.9,0,,0,36.103026,-79.464634
+1036,North Carolina,2018-19,Hobbton Elementary,,,Sampson,,89,,98.9,0,,0,35.180419,-78.32937
+1037,North Carolina,2018-19,Ida Rankin Elementary,,,Gaston,,95,,98.9,0,,3.2,35.297839,-81.020237
+1038,North Carolina,2018-19,Indian Trail  Elementary,,,Union,,94,,98.9,0,,7.4,35.0834067,-80.6483226
+1039,North Carolina,2018-19,Konnoak Elementary,,,Forsyth,,91,,98.9,0,,1.1,36.051213,-80.247407
+1040,North Carolina,2018-19,L J Bell  Elementary,,,Richmond,,91,,98.9,0,,0,34.94718,-79.765869
+1041,North Carolina,2018-19,LaFayette Elementary,,,Harnett,,93,,98.9,0,,0,35.495341,-78.811568
+1042,North Carolina,2018-19,Marvin B. Smith Elementary,,,Alamance,,87,,98.9,0,,2.3,36.077242,-79.478756
+1043,North Carolina,2018-19,Marvin Elementary,,,Union,,87,,98.9,0,,3.4,34.9995437,-80.8088834
+1044,North Carolina,2018-19,Merrick-Moore Elementary,,,Durham,,95,,98.9,0,,0,36.005559,-78.852017
+1045,North Carolina,2018-19,Mills River Elementary,,,Henderson,,92,,98.9,1.1,,1.1,35.376966,-82.566826
+1046,North Carolina,2018-19,North Forest Pines Elementary,,,Wake,,95,,98.9,1.1,,2.1,35.953338,-78.547494
+1047,North Carolina,2018-19,Oak Ridge Elementary,,,Guilford,,91,,98.9,0,,3.3,36.1689862,-79.9933981
+1048,North Carolina,2018-19,Old Town Elementary,,,Forsyth,,87,,98.9,0,,0,36.163891,-80.333094
+1049,North Carolina,2018-19,Rock Springs Elementary,,,Lincoln,,94,,98.9,0,,1.1,35.529106,-81.025375
+1050,North Carolina,2018-19,Saint Stephens Elementary,,,Catawba,,88,,98.9,1.1,,2.3,35.732915,-81.273391
+1051,North Carolina,2018-19,Sandy Ridge Elementary,,,Union,,92,,98.9,0,,3.3,34.9674757,-80.8020012
+1052,North Carolina,2018-19,Silverdale Elementary,,,Onslow,,90,,98.9,0,,0,34.777145,-77.202907
+1053,North Carolina,2018-19,St James Elementary,,,Lincoln,,95,,98.9,0,,3.2,35.485295,-81.016108
+1054,North Carolina,2018-19,Warsaw Elementary,,,Duplin,,90,,98.9,0,,0,34.9962,-78.077253
+1055,North Carolina,2018-19,Weddington Elementary,,,Union,,95,,98.9,0,,4.2,35.0069394,-80.7287701
+1056,North Carolina,2018-19,Wesleyan Christian Academy,,,Guilford,,90,,98.9,0,,3.3,35.98697,-80.001031
+1057,North Carolina,2018-19,Bethware Elementary,,,Cleveland,,82,,98.8,0,,3.7,35.2483189,-81.4139297
+1058,North Carolina,2018-19,Catawba Springs Elementary,,,Lincoln,,86,,98.8,0,,3.5,35.455785,-81.021249
+1059,North Carolina,2018-19,Cedar Fork Elementary,,,Wake,,167,,98.8,0.6,,1.2,35.836773,-78.839632
+1060,North Carolina,2018-19,Dr John Codington Elem,,,New Hanover,,81,,98.8,1.2,,1.2,34.166424,-77.917104
+1061,North Carolina,2018-19,Easley Elementary,,,Durham,,83,,98.8,0,,2.4,36.075652,-78.926797
+1062,North Carolina,2018-19,East Wake Academy,,,Wake,,82,,98.8,0,,1.2,35.831971,-78.30658
+1063,North Carolina,2018-19,Elizabeth Traditional Elem,,,Mecklenburg,,82,,98.8,1.2,,1.2,35.215382,-80.825433
+1064,North Carolina,2018-19,Greensboro Academy,,,Guilford,,84,,98.8,0,,1.2,36.151294,-79.872056
+1065,North Carolina,2018-19,Hazelwood Elementary,,,Haywood,,85,,98.8,0,,0,35.478202,-83.014305
+1066,North Carolina,2018-19,Iotla Valley Elementary,,,Macon,,86,,98.8,0,,0,35.227635,-83.415728
+1067,North Carolina,2018-19,Oak Hill  Elementary,,,Guilford,,81,,98.8,0,,1.2,35.935871,-80.025966
+1068,North Carolina,2018-19,Research Triangle Charter Academy,,,Durham,,86,,98.8,0,,0,35.937004,-78.85085
+1069,North Carolina,2018-19,Rolesvil le Elementary,,,Wake,,86,,98.8,0,,0,35.918559,-78.462554
+1070,North Carolina,2018-19,Stocks Elementary,,,Edgecombe,,85,,98.8,0,,0,35.910808,-77.550887
+1071,North Carolina,2018-19,Swain County West Elementary,,,Swain,,85,,98.8,0,,2.4,35.388042,-83.487778
+1072,North Carolina,2018-19,Township Three Elementary,,,Cleveland,,83,,98.8,1.2,,0,35.217145,-81.531639
+1073,North Carolina,2018-19,W A Bess Elementary,,,Gaston,,85,,98.8,0,,0,35.188228,-81.134073
+1074,North Carolina,2018-19,W D Will iams Elementary,,,Buncombe,,82,,98.8,0,,1.2,35.6046042,-82.4027646
+1075,North Carolina,2018-19,Waxhaw Elementary,,,Union,,84,,98.8,0,,2.4,34.9185057,-80.7334821
+1076,North Carolina,2018-19,West Hoke Elementary,,,Hoke,,85,,98.8,0,,0,34.971382,-79.329702
+1077,North Carolina,2018-19,Whiteville Primary,,,Columbus,,168,,98.8,0.6,,0.6,34.339761,-78.712852
+1078,North Carolina,2018-19,Belvil le Elementary,,,Brunswick,,149,,98.7,0,,0.7,34.221153,-77.984301
+1079,North Carolina,2018-19,Bethany Elementary,,,Rockingham,,80,,98.7,0,,2.5,36.313148,-79.859808
+1080,North Carolina,2018-19,Brogden Primary,,,Wayne,,153,,98.7,0.7,,0,35.273063,-78.035295
+1081,North Carolina,2018-19,College Lakes Elementary,,,Cumberland,,78,,98.7,0,,0,35.127805,-78.899355
+1082,North Carolina,2018-19,Easton Elementary,,,Forsyth,,79,,98.7,1.3,,1.3,36.055949,-80.2229813
+1083,North Carolina,2018-19,Elizabeth Seawell Elementary,,,Orange,,79,,98.7,0,,1.3,35.9405518,-79.0789582
+1084,North Carolina,2018-19,Glenwood Elementary,,,McDowell,,76,,98.7,0,,0,35.6130893,-81.9812778
+1085,North Carolina,2018-19,Hominy Valley Elementary,,,Buncombe,,80,,98.7,0,,5,35.534469,-82.66427
+1086,North Carolina,2018-19,Northwood Elementary,,,Guilford,,80,,98.7,0,,1.3,35.9774773,-80.0367275
+1087,North Carolina,2018-19,Oak View Elementary,,,Guilford,,75,,98.7,0,,0,36.000437,-80.0161127
+1088,North Carolina,2018-19,Swain County East Elementary,,,Swain,,79,,98.7,0,,2.5,35.453581,-83.388359
+1089,North Carolina,2018-19,Wahl Coates Elementary,,,Pitt,,76,,98.7,0,,0,35.6062718,-77.349235
+1090,North Carolina,2018-19,Washington Math & Science Immersion,,,Cleveland,,78,,98.7,0,,0,35.335223,-81.422507
+1091,North Carolina,2018-19,Wilson Preparatory Academy,,,Wilson,,75,,98.7,1.3,,2.7,35.769,-77.921171
+1092,North Carolina,2018-19,Wingate Elementary,,,Union,,77,,98.7,0,,1.3,34.911132,-80.411514
+1093,North Carolina,2018-19,Armstrong Elementary,,,Cumberland,,70,,98.6,0,,0,35.091539,-78.790439
+1094,North Carolina,2018-19,Catawba Elementary,,,Catawba,,69,,98.6,0,,0,35.701928,-81.075385
+1095,North Carolina,2018-19,Coltrane-Webb Elementary,,,Cabarrus,,72,,98.6,0,,0,35.411311,-80.585591
+1096,North Carolina,2018-19,Emma Elementary,,,Buncombe,,69,,98.6,0,,4.3,35.598241,-82.591912
+1097,North Carolina,2018-19,Fairview Elementary,,,Guilford,,70,,98.6,0,,0,35.9473514,-80.0073961
+1098,North Carolina,2018-19,Friedberg Elementary,,,Davidson,,69,,98.6,0,,0,35.992436,-80.2766
+1099,North Carolina,2018-19,Gallberry Farm Elementary,,,Cumberland,,147,,98.6,0,,0.7,34.92039,-78.915035
+1100,North Carolina,2018-19,Herbert Akins Road Elementary,,,Wake,,147,,98.6,1.4,,2,35.6559798,-78.8281484
+1101,North Carolina,2018-19,Holly Springs Elementary,,,Wake,,145,,98.6,0,,3.4,35.656127,-78.828287
+1102,North Carolina,2018-19,J C Sawyer Elementary,,,Pasquotank,,70,,98.6,0,,0,36.289225,-76.211207
+1103,North Carolina,2018-19,La Grange Elementary,,,Lenoir,,70,,98.6,0,,0,35.310512,-77.795246
+1104,North Carolina,2018-19,Lincoln Heights Elementary,,,Wake,,72,,98.6,0,,4.2,35.590107,-78.809332
+1105,North Carolina,2018-19,Martin Millennium Academy,,,Edgecombe,,69,,98.6,0,,1.4,35.90745,-77.536711
+1106,North Carolina,2018-19,Mary C Will iams Elementary,,,New Hanover,,69,,98.6,0,,0,34.138783,-77.913765
+1107,North Carolina,2018-19,Montclaire Elementary,,,Mecklenburg,,70,,98.6,0,,0,35.15225,-80.867255
+1108,North Carolina,2018-19,New Hope Elementary,,,Wilson,,73,,98.6,0,,0,35.782153,-77.951978
+1109,North Carolina,2018-19,Piney Grove Elementary,,,Mecklenburg,,142,,98.6,0,,1.4,35.173065,-80.731053
+1110,North Carolina,2018-19,Pleasant Ridge Elementary,,,Gaston,,144,,98.6,0,,0.7,35.2502441,-81.2057571
+1111,North Carolina,2018-19,Powell Elementary,,,Wake,,71,,98.6,0,,2.8,35.795573,-78.603221
+1112,North Carolina,2018-19,Providence Spring Elementary,,,Mecklenburg,,139,,98.6,0,,1.4,35.072778,-80.769808
+1113,North Carolina,2018-19,Rockfish Hoke Elementary,,,Hoke,,142,,98.6,0,,2.1,34.995146,-79.08652
+1114,North Carolina,2018-19,Shepherd Elementary,,,Iredell,,73,,98.6,0,,1.4,35.6354352,-80.8299629
+1115,North Carolina,2018-19,Underwood Elementary,,,Wake,,70,,98.6,0,,0,35.802346,-78.645115
+1116,North Carolina,2018-19,Will iam R. Davie Elementary,,,Davie,,74,,98.6,0,,1.4,35.980362,-80.6226898
+1117,North Carolina,2018-19,Battleground Elementary,,,Lincoln,,66,,98.5,0,,1.5,35.4780494,-81.2636703
+1118,North Carolina,2018-19,Coats Elementary,,,Harnett,,131,,98.5,0,,1.5,35.400225,-78.679706
+1119,North Carolina,2018-19,Coddle Creek Elementary,,,Iredell,,130,,98.5,0.8,,0.8,35.5176781,-80.8123799
+1120,North Carolina,2018-19,Dudley Shoals Elementary,,,Caldwell,,65,,98.5,0,,4.6,35.85618,-81.392467
+1121,North Carolina,2018-19,I. Ell is Johnson Elementary,,,Scotland,,68,,98.5,0,,0,34.7821652,-79.4455061
+1122,North Carolina,2018-19,Jefferson Elementary,,,Cleveland,,66,,98.5,1.5,,1.5,35.302079,-81.512411
+1123,North Carolina,2018-19,Richland Creek Elementary,,,Wake,,65,,98.5,1.5,,0,36.0061169,-78.5165901
+1124,North Carolina,2018-19,The College Preparatory and Leadership Academy of High Point,,,Guilford,,66,,98.5,0,,1.5,35.9682794,-79.923477
+1125,North Carolina,2018-19,Trent Park Elementray,,,Craven,,67,,98.5,0,,0,35.109824,-77.080557
+1126,North Carolina,2018-19,Upward Elementary,,,Henderson,,68,,98.5,0,,1.5,35.295005,-82.394113
+1127,North Carolina,2018-19,West Elementary,,,Cleveland,,67,,98.5,0,,0,35.239732,-81.35146
+1128,North Carolina,2018-19,Westwood Elementary,,,Ashe,,67,,98.5,0,,1.5,36.364545,-81.508812
+1129,North Carolina,2018-19,Cumberland Road Elementary,,,Cumberland,,64,,98.4,0,,1.6,35.021072,-78.911123
+1130,North Carolina,2018-19,Dabney Elementary,,,Vance,,64,,98.4,0,,1.6,36.3309516,-78.4817415
+1131,North Carolina,2018-19,Deep Branch Elementary,,,Robeson,,62,,98.4,0,,0,34.631042,-79.145637
+1132,North Carolina,2018-19,Franciscan Catholic,,,Wake,,62,,98.4,1.6,,0,35.9185056,-78.7408011
+1133,North Carolina,2018-19,Franklin Academy,,,Wake,,122,,98.4,0.8,,0.8,35.98517,-78.493701
+1134,North Carolina,2018-19,Haw Creek Elementary,,,Buncombe,,64,,98.4,0,,3.1,35.594554,-82.505355
+1135,North Carolina,2018-19,James W Smith Elementary,,,Craven,,62,,98.4,0,,0,35.250142,-77.289532
+1136,North Carolina,2018-19,Lincoln Charter,,,Lincoln,,129,,98.4,0,,4.7,35.486665,-80.997862
+1137,North Carolina,2018-19,Louisburg Elementary,,,Franklin,,63,,98.4,0,,0,36.078555,-78.300885
+1138,North Carolina,2018-19,Lucama Elementary,,,Wilson,,62,,98.4,0,,1.6,35.641371,-78.001503
+1139,North Carolina,2018-19,Morehead City Primary,,,Carteret,,122,,98.4,0.8,,0,34.7337235,-76.7778329
+1140,North Carolina,2018-19,Norris S Childers Elementary,,,Lincoln,,61,,98.4,0,,0,35.4816511,-81.3173915
+1141,North Carolina,2018-19,North Rowan Elementary,,,Rowan,,61,,98.4,0,,0,35.7026082,-80.4282616
+1142,North Carolina,2018-19,Palisades Park Elementary,,,Mecklenburg,,122,,98.4,0,,0.8,35.093561,-81.02592
+1143,North Carolina,2018-19,Pathways Elementary,,,Orange,,61,,98.4,1.6,,0,36.110685,-79.103821
+1144,North Carolina,2018-19,Pine Level Elementary,,,Johnston,,62,,98.4,0,,0,35.512843,-78.248242
+1145,North Carolina,2018-19,Powhatan Elementary,,,Johnston,,122,,98.4,0,,0.8,35.627261,-78.391492
+1146,North Carolina,2018-19,Rocky River Elementary,,,Cabarrus,,123,,98.4,0.8,,1.6,35.342335,-80.597983
+1147,North Carolina,2018-19,Rose Hill -Magnolia Elementary,,,Duplin,,123,,98.4,0,,0,34.850089,-78.023324
+1148,North Carolina,2018-19,Springmore Elementary,,,Cleveland,,64,,98.4,0,,1.6,35.276049,-81.667244
+1149,North Carolina,2018-19,Union Elementary,,,Robeson,,64,,98.4,0,,0,34.635205,-79.246763
+1150,North Carolina,2018-19,Wadesboro Primary,,,Anson,,61,,98.4,0,,0,34.941983,-80.0577
+1151,North Carolina,2018-19,Wagram Elementary,,,Scotland,,61,,98.4,0,,0,34.88389,-79.367611
+1152,North Carolina,2018-19,Webb A. Murray Elementary,,,Catawba,,62,,98.4,0,,0,35.7393959,-81.2510228
+1153,North Carolina,2018-19,Calvin Wiley Elementary,,,Guilford,,60,,98.3,0,,0,36.0486215,-79.8024983
+1154,North Carolina,2018-19,Donna L Loflin Elementary,,,Randolph,,60,,98.3,0,,0,35.7017105,-79.819592
+1155,North Carolina,2018-19,Hunters Creek Elementary,,,Onslow,,116,,98.3,0,,0,34.742202,-77.335132
+1156,North Carolina,2018-19,King Elementary,,,Stokes,,60,,98.3,1.7,,0,36.278774,-80.353871
+1157,North Carolina,2018-19,Magnolia Elementary,,,Robeson,,58,,98.3,0,,0,34.711636,-79.003492
+1158,North Carolina,2018-19,Maiden Elementary,,,Catawba,,58,,98.3,0,,0,35.578284,-81.210843
+1159,North Carolina,2018-19,Northside K-8,,,Warren,,59,,98.3,0,,0,36.456516,-78.184698
+1160,North Carolina,2018-19,Plain View Elementary,,,Sampson,,60,,98.3,1.7,,0,35.236512,-78.539124
+1161,North Carolina,2018-19,River Bend Elementary,,,Wake,,116,,98.3,0,,0,35.86466,-78.535931
+1162,North Carolina,2018-19,Rocky River Elementary,,,Iredell,,121,,98.3,0,,1.7,35.5494584,-80.7825743
+1163,North Carolina,2018-19,Scurlock Elementary,,,Hoke,,116,,98.3,0,,0.9,34.986342,-79.178262
+1164,North Carolina,2018-19,Union Elementary,,,Cleveland,,59,,98.3,0,,0,35.389656,-81.619225
+1165,North Carolina,2018-19,Winstead Elementary,,,Wilson,,60,,98.3,0,,0,35.712601,-77.931075
+1166,North Carolina,2018-19,Woodleaf Elementary,,,Rowan,,59,,98.3,0,,1.7,35.7275785,-80.6776649
+1167,North Carolina,2018-19,Bridgeton Elementary,,,Craven,,56,,98.2,0,,1.8,35.154579,-77.042214
+1168,North Carolina,2018-19,Burton Elementary,,,Durham,,55,,98.2,0,,0,35.979256,-78.887718
+1169,North Carolina,2018-19,G W  Elementary,,,Edgecombe,,113,,98.2,0,,0,35.8826226,-77.7196558
+1170,North Carolina,2018-19,Green Ridge Elementary,,,Montgomery,,55,,98.2,0,,0,35.339874,-79.782655
+1171,North Carolina,2018-19,Leesville Road Elementary,,,Wake,,113,,98.2,0,,0.9,35.88761,-78.718674
+1172,North Carolina,2018-19,Margaret Will is Elementary,,,Cumberland,,55,,98.2,0,,1.8,35.071177,-78.903976
+1173,North Carolina,2018-19,Marshville Elementary,,,Union,,55,,98.2,0,,1.8,34.911132,-80.411514
+1174,North Carolina,2018-19,Movement Charter,,,Mecklenburg,,113,,98.2,0,,1.8,35.23708,-80.884841
+1175,North Carolina,2018-19,North Buncombe Elementary,,,Buncombe,,112,,98.2,0,,0.9,35.745739,-82.568016
+1176,North Carolina,2018-19,Pilot Elementary,,,Davidson,,55,,98.2,0,,0,35.878904,-80.134276
+1177,North Carolina,2018-19,Ramseur Elementary,,,Randolph,,56,,98.2,0,,0,35.7394963,-79.6534615
+1178,North Carolina,2018-19,Royal Oaks Elementary,,,Cabarrus,,56,,98.2,0,,0,35.466396,-80.612986
+1179,North Carolina,2018-19,Sand Ridge Elementary,,,Onslow,,111,,98.2,0,,0.9,34.663541,-77.201291
+1180,North Carolina,2018-19,Siler City Elementary,,,Chatham,,110,,98.2,0,,0.9,35.727156,-79.492947
+1181,North Carolina,2018-19,W A Young Elementary,,,Burke,,55,,98.2,0,,0,35.718959,-81.766158
+1182,North Carolina,2018-19,Alderman Road Elementary,,,Cumberland,,106,,98.1,0,,1.9,34.895249,-78.860336
+1183,North Carolina,2018-19,Atkinson Elementary,,,Henderson,,53,,98.1,0,,3.8,35.283964,-82.492667
+1184,North Carolina,2018-19,Cherokee Central,,,Swain,,108,,98.1,0,,0,35.5127895,-83.2976301
+1185,North Carolina,2018-19,Cullowhee Valley,,,Jackson,,53,,98.1,0,,5.7,35.293324,-83.181081
+1186,North Carolina,2018-19,E E Miller Elementary,,,Cumberland,,107,,98.1,0,,0.9,35.054387,-79.044064
+1187,North Carolina,2018-19,Edwin A Alderman Elementary,,,Guilford,,54,,98.1,0,,0,36.0402338,-79.8679836
+1188,North Carolina,2018-19,Hallsboro-Artesia Elementary,,,Columbus,,54,,98.1,0,,0,34.31123,-78.5791
+1189,North Carolina,2018-19,Mt. Vernon-Ruth Elementary,,,Rutherford,,52,,98.1,0,,0,35.411681,-81.912474
+1190,North Carolina,2018-19,Scotts Elementary,,,Iredell,,53,,98.1,0,,1.9,35.8434598,-81.0136943
+1191,North Carolina,2018-19,Spring Hope Elementary,,,Nash,,54,,98.1,0,,0,35.950975,-78.109349
+1192,North Carolina,2018-19,Stovall-Shaw Elementary,,,Granville,,53,,98.1,0,,0,36.438252,-78.576565
+1193,North Carolina,2018-19,Valmead Elementary,,,Caldwell,,53,,98.1,0,,0,35.937205,-81.540312
+1194,North Carolina,2018-19,West View Elementary,,,Johnston,,156,,98.1,0,,0,35.594906,-78.564174
+1195,North Carolina,2018-19,Winstead Avenue Elementary,,,Nash,,162,,98.1,0,,0.6,35.951319,-77.846824
+1196,North Carolina,2018-19,Acme Delco Elementary,,,Columbus,,51,,98,0,,0,34.347773,-78.254261
+1197,North Carolina,2018-19,Brinson Memorial Elementary,,,Craven,,101,,98,0,,0,35.068031,-77.017483
+1198,North Carolina,2018-19,Carroll  T Overton Elementary,,,Rowan,,50,,98,0,,2,35.689549,-80.4741575
+1199,North Carolina,2018-19,Elizabethtown Primary,,,Bladen,,99,,98,0,,0,34.621288,-78.604522
+1200,North Carolina,2018-19,Grover Elementary,,,Cleveland,,51,,98,0,,0,35.17416,-81.446811
+1201,North Carolina,2018-19,Havelock Elementary,,,Craven,,49,,98,0,,0,34.877494,-76.90036
+1202,North Carolina,2018-19,Heritage Elementary School of Richlands,,,Onslow,,153,,98,0,,1.3,34.8871061,-77.5440053
+1203,North Carolina,2018-19,N B Mills Elementary,,,Iredell,,50,,98,0,,2,35.7881576,-80.9112357
+1204,North Carolina,2018-19,North Ridge Elementary,,,Wake,,101,,98,0,,0,35.88118,-78.622834
+1205,North Carolina,2018-19,Parkton Elementary,,,Robeson,,50,,98,0,,0,34.904051,-79.0065
+1206,North Carolina,2018-19,Partnership Elementary,,,Wake,,51,,98,0,,2,35.789713,-78.647721
+1207,North Carolina,2018-19,Pinkston Street Elementary,,,Vance,,50,,98,0,,0,36.324727,-78.3866947
+1208,North Carolina,2018-19,Pumpkin Center Primary,,,Lincoln,,99,,98,0,,1,35.517357,-81.135727
+1209,North Carolina,2018-19,Shining Rock Classical Academy: CFA,,,Haywood,,49,,98,0,,2,35.52355,-82.983241
+1210,North Carolina,2018-19,Sunset Park Elementary,,,New Hanover,,49,,98,0,,0,34.207748,-77.94153
+1211,North Carolina,2018-19,Triad Math and Science Academy,,,Guilford,,99,,98,0,,2,36.030691,-79.808927
+1212,North Carolina,2018-19,W H Robinson Elementary,,,Pitt,,101,,98,0,,1,35.5334835,-77.3991323
+1213,North Carolina,2018-19,West Rockingham Elementary,,,Richmond,,51,,98,0,,0,34.944962,-79.789047
+1214,North Carolina,2018-19,Wiley Elementary,,,Wake,,51,,98,0,,2,35.78507,-78.651485
+1215,North Carolina,2018-19,Benvenue Elementary,,,Nash,,97,,97.9,0,,0,35.976359,-77.838463
+1216,North Carolina,2018-19,Carl A Furr Elementary,,,Cabarrus,,96,,97.9,0,,2.1,35.376866,-80.685558
+1217,North Carolina,2018-19,Celeste Henkel Elementary,,,Iredell,,94,,97.9,0,,2.1,35.7551936,-80.9756552
+1218,North Carolina,2018-19,Central Elementary,,,Rockingham,,96,,97.9,0,,0,36.504699,-79.730685
+1219,North Carolina,2018-19,Etowah Elementary,,,Henderson,,47,,97.9,0,,6.4,35.315158,-82.588041
+1220,North Carolina,2018-19,Garrett Elementary,,,Alamance,,95,,97.9,0,,0,36.061554,-79.297392
+1221,North Carolina,2018-19,Millbridge Elementary,,,Rowan,,97,,97.9,1,,0,35.6017299,-80.6559482
+1222,North Carolina,2018-19,Pines Elementary,,,Washington,,94,,97.9,0,,1.1,35.873265,-76.692682
+1223,North Carolina,2018-19,Shady Brook Elementary,,,Cabarrus,,48,,97.9,0,,0,35.474206,-80.641582
+1224,North Carolina,2018-19,Wilton Elementary,,,Granville,,48,,97.9,0,,8.3,36.145464,-78.58121
+1225,North Carolina,2018-19,Baucom Elementary,,,Wake,,90,,97.8,0,,0,35.736987,-78.854321
+1226,North Carolina,2018-19,Brooks Global Studies,,,Guilford,,45,,97.8,0,,0,36.0874938,-79.8144926
+1227,North Carolina,2018-19,Charles C. Bell  Elementary,,,Buncombe,,45,,97.8,0,,4.4,35.589248,-82.492847
+1228,North Carolina,2018-19,Dixon Elementary,,,Onslow,,225,,97.8,0,,1.3,34.55981,-77.443604
+1229,North Carolina,2018-19,Eastfield Global Magnet,,,McDowell,,45,,97.8,0,,2.2,35.686277,-81.986181
+1230,North Carolina,2018-19,Farmer Elementary,,,Randolph,,45,,97.8,0,,2.2,35.6415882,-79.9708235
+1231,North Carolina,2018-19,Gibsonville Elementary,,,Guilford,,89,,97.8,0,,0,36.1098605,-79.5431328
+1232,North Carolina,2018-19,Laurel Mill  Elementary,,,Franklin,,45,,97.8,0,,0,36.191516,-78.172892
+1233,North Carolina,2018-19,Mount Ulla Elementary,,,Rowan,,45,,97.8,0,,0,35.698715,-80.6439789
+1234,North Carolina,2018-19,Parkwood Elementary,,,Durham,,91,,97.8,0,,1.1,35.891447,-78.906352
+1235,North Carolina,2018-19,Scotts Ridge Elementary,,,Wake,,91,,97.8,0,,2.2,35.7217,-78.883001
+1236,North Carolina,2018-19,South Newton Elementary,,,Catawba,,45,,97.8,0,,2.2,35.65529,-81.228881
+1237,North Carolina,2018-19,South Smithfield Elementary,,,Johnston,,89,,97.8,0,,0,35.499241,-78.358722
+1238,North Carolina,2018-19,St. Gabriel Catholic,,,Mecklenburg,,92,,97.8,0,,0,35.1694705,-80.807672
+1239,North Carolina,2018-19,Tabernacle Elementary,,,Randolph,,45,,97.8,0,,0,35.7325974,-79.9666386
+1240,North Carolina,2018-19,The Academy of Moore County,,,Moore,,91,,97.8,0,,0,35.09401,-79.429111
+1241,North Carolina,2018-19,Vandora Springs Elementary,,,Wake,,93,,97.8,0,,0,35.665142,-78.588885
+1242,North Carolina,2018-19,Clement Elementary,,,Sampson,,43,,97.7,0,,0,35.105249,-78.589619
+1243,North Carolina,2018-19,Grifton,,,Pitt,,43,,97.7,2.3,,0,35.3722711,-77.4319478
+1244,North Carolina,2018-19,McGee's Crossroads Elementary,,,Johnston,,130,,97.7,0,,0.8,35.513214,-78.577203
+1245,North Carolina,2018-19,Robbinsvil le Elementary,,,Graham,,86,,97.7,0,,1.2,35.326492,-83.808283
+1246,North Carolina,2018-19,Statesvil le Road Elementary,,,Mecklenburg,,88,,97.7,0,,4.5,35.29595,-80.847521
+1247,North Carolina,2018-19,Summerfield Charter Academy,,,Guilford,,88,,97.7,0,,2.3,36.21787,-79.912721
+1248,North Carolina,2018-19,Sylvan Elementary,,,Alamance,,43,,97.7,0,,2.3,35.87998,-79.436633
+1249,North Carolina,2018-19,Alma O Easom Elementary,,,Cumberland,,165,,97.6,0,,0.6,35.060844,-78.908476
+1250,North Carolina,2018-19,Benhaven Elementary,,,Harnett,,123,,97.6,0.8,,0.8,35.359453,-79.093522
+1251,North Carolina,2018-19,Briarcliff Elementary,,,Wake,,84,,97.6,0,,0,35.769071,-78.786997
+1252,North Carolina,2018-19,Buckland Elementary,,,Gates,,41,,97.6,0,,0,36.4680634,-76.760503
+1253,North Carolina,2018-19,Cleveland Elementary,,,Rowan,,42,,97.6,0,,0,35.7275785,-80.6776649
+1254,North Carolina,2018-19,East Rockingham Elementary,,,Richmond,,83,,97.6,0,,0,34.8938929,-79.7509404
+1255,North Carolina,2018-19,Eastway Elementary,,,Durham,,83,,97.6,0,,0,35.991079,-78.884982
+1256,North Carolina,2018-19,Efland Cheeks Elementary,,,Orange,,85,,97.6,0,,1.2,36.083552,-79.188773
+1257,North Carolina,2018-19,John W Jones Elementary,,,Wilson,,82,,97.6,0,,0,35.72345,-77.98117
+1258,North Carolina,2018-19,Marion Elementary,,,Cleveland,,42,,97.6,0,,0,35.28853,-81.525012
+1259,North Carolina,2018-19,Nags Head Elementary,,,Dare,,85,,97.6,1.2,,1.2,35.975804,-75.63868
+1260,North Carolina,2018-19,Northeast Elementary,,,Lenoir,,84,,97.6,0,,0,35.280855,-77.561049
+1261,North Carolina,2018-19,Parkwood Elementary,,,Onslow,,84,,97.6,0,,1.2,34.780085,-77.44053
+1262,North Carolina,2018-19,Piney Grove Elementary,,,Robeson,,84,,97.6,0,,0,34.686302,-79.038271
+1263,North Carolina,2018-19,Sardis Elementary,,,Union,,83,,97.6,0,,0,35.0707904,-80.6210013
+1264,North Carolina,2018-19,Southwest Elementary,,,Onslow,,169,,97.6,0,,1.2,34.732657,-77.52602
+1265,North Carolina,2018-19,Tanglewood Elementary,,,Robeson,,125,,97.6,0.8,,0.8,34.638415,-79.012685
+1266,North Carolina,2018-19,Tyrrell  Elementary,,,Tyrrell,,42,,97.6,0,,0,35.913872,-76.242091
+1267,North Carolina,2018-19,Vick Elementary,,,Wilson,,41,,97.6,0,,0,35.720122,-77.896737
+1268,North Carolina,2018-19,Western Union Elementary,,,Union,,83,,97.6,0,,2.4,34.9252772,-80.6909208
+1269,North Carolina,2018-19,Wolf Meadow Elementary,,,Cabarrus,,82,,97.6,0,,3.7,35.376246,-80.626729
+1270,North Carolina,2018-19,Arapahoe Charter,,,Pamlico,,40,,97.5,2.5,,0,35.012253,-76.821202
+1271,North Carolina,2018-19,Carr Elementary,,,Gaston,,120,,97.5,0,,0,35.3128577,-81.1835776
+1272,North Carolina,2018-19,East Robeson Primary,,,Robeson,,158,,97.5,0,,0.6,34.624698,-78.923945
+1273,North Carolina,2018-19,Leaksvil le-Spray Elementary,,,Rockingham,,80,,97.5,0,,0,36.492657,-79.758058
+1274,North Carolina,2018-19,Millbrook Elementary,,,Wake,,79,,97.5,0,,0,35.849406,-78.610352
+1275,North Carolina,2018-19,Parkside Elementary,,,Mecklenburg,,40,,97.5,0,,2.5,35.3608043,-80.7610714
+1276,North Carolina,2018-19,Rock Rest Elementary,,,Union,,81,,97.5,0,,0,34.9573641,-80.4867048
+1277,North Carolina,2018-19,Stokesdale Elementary,,,Guilford,,79,,97.5,0,,0,36.235806,-79.9794919
+1278,North Carolina,2018-19,Brassfield Road Elementary,,,Wake,,117,,97.4,0,,0.9,35.933593,-78.628925
+1279,North Carolina,2018-19,Clyde Erwin Elementary,,,Onslow,,76,,97.4,0,,0,34.755849,-77.412467
+1280,North Carolina,2018-19,J B Page Primary,,,Gaston,,155,,97.4,0,,0,35.234733,-81.031626
+1281,North Carolina,2018-19,Janie C Hargrave Elem,,,Robeson,,39,,97.4,0,,2.6,34.613797,-78.987094
+1282,North Carolina,2018-19,L B Yancey Elementary,,,Vance,,39,,97.4,0,,0,36.3065981,-78.4023796
+1283,North Carolina,2018-19,Loyd E Auman Elementary,,,Cumberland,,78,,97.4,0,,1.3,35.038001,-79.010934
+1284,North Carolina,2018-19,Midway Elementary,,,Sampson,,78,,97.4,0,,0,35.175264,-78.478897
+1285,North Carolina,2018-19,Northwoods Elementary,,,Onslow,,76,,97.4,0,,0,34.772425,-77.427645
+1286,North Carolina,2018-19,Rex-Rennert Elementary,,,Robeson,,77,,97.4,0,,1.3,34.843784,-79.088801
+1287,North Carolina,2018-19,Union Elementary,,,Lincoln,,38,,97.4,0,,0,35.51743,-81.368518
+1288,North Carolina,2018-19,Washington Elementary,,,Wake,,78,,97.4,0,,1.3,35.767751,-78.643197
+1289,North Carolina,2018-19,Allenbrook Elementary,,,Mecklenburg,,37,,97.3,0,,2.7,35.261753,-80.91503
+1290,North Carolina,2018-19,Anderson Creek Primary,,,Harnett,,149,,97.3,0,,0,35.281828,-78.917207
+1291,North Carolina,2018-19,Carolina Beach Elementary,,,New Hanover,,75,,97.3,0,,8,34.031,-77.899777
+1292,North Carolina,2018-19,Lowell Elementary,,,Gaston,,74,,97.3,0,,0,35.2783169,-81.090556
+1293,North Carolina,2018-19,Malpass Corner Elementary,,,Pender,,74,,97.3,0,,2.7,34.504803,-78.055049
+1294,North Carolina,2018-19,Morehead Montessori,,,Durham,,37,,97.3,0,,0,35.988758,-78.913724
+1295,North Carolina,2018-19,Neuse Charter,,,Johnston,,74,,97.3,0,,0,35.535988,-78.290987
+1296,North Carolina,2018-19,Ponderosa Elementary,,,Cumberland,,74,,97.3,0,,1.4,35.086986,-78.98743
+1297,North Carolina,2018-19,Brevard Elementary,,,Transylvania,,71,,97.2,0,,5.6,35.22517,-82.722177
+1298,North Carolina,2018-19,Bruce Drysdale Elementary,,,Henderson,,71,,97.2,0,,1.4,35.322293,-82.461048
+1299,North Carolina,2018-19,Franklin Elementary,,,Surry,,71,,97.2,0,,0,36.489405,-80.6311861
+1300,North Carolina,2018-19,Frederick Douglass Elementary,,,Wilson,,72,,97.2,0,,0,35.8068602,-77.8708793
+1301,North Carolina,2018-19,Gardners Elementary,,,Wilson,,36,,97.2,0,,0,35.743463,-77.782447
+1302,North Carolina,2018-19,J W Seabrook Elementary,,,Cumberland,,36,,97.2,0,,2.8,34.986843,-78.755149
+1303,North Carolina,2018-19,Living Water Christian,,,Onslow,,36,,97.2,0,,5.6,34.8078699,-77.4467902
+1304,North Carolina,2018-19,Meadowbrook Elementary,,,Haywood,,36,,97.2,0,,0,35.514696,-82.826846
+1305,North Carolina,2018-19,North Topsail  Elementary,,,Pender,,72,,97.2,0,,0,34.399346,-77.636306
+1306,North Carolina,2018-19,Norwood Elementary,,,Stanly,,71,,97.2,0,,0,35.22115,-80.1160979
+1307,North Carolina,2018-19,Charlotte Preparatory,,,Mecklenburg,,34,,97.1,0,,2.9,35.14695,-80.769951
+1308,North Carolina,2018-19,Courtney Elementary,,,Yadkin,,34,,97.1,0,,0,36.066919,-80.603229
+1309,North Carolina,2018-19,Don D Steed Elementary,,,Hoke,,102,,97.1,1,,1,34.981601,-79.160138
+1310,North Carolina,2018-19,Elizabeth Hanford Dole Elementary,,,Rowan,,69,,97.1,0,,0,35.669775,-80.425493
+1311,North Carolina,2018-19,Germanton Elementary,,,Stokes,,34,,97.1,0,,0,36.297525,-80.234297
+1312,North Carolina,2018-19,Hawk Eye Elementary,,,Hoke,,68,,97.1,0,,0,34.914944,-79.264836
+1313,North Carolina,2018-19,Huntersvil le Elementary,,,Mecklenburg,,138,,97.1,0,,4.3,35.411572,-80.846933
+1314,North Carolina,2018-19,Jamestown Elementary,,,Guilford,,70,,97.1,0,,0,35.9936668,-79.9395566
+1315,North Carolina,2018-19,Mary McArthur Elementary,,,Cumberland,,70,,97.1,0,,1.4,35.025165,-78.941238
+1316,North Carolina,2018-19,P W Moore Elementary,,,Pasquotank,,69,,97.1,0,,0,36.289591,-76.228613
+1317,North Carolina,2018-19,Perquimans Central,,,Perquimans,,140,,97.1,0.7,,0.7,36.214304,-76.460854
+1318,North Carolina,2018-19,Pine Valley Elementary,,,New Hanover,,102,,97.1,0,,1,34.17895,-77.899802
+1319,North Carolina,2018-19,Stoneville Elementary,,,Rockingham,,68,,97.1,0,,0,36.463738,-79.906131
+1320,North Carolina,2018-19,Third Creek Elementary,,,Iredell,,68,,97.1,0,,0,35.7554828,-80.8536639
+1321,North Carolina,2018-19,Wesley Chapel Elementary,,,Union,,70,,97.1,0,,1.4,35.0053355,-80.6729826
+1322,North Carolina,2018-19,Winecoff Elementary,,,Cabarrus,,136,,97.1,0.7,,0.7,35.446971,-80.618469
+1323,North Carolina,2018-19,Bearfield Primary,,,Hertford,,132,,97,0,,0,36.2963342,-76.9934674
+1324,North Carolina,2018-19,Boone Trail  Elementary,,,Harnett,,100,,97,0,,0,35.399962,-78.950675
+1325,North Carolina,2018-19,Bradley Creek Elementary,,,New Hanover,,66,,97,0,,3,34.197892,-77.845224
+1326,North Carolina,2018-19,Carver Elementary,,,Wake,,67,,97,0,,0,35.791201,-78.387193
+1327,North Carolina,2018-19,First Wesleyan Christian,,,Gaston,,33,,97,0,,3,35.261558,-81.167198
+1328,North Carolina,2018-19,Lead Mine Elementary,,,Wake,,99,,97,0,,2,35.891613,-78.65641
+1329,North Carolina,2018-19,North Harnett Primary,,,Harnett,,132,,97,0,,1.5,35.478276,-78.779626
+1330,North Carolina,2018-19,Swift Creek Elementary,,,Wake,,100,,97,0,,0,35.745029,-78.733637
+1331,North Carolina,2018-19,Union Elementary,,,Union,,33,,97,0,,0,34.6355707,-79.2469018
+1332,North Carolina,2018-19,West Marion Elementary,,,McDowell,,67,,97,0,,1.5,35.6209016,-82.0604747
+1333,North Carolina,2018-19,Colfax Elementary,,,Guilford,,98,,96.9,0,,0,36.108247,-80.007067
+1334,North Carolina,2018-19,Fayettevil le Academy,,,Cumberland,,32,,96.9,0,,0,35.06336,-78.941381
+1335,North Carolina,2018-19,Franklinvil le Elementary,,,Randolph,,64,,96.9,0,,0,35.747311,-79.693213
+1336,North Carolina,2018-19,Gibson Elementary,,,Forsyth,,98,,96.9,0,,1,36.186964,-80.311105
+1337,North Carolina,2018-19,Isaac Dickson Elementary,,,Buncombe,,65,,96.9,0,,10.8,35.595235,-82.564707
+1338,North Carolina,2018-19,Joseph W Grier Academy,,,Mecklenburg,,127,,96.9,0,,0,35.267379,-80.725387
+1339,North Carolina,2018-19,Margaret Hearne Elementary,,,Wilson,,65,,96.9,0,,0,35.732498,-77.90912
+1340,North Carolina,2018-19,Prospect Elementary,,,Union,,64,,96.9,0,,0,34.8602523,-80.6139125
+1341,North Carolina,2018-19,Seagrove Elementary,,,Randolph,,64,,96.9,0,,1.6,35.5449976,-79.7757473
+1342,North Carolina,2018-19,Selma Elementary,,,Johnston,,130,,96.9,0,,0,35.541018,-78.282405
+1343,North Carolina,2018-19,South Mebane Elementary,,,Alamance,,98,,96.9,0,,1,36.088958,-79.275281
+1344,North Carolina,2018-19,Woods Charter,,,Chatham,,32,,96.9,0,,0,35.815131,-79.109841
+1345,North Carolina,2018-19,Ashley Academy,,,Forsyth,,62,,96.8,0,,0,36.117726,-80.221743
+1346,North Carolina,2018-19,B. Everett Jordan Elementary,,,Alamance,,63,,96.8,0,,0,35.9397535,-79.3268462
+1347,North Carolina,2018-19,Creech Road Elementary,,,Wake,,95,,96.8,0,,0,35.714882,-78.600957
+1348,North Carolina,2018-19,Estes Hills Elementary,,,Orange,,62,,96.8,1.6,,1.6,35.9357743,-79.0432812
+1349,North Carolina,2018-19,Helena Elementary,,,Person,,94,,96.8,0,,0,36.287334,-78.953644
+1350,North Carolina,2018-19,Ira B Jones Elementary,,,Buncombe,,63,,96.8,0,,4.8,35.630372,-82.549612
+1351,North Carolina,2018-19,Kitty Hawk Elementary,,,Dare,,62,,96.8,0,,3.2,36.098034,-75.733232
+1352,North Carolina,2018-19,Meadow View Elementary,,,Onslow,,156,,96.8,0,,1.3,34.77137,-77.525163
+1353,North Carolina,2018-19,New Hope Elementary,,,Orange,,95,,96.8,0,,1.1,36.01992,-79.075112
+1354,North Carolina,2018-19,Queens Creek Elementary,,,Onslow,,126,,96.8,0,,2.4,34.700928,-77.154115
+1355,North Carolina,2018-19,Rea View Elementary,,,Union,,95,,96.8,0,,2.1,35.016356,-80.774818
+1356,North Carolina,2018-19,Charles H Tuttle Elementary,,,Catawba,,60,,96.7,0,,3.3,35.589758,-81.157818
+1357,North Carolina,2018-19,Cliffdale Elementary,,,Cumberland,,120,,96.7,0,,0,35.058991,-78.994741
+1358,North Carolina,2018-19,Cornelius Elementary,,,Mecklenburg,,92,,96.7,1.1,,1.1,35.48172,-80.864216
+1359,North Carolina,2018-19,Greensboro Day,,,Guilford,,30,,96.7,0,,0,36.14859,-79.836761
+1360,North Carolina,2018-19,Hortons Creek Elementary,,,Wake,,151,,96.7,0.7,,0,35.8418949,-78.9061928
+1361,North Carolina,2018-19,Lake Lure Classical Academy,,,Rutherford,,30,,96.7,0,,6.7,35.407598,-82.1927
+1362,North Carolina,2018-19,Micro Elementary,,,Johnston,,60,,96.7,0,,0,35.5588812,-78.2012374
+1363,North Carolina,2018-19,Tabor City Elementary,,,Columbus,,61,,96.7,0,,0,34.152395,-78.873444
+1364,North Carolina,2018-19,Wintergreen Primary,,,Pitt,,212,,96.7,0,,0,35.5456295,-77.3534118
+1365,North Carolina,2018-19,Bailey Elementary,,,Nash,,88,,96.6,0,,1.1,35.781987,-78.115357
+1366,North Carolina,2018-19,Barnardsville Elementary,,,Buncombe,,29,,96.6,0,,10.3,35.775309,-82.460009
+1367,North Carolina,2018-19,Clyde Campbell Elementary,,,Catawba,,59,,96.6,0,,6.8,35.777703,-81.286842
+1368,North Carolina,2018-19,Cooleemee Elementary,,,Davie,,89,,96.6,0,,3.4,35.8152765,-80.5526752
+1369,North Carolina,2018-19,Forrest W. Hunt Elementary,,,Rutherford,,58,,96.6,0,,0,35.301586,-81.85108
+1370,North Carolina,2018-19,Lyle Creek Elementary,,,Catawba,,59,,96.6,0,,0,35.748687,-81.199732
+1371,North Carolina,2018-19,Oakwood Elementary,,,Caswell,,59,,96.6,0,,0,36.4164187,-79.3317474
+1372,North Carolina,2018-19,Prospect Elementary,,,Robeson,,89,,96.6,1.1,,0,34.732495,-79.23231
+1373,North Carolina,2018-19,Triangle Day,,,Durham,,29,,96.6,0,,0,36.02782,-78.972591
+1374,North Carolina,2018-19,W M Irvin Elementary,,,Cabarrus,,116,,96.6,0,,3.4,35.418067,-80.553339
+1375,North Carolina,2018-19,Westerly Hills Academy,,,Mecklenburg,,88,,96.6,0,,0,35.231917,-80.911481
+1376,North Carolina,2018-19,American Renaissance,,,Iredell,,57,,96.5,0,,5.3,35.784684,-80.8868
+1377,North Carolina,2018-19,Andrews Elementary,,,Cherokee,,57,,96.5,0,,0,35.198317,-83.825311
+1378,North Carolina,2018-19,Boonville Elementary,,,Yadkin,,57,,96.5,0,,1.8,36.231731,-80.703509
+1379,North Carolina,2018-19,Glen Arden Elementary,,,Buncombe,,114,,96.5,0,,0,35.469737,-82.497062
+1380,North Carolina,2018-19,Nebo Elementary,,,McDowell,,57,,96.5,0,,0,35.7148832,-81.9290672
+1381,North Carolina,2018-19,Pinevil le Elementary,,,Mecklenburg,,113,,96.5,0,,0.9,35.081481,-80.889505
+1382,North Carolina,2018-19,Carolina Day,,,Buncombe,,28,,96.4,0,,0,35.52199,-82.529621
+1383,North Carolina,2018-19,Creekside Elementary,,,Pitt,,110,,96.4,0,,0.9,35.536451,-77.4226059
+1384,North Carolina,2018-19,E K Powe Elementary,,,Durham,,84,,96.4,0,,0,36.012977,-78.922422
+1385,North Carolina,2018-19,Elmhurst Elementary,,,Pitt,,55,,96.4,0,,0,35.5958363,-77.3629492
+1386,North Carolina,2018-19,Hargrove Elementary,,,Sampson,,56,,96.4,0,,0,35.092366,-78.23713
+1387,North Carolina,2018-19,James Love Elementary,,,Cleveland,,55,,96.4,0,,0,35.265938,-81.567099
+1388,North Carolina,2018-19,Knightdale Elementary,,,Wake,,111,,96.4,0,,0.9,35.784119,-78.478606
+1389,North Carolina,2018-19,Langdon C Kerr Elementary,,,Sampson,,251,,96.4,0,,0.4,35.014366,-78.319981
+1390,North Carolina,2018-19,Liberty Christian Academy,,,Cumberland,,28,,96.4,0,,0,34.97883,-78.987631
+1391,North Carolina,2018-19,"Pine Lake Preparatory, Inc.",,,Iredell,,110,,96.4,0,,2.7,35.5358036,-80.8441963
+1392,North Carolina,2018-19,S Ray Lowder Elementary,,,Lincoln,,56,,96.4,0,,1.8,35.463081,-81.245466
+1393,North Carolina,2018-19,Turning Point Academy,,,Cleveland,,55,,96.4,0,,0,35.292717,-81.545525
+1394,North Carolina,2018-19,Union Grove Elementary,,,Iredell,,28,,96.4,0,,0,36.0227594,-80.8655885
+1395,North Carolina,2018-19,Wayne Preparatory Academy,,,Wayne,,84,,96.4,1.2,,0,35.423119,-77.959402
+1396,North Carolina,2018-19,Brightwood Elementary,,,Guilford,,82,,96.3,0,,0,36.1479114,-79.7518099
+1397,North Carolina,2018-19,Douglas Elementary,,,Wake,,136,,96.3,0,,2.2,35.840385,-78.629203
+1398,North Carolina,2018-19,Edneyville Elementary,,,Henderson,,82,,96.3,0,,0,35.373483,-82.369885
+1399,North Carolina,2018-19,Morgan Elementary,,,Rowan,,54,,96.3,0,,1.9,35.579666,-80.337223
+1400,North Carolina,2018-19,North Drive Elementary,,,Wayne,,217,,96.3,0,,0,35.3887701,-77.9615928
+1401,North Carolina,2018-19,North Elementary,,,Cleveland,,54,,96.3,0,,0,35.255063,-81.340303
+1402,North Carolina,2018-19,Princeville Elementary,,,Edgecombe,,27,,96.3,0,,0,35.90163,-77.532991
+1403,North Carolina,2018-19,Badin Elementary,,,Stanly,,80,,96.2,0,,0,35.4019947,-80.1147462
+1404,North Carolina,2018-19,"Bluford Science, Technology, Engineering, Math Academy",,,Guilford,,52,,96.2,0,,1.9,36.0576385,-79.7641415
+1405,North Carolina,2018-19,Creekside Elementary,,,Durham,,158,,96.2,0,,0,35.928746,-78.994433
+1406,North Carolina,2018-19,Davidson Charter Academy,,,Davidson,,79,,96.2,0,,2.5,35.8457638,-80.2690538
+1407,North Carolina,2018-19,Fairview Elementary,,,Jackson,,79,,96.2,0,,5.1,35.355879,-83.19473
+1408,North Carolina,2018-19,Hillandale Elementary,,,Durham,,80,,96.2,0,,1.3,36.052561,-78.93313
+1409,North Carolina,2018-19,Iredell Charter Academy,,,Iredell,,78,,96.2,0,,3.8,35.664662,-80.847793
+1410,North Carolina,2018-19,Kirkman Park Elementary,,,Guilford,,53,,96.2,0,,1.9,35.973671,-80.003043
+1411,North Carolina,2018-19,Lake Wylie Elementary,,,Mecklenburg,,106,,96.2,1.9,,0.9,35.115218,-80.971669
+1412,North Carolina,2018-19,Murphey Traditional Academy,,,Guilford,,52,,96.2,0,,0,36.04683,-79.829202
+1413,North Carolina,2018-19,Oakwood,,,Pitt,,26,,96.2,0,,0,35.6223135,-77.4478276
+1414,North Carolina,2018-19,Rocky River Elementary,,,Union,,78,,96.2,0,,1.3,34.994059,-80.609713
+1415,North Carolina,2018-19,Sheep-Harney Elementary,,,Pasquotank,,79,,96.2,0,,0,36.303113,-76.224348
+1416,North Carolina,2018-19,Spindale Elementary,,,Rutherford,,80,,96.2,0,,1.3,35.360169,-81.933499
+1417,North Carolina,2018-19,Virginia Williamson Elementary,,,Brunswick,,80,,96.2,0,,0,33.9942346,-78.2369217
+1418,North Carolina,2018-19,White Oak Elementary,,,Chowan,,160,,96.2,0,,0.6,36.164842,-76.652521
+1419,North Carolina,2018-19,Zebulon Elementary,,,Wake,,80,,96.2,0,,0,35.839602,-78.319781
+1420,North Carolina,2018-19,Benjamin J Martin Elementary,,,Cumberland,,103,,96.1,1,,1,35.0930787,-79.0095869
+1421,North Carolina,2018-19,Brier Creek Elementary,,,Wake,,102,,96.1,0,,1,35.901538,-78.804873
+1422,North Carolina,2018-19,McAlpine Elementary,,,Mecklenburg,,77,,96.1,0,,0,35.081844,-80.828071
+1423,North Carolina,2018-19,North Brook Elementary,,,Lincoln,,76,,96.1,0,,2.6,35.494709,-81.453964
+1424,North Carolina,2018-19,Perry W Harrison Elementary,,,Chatham,,128,,96.1,0,,0,35.808778,-79.159799
+1425,North Carolina,2018-19,C Wayne Collier Elementary,,,Cumberland,,75,,96,0,,2.7,34.974264,-78.982845
+1426,North Carolina,2018-19,Long Creek Elementary,,,Mecklenburg,,75,,96,0,,2.7,35.350911,-80.889591
+1427,North Carolina,2018-19,Northside Christian Academy,,,Mecklenburg,,25,,96,0,,4,35.28441,-80.784491
+1428,North Carolina,2018-19,Stoney Creek Elementary,,,Mecklenburg,,126,,96,0,,5.6,35.348296,-80.725308
+1429,North Carolina,2018-19,Triad Baptist Christian Academy,,,Forsyth,,25,,96,0,,0,36.1051346,-80.1005598
+1430,North Carolina,2018-19,Aycock Elementary,,,Vance,,74,,95.9,0,,0,36.3208051,-78.3614166
+1431,North Carolina,2018-19,Central Elementary,,,Stanly,,98,,95.9,0,,0,35.3546094,-80.1956423
+1432,North Carolina,2018-19,Clear Creek Elementary,,,Henderson,,74,,95.9,0,,2.7,35.373934,-82.441863
+1433,North Carolina,2018-19,Fuquay-Varina Elementary,,,Wake,,123,,95.9,0,,0.8,35.6031,-78.75694
+1434,North Carolina,2018-19,M B Hubbard Elementary,,,Nash,,73,,95.9,0,,1.4,36.038152,-77.820916
+1435,North Carolina,2018-19,Monticello-Brown Summit Elementary,,,Guilford,,49,,95.9,0,,0,36.2183558,-79.6743804
+1436,North Carolina,2018-19,Walter Bickett Elementary,,,Union,,74,,95.9,0,,0,34.970966,-80.582309
+1437,North Carolina,2018-19,Will iam L Manning Elementary,,,Halifax,,74,,95.9,0,,0,36.4518913,-77.6434554
+1438,North Carolina,2018-19,Carter G Woodson,,,Forsyth,,24,,95.8,0,,4.2,36.066544,-80.230982
+1439,North Carolina,2018-19,Cherryvil le Elementary,,,Gaston,,95,,95.8,0,,0,35.378286,-81.370862
+1440,North Carolina,2018-19,Club Boulevard Elementary,,,Durham,,72,,95.8,0,,0,36.019283,-78.896664
+1441,North Carolina,2018-19,Fallston Elementary,,,Cleveland,,72,,95.8,1.4,,2.8,35.426464,-81.499769
+1442,North Carolina,2018-19,Hemby Bridge Elementary,,,Union,,71,,95.8,0,,1.4,35.107104,-80.6180888
+1443,North Carolina,2018-19,Lil l ian Black Elementary,,,Cumberland,,48,,95.8,0,,0,35.167431,-78.971122
+1444,North Carolina,2018-19,Pink Hill  Elementary,,,Lenoir,,72,,95.8,0,,0,35.07851,-77.737038
+1445,North Carolina,2018-19,West Lake Elementary,,,Wake,,120,,95.8,0,,0.8,35.661701,-78.761295
+1446,North Carolina,2018-19,Westfield Elementary,,,Surry,,24,,95.8,0,,4.2,36.459477,-80.494905
+1447,North Carolina,2018-19,Ashley Park PreK-8,,,Mecklenburg,,47,,95.7,0,,0,35.232655,-80.890678
+1448,North Carolina,2018-19,Benton Heights Elementary School of the Arts,,,Union,,93,,95.7,0,,0,34.9935991,-80.5535798
+1449,North Carolina,2018-19,Bladen Lakes Primary,,,Bladen,,47,,95.7,0,,0,34.711301,-78.595306
+1450,North Carolina,2018-19,Cape Fear Elementary,,,Pender,,69,,95.7,0,,1.4,34.40664,-77.9166447
+1451,North Carolina,2018-19,Coleridge Elementary,,,Randolph,,47,,95.7,0,,0,35.6451922,-79.6171383
+1452,North Carolina,2018-19,Edward D Sadler Jr Elementary,,,Gaston,,70,,95.7,0,,0,35.258836,-81.259748
+1453,North Carolina,2018-19,J W McLauchlin Elementary,,,Hoke,,46,,95.7,0,,0,34.981977,-79.222801
+1454,North Carolina,2018-19,Lockhart Elementary,,,Wake,,93,,95.7,0,,0,35.803192,-78.485495
+1455,North Carolina,2018-19,Montessori Children's,,,Onslow,,23,,95.7,4.3,,4.3,34.7714656,-77.4094317
+1456,North Carolina,2018-19,New Hope Elementary,,,Vance,,23,,95.7,0,,0,36.4643118,-78.4420959
+1457,North Carolina,2018-19,Barringer Academic Center,,,Mecklenburg,,68,,95.6,0,,0,35.210389,-80.888822
+1458,North Carolina,2018-19,Rosman Elementary,,,Transylvania,,45,,95.6,4.4,,6.7,35.141805,-82.826416
+1459,North Carolina,2018-19,Falkland Elementary,,,Pitt,,44,,95.5,0,,0,35.6696631,-77.4867227
+1460,North Carolina,2018-19,Hardin Park Elementary,,,Watauga,,88,,95.5,1.1,,2.3,36.222432,-81.66197
+1461,North Carolina,2018-19,Joe Toler-Oak Hill  Elementary,,,Granville,,22,,95.5,0,,0,36.46339,-78.732029
+1462,North Carolina,2018-19,Nashville Elementary,,,Nash,,112,,95.5,0,,0,35.970519,-77.964197
+1463,North Carolina,2018-19,Roseboro Elementary,,,Sampson,,66,,95.5,0,,0,34.9440988,-78.5216157
+1464,North Carolina,2018-19,United Community,,,Mecklenburg,,22,,95.5,0,,4.5,35.30007,-80.727958
+1465,North Carolina,2018-19,Weatherstone Elementary,,,Wake,,132,,95.5,0.8,,1.5,35.792398,-78.811465
+1466,North Carolina,2018-19,Will iams Township,,,Columbus,,67,,95.5,0,,0,34.204412,-78.763742
+1467,North Carolina,2018-19,Blue Creek Elementary,,,Onslow,,87,,95.4,0,,0,34.752169,-77.477658
+1468,North Carolina,2018-19,Pleasant Union Elementary,,,Wake,,109,,95.4,0.9,,0.9,35.950269,-78.673305
+1469,North Carolina,2018-19,Drexel Elementary,,,Burke,,64,,95.3,0,,0,35.749674,-81.608688
+1470,North Carolina,2018-19,John J Blair Elementary,,,New Hanover,,86,,95.3,0,,7,34.286913,-77.774051
+1471,North Carolina,2018-19,McDougle Elementary,,,Orange,,85,,95.3,0,,0,35.9294231,-79.099009
+1472,North Carolina,2018-19,South End Elementary,,,Rockingham,,64,,95.3,0,,0,36.343652,-79.667948
+1473,North Carolina,2018-19,Bruns Academy,,,Mecklenburg,,63,,95.2,0,,1.6,35.239101,-80.864943
+1474,North Carolina,2018-19,Clearmont Elementary,,,Yancey,,21,,95.2,0,,9.5,35.976375,-82.297449
+1475,North Carolina,2018-19,J.V. Washam Elementary,,,Mecklenburg,,168,,95.2,0,,0.6,35.466507,-80.868005
+1476,North Carolina,2018-19,Morton Elementary,,,Onslow,,126,,95.2,0,,3.2,34.769791,-77.309458
+1477,North Carolina,2018-19,Moss Street Partnership,,,Rockingham,,63,,95.2,0,,0,36.36561,-79.679381
+1478,North Carolina,2018-19,Pinewood Elementary,,,Gaston,,63,,95.2,0,,3.2,35.3289038,-80.9991778
+1479,North Carolina,2018-19,Warrenwood Elementary,,,Cumberland,,63,,95.2,0,,1.6,35.120638,-78.909012
+1480,North Carolina,2018-19,Clear Creek Elementary,,,Northampton,,81,,95.1,0,,3.7,35.373795,-82.441615
+1481,North Carolina,2018-19,Lucile Souders Elementary,,,Cumberland,,81,,95.1,0,,0,35.09968,-78.881428
+1482,North Carolina,2018-19,Union Chapel Elementary,,,Robeson,,82,,95.1,0,,0,34.71238,-79.134166
+1483,North Carolina,2018-19,Castle Hayne Elementary,,,New Hanover,,80,,95,0,,2.5,34.35154,-77.89181
+1484,North Carolina,2018-19,Creswell Elementary,,,Washington,,20,,95,0,,0,35.870016,-76.396762
+1485,North Carolina,2018-19,Fayettevil le Street Elementary,,,Durham,,40,,95,0,,0,35.964511,-78.905646
+1486,North Carolina,2018-19,Glen Alpine Elementary,,,Burke,,40,,95,0,,0,35.724866,-81.779557
+1487,North Carolina,2018-19,Green Grove Elementary,,,Robeson,,60,,95,0,,0,34.557578,-79.142584
+1488,North Carolina,2018-19,Highland Elementary,,,Alamance,,140,,95,0,,1.4,36.0583315,-79.5179248
+1489,North Carolina,2018-19,Marion Elementary,,,McDowell,,60,,95,0,,1.7,35.6209016,-82.0604747
+1490,North Carolina,2018-19,T C Henderson School of Science & Technology,,,Transylvania,,20,,95,0,,0,35.1286801,-82.8874606
+1491,North Carolina,2018-19,The Children's Vil lage Academy,,,Lenoir,,20,,95,0,,0,35.2667229,-77.5671434
+1492,North Carolina,2018-19,The Expedition,,,Orange,,40,,95,0,,0,36.07067,-79.113701
+1493,North Carolina,2018-19,The Mountain Community Sch,,,Henderson,,20,,95,0,,5,35.313672,-82.441779
+1494,North Carolina,2018-19,Graham Elementary,,,Cleveland,,39,,94.9,0,,2.6,35.288557,-81.558819
+1495,North Carolina,2018-19,North Graham Elementary,,,Alamance,,59,,94.9,0,,1.7,36.07626,-79.37767
+1496,North Carolina,2018-19,Northeast Elementary,,,Bertie,,39,,94.9,0,,0,35.5382576,-76.7093004
+1497,North Carolina,2018-19,Oakley Elementary,,,Buncombe,,78,,94.9,0,,2.6,35.564242,-82.512452
+1498,North Carolina,2018-19,Rowland Norment Elementary,,,Robeson,,117,,94.9,0,,0,34.622887,-78.996091
+1499,North Carolina,2018-19,Sparta Elementary,,,Alleghany,,59,,94.9,0,,1.7,36.513846,-81.12295
+1500,North Carolina,2018-19,Elizabeth Lane Elem,,,Mecklenburg,,173,,94.8,0.6,,0.6,35.112579,-80.747406
+1501,North Carolina,2018-19,Surf City Elementary,,,Pender,,77,,94.8,0,,0,34.4628382,-77.575153
+1502,North Carolina,2018-19,Bradford Academy,,,Alamance,,19,,94.7,0,,10.5,36.084078,-79.27748
+1503,North Carolina,2018-19,Two Rivers Community,,,Watauga,,19,,94.7,0,,0,36.22702,-81.614491
+1504,North Carolina,2018-19,Wilmington Preparatory Academy,,,New Hanover,,19,,94.7,0,,0,34.23879,-77.891871
+1505,North Carolina,2018-19,Crown Point Elementary,,,Mecklenburg,,74,,94.6,0,,1.4,35.159931,-80.715017
+1506,North Carolina,2018-19,East Elementary,,,Union,,56,,94.6,0,,0,34.978134,-80.532519
+1507,North Carolina,2018-19,Matthews Charter Academy,,,Mecklenburg,,92,,94.6,0,,3.3,35.109514,-80.678875
+1508,North Carolina,2018-19,North Belmont Elementary,,,Gaston,,56,,94.6,0,,0,35.2726962,-81.0506148
+1509,North Carolina,2018-19,Wilburn Elementary,,,Wake,,92,,94.6,0,,0,35.821491,-78.574919
+1510,North Carolina,2018-19,Butner-Stem Elementary,,,Granville,,55,,94.5,0,,0,36.13734,-78.758266
+1511,North Carolina,2018-19,Edward Best Elementary,,,Franklin,,91,,94.5,0,,0,36.094154,-78.167348
+1512,North Carolina,2018-19,Northwest Elementary,,,Lenoir,,73,,94.5,0,,0,35.278395,-77.603292
+1513,North Carolina,2018-19,Boomer-Ferguson Elementary,,,Wilkes,,18,,94.4,0,,0,36.101184,-81.29776
+1514,North Carolina,2018-19,Covenant Day,,,Mecklenburg,,54,,94.4,0,,1.9,35.11869,-80.731771
+1515,North Carolina,2018-19,Holt Elementary,,,Durham,,126,,94.4,0,,0.8,36.055933,-78.905962
+1516,North Carolina,2018-19,Invest Collegiate Transform,,,Mecklenburg,,18,,94.4,0,,16.7,35.225632,-80.870974
+1517,North Carolina,2018-19,North Elementary,,,Person,,36,,94.4,2.8,,0,36.406998,-78.966224
+1518,North Carolina,2018-19,Briarwood Academy,,,Mecklenburg,,123,,94.3,0,,1.6,35.2521105,-80.7661267
+1519,North Carolina,2018-19,Hornets Nest Elementary,,,Mecklenburg,,105,,94.3,0,,1,35.324705,-80.865231
+1520,North Carolina,2018-19,Inborden Elementary S.T.E.A.M. Academy,,,Halifax,,35,,94.3,0,,0,36.177034,-77.696612
+1521,North Carolina,2018-19,The Experiential School of Greensboro,,,Guilford,,35,,94.3,0,,8.6,36.13679,-79.810441
+1522,North Carolina,2018-19,Yadkinvil le Elementary,,,Yadkin,,87,,94.3,0,,0,36.13648,-80.661209
+1523,North Carolina,2018-19,Bath Elementary,,,Beaufort,,52,,94.2,0,,0,35.475394,-76.810854
+1524,North Carolina,2018-19,Bethel Elementary,,,Haywood,,86,,94.2,0,,0,35.473659,-82.8957
+1525,North Carolina,2018-19,Boiling Springs Elementary,,,Cleveland,,86,,94.2,1.2,,1.2,35.2395384,-81.6544717
+1526,North Carolina,2018-19,Johnson Street Global Studies,,,Guilford,,52,,94.2,0,,0,35.978045,-80.017522
+1527,North Carolina,2018-19,New Century International Elementary,,,Cumberland,,86,,94.2,0,,0,35.011755,-79.044104
+1528,North Carolina,2018-19,Zeb Vance Elementary,,,Vance,,52,,94.2,0,,0,36.2648732,-78.4104114
+1529,North Carolina,2018-19,Albemarle Road Elementary,,,Mecklenburg,,136,,94.1,0,,0,35.197057,-80.729512
+1530,North Carolina,2018-19,Cooper Academy,,,Johnston,,101,,94.1,0,,0,35.656249,-78.451207
+1531,North Carolina,2018-19,Sharon Elementary,,,Mecklenburg,,170,,94.1,0,,0,35.152964,-80.817467
+1532,North Carolina,2018-19,Smokey Mountain Elementary,,,Jackson,,34,,94.1,0,,0,35.429034,-83.324101
+1533,North Carolina,2018-19,Trinity Christian,,,Pitt,,17,,94.1,0,,5.9,35.59603,-77.340781
+1534,North Carolina,2018-19,R B Dean Elementary,,,Robeson,,50,,94,0,,0,34.732967,-79.344872
+1535,North Carolina,2018-19,Rolesvil le Charter Academy,,,Wake,,100,,94,0,,0,35.908942,-78.479842
+1536,North Carolina,2018-19,Bald Creek Elementary,,,Yancey,,33,,93.9,0,,3,35.91286,-82.423632
+1537,North Carolina,2018-19,Love Memorial Elementary,,,Lincoln,,49,,93.9,0,,2,35.449491,-81.275557
+1538,North Carolina,2018-19,Knotts Island Elementary,,,Currituck,,16,,93.7,0,,0,36.513644,-75.919977
+1539,North Carolina,2018-19,Quality Education Academy,,,Forsyth,,64,,93.7,1.6,,1.6,36.150321,-80.205805
+1540,North Carolina,2018-19,Reynolds Mountain Christ. Acad.,,,Buncombe,,16,,93.7,0,,6.3,35.646917,-82.577097
+1541,North Carolina,2018-19,Westarea Elementary,,,Cumberland,,79,,93.7,0,,0,35.09843,-78.912679
+1542,North Carolina,2018-19,Woodhill  Elementary,,,Gaston,,96,,93.7,0,,1,35.278935,-81.180546
+1543,North Carolina,2018-19,Clarke Elementary,,,Vance,,78,,93.6,0,,0,36.3019642,-78.3669322
+1544,North Carolina,2018-19,Fremont STARS Elementary,,,Wayne,,47,,93.6,0,,0,35.551715,-77.968959
+1545,North Carolina,2018-19,Montlieu Elementary Academy of Technology,,,Guilford,,94,,93.6,0,,0,35.9766361,-79.9852139
+1546,North Carolina,2018-19,Mountain Island Lake Academy,,,Mecklenburg,,78,,93.6,0,,1.3,35.308039,-80.928453
+1547,North Carolina,2018-19,Richfield Elementary,,,Stanly,,47,,93.6,0,,0,35.468403,-80.255735
+1548,North Carolina,2018-19,Devonshire Elementary,,,Mecklenburg,,92,,93.5,0,,0,35.245108,-80.745969
+1549,North Carolina,2018-19,Glendale Acres Elementary,,,Cumberland,,62,,93.5,0,,4.8,35.034781,-78.927871
+1550,North Carolina,2018-19,Dana Elementary,,,Henderson,,61,,93.4,0,,1.6,35.338508,-82.373539
+1551,North Carolina,2018-19,W Jesse Gurganus Elementary,,,Craven,,61,,93.4,0,,1.6,34.910354,-76.941518
+1552,North Carolina,2018-19,Henderson Collegiate,,,Vance,,105,,93.3,0,,0,36.309808,-78.39641
+1553,North Carolina,2018-19,Lincoln Elementary,,,Brunswick,,89,,93.3,0,,2.2,34.26176,-78.042934
+1554,North Carolina,2018-19,Morven Elementary,,,Anson,,30,,93.3,0,,0,34.879199,-80.00664
+1555,North Carolina,2018-19,Mountain Park Elementary,,,Surry,,30,,93.3,0,,0,36.373496,-80.852001
+1556,North Carolina,2018-19,North Hills Christian,,,Rowan,,30,,93.3,6.7,,0,35.70274,-80.481371
+1557,North Carolina,2018-19,St. Mary Catholic,,,New Hanover,,15,,93.3,0,,0,34.23244,-77.944061
+1558,North Carolina,2018-19,Faith Elementary,,,Rowan,,59,,93.2,0,,0,35.5896714,-80.4622023
+1559,North Carolina,2018-19,Kannapolis Charter Academy,,,Cabarrus,,73,,93.2,0,,2.7,35.45943,-80.598481
+1560,North Carolina,2018-19,East Bend Elementary,,,Yadkin,,29,,93.1,0,,0,36.213681,-80.507328
+1561,North Carolina,2018-19,Oakdale Elementary,,,Mecklenburg,,102,,93.1,0,,2.9,35.300692,-80.896938
+1562,North Carolina,2018-19,Johnsonville Elementary,,,Harnett,,86,,93,0,,2.3,35.300328,-79.098429
+1563,North Carolina,2018-19,Greenville Christian Academy,,,Pitt,,14,,92.9,0,,0,35.5734,-77.424681
+1564,North Carolina,2018-19,New Garden Friends,,,Guilford,,14,,92.9,0,,0,36.14469,-79.942611
+1565,North Carolina,2018-19,Pilot Elementary,,,Guilford,,97,,92.8,0,,0,36.0261646,-79.8918642
+1566,North Carolina,2018-19,Eastern Wayne Elementary,,,Wayne,,109,,92.7,0,,1.8,35.3734403,-77.8768005
+1567,North Carolina,2018-19,Middle Creek Elementary,,,Wake,,110,,92.7,0,,1.8,35.670325,-78.759233
+1568,North Carolina,2018-19,Trinity School of Durham & CH,,,Durham,,41,,92.7,0,,2.4,35.9756852,-78.9944873
+1569,North Carolina,2018-19,Grace Christian,,,Wake,,40,,92.5,0,,7.5,35.76946,-78.739281
+1570,North Carolina,2018-19,Davis Drive Elementary,,,Wake,,118,,92.4,0,,2.5,35.780177,-78.850497
+1571,North Carolina,2018-19,PAVE Southeast Raleigh Charter,,,Wake,,79,,92.4,0,,0,35.736869,-78.619384
+1572,North Carolina,2018-19,Rand Road Elementary,,,Wake,,79,,92.4,0,,2.5,35.655523,-78.616404
+1573,North Carolina,2018-19,Greensboro Islamic Academy,,,Guilford,,13,,92.3,0,,7.7,36.1084344,-79.7779331
+1574,North Carolina,2018-19,Moncure,,,Chatham,,26,,92.3,0,,0,35.631708,-79.077783
+1575,North Carolina,2018-19,Locust Elementary,,,Stanly,,64,,92.2,0,,1.6,35.2627194,-80.4189599
+1576,North Carolina,2018-19,Will iam H Owen Elementary,,,Cumberland,,76,,92.1,0,,1.3,35.041965,-78.954134
+1577,North Carolina,2018-19,Bill  Hefner Elementary,,,Cumberland,,138,,92,0,,0.7,35.068535,-79.04504
+1578,North Carolina,2018-19,Bill ingsville Elementary,,,Mecklenburg,,138,,92,0,,3.6,35.19641,-80.809579
+1579,North Carolina,2018-19,C. G. Credle Elementary,,,Granville,,50,,92,0,,2,36.316658,-78.586083
+1580,North Carolina,2018-19,Hall Fletcher Elementary,,,Buncombe,,50,,92,0,,4,35.574571,-82.574089
+1581,North Carolina,2018-19,J W Coon Elementary,,,Cumberland,,37,,91.9,0,,0,35.032548,-78.959857
+1582,North Carolina,2018-19,Lingerfeldt Elementary,,,Gaston,,74,,91.9,0,,2.7,35.2407278,-81.1923648
+1583,North Carolina,2018-19,Newport Elementary,,,Carteret,,123,,91.9,0,,0.8,34.7908704,-76.8603058
+1584,North Carolina,2018-19,Queen City STEM,,,Mecklenburg,,74,,91.9,0,,1.4,35.32318,-80.775761
+1585,North Carolina,2018-19,Sallie B Howard School for the Arts and Education,,,Wilson,,123,,91.9,0,,0,35.7308237,-77.8933537
+1586,North Carolina,2018-19,Thales Academy - Knightdale,,,Wake,,62,,91.9,0,,0,35.7987895,-78.4673783
+1587,North Carolina,2018-19,Brookside Elementary,,,Gaston,,85,,91.8,0,,2.4,35.2937124,-81.1512062
+1588,North Carolina,2018-19,The Covenant,,,Guilford,,24,,91.7,0,,8.3,36.0370346,-79.980616
+1589,North Carolina,2018-19,Lower Creek Elementary,,,Caldwell,,59,,91.5,0,,0,35.922506,-81.511662
+1590,North Carolina,2018-19,Immaculata Catholic,,,Durham,,35,,91.4,0,,0,35.997693,-78.913845
+1591,North Carolina,2018-19,Langtree Charter Academy,,,Iredell,,114,,91.2,0,,3.5,35.54131,-80.86524
+1592,North Carolina,2018-19,Matthews Elementary,,,Mecklenburg,,205,,91.2,0,,1.5,35.113195,-80.723443
+1593,North Carolina,2018-19,Westchester Country Day,,,Davidson,,34,,91.2,0,,0,35.97292,-80.085901
+1594,North Carolina,2018-19,Manchester Elementary,,,Cumberland,,79,,91.1,0,,0,35.170516,-78.967018
+1595,North Carolina,2018-19,Supply Elementary,,,Brunswick,,78,,91,0,,0,34.024653,-78.25849
+1596,North Carolina,2018-19,Asheville Christian Academy,,,Buncombe,,44,,90.9,0,,11.4,35.60388,-82.410291
+1597,North Carolina,2018-19,Traphill  Elementary,,,Wilkes,,11,,90.9,0,,0,36.34625,-81.029508
+1598,North Carolina,2018-19,Vanceboro-Farm Life Elementary,,,Craven,,66,,90.9,0,,0,35.307321,-77.146684
+1599,North Carolina,2018-19,Lakeforest Elementary,,,Pitt,,131,,90.8,0,,0,35.5923311,-77.4213407
+1600,North Carolina,2018-19,Renaissance West STEAM Academy,,,Mecklenburg,,87,,90.8,0,,4.6,35.207655,-80.920803
+1601,North Carolina,2018-19,Joyner Elementary,,,Wake,,106,,90.6,0.9,,0,35.814853,-78.633275
+1602,North Carolina,2018-19,Winston Salem Christian,,,Forsyth,,32,,90.6,0,,0,36.141635,-80.2774249
+1603,North Carolina,2018-19,Forest View Elementary,,,Durham,,136,,90.4,0,,0.7,35.989016,-78.992121
+1604,North Carolina,2018-19,Richlands Elementary,,,Onslow,,144,,90.3,0,,1.4,34.899079,-77.540386
+1605,North Carolina,2018-19,Saint Pauls Elementary,,,Robeson,,155,,90.3,0,,0,34.8075,-78.962082
+1606,North Carolina,2018-19,GE Massey Elementary,,,Lincoln,,51,,90.2,0,,2,35.478298,-81.237283
+1607,North Carolina,2018-19,Salemburg Elementary,,,Sampson,,81,,90.1,0,,0,35.020509,-78.501804
+1608,North Carolina,2018-19,Aurelian Springs Institute of Global Learning,,,Halifax,,30,,90,0,,0,36.3635829,-77.8067654
+1609,North Carolina,2018-19,Covington Street Elementary,,,Scotland,,20,,90,0,,0,34.772992,-79.47123
+1610,North Carolina,2018-19,Fellowship Baptist Academy,,,Durham,,10,,90,0,,10,36.000265,-78.861085
+1611,North Carolina,2018-19,Francine Delany New School for Children,,,Buncombe,,20,,90,0,,40,35.5736255,-82.5937116
+1612,North Carolina,2018-19,Kids R Kids School - Clayton,,,Johnston,,30,,90,0,,0,35.6635133,-78.4912359
+1613,North Carolina,2018-19,St. Ann Catholic,,,Cumberland,,20,,90,0,,0,35.05589,-78.874391
+1614,North Carolina,2018-19,Idlewild Elementary,,,Mecklenburg,,149,,89.9,0,,1.3,35.187135,-80.744159
+1615,North Carolina,2018-19,Will iford Elementary,,,Nash,,59,,89.8,0,,0,35.928147,-77.818254
+1616,North Carolina,2018-19,Alpha Academy,,,Cumberland,,97,,89.7,0,,0,35.03437,-79.067401
+1617,North Carolina,2018-19,Follow the Child Montessori,,,Wake,,29,,89.7,0,,0,35.81242,-78.701351
+1618,North Carolina,2018-19,Barwell Road Elementary,,,Wake,,125,,89.6,0,,1.6,35.731973,-78.551376
+1619,North Carolina,2018-19,Carmel Christian,,,Mecklenburg,,48,,89.6,0,,4.2,35.1126494,-80.7542651
+1620,North Carolina,2018-19,Piney Creek Elementary,,,Alleghany,,19,,89.5,0,,0,36.54818,-81.303936
+1621,North Carolina,2018-19,Southeast Elementary,,,Lenoir,,38,,89.5,0,,0,35.257794,-77.570858
+1622,North Carolina,2018-19,Peak Charter Academy,,,Wake,,94,,89.4,0,,2.1,35.747858,-78.866894
+1623,North Carolina,2018-19,Rosenwald Elementary,,,Robeson,,85,,89.4,0,,0,34.502098,-79.119017
+1624,North Carolina,2018-19,"Carter Community Charter, Inc.",,,Durham,,28,,89.3,0,,0,35.9813835,-78.9551702
+1625,North Carolina,2018-19,Lake Rim Elementary,,,Cumberland,,131,,89.3,0,,2.3,35.049476,-79.076275
+1626,North Carolina,2018-19,Harnett Primary,,,Harnett,,120,,89.2,0,,0,35.315924,-78.617644
+1627,North Carolina,2018-19,Morganton Road Elementary,,,Cumberland,,93,,89.2,0,,2.2,35.079612,-78.987388
+1628,North Carolina,2018-19,Raleigh Road Elementary,,,Cumberland,,120,,89.2,0,,2.5,35.217446,-78.840873
+1629,North Carolina,2018-19,Brentwood Elementary,,,Cumberland,,64,,89.1,0,,0,35.038178,-78.9832
+1630,North Carolina,2018-19,Croft Community,,,Mecklenburg,,81,,88.9,1.2,,1.2,35.3465234,-80.8046271
+1631,North Carolina,2018-19,Brush Creek Elementary,,,Madison,,62,,88.7,0,,0,,
+1632,North Carolina,2018-19,Brentwood Elementary,,,Wake,,70,,88.6,0,,0,35.830012,-78.596747
+1633,North Carolina,2018-19,Friends,,,New Hanover,,17,,88.2,0,,5.9,34.203452,-77.846242
+1634,North Carolina,2018-19,West Oxford Elementary,,,Granville,,67,,88.1,0,,0,36.322269,-78.612588
+1635,North Carolina,2018-19,Omni Montessori,,,Mecklenburg,,25,,88,0,,24,35.03654,-80.812851
+1636,North Carolina,2018-19,Y E Smith Elementary,,,Durham,,50,,88,0,,4,35.985633,-78.872973
+1637,North Carolina,2018-19,Swansboro Elementary,,,Onslow,,98,,87.8,0,,3.1,34.694824,-77.139692
+1638,North Carolina,2018-19,Edwin A Alderman Elementary,,,New Hanover,,56,,87.5,0,,1.8,34.206114,-77.907399
+1639,North Carolina,2018-19,Heartwood Montessori,,,Wake,,16,,87.5,0,,6.3,35.78104,-78.780201
+1640,North Carolina,2018-19,Kids R Kids,,,Mecklenburg,,16,,87.5,0,,0,35.0690167,-80.6978709
+1641,North Carolina,2018-19,Lerner,,,Durham,,16,,87.5,0,,0,35.980233,-78.954863
+1642,North Carolina,2018-19,Tri-City Christian,,,Catawba,,8,,87.5,0,,0,35.728141,-81.206258
+1643,North Carolina,2018-19,Aversboro Elementary,,,Wake,,71,,87.3,0,,2.8,35.688764,-78.616158
+1644,North Carolina,2018-19,Emerson Waldorf,,,Orange,,39,,87.2,0,,10.3,35.98711,-79.078071
+1645,North Carolina,2018-19,R N Harris Elementary,,,Durham,,54,,87,1.9,,0,35.971247,-78.883776
+1646,North Carolina,2018-19,W H Knuckles,,,Robeson,,53,,86.8,0,,0,34.610808,-79.02205
+1647,North Carolina,2018-19,Long Branch Elementary,,,Robeson,,75,,86.7,0,,1.3,34.53818,-78.958067
+1648,North Carolina,2018-19,Montclair Elementary,,,Cumberland,,75,,86.7,0,,0,35.055547,-78.961265
+1649,North Carolina,2018-19,North Duplin Elementary,,,Duplin,,97,,86.6,0,,0,35.135931,-78.084555
+1650,North Carolina,2018-19,Parkway Elementary,,,Watauga,,67,,86.6,0,,3,36.231994,-81.562451
+1651,North Carolina,2018-19,Bessemer City Primary,,,Gaston,,141,,86.5,0.7,,1.4,35.300151,-81.275058
+1652,North Carolina,2018-19,Bladenboro Primary,,,Bladen,,74,,86.5,0,,0,34.529978,-78.794627
+1653,North Carolina,2018-19,Smithfield Elementary,,,Mecklenburg,,126,,86.5,0,,2.4,35.110727,-80.851186
+1654,North Carolina,2018-19,St. Paul Catholic Education Ctr,,,Craven,,22,,86.4,4.5,,4.5,35.084203,-77.06806
+1655,North Carolina,2018-19,South Lexington,,,Davidson,,211,,86.3,0,,0,35.796963,-80.261339
+1656,North Carolina,2018-19,Will iam T Brown Elementary,,,Cumberland,,36,,86.1,0,,0,35.159983,-78.965155
+1657,North Carolina,2018-19,Wilson's Mills Elementary,,,Johnston,,93,,86,0,,1.1,35.583552,-78.358228
+1658,North Carolina,2018-19,Adams Elementary,,,Wake,,106,,85.8,0.9,,0,35.776913,-78.762189
+1659,North Carolina,2018-19,Al-Iman,,,Wake,,28,,85.7,0,,0,35.78949,-78.692171
+1660,North Carolina,2018-19,Gorman Christian Academy,,,Durham,,14,,85.7,0,,14.3,36.0440197,-78.816682
+1661,North Carolina,2018-19,Graham A. Barden Elementary,,,Craven,,70,,85.7,0,,1.4,34.897614,-76.916528
+1662,North Carolina,2018-19,Granville Academy,,,Granville,,7,,85.7,0,,0,36.153406,-78.572271
+1663,North Carolina,2018-19,North End Elementary,,,Person,,21,,85.7,0,,0,36.438904,-78.905466
+1664,North Carolina,2018-19,Vandalia Elementary,,,Guilford,,42,,85.7,0,,0,36.0173521,-79.7798575
+1665,North Carolina,2018-19,Bethesda Elementary,,,Durham,,96,,85.4,0,,0,35.940187,-78.837761
+1666,North Carolina,2018-19,Highland Renaissance Academy,,,Mecklenburg,,67,,85.1,0,,0,35.255641,-80.803206
+1667,North Carolina,2018-19,KIPP Halifax College Preparatory,,,Halifax,,87,,85.1,0,,0,36.3675464,-77.6812959
+1668,North Carolina,2018-19,Allen Jay Elementary,,,Guilford,,79,,84.8,0,,1.3,35.9322724,-79.9554544
+1669,North Carolina,2018-19,Carolina Forest Elementary,,,Onslow,,151,,84.8,0,,2.6,34.811469,-77.409767
+1670,North Carolina,2018-19,Claxton Elementary,,,Buncombe,,65,,84.6,0,,4.6,35.607791,-82.553191
+1671,North Carolina,2018-19,St. Catherine of Siena Cath Sch,,,Wake,,13,,84.6,0,,0,35.9743898,-78.5251161
+1672,North Carolina,2018-19,Franklinton Elementary,,,Franklin,,71,,84.5,0,,0,36.09737,-78.462049
+1673,North Carolina,2018-19,Forbush Elementary,,,Yadkin,,25,,84,0,,4,36.123463,-80.495733
+1674,North Carolina,2018-19,Shadybrook Elementary,,,Guilford,,56,,83.9,0,,1.8,36.0040931,-80.0257529
+1675,North Carolina,2018-19,Wake Forest Charter Academy,,,Wake,,99,,83.8,0,,2,35.96605,-78.494391
+1676,North Carolina,2018-19,Canterbury Classical,,,Buncombe,,6,,83.3,0,,33.3,35.592115,-82.5923935
+1677,North Carolina,2018-19,Jacksonville Commons Elem,,,Onslow,,95,,83.2,1.1,,0,34.795529,-77.391593
+1678,North Carolina,2018-19,Parkview Elementary,,,Iredell,,176,,83,0,,0.6,35.5898186,-80.8015281
+1679,North Carolina,2018-19,Bell Fork Elementary,,,Onslow,,98,,82.7,0,,2,34.753251,-77.392177
+1680,North Carolina,2018-19,Northwest Elementary,,,Wayne,,109,,82.6,0,,0,35.4958193,-78.0327377
+1681,North Carolina,2018-19,Bessemer Elementary,,,Guilford,,79,,82.3,0,,0,36.0895552,-79.7374462
+1682,North Carolina,2018-19,Reid Park Academy,,,Mecklenburg,,73,,82.2,0,,6.8,35.204978,-80.905386
+1683,North Carolina,2018-19,Faith Christian Academy,,,Wayne,,28,,82.1,0,,0,35.39832,-78.012441
+1684,North Carolina,2018-19,Summersil l  Elementary,,,Onslow,,100,,82,0,,1,34.812828,-77.466917
+1685,North Carolina,2018-19,Teresa C Berrien Elementary,,,Cumberland,,50,,82,0,,0,35.064852,-78.875324
+1686,North Carolina,2018-19,Moore Montessori Community,,,Moore,,44,,81.8,0,,6.8,35.17735,-79.394211
+1687,North Carolina,2018-19,W G Pearson Elementary,,,Durham,,77,,81.8,0,,0,35.958262,-78.907689
+1688,North Carolina,2018-19,Heritage Elementary,,,Wake,,86,,81.4,0,,0,35.946542,-78.511805
+1689,North Carolina,2018-19,Hickory Grove Elementary,,,Mecklenburg,,102,,81.4,2,,1,35.226343,-80.719825
+1690,North Carolina,2018-19,Northern Guilford Elementary,,,Guilford,,107,,81.3,0,,2.8,36.2283859,-79.7673544
+1691,North Carolina,2018-19,Oak Hill  Elementary,,,Caldwell,,16,,81.2,0,,0,35.902057,-81.417127
+1692,North Carolina,2018-19,Berryhill ,,,Mecklenburg,,53,,81.1,0,,0,35.212826,-80.990472
+1693,North Carolina,2018-19,Woodfin Elementary,,,Buncombe,,26,,80.8,0,,0,35.632405,-82.58521
+1694,North Carolina,2018-19,Abbotts Creek Elementary,,,Wake,,141,,80.1,0,,0,35.902786,-78.578003
+1695,North Carolina,2018-19,Davidson Green,,,Mecklenburg,,5,,80,0,,0,35.49252,-80.853901
+1696,North Carolina,2018-19,Friendship Day Sch. for Sci. & the Arts,,,Mecklenburg,,15,,80,0,,6.7,35.2790364,-80.856907
+1697,North Carolina,2018-19,New City Christian,,,Buncombe,,10,,80,0,,0,35.56858,-82.602301
+1698,North Carolina,2018-19,Swannanoa Valley Montessori Sch,,,Buncombe,,10,,80,0,,20,35.6153198,-82.3401582
+1699,North Carolina,2018-19,Pinewood Elementary,,,Mecklenburg,,69,,79.7,0,,0,35.166169,-80.864008
+1700,North Carolina,2018-19,Carver Elementary,,,Wayne,,113,,79.6,0,,0,35.2005956,-78.0528371
+1701,North Carolina,2018-19,Mill is Road Elementary,,,Guilford,,75,,78.7,0,,21.3,35.9960808,-79.9124699
+1702,North Carolina,2018-19,Sunnyside Elementary,,,Cumberland,,61,,78.7,0,,0,35.028082,-78.796866
+1703,North Carolina,2018-19,Baskervil le Elementary,,,Nash,,56,,78.6,0,,0,35.9501539,-77.7719391
+1704,North Carolina,2018-19,East Arcadia,,,Bladen,,9,,77.8,0,,0,34.4201,-78.342192
+1705,North Carolina,2018-19,Mount Energy Elementary,,,Granville,,72,,77.8,1.4,,0,36.127172,-78.636799
+1706,North Carolina,2018-19,Tri-City Christian Academy,,,Guilford,,9,,77.8,0,,0,36.062,-79.986971
+1707,North Carolina,2018-19,Green Elementary,,,Wake,,116,,77.6,0,,1.7,35.854514,-78.643646
+1708,North Carolina,2018-19,Grantham Elementary,,,Wayne,,84,,77.4,0,,0,35.295371,-78.1665079
+1709,North Carolina,2018-19,Global Scholars Academy,,,Durham,,26,,76.9,0,,0,36.000744,-78.893108
+1710,North Carolina,2018-19,Hawk Ridge Elementary,,,Mecklenburg,,121,,76.9,0,,2.5,35.043456,-80.825258
+1711,North Carolina,2018-19,James Y. Joyner Elementary,,,Guilford,,52,,76.9,0,,1.9,36.1160472,-79.8168731
+1712,North Carolina,2018-19,Tar River Elementary,,,Granville,,52,,76.9,1.9,,1.9,36.1530661,-78.57304
+1713,North Carolina,2018-19,South Scotland Elementary,,,Scotland,,60,,76.7,0,,0,34.734868,-79.439173
+1714,North Carolina,2018-19,Northeast Elementary,,,Wayne,,103,,75.7,0,,0,35.4884548,-77.9052289
+1715,North Carolina,2018-19,Adventist Christian Academy,,,Mecklenburg,,8,,75,0,,12.5,35.17832,-80.786771
+1716,North Carolina,2018-19,Brooks Elementary,,,Wake,,96,,75,0,,2.1,35.844956,-78.65451
+1717,North Carolina,2018-19,Washington Montessori,,,Guilford,,76,,75,0,,0,36.0681964,-79.7740915
+1718,North Carolina,2018-19,E E Waddell Language Academy,,,Mecklenburg,,172,,73.8,0.6,,2.3,35.1549965,-80.8976702
+1719,North Carolina,2018-19,Arthur W Edwards Elementary,,,Craven,,110,,73.6,0,,0.9,34.910134,-76.928136
+1720,North Carolina,2018-19,York Elementary,,,Wake,,72,,73.6,2.8,,0,35.852734,-78.683589
+1721,North Carolina,2018-19,Cardinal Charter Academy,,,Wake,,86,,73.3,0,,1.2,35.80128,-78.780741
+1722,North Carolina,2018-19,Sugar Creek Charter,,,Mecklenburg,,116,,73.3,0,,0,35.257679,-80.797545
+1723,North Carolina,2018-19,Harris Creek Elementary,,,Wake,,143,,72.7,0,,0.7,35.873191,-78.512122
+1724,North Carolina,2018-19,Overhills Elementary,,,Harnett,,128,,72.7,0.8,,0.8,35.24686,-78.965724
+1725,North Carolina,2018-19,Forest Hil ls Global Elementary,,,New Hanover,,62,,72.6,0,,0,34.230671,-77.913881
+1726,North Carolina,2018-19,J H Gunn Elementary,,,Mecklenburg,,108,,72.2,0,,0.9,35.21602,-80.685407
+1727,North Carolina,2018-19,ALC Mosaic,,,Mecklenburg,,7,,71.4,0,,42.9,35.1837619,-80.7616127
+1728,North Carolina,2018-19,Huntingtowne Farms Elementary,,,Mecklenburg,,136,,71.3,0,,0.7,35.132706,-80.85987
+1729,North Carolina,2018-19,Winding Springs Elementary,,,Mecklenburg,,97,,71.1,0,,3.1,35.306431,-80.828575
+1730,North Carolina,2018-19,Freedom Christian Academy,,,Cumberland,,24,,70.8,0,,8.3,34.9940425,-78.9034597
+1731,North Carolina,2018-19,Reedy Fork Elementary,,,Guilford,,72,,70.8,0,,0,36.1864503,-79.6963748
+1732,North Carolina,2018-19,Ferguson-Easley Elementary,,,Cumberland,,20,,70,5,,0,35.085071,-78.899586
+1733,North Carolina,2018-19,Thales Academy of Wake Forest,,,Wake,,93,,68.8,0,,2.2,35.9523507,-78.520053
+1734,North Carolina,2018-19,Denver Christian Academy,,,Lincoln,,3,,66.7,0,,33.3,35.501669,-81.00003
+1735,North Carolina,2018-19,Intell icor International Academy,,,Mecklenburg,,6,,66.7,0,,0,35.22973,-80.750211
+1736,North Carolina,2018-19,Lakewood Elementary,,,Durham,,60,,66.7,0,,0,35.983226,-78.935523
+1737,North Carolina,2018-19,Wanchese Christian Academy,,,Dare,,3,,66.7,0,,0,35.842787,-75.626622
+1738,North Carolina,2018-19,Thales Academy of Raleigh,,,Wake,,69,,65.2,0,,1.4,35.9523507,-78.520053
+1739,North Carolina,2018-19,John Van Lindley Elementary,,,Guilford,,83,,65.1,0,,2.4,36.0722962,-79.8305803
+1740,North Carolina,2018-19,Walker Spivey Elementary,,,Cumberland,,53,,64.2,0,,0,35.052971,-78.869143
+1741,North Carolina,2018-19,Hope Valley Elementary,,,Durham,,118,,63.6,0,,0.8,35.96757,-78.938136
+1742,North Carolina,2018-19,KIPP Charlotte,,,Mecklenburg,,96,,63.5,0,,2.1,35.250641,-80.767033
+1743,North Carolina,2018-19,Sedgefield Elementary,,,Guilford,,84,,63.1,0,,1.2,36.028822,-79.865345
+1744,North Carolina,2018-19,Gentry Primary,,,Harnett,,70,,62.9,0,,1.4,35.337929,-78.670605
+1745,North Carolina,2018-19,Academy at New Life,,,Cumberland,,8,,62.5,0,,0,34.97576,-78.988521
+1746,North Carolina,2018-19,Waldo C. Falkener Sr Elementary,,,Guilford,,101,,61.4,0,,0,36.081411,-79.735837
+1747,North Carolina,2018-19,Essie Mae Kiser Fox Charter,,,Rowan,,28,,60.7,0,,3.6,35.6818059,-80.4322801
+1748,North Carolina,2018-19,Sugarloaf Elementary,,,Henderson,,76,,60.5,0,,1.3,35.338777,-82.403583
+1749,North Carolina,2018-19,PreEminent Charter,,,Wake,,93,,60.2,0,,2.2,35.746493,-78.582647
+1750,North Carolina,2018-19,Blue Ridge Christian,,,Alleghany,,5,,60,0,,0,36.47264,-81.052408
+1751,North Carolina,2018-19,Sedalia Elementary,,,Guilford,,81,,59.3,0,,0,36.0678251,-79.6268849
+1752,North Carolina,2018-19,Union Elementary,,,Sampson,,138,,58,0,,0,34.825959,-78.243098
+1753,North Carolina,2018-19,Immaculata Catholic,,,Henderson,,14,,57.1,0,,0,35.3195,-82.464151
+1754,North Carolina,2018-19,Ephesus Road Elementary,,,Orange,,71,,56.3,0,,2.8,35.9335968,-79.0162087
+1755,North Carolina,2018-19,Walnut Creek Elementary,,,Wake,,89,,53.9,0,,0,35.7454091,-78.5878745
+1756,North Carolina,2018-19,West Bertie Elementary,,,Bertie,,37,,51.4,0,,0,36.157982,-77.215037
+1757,North Carolina,2018-19,Cyrus P. Frazier Elementary,,,Guilford,,56,,50,0,,0,36.0126285,-79.8258224
+1758,North Carolina,2018-19,Hayworth Christian,,,Guilford,,4,,50,0,,0,35.94913,-80.034361
+1759,North Carolina,2018-19,Aristotle Preparatory Academy,,,Mecklenburg,,19,,47.4,0,,0,35.3051,-80.952731
+1760,North Carolina,2018-19,Riverside Christian Academy,,,Cumberland,,13,,46.2,0,,0,35.0589809,-78.8486157
+1761,North Carolina,2018-19,Nations Ford Elementary,,,Mecklenburg,,117,,45.3,0.9,,0,35.154888,-80.900221
+1762,North Carolina,2018-19,Liberty Christian,,,Durham,,20,,45,5,,0,36.06362,-78.925441
+1763,North Carolina,2018-19,Moyock Elementary,,,Currituck,,85,,43.5,0,,2.4,36.524896,-76.173662
+1764,North Carolina,2018-19,Spruce Pine Montessori,,,Mitchell,,7,,42.9,0,,0,35.91674,-82.067191
+1765,North Carolina,2018-19,Starmount Acad of Excellence,,,Mecklenburg,,77,,40.3,0,,1.3,35.13929,-80.870511
+1766,North Carolina,2018-19,Annunciation Catholic,,,Craven,,23,,21.7,0,,0,34.87682,-76.904481
+1767,North Carolina,2018-19,Renaissance Montessori Sch. of Cary,,,Wake,,4,,0,0,,0,35.768228,-78.7436867

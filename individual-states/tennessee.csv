@@ -1,0 +1,1005 @@
+index,state,year,name,county,enroll,overall,xmed,xrel,lat,lng
+1,Tennessee,2018-19,Adamsville Elementary,McNairy ,77,100,0,0,35.232928,-88.386709
+2,Tennessee,2018-19,Allardt Elementary,Fentress ,35,100,0,0,36.377974,-84.880114
+3,Tennessee,2018-19,Allons Elementary,Overton ,40,100,0,0,36.437703,-85.346497
+4,Tennessee,2018-19,Andrew Johnson Elementary School ,Sullivan ,84,100,0,0,36.527844,-82.530446
+5,Tennessee,2018-19,Arrow Academy Of Excellence,Shelby ,17,100,0,0,35.1143,-89.9614
+6,Tennessee,2018-19,Ashland City Elementary,Cheatham ,89,100,0,0,36.270271,-87.063027
+7,Tennessee,2018-19,Aspire East Academy,Shelby ,84,100,0,0,35.05039,-89.834351
+8,Tennessee,2018-19,Auburn Elementary,Cannon ,10,100,0,0,35.945473,-86.097522
+9,Tennessee,2018-19,Baileyton Elementary,Greene ,31,100,0,0,36.33374,-82.838991
+10,Tennessee,2018-19,Barret's Chapel Elementary,Shelby ,50,100,0,0,35.3488206,-89.7196763
+11,Tennessee,2018-19,Bethel Grove Elementary,Shelby ,44,100,0,0,35.098928,-89.981157
+12,Tennessee,2018-19,Big Ridge Elementary,Union ,35,100,0,0,36.237865,-83.901951
+13,Tennessee,2018-19,Black Oak Elementary,Obion ,29,100,0,0,36.344565,-89.308583
+14,Tennessee,2018-19,Blanche,Lincoln ,31,100,0,0,35.038432,-86.757798
+15,Tennessee,2018-19,Bolivar Elementary,Hardeman ,100,100,0,0,35.261589,-89.001559
+16,Tennessee,2018-19,Burchfield Elementary,Scott ,48,100,0,0,36.503653,-84.532611
+17,Tennessee,2018-19,Camp Creek Elementary,Greene ,26,100,0,0,36.060834,-82.764332
+18,Tennessee,2018-19,Carter's Valley Elementary,Hawkins ,49,100,0,0,36.557078,-82.710021
+19,Tennessee,2018-19,Cassville Elementary,White ,35,100,0,0,35.956566,-85.599912
+20,Tennessee,2018-19,Catons Chapel Elementary,Sevier ,45,100,0,0,35.80153,-83.45612
+21,Tennessee,2018-19,Cecil B Rigsby Elementary,Bledsoe ,25,100,0,0,35.571327,-85.123218
+22,Tennessee,2018-19,Central Elementary,Carroll ,45,100,0,0,36.033894,-88.265624
+23,Tennessee,2018-19,Central Heights Elementary ,Sullivan ,43,100,0,0,36.578821,-82.359813
+24,Tennessee,2018-19,Clairfield Elementary,Claiborne ,7,100,0,0,36.568402,-83.926246
+25,Tennessee,2018-19,Coalfield,Morgan ,35,100,0,0,36.027196,-84.420971
+26,Tennessee,2018-19,Coalmont Elementary,Grundy ,24,100,0,0,35.34489,-85.700355
+27,Tennessee,2018-19,Cornerstone Prep - Lester Campus ,Shelby ,57,100,0,0,35.141146,-89.963536
+28,Tennessee,2018-19,Covington Integrated Arts Academy,Tipton ,66,100,0,0,35.555752,-89.661926
+29,Tennessee,2018-19,Decaturville Elementary ,Decatur ,51,100,0,0,35.574237,-88.127689
+30,Tennessee,2018-19,Decherd Elementary,Franklin ,57,100,0,0,35.209779,-86.071938
+31,Tennessee,2018-19,Defeated Elementary,Smith ,26,100,0,0,36.331488,-85.904609
+32,Tennessee,2018-19,Del Rio Elementary,Cocke ,22,100,0,0,35.901985,-83.014386
+33,Tennessee,2018-19,Doe Elementary,Johnson ,12,100,0,0,36.437756,-81.913922
+34,Tennessee,2018-19,Dubois Elementary,Shelby ,33,100,0,0,35.0491976,-89.7719539
+35,Tennessee,2018-19,E K Baker Elementary,McMinn ,30,100,0,0,35.508314,-84.64796
+36,Tennessee,2018-19,E.E. Jeter Elementary,Shelby ,51,100,0,0,35.3317411,-90.0293098
+37,Tennessee,2018-19,East Coffee Elementary,Coffee ,40,100,0,0,35.537014,-86.001671
+38,Tennessee,2018-19,East End Preparatory,Davidson ,109,100,0,0,36.206481,-86.718395
+39,Tennessee,2018-19,East Lincoln Elementary,Coffee ,55,100,0,0,35.366756,-86.200665
+40,Tennessee,2018-19,East Side Elementary,Cannon ,16,100,0,0,35.786194,-85.99422
+41,Tennessee,2018-19,Elk Valley Elementary,Campbell ,11,100,0,0,36.48251,-84.252674
+42,Tennessee,2018-19,Elzie D Patton Elementary,Wilson ,78,100,0,0,36.2187214,-86.5099257
+43,Tennessee,2018-19,Emerald Academy,Knox ,58,100,0,0,35.96772,-83.933281
+44,Tennessee,2018-19,Emmett Elementary ,Sullivan ,55,100,0,0,36.527823,-82.115224
+45,Tennessee,2018-19,Fairview Elementary,Anderson ,44,100,0,0,36.153475,-84.027465
+46,Tennessee,2018-19,Fairview Elementary,Scott ,38,100,0,0,36.378519,-84.40317
+47,Tennessee,2018-19,Fifth Consolidated School ,Dyer ,94,100,0,0,36.08711,-89.378261
+48,Tennessee,2018-19,Finley Elementary ,Dyer ,27,100,0,0,36.034678,-89.481837
+49,Tennessee,2018-19,Forge Ridge,Claiborne ,17,100,0,0,36.573126,-83.580369
+50,Tennessee,2018-19,Forks River Elementary,Smith ,36,100,0,0,36.215707,-85.868995
+51,Tennessee,2018-19,Frank Hughes School ,Wayne ,24,100,0,0,35.375678,-87.983049
+52,Tennessee,2018-19,Friendship Elementary,Crockett ,23,100,0,0,35.893858,-89.234776
+53,Tennessee,2018-19,Friendsville Elementary,Blount ,37,100,0,0,35.761886,-84.130823
+54,Tennessee,2018-19,Gap Creek Elementary,Knox ,14,100,0,0,35.925447,-83.763805
+55,Tennessee,2018-19,Gardenview Elementary,Shelby ,51,100,0,0,35.0374,-89.9974
+56,Tennessee,2018-19,Germantown Elementary,Shelby ,91,100,0,0,35.073359,-89.801912
+57,Tennessee,2018-19,Gleason School ,Weakley ,37,100,0,0,36.213216,-88.61371
+58,Tennessee,2018-19,Grand Junction Elementary,Hardeman ,26,100,0,0,35.042639,-89.190039
+59,Tennessee,2018-19,Grandview Elementary School ,Washington ,68,100,0,0,36.260427,-82.56747
+60,Tennessee,2018-19,Gray Elementary School ,Washington ,55,100,0,0,36.416586,-82.477942
+61,Tennessee,2018-19,Graysville Elementary,Rhea ,48,100,0,0,35.454217,-85.086027
+62,Tennessee,2018-19,Greenback,Loudon ,48,100,0,0,35.656744,-84.178656
+63,Tennessee,2018-19,Harris-Hillman Special Education,Davidson ,2,100,0,0,36.137308,-86.80719
+64,Tennessee,2018-19,Henry Elementary ,Henry ,47,100,0,0,36.205051,-88.411277
+65,Tennessee,2018-19,Hermitage Springs Elementary,Clay ,20,100,0,0,36.5760229,-85.782265
+66,Tennessee,2018-19,Highland Elementary,Greene ,32,100,0,0,36.167415,-82.835496
+67,Tennessee,2018-19,Hilham Elementary,Overton ,36,100,0,0,36.409087,-85.43392
+68,Tennessee,2018-19,Hornsby Elementary,Hardeman ,13,100,0,0,35.226626,-88.831214
+69,Tennessee,2018-19,Huntland,Franklin ,50,100,0,0,35.047057,-86.266541
+70,Tennessee,2018-19,Inglewood Elementary,Davidson ,35,100,0,0,36.197878,-86.724442
+71,Tennessee,2018-19,Irving College Elementary ,Warren ,18,100,0,0,35.583738,-85.714721
+72,Tennessee,2018-19,Jacks Creek Elementary,Chester ,40,100,0,0,35.470927,-88.519579
+73,Tennessee,2018-19,Joppa Elementary,Grainger ,52,100,0,0,36.237818,-83.61762
+74,Tennessee,2018-19,Kenton Elementary,Gibson ,20,100,0,0,36.1891008,-89.0081882
+75,Tennessee,2018-19,Keplar Elementary,Hawkins ,11,100,0,0,36.405598,-82.889885
+76,Tennessee,2018-19,Lake City Elementary,Anderson ,60,100,0,0,36.22048,-84.151921
+77,Tennessee,2018-19,Lake Road Elementary,Obion ,55,100,0,0,36.442653,-89.130275
+78,Tennessee,2018-19,Lakeside Academy,Hamilton ,70,100,0,0,35.091648,-85.17841
+79,Tennessee,2018-19,Lakeview Elementary,Humphreys ,28,100,0,0,36.008366,-87.961268
+80,Tennessee,2018-19,Lamar Elementary ,Washington ,46,100,0,0,36.217471,-82.46886
+81,Tennessee,2018-19,Lobelville Elementary,Perry ,27,100,0,0,35.771157,-87.780478
+82,Tennessee,2018-19,Lookout Mountain Elementary,Hamilton ,29,100,0,0,34.998968,-85.346712
+83,Tennessee,2018-19,Love Chapel Elementary,Unicoi ,61,100,0,0,36.13515,-82.410301
+84,Tennessee,2018-19,Lynchburg Elementary,Moore ,59,100,0,0,35.287667,-86.372976
+85,Tennessee,2018-19,Madison Creek Elementary,Sumner ,87,100,0,0,36.346234,-86.681163
+86,Tennessee,2018-19,Margaret Newton Elementary,Lake ,31,100,0,0,36.377669,-89.474834
+87,Tennessee,2018-19,Maury City Elementary,Crockett ,27,100,0,0,35.813637,-89.208772
+88,Tennessee,2018-19,Maynard Elementary,Knox ,26,100,0,0,35.969115,-83.938923
+89,Tennessee,2018-19,Mcdonald Elementary,Greene ,46,100,0,0,36.164556,-83.124193
+90,Tennessee,2018-19,Memphis Business Academy Hickory Hill Elementary School ,Shelby ,38,100,0,0,35.0271186,-89.8248007
+91,Tennessee,2018-19,Middle Valley Elementary,Hamilton ,140,100,0,0,35.190583,-85.190977
+92,Tennessee,2018-19,Midtown Elementary,Roane ,32,100,0,0,35.880304,-84.56694
+93,Tennessee,2018-19,Minor Hill,Giles ,24,100,0,0,35.053576,-87.157327
+94,Tennessee,2018-19,Mt Carmel Elementary,Hawkins ,38,100,0,0,36.546436,-82.658109
+95,Tennessee,2018-19,Nashville Classical,Davidson ,73,100,0,0,36.180032,-86.746335
+96,Tennessee,2018-19,New Hopewell Elementary,Knox ,42,100,0,0,35.923463,-83.813825
+97,Tennessee,2018-19,New Prospect Elementary,Lawrence ,45,100,0,0,35.224862,-87.247909
+98,Tennessee,2018-19,North Clinton Elementary,Anderson ,26,100,0,0,36.113052,-84.128268
+99,Tennessee,2018-19,North Lake Elementary,Franklin ,41,100,0,0,35.29731,-86.2205
+100,Tennessee,2018-19,Norwood Elementary,Anderson ,35,100,0,0,36.029399,-84.324016
+101,Tennessee,2018-19,Park Avenue Elementary,Davidson ,51,100,0,0,36.150885,-86.830109
+102,Tennessee,2018-19,Pegram Elementary,Cheatham ,32,100,0,0,36.10478,-87.053931
+103,Tennessee,2018-19,Pelham Elementary,Grundy ,19,100,0,0,35.309496,-85.884955
+104,Tennessee,2018-19,Philadelphia Elementary,Loudon ,46,100,0,0,35.680707,-84.402466
+105,Tennessee,2018-19,Pickwick Southside,Hardin ,27,100,0,0,35.042883,-88.347472
+106,Tennessee,2018-19,Pikeville Elementary,Bledsoe ,59,100,0,0,35.59744,-85.192318
+107,Tennessee,2018-19,Pine View Elementary,Cumberland ,16,100,0,0,35.872481,-84.765632
+108,Tennessee,2018-19,Pleasant Hill Elementary,Cumberland ,56,100,0,0,35.97869,-85.200302
+109,Tennessee,2018-19,Portland Gateview Elementary,Sumner ,81,100,0,0,36.5754562,-86.5590692
+110,Tennessee,2018-19,Power Center Academy,Shelby ,123,100,0,0,35.0509324,-89.8613647
+111,Tennessee,2018-19,Purpose Prep,Davidson ,88,100,0,0,36.1943,-86.794671
+112,Tennessee,2018-19,Red Boiling Springs Elementary,Macon ,52,100,0,0,36.534093,-85.84125
+113,Tennessee,2018-19,Richard Hardy Memorial,Marion ,17,100,0,0,34.996086,-85.721094
+114,Tennessee,2018-19,Riverview Elementary,Shelby ,32,100,0,0,35.096744,-90.0708636
+115,Tennessee,2018-19,Robert E. Lillard Elementary,Davidson ,46,100,0,0,36.2208091,-86.8272949
+116,Tennessee,2018-19,Rural Vale Elementary,Monroe ,21,100,0,0,35.324946,-84.373204
+117,Tennessee,2018-19,Russellville Elementary,Hamblen ,86,100,0,0,36.254446,-83.203885
+118,Tennessee,2018-19,Rutherford Elementary,Gibson ,28,100,0,0,36.128973,-88.987217
+119,Tennessee,2018-19,Santa Fe Unit,Maury ,41,100,0,0,35.732156,-87.12911
+120,Tennessee,2018-19,Scales Elementary,Williamson ,111,100,0,0,36.023318,-86.847084
+121,Tennessee,2018-19,Scotts Hill Elementary ,Henderson ,35,100,0,0,35.513815,-88.24428
+122,Tennessee,2018-19,Sewanee Elementary,Franklin ,35,100,0,0,35.197075,-85.920053
+123,Tennessee,2018-19,Shady Valley Elementary,Johnson ,5,100,0,0,36.523361,-81.925055
+124,Tennessee,2018-19,Sharon School ,Weakley ,19,100,0,0,36.241494,-88.825285
+125,Tennessee,2018-19,Sharps Chapel Elementary,Union ,19,100,0,0,36.345884,-83.7956
+126,Tennessee,2018-19,Shrine,Shelby ,11,100,0,0,35.058565,-89.920902
+127,Tennessee,2018-19,South Clinton Elementary,Anderson ,37,100,0,0,36.077332,-84.135937
+128,Tennessee,2018-19,South Fulton Elementary,Obion ,57,100,0,0,36.485499,-88.876377
+129,Tennessee,2018-19,South Polk Elementary,Polk ,50,100,0,0,35.079739,-84.714467
+130,Tennessee,2018-19,Spring Hill Elementary,Knox ,73,100,0,0,36.018955,-83.874642
+131,Tennessee,2018-19,Springdale Elementary,Claiborne ,45,100,0,0,36.42566,-83.52663
+132,Tennessee,2018-19,Star Academy,Shelby ,64,100,0,0,35.200375,-89.955469
+133,Tennessee,2018-19,T Lawson Early Childhood Education Center ,Sevier ,15,100,0,0,35.859923,-83.556004
+134,Tennessee,2018-19,Taylor Elementary,Bradley ,34,100,0,0,35.1208263,-84.7829481
+135,Tennessee,2018-19,Tennessee Elementary,Knox ,4,100,0,0,35.9592652,-83.8820777
+136,Tennessee,2018-19,"Tennessee School For The Deaf, Nashville",Knox ,1,100,0,0,35.9592587,-83.8798807
+137,Tennessee,2018-19,Tommie F. Brown Academy,Hamilton ,54,100,0,0,35.0437196,-85.2992616
+138,Tennessee,2018-19,Trimble Elementary ,Dyer ,29,100,0,0,36.200583,-89.184622
+139,Tennessee,2018-19,Tusculum View Elementary,Greene ,73,100,0,0,36.179422,-82.787617
+140,Tennessee,2018-19,Unaka Elementary,Carter ,30,100,0,0,36.406711,-82.093039
+141,Tennessee,2018-19,Unicoi Elementary,Unicoi ,50,100,0,0,36.196262,-82.354208
+142,Tennessee,2018-19,Union Heights Elementary,Hamblen ,42,100,0,0,36.181762,-83.243796
+143,Tennessee,2018-19,Union Heights Elementary,Smith ,21,100,0,0,36.262827,-86.056678
+144,Tennessee,2018-19,Unity,Lincoln ,43,100,0,0,35.237563,-86.705259
+145,Tennessee,2018-19,Valley View Elementary,Campbell ,69,100,0,0,36.4191,-84.028512
+146,Tennessee,2018-19,Vanleer Elementary ,Dickson ,41,100,0,0,36.238166,-87.444863
+147,Tennessee,2018-19,Washburn,Grainger ,41,100,0,0,36.293695,-83.59075
+148,Tennessee,2018-19,Wearwood Elementary ,Sevier ,20,100,0,0,35.725001,-83.645058
+149,Tennessee,2018-19,West Cheatham Elementary,Cheatham ,66,100,0,0,36.34113,-87.166643
+150,Tennessee,2018-19,West Pines Elementary,Greene ,16,100,0,0,36.341015,-82.717384
+151,Tennessee,2018-19,West Side Elementary,Carter ,62,100,0,0,36.34281,-82.246084
+152,Tennessee,2018-19,West Tennessee School For Deaf,Jackson ,1,100,0,0,35.645636,-88.788534
+153,Tennessee,2018-19,Westover Elementary ,Henderson ,55,100,0,0,35.689694,-88.537575
+154,Tennessee,2018-19,Westside Elementary,Macon ,51,100,0,0,36.525997,-86.174306
+155,Tennessee,2018-19,White Oak Elementary,Campbell ,13,100,0,0,36.533303,-84.031696
+156,Tennessee,2018-19,White Station Elementary,Shelby ,108,100,0,0,35.139525,-89.900843
+157,Tennessee,2018-19,Wynn Habersham Elementary,Campbell ,19,100,0,0,36.498252,-84.07236
+158,Tennessee,2018-19,Yorkville Elementary,Gibson ,8,100,0,0,36.092563,-89.119565
+159,Tennessee,2018-19,Ripley Primary,Lauderdale ,184,99.5,0,0.5,35.72625,-89.556594
+160,Tennessee,2018-19,Altruria Elementary ,Shelby ,144,99.3,0,0.7,35.21468,-89.842251
+161,Tennessee,2018-19,Donelson Elementary ,Shelby ,150,99.3,0,0.7,35.253193,-89.65848
+162,Tennessee,2018-19,Atoka Elementary,Tipton ,124,99.2,0,0.8,35.4220546,-89.7673004
+163,Tennessee,2018-19,Smith Springs Elementary,Davidson ,118,99.2,0,0,36.0834634,-86.5958801
+164,Tennessee,2018-19,Thomas A. Edison Elementary ,Davidson ,121,99.2,0,0,36.062605,-86.604851
+165,Tennessee,2018-19,Sango Elementary,Montgomery ,107,99.1,0,0,36.507567,-87.209869
+166,Tennessee,2018-19,Schilling Farms Elementary School ,Shelby ,114,99.1,0,0,35.0341065,-89.7032253
+167,Tennessee,2018-19,Bailey Station Elementary School ,Shelby ,105,99,0,0,35.05506,-89.723661
+168,Tennessee,2018-19,Baxter Primary,Putnam ,104,99,0,1,36.151937,-85.642632
+169,Tennessee,2018-19,Howard Elementary,Sumner ,97,99,0,0,36.387332,-86.464806
+170,Tennessee,2018-19,Julia Green Elementary,Davidson ,104,99,0,1,36.102824,-86.833499
+171,Tennessee,2018-19,Lascassas Elementary,Rutherford ,97,99,0,0,35.926384,-86.279831
+172,Tennessee,2018-19,Oak Grove Elementary,Marshall ,203,99,0,0.5,35.485727,-86.805771
+173,Tennessee,2018-19,Alamo Elementary,Crockett ,93,98.9,0,0,35.783854,-89.112332
+174,Tennessee,2018-19,Andrew Jackson Elementary,Davidson ,93,98.9,0,1.1,36.231493,-86.622525
+175,Tennessee,2018-19,Lakeview Elementary,Wilson ,89,98.9,0,1.1,36.2612605,-86.5492188
+176,Tennessee,2018-19,Lawrenceburg Public,Lawrence ,94,98.9,0,1.1,35.217958,-87.326801
+177,Tennessee,2018-19,Newport Grammar,Cocke ,91,98.9,0,0,35.96313,-83.187118
+178,Tennessee,2018-19,Nolensville Elementary,Williamson ,89,98.9,0,0,35.958372,-86.671241
+179,Tennessee,2018-19,W G Rhea Elementary ,Henry ,176,98.9,0,0,36.29921,-88.292044
+180,Tennessee,2018-19,White Bluff Elementary ,Dickson ,95,98.9,0,1.1,36.119683,-87.220152
+181,Tennessee,2018-19,Clinton Elementary,Anderson ,83,98.8,0,0,36.102402,-84.134589
+182,Tennessee,2018-19,Dogwood Elementary,Knox ,85,98.8,0,1.2,35.947011,-83.90166
+183,Tennessee,2018-19,Ellendale Elementary ,Shelby ,83,98.8,0,1.2,35.235885,-89.83169
+184,Tennessee,2018-19,Huntsville Elementary,Scott ,86,98.8,0,0,36.410132,-84.482127
+185,Tennessee,2018-19,Perea Elementary School ,Shelby ,82,98.8,0,0,35.1654609,-90.014501
+186,Tennessee,2018-19,Poplar Grove K-4,Williamson ,81,98.8,0,0,35.934638,-86.891675
+187,Tennessee,2018-19,John Adams Elementary School ,Sullivan ,79,98.7,0,0,36.446536,-82.568699
+188,Tennessee,2018-19,Montvale Elementary,Blount ,78,98.7,0,0,35.693013,-83.966507
+189,Tennessee,2018-19,Walton Ferry Elementary,Sumner ,76,98.7,0,0,36.2641,-86.630983
+190,Tennessee,2018-19,Austin Peay Elementary,Tipton ,72,98.6,0,0,35.4575574,-89.6449482
+191,Tennessee,2018-19,East Cheatham Elementary,Cheatham ,69,98.6,1.4,0,36.327789,-86.960189
+192,Tennessee,2018-19,Edgemont Elementary,Cocke ,71,98.6,0,0,35.962076,-83.255333
+193,Tennessee,2018-19,Fall-Hamilton Elementary,Davidson ,69,98.6,0,0,36.133854,-86.76562
+194,Tennessee,2018-19,Haynesfield Elementary,Sullivan ,72,98.6,0,1.4,36.572337,-82.188021
+195,Tennessee,2018-19,Kipp Antioch College Prep Elementary ,Davidson ,142,98.6,0,0,36.046634,-86.613019
+196,Tennessee,2018-19,Lincoln Elementary,Madison ,69,98.6,0,0,35.6210772,-88.8024366
+197,Tennessee,2018-19,Meigs South Elementary,Meigs ,74,98.6,0,1.4,35.426922,-84.86746
+198,Tennessee,2018-19,Richland Elementary,Giles ,71,98.6,0,1.4,35.329695,-87.033328
+199,Tennessee,2018-19,Richland Elementary,Shelby ,148,98.6,0,1.4,35.136188,-89.880728
+200,Tennessee,2018-19,Riverdale Elementary School ,Shelby ,141,98.6,0,0.7,35.10159,-89.817431
+201,Tennessee,2018-19,Rutledge Primary,Grainger ,69,98.6,0,0,36.280729,-83.509157
+202,Tennessee,2018-19,Vision Preparatory Charter,Shelby ,73,98.6,0,0,35.0953438,-90.07169
+203,Tennessee,2018-19,Watt Hardison Elementary,Sumner ,69,98.6,0,1.4,36.589728,-86.510394
+204,Tennessee,2018-19,Denmark Elementary,Madison ,65,98.5,0,0,35.551,-88.97372
+205,Tennessee,2018-19,Old Center Elementary,Davidson ,67,98.5,0,0,36.291432,-86.737833
+206,Tennessee,2018-19,Riceville Elementary,McMinn ,66,98.5,0,0,35.394568,-84.68549
+207,Tennessee,2018-19,Waynesboro Elementary ,Wayne ,67,98.5,0,1.5,35.313401,-87.762714
+208,Tennessee,2018-19,Cornersville Elementary,Marshall ,61,98.4,0,0,35.370877,-86.840896
+209,Tennessee,2018-19,Fairlane Elementary,Macon ,245,98.4,0,0,36.521724,-86.034078
+210,Tennessee,2018-19,Frank P. Brown Elementary,Cumberland ,61,98.4,0,1.6,35.857513,-85.058841
+211,Tennessee,2018-19,Jo Byrns Elementary,Robertson ,64,98.4,0,0,36.5561999,-86.9864158
+212,Tennessee,2018-19,Rock Creek Elementary,Franklin ,63,98.4,0,0,35.270259,-86.145218
+213,Tennessee,2018-19,West Haven Elementary,Knox ,62,98.4,0,1.6,35.983544,-83.982345
+214,Tennessee,2018-19,Balmoral/Ridgeway Elementary,Shelby ,58,98.3,0,0,35.0797,-89.8667
+215,Tennessee,2018-19,Bells Elementary,Crockett ,60,98.3,0,0,35.724143,-89.091722
+216,Tennessee,2018-19,C Hal Henard Elementary,Greene ,59,98.3,0,0,36.148737,-82.844521
+217,Tennessee,2018-19,Celina K-8,Clay ,59,98.3,0,1.7,36.538893,-85.508041
+218,Tennessee,2018-19,Collinwood Elementary ,Wayne ,60,98.3,1.7,0,35.179803,-87.73999
+219,Tennessee,2018-19,Hillcrest Elementary,Obion ,59,98.3,0,1.7,36.331755,-89.171208
+220,Tennessee,2018-19,Holston View Elementary,Sullivan ,58,98.3,1.7,0,36.58264,-82.141663
+221,Tennessee,2018-19,Mcdowell Elementary,Maury ,59,98.3,0,1.7,35.616582,-87.047994
+222,Tennessee,2018-19,Mcfadden School Of Excellence,Rutherford ,59,98.3,0,1.7,35.842952,-86.399987
+223,Tennessee,2018-19,Mountain City Elementary,Johnson ,58,98.3,0,1.7,36.473315,-81.806947
+224,Tennessee,2018-19,New Middleton Elementary,Smith ,60,98.3,0,1.7,36.175952,-85.999209
+225,Tennessee,2018-19,Pulaski Elementary,Giles ,118,98.3,0,1.7,35.191063,-87.023177
+226,Tennessee,2018-19,South Side Elementary,Bedford ,58,98.3,0,1.7,35.469351,-86.467244
+227,Tennessee,2018-19,Spencer Elementary ,Van Buren ,60,98.3,0,0,35.745077,-85.462629
+228,Tennessee,2018-19,Thomas Magnet Elementary,Bedford ,59,98.3,0,1.7,35.4886962,-86.4644595
+229,Tennessee,2018-19,Dyersburg Primary ,Dyer ,226,98.2,0.9,0,36.046762,-89.361555
+230,Tennessee,2018-19,Harold Mccormick Elementary,Carter ,55,98.2,0,0,36.345113,-82.215825
+231,Tennessee,2018-19,Jefferson Elementary,Jefferson ,57,98.2,0,0,36.109386,-83.5126
+232,Tennessee,2018-19,Ketron Elementary School ,Sullivan ,114,98.2,0,1.8,36.582483,-82.485938
+233,Tennessee,2018-19,Pleasant Ridge Elementary,Knox ,57,98.2,1.8,0,35.992045,-84.006905
+234,Tennessee,2018-19,Smyrna Primary,Rutherford ,113,98.2,0,0,35.977854,-86.521342
+235,Tennessee,2018-19,Southwind Elementary,Shelby ,112,98.2,0,0,35.026351,-89.791306
+236,Tennessee,2018-19,Springdale Elementary School ,Wilson ,109,98.2,0,1.8,36.17046,-86.548121
+237,Tennessee,2018-19,Wallace A. Smith Elementary,Hamilton ,111,98.2,0,0,35.117756,-85.091124
+238,Tennessee,2018-19,Andersonville Elementary,Anderson ,53,98.1,1.9,0,36.197267,-84.036694
+239,Tennessee,2018-19,Bartlett Elementary School ,Shelby ,106,98.1,0,1.9,35.23335,-89.864771
+240,Tennessee,2018-19,Benny C. Bills Elementary,Sumner ,108,98.1,0,0.9,36.4069963,-86.4412997
+241,Tennessee,2018-19,Dogwood Elementary School ,Shelby ,158,98.1,0,1.9,35.08461,-89.764931
+242,Tennessee,2018-19,Dupont Elementary,Hamilton ,54,98.1,0,0,35.114184,-85.253259
+243,Tennessee,2018-19,Englewood Elementary,McMinn ,54,98.1,0,0,35.424458,-84.483572
+244,Tennessee,2018-19,Huntingdon Primary,Carroll ,108,98.1,0,1.9,36.010634,-88.427808
+245,Tennessee,2018-19,Roan Creek Elementary,Johnson ,53,98.1,1.9,0,36.422132,-81.829463
+246,Tennessee,2018-19,South Lincoln,Lincoln ,54,98.1,0,1.9,35.051791,-86.504876
+247,Tennessee,2018-19,Charjean Elementary,Shelby ,50,98,0,0,35.086938,-89.982042
+248,Tennessee,2018-19,Cockrill Elementary,Davidson ,51,98,0,0,36.155763,-86.844976
+249,Tennessee,2018-19,Erma Siegel Elementary,Rutherford ,98,98,0,2,35.909062,-86.387751
+250,Tennessee,2018-19,Hunter Elementary,Carter ,51,98,2,0,36.372258,-82.159893
+251,Tennessee,2018-19,Lewis County Elementary,Lewis ,147,98,0,1.4,35.543881,-87.55532
+252,Tennessee,2018-19,Mountain View Elementary,McMinn ,51,98,0,0,35.326307,-84.542725
+253,Tennessee,2018-19,Northfield Elementary,White ,50,98,0,2,36.031262,-85.524992
+254,Tennessee,2018-19,Ridgeview Elementary School ,Washington ,98,98,0,2,36.392706,-82.504462
+255,Tennessee,2018-19,Stuart Burns Elementary ,Dickson ,99,98,0,1,36.045369,-87.26588
+256,Tennessee,2018-19,Woodbury Grammar,Cannon ,49,98,0,2,35.823009,-86.076302
+257,Tennessee,2018-19,Capshaw Elementary,Putnam ,96,97.9,0,1,36.15824,-85.494156
+258,Tennessee,2018-19,Central Elementary,Morgan ,96,97.9,1,1,36.103684,-84.574469
+259,Tennessee,2018-19,David Youree Elementary,Rutherford ,140,97.9,0,0.7,35.971896,-86.527977
+260,Tennessee,2018-19,Dresden Elementary ,Weakley ,94,97.9,0,1.1,36.278217,-88.704289
+261,Tennessee,2018-19,North Coffee Elementary,Coffee ,48,97.9,0,2.1,35.541058,-86.166039
+262,Tennessee,2018-19,Northaven Elementary ,Shelby ,48,97.9,0,2.1,35.2653,-90.0423
+263,Tennessee,2018-19,Northwest Elementary,Cocke ,47,97.9,0,2.1,35.989883,-83.176959
+264,Tennessee,2018-19,Buchanan Elementary,Rutherford ,92,97.8,0,1.1,35.757525,-86.336672
+265,Tennessee,2018-19,Dorothy And Noble Harrelson School ,Henry ,46,97.8,0,2.2,36.430955,-88.330615
+266,Tennessee,2018-19,East Brainerd Elementary,Hamilton ,180,97.8,0,1.1,35.014851,-85.161405
+267,Tennessee,2018-19,Eastside Elementary ,Warren ,46,97.8,0,0,35.739452,-85.662552
+268,Tennessee,2018-19,Flintville,Lincoln ,46,97.8,0,0,35.059582,-86.413561
+269,Tennessee,2018-19,Joelton Elementary,Davidson ,46,97.8,0,0,36.315761,-86.867979
+270,Tennessee,2018-19,La Grange Moscow Elementary ,Fayette ,45,97.8,0,0,35.058188,-89.37148
+271,Tennessee,2018-19,Millersville Elementary,Sumner ,45,97.8,0,2.2,36.379574,-86.707012
+272,Tennessee,2018-19,Rivercrest Elementary ,Shelby ,89,97.8,0,1.1,35.258881,-89.854365
+273,Tennessee,2018-19,Station Camp Elementary,Sumner ,180,97.8,0,1.1,36.363258,-86.547299
+274,Tennessee,2018-19,Trousdale Co Elementary,Trousdale ,89,97.8,0,0,36.38421,-86.138841
+275,Tennessee,2018-19,Union City Elementary,Obion ,137,97.8,0,0.7,36.4155864,-89.0398595
+276,Tennessee,2018-19,Westwood Elementary,Coffee ,89,97.8,0,1.1,35.471491,-86.094921
+277,Tennessee,2018-19,Dibrell Elementary ,Warren ,44,97.7,2.3,0,35.811873,-85.794519
+278,Tennessee,2018-19,Dunbar Elementary,Shelby ,44,97.7,0,0,35.106753,-89.975434
+279,Tennessee,2018-19,Newbern Elementary School ,Dyer ,86,97.7,0,1.2,36.117328,-89.259484
+280,Tennessee,2018-19,North Side Elementary ,Washington ,43,97.7,0,0,36.324128,-82.359259
+281,Tennessee,2018-19,Power Center Academy Elementary - Southeast ,Shelby ,43,97.7,0,0,35.021818,-89.789981
+282,Tennessee,2018-19,Sycamore Elementary School ,Shelby ,87,97.7,0,0,35.012363,-89.68167
+283,Tennessee,2018-19,Sylvan Park Elementary ,Davidson ,87,97.7,0,2.3,36.144434,-86.845099
+284,Tennessee,2018-19,Carroll Oakland Elementary,Wilson ,83,97.6,0,2.4,36.276114,-86.278934
+285,Tennessee,2018-19,Cason Lane Academy,Rutherford ,126,97.6,0,1.6,35.824448,-86.444462
+286,Tennessee,2018-19,Debusk Elementary,Greene ,42,97.6,0,0,36.113491,-82.876758
+287,Tennessee,2018-19,Gene W. Brown Elementary,Sumner ,85,97.6,0,1.2,36.298246,-86.628538
+288,Tennessee,2018-19,George Washington Elementary School ,Sullivan ,82,97.6,1.2,0,36.5562631,-82.6323064
+289,Tennessee,2018-19,Hickman Elementary,Davidson ,85,97.6,0,1.2,36.165012,-86.657243
+290,Tennessee,2018-19,Jones Elementary,Davidson ,41,97.6,0,2.4,36.181308,-86.801336
+291,Tennessee,2018-19,Morrison Elementary ,Warren ,41,97.6,0,0,35.601364,-85.908403
+292,Tennessee,2018-19,Warner Elementary ,Davidson ,41,97.6,2.4,0,36.172018,-86.760082
+293,Tennessee,2018-19,Woodland Elementary,Cannon ,42,97.6,0,2.4,35.711777,-86.057512
+294,Tennessee,2018-19,Cane Creek Elementary,Putnam ,79,97.5,2.5,0,36.163479,-85.530573
+295,Tennessee,2018-19,Doyle Elementary,White ,40,97.5,0,2.5,35.849526,-85.510593
+296,Tennessee,2018-19,Glengarry Elementary,Davidson ,79,97.5,0,0,36.110769,-86.706659
+297,Tennessee,2018-19,Hardy Elementary,Hamilton ,81,97.5,0,0,35.0620637,-85.2574248
+298,Tennessee,2018-19,Lavergne Lake Elementary,Rutherford ,157,97.5,0.6,1.3,36.0314573,-86.5552819
+299,Tennessee,2018-19,Michigan Avenue Elementary,Bradley ,79,97.5,0,2.5,35.1628442,-84.8203757
+300,Tennessee,2018-19,Rocky Hill Elementary,Knox ,119,97.5,0,1.7,35.908986,-84.023056
+301,Tennessee,2018-19,Tellico Plains Elementary,Monroe ,81,97.5,0,1.2,35.381641,-84.307709
+302,Tennessee,2018-19,Union Elementary,Sumner ,79,97.5,0,2.5,36.4008658,-86.4558471
+303,Tennessee,2018-19,Black Fox Elementary,Rutherford ,114,97.4,0,1.8,35.81421,-86.365897
+304,Tennessee,2018-19,Broadview Elementary,Franklin ,38,97.4,0,0,35.186234,-86.193584
+305,Tennessee,2018-19,Camden Elementary,Benton,153,97.4,0,1.3,36.069243,-88.100077
+306,Tennessee,2018-19,Cosby Elementary,Cocke ,39,97.4,0,0,35.841728,-83.223083
+307,Tennessee,2018-19,Eakin Elementary,Davidson ,116,97.4,0,1.7,36.135254,-86.807706
+308,Tennessee,2018-19,Hampton Elementary,Carter ,38,97.4,0,0,36.284882,-82.167231
+309,Tennessee,2018-19,Kingston Elementary,Roane ,115,97.4,0,0.9,35.860961,-84.485768
+310,Tennessee,2018-19,Nannie Berry Elementary,Sumner ,77,97.4,0,1.3,36.301786,-86.602515
+311,Tennessee,2018-19,Ridgemont Elementary,Obion ,38,97.4,0,0,36.376612,-89.065592
+312,Tennessee,2018-19,South Side Elementary ,Henderson ,38,97.4,0,2.6,35.502925,-88.322061
+313,Tennessee,2018-19,Southside Elementary ,Wilson ,77,97.4,0,0,36.169653,-86.305567
+314,Tennessee,2018-19,Springdale Elementary,Shelby ,39,97.4,0,0,35.15957,-89.975305
+315,Tennessee,2018-19,Sullivan Gardens K-8 ,Sullivan ,38,97.4,0,2.6,36.480118,-82.594793
+316,Tennessee,2018-19,Tennessee Ridge Elementary,Houston ,38,97.4,0,2.6,36.313766,-87.774139
+317,Tennessee,2018-19,Boones Creek Elementary ,Washington ,75,97.3,0,1.3,36.371732,-82.424624
+318,Tennessee,2018-19,Cedar Grove Elementary,Rutherford ,187,97.3,0.5,1.6,35.98481,-86.563727
+319,Tennessee,2018-19,Edmondson Elementary,Williamson ,110,97.3,0,2.7,36.004803,-86.740796
+320,Tennessee,2018-19,Highland Park Elementary,Loudon ,73,97.3,0,2.7,35.810206,-84.253924
+321,Tennessee,2018-19,Loudon Elementary,Loudon ,75,97.3,0,2.7,35.721314,-84.341402
+322,Tennessee,2018-19,Norwood Elementary,Knox ,74,97.3,0,2.7,35.999307,-83.989325
+323,Tennessee,2018-19,Robert F. Woodall Elementary,Robertson ,149,97.3,0.7,0,36.474065,-86.673387
+324,Tennessee,2018-19,W A Wright Elementary ,Wilson ,73,97.3,0,1.4,36.233724,-86.536312
+325,Tennessee,2018-19,Corryton Elementary,Knox ,36,97.2,0,0,36.145508,-83.772774
+326,Tennessee,2018-19,Farmington Elementary School ,Shelby ,143,97.2,0,2.8,35.092293,-89.778302
+327,Tennessee,2018-19,Harpeth Valley Elementary,Davidson ,142,97.2,0.7,1.4,36.04585,-86.958858
+328,Tennessee,2018-19,Magnolia Elementary ,Shelby ,72,97.2,0,1.4,35.102704,-89.993886
+329,Tennessee,2018-19,Mooreland Heights Elementary,Knox ,71,97.2,0,2.8,35.918189,-83.899709
+330,Tennessee,2018-19,Napier Elementary,Davidson ,72,97.2,0,0,36.150125,-86.75572
+331,Tennessee,2018-19,Oakdale,Morgan ,36,97.2,0,0,35.982285,-84.578253
+332,Tennessee,2018-19,Oakland Elementary ,Fayette ,106,97.2,0,0.9,35.230621,-89.517468
+333,Tennessee,2018-19,Rhea Central Elementary,Rhea ,109,97.2,0,1.8,35.49871,-85.026941
+334,Tennessee,2018-19,Sam Houston Elementary,Wilson ,109,97.2,0,0.9,36.225422,-86.285818
+335,Tennessee,2018-19,Thomas Jefferson Elementary School ,Sullivan ,72,97.2,0,2.8,36.539327,-82.521291
+336,Tennessee,2018-19,Tom Joy Elementary ,Davidson ,71,97.2,0,0,36.208628,-86.755744
+337,Tennessee,2018-19,Towne Acres Elementary ,Washington ,72,97.2,0,1.4,36.343499,-82.385324
+338,Tennessee,2018-19,Belle Morris Elementary,Knox ,70,97.1,0,2.9,36.000586,-83.913022
+339,Tennessee,2018-19,Cornerstone Prep Denver Campus ,Shelby ,102,97.1,0,0,35.217787,-89.997445
+340,Tennessee,2018-19,Eagleton Elementary,Blount ,69,97.1,0,0,35.805866,-83.916372
+341,Tennessee,2018-19,East Chester Elementary,Chester ,139,97.1,0.7,0.7,35.4427913,-88.6230268
+342,Tennessee,2018-19,East Knox Elementary,Knox ,70,97.1,1.4,0,36.085978,-83.763474
+343,Tennessee,2018-19,Memphis School Of Excellence Elementary ,Shelby ,35,97.1,0,2.9,35.02707,-89.880401
+344,Tennessee,2018-19,Northshore Elementary,Knox ,137,97.1,0.7,1.5,35.8609419,-84.0820785
+345,Tennessee,2018-19,Rocketship United,Davidson ,104,97.1,0,1,36.130427,-86.724649
+346,Tennessee,2018-19,St Clair Elementary,Hawkins ,34,97.1,0,0,36.334222,-83.091488
+347,Tennessee,2018-19,Tara Oaks Elementary School ,Shelby ,103,97.1,0,2.9,35.068589,-89.648433
+348,Tennessee,2018-19,The Discovery School ,Dickson ,34,97.1,0,2.9,36.075451,-87.369181
+349,Tennessee,2018-19,Whitwell Elementary,Marion ,104,97.1,0,2.9,35.180573,-85.533971
+350,Tennessee,2018-19,Blackman Elementary,Rutherford ,168,97,0,1.8,35.8537104,-86.4665499
+351,Tennessee,2018-19,Bon Lin Elementary School ,Shelby ,101,97,0,1,35.232836,-89.790803
+352,Tennessee,2018-19,Halls Elementary,Lauderdale ,67,97,0,3,35.8825047,-89.4044101
+353,Tennessee,2018-19,Linden Elementary,Anderson ,101,97,0,3,36.001081,-84.307995
+354,Tennessee,2018-19,New Center Elementary,Sevier ,100,97,0,2,35.881926,-83.440857
+355,Tennessee,2018-19,Parsons Elementary ,Decatur ,66,97,0,0,35.645781,-88.129422
+356,Tennessee,2018-19,Percy Priest Elementary,Davidson ,99,97,0,2,36.062289,-86.83389
+357,Tennessee,2018-19,Rock Creek Elementary,Unicoi ,33,97,0,3,36.149116,-82.388846
+358,Tennessee,2018-19,Selmer Elementary,McNairy ,99,97,0,1,35.162856,-88.579418
+359,Tennessee,2018-19,Tazewell-New Tazewell Elementary,Claiborne ,100,97,1,0,36.442261,-83.585939
+360,Tennessee,2018-19,West Hardin Elementary,Hardin ,33,97,0,0,35.247486,-88.342399
+361,Tennessee,2018-19,Westview Elementary,Hamilton ,101,97,0,0,35.002045,-85.098406
+362,Tennessee,2018-19,Bridgeport Elementary,Cocke ,32,96.9,0,0,35.949294,-83.128375
+363,Tennessee,2018-19,Cane Ridge Elementary,Davidson ,97,96.9,0,0,36.039872,-86.618255
+364,Tennessee,2018-19,Church Hill Elementary,Hawkins ,64,96.9,0,0,36.526351,-82.697819
+365,Tennessee,2018-19,East Hardin Elementary,Hardin ,65,96.9,0,1.5,35.194935,-88.234813
+366,Tennessee,2018-19,Liberty Elementary,Bedford ,64,96.9,0,0,35.429749,-86.510125
+367,Tennessee,2018-19,Martin Primary ,Weakley ,130,96.9,0,0.8,36.339868,-88.843757
+368,Tennessee,2018-19,Porter Elementary,Blount ,32,96.9,0,3.1,35.804591,-83.869937
+369,Tennessee,2018-19,Rutland Elementary,Wilson ,163,96.9,0,1.2,36.1678,-86.479718
+370,Tennessee,2018-19,Spring City Elementary,Rhea ,96,96.9,0,2.1,35.689632,-84.860552
+371,Tennessee,2018-19,Sunset Elementary,Williamson ,96,96.9,0,1,35.964762,-86.6847693
+372,Tennessee,2018-19,Alexander Elementary,Madison ,62,96.8,0,0,35.6294082,-88.8171302
+373,Tennessee,2018-19,Arlington Elementary,Madison ,95,96.8,0,1.1,35.6285174,-88.8332509
+374,Tennessee,2018-19,Beech Elementary,Sumner ,63,96.8,0,3.2,36.371584,-86.623475
+375,Tennessee,2018-19,Bethel Springs Elementary,McNairy ,62,96.8,0,0,35.234277,-88.608269
+376,Tennessee,2018-19,College Grove Elementary,Williamson ,93,96.8,0,2.2,35.790395,-86.680139
+377,Tennessee,2018-19,Dodson Elementary,Davidson ,94,96.8,0,2.1,36.19094,-86.603295
+378,Tennessee,2018-19,East Ridge Elementary,Hamilton ,155,96.8,0,1.3,34.995951,-85.24928
+379,Tennessee,2018-19,Harrison Elementary,Hamilton ,63,96.8,0,0,35.111387,-85.141786
+380,Tennessee,2018-19,Mount Horeb Elementary,Jefferson ,93,96.8,1.1,0,36.0746045,-83.4444368
+381,Tennessee,2018-19,Chattanooga School For The Arts and Sciences,Hamilton ,60,96.7,1.7,1.7,35.0502808,-85.2948715
+382,Tennessee,2018-19,Discovery,Rutherford ,61,96.7,0,1.6,35.82818,-86.387861
+383,Tennessee,2018-19,Eaton Elementary,Loudon ,123,96.7,0,2.4,35.840149,-84.290904
+384,Tennessee,2018-19,Greenbrier Elementary,Robertson ,91,96.7,0,2.2,36.434167,-86.809744
+385,Tennessee,2018-19,Jasper Elementary,Marion ,120,96.7,0,1.7,35.0843305,-85.6164941
+386,Tennessee,2018-19,Manley Elementary,Hamblen ,90,96.7,0,0,36.208822,-83.335492
+387,Tennessee,2018-19,Miller Perry Elementary ,Sullivan ,60,96.7,0,0,36.452727,-82.508282
+388,Tennessee,2018-19,Robert E Lee Elementary,Coffee ,91,96.7,0,3.3,35.378385,-86.213029
+389,Tennessee,2018-19,Sam Houston Elementary,Blount ,121,96.7,0,2.5,35.745691,-83.974028
+390,Tennessee,2018-19,Willow Brook Elementary,Anderson ,61,96.7,0,1.6,36.011284,-84.280441
+391,Tennessee,2018-19,Allendale Elementary,Williamson ,88,96.6,0,1.1,35.7562185,-86.8944311
+392,Tennessee,2018-19,Beaver Elementary ,Henderson ,29,96.6,0,3.4,35.770021,-88.393327
+393,Tennessee,2018-19,Ellen Myers Primary,Claiborne ,58,96.6,0,1.7,36.587106,-83.655452
+394,Tennessee,2018-19,Ethridge Elementary,Lawrence ,59,96.6,0,3.4,35.322605,-87.296233
+395,Tennessee,2018-19,Highland Rim,Lincoln ,89,96.6,0,1.1,35.065359,-86.59238
+396,Tennessee,2018-19,Holice Powell Elementary ,Dyer ,29,96.6,0,3.4,35.971116,-89.388854
+397,Tennessee,2018-19,Ingleside Elementary,McMinn ,87,96.6,0,0,35.450493,-84.587258
+398,Tennessee,2018-19,Kenwood Elementary,Montgomery ,89,96.6,0,2.2,36.579208,-87.389317
+399,Tennessee,2018-19,Lakeview Elementary,Davidson ,118,96.6,0,0,36.079026,-86.630677
+400,Tennessee,2018-19,Overall Creek Elementary,Rutherford ,178,96.6,0,2.2,35.837887,-86.487508
+401,Tennessee,2018-19,Powell Valley Elementary,Claiborne ,29,96.6,0,0,36.501059,-83.79135
+402,Tennessee,2018-19,Big Ridge Elementary,Hamilton ,85,96.5,0,2.4,35.131735,-85.211142
+403,Tennessee,2018-19,Bowers Elementary,Roane ,86,96.5,0,0,35.916144,-84.561336
+404,Tennessee,2018-19,Dr. William Burrus Elementary,Sumner ,85,96.5,0,3.5,36.3411293,-86.5839564
+405,Tennessee,2018-19,Happy Valley Elementary,Carter ,85,96.5,1.2,0,36.315622,-82.284855
+406,Tennessee,2018-19,Hickory Creek School ,Warren ,113,96.5,0,0.9,35.642766,-85.813858
+407,Tennessee,2018-19,J E Woody Elementary,Maury ,113,96.5,0,0.9,35.544051,-87.205321
+408,Tennessee,2018-19,J. R. Baker Elementary,Maury ,57,96.5,0,1.8,35.61851,-87.079224
+409,Tennessee,2018-19,Lanier Elementary,Blount ,57,96.5,0,1.8,35.623104,-84.097271
+410,Tennessee,2018-19,Milan Elementary,Gibson ,141,96.5,0.7,1.4,35.942157,-88.76413
+411,Tennessee,2018-19,Pond Gap Elementary,Knox ,57,96.5,0,0,35.95181,-83.984603
+412,Tennessee,2018-19,Scales Elementary,Rutherford ,170,96.5,0,2.4,35.81874,-86.460133
+413,Tennessee,2018-19,Vena Stuart Elementary,Sumner ,114,96.5,0,0.9,36.39458,-86.426772
+414,Tennessee,2018-19,Woodland Elementary,Anderson ,85,96.5,0,3.5,36.011877,-84.243938
+415,Tennessee,2018-19,A L Lotts Elementary,Knox ,168,96.4,0,1.2,35.882519,-84.083215
+416,Tennessee,2018-19,Avoca Elementary,Sullivan ,55,96.4,0,1.8,36.533121,-82.246673
+417,Tennessee,2018-19,Keenburg Elementary,Carter ,28,96.4,3.6,0,36.378216,-82.22133
+418,Tennessee,2018-19,Kenrose Elementary,Williamson ,137,96.4,0,2.2,35.959097,-86.76
+419,Tennessee,2018-19,Middleton Elementary,Hardeman ,56,96.4,0,3.6,35.073128,-88.893809
+420,Tennessee,2018-19,Park View Elementary,Bradley ,56,96.4,0,3.6,35.1487978,-84.8215482
+421,Tennessee,2018-19,Ringgold Elementary,Montgomery ,140,96.4,0.7,1.4,36.592726,-87.412243
+422,Tennessee,2018-19,Robbins Elementary,Scott ,28,96.4,0,3.6,36.353031,-84.585572
+423,Tennessee,2018-19,Ruby Major Elementary,Davidson ,84,96.4,1.2,1.2,36.156666,-86.579157
+424,Tennessee,2018-19,Sequoyah Elementary,Knox ,84,96.4,0,1.2,35.935445,-83.96774
+425,Tennessee,2018-19,South Gibson County Elementary,Gibson ,165,96.4,0.6,2.4,35.8209888,-88.8129715
+426,Tennessee,2018-19,Whiteville Elementary,Hardeman ,28,96.4,0,0,35.323949,-89.14754
+427,Tennessee,2018-19,Bethpage Elementary,Sumner ,54,96.3,0,3.7,36.480304,-86.313203
+428,Tennessee,2018-19,Brown's Chapel Elementary,Rutherford ,107,96.3,0,3.7,35.9024856,-86.5197862
+429,Tennessee,2018-19,Castle Heights Elementary,Wilson ,107,96.3,0,0,36.225514,-86.298131
+430,Tennessee,2018-19,Clarksburg,Carroll ,27,96.3,0,0,35.871506,-88.389909
+431,Tennessee,2018-19,Copper Ridge Elementary,Knox ,80,96.3,0,2.5,36.099092,-83.995218
+432,Tennessee,2018-19,Dubois Elementary,Shelby ,27,96.3,0,0,35.0320259,-90.0388661
+433,Tennessee,2018-19,E.A. Harrold Elementary School ,Shelby ,54,96.3,0,1.9,35.362987,-89.898503
+434,Tennessee,2018-19,Greenfield School ,Weakley ,27,96.3,0,0,36.152312,-88.807083
+435,Tennessee,2018-19,Lafollette Elementary,Campbell ,80,96.3,0,1.3,36.3945624,-84.1006421
+436,Tennessee,2018-19,Lipscomb Elementary,Williamson ,108,96.3,0.9,1.9,35.995479,-86.794127
+437,Tennessee,2018-19,Northfield Elementary,Rutherford ,107,96.3,0,3.7,35.875147,-86.392826
+438,Tennessee,2018-19,St. Bethlehem Elementary,Montgomery ,134,96.3,0,3,36.574743,-87.300265
+439,Tennessee,2018-19,Sterchi Elementary,Knox ,80,96.3,0,1.3,36.026363,-83.964723
+440,Tennessee,2018-19,Whitney Achievement Elementary School ,Shelby ,54,96.3,0,0,35.207505,-90.023313
+441,Tennessee,2018-19,Winfield Elementary,Scott ,27,96.3,3.7,0,36.541129,-84.455107
+442,Tennessee,2018-19,Drummonds Elementary,Tipton ,105,96.2,0,1,35.464258,-89.899562
+443,Tennessee,2018-19,East Hickman Elementary,Hickman ,130,96.2,0.8,1.5,35.926694,-87.319973
+444,Tennessee,2018-19,Egypt Elementary,Shelby ,79,96.2,0,1.3,35.2396,-89.930094
+445,Tennessee,2018-19,Fountain City Elementary,Knox ,52,96.2,0,3.8,36.041417,-83.934332
+446,Tennessee,2018-19,George A Whitten Elementary,Sumner ,79,96.2,0,3.8,36.329385,-86.602166
+447,Tennessee,2018-19,J. P. Freeman Elementary,Shelby ,79,96.2,0,0,35.0041807,-90.0419457
+448,Tennessee,2018-19,Jordan Elementary,Williamson ,53,96.2,0,3.8,35.9534297,-86.7274448
+449,Tennessee,2018-19,Lara Kendall Elementary,Lake ,26,96.2,0,0,36.265767,-89.480488
+450,Tennessee,2018-19,Oak View Elem,Williamson ,159,96.2,0,3.1,35.873047,-86.849268
+451,Tennessee,2018-19,Bradley Academy,Rutherford ,51,96.1,0,0,35.8380363,-86.3834438
+452,Tennessee,2018-19,Charleston Elementary,Bradley ,51,96.1,0,3.9,35.282697,-84.7617117
+453,Tennessee,2018-19,Downtown Elementary,Shelby ,102,96.1,0,2,35.144096,-90.047112
+454,Tennessee,2018-19,Glenn Martin Elementary,Cumberland ,77,96.1,0,0,35.941411,-85.03416
+455,Tennessee,2018-19,Holston Elementary ,Sullivan ,51,96.1,2,0,36.489749,-82.414291
+456,Tennessee,2018-19,Hopewell Elementary,Bradley ,76,96.1,0,2.6,35.2333138,-84.8885477
+457,Tennessee,2018-19,Jack Anderson Elementary,Sumner ,128,96.1,0,1.6,36.327746,-86.5459
+458,Tennessee,2018-19,John F. Kennedy Elementary School ,Sullivan ,51,96.1,0,0,36.579384,-82.56985
+459,Tennessee,2018-19,Liberty Elementary,Williamson ,77,96.1,0,2.6,35.92718,-86.851832
+460,Tennessee,2018-19,Meigs North Elementary,Meigs ,76,96.1,0,2.6,35.56943,-84.7572
+461,Tennessee,2018-19,Pennington Elementary,Davidson ,51,96.1,0,3.9,36.203575,-86.68099
+462,Tennessee,2018-19,Anderson Elementary,Sullivan ,50,96,0,0,36.58655,-82.189402
+463,Tennessee,2018-19,Copper Basin Elementary,Polk ,50,96,0,4,35.0211812,-84.3888519
+464,Tennessee,2018-19,Fairmont Elementary ,Washington ,99,96,0,0,36.340243,-82.360402
+465,Tennessee,2018-19,Fairview Elementary,Blount ,50,96,0,4,35.718372,-84.004148
+466,Tennessee,2018-19,J E Woodard Elementary,Maury ,100,96,0,3,35.593372,-87.10359
+467,Tennessee,2018-19,Krisle Elementary,Robertson ,50,96,2,0,36.541348,-86.831243
+468,Tennessee,2018-19,Mckenzie Elementary,Carroll ,100,96,0,2,36.142635,-88.522834
+469,Tennessee,2018-19,Mt. Juliet Elementary,Wilson ,100,96,0,2,36.201349,-86.562751
+470,Tennessee,2018-19,Toone Elementary,Hardeman ,25,96,0,4,35.354756,-88.95233
+471,Tennessee,2018-19,Westside Elementary,Robertson ,100,96,0,0,36.505519,-86.904715
+472,Tennessee,2018-19,Cherokee Elementary ,Washington ,74,95.9,0,1.4,36.280779,-82.380399
+473,Tennessee,2018-19,Dayton City Elementary,Rhea ,97,95.9,0,2.1,35.487183,-85.016405
+474,Tennessee,2018-19,Doak Elementary,Greene ,73,95.9,0,0,36.17726,-82.755751
+475,Tennessee,2018-19,Dyer Elementary,Gibson ,49,95.9,0,2,36.069508,-88.988525
+476,Tennessee,2018-19,Foothills Elementary,Blount ,147,95.9,0,4.1,35.726192,-83.987886
+477,Tennessee,2018-19,Gibbs Elementary,Knox ,122,95.9,0,3.3,36.128813,-83.854884
+478,Tennessee,2018-19,Goodlett Elementary,Shelby ,73,95.9,0,0,35.066837,-89.922077
+479,Tennessee,2018-19,Hazelwood Elementary,Montgomery ,147,95.9,0,2,36.629021,-87.361474
+480,Tennessee,2018-19,Inskip Elementary,Knox ,73,95.9,0,0,36.010124,-83.95896
+481,Tennessee,2018-19,Lavergne Primary,Rutherford ,197,95.9,0,0.5,36.020648,-86.570031
+482,Tennessee,2018-19,Montgomery Central Elementary,Montgomery ,73,95.9,0,1.4,36.399938,-87.383194
+483,Tennessee,2018-19,Oneida Elementary,Scott ,97,95.9,0,1,36.511074,-84.504748
+484,Tennessee,2018-19,Riverside Elementary,Maury ,73,95.9,0,4.1,35.621141,-87.031206
+485,Tennessee,2018-19,Robert Churchwell Elementary,Davidson ,49,95.9,0,4.1,36.175589,-86.810161
+486,Tennessee,2018-19,Rosebank Elementary,Davidson ,73,95.9,0,4.1,36.184099,-86.718304
+487,Tennessee,2018-19,Rossview Elementary,Montgomery ,145,95.9,0,3.4,36.558153,-87.260048
+488,Tennessee,2018-19,Stewarts Creek Elementary,Rutherford ,148,95.9,0,4.1,35.9268438,-86.5633064
+489,Tennessee,2018-19,Walland Elementary,Blount ,49,95.9,0,0,35.7309637,-83.8105452
+490,Tennessee,2018-19,Bradford Elementary,Gibson ,48,95.8,0,4.2,36.071413,-88.810942
+491,Tennessee,2018-19,Carter Elementary,Knox ,72,95.8,1.4,1.4,36.027538,-83.715233
+492,Tennessee,2018-19,Fairview Marguerite,Hamblen ,72,95.8,0,0,36.236795,-83.292428
+493,Tennessee,2018-19,Glenellen Elementary,Montgomery ,167,95.8,0,2.4,36.586119,-87.337275
+494,Tennessee,2018-19,Glenwood Elementary,Greene ,24,95.8,0,4.2,36.125505,-82.933651
+495,Tennessee,2018-19,Griffith Elementary,Sequatchie ,165,95.8,0.6,1.2,35.357183,-85.403072
+496,Tennessee,2018-19,Hillcrest Elementary,Hamblen ,96,95.8,0,1,36.215017,-83.277265
+497,Tennessee,2018-19,John Pittard Elementary,Rutherford ,120,95.8,0,0.8,35.854763,-86.36045
+498,Tennessee,2018-19,Lakewood Elementary ,Henry ,96,95.8,0,4.2,36.361942,-88.21342
+499,Tennessee,2018-19,Millington Elementary School ,Shelby ,144,95.8,0,0,35.342914,-89.8475
+500,Tennessee,2018-19,New Market Elementary,Jefferson ,48,95.8,0,4.2,36.09182,-83.590355
+501,Tennessee,2018-19,New Union Elementary,Coffee ,48,95.8,0,2.1,35.534104,-86.079561
+502,Tennessee,2018-19,Parrottsville Elementary,Cocke ,48,95.8,2.1,0,36.005873,-83.098441
+503,Tennessee,2018-19,Rose Hill,Madison ,71,95.8,0,2.8,35.61349,-88.760321
+504,Tennessee,2018-19,City Park Elementary,McMinn ,93,95.7,1.1,1.1,35.435414,-84.60177
+505,Tennessee,2018-19,Crockett Elementary,Williamson ,94,95.7,0,3.2,35.978381,-86.772629
+506,Tennessee,2018-19,Harold B. Williams Elementary,Sumner ,115,95.7,0,2.6,36.4493342,-86.6421561
+507,Tennessee,2018-19,John Colemon Elementary,Rutherford ,92,95.7,0,0,36.008157,-86.488476
+508,Tennessee,2018-19,Pope,Madison ,92,95.7,0,3.3,35.713541,-88.859119
+509,Tennessee,2018-19,Rickman Elementary,Overton ,69,95.7,0,4.3,36.263293,-85.372509
+510,Tennessee,2018-19,Shannondale Elementary,Knox ,69,95.7,0,2.9,36.051463,-83.904087
+511,Tennessee,2018-19,Shwab Elementary,Davidson ,46,95.7,0,0,36.199996,-86.771832
+512,Tennessee,2018-19,Stewartsboro Elementary,Rutherford ,139,95.7,0,2.9,35.947625,-86.509918
+513,Tennessee,2018-19,West Side Elementary,Cannon ,23,95.7,0,4.3,35.81856,-86.15042
+514,Tennessee,2018-19,Amqui Elementary,Davidson ,91,95.6,0,0,36.273984,-86.703749
+515,Tennessee,2018-19,Bess T Shepherd Elementary,Hamilton ,68,95.6,0,0,35.058404,-85.147244
+516,Tennessee,2018-19,Brownsville Road Elementary,Shelby ,68,95.6,0,0,35.227033,-89.886743
+517,Tennessee,2018-19,Charlotte Elementary ,Dickson ,90,95.6,2.2,2.2,36.183022,-87.342277
+518,Tennessee,2018-19,Etowah Elementary,McMinn ,45,95.6,0,0,35.327209,-84.534185
+519,Tennessee,2018-19,Gower Elementary,Davidson ,113,95.6,0,2.7,36.115375,-86.921628
+520,Tennessee,2018-19,Apison Elementary,Hamilton ,88,95.5,0,2.3,34.9985301,-85.0580762
+521,Tennessee,2018-19,Barkers Mill Elementary,Montgomery ,179,95.5,0,2.2,36.625353,-87.385133
+522,Tennessee,2018-19,Coles Ferry Elementary,Wilson ,112,95.5,0,2.7,36.219425,-86.295894
+523,Tennessee,2018-19,Glenwood Elementary,Anderson ,67,95.5,0,0,36.049005,-84.214025
+524,Tennessee,2018-19,Halls Elementary,Knox ,110,95.5,0,1.8,36.089012,-83.932861
+525,Tennessee,2018-19,Kipp Nashville College Prep,Davidson ,89,95.5,0,3.4,36.237814,-86.803696
+526,Tennessee,2018-19,North Cumberland Elementary,Cumberland ,67,95.5,0,1.5,36.051893,-85.058421
+527,Tennessee,2018-19,Northside Elementary,Hardin ,67,95.5,0,4.5,35.222761,-88.234815
+528,Tennessee,2018-19,Peabody Elementary ,Shelby ,67,95.5,0,0,35.119925,-89.992614
+529,Tennessee,2018-19,Prospect Elementary,Bradley ,67,95.5,0,0,35.1784865,-84.9171442
+530,Tennessee,2018-19,Ritta Elementary,Knox ,88,95.5,0,2.3,36.060843,-83.860458
+531,Tennessee,2018-19,Rock Springs Elementary ,Sullivan ,66,95.5,0,0,36.48668,-82.537515
+532,Tennessee,2018-19,Seymour Primary,Sevier ,178,95.5,0,2.8,35.87865,-83.741548
+533,Tennessee,2018-19,Stigall Primary,Gibson ,110,95.5,0,1.8,35.821656,-88.93238
+534,Tennessee,2018-19,Christiana Elementary,Rutherford ,109,95.4,0,1.8,35.730881,-86.410761
+535,Tennessee,2018-19,Dupont Elementary,Davidson ,65,95.4,0,3.1,36.26139,-86.652739
+536,Tennessee,2018-19,J W Wiseman Elementary,Sumner ,65,95.4,0,4.6,36.556224,-86.507215
+537,Tennessee,2018-19,West Elementary ,Wilson ,130,95.4,1.5,3.1,36.231699,-86.479893
+538,Tennessee,2018-19,Woodland Park Elementary,White ,65,95.4,0,0,35.907995,-85.470552
+539,Tennessee,2018-19,Alcoa Elementary,Blount ,150,95.3,0,0,35.792621,-83.974523
+540,Tennessee,2018-19,Charlotte Park Elementary,Davidson ,86,95.3,0,1.2,36.151505,-86.882926
+541,Tennessee,2018-19,Chuckey Elementary,Greene ,43,95.3,0,4.7,36.215448,-82.696024
+542,Tennessee,2018-19,Cumberland Elementary,Davidson ,43,95.3,0,2.3,36.212549,-86.86736
+543,Tennessee,2018-19,Deerfield Elementary,Coffee ,43,95.3,0,2.3,35.6179364,-86.0733962
+544,Tennessee,2018-19,Findlay Elementary,White ,64,95.3,1.6,3.1,35.95823,-85.476246
+545,Tennessee,2018-19,Gladeville Elementary,Wilson ,127,95.3,0,2.4,36.111887,-86.418754
+546,Tennessee,2018-19,Lakeland Elementary School ,Shelby ,169,95.3,0.6,1.8,35.251299,-89.727195
+547,Tennessee,2018-19,Learning Way Elementary,Bedford ,85,95.3,0,0,35.485529,-86.415588
+548,Tennessee,2018-19,Niota Elementary,McMinn ,64,95.3,0,3.1,35.518381,-84.554404
+549,Tennessee,2018-19,Parris South Elementary,Hardin ,64,95.3,0,3.1,35.203709,-88.249332
+550,Tennessee,2018-19,Ridge View Elementary,Roane ,106,95.3,0,0,35.85476,-84.688424
+551,Tennessee,2018-19,Watertown Elementary ,Wilson ,106,95.3,0,3.8,36.099886,-86.140802
+552,Tennessee,2018-19,Ball Camp Elementary,Knox ,84,95.2,0,2.4,35.953618,-84.122019
+553,Tennessee,2018-19,Bean Station Elementary,Grainger ,63,95.2,1.6,1.6,36.333626,-83.352265
+554,Tennessee,2018-19,Carthage Elementary,Smith ,62,95.2,0,0,36.251479,-85.939827
+555,Tennessee,2018-19,Cowan Elementary,Franklin ,42,95.2,0,2.4,35.168211,-86.007702
+556,Tennessee,2018-19,Dickson Elementary ,Dickson ,63,95.2,1.6,1.6,36.075552,-87.396142
+557,Tennessee,2018-19,Eakin Elementary,Bedford ,84,95.2,0,1.2,35.500826,-86.445529
+558,Tennessee,2018-19,J. E. Moss Elementary,Davidson ,147,95.2,0,0.7,36.067383,-86.669952
+559,Tennessee,2018-19,Munford Elementary,Tipton ,126,95.2,0,1.6,35.453142,-89.802867
+560,Tennessee,2018-19,Oakmont Elementary,Sumner ,21,95.2,4.8,0,36.509138,-86.573682
+561,Tennessee,2018-19,Sunbright,Morgan ,42,95.2,0,4.8,36.259866,-84.677867
+562,Tennessee,2018-19,Trenton Elementary,Gibson ,105,95.2,0,1,35.970011,-88.940873
+563,Tennessee,2018-19,White Pine Elementary,Jefferson ,84,95.2,0,0,36.098777,-83.296374
+564,Tennessee,2018-19,Anderson Early Childhood ,Haywood ,204,95.1,0,0,35.593766,-89.272051
+565,Tennessee,2018-19,Aspire Hanley Elementary ,Shelby ,102,95.1,0,0,35.113582,-89.976593
+566,Tennessee,2018-19,Chattanooga School For The Liberal Arts,Hamilton ,41,95.1,0,4.9,35.019888,-85.189602
+567,Tennessee,2018-19,Crosswind Elementary School ,Shelby ,122,95.1,0.8,2.5,35.078563,-89.689319
+568,Tennessee,2018-19,Frazier Elementary,Rhea ,61,95.1,0,0,35.487569,-84.945557
+569,Tennessee,2018-19,Hickory Ridge Elementary,Shelby ,102,95.1,1,1,35.041811,-89.865015
+570,Tennessee,2018-19,Joseph Rogers Primary,Hawkins ,103,95.1,0,1.9,36.43157,-82.97607
+571,Tennessee,2018-19,Michie Elementary,McNairy ,41,95.1,2.4,0,35.069531,-88.434276
+572,Tennessee,2018-19,Oak Grove Elementary,Bradley ,61,95.1,0,1.6,35.144076,-84.8433427
+573,Tennessee,2018-19,Rogersville Elementary ,Hawkins ,81,95.1,0,3.7,36.402857,-83.005576
+574,Tennessee,2018-19,Waverly Elementary,Humphreys ,123,95.1,0,0.8,36.081322,-87.775803
+575,Tennessee,2018-19,Westmoreland Elementary,Sumner ,82,95.1,0,1.2,36.562639,-86.250754
+576,Tennessee,2018-19,Adrian Burnett Elementary,Knox ,100,95,0,1,36.065834,-83.908199
+577,Tennessee,2018-19,Bearden Elementary,Knox ,60,95,0,3.3,35.935449,-83.997192
+578,Tennessee,2018-19,Blue Grass Elementary,Knox ,100,95,1,2,35.877166,-84.067107
+579,Tennessee,2018-19,Collierville Elementary School ,Shelby ,139,95,0,1.4,35.055858,-89.667447
+580,Tennessee,2018-19,Community Elementary,Bedford ,100,95,0,1,35.6125421,-86.5815204
+581,Tennessee,2018-19,Crestview Elementary,Robertson ,119,95,0,2.5,36.4680089,-86.8789967
+582,Tennessee,2018-19,Douglass Elementary,Shelby ,60,95,0,0,35.177507,-89.9531256
+583,Tennessee,2018-19,East Side Elementary,Bedford ,80,95,0,0,35.47848,-86.455171
+584,Tennessee,2018-19,Indian Lake Elementary,Sumner ,80,95,0,5,36.273104,-86.585668
+585,Tennessee,2018-19,Merrol Hyde Magnet,Sumner ,40,95,0,5,36.322966,-86.623462
+586,Tennessee,2018-19,Minglewood Elementary,Montgomery ,120,95,0.8,1.7,36.576163,-87.415932
+587,Tennessee,2018-19,Nolachuckey Elementary,Greene ,40,95,0,2.5,36.04195,-82.936289
+588,Tennessee,2018-19,Oakshire Elementary ,Shelby ,60,95,0,0,35.00538,-90.004806
+589,Tennessee,2018-19,Rock Springs Elementary,Rutherford ,159,95,0,1.9,35.963306,-86.60165
+590,Tennessee,2018-19,West Elementary ,Warren ,80,95,1.3,0,35.693099,-85.78623
+591,Tennessee,2018-19,Catlettsburg Elementary,Sevier ,99,94.9,0,4,35.909347,-83.5756981
+592,Tennessee,2018-19,Chapel Hill Elementary,Marshall ,138,94.9,0,2.9,35.623207,-86.700372
+593,Tennessee,2018-19,East Elementary,Madison ,78,94.9,1.3,2.6,35.7229903,-88.7557031
+594,Tennessee,2018-19,East Lake Elementary,Hamilton ,98,94.9,0,0,34.997584,-85.279833
+595,Tennessee,2018-19,East Robertson Elementary,Robertson ,78,94.9,0,0,36.583143,-86.689624
+596,Tennessee,2018-19,Fairview Elementary,Williamson ,79,94.9,0,3.8,35.948328,-87.145727
+597,Tennessee,2018-19,May Werthan Shayne Elementary,Davidson ,156,94.9,0,4.5,36.0208783,-86.7141443
+598,Tennessee,2018-19,Memphis College Preparatory ,Shelby ,39,94.9,0,5.1,35.09342,-90.012581
+599,Tennessee,2018-19,Pleasant View Elementary,Cheatham ,79,94.9,0,5.1,36.398392,-87.034531
+600,Tennessee,2018-19,South Pittsburg Elementary,Marion ,59,94.9,1.7,3.4,35.012133,-85.707199
+601,Tennessee,2018-19,Thrasher Elementary,Hamilton ,79,94.9,0,0,35.143919,-85.332172
+602,Tennessee,2018-19,West View School ,Washington ,39,94.9,0,5.1,36.223813,-82.590984
+603,Tennessee,2018-19,A H Roberts Elementary,Overton ,58,94.8,0,1.7,36.387276,-85.31972
+604,Tennessee,2018-19,Andrew Jackson Elementary,Madison ,97,94.8,0,1,35.6558327,-88.8397287
+605,Tennessee,2018-19,Belle Forest Community,Shelby ,191,94.8,0.5,1,35.062826,-89.858017
+606,Tennessee,2018-19,Benton Elementary,Polk ,58,94.8,0,1.7,35.178407,-84.652644
+607,Tennessee,2018-19,Hamilton Elementary,Shelby ,58,94.8,0,0,35.1048,-90.0167
+608,Tennessee,2018-19,Riverwood Elementary,Shelby ,154,94.8,0,0.6,35.1614097,-89.7755758
+609,Tennessee,2018-19,South Lawrence Elementary,Lawrence ,77,94.8,0,3.9,35.068,-87.458901
+610,Tennessee,2018-19,Thurman Francis Arts Academy/Magnet,Rutherford ,96,94.8,0,4.2,35.9682772,-86.5248709
+611,Tennessee,2018-19,Buckley-Carpenter Elementary School ,Fayette ,95,94.7,0,0,35.237522,-89.348336
+612,Tennessee,2018-19,Glencliff Elementary,Davidson ,94,94.7,0,0,36.102014,-86.722413
+613,Tennessee,2018-19,Hampshire Unit,Maury ,19,94.7,0,5.3,35.595294,-87.290478
+614,Tennessee,2018-19,Kipp Memphis Preparatory Elementary ,Shelby ,76,94.7,0,0,35.08368,-90.015831
+615,Tennessee,2018-19,Little Milligan,Carter ,19,94.7,0,5.3,36.313845,-82.020149
+616,Tennessee,2018-19,North Lee Elementary,Bradley ,76,94.7,0,3.9,35.2087301,-84.843842
+617,Tennessee,2018-19,Paragon Mills Elementary,Davidson ,113,94.7,0.9,0,36.087846,-86.707236
+618,Tennessee,2018-19,South Central Elementary ,Washington ,19,94.7,0,0,36.155544,-82.614815
+619,Tennessee,2018-19,South Side Elementary ,Washington ,76,94.7,1.3,3.9,36.307274,-82.355737
+620,Tennessee,2018-19,Steekee Elementary,Loudon ,38,94.7,0,5.3,35.700741,-84.324561
+621,Tennessee,2018-19,West Creek Elementary,Montgomery ,152,94.7,0,2.6,36.609616,-87.386371
+622,Tennessee,2018-19,Byars Dowdy Elementary,Wilson ,93,94.6,0,1.1,36.205148,-86.318591
+623,Tennessee,2018-19,Calhoun Elementary,McMinn ,37,94.6,0,2.7,35.292936,-84.744279
+624,Tennessee,2018-19,Centerville Elementary,Hickman ,111,94.6,0,2.7,35.784504,-87.468253
+625,Tennessee,2018-19,Christenberry Elementary,Knox ,74,94.6,0,4.1,35.995153,-83.930393
+626,Tennessee,2018-19,Indian Springs Elementary ,Sullivan ,56,94.6,0,5.4,36.5393,-82.423231
+627,Tennessee,2018-19,Northview Elementary,Sevier ,129,94.6,0.8,1.6,35.956824,-83.619795
+628,Tennessee,2018-19,South Haven Elementary ,Henderson ,37,94.6,0,2.7,35.576868,-88.459203
+629,Tennessee,2018-19,Southwest Elementary ,Fayette ,37,94.6,0,0,35.13997,-89.48781
+630,Tennessee,2018-19,Thelma Barker Elementary,Madison ,111,94.6,0,3.6,35.716932,-88.833915
+631,Tennessee,2018-19,Waterville Community Elementary,Bradley ,111,94.6,0,1.8,35.0998148,-84.8718546
+632,Tennessee,2018-19,Arlington Elementary ,Shelby ,110,94.5,0,4.5,35.28583,-89.667875
+633,Tennessee,2018-19,Caryville Elementary,Campbell ,73,94.5,0,1.4,36.299117,-84.219389
+634,Tennessee,2018-19,Kingston Springs Elementary,Cheatham ,55,94.5,0,3.6,36.089062,-87.109612
+635,Tennessee,2018-19,Blythe-Bower Elementary,Bradley ,89,94.4,0,0,35.13932,-84.87868
+636,Tennessee,2018-19,Clark Memorial,Franklin ,90,94.4,1.1,1.1,35.190377,-86.11498
+637,Tennessee,2018-19,Cloudland Elementary,Carter ,36,94.4,0,0,36.1921338,-82.05446
+638,Tennessee,2018-19,Cole Elementary,Davidson ,142,94.4,0,0.7,36.058171,-86.698466
+639,Tennessee,2018-19,Dexter Elementary,Shelby ,143,94.4,0,2.1,35.167059,-89.825588
+640,Tennessee,2018-19,Gadsden Elementary,Crockett ,18,94.4,0,5.6,35.766,-89.006878
+641,Tennessee,2018-19,Leadership Preparatory Charter School ,Shelby ,54,94.4,0,0,35.08509,-89.922281
+642,Tennessee,2018-19,Liberty Elementary,Montgomery ,125,94.4,0,2.4,36.549948,-87.449486
+643,Tennessee,2018-19,Lucy Elementary ,Shelby ,54,94.4,0,0,35.297109,-89.926563
+644,Tennessee,2018-19,Mary V Wheeler Elementary,Bledsoe ,36,94.4,0,2.8,35.665082,-85.230151
+645,Tennessee,2018-19,Mcpheeter's Bend Elementary,Hawkins ,18,94.4,0,0,36.493425,-82.725791
+646,Tennessee,2018-19,Mt Olive Elementary,Knox ,36,94.4,0,2.8,35.906807,-83.94031
+647,Tennessee,2018-19,Mt. View Elementary,Davidson ,124,94.4,0,0.8,36.041775,-86.604101
+648,Tennessee,2018-19,North Hamilton Elementary,Hamilton ,54,94.4,0,3.7,35.348088,-85.132324
+649,Tennessee,2018-19,Pearre Creek Elementary,Williamson ,108,94.4,0,4.6,35.9244865,-86.9201772
+650,Tennessee,2018-19,Pisgah Elementary,Montgomery ,126,94.4,0,4,36.613483,-87.350059
+651,Tennessee,2018-19,Reeves-Rogers Elementary,Rutherford ,72,94.4,1.4,0,35.85531,-86.360061
+652,Tennessee,2018-19,Summertown Elementary,Lawrence ,72,94.4,0,4.2,35.428218,-87.308984
+653,Tennessee,2018-19,Temple Hill Elementary,Unicoi ,18,94.4,0,5.6,36.087135,-82.484431
+654,Tennessee,2018-19,Westmeade Elementary ,Davidson ,90,94.4,0,2.2,36.092232,-86.893317
+655,Tennessee,2018-19,Germanshire Elementary,Shelby ,105,94.3,0,0,35.040498,-89.826831
+656,Tennessee,2018-19,Jacksboro Elementary,Campbell ,87,94.3,1.1,0,36.32701,-84.179504
+657,Tennessee,2018-19,Knight Road Elementary ,Shelby ,88,94.3,0,1.1,35.060253,-89.911159
+658,Tennessee,2018-19,Lenoir City Elementary,Loudon ,106,94.3,0.9,0.9,35.800762,-84.26735
+659,Tennessee,2018-19,Mc Ewen Elementary,Humphreys ,70,94.3,0,0,36.113672,-87.629948
+660,Tennessee,2018-19,Midway Elementary,Claiborne ,35,94.3,0,2.9,36.441175,-83.685434
+661,Tennessee,2018-19,Oakmont Elementary ,Dickson ,105,94.3,0,1.9,36.086836,-87.382783
+662,Tennessee,2018-19,Walter Hill Elementary,Rutherford ,53,94.3,0,3.8,35.952827,-86.379005
+663,Tennessee,2018-19,A. Z. Kelley Elementary,Davidson ,155,94.2,0,0.6,36.021806,-86.659107
+664,Tennessee,2018-19,Freedom Preparatory Academy,Shelby ,69,94.2,0,0,35.008764,-90.073867
+665,Tennessee,2018-19,Goodlettsville Elementary,Davidson ,69,94.2,0,0,36.312836,-86.710718
+666,Tennessee,2018-19,Hillcrest Elementary,Hamilton ,52,94.2,0,1.9,35.080448,-85.210543
+667,Tennessee,2018-19,Hillsboro Elementary,Coffee ,52,94.2,0,1.9,35.408538,-85.973987
+668,Tennessee,2018-19,Kittrell Elementary,Rutherford ,52,94.2,0,5.8,35.827044,-86.248978
+669,Tennessee,2018-19,Mayfield Elementary,Bradley ,86,94.2,0,3.5,35.170462,-84.862978
+670,Tennessee,2018-19,Mosheim Elementary,Greene ,103,94.2,0,2.9,36.195272,-82.957709
+671,Tennessee,2018-19,Prospect Elementary,Blount ,69,94.2,0,0,35.8395357,-83.8029238
+672,Tennessee,2018-19,Spring Hill Elementary,Maury ,120,94.2,0.8,3.3,35.749274,-86.934184
+673,Tennessee,2018-19,Stoner Creek Elementary ,Wilson ,69,94.2,0,1.4,36.181502,-86.509529
+674,Tennessee,2018-19,Walnut Grove Elementary,Williamson ,86,94.2,0,4.7,35.977584,-86.895216
+675,Tennessee,2018-19,Waverly-Belmont Elementary School ,Davidson ,121,94.2,0,3.3,36.12649,-86.787251
+676,Tennessee,2018-19,Eagleville,Rutherford ,51,94.1,0,2,35.739352,-86.643013
+677,Tennessee,2018-19,East Side Elementary,Carter ,51,94.1,0,5.9,36.341752,-82.203526
+678,Tennessee,2018-19,Norris Elementary,Anderson ,34,94.1,0,5.9,36.198552,-84.065549
+679,Tennessee,2018-19,North Sumner Elementary,Sumner ,34,94.1,0,2.9,36.595461,-86.360471
+680,Tennessee,2018-19,Northeast Elementary,Montgomery ,136,94.1,0,0.7,36.616088,-87.309934
+681,Tennessee,2018-19,Raleigh-Bartlett Meadows Elementary,Shelby ,85,94.1,0,1.2,35.195441,-89.890086
+682,Tennessee,2018-19,Smithville Elementary ,Dekalb ,170,94.1,0,1.8,35.95174,-85.810286
+683,Tennessee,2018-19,Smoky Mountain Elementary,Cocke ,17,94.1,0,5.9,35.791319,-83.234429
+684,Tennessee,2018-19,Brighton Elementary,Tipton ,116,94,0,1.7,35.480428,-89.737506
+685,Tennessee,2018-19,Carpenters Elementary,Blount ,83,94,0,2.4,35.6758576,-84.0286925
+686,Tennessee,2018-19,Centennial Elementary ,Dickson ,116,94,0.9,1.7,36.090671,-87.415596
+687,Tennessee,2018-19,Community Montessori,Madison ,84,94,0,6,35.62958,-88.832601
+688,Tennessee,2018-19,Gateway Elementary,Davidson ,50,94,0,2,36.292144,-86.711002
+689,Tennessee,2018-19,Sam E. Hill Primary,Knox ,50,94,0,0,35.982451,-83.959161
+690,Tennessee,2018-19,South Cumberland Elementary,Cumberland ,67,94,0,4.5,35.908613,-85.06405
+691,Tennessee,2018-19,Westhaven Elementary,Shelby ,134,94,0,0.7,35.023691,-90.049892
+692,Tennessee,2018-19,Bon De Croft Elementary,White ,33,93.9,0,3,35.943098,-85.331507
+693,Tennessee,2018-19,College Street Elementary,Coffee ,66,93.9,0,1.5,35.479082,-86.08118
+694,Tennessee,2018-19,Dandridge Elementary,Jefferson ,82,93.9,0,3.7,36.030091,-83.42786
+695,Tennessee,2018-19,Heritage Elementary,Williamson ,82,93.9,0,6.1,35.786491,-86.914404
+696,Tennessee,2018-19,Mcgavock Elementary,Davidson ,49,93.9,0,2,36.160326,-86.680472
+697,Tennessee,2018-19,Oak Elementary ,Shelby ,115,93.9,0,0.9,35.223605,-89.827637
+698,Tennessee,2018-19,Paul G. Caywood Elementary ,Henderson ,98,93.9,0,4.1,35.646046,-88.3971
+699,Tennessee,2018-19,Sycamore Elementary,Putnam ,66,93.9,0,6.1,36.17699,-85.532218
+700,Tennessee,2018-19,Dyllis Springs Elementary,Roane ,80,93.8,1.3,1.3,36.009672,-84.346536
+701,Tennessee,2018-19,Hickerson Elementary,Coffee ,32,93.8,0,3.1,35.402297,-86.140271
+702,Tennessee,2018-19,Hunters Bend Elementary,Williamson ,80,93.8,1.3,3.8,35.960749,-86.887336
+703,Tennessee,2018-19,J. Brown Elementary,Maury ,64,93.8,0,0,35.584888,-87.045134
+704,Tennessee,2018-19,Jackson Elementary,Shelby ,48,93.8,0,0,35.184971,-89.929459
+705,Tennessee,2018-19,Mill Creek Elementary,Williamson ,146,93.8,0,4.8,35.9394794,-86.6511581
+706,Tennessee,2018-19,Ralph Askins,Lincoln ,113,93.8,0,0.9,35.164414,-86.580866
+707,Tennessee,2018-19,Smithson Craighead Academy ,Davidson ,32,93.8,0,0,36.25036,-86.696841
+708,Tennessee,2018-19,Sweetwater Primary,Monroe ,160,93.8,0.6,2.5,35.606654,-84.437938
+709,Tennessee,2018-19,West Carroll Primary,Carroll ,64,93.8,0,0,35.989909,-88.57843
+710,Tennessee,2018-19,Wilson Elementary,Rutherford ,160,93.8,1.9,3.8,35.9808332,-86.4014673
+711,Tennessee,2018-19,Bobby Ray Memorial ,Warren ,95,93.7,0,0,35.691253,-85.776081
+712,Tennessee,2018-19,Clovercroft Elementary,Williamson ,95,93.7,1.1,5.3,35.9296818,-86.761826
+713,Tennessee,2018-19,Farragut Primary,Knox ,317,93.7,0,3.5,35.890396,-84.172968
+714,Tennessee,2018-19,John Sevier Elementary,Blount ,142,93.7,0,2.8,35.76984,-83.941051
+715,Tennessee,2018-19,Norman Binkley Elementary,Davidson ,127,93.7,0,0.8,36.076895,-86.748729
+716,Tennessee,2018-19,Westwood Elementary,Williamson ,79,93.7,0,3.8,35.9881632,-87.1253765
+717,Tennessee,2018-19,Barksdale Elementary,Montgomery ,125,93.6,0,5.6,36.512917,-87.300426
+718,Tennessee,2018-19,Grassland Elementary,Williamson ,78,93.6,0,5.1,36.00923,-86.882489
+719,Tennessee,2018-19,Jack T Farrar Elementary,Coffee ,47,93.6,0,2.1,35.352808,-86.216037
+720,Tennessee,2018-19,Mitchell-Neilson Elementary,Rutherford ,109,93.6,0,1.8,35.862283,-86.397771
+721,Tennessee,2018-19,Ross Elementary,Shelby ,94,93.6,0,0,35.015364,-89.838035
+722,Tennessee,2018-19,Alpha Elementary,Hamblen ,108,93.5,0,2.8,36.177827,-83.386666
+723,Tennessee,2018-19,Aurora Collegiate Academy,Shelby ,62,93.5,0,0,35.156086,-89.933687
+724,Tennessee,2018-19,Culleoka Unit,Maury ,77,93.5,0,2.6,35.481877,-86.987272
+725,Tennessee,2018-19,Daisy Elementary,Hamilton ,62,93.5,0,1.6,35.233415,-85.174432
+726,Tennessee,2018-19,Highland Oaks Elementary,Shelby ,123,93.5,0,0.8,35.004723,-89.814402
+727,Tennessee,2018-19,Highland Park Elementary,Maury ,62,93.5,0,0,35.602596,-87.041268
+728,Tennessee,2018-19,Rogers Creek Elementary,McMinn ,31,93.5,0,0,35.436481,-84.741749
+729,Tennessee,2018-19,Woodland Elementary ,Washington ,92,93.5,0,2.2,36.321049,-82.405877
+730,Tennessee,2018-19,Chapman's Retreat Elementary,Williamson ,121,93.4,0,5,35.747519,-86.873499
+731,Tennessee,2018-19,Fairmount Elementary,Sullivan ,61,93.4,0,3.3,36.586918,-82.169393
+732,Tennessee,2018-19,Hobgood Elementary,Rutherford ,122,93.4,0,1.6,35.838659,-86.366858
+733,Tennessee,2018-19,Linden Elementary,Perry ,61,93.4,0,4.9,35.609297,-87.843332
+734,Tennessee,2018-19,Northeast Elementary,Putnam ,91,93.4,1.1,2.2,36.170718,-85.467851
+735,Tennessee,2018-19,Grand Oaks Elementary,Anderson ,45,93.3,0,2.2,36.052698,-84.239408
+736,Tennessee,2018-19,Isaac Lane Technology Magnet,Madison ,134,93.3,0,2.2,35.6227048,-88.7888431
+737,Tennessee,2018-19,Memphis Stem Academy ,Shelby ,45,93.3,0,2.2,35.21999,-89.981581
+738,Tennessee,2018-19,Surgoinsville Elementary,Hawkins ,75,93.3,0,4,36.462034,-82.868698
+739,Tennessee,2018-19,Trinity Elementary,Williamson ,119,93.3,0,5,35.897813,-86.772437
+740,Tennessee,2018-19,Whitesburg Elementary,Hamblen ,30,93.3,0,0,36.27264,-83.139437
+741,Tennessee,2018-19,Allen Elementary,Hamilton ,73,93.2,1.4,0,35.237356,-85.151874
+742,Tennessee,2018-19,Barfield Elementary,Rutherford ,176,93.2,0,2.8,35.788017,-86.408199
+743,Tennessee,2018-19,Burks Elementary,Putnam ,74,93.2,0,1.4,36.137928,-85.260761
+744,Tennessee,2018-19,East Montgomery Elementary,Montgomery ,117,93.2,1.7,3.4,36.491561,-87.224677
+745,Tennessee,2018-19,Homestead Elementary,Cumberland ,73,93.2,0,2.7,35.9027525,-84.9839595
+746,Tennessee,2018-19,Lakeside Park Elementary,Sumner ,44,93.2,0,0,36.274609,-86.614046
+747,Tennessee,2018-19,Norman Smith Elementary,Montgomery ,74,93.2,0,4.1,36.518673,-87.348053
+748,Tennessee,2018-19,Tuckers Crossroads Elementary ,Wilson ,44,93.2,0,4.5,36.199519,-86.17546
+749,Tennessee,2018-19,W Chester Elementary,Chester ,74,93.2,0,1.4,35.4231627,-88.6733984
+750,Tennessee,2018-19,Watauga Elementary,Robertson ,59,93.2,0,5.1,36.39694,-86.764394
+751,Tennessee,2018-19,Bulls Gap,Hawkins ,29,93.1,0,0,36.262497,-83.084893
+752,Tennessee,2018-19,Cordova Elementary,Shelby ,145,93.1,0,0,35.14624,-89.768937
+753,Tennessee,2018-19,Crestview Elementary,Tipton ,116,93.1,0,0.9,35.542222,-89.640752
+754,Tennessee,2018-19,Franklin Elementary,Williamson ,58,93.1,0,5.2,35.909705,-86.882283
+755,Tennessee,2018-19,Guild Elementary,Sumner ,101,93.1,0,2,36.371741,-86.441667
+756,Tennessee,2018-19,Pigeon Forge Primary,Sevier ,131,93.1,0,1.5,35.789578,-83.630374
+757,Tennessee,2018-19,Rockvale Elementary,Rutherford ,202,93.1,0.5,4,35.783433,-86.50632
+758,Tennessee,2018-19,Snowden Elementary,Shelby ,87,93.1,0,0,35.1529216,-89.9970439
+759,Tennessee,2018-19,William Herbert Brewster Elementary,Shelby ,72,93.1,0,1.4,35.1459356,-89.97298
+760,Tennessee,2018-19,Bluff City Elementary ,Sullivan ,100,93,0,3,36.472388,-82.262211
+761,Tennessee,2018-19,Clyde Riggs Elementary,Sumner ,43,93,0,0,36.549297,-86.498988
+762,Tennessee,2018-19,Stanford Elementary ,Davidson ,71,93,0,5.6,36.175966,-86.682313
+763,Tennessee,2018-19,Sunnyview Primary,Knox ,71,93,0,2.8,36.025495,-83.801517
+764,Tennessee,2018-19,Woodlawn Elementary,Montgomery ,129,93,0,5.4,36.544357,-87.501713
+765,Tennessee,2018-19,Centertown Elementary ,Warren ,56,92.9,1.8,0,35.706061,-85.893655
+766,Tennessee,2018-19,Dekalb West Elementary ,Dekalb ,42,92.9,0,7.1,36.006211,-85.993226
+767,Tennessee,2018-19,Dutch Valley Elementary,Anderson ,14,92.9,0,0,36.12433,-84.202671
+768,Tennessee,2018-19,Ida B. Wells Academy,Shelby ,14,92.9,0,0,35.1203475,-90.0443781
+769,Tennessee,2018-19,Kipp Academy Nashville Elementary,Davidson ,99,92.9,0,2,36.1674849,-86.7517563
+770,Tennessee,2018-19,Lockeland Elementary,Davidson ,56,92.9,0,5.4,36.176396,-86.739226
+771,Tennessee,2018-19,Mary Hughes School ,Sullivan ,56,92.9,0,5.4,36.418614,-82.306635
+772,Tennessee,2018-19,Moore Elementary,Williamson ,99,92.9,1,4,35.893525,-86.849104
+773,Tennessee,2018-19,Pickett County Elementary,Pickett ,42,92.9,0,0,36.57581,-85.136391
+774,Tennessee,2018-19,Stone Elementary,Cumberland ,84,92.9,0,3.6,35.967405,-85.007278
+775,Tennessee,2018-19,Swiss Memorial Elementary,Grundy ,14,92.9,0,7.1,35.380994,-85.61157
+776,Tennessee,2018-19,Hull-Jackson Elementary,Davidson ,69,92.8,0,5.8,36.189732,-86.807316
+777,Tennessee,2018-19,Longview Elementary,Williamson ,125,92.8,0.8,5.6,35.7630198,-86.9099344
+778,Tennessee,2018-19,Alex Green Elementary,Davidson ,55,92.7,0,1.8,36.253521,-86.832561
+779,Tennessee,2018-19,Cumberland Heights Elementary,Montgomery ,109,92.7,0,2.8,36.466167,-87.416249
+780,Tennessee,2018-19,Talbott Elementary,Jefferson ,41,92.7,0,4.9,36.133757,-83.402073
+781,Tennessee,2018-19,Briceville Elementary,Anderson ,27,92.6,0,7.4,36.177387,-84.184119
+782,Tennessee,2018-19,Byrns Darden Elementary,Montgomery ,108,92.6,0,3.7,36.551278,-87.379939
+783,Tennessee,2018-19,Cedar Bluff Elementary,Knox ,188,92.6,0,3.7,35.931555,-84.096399
+784,Tennessee,2018-19,Chadwell Elementary,Davidson ,54,92.6,0,1.9,36.256631,-86.741165
+785,Tennessee,2018-19,Glendale Elementary,Davidson ,94,92.6,0,5.3,36.095591,-86.785134
+786,Tennessee,2018-19,Green Magnet Math And Science Academy,Knox ,68,92.6,0,2.9,35.968793,-83.911493
+787,Tennessee,2018-19,Union Grove Elementary,Blount ,54,92.6,0,3.7,35.7489073,-84.076255
+788,Tennessee,2018-19,Carmel Elementary,Montgomery ,107,92.5,0,5.6,36.483231,-87.158648
+789,Tennessee,2018-19,Jonesborough Elementary ,Washington ,93,92.5,0,1.1,36.301125,-82.456198
+790,Tennessee,2018-19,Nolan Elementary,Hamilton ,107,92.5,0.9,2.8,35.160472,-85.361181
+791,Tennessee,2018-19,Valley Forge Elementary,Carter ,40,92.5,0,0,36.310694,-82.192744
+792,Tennessee,2018-19,Tulip Grove Elementary ,Davidson ,105,92.4,0,1,36.198522,-86.610987
+793,Tennessee,2018-19,Abraham Lincoln Elementary School ,Sullivan ,78,92.3,0,1.3,36.539199,-82.539905
+794,Tennessee,2018-19,Big Sandy,Benton,26,92.3,0,3.8,36.228605,-88.086604
+795,Tennessee,2018-19,Blountville Elementary ,Sullivan ,52,92.3,0,1.9,36.534387,-82.315409
+796,Tennessee,2018-19,Hardin Valley Elementary,Knox ,181,92.3,0.6,6.6,35.933252,-84.185088
+797,Tennessee,2018-19,Scenic Hills Elementary,Shelby ,52,92.3,1.9,1.9,35.20459,-89.948186
+798,Tennessee,2018-19,Crieve Hall Elementary,Davidson ,103,92.2,0,3.9,36.065823,-86.7584
+799,Tennessee,2018-19,Hancock County Elementary,Hancock ,77,92.2,1.3,1.3,36.533399,-83.21948
+800,Tennessee,2018-19,Lincoln Heights Elementary,Hamblen ,90,92.2,0,0,36.201558,-83.286542
+801,Tennessee,2018-19,Wolftever Creek Elementary,Hamilton ,90,92.2,0,1.1,35.062229,-85.062773
+802,Tennessee,2018-19,Barger Academy,Hamilton ,76,92.1,0,0,35.012555,-85.229672
+803,Tennessee,2018-19,Karns Elementary,Knox ,202,92.1,0,3.5,35.980761,-84.110856
+804,Tennessee,2018-19,Oakland Elementary,Montgomery ,151,92.1,0.7,4,36.620693,-87.286396
+805,Tennessee,2018-19,Sulphur Springs Elementary ,Washington ,38,92.1,0,5.3,36.346578,-82.541225
+806,Tennessee,2018-19,Chattanooga Charter School Of Excellence,Hamilton ,75,92,0,1.3,35.00907,-85.215591
+807,Tennessee,2018-19,Mooresburg Elementary,Hawkins ,25,92,0,4,36.347408,-83.228793
+808,Tennessee,2018-19,Soddy Elementary,Hamilton ,75,92,1.3,1.3,35.291655,-85.162702
+809,Tennessee,2018-19,Beaumont Elementary,Knox ,99,91.9,1,1,35.9758315,-83.9414115
+810,Tennessee,2018-19,Bethesda Elementary,Williamson ,74,91.9,0,5.4,35.763114,-86.798049
+811,Tennessee,2018-19,Cummings Elementary,Shelby ,74,91.9,0,0,35.1187616,-90.0283291
+812,Tennessee,2018-19,Johnson Elementary,Williamson ,62,91.9,0,1.6,35.926101,-86.881636
+813,Tennessee,2018-19,Kate Bond Elementary,Shelby ,124,91.9,0.8,0,35.2001043,-89.8025596
+814,Tennessee,2018-19,Madisonville Primary,Monroe ,160,91.9,0,3.1,35.521402,-84.367458
+815,Tennessee,2018-19,Oakhaven Elementary ,Shelby ,99,91.9,0,1,35.044978,-89.958597
+816,Tennessee,2018-19,Powell Elementary,Knox ,123,91.9,1.6,3.3,36.033081,-84.028771
+817,Tennessee,2018-19,Rockford Elementary,Blount ,74,91.9,0,0,35.823921,-83.942287
+818,Tennessee,2018-19,Delano Elementary,Shelby ,97,91.8,0,1,35.199451,-90.005716
+819,Tennessee,2018-19,Getwell Elementary,Shelby ,61,91.8,0,1.6,35.072472,-89.93375
+820,Tennessee,2018-19,Henry C. Maxwell Elementary,Davidson ,98,91.8,0,0,36.030815,-86.674294
+821,Tennessee,2018-19,Neely's Bend Elementary,Davidson ,49,91.8,0,2,36.239518,-86.673762
+822,Tennessee,2018-19,Prescott South Elementary,Putnam ,85,91.8,0,8.2,36.111707,-85.51196
+823,Tennessee,2018-19,Snow Hill Elementary,Hamilton ,98,91.8,0,2,35.180261,-85.060102
+824,Tennessee,2018-19,David Crockett Elementary,Lawrence ,72,91.7,1.4,0,35.255307,-87.375388
+825,Tennessee,2018-19,Dover Elementary,Stewart ,72,91.7,0,1.4,36.478287,-87.868015
+826,Tennessee,2018-19,Georgian Hills Achievement Elementary School ,Shelby ,36,91.7,0,0,35.232892,-89.998214
+827,Tennessee,2018-19,Laurel Elementary,Johnson ,12,91.7,0,0,36.565347,-81.756182
+828,Tennessee,2018-19,Midway Elementary,Roane ,72,91.7,0,4.2,35.779766,-84.54892
+829,Tennessee,2018-19,Piedmont Elementary,Jefferson ,60,91.7,0,1.7,36.026,-83.51868
+830,Tennessee,2018-19,Short Mountain Elementary,Cannon ,12,91.7,0,0,35.843277,-85.9461
+831,Tennessee,2018-19,Una Elementary ,Davidson ,144,91.7,0.7,0,36.095595,-86.65286
+832,Tennessee,2018-19,Valley View Elementary,Bradley ,48,91.7,0,6.3,35.051383,-84.8053375
+833,Tennessee,2018-19,Brickey Mccloud Elementary,Knox ,166,91.6,1.2,6.6,36.062112,-83.97257
+834,Tennessee,2018-19,Sherwood Elementary,Shelby ,83,91.6,0,2.4,35.100329,-89.939329
+835,Tennessee,2018-19,Battle Academy For Teaching,Hamilton ,82,91.5,0,2.4,35.036124,-85.3078491
+836,Tennessee,2018-19,Circles Of Success Learning,Shelby ,47,91.5,0,0,35.1079369,-90.0332988
+837,Tennessee,2018-19,Eastview Elementary,Greene ,47,91.5,0,6.4,36.164151,-82.810028
+838,Tennessee,2018-19,Gainesboro Elementary,Jackson ,82,91.5,1.2,0,36.350108,-85.659145
+839,Tennessee,2018-19,Moore Magnet Elementary,Montgomery ,82,91.5,0,6.1,36.51948,-87.337819
+840,Tennessee,2018-19,Ooltewah Elementary,Hamilton ,177,91.5,0,4,35.128448,-85.033685
+841,Tennessee,2018-19,Shady Grove Elementary,Shelby ,71,91.5,1.4,0,35.123775,-89.88345
+842,Tennessee,2018-19,Buena Vista Elementary,Davidson ,35,91.4,0,0,36.177671,-86.798492
+843,Tennessee,2018-19,Ford Road Elementary,Shelby ,93,91.4,0,0,35.057618,-90.079566
+844,Tennessee,2018-19,Keystone Elementary,Shelby ,81,91.4,0,2.5,35.243093,-89.952706
+845,Tennessee,2018-19,Sevierville Primary,Sevier ,233,91.4,0.4,1.3,35.853365,-83.541856
+846,Tennessee,2018-19,Theodore Roosevelt Elementary School ,Sullivan ,35,91.4,0,0,36.562326,-82.576803
+847,Tennessee,2018-19,Vonore Elementary,Monroe ,70,91.4,0,2.9,35.587844,-84.2394
+848,Tennessee,2018-19,Bargerton Elementary ,Henderson ,23,91.3,0,8.7,35.732165,-88.490506
+849,Tennessee,2018-19,Bruce Elementary,Shelby ,80,91.3,0,1.3,35.1312,-90.0223
+850,Tennessee,2018-19,Ramer Elementary,McNairy ,46,91.3,0,2.2,35.06927,-88.617499
+851,Tennessee,2018-19,Rush Strong Elementary,Jefferson ,46,91.3,0,4.3,36.06427,-83.682267
+852,Tennessee,2018-19,Sarah Moore Greene Magnet,Knox ,80,91.3,0,1.3,35.9823862,-83.8745122
+853,Tennessee,2018-19,Wilson Elementary,Overton ,23,91.3,0,8.7,36.216596,-85.171824
+854,Tennessee,2018-19,Boyds Creek Elementary,Sevier ,57,91.2,1.8,5.3,35.9321257,-83.6700611
+855,Tennessee,2018-19,Lake Ridge Elementary ,Washington ,102,91.2,0,7.8,36.384683,-82.385978
+856,Tennessee,2018-19,Carter-Lawrence Elementary,Davidson ,45,91.1,0,8.9,36.143605,-86.786177
+857,Tennessee,2018-19,Eagle View Elementary,Davidson ,101,91.1,0,4,36.0511461,-86.6415422
+858,Tennessee,2018-19,Erin Elementary,Houston ,56,91.1,0,7.1,36.314089,-87.674652
+859,Tennessee,2018-19,Jere Whitson Elementary,Putnam ,79,91.1,0,1.3,36.186082,-85.503524
+860,Tennessee,2018-19,Vollentine Elementary,Shelby ,45,91.1,0,0,35.1643,-90.0014
+861,Tennessee,2018-19,Coopertown Elementary,Robertson ,78,91,0,5.1,36.43742,-86.96916
+862,Tennessee,2018-19,Mcconnell Elementary,Hamilton ,78,91,0,6.4,35.194823,-85.160423
+863,Tennessee,2018-19,Park View Elementary,Putnam ,78,91,0,1.3,36.152533,-85.511651
+864,Tennessee,2018-19,South Park Elementary,Shelby ,78,91,0,1.3,35.083845,-89.930822
+865,Tennessee,2018-19,Bellshire Elementary,Davidson ,66,90.9,0,1.5,36.269821,-86.762348
+866,Tennessee,2018-19,Coker Creek Elementary,Monroe ,11,90.9,0,0,35.259039,-84.295372
+867,Tennessee,2018-19,Orchard Knob Elementary,Hamilton ,88,90.9,0,1.1,35.044224,-85.276409
+868,Tennessee,2018-19,Pi Beta Phi Elementary,Sevier ,44,90.9,0,4.5,35.711733,-83.512088
+869,Tennessee,2018-19,Winstead Elementary,Williamson ,110,90.9,0,9.1,35.882852,-86.878111
+870,Tennessee,2018-19,Smyrna Elementary,Rutherford ,141,90.8,0,2.1,35.988905,-86.507133
+871,Tennessee,2018-19,South Elementary,Madison ,76,90.8,0,5.3,35.500788,-88.737683
+872,Tennessee,2018-19,Amherst Elementary,Knox ,107,90.7,0.9,4.7,35.9784359,-84.0583755
+873,Tennessee,2018-19,Cascade Elementary,Bedford ,107,90.7,0.9,2.8,35.56875,-86.358862
+874,Tennessee,2018-19,Bel Aire Elementary,Coffee ,53,90.6,0,9.4,35.359069,-86.228085
+875,Tennessee,2018-19,Evans Elementary,Shelby ,96,90.6,0,0,35.0687,-89.8984
+876,Tennessee,2018-19,Jellico Elementary,Campbell ,32,90.6,0,3.1,36.575193,-84.129471
+877,Tennessee,2018-19,Pin Oak Elementary ,Henderson ,32,90.6,6.3,3.1,35.635359,-88.275209
+878,Tennessee,2018-19,Bonny Kate Elementary,Knox ,42,90.5,0,4.8,35.883057,-83.898005
+879,Tennessee,2018-19,Kingsbury Elementary,Shelby ,63,90.5,0,0,35.168898,-89.924908
+880,Tennessee,2018-19,West Hills Elementary,Knox ,116,90.5,1.7,3.4,35.933926,-84.038848
+881,Tennessee,2018-19,Mountain View Elementary ,Washington ,73,90.4,0,4.1,36.315987,-82.331842
+882,Tennessee,2018-19,Granbery Elementary,Davidson ,186,90.3,0,9.1,36.04667,-86.753313
+883,Tennessee,2018-19,Chimneyrock Elementary,Shelby ,153,90.2,0,0.7,35.1768078,-89.776191
+884,Tennessee,2018-19,Claxton Elementary,Anderson ,82,90.2,0,3.7,36.042409,-84.112057
+885,Tennessee,2018-19,Haywood Elementary,Davidson ,122,90.2,0,0,36.074515,-86.70786
+886,Tennessee,2018-19,Leoma Elementary,Lawrence ,61,90.2,0,3.3,35.15578,-87.349284
+887,Tennessee,2018-19,Shelby Oaks Elementary,Shelby ,133,90.2,0,0,35.1778,-89.8604
+888,Tennessee,2018-19,West Elementary,Hamblen ,81,90.1,0,1.2,36.22329,-83.304895
+889,Tennessee,2018-19,Black Fox Elementary,Bradley ,90,90,0,8.9,35.1268221,-84.9221678
+890,Tennessee,2018-19,Centerview Elementary,Cocke ,20,90,0,10,36.085372,-83.164627
+891,Tennessee,2018-19,Ingram Sowell Elementary,Lawrence ,60,90,1.7,3.3,35.249534,-87.319596
+892,Tennessee,2018-19,Luttrell Elementary,Union ,50,90,0,0,36.203207,-83.754096
+893,Tennessee,2018-19,Pine Haven Elementary,Fentress ,50,90,0,0,36.455274,-84.935155
+894,Tennessee,2018-19,South Knox Elementary,Knox ,30,90,0,6.7,35.958764,-83.907557
+895,Tennessee,2018-19,Spring Hill Elementary,Gibson ,10,90,0,10,35.984086,-89.123996
+896,Tennessee,2018-19,Aspire Coleman ,Shelby ,69,89.9,0,1.4,35.2141,-89.923641
+897,Tennessee,2018-19,Fox Meadows Elementary,Shelby ,109,89.9,0,0,35.0681,-89.8796
+898,Tennessee,2018-19,Dan Mills Elementary,Davidson ,118,89.8,0,9.3,36.218028,-86.716646
+899,Tennessee,2018-19,Macon-Hall Elementary ,Shelby ,196,89.8,0,1,35.162283,-89.734629
+900,Tennessee,2018-19,Berclair Elementary,Shelby ,78,89.7,0,0,35.153095,-89.907207
+901,Tennessee,2018-19,North Stewart Elementary,Stewart ,68,89.7,0,1.5,36.562965,-87.73008
+902,Tennessee,2018-19,Pittman Center Elementary,Sevier ,39,89.7,0,7.7,35.7446,-83.408602
+903,Tennessee,2018-19,South Fentress Elementary,Fentress ,87,89.7,0,0,36.2468501,-85.0029925
+904,Tennessee,2018-19,D.P. Yates Primary,Bradley ,106,89.6,0,1.9,35.206901,-84.856974
+905,Tennessee,2018-19,John Hay Elementary,Hamblen ,48,89.6,0,0,36.232749,-83.254325
+906,Tennessee,2018-19,Central Elementary,Carter ,19,89.5,0,10.5,36.332363,-82.287551
+907,Tennessee,2018-19,Kipp Memphis Academy Elementary ,Shelby ,57,89.5,0,0,35.18106,-89.981979
+908,Tennessee,2018-19,Spring Creek Elementary,Hamilton ,95,89.5,0,0,34.994534,-85.216968
+909,Tennessee,2018-19,Townsend Elementary,Blount ,19,89.5,0,5.3,35.673922,-83.754819
+910,Tennessee,2018-19,A. B. Hill Elementary,Shelby ,56,89.3,0,0,35.11004,-90.051057
+911,Tennessee,2018-19,Arnold Memorial Elementary,Bradley ,56,89.3,0,7.1,35.165062,-84.877823
+912,Tennessee,2018-19,Paulette Elementary,Union ,56,89.3,0,0,36.1904479,-83.8953279
+913,Tennessee,2018-19,Tracy Elementary,Grundy ,28,89.3,0,10.7,35.255778,-85.749342
+914,Tennessee,2018-19,Cherokee Elementary,Shelby ,83,89.2,0,0,35.094045,-89.960157
+915,Tennessee,2018-19,Holmes Road Elementary,Shelby ,101,89.1,0,0,35.005492,-90.030071
+916,Tennessee,2018-19,Crump Elementary,Shelby ,73,89,0,0,35.028234,-89.860553
+917,Tennessee,2018-19,Hixson Elementary,Hamilton ,81,88.9,1.2,1.2,35.149427,-85.245896
+918,Tennessee,2018-19,Clifton Hills Elementary,Hamilton ,116,88.8,0,0,35.008479,-85.290298
+919,Tennessee,2018-19,Normal Park Museum Magnet,Hamilton ,97,88.7,0,4.1,35.0769004,-85.3014203
+920,Tennessee,2018-19,Sharpe Elementary,Shelby ,53,88.7,0,0,35.0862,-89.9486
+921,Tennessee,2018-19,Explore Community,Davidson ,70,88.6,0,10,36.17446,-86.751491
+922,Tennessee,2018-19,Mary Blount Elementary,Blount ,88,88.6,0,0,35.752471,-84.0384
+923,Tennessee,2018-19,Marvin Wright Elementary,Maury ,157,88.5,0,5.1,35.7222054,-86.8891703
+924,Tennessee,2018-19,Promise Academy,Shelby ,61,88.5,0,0,35.1727,-89.9737
+925,Tennessee,2018-19,R Howell Elementary,Maury ,104,88.5,1,1,35.637615,-86.970811
+926,Tennessee,2018-19,Winchester Elementary,Shelby ,103,88.3,0,0,35.0513,-89.9971
+927,Tennessee,2018-19,Algood Elementary,Putnam ,110,88.2,0.9,3.6,36.177287,-85.452871
+928,Tennessee,2018-19,Crab Orchard Elementary,Cumberland ,51,88.2,0,7.8,35.911117,-84.898333
+929,Tennessee,2018-19,Fall Branch Elementary ,Washington ,17,88.2,0,5.9,36.411084,-82.619368
+930,Tennessee,2018-19,Ottway Elementary,Greene ,17,88.2,0,5.9,36.267949,-82.869283
+931,Tennessee,2018-19,Red Bank Elementary,Hamilton ,93,88.2,0,4.3,35.110761,-85.321587
+932,Tennessee,2018-19,Sea Isle Elementary,Shelby ,67,88.1,0,0,35.094993,-89.888424
+933,Tennessee,2018-19,Granville T. Woods Academy,Shelby ,50,88,0,2,35.2297803,-89.8992884
+934,Tennessee,2018-19,Holladay Elementary,Benton,8,87.5,0,12.5,35.870272,-88.145184
+935,Tennessee,2018-19,Ida B. Wells Elementary,Davidson ,40,87.5,2.5,0,36.1342563,-86.8220341
+936,Tennessee,2018-19,Middle Settlements,Blount ,48,87.5,0,2.1,35.800985,-84.035266
+937,Tennessee,2018-19,Promise Academy - Spring Hill ,Shelby ,64,87.5,3.1,1.6,35.22362,-89.937321
+938,Tennessee,2018-19,Rivermont Elementary,Hamilton ,72,87.5,0,4.2,35.101911,-85.274161
+939,Tennessee,2018-19,Rozelle Elementary,Shelby ,40,87.5,0,0,35.118908,-90.009564
+940,Tennessee,2018-19,Witt Elementary,Hamblen ,32,87.5,0,12.5,36.159364,-83.274737
+941,Tennessee,2018-19,G.R. Stuart Elementary,Bradley ,55,87.3,0,5.5,35.176593,-84.878268
+942,Tennessee,2018-19,Elkton Elementary,Giles ,31,87.1,0,12.9,35.057665,-86.891
+943,Tennessee,2018-19,Larose Elementary ,Shelby ,46,87,0,0,35.123661,-90.04805
+944,Tennessee,2018-19,Treadwell Elementary,Shelby ,115,87,0,0,35.157332,-89.942714
+945,Tennessee,2018-19,Alton Elementary,Shelby ,61,86.9,0,1.6,35.0922,-90.0433
+946,Tennessee,2018-19,Kipp Memphis Collegiate Elementary ,Shelby ,84,86.9,0,0,35.166922,-90.040312
+947,Tennessee,2018-19,Thompson's Station Elementary,Williamson ,107,86.9,0,11.2,35.8036334,-86.8761203
+948,Tennessee,2018-19,Tusculum Elementary ,Davidson ,153,86.9,0,0,36.062442,-86.719909
+949,Tennessee,2018-19,Dodson Branch Elementary,Jackson ,30,86.7,0,3.3,36.309046,-85.528925
+950,Tennessee,2018-19,Hermitage Elementary,Davidson ,59,86.4,0,6.8,36.1979,-86.635691
+951,Tennessee,2018-19,Maynardville Elementary,Union ,59,86.4,0,1.7,36.247568,-83.804192
+952,Tennessee,2018-19,Petros Joyner Elementary,Morgan ,22,86.4,4.5,4.5,36.067161,-84.455689
+953,Tennessee,2018-19,Sheffield Elementary,Shelby ,103,86.4,0,0,35.0576,-89.9207
+954,Tennessee,2018-19,Glenview Elementary,Davidson ,108,86.1,0,0,36.128121,-86.706638
+955,Tennessee,2018-19,East Side Elementary,Hamilton ,93,86,0,1.1,35.023096,-85.276229
+956,Tennessee,2018-19,Wells Station Elementary,Shelby ,136,86,0,0,35.175142,-89.915607
+957,Tennessee,2018-19,Newberry Elementary ,Shelby ,64,85.9,0,0,35.053853,-89.878544
+958,Tennessee,2018-19,Oak Forest Elementary ,Shelby ,78,85.9,0,0,35.061448,-89.814855
+959,Tennessee,2018-19,Calvin Donaldson Environmental Science,Hamilton ,63,85.7,0,0,35.0108513,-85.318712
+960,Tennessee,2018-19,Jones Cove Elementary,Sevier ,21,85.7,0,4.8,35.826116,-83.310848
+961,Tennessee,2018-19,Samuel Everett School Of Innovation,Blount ,7,85.7,0,0,35.7681388,-83.9543477
+962,Tennessee,2018-19,Lookout Valley Elementary,Hamilton ,55,85.5,1.8,0,35.044519,-85.356959
+963,Tennessee,2018-19,Memphis Scholars Florida Kansas ,Shelby ,41,85.4,0,0,35.109913,-90.066905
+964,Tennessee,2018-19,Stratton Elementary ,Davidson ,96,85.4,0,0,36.265408,-86.717286
+965,Tennessee,2018-19,West View Elementary,Knox ,41,85.4,2.4,4.9,35.966966,-83.958125
+966,Tennessee,2018-19,Cromwell Elementary,Shelby ,68,85.3,0,1.5,35.045613,-89.897136
+967,Tennessee,2018-19,Levi Elementary ,Shelby ,81,85.2,2.5,0,35.042401,-90.068993
+968,Tennessee,2018-19,Whitehaven Elementary,Shelby ,67,85.1,0,4.5,35.0182,-90.0257
+969,Tennessee,2018-19,University School ,Washington ,20,85,0,10,36.304984,-82.36793
+970,Tennessee,2018-19,Memphis Delta Preparatory Charter School ,Shelby ,73,84.9,0,0,35.11519,-90.018741
+971,Tennessee,2018-19,Hattie Cotton Elementary,Davidson ,46,84.8,0,0,36.191396,-86.747423
+972,Tennessee,2018-19,Rocketship Nashville Northeast Elementary,Davidson ,112,84.8,0,0,36.213557,-86.765139
+973,Tennessee,2018-19,Lowrance Elementary/Middle ,Shelby ,89,84.3,0,0,35.0364,-89.8057
+974,Tennessee,2018-19,North Elementary,Grundy ,38,84.2,0,7.9,35.414648,-85.711075
+975,Tennessee,2018-19,Frayser Achievement Elementary ,Shelby ,50,84,0,0,35.213777,-90.010284
+976,Tennessee,2018-19,Lucie E. Campbell Elementary ,Shelby ,99,83.8,0,0,35.2143,-89.9692
+977,Tennessee,2018-19,Alpine Crest Elementary,Hamilton ,49,83.7,0,0,35.129922,-85.271682
+978,Tennessee,2018-19,Palmer Elementary,Grundy ,12,83.3,0,16.7,35.352838,-85.563904
+979,Tennessee,2018-19,Vital: Upper Cumberland E-Learning,Putnam ,6,83.3,0,0,36.1618335,-85.5019751
+980,Tennessee,2018-19,Grahamwood Elementary,Shelby ,147,83,0,1.4,35.149841,-89.928572
+981,Tennessee,2018-19,Idlewild Elementary,Shelby ,99,82.8,0,0,35.133354,-89.996971
+982,Tennessee,2018-19,John B. Whitsitt Elementary,Davidson ,81,82.7,0,0,36.115126,-86.736406
+983,Tennessee,2018-19,Homer Pittard Campus,Rutherford ,40,82.5,0,12.5,35.8471331,-86.3748696
+984,Tennessee,2018-19,Andrew Jackson Elementary School ,Sullivan ,68,82.4,0,2.9,36.558938,-82.564708
+985,Tennessee,2018-19,Double Tree Elementary,Shelby ,68,82.4,0,0,35.023647,-90.10265
+986,Tennessee,2018-19,Winridge Elementary,Shelby ,84,82.1,0,0,35.05198,-89.856043
+987,Tennessee,2018-19,York Elementary,Fentress ,39,82.1,0,0,36.423669,-84.93532
+988,Tennessee,2018-19,Grassy Fork Elementary,Cocke ,11,81.8,0,9.1,35.843411,-83.096573
+989,Tennessee,2018-19,Memphis Scholars Caldwell-Guthrie ,Shelby ,80,81.3,0,0,35.167384,-90.02512
+990,Tennessee,2018-19,Southern Avenue Charter,Shelby ,53,81.1,0,0,35.0683986,-89.9900016
+991,Tennessee,2018-19,Woodmore Elementary,Hamilton ,53,81.1,0,1.9,35.031719,-85.226396
+992,Tennessee,2018-19,Memphis Business Academy Elementary School ,Shelby ,52,80.8,0,0,35.160758,-89.910068
+993,Tennessee,2018-19,Tennessee Virtual Academy,Union ,99,80.8,1,14.1,36.238012,-83.820951
+994,Tennessee,2018-19,Clinch,Hawkins ,10,80,0,20,36.476093,-83.114824
+995,Tennessee,2018-19,Corning Achievement Elementary ,Shelby ,25,80,0,0,35.227072,-90.008819
+996,Tennessee,2018-19,Freedom Preparatory Academy Charter Elementary School ,Shelby ,75,80,0,0,35.02578,-90.09031
+997,Tennessee,2018-19,Monteagle Elementary,Marion ,24,79.2,0,16.7,35.239157,-85.831756
+998,Tennessee,2018-19,Libertas School ,Shelby ,75,78.7,0,1.3,35.22909,-89.978411
+999,Tennessee,2018-19,Robert R. Church Elementary,Shelby ,128,76.6,0,1.6,35.037328,-90.005264
+1000,Tennessee,2018-19,Westside Elementary,Shelby ,53,75.5,0,0,35.21699,-90.038181
+1001,Tennessee,2018-19,Willow Oaks Elementary,Shelby ,110,74.5,0,0,35.085174,-89.915015
+1002,Tennessee,2018-19,Hillsboro Elementary,Williamson ,22,72.7,0,13.6,35.8919684,-87.0154908
+1003,Tennessee,2018-19,Hawkins Mill Elementary,Shelby ,62,69.4,0,0,35.242837,-89.98352
+1004,Tennessee,2018-19,Geeter,Shelby ,55,67.3,0,0,35.0216334,-90.0690109

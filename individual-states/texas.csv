@@ -1,0 +1,778 @@
+index,state,year,name,county,mmr,lat,lng
+1,Texas,2018-19,Abundant Life Christian,Galveston,100,29.3807818,-95.0183161
+2,Texas,2018-19,Accelerated Intermediate Academy,Harris,100,29.636619,-95.484785
+3,Texas,2018-19,Adventist Christian Academy Of Texas,Montgomery,100,30.2987532,-95.4044807
+4,Texas,2018-19,Akiba Academy of Dallas,Dallas,100,32.9151073,-96.770668
+5,Texas,2018-19,All Saints Catholic School Fort Worth,Tarrant,100,32.7818819,-97.3513159
+6,Texas,2018-19,All Saints Catholic School Of Dallas,Dallas,100,32.9953531,-96.7707312
+7,Texas,2018-19,Amigos Por Vida-Friends For Life Pub Cht,Harris,100,29.7221517,-95.4789064
+8,Texas,2018-19,Ann And Nate Levine Academy-A Solomon Sc,Dallas,100,32.9962354,-96.7857069
+9,Texas,2018-19,Assumption Catholic,Harris,100,29.8714358,-95.3875781
+10,Texas,2018-19,Athens Christian Preparatory Academy,Henderson,100,32.1927474,-95.8148818
+11,Texas,2018-19,Austin Jewish Academy,Travis,100,30.3588811,-97.7583753
+12,Texas,2018-19,Austin Peace Academy,Travis,100,30.2995538,-97.6866477
+13,Texas,2018-19,Beth Yeshurun Day,Harris,100,29.6879153,-95.4540092
+14,Texas,2018-19,Bexar County Academy,Bexar,100,29.4688343,-98.5722733
+15,Texas,2018-19,Blessed Sacrament Catholic Sch - San Antonio,Bexar,100,29.5039307,-98.4972382
+16,Texas,2018-19,Blessed Sacrament School Laredo,Webb,100,27.5098345,-99.4737019
+17,Texas,2018-19,Bob Hope,Jefferson,100,29.9152179,-93.9318394
+18,Texas,2018-19,Brazos Christian,Brazos,100,30.6392821,-96.354706
+19,Texas,2018-19,Buckner Fanning Christian,Bexar,100,29.664932,-98.479421
+20,Texas,2018-19,Calvary Episcopal School Richmond,Fort Bend,100,29.5760087,-95.7660958
+21,Texas,2018-19,Calvary Lutheran,Dallas,100,32.8865745,-96.7172852
+22,Texas,2018-19,Canterbury Episcopal,Dallas,100,32.6237781,-96.8717778
+23,Texas,2018-19,Capitol School Of Austin,Travis,100,30.3337909,-97.7390326
+24,Texas,2018-19,Cathedral School Of St. Mary,Travis,100,30.271078,-97.739455
+25,Texas,2018-19,Christ The King Cathedral Sch,Lubbock,100,33.543988,-101.9001959
+26,Texas,2018-19,Christ The King Elementary Sch,Dallas,100,32.8604111,-96.8055047
+27,Texas,2018-19,Christ The Redeemer,Harris,100,29.9430305,-95.6299412
+28,Texas,2018-19,Cornerstone,Tom Green,100,31.4695546,-100.4644744
+29,Texas,2018-19,Corpus Christi Catholic Sch,Harris,100,29.6747098,-95.441287
+30,Texas,2018-19,Country Home Learning Center No. 4,Bexar,100,29.5742156,-98.3781567
+31,Texas,2018-19,Country Home Learning Center No. 7,Travis,100,30.4401795,-97.781688
+32,Texas,2018-19,Cunae International School Llc,Harris,100,30.1399115,-95.5075941
+33,Texas,2018-19,Cypress Christian,Harris,100,29.9519714,-95.5876737
+34,Texas,2018-19,Darul Arqam School Southwest,Fort Bend,100,29.6653154,-95.6150809
+35,Texas,2018-19,Dav Montessori,Harris,100,29.7174966,-95.6414214
+36,Texas,2018-19,Dr M L Garza-Gonzalez Charter,Nueces,100,27.7579708,-97.4330334
+37,Texas,2018-19,Eagle Heights Christian Academy,Brazoria,100,29.5532909,-95.2645876
+38,Texas,2018-19,East Texas Christian Academy,Smith,100,32.27606,-95.269036
+39,Texas,2018-19,East Texas Christian,Gregg,100,32.4303345,-94.7911478
+40,Texas,2018-19,Ehrhart,Jefferson,100,30.0723029,-94.1250928
+41,Texas,2018-19,Episcopal Day,Cameron,100,25.9271448,-97.5083167
+42,Texas,2018-19,Excellence In Leadership Academy,Hidalgo,100,26.2032319,-98.3388401
+43,Texas,2018-19,Explorations Preparatory,Denton,100,33.0129805,-97.0538979
+44,Texas,2018-19,Faith Academy Victoria,Victoria,100,28.843931,-96.92385
+45,Texas,2018-19,Faith Christian Academy,El Paso,100,31.714127,-106.312112
+46,Texas,2018-19,Faith Christian Academy,Harris,100,29.6569877,-95.185685
+47,Texas,2018-19,Faith West Academy,Harris,100,29.804887,-95.795
+48,Texas,2018-19,Father Yermo Sch,El Paso,100,31.7686843,-106.4404343
+49,Texas,2018-19,Fellowship Christian Academy Dallas,Dallas,100,32.6630007,-96.8475134
+50,Texas,2018-19,First Baptist Academy Houston,Harris,100,29.7820351,-95.45961
+51,Texas,2018-19,First Baptist,Cameron,100,30.8509663,-96.9795067
+52,Texas,2018-19,First Baptist School - Caldwell,Burleson,100,30.5285018,-96.6947735
+53,Texas,2018-19,First Woodway Christian,Mclennan,100,31.487182,-97.236172
+54,Texas,2018-19,Fort Worth Christian,Tarrant,100,32.857387,-97.220492
+55,Texas,2018-19,Good Shephard Episcopal,Harris,100,30.0554991,-95.213965
+56,Texas,2018-19,Good Shepherd Catholic Sch,Dallas,100,32.9120011,-96.647631
+57,Texas,2018-19,Good Shepherd Episcopal School Of Austin,Travis,100,30.296411,-97.768878
+58,Texas,2018-19,Grace School Houston,Harris,100,29.739479,-95.555305
+59,Texas,2018-19,Greenville Christian,Hunt,100,33.0854271,-96.0819086
+60,Texas,2018-19,Harmony Science Academy,Harris,100,33.0093587,-96.7776152
+61,Texas,2018-19,Highland Park Pres Day Sch,Dallas,100,32.8447418,-96.7990071
+62,Texas,2018-19,Holy Cross,Matagorda,100,28.9846408,-95.9499935
+63,Texas,2018-19,Holy Family Academy,Dallas,100,32.8396658,-97.0083348
+64,Texas,2018-19,Holy Family Catholic School Austin,Travis,100,30.4893945,-97.760595
+65,Texas,2018-19,Holy Family Catholic School Corpus Christi,Nueces,100,27.7652364,-97.4245246
+66,Texas,2018-19,Holy Family Catholic School Fort Worth,Tarrant,100,32.736876,-97.417006
+67,Texas,2018-19,Holy Family Catholic School Galveston,Galveston,100,29.294033,-94.793756
+68,Texas,2018-19,Holy Ghost Catholic,Harris,100,29.7045745,-95.4774786
+69,Texas,2018-19,Holy Name,Bexar,100,29.3628222,-98.4215231
+70,Texas,2018-19,Holy Rosary Catholic,Tarrant,100,32.6603687,-97.1433405
+71,Texas,2018-19,Holy Spirit Catholic Sch,Bexar,100,29.5382797,-98.5061815
+72,Texas,2018-19,Holy Spirit Episcopal,Harris,100,29.77312,-95.5520584
+73,Texas,2018-19,Holy Trinity Academy,Dallas,100,32.9316228,-96.7869631
+74,Texas,2018-19,Holy Trinity Catholic,Dallas,100,32.8148562,-96.8030792
+75,Texas,2018-19,Holy Trinity Catholic School Grapevine,Tarrant,100,32.8966303,-97.1003503
+76,Texas,2018-19,Hq Academy Katy Islamic Academy,Harris,100,29.7608092,-95.702924
+77,Texas,2018-19,Humble Christian,Harris,100,29.952958,-95.268641
+78,Texas,2018-19,Ilm Academy,Harris,100,29.7899792,-95.5497368
+79,Texas,2018-19,Iman Academy Southeast,Harris,100,29.589886,-95.175502
+80,Texas,2018-19,Immaculate Conception Catholic,Starr,100,26.3811446,-98.8203847
+81,Texas,2018-19,Immaculate Conception Catholic School Denton,Denton,100,33.2377542,-97.1632603
+82,Texas,2018-19,Immaculate Conception School - Grand Prairie,Dallas,100,32.7504253,-96.9806485
+83,Texas,2018-19,Immanuel Lutheran School Giddings,Lee,100,30.1851355,-96.9351648
+84,Texas,2018-19,Incarnate Word Academy Brownsville,Cameron,100,29.756066,-95.3573772
+85,Texas,2018-19,Incarnate Word Academy Elementary Corpus Christi,Nueces,100,27.7623123,-97.3923104
+86,Texas,2018-19,James L Collins Catholic Sch,Navarro,100,32.0864273,-96.4999837
+87,Texas,2018-19,Jean Massieu Academy,Tarrant,100,32.7475833,-97.1062554
+88,Texas,2018-19,John Paul Ii Catholic School Houston,Harris,100,29.7612833,-95.6338016
+89,Texas,2018-19,Kenedy County Wide CSD,Kenedy,100,26.8697147,-97.6982272
+90,Texas,2018-19,Kenmont ,Cameron,100,25.9410927,-97.5061121
+91,Texas,2018-19,Keystone,Bexar,100,29.4521927,-98.4928326
+92,Texas,2018-19,Kids R Kids No. 1 Cinco Ranch,Harris,100,29.7329059,-95.7531185
+93,Texas,2018-19,Kids R Kids No. 12 Missouri City,Fort Bend,100,29.5809233,-95.5764424
+94,Texas,2018-19,Kids R Kids No. 30 Barker Cypress,Harris,100,29.9360999,-95.6808032
+95,Texas,2018-19,Kids R Kids No. 32 Lakes Of Eldridge,Harris,100,29.8585012,-95.6074007
+96,Texas,2018-19,Kids R Kids No. 40 Houston Metro,Fort Bend,100,29.7004634,-95.6895584
+97,Texas,2018-19,Kids R Kids No. 49 Coles Crossing,Harris,100,29.9803523,-95.6527877
+98,Texas,2018-19,Kids R Kids No. 59,Williamson,100,30.574718,-97.669186
+99,Texas,2018-19,Killeen Sda Jr Acad,Bell,100,31.122315,-97.691121
+100,Texas,2018-19,La Academia De Estrellas,Dallas,100,32.7050171,-96.9008327
+101,Texas,2018-19,La Fe Preparatory,El Paso,100,31.753618,-106.4816128
+102,Texas,2018-19,Lakehill Preparatory,Dallas,100,32.8227939,-96.7491065
+103,Texas,2018-19,Levelland Christian,Hockley,100,33.587033,-102.326649
+104,Texas,2018-19,Lord Of Life Lutheran,Galveston,100,29.5519136,-95.1849782
+105,Texas,2018-19,Marigold Learning Academy,Rockwall,100,32.9300273,-96.4628912
+106,Texas,2018-19,Mary Help Of Chrisitans,Webb,100,27.5686711,-99.4942367
+107,Texas,2018-19,Mary Immaculate Sch,Dallas,100,32.936898,-96.8843619
+108,Texas,2018-19,Memorial Christian Academy,Bell,100,31.079923,-97.7399609
+109,Texas,2018-19,Memorial Lutheran Houston,Harris,100,29.7389878,-95.4799267
+110,Texas,2018-19,Merryhill School Arlington,Tarrant,100,32.685352,-97.115866
+111,Texas,2018-19,Montessori Episcopal School Lewisville,Denton,100,33.04822,-97.027011
+112,Texas,2018-19,Most Precious Blood Sch,Nueces,100,27.704565,-97.419858
+113,Texas,2018-19,Mountain West Montessori,El Paso,100,31.8153685,-106.5688259
+114,Texas,2018-19,Mt Sacred Heart Sch,Bexar,100,29.5077831,-98.502206
+115,Texas,2018-19,Nazarene Christian Academy Big Spring,Howard,100,32.2351613,-101.4838699
+116,Texas,2018-19,New Life Christian Academy,Bexar,100,29.4035499,-98.6179807
+117,Texas,2018-19,North Central Texas Academy At Happy Hill Farm,Hood,100,32.289889,-97.72975
+118,Texas,2018-19,Notre Dame Catholic Sch,Kerr,100,30.0450253,-99.1381269
+119,Texas,2018-19,Notre Dame Catholic Sch,Wichita,100,33.884686,-98.545662
+120,Texas,2018-19,Nova Academy,Dallas,100,32.762698,-96.6877098
+121,Texas,2018-19,Oak Forest Montessori,Gregg,100,32.5360848,-94.7697476
+122,Texas,2018-19,Our Lady Of Fatima Elementary,Galveston,100,29.3943901,-94.9197021
+123,Texas,2018-19,Our Lady Of Fatima Sch,Harris,100,29.7392123,-95.2404803
+124,Texas,2018-19,Our Lady Of Grace Catholic,Atascosa,100,28.9705591,-98.475012
+125,Texas,2018-19,Our Lady Of Guadalupe Sch,Harris,100,29.7591992,-95.3472191
+126,Texas,2018-19,Our Lady Of Guadalupe,Webb,100,27.5145717,-99.5009816
+127,Texas,2018-19,Our Lady Of Perp Help,Dallas,100,32.8360034,-96.8520386
+128,Texas,2018-19,Our Lady Of Perp Help,Nueces,100,27.7027054,-97.3671417
+129,Texas,2018-19,Our Lady Of Perp Help Sch,Guadalupe,100,29.5854518,-98.3073213
+130,Texas,2018-19,Our Lady Of Refuge,Maverick,100,28.7251211,-100.4895413
+131,Texas,2018-19,Our Lady Of Sorrows,Hidalgo,100,26.2100934,-98.2304258
+132,Texas,2018-19,Our Lady Of The Gulf Catholic,Calhoun,100,28.6113662,-96.6270295
+133,Texas,2018-19,Our Lady Of Victory Sch,Tarrant,100,32.7005902,-97.3324577
+134,Texas,2018-19,Our Lady Of Victory Sch,Victoria,100,28.8241054,-96.9911372
+135,Texas,2018-19,Our Lady Queen Of Peace Catholic Sch,Brazoria,100,29.0686617,-95.418704
+136,Texas,2018-19,Palm Tree Academy,El Paso,100,31.8187665,-106.5116855
+137,Texas,2018-19,Parish Episcopal,Dallas,100,32.934938,-96.8434752
+138,Texas,2018-19,Pharr Oratory Of St Philip Neri School S,Hidalgo,100,26.1744957,-98.20498
+139,Texas,2018-19,Presbyterian,Harris,100,29.6600973,-95.3893719
+140,Texas,2018-19,Preston Hollow Presbyterian,Dallas,100,32.8816453,-96.802828
+141,Texas,2018-19,Primrose School At Crossroads Park,Harris,100,29.915703,-95.609535
+142,Texas,2018-19,Primrose School At Fall Creek,Harris,100,29.935577,-95.26796
+143,Texas,2018-19,Primrose School At Sonoma Ranch,Bexar,100,29.5881175,-98.5306137
+144,Texas,2018-19,Primrose School At Sterling Ridge,Montgomery,100,30.1831056,-95.5383754
+145,Texas,2018-19,Primrose School At Summerwood,Harris,100,29.928717,-95.176812
+146,Texas,2018-19,Primrose School Of Barker Cypress,Harris,100,29.957411,-95.670644
+147,Texas,2018-19,Primrose School Of Bedford,Tarrant,100,32.866166,-97.130657
+148,Texas,2018-19,Primrose School Of Castle Hills,Dallas,100,33.034598,-96.88534
+149,Texas,2018-19,Primrose School Of Eagle Springs,Harris,100,29.9783497,-95.1875364
+150,Texas,2018-19,Primrose School Of East Allen,Collin,100,33.1143247,-96.6273826
+151,Texas,2018-19,Primrose School Of Eldorado,Collin,100,33.167238,-96.669163
+152,Texas,2018-19,Primrose School Of Eldridge Parkway,Harris,100,29.74364,-95.624892
+153,Texas,2018-19,Primrose School Of Firewheel,Dallas,100,32.96402,-96.6365039
+154,Texas,2018-19,Primrose School Of Friendswood,Galveston,100,29.513234,-95.188562
+155,Texas,2018-19,Primrose School Of Georgetown,Williamson,100,30.6342287,-97.6997048
+156,Texas,2018-19,Primrose School Of Greatwood,Fort Bend,100,29.559485,-95.686824
+157,Texas,2018-19,Primrose School Of Imperial Oaks,Harris,100,30.122755,-95.409512
+158,Texas,2018-19,Primrose School Of Kingwood,Harris,100,30.047039,-95.23509
+159,Texas,2018-19,Primrose School Of Lakehill,Collin,100,33.109251,-96.841467
+160,Texas,2018-19,Primrose School Of Las Colinas,Dallas,100,32.899734,-96.957032
+161,Texas,2018-19,Primrose School Of Ne Flower Mound,Denton,100,33.039481,-97.062833
+162,Texas,2018-19,Primrose School Of North Lewisville,Denton,100,33.056252,-97.034772
+163,Texas,2018-19,Primrose School Of Parkwood Hill,Tarrant,100,32.8758895,-97.264511
+164,Texas,2018-19,Primrose School Of Plano At Preston Meadow,Collin,100,33.053398,-96.771141
+165,Texas,2018-19,Primrose School Of Prosper,Collin,100,33.221617,-96.783672
+166,Texas,2018-19,Primrose School Of Rowlett,Dallas,100,32.934866,-96.539377
+167,Texas,2018-19,Primrose School Of Shady Hollow,Travis,100,30.149006,-97.854439
+168,Texas,2018-19,Primrose School Of South Shore,Galveston,100,29.540342,-95.061441
+169,Texas,2018-19,Primrose School Of Southwest Austin,Travis,100,30.2067498,-97.8588389
+170,Texas,2018-19,Primrose School Of Stone Brooke,Collin,100,33.198024,-96.691962
+171,Texas,2018-19,Primrose School Of Sugar Land,Fort Bend,100,29.601704,-95.634699
+172,Texas,2018-19,Primrose School Of The Woodlands At Coll,Montgomery,100,30.2080062,-95.5001217
+173,Texas,2018-19,Primrose School Of West Allen,Collin,100,33.099687,-96.706539
+174,Texas,2018-19,Primrose School Of West Cinco Ranch,Harris,100,29.718254,-95.810503
+175,Texas,2018-19,Prince Of Peace Catholic Sch,Collin,100,33.015825,-96.8021943
+176,Texas,2018-19,Promesa Public Schools,Travis,100,30.2611778,-97.6826888
+177,Texas,2018-19,Queen Of Peace Sch,Harris,100,29.7154192,-95.3174653
+178,Texas,2018-19,Radford,El Paso,100,31.7948955,-106.4383631
+179,Texas,2018-19,Rainbow Station Cedar Park,Williamson,100,30.5158081,-97.7741003
+180,Texas,2018-19,Raul Yzaguirre School For Success,Harris,100,29.6979589,-95.2782306
+181,Texas,2018-19,Renaissance Academy,Travis,100,30.434984,-97.670474
+182,Texas,2018-19,Resurrection Catholic Sch,Harris,100,29.7719345,-95.3024707
+183,Texas,2018-19,Rise Academy,Lubbock,100,33.6012947,-101.8189755
+184,Texas,2018-19,Robert M Beren Academy,Harris,100,29.654067,-95.4522491
+185,Texas,2018-19,Sacred Heart,Lavaca,100,29.4430417,-96.9407909
+186,Texas,2018-19,Sacred Heart Catholic Sch,Montgomery,100,30.30796,-95.4621373
+187,Texas,2018-19,Sacred Heart Catholic Sch,Val Verde,100,29.3583287,-100.8966599
+188,Texas,2018-19,Sacred Heart Parish Sch,Uvalde,100,29.2130869,-99.7949164
+189,Texas,2018-19,Sacred Heart Sch,Fayette,100,29.9128878,-96.8746042
+190,Texas,2018-19,Sacred Heart Sch,Harris,100,29.9125217,-95.0579085
+191,Texas,2018-19,Sacred Heart Sch,Wilson,100,29.1370335,-98.1631125
+192,Texas,2018-19,Sacred Heart,Cooke,100,33.6549055,-97.3740627
+193,Texas,2018-19,Saint Mary's Hall,Bexar,100,29.526234,-98.42381
+194,Texas,2018-19,San Angelo Christian Academy,Tom Green,100,31.3933744,-100.4361439
+195,Texas,2018-19,San Antonio Christian Elementary,Bexar,100,29.6217152,-98.4587843
+196,Texas,2018-19,San Antonio Country Day,Bexar,100,29.5776211,-98.4104736
+197,Texas,2018-19,San Jacinto Christian Academy,Potter,100,35.2119285,-101.8731583
+198,Texas,2018-19,San Marcos Baptist Academy,Hays,100,29.8983813,-98.0020944
+199,Texas,2018-19,Santa Cruz Catholic,Hays,100,30.0881425,-97.8313592
+200,Texas,2018-19,Scenic Hills Christian Academy,Bexar,100,29.5468061,-98.6620004
+201,Texas,2018-19,Seguin Christian Academy,Guadalupe,100,29.5886273,-97.9411172
+202,Texas,2018-19,Shelton,Dallas,100,32.96333,-96.78547
+203,Texas,2018-19,Shepherd Of The Hills Lutheran School San Antonio,Bexar,100,29.4983545,-98.5893905
+204,Texas,2018-19,Shiner Catholic,Lavaca,100,29.4227515,-97.1655492
+205,Texas,2018-19,Southminster,Fort Bend,100,29.584297,-95.5720796
+206,Texas,2018-19,St Mary's Academy Charter,Bee,100,28.4077266,-97.7445001
+207,Texas,2018-19,St. Alban's Episcopal,Cameron,100,26.2026935,-97.6792288
+208,Texas,2018-19,St. Ambrose,Harris,100,29.8296243,-95.4638235
+209,Texas,2018-19,St. Andrew Catholic,Tarrant,100,32.6950154,-97.3631773
+210,Texas,2018-19,St. Andrew's Episcopal School Amarillo,Potter,100,35.1979919,-101.8659103
+211,Texas,2018-19,St. Ann's,Midland,100,31.9953396,-102.0966907
+212,Texas,2018-19,St. Anne Catholic School Beaumont,Jefferson,100,30.084498,-94.13067
+213,Texas,2018-19,St. Anne Catholic School Houston,Harris,100,29.7427532,-95.4110056
+214,Texas,2018-19,St. Anne Catholic School Tomball,Harris,100,30.0878718,-95.6105609
+215,Texas,2018-19,St. Anthony Catholic,Bexar,100,29.4560943,-98.4958347
+216,Texas,2018-19,St. Anthony Catholic,Cameron,100,26.1912554,-97.685005
+217,Texas,2018-19,St. Anthony Catholic,Colorado,100,29.7009006,-96.5421715
+218,Texas,2018-19,St. Anthony School Robstown,Nueces,100,27.78901,-97.6748989
+219,Texas,2018-19,St. Anthony's School Dalhart,Dallam,100,36.0532124,-102.5187731
+220,Texas,2018-19,St. Anthony's School Hereford,Deaf Smith,100,34.822558,-102.40614
+221,Texas,2018-19,St. Augustine Elementary School - Laredo,Webb,100,27.511763,-99.482939
+222,Texas,2018-19,St. Augustine School - Houston,Harris,100,29.6786729,-95.2373044
+223,Texas,2018-19,St. Austin,Travis,100,30.2329676,-97.7441854
+224,Texas,2018-19,St. Bernard Of Clairvaux,Dallas,100,32.8255525,-96.704293
+225,Texas,2018-19,St. Catherine Of Sienna,Jefferson,100,29.9265799,-93.9345458
+226,Texas,2018-19,St. Catherine's Montessori,Harris,100,29.6751106,-95.4318422
+227,Texas,2018-19,St. Cecelia Catholic School - Houston,Harris,100,29.7784415,-95.5306211
+228,Texas,2018-19,St. Christopher Catholic,Harris,100,29.6865913,-95.2748516
+229,Texas,2018-19,St. Clare Of Assisi Catholic,Harris,100,29.591795,-95.118205
+230,Texas,2018-19,St. Clement's Parish,El Paso,100,31.766064,-106.487855
+231,Texas,2018-19,St. David's Episcopal,Bexar,100,29.4812985,-98.4386289
+232,Texas,2018-19,St. Edward Catholic,Harris,100,30.081619,-95.456107
+233,Texas,2018-19,St. Elizabeth Ann Seton Catholic School - Houston,Harris,100,29.8725885,-95.6314491
+234,Texas,2018-19,St. Elizabeth Ann Seton School Keller,Tarrant,100,32.8998085,-97.2487824
+235,Texas,2018-19,St. Elizabeth Of Hungary Catholic,Dallas,100,32.6925871,-96.8581226
+236,Texas,2018-19,St. Elizabeth Of Hungary Catholic,Jim Wells,100,27.7554958,-98.0709436
+237,Texas,2018-19,St. Francis De Sales,Harris,100,29.7001527,-95.5281839
+238,Texas,2018-19,St. Francis,Travis,100,30.331249,-97.710195
+239,Texas,2018-19,St. Gabriel's Catholic,Travis,100,30.2918944,-97.8736252
+240,Texas,2018-19,St. George Catholic,Tarrant,100,32.774768,-97.2964991
+241,Texas,2018-19,St. Gertrude,Kleberg,100,27.5062499,-97.8631594
+242,Texas,2018-19,St. Gregory The Great Catholic,Bexar,100,29.499007,-98.5448312
+243,Texas,2018-19,St. Helen Catholic,Brazoria,100,29.5668226,-95.2758436
+244,Texas,2018-19,St. Helen School Georgetown,Williamson,100,30.6360741,-97.6467209
+245,Texas,2018-19,St. Ignatius Martyr,Travis,100,30.239787,-97.7540606
+246,Texas,2018-19,St. James Catholic,Guadalupe,100,29.565435,-97.964879
+247,Texas,2018-19,St. James Episcopal School Dallas,Dallas,100,32.8718366,-96.7171235
+248,Texas,2018-19,St. James Episcopal School Del Rio,Val Verde,100,29.3581343,-100.9005673
+249,Texas,2018-19,St. James The Apostle,Bexar,100,29.3885284,-98.5195822
+250,Texas,2018-19,St. Jerome Catholic,Harris,100,29.8204369,-95.5114601
+251,Texas,2018-19,St. John Berchmans,Bexar,100,29.3973996,-98.5510723
+252,Texas,2018-19,St. John Bosco,Bexar,100,29.4314438,-98.5709158
+253,Texas,2018-19,St. John The Apostle Catholic,Tarrant,100,32.8241644,-97.2188569
+254,Texas,2018-19,St. John's Episcopal School Mcallen,Hidalgo,100,26.2267459,-98.2253161
+255,Texas,2018-19,St. John's,Harris,100,29.7424862,-95.4288178
+256,Texas,2018-19,St. Joseph Catholic School Baytown,Harris,100,29.7247697,-95.0016802
+257,Texas,2018-19,St. Joseph Catholic School Edinburg,Hidalgo,100,26.2978529,-98.1639778
+258,Texas,2018-19,St. Joseph Catholic School Killeen,Bell,100,31.1202433,-97.7013772
+259,Texas,2018-19,St. Joseph Catholic School Richardson,Dallas,100,32.93964,-96.6832569
+260,Texas,2018-19,St. Joseph Catholic School Waxahachie,Ellis,100,32.3895753,-96.8389688
+261,Texas,2018-19,St. Joseph Elementary School Amarillo,Potter,100,35.1703399,-101.8600617
+262,Texas,2018-19,St. Joseph Elementary School Yoakum,Lavaca,100,29.2906025,-97.1442256
+263,Texas,2018-19,St. Joseph Parochial School - Alice,Jim Wells,100,27.7417378,-98.0742672
+264,Texas,2018-19,St. Joseph School El Paso,El Paso,100,31.7869595,-106.4468452
+265,Texas,2018-19,St. Laurence Catholic,Fort Bend,100,29.58198,-95.613816
+266,Texas,2018-19,St. Louis Catholic School Waco,Mclennan,100,31.5619571,-97.1666521
+267,Texas,2018-19,St. Louis School - Austin,Travis,100,30.3523193,-97.7308787
+268,Texas,2018-19,St. Luke Catholic,Cameron,100,25.9326048,-97.480621
+269,Texas,2018-19,St. Luke's Catholic,Bexar,100,29.4858923,-98.5770778
+270,Texas,2018-19,St. Maria Goretti Catholic,Tarrant,100,32.7248037,-97.1249176
+271,Texas,2018-19,St. Mark The Evangelist Catholic,Collin,100,33.0172927,-96.7174305
+272,Texas,2018-19,St. Martha Catholic,Harris,100,30.0646034,-95.2097454
+273,Texas,2018-19,St. Mary Catholic School - West,Mclennan,100,31.8008151,-97.097847
+274,Texas,2018-19,St. Mary Magdalen Catholic,Bexar,100,29.477469,-98.523052
+275,Texas,2018-19,St. Mary Magdalen School - Humble,Harris,100,29.9912833,-95.2570276
+276,Texas,2018-19,St. Mary Of Carmel School - Dallas,Dallas,100,32.7782782,-96.8474261
+277,Texas,2018-19,St. Mary School - Orange,Orange,100,30.1128921,-93.7437215
+278,Texas,2018-19,St. Mary's Cathedral School - Amarillo,Potter,100,35.202413,-101.8491
+279,Texas,2018-19,St. Mary's Catholic,Cameron,100,25.9319983,-97.498899
+280,Texas,2018-19,St. Mary's Catholic School - Temple,Bell,100,31.0874699,-97.3489441
+281,Texas,2018-19,St. Mary's Elementary,Cooke,100,33.6318876,-97.150224
+282,Texas,2018-19,St. Mary's Elementary School - Fredericksburg,Gillespie,100,30.276174,-98.8778068
+283,Texas,2018-19,St. Matthew Catholic,Bexar,100,29.539658,-98.5564514
+284,Texas,2018-19,St. Matthew Catholic School - El Paso,El Paso,100,31.830863,-106.5816106
+285,Texas,2018-19,St. Michael Catholic School - Houston,Harris,100,29.7480713,-95.4665859
+286,Texas,2018-19,St. Michael,Colorado,100,29.7074866,-96.7794737
+287,Texas,2018-19,St. Michael's Catholic School - Cuero,Dewitt,100,29.0906971,-97.2876622
+288,Texas,2018-19,St. Monica Catholic School - Dallas,Dallas,100,32.8795073,-96.8396691
+289,Texas,2018-19,St. Patrick Cathedral School - El Paso,El Paso,100,31.7661222,-106.4925453
+290,Texas,2018-19,St. Patrick Catholic Elementary - Lufkin,Angelina,100,31.3581737,-94.7130511
+291,Texas,2018-19,St. Patrick School - Corpus Christi,Nueces,100,27.7527994,-97.3866483
+292,Texas,2018-19,St. Patrick School - Dallas,Dallas,100,32.8779955,-96.7098559
+293,Texas,2018-19,St. Paul Catholic,Bexar,100,29.4698061,-98.5478746
+294,Texas,2018-19,St. Paul The Apostle,Dallas,100,32.9431962,-96.7451405
+295,Texas,2018-19,St. Paul's Christian Day,Washington,100,30.1611757,-96.3992152
+296,Texas,2018-19,St. Paul's Episcopal Day School Waco,Mclennan,100,31.5583564,-97.1352708
+297,Texas,2018-19,St. Paul's Episcopal Montessori,Bexar,100,29.4427919,-98.4676996
+298,Texas,2018-19,St. Peter Prince Of The Apostles,Bexar,100,29.473791,-98.460833
+299,Texas,2018-19,St. Peter's Memorial School - Laredo,Webb,100,27.5069365,-99.511255
+300,Texas,2018-19,St. Philip & St. Augustine Catholic Academy- Dallas,Dallas,100,32.769886,-96.6800683
+301,Texas,2018-19,St. Philip The Apostle School - El Campo,Wharton,100,29.200114,-96.275768
+302,Texas,2018-19,St. Pius V Catholic School - Pasadena,Harris,100,29.6993014,-95.2101124
+303,Texas,2018-19,St. Pius X Catholic,Bexar,100,29.5063184,-98.4354239
+304,Texas,2018-19,St. Pius X Catholic School - Dallas,Dallas,100,32.833859,-96.6645637
+305,Texas,2018-19,St. Pius X Catholic School - El Paso,El Paso,100,31.7791371,-106.4073702
+306,Texas,2018-19,St. Pius X School - Corpus Christi,Nueces,100,27.7180701,-97.3637667
+307,Texas,2018-19,St. Raphael Catholic,El Paso,100,31.7751936,-106.343743
+308,Texas,2018-19,St. Rita Catholic School Fort Worth,Tarrant,100,32.7368879,-97.23466
+309,Texas,2018-19,St. Rose Of Lima Catholic,Harris,100,29.8202199,-95.4152165
+310,Texas,2018-19,St. Rose Of Lima School - Schulenberg,Fayette,100,29.6760936,-96.9035827
+311,Texas,2018-19,St. Theresa Catholic School Austin,Travis,100,30.342486,-97.7741929
+312,Texas,2018-19,St. Theresa Catholic School Houston,Harris,100,29.7731273,-95.429401
+313,Texas,2018-19,St. Thomas Aquinas,Dallas,100,32.8324152,-96.7535018
+314,Texas,2018-19,St. Thomas Early Learning Center College Station,Brazos,100,30.609765,-96.3328694
+315,Texas,2018-19,St. Thomas Episcopal,Bexar,100,29.6091534,-98.4729061
+316,Texas,2018-19,St. Thomas More Catholic School - Houston,Harris,100,29.669227,-95.494063
+317,Texas,2018-19,St. Thomas More,Bexar,100,29.494519,-98.4054464
+318,Texas,2018-19,St. Thomas The Apostle Episcopal,Harris,100,29.545558,-95.088224
+319,Texas,2018-19,St. Vincent De Paul,Harris,100,29.7059278,-95.4286677
+320,Texas,2018-19,Sts. Cyril & Methodius School Corpus Christi,Nueces,100,27.7291009,-97.4120752
+321,Texas,2018-19,Sts. Peter & Paul Catholic,Comal,100,29.7032808,-98.1273848
+322,Texas,2018-19,Summit Christian Academy Of Huntsville,Walker,100,30.6965089,-95.5523148
+323,Texas,2018-19,The Atonement Academy,Bexar,100,29.5875451,-98.6448802
+324,Texas,2018-19,The Brook Hill,Smith,100,32.1507326,-95.3306587
+325,Texas,2018-19,The Children's Courtyard #3014,Tarrant,100,32.881871,-97.0958198
+326,Texas,2018-19,The Girls' School Of Austin,Travis,100,30.292757,-97.763632
+327,Texas,2018-19,The Hockaday,Dallas,100,32.907513,-96.82718
+328,Texas,2018-19,The Jane Justin School Of The Child Study Center,Tarrant,100,32.7475274,-97.3403267
+329,Texas,2018-19,The John Cooper,Montgomery,100,30.17569,-95.525878
+330,Texas,2018-19,The Joy,Harris,100,29.7303474,-95.3889604
+331,Texas,2018-19,The Magnolia,Travis,100,30.3899791,-97.9383987
+332,Texas,2018-19,The Master's School Of San Marcos,Hays,100,29.8173696,-97.9773232
+333,Texas,2018-19,The Regis School Of The Sacred Heart,Harris,100,29.7954471,-95.4758645
+334,Texas,2018-19,The Shlenker,Harris,100,29.6778043,-95.4883307
+335,Texas,2018-19,The Varnett Public,Harris,100,29.656432,-95.46626
+336,Texas,2018-19,The Woodlands Preparatory,Harris,100,30.1573225,-95.5451125
+337,Texas,2018-19,Torah Academy Of San Antonio,Bexar,100,29.5698333,-98.5442562
+338,Texas,2018-19,Torah Day School Of Dallas,Dallas,100,32.9983311,-96.7831087
+339,Texas,2018-19,Trafton Academy,Harris,100,29.667989,-95.456903
+340,Texas,2018-19,Trent Internationale,Fort Bend,100,29.5934912,-95.615204
+341,Texas,2018-19,Trinity Christian Academy,Bexar,100,29.604204,-98.3844261
+342,Texas,2018-19,Trinity Episcopal School Marshall,Harrison,100,32.5192874,-94.3769876
+343,Texas,2018-19,Trinity Episcopal School Victoria,Victoria,100,28.8083936,-97.0067512
+344,Texas,2018-19,Trinity Klein Lutheran School Spring,Harris,100,30.0444451,-95.5003982
+345,Texas,2018-19,Trinity United Methodist,Bexar,100,29.4966214,-98.5914634
+346,Texas,2018-19,True Cross School - Dickinson,Galveston,100,29.4503169,-95.0734362
+347,Texas,2018-19,United Day,Webb,100,27.6033402,-99.4790385
+348,Texas,2018-19,University Christian Church Weekday,Tarrant,100,32.712445,-97.3610829
+349,Texas,2018-19,University Of Texas Health Science Center-Child Development Center,Harris,100,29.6916739,-95.3948754
+350,Texas,2018-19,Vanguard Academy,Hidalgo,100,26.1891875,-98.1703744
+351,Texas,2018-19,Weatherford Christian,Parker,100,32.756776,-97.796271
+352,Texas,2018-19,Westbury Christian,Harris,100,29.6676456,-95.4931803
+353,Texas,2018-19,Wichita Christian,Wichita,100,33.8592004,-98.4967236
+354,Texas,2018-19,Yellowstone Academy,Harris,100,29.7378216,-95.3567187
+355,Texas,2018-19,Zion Lutheran School Dallas,Dallas,100,32.8516837,-96.7594854
+356,Texas,2018-19,Basis Texas,Bexar,99.61,29.5204759,-98.5902154
+357,Texas,2018-19,Trinity Basin Preparatory,Dallas,99.43,32.7580395,-96.812362
+358,Texas,2018-19,School Of Science And Technology,Bexar,99.31,29.5513646,-98.3667554
+359,Texas,2018-19,A+ Academy,Dallas,99.09,32.691563,-96.6444012
+360,Texas,2018-19,Beta Academy,Harris,98.9,29.6281994,-95.2441714
+361,Texas,2018-19,Manara Academy,Dallas,98.8,32.9193529,-97.0055283
+362,Texas,2018-19,Idea Public Schools,Hidalgo,98.68,26.169158,-98.0121124
+363,Texas,2018-19,Draw Academy,Harris,98.63,29.7240098,-95.5064764
+364,Texas,2018-19,The Kinkaid,Harris,98.63,29.7489447,-95.5100834
+365,Texas,2018-19,Uplift Education,Dallas,98.62,32.794683,-96.82421
+366,Texas,2018-19,Waxahachie Faith Family Academy,Dallas,98.62,32.6217564,-96.8512861
+367,Texas,2018-19,Pineywoods Community Academy,Angelina,98.61,31.3325905,-94.7321783
+368,Texas,2018-19,Fort Worth Country Day,Tarrant,98.53,32.6932404,-97.410423
+369,Texas,2018-19,St. Rita Catholic School Dallas,Dallas,98.53,32.9199967,-96.8188735
+370,Texas,2018-19,Rapoport Academy Public,Mclennan,98.51,31.5819643,-97.1350755
+371,Texas,2018-19,Southwest,Harris,98.51,32.8180358,-96.8458347
+372,Texas,2018-19,School Of Science And Technology Discove,Bexar,98.4,29.4812904,-98.608466
+373,Texas,2018-19,Second Baptist,Harris,98.39,29.7583648,-95.4985944
+374,Texas,2018-19,Jubilee Academies,Bexar,98.38,29.377635,-98.406741
+375,Texas,2018-19,Nova Academy Southeast,Dallas,98.33,32.762698,-96.6877098
+376,Texas,2018-19,Compass Academy Charter,Ector,98.31,31.914753,-102.304823
+377,Texas,2018-19,Harmony School Of Science - Houston,Harris,98.27,29.675793,-95.479182
+378,Texas,2018-19,Crockett County Consolidated CSD,Crockett,98.21,30.7140194,-101.200645
+379,Texas,2018-19,Houston Gateway Academy Inc,Harris,98.18,29.714989,-95.2880589
+380,Texas,2018-19,Burnham Wood Charter School District,El Paso,98.15,31.8573675,-106.5610797
+381,Texas,2018-19,Good Shepherd Episcopal,Dallas,98.11,32.9001265,-96.83789
+382,Texas,2018-19,St. Thomas' Episcopal School Houston,Harris,98.11,29.6851636,-95.4646958
+383,Texas,2018-19,Kipp Austin Public Schools Inc,Travis,98.08,30.2713365,-97.6374295
+384,Texas,2018-19,Southwest Christian School-Elementary Campus,Tarrant,98,32.647952,-97.406448
+385,Texas,2018-19,Texas Serenity Academy,Harris,98,29.9397403,-95.4024898
+386,Texas,2018-19,Harmony School Of Excellence,Harris,97.97,29.8812718,-95.5399634
+387,Texas,2018-19,Duchesne Academy Of The Sacred Heart,Harris,97.96,29.7784868,-95.4859737
+388,Texas,2018-19,Geneva School Of Boerne,Kendall,97.92,29.749803,-98.691036
+389,Texas,2018-19,St. John's Episcopal School Dallas,Dallas,97.92,32.8447512,-96.7070093
+390,Texas,2018-19,All Saints Episcopal School Of Tyler,Smith,97.87,32.32313,-95.345861
+391,Texas,2018-19,St. Anthony Of Padua,Montgomery,97.83,30.2047015,-95.5302608
+392,Texas,2018-19,Trinity School Of Midland,Midland,97.83,32.0193,-102.131384
+393,Texas,2018-19,Harmony Science Acad (Waco),Mclennan,97.73,31.5316054,-97.2016926
+394,Texas,2018-19,Meyerpark Elementary,Harris,97.73,29.6387054,-95.4847558
+395,Texas,2018-19,The Woodlands Methodist,Montgomery,97.73,30.1693822,-95.4676576
+396,Texas,2018-19,The Rhodes,Harris,97.6,29.8416895,-95.2023665
+397,Texas,2018-19,Horizon Montessori Public Schools,Hidalgo,97.5,26.2071056,-98.2336172
+398,Texas,2018-19,Lighthouse Charter,Bexar,97.5,29.410621,-98.648952
+399,Texas,2018-19,Waco Charter,Mclennan,97.5,31.544611,-97.155003
+400,Texas,2018-19,Education Center International Academy,Dallas,97.44,32.8132612,-96.5990023
+401,Texas,2018-19,Harmony Science Acad (San Antonio),Bexar,97.44,29.431304,-98.653192
+402,Texas,2018-19,Heritage Academy,Guadalupe,97.44,29.40692,-100.9174096
+403,Texas,2018-19,The Christian School Of Castle Hill,Bexar,97.44,29.533838,-98.5246303
+404,Texas,2018-19,The Montessori School Of San Antonio,Bexar,97.44,29.6059971,-98.5335695
+405,Texas,2018-19,Radiant Stem Academy,Dallas,97.37,32.8694806,-96.9720746
+406,Texas,2018-19,Fort Bend Christian Academy,Fort Bend,97.3,29.630075,-95.615118
+407,Texas,2018-19,Trinity Environmental Academy,Dallas,97.3,32.6797448,-96.7563017
+408,Texas,2018-19,The Awty International,Harris,97.25,29.7860353,-95.4604166
+409,Texas,2018-19,St. Mary Catholic School League City,Galveston,97.22,29.5141654,-95.078658
+410,Texas,2018-19,Ambassadors Preparatory Academy,Galveston,97.14,29.274333,-94.818203
+411,Texas,2018-19,Harmony Science Acad (El Paso),El Paso,97.1,31.6991805,-106.2986559
+412,Texas,2018-19,School Of Excellence In Education,Bexar,97.1,29.4882584,-98.5139795
+413,Texas,2018-19,Arrow Academy,Bell,97.06,31.9685988,-99.9018131
+414,Texas,2018-19,Meridian World School Llc,Williamson,96.97,30.5379487,-97.6900503
+415,Texas,2018-19,Vista Del Futuro Charter,El Paso,96.97,31.7457724,-106.2720991
+416,Texas,2018-19,Abilene Christian,Taylor,96.88,32.4794105,-99.7082481
+417,Texas,2018-19,Cityscape Schools,Dallas,96.88,32.7985349,-96.7425546
+418,Texas,2018-19,Momentous,Dallas,96.88,32.745645,-96.821962
+419,Texas,2018-19,Annunciation Orthodox,Harris,96.83,29.7395432,-95.3931371
+420,Texas,2018-19,Stafford Msd,Fort Bend,96.82,29.6013511,-95.5433431
+421,Texas,2018-19,North Texas Collegiate Academy,Denton,96.81,33.23915,-97.1779913
+422,Texas,2018-19,All Saints Episcopal School Fort Worth,Tarrant,96.77,32.7316596,-97.491402
+423,Texas,2018-19,Grace Academy Of Dallas,Dallas,96.77,32.902702,-96.81672
+424,Texas,2018-19,Providence Classical,Harris,96.77,30.0392417,-95.5304998
+425,Texas,2018-19,Texas Leadership,Tom Green,96.71,31.4380015,-100.5056725
+426,Texas,2018-19,Chapel Hill Academy,Tarrant,96.67,32.6340034,-97.3920634
+427,Texas,2018-19,Midland Academy Charter,Midland,96.67,32.0023339,-102.0727186
+428,Texas,2018-19,Orenda Charter,Williamson,96.58,30.6624586,-97.6901662
+429,Texas,2018-19,Lone Star Language Academy,Collin,96.55,33.0692831,-96.8131504
+430,Texas,2018-19,The Episcopal School Of Dallas,Dallas,96.55,32.887373,-96.841716
+431,Texas,2018-19,Immanuel Christian,El Paso,96.43,31.7766692,-106.3748701
+432,Texas,2018-19,Legacy Christian Academy Beaumont,Jefferson,96.43,30.1338407,-94.2039135
+433,Texas,2018-19,St. Monica Catholic,Bexar,96.43,29.5171455,-98.3101295
+434,Texas,2018-19,Universal Academy,Dallas,96.32,32.8426479,-96.958117
+435,Texas,2018-19,Austin Achieve Public Schools,Travis,96.3,30.3073171,-97.679957
+436,Texas,2018-19,Children's University,Tarrant,96.3,32.6690953,-97.1658105
+437,Texas,2018-19,St. John's Episcopal School Odessa,Ector,96.3,31.8381258,-102.3887769
+438,Texas,2018-19,St. Mark's,El Paso,96.3,31.8402288,-106.5859385
+439,Texas,2018-19,Sunshine Cottage,Bexar,96.3,29.4679521,-98.4814505
+440,Texas,2018-19,The Highlands,Dallas,96.3,32.8482766,-96.9290309
+441,Texas,2018-19,The Honor Roll,Fort Bend,96.3,29.57519,-95.628878
+442,Texas,2018-19,Westlake Academy Charter,Tarrant,96.3,32.9857233,-97.2127848
+443,Texas,2018-19,Cornerstone Christian,Bexar,96.25,29.6070252,-98.5670068
+444,Texas,2018-19,Lutheran South Academy Houston,Harris,96.15,29.5865758,-95.1897233
+445,Texas,2018-19,St. Andrew's Episcopal School Austin,Travis,96.15,30.3022447,-97.7482909
+446,Texas,2018-19,St. Theresa Catholic School Sugarland,Fort Bend,96.15,29.628749,-95.6326
+447,Texas,2018-19,The Covenant Preparatory School (Formerly Northeast Christian Academy),Harris,96.15,30.0286361,-95.2289224
+448,Texas,2018-19,Two Dimensions Preparatory Academy,Harris,96.1,29.961982,-95.4801352
+449,Texas,2018-19,The Magellan International,Travis,96.08,30.3632445,-97.7421851
+450,Texas,2018-19,Brentwood Christian,Travis,96,30.3920581,-97.6866961
+451,Texas,2018-19,Everest Academy,Fort Bend,96,29.6188195,-95.5793228
+452,Texas,2018-19,First Baptist Academy-Universal City,Bexar,96,29.5507796,-98.3010838
+453,Texas,2018-19,St. Paul Lutheran School Fort Worth,Tarrant,96,32.7417284,-97.345412
+454,Texas,2018-19,Cumberland Academy,Smith,95.92,32.2960767,-95.2867811
+455,Texas,2018-19,Life,Ellis,95.88,32.7811578,-97.3459694
+456,Texas,2018-19,Living Stones Christian,Brazoria,95.83,29.4529254,-95.2285491
+457,Texas,2018-19,The Goddard School-Cedar Park,Williamson,95.83,30.475959,-97.842461
+458,Texas,2018-19,Prestonwood Christian Academy,Collin,95.74,33.0287976,-96.8452568
+459,Texas,2018-19,Annapolis Christian Academy,Nueces,95.65,27.7358809,-97.3864101
+460,Texas,2018-19,Promise Community,Harris,95.56,29.7514795,-95.3288364
+461,Texas,2018-19,Midland Christian High,Midland,95.51,32.0098214,-102.1151877
+462,Texas,2018-19,Greenhill,Dallas,95.45,32.942326,-96.844048
+463,Texas,2018-19,St. Matthew's Episcopal School Austin,Travis,95.45,30.374622,-97.756452
+464,Texas,2018-19,Stephen F Austin State University Charte,Nacogdoches,95.45,31.6255899,-94.6466118
+465,Texas,2018-19,Village,Harris,95.45,29.7472497,-95.6181152
+466,Texas,2018-19,Southcrest Christian,Lubbock,95.35,33.5275455,-101.8979225
+467,Texas,2018-19,Galloway,Galveston,95.24,29.51703,-95.164469
+468,Texas,2018-19,Santa Clara Of Assisi Catholic Academy,Dallas,95.24,32.744111,-96.895486
+469,Texas,2018-19,St. Joseph Catholic School Bryan,Brazos,95.24,30.6638409,-96.3647414
+470,Texas,2018-19,St. Louis Catholic Elementary School - Castroville,Medina,95.24,29.3564573,-98.8805648
+471,Texas,2018-19,St. Mary Of The Purification Montessori,Harris,95.24,29.7192712,-95.3686108
+472,Texas,2018-19,The Montessori Academy,Tarrant,95.24,32.705349,-97.160475
+473,Texas,2018-19,Westlake Preparatory Lutheran Academy,Fort Bend,95.24,29.6853672,-95.7807837
+474,Texas,2018-19,All Saints Episcopal School Beaumont,Jefferson,95.12,,
+475,Texas,2018-19,St. Mark's Episcopal School Houston,Harris,95.12,29.7067936,-95.4385142
+476,Texas,2018-19,River Oaks Baptist,Harris,95.06,29.7448421,-95.4429578
+477,Texas,2018-19,Burton Adventist Acad,Tarrant,95,32.670597,-97.173909
+478,Texas,2018-19,Christ Academy,Wichita,95,33.8764345,-98.4972456
+479,Texas,2018-19,Iman Academy Southwest,Harris,95,29.7092355,-95.6453033
+480,Texas,2018-19,Advantage Academy,Dallas,94.96,32.6939157,-96.899134
+481,Texas,2018-19,Golden Rule Charter,Dallas,94.94,32.7199663,-96.8630483
+482,Texas,2018-19,Pegasus School Of Liberal Arts And Scien,Dallas,94.87,32.7847776,-96.8010646
+483,Texas,2018-19,The Post Oak,Harris,94.87,29.7310897,-95.3913661
+484,Texas,2018-19,Central Texas Christian,Bell,94.74,31.0402231,-97.4121354
+485,Texas,2018-19,Desoto Private,Dallas,94.74,32.59008,-96.852254
+486,Texas,2018-19,Our Savior Lutheran School Houston,Harris,94.74,29.8519195,-95.4652486
+487,Texas,2018-19,Brighter Horizons Academy,Dallas,94.59,32.946716,-96.669732
+488,Texas,2018-19,Concordia Lutheran School San Antonio,Bexar,94.59,29.6092703,-98.5256201
+489,Texas,2018-19,Scofield Christian,Dallas,94.59,32.8880135,-96.7407853
+490,Texas,2018-19,St Anthony,Dallas,94.59,32.7629789,-96.7625778
+491,Texas,2018-19,International Leadership Of Texas,Dallas,94.58,32.9471615,-96.6661877
+492,Texas,2018-19,Faith Lutheran School Huntsville,Walker,94.44,30.7059861,-95.5975879
+493,Texas,2018-19,Nyos Charter,Travis,94.44,30.40184,-97.677913
+494,Texas,2018-19,Providence Christian School Of Texas,Dallas,94.44,32.8504507,-96.8254697
+495,Texas,2018-19,Baytown Christian Academy,Harris,94.12,29.7848503,-94.9662326
+496,Texas,2018-19,First Baptist Academy Of Dallas,Dallas,94.12,32.7919526,-96.6809695
+497,Texas,2018-19,Holy Rosary Catholic School Rosenburg,Fort Bend,94.12,29.5532447,-95.8187567
+498,Texas,2018-19,Little Flower Catholic,Bexar,94.12,29.4466092,-98.5255446
+499,Texas,2018-19,Loretto Academy,El Paso,94.12,31.787071,-106.434001
+500,Texas,2018-19,Primrose School Of Four Points,Travis,94.12,30.4056631,-97.8740733
+501,Texas,2018-19,Sacred Heart,Aransas,94.12,28.024371,-97.0538209
+502,Texas,2018-19,St. Peter The Apostle Catholic School - Fort Worth,Tarrant,94.12,32.7473215,-97.450613
+503,Texas,2018-19,Veritas Christian Academy Of Houston,Harris,94.12,29.703048,-95.473079
+504,Texas,2018-19,Brooks Academy Of Science And Engineerin,Bexar,94.02,29.3383398,-98.426606
+505,Texas,2018-19,Sam Houston State University Charter Sch,Walker,93.9,30.1720451,-95.5188068
+506,Texas,2018-19,St. George Episcopal,Bexar,93.88,29.5315196,-98.5232945
+507,Texas,2018-19,The Lamplighter,Dallas,93.85,32.9069347,-96.8198263
+508,Texas,2018-19,Epiphany Lutheran,Harris,93.75,29.898272,-95.619298
+509,Texas,2018-19,Heritage Christian Academy Rockwall,Rockwall,93.75,32.9147449,-96.4561994
+510,Texas,2018-19,Redeemer Lutheran,Travis,93.75,30.3525928,-97.7207743
+511,Texas,2018-19,St. Mark Lutheran School Houston,Harris,93.75,29.7980458,-95.4942393
+512,Texas,2018-19,The Parish,Harris,93.75,29.8121448,-95.5721019
+513,Texas,2018-19,Trinity Lutheran School San Angelo,Tom Green,93.75,31.4151281,-100.4629221
+514,Texas,2018-19,Yeshiva Torat Emet,Harris,93.75,29.6548208,-95.5114198
+515,Texas,2018-19,Newman International Academy Of Arlingto,Tarrant,93.63,32.70997,-97.12869
+516,Texas,2018-19,Harmony Science Academy (Austin),Travis,93.55,30.3571654,-97.6847839
+517,Texas,2018-19,All Saints Episcopal School Lubbock,Lubbock,93.33,33.501555,-101.884553
+518,Texas,2018-19,Christian Heritage,Gregg,93.33,32.588706,-94.7826383
+519,Texas,2018-19,Fort Worth Academy,Tarrant,93.33,32.6740722,-97.3054185
+520,Texas,2018-19,Joshua Christian Academy,Johnson,93.33,32.479485,-97.379116
+521,Texas,2018-19,Most Holy Trinity Catholic Sch,El Paso,93.33,31.9008322,-106.4056513
+522,Texas,2018-19,Pantego Christian Academy Mansfield,Tarrant,93.33,32.5990333,-97.1010871
+523,Texas,2018-19,Primrose School Of Griffin Parc,Collin,93.33,33.174637,-96.848056
+524,Texas,2018-19,Primrose School Of Preston Hollow,Dallas,93.33,32.8933492,-96.8052417
+525,Texas,2018-19,Prince Of Peace Christian School Carroll,Dallas,93.33,33.0198402,-96.8418314
+526,Texas,2018-19,Texas Christian,Harris,93.33,32.7080667,-97.3572192
+527,Texas,2018-19,Trinity Christian Academy Addison,Dallas,93.33,32.9856158,-96.83309
+528,Texas,2018-19,Eleanor Kolitz Hebrew Language Academy,Bexar,93.18,29.5571626,-98.5331582
+529,Texas,2018-19,School Of The Woods,Harris,93.18,29.7938564,-95.4860966
+530,Texas,2018-19,Austin Montessori,Travis,93.1,30.227637,-97.805067
+531,Texas,2018-19,Bracken Christian,Comal,92.86,29.7943107,-98.4288055
+532,Texas,2018-19,Cornerstone Christian School Sugarland,Fort Bend,92.86,29.592339,-95.638313
+533,Texas,2018-19,Faith Lutheran School Plano,Collin,92.86,33.0318823,-96.6897252
+534,Texas,2018-19,Fellowship Academy,Tarrant,92.86,32.658446,-97.22823
+535,Texas,2018-19,Inspire Academies,Bexar,92.86,29.547231,-98.659931
+536,Texas,2018-19,Primrose School Of Plano At Deerfield,Collin,92.86,33.085286,-96.773975
+537,Texas,2018-19,The Westwood School - Midway Campus,Dallas,92.86,32.9445371,-96.8380705
+538,Texas,2018-19,Trinity Christian Schools,Lubbock,92.86,33.5330094,-101.8688566
+539,Texas,2018-19,Victory Christian Academy,Wise,92.86,33.2400354,-97.5918662
+540,Texas,2018-19,Arlington Classics Academy,Tarrant,92.78,32.662547,-97.150969
+541,Texas,2018-19,Grace Community,Smith,92.75,32.3110964,-95.2596947
+542,Texas,2018-19,Seashore Charter Schools,Nueces,92.73,27.597543,-97.223006
+543,Texas,2018-19,Bay Area Christian,Galveston,92.59,29.4944065,-95.1486327
+544,Texas,2018-19,Nazareth Academy,Victoria,92.59,28.796627,-97.008869
+545,Texas,2018-19,Imagine International Academy of North Texas,Collin,92.5,33.2008909,-96.6565581
+546,Texas,2018-19,Alpha Omega Academy,Walker,92.31,30.700512,-95.612433
+547,Texas,2018-19,Burleson Adventist Sch,Johnson,92.31,32.546257,-97.2816584
+548,Texas,2018-19,First Baptist Christian,Hill,92.31,32.011174,-97.1255484
+549,Texas,2018-19,St. Luke's Day,Harris,92.31,29.7407039,-95.4327061
+550,Texas,2018-19,St. Luke's Episcopal,Bexar,92.31,29.4856482,-98.4800039
+551,Texas,2018-19,St. Mary's Catholic School - Longview,Gregg,92.31,32.5328367,-94.7371827
+552,Texas,2018-19,St. Mary's Catholic School - Sherman,Grayson,92.31,33.6304258,-96.6067187
+553,Texas,2018-19,St. Stephen's Episcopal School Houston,Harris,92.31,29.738078,-95.404842
+554,Texas,2018-19,Trinity Episcopal School Austin,Travis,92.31,30.2804781,-97.8102132
+555,Texas,2018-19,Utpb Stem Academy,Ector,92.19,31.8851454,-102.3210704
+556,Texas,2018-19,Leadership Prep,Collin,92,33.1483489,-96.8644513
+557,Texas,2018-19,St. John's Episcopal School Abilene,Taylor,92,32.4299648,-99.7905268
+558,Texas,2018-19,Tekoa Academy Of Accelerated Studies,Jefferson,92,29.875306,-93.9428159
+559,Texas,2018-19,Legacy Christian Academy,Collin,91.94,33.1282781,-96.8461726
+560,Texas,2018-19,New Braunfels Christian Academy,Comal,91.89,29.7189878,-98.1829714
+561,Texas,2018-19,Silverline Montessori,Brazoria,91.89,29.575071,-95.407155
+562,Texas,2018-19,The Kipling,Harris,91.89,29.7680411,-95.4093318
+563,Texas,2018-19,Angelo Catholic,Tom Green,91.67,31.4368601,-100.4753992
+564,Texas,2018-19,Calvary Christian,Cameron,91.67,26.2105482,-97.6905935
+565,Texas,2018-19,Community Christian School-Orange,Orange,91.67,30.1236377,-93.7845474
+566,Texas,2018-19,Primrose School At Heritage,Tarrant,91.67,32.91282,-97.284824
+567,Texas,2018-19,Rainard School For Gifted Students,Harris,91.67,29.792367,-95.578509
+568,Texas,2018-19,Regents Academy,Nacogdoches,91.67,31.5939436,-94.6157919
+569,Texas,2018-19,Round Rock Christian Academy,Williamson,91.67,30.50922,-97.693747
+570,Texas,2018-19,Spell Well Montessori,Harris,91.67,30.0268703,-95.486016
+571,Texas,2018-19,The Banff,Harris,91.67,29.9774626,-95.5383951
+572,Texas,2018-19,The Branch,Harris,91.67,29.7916814,-95.5786818
+573,Texas,2018-19,University Of Houston Charter,Harris,91.67,29.7251693,-95.3481933
+574,Texas,2018-19,Wesley Prep,Dallas,91.49,32.8671563,-96.8214505
+575,Texas,2018-19,Montessori For All,Travis,91.38,30.3179234,-97.6592148
+576,Texas,2018-19,High Point Academy,Tarrant,91.35,32.7785014,-97.4705837
+577,Texas,2018-19,Lifegate Christian,Guadalupe,90.91,29.5288352,-97.9131574
+578,Texas,2018-19,Pioneer Technology & Arts Academy,Dallas,90.91,32.8215984,-96.6475037
+579,Texas,2018-19,Gateway Charter Academy,Dallas,90.67,32.6489656,-96.8089988
+580,Texas,2018-19,Lumin Education,Dallas,90.57,32.7962418,-96.7481797
+581,Texas,2018-19,Clear Lake Christian,Harris,90.48,29.5797853,-95.151189
+582,Texas,2018-19,The Kessler,Dallas,90.48,32.760464,-96.8396108
+583,Texas,2018-19,Hyde Park Schools,Travis,90.32,30.302217,-97.731872
+584,Texas,2018-19,St. Phillip's School And Community Center,Dallas,90.32,32.7597394,-96.7754319
+585,Texas,2018-19,Trinity Christian,Dallas,90.32,32.604985,-96.9130538
+586,Texas,2018-19,Texas College Preparatory Academies,Denton,90.3,33.212472,-97.1512305
+587,Texas,2018-19,Beatrice Mayes Institute,Harris,90.2,29.6998169,-95.3458346
+588,Texas,2018-19,Christ Community,Montgomery,90,30.1867128,-95.4612747
+589,Texas,2018-19,New Frontiers Public Schools,Bexar,90,29.3835383,-98.4777563
+590,Texas,2018-19,St. Paul Lutheran School Thorndale,Milam,90,30.6139187,-97.2104705
+591,Texas,2018-19,St. Stephen's Episcopal School Wimberley,Harris,90,30.0327696,-98.0367932
+592,Texas,2018-19,Treetops School International,Tarrant,89.74,32.821251,-97.094251
+593,Texas,2018-19,Alcuin,Dallas,89.66,32.916226,-96.79935
+594,Texas,2018-19,Discovery School Montessori Education,Hidalgo,89.66,26.2577518,-98.1906079
+595,Texas,2018-19,Calvary Christian Academy,Tarrant,89.47,32.7820604,-97.3194936
+596,Texas,2018-19,St. Cyprian's Episcopal School Lufkin,Angelina,89.47,31.320503,-94.7527236
+597,Texas,2018-19,Montessori Children's House,Tarrant,89.29,32.7732044,-97.3516558
+598,Texas,2018-19,Ace Academy,Travis,88.89,30.3080719,-97.7472164
+599,Texas,2018-19,Covenant Academy,Harris,88.89,29.947695,-95.649463
+600,Texas,2018-19,Divine Savior Academy,Fort Bend,88.89,29.4833344,-95.5108421
+601,Texas,2018-19,Hill Country Montessori,Kendall,88.89,29.811306,-98.612422
+602,Texas,2018-19,Islamic Faith Academy,Smith,88.89,32.3352505,-95.3102505
+603,Texas,2018-19,Odyssey Academy Inc,Galveston,88.89,29.275633,-94.8293726
+604,Texas,2018-19,Providence Academy,Rockwall,88.89,32.835152,-96.369256
+605,Texas,2018-19,Rolling Hills Catholic,Bexar,88.89,29.6390755,-98.5167866
+606,Texas,2018-19,The Clariden,Tarrant,88.89,32.9920027,-97.1589208
+607,Texas,2018-19,Cedars International Academy,Travis,88.68,30.3482957,-97.6953681
+608,Texas,2018-19,Salem Lutheran School Tomball,Harris,88.46,30.091463,-95.6712913
+609,Texas,2018-19,Regents School Of Austin,Travis,88.33,30.254528,-97.8453585
+610,Texas,2018-19,Mount St. Michael Catholic Sch,Dallas,88.24,32.7481488,-96.893015
+611,Texas,2018-19,Temple Christian,Tarrant,88.24,32.7787635,-97.208539
+612,Texas,2018-19,Trivium Academy,Collin,88,33.0255647,-96.8656855
+613,Texas,2018-19,Ut Tyler Innovation Academy,Smith,87.88,32.3118341,-95.2414596
+614,Texas,2018-19,Christ Episcopal School Nacogdoches,Nacogdoches,87.5,31.6157112,-94.6483822
+615,Texas,2018-19,El Paso Country Day,El Paso,87.5,31.7685543,-106.4946932
+616,Texas,2018-19,Family Christian Academy,Harris,87.5,29.7814647,-95.1573635
+617,Texas,2018-19,First Baptist School Corpus Christi,Nueces,87.5,27.7639896,-97.3830338
+618,Texas,2018-19,Gem Express Preschool & Kindergarten,Collin,87.5,33.0991636,-96.6076756
+619,Texas,2018-19,Lifestyle Christian,Montgomery,87.5,30.364557,-95.487176
+620,Texas,2018-19,Logos Preparatory,Fort Bend,87.5,29.6251663,-95.5948709
+621,Texas,2018-19,Nazarene Christian Academy,Tarrant,87.5,32.579404,-97.335557
+622,Texas,2018-19,St. Matthew's Episcopal School Edinburg,Hidalgo,87.5,26.275738,-98.165114
+623,Texas,2018-19,Summit Christian Academy,Kendall,87.5,29.7833106,-98.7390922
+624,Texas,2018-19,Summit Christian Academy Of Cedar Park,Williamson,87.5,30.4759646,-97.8467623
+625,Texas,2018-19,Zion Walburg Lutheran School Georgetown,Williamson,87.5,30.7430599,-97.5998193
+626,Texas,2018-19,Coram Deo Academy,Denton,87.18,33.0225837,-97.1078021
+627,Texas,2018-19,Covenant Christian Academy,Tarrant,87.18,32.866863,-97.1547949
+628,Texas,2018-19,Holy Cross Christian Academy,Johnson,87.1,32.5179022,-97.3083448
+629,Texas,2018-19,Ovilla Christian,Ellis,86.96,32.531065,-96.881832
+630,Texas,2018-19,St. James Episcopal School Corpus Christi,Nueces,86.96,27.7860005,-97.3977112
+631,Texas,2018-19,First Baptist Christian Academy,Harris,86.84,29.648543,-95.124149
+632,Texas,2018-19,Primrose School Of Eagle Ranch,Tarrant,86.67,32.8696303,-97.4272433
+633,Texas,2018-19,Texas School Of The Arts,Tarrant,86.67,32.6584279,-97.3330501
+634,Texas,2018-19,University Of Texas Elementary Charter,Travis,86.05,30.260267,-97.717467
+635,Texas,2018-19,Bethesda Christian,Tarrant,85.71,32.8301515,-97.2891591
+636,Texas,2018-19,Covenant Classical,Tarrant,85.71,32.743734,-97.497979
+637,Texas,2018-19,Excel Adventist Academy,Fort Bend,85.71,29.6019883,-95.5067983
+638,Texas,2018-19,Full Armor Christian Academy,Rusk,85.71,32.1619989,-94.7584265
+639,Texas,2018-19,Primrose School Of College Station,Brazos,85.71,30.5633008,-96.265796
+640,Texas,2018-19,Primrose School Of Plano West,Collin,85.71,33.03012,-96.839166
+641,Texas,2018-19,St. Paul Lutheran School Mcallen,Hidalgo,85.71,26.2178165,-98.2193881
+642,Texas,2018-19,Texas Empowerment Academy,Travis,85.71,30.2729976,-97.6724032
+643,Texas,2018-19,Trinity Lutheran School Amarillo,Potter,85.71,35.190457,-101.891997
+644,Texas,2018-19,Trinity School Of Texas Longview,Gregg,85.71,32.4995034,-94.7251695
+645,Texas,2018-19,East Fort Worth Montessori Academy,Tarrant,85.11,32.766134,-97.2571619
+646,Texas,2018-19,A W Brown Leadership Academy,Dallas,85.1,32.6776834,-96.8812487
+647,Texas,2018-19,First Baptist Academy Of Baytown,Harris,85,29.7600967,-94.9673796
+648,Texas,2018-19,Lake Country Christian,Tarrant,85,32.881538,-97.4275891
+649,Texas,2018-19,St. James Day School Texarkana,Bowie,85,33.4759515,-94.0445229
+650,Texas,2018-19,Texas Sch For The Deaf,Travis,85,30.2534338,-97.7512619
+651,Texas,2018-19,George Gervin Academy,Bexar,84.62,29.4917206,-98.4283606
+652,Texas,2018-19,St. Gregory Cathedral,Smith,84.62,32.3446206,-95.3015927
+653,Texas,2018-19,Trinity Christian Academy,Parker,84.62,32.735824,-97.642111
+654,Texas,2018-19,Plainview Christian Acad,Hale,84.21,34.1745151,-101.7427334
+655,Texas,2018-19,St. Mary's Central Catholic School - Odessa,Ector,84.09,31.8624303,-102.3714944
+656,Texas,2018-19,Inspired Vision Academy,Dallas,84.04,32.7433123,-96.6758275
+657,Texas,2018-19,Priority Charter Schools,Bell,84,31.1479632,-97.4571551
+658,Texas,2018-19,Texoma Christian,Grayson,84,33.6241256,-96.6503866
+659,Texas,2018-19,Aristoi Classical Academy,Harris,83.72,29.7966412,-95.8220748
+660,Texas,2018-19,Dallas International,Dallas,83.67,32.91763,-96.8017352
+661,Texas,2018-19,Bridgeway Preparatory Academy,Dallas,83.33,32.9319282,-96.8401615
+662,Texas,2018-19,Dallas Christian,Dallas,83.33,32.831299,-96.625994
+663,Texas,2018-19,Darul Arqam Southeast,Harris,83.33,29.6317969,-95.2073658
+664,Texas,2018-19,Grace Lutheran Early Child Midland,Midland,83.33,32.007608,-102.115993
+665,Texas,2018-19,Islamic School Of San Antonio,Bexar,83.33,29.5215857,-98.5632928
+666,Texas,2018-19,Kirby Hall,Travis,83.33,30.294549,-97.740342
+667,Texas,2018-19,Providence Preparatory,Bell,83.33,31.0620974,-97.4622775
+668,Texas,2018-19,Southwest Preparatory,Bexar,83.33,29.4887604,-98.4431425
+669,Texas,2018-19,Step Charter,Harris,83.33,29.657115,-95.5711037
+670,Texas,2018-19,The Westview,Harris,83.33,29.814675,-95.566615
+671,Texas,2018-19,Coram Deo Academy Of Collin County,Collin,82.98,33.1103508,-96.7518171
+672,Texas,2018-19,Grapevine Faith Christian,Tarrant,82.76,32.9373134,-97.0701766
+673,Texas,2018-19,Garland Christian Academy,Dallas,82.35,32.9252215,-96.6266481
+674,Texas,2018-19,Victory Baptist Academy,Parker,82.35,32.7560681,-97.7724445
+675,Texas,2018-19,Keene Adventist El,Johnson,81.82,32.389445,-97.333248
+676,Texas,2018-19,New Century Montessori Academy,Dallas,81.82,32.9750246,-96.6536644
+677,Texas,2018-19,The Covenant School Of Dallas,Dallas,81.25,32.925887,-96.7789852
+678,Texas,2018-19,The Oakridge,Tarrant,81.25,32.723717,-97.194207
+679,Texas,2018-19,Torah Day,Harris,81.25,29.6611516,-95.5090831
+680,Texas,2018-19,Allen Academy,Brazos,80.95,30.670848,-96.3158761
+681,Texas,2018-19,Lakeland Christian Academy,Denton,80.95,33.0436104,-97.008584
+682,Texas,2018-19,Saint Peter's Classical,Tarrant,80.95,32.6637936,-97.4282067
+683,Texas,2018-19,Brazos School For Inquiry & Creativity,Brazos,80.6,30.658247,-96.3672859
+684,Texas,2018-19,Ambleside School Of San Angelo,Tom Green,80,31.4605041,-100.4469322
+685,Texas,2018-19,Chaparral Star Academy,Travis,80,30.43799,-97.691775
+686,Texas,2018-19,Covenant Christian,Montgomery,80,30.3748224,-95.4879503
+687,Texas,2018-19,Good Tree Academy,Collin,80,33.0460969,-96.6962314
+688,Texas,2018-19,Harvest Christian Academy,Tarrant,80,32.8750357,-97.2606499
+689,Texas,2018-19,Itop Christian Academy,Tarrant,80,32.7455224,-97.2987267
+690,Texas,2018-19,Legacy Preperatory Christian Academy,Montgomery,80,30.2180326,-95.5564109
+691,Texas,2018-19,Pantego Christian Academy,Tarrant,80,32.7219985,-97.1417256
+692,Texas,2018-19,Park Row Christian Academy,Tarrant,80,32.7217388,-97.1184398
+693,Texas,2018-19,San Marcos Adventist Junior Academy,Hays,80,29.8938235,-97.9600619
+694,Texas,2018-19,St. Paul Lutheran School Bishop,Nueces,80,27.582647,-97.7900618
+695,Texas,2018-19,Terlingua CSD,Brewster,80,29.3612936,-103.6362715
+696,Texas,2018-19,Trinity Christian Academy Paris,Lamar,80,33.6832939,-95.578694
+697,Texas,2018-19,Ume Preparatory Academy,Dallas,80,32.6951036,-96.9346469
+698,Texas,2018-19,Wesley Academy,Harris,80,29.7238018,-95.5545581
+699,Texas,2018-19,Faith Academy,Austin,78.95,29.9199091,-96.2426872
+700,Texas,2018-19,South Texas Christian Academy,Hidalgo,78.57,26.2695292,-98.2521691
+701,Texas,2018-19,Esprit International,Montgomery,77.78,30.1670468,-95.4999182
+702,Texas,2018-19,Holy Trinity Episcopal School Houston,Harris,77.78,29.8953501,-95.2106296
+703,Texas,2018-19,King's Academy Christian,Smith,77.78,32.269047,-95.306247
+704,Texas,2018-19,Montessori Academy Of North Texas,Grayson,77.78,33.659078,-96.60423
+705,Texas,2018-19,Poetry Community Christian Schools,Kaufman,77.78,32.8235644,-96.2470947
+706,Texas,2018-19,Waco Baptist Academy,Mclennan,77.78,31.5889565,-97.1723903
+707,Texas,2018-19,Waxahachie Preparatory Academy,Ellis,77.78,32.4583526,-96.8211847
+708,Texas,2018-19,Abiding Word Lutheran,Harris,76.92,30.0189745,-95.4455544
+709,Texas,2018-19,Denton Calvary Academy,Denton,76.92,33.2346743,-97.1092318
+710,Texas,2018-19,International School Of Texas,Travis,76.92,30.404557,-97.927911
+711,Texas,2018-19,Hill Country Christian School Of Austin,Travis,76.67,30.4644625,-97.8188156
+712,Texas,2018-19,Liberty Christian H S,Denton,76.36,33.0835096,-97.191112
+713,Texas,2018-19,Grace Academy Of Georgetown,Williamson,75.86,30.7228208,-97.6638895
+714,Texas,2018-19,The Woodlands Christian Academy,Montgomery,75.76,30.205294,-95.487703
+715,Texas,2018-19,Headwaters,Travis,75.61,30.1881435,-97.8462402
+716,Texas,2018-19,Abercrombie Academy,Harris,75,30.0203916,-95.5340888
+717,Texas,2018-19,Alliance Christian Academy,Tarrant,75,32.9392762,-97.3229863
+718,Texas,2018-19,Community Christian School-Mineral Wells,Palo Pinto,75,32.789258,-98.0769978
+719,Texas,2018-19,Faith Academy Of Marble Falls,Burnet,75,30.5794481,-98.228089
+720,Texas,2018-19,Grace Episcopal Preschool,Williamson,75,30.6329418,-97.6638089
+721,Texas,2018-19,Grace Lutheran,Washington,75,30.1690707,-96.4151874
+722,Texas,2018-19,Mission Bend Christian Academy,Harris,75,29.7169558,-95.6454664
+723,Texas,2018-19,Temple Christian Academy,Denton,75,33.0096733,-97.0687561
+724,Texas,2018-19,Ser-Ninos Charter,Harris,74.58,29.7166167,-95.4790835
+725,Texas,2018-19,Gloria Deo Academy,Comal,74.07,29.776583,-98.4604842
+726,Texas,2018-19,Goodwater Montessori,Williamson,73.91,30.670505,-97.654117
+727,Texas,2018-19,Pines Montessori,Harris,73.68,30.054833,-95.201045
+728,Texas,2018-19,Village Tech Schools,Dallas,73.17,32.6316168,-96.9163015
+729,Texas,2018-19,First Baptist Christian School Marble Falls,Burnet,72.73,30.5573076,-98.2765782
+730,Texas,2018-19,Kingdom Preparatory,Lubbock,72.73,33.537047,-101.933661
+731,Texas,2018-19,Oak Hill Academy,Dallas,72.73,32.8675234,-96.8386509
+732,Texas,2018-19,Primrose School Of Bee Cave,Travis,72.73,30.3087042,-97.9355589
+733,Texas,2018-19,Valor Public Schools,Travis,72.6,30.1792753,-97.7798565
+734,Texas,2018-19,Wayside Schools,Travis,72.28,30.1913271,-97.767052
+735,Texas,2018-19,Trinity Episcopal School Galveston,Galveston,72,29.3024649,-94.792333
+736,Texas,2018-19,Coram Deo Academy,Dallas,71.43,32.9249747,-96.7733468
+737,Texas,2018-19,Cornerstone Christian Academy Granbury,Hood,71.43,32.4379277,-97.7000571
+738,Texas,2018-19,Morning Star Academy,Fannin,71.43,33.617411,-96.1940106
+739,Texas,2018-19,North Dallas Adventist Academy,Dallas,71.43,32.99524,-96.7278774
+740,Texas,2018-19,Primrose School Of Old Orchard,Denton,71.43,33.009775,-97.025978
+741,Texas,2018-19,The Selwyn,Denton,71.43,33.1204409,-97.1074614
+742,Texas,2018-19,Collin County Cornerstone Christian Acad,Collin,70.59,33.1909181,-96.621844
+743,Texas,2018-19,St. Paul Serbin Lutheran School Giddings,Lee,70,30.114484,-96.9888119
+744,Texas,2018-19,Veritas Academy,Travis,69.23,30.1651182,-97.9147866
+745,Texas,2018-19,Waypoint Montessori,Tarrant,68.18,32.8918442,-97.1434138
+746,Texas,2018-19,Wylie Preparatory,Collin,68.18,33.0277946,-96.4920475
+747,Texas,2018-19,Cleburne Christian Academy,Johnson,66.67,32.3240078,-97.402638
+748,Texas,2018-19,Cross Point Preschool Katy,Harris,66.67,29.7794658,-95.7374694
+749,Texas,2018-19,Dalhart Christian Academy,Dallam,66.67,36.0508746,-102.5134615
+750,Texas,2018-19,Firewheel Christian Academy,Dallas,66.67,32.9662065,-96.6085
+751,Texas,2018-19,Iant Quranic Academy,Dallas,66.67,32.9395459,-96.7307163
+752,Texas,2018-19,Koan,Denton,66.67,33.240151,-97.058892
+753,Texas,2018-19,San Martin De Porres Catholic,Hidalgo,66.67,26.1709699,-97.9917179
+754,Texas,2018-19,The Monarch,Harris,66.67,29.8237374,-95.5378711
+755,Texas,2018-19,Live Oak Classical,Mclennan,65.52,31.5550385,-97.1275413
+756,Texas,2018-19,Brazosport Christian,Brazoria,64.29,29.045002,-95.4258323
+757,Texas,2018-19,Alief Montessori Community,Harris,64.1,29.7127377,-95.5904076
+758,Texas,2018-19,Austin Discovery,Travis,63.51,30.2677535,-97.635
+759,Texas,2018-19,Bannockburn Christian Academy,Travis,62.5,30.2124445,-97.8322658
+760,Texas,2018-19,Christian Life Preparatory,Tarrant,62.5,32.6421059,-97.4040474
+761,Texas,2018-19,St. Paul's Preparatory Academy,Tarrant,61.9,32.6362864,-97.181019
+762,Texas,2018-19,Mckinney Christian Academy,Collin,61.54,33.203893,-96.659496
+763,Texas,2018-19,Austin Waldorf,Travis,58.82,30.2314147,-97.912796
+764,Texas,2018-19,Lubbock Christian,Lubbock,57.89,33.5700971,-101.9346982
+765,Texas,2018-19,Bethany Christian,Collin,57.14,33.040451,-96.756693
+766,Texas,2018-19,Joshua Adventist Multi-Gr Sch,Johnson,55.56,32.4564275,-97.3536407
+767,Texas,2018-19,Ambleside School Of Fredericksburg,Gillespie,54.55,30.2778588,-98.8887354
+768,Texas,2018-19,The Connection School Of Houston,Harris,53.85,29.9676023,-95.6993958
+769,Texas,2018-19,Primrose School Of Kelliwood,Harris,52.38,29.749224,-95.734262
+770,Texas,2018-19,Al-Hadi School Of Accelerated Learning,Harris,50,29.7419895,-95.500217
+771,Texas,2018-19,Alpine Christian,Brewster,50,32.5352961,-94.7198179
+772,Texas,2018-19,Messiah Classical Academy,Tarrant,50,32.9115,-97.253798
+773,Texas,2018-19,Pilgrim Lutheran School Houston,Harris,50,29.6877284,-95.4757233
+774,Texas,2018-19,The Oaks Adventist Christian,Harris,50,29.9742494,-95.6009552
+775,Texas,2018-19,Paratus Classical Academy,Harris,45.45,29.798915,-95.5130279
+776,Texas,2018-19,Guthrie CSD,King,33.33,33.6234868,-100.3243196
+777,Texas,2018-19,Crown Of Life Lutheran School Colleyville,Tarrant,16.67,32.906017,-97.155945
